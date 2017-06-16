@@ -35,7 +35,6 @@ layout: null
                             <meta charset="utf-8">
                             <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
                             <meta property="op:markup_version" content="v1.0">
-                            <meta property="fb:article_style" content="myarticlestyle">
                         </head>
                         <body>
                             <article>
