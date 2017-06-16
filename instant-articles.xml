@@ -81,8 +81,9 @@ layout: null
                     {{ post.excerpt | xml_escape }}
                     {% endif %}
                 </description>
+                 <author>{{ post.author.name }}</author>
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <author>{{ post.author }}</author>
+               
             </item>
         {% endunless %}
     {% endfor %}
