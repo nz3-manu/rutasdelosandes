@@ -1,2 +1,2 @@
-# hiking in the andes 
-repository for website [hiking in the andes](http://hikingintheandes.com/)
+# rutas de los andes
+repositorio para [rutas de los andes](http://rutasdelosandes.com/)
