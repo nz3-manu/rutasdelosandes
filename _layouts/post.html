@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="post-improve">
+    <a href="{{ site.github }}/{{ page.path }}"><i class="fa fa-pencil"></i> &nbsp; Any help is welcome  Improve this page</a>
+  </div>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="warning">
+      <i class="fa fa-exclamation-circle fa-2" aria-hidden="true"></i>
+      <b>
+        <i>please keep in mind these rules when hittin' the trail</i>
+      </b>
+      <ul>
+        <li>Leave not trace</li>
+        <li>Dispose of waste  properly</li>
+        <li>Leave what you find (Take only pictures, leave only footprints.)</li>
+        <li>Minimize campfire impacts </li>
+        <li>Respect wildlife</li>
+        <li>Be considerate with other visitors</li>
+      </ul>
+    </div>
+    {{ content }}
+  </div>
+</article>

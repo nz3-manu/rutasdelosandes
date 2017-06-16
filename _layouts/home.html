@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Lesser-known payoff hikes written by locals in colombia</h1>
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <a class="post-home_link" href="{{ post.url | relative_url }}">
+          <h2>{{ post.title | escape }}</h2>
+          <div class="post-home_description">
+            <span class="post-home_thumbnail">
+               <amp-img src="{{post.image}}" 
+                        layout="responsive"
+                        alt="{{post.thumbnail_alt}}" 
+                        height="370" 
+                        width="700"/>
+                        <div fallback>please check your internet connection</div>
+               </amp-img>
+            </span>
+            <span class="post-home_excerpt">{{ post.excerpt }}</span>
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
