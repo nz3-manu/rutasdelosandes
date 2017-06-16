@@ -2,6 +2,7 @@
 layout: post
 title:  "El camino del quimbaya"
 date:   2017-05-22 21:12:07 -0500
+modified:   2017-06-16 16:16:01 -0500
 categories: senderismo pereira excursionismo 
 excerpt: 16.79 km lenght trail between marsella and pereira risaralda, this trail lead to a wonderfull view of pereira
 thumbnail_alt: quimbayian trail
