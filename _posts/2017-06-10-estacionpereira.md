@@ -14,6 +14,6 @@ author:
     description: un montañero mas
 ---
 
-# this is an article in progress
+# este es un post en progreso
 
-this is a post in progress
+post en progreso
