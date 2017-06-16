@@ -10,6 +10,8 @@ There are hundreds of trails throughout colombia andes mountains that lead to go
 
 if you want to avoid the crowds while still having a good time, get in touch with nature by checking out the trail guide below. These off-the-beaten-path trails are sure to spark your imagination and give you something new to explore.
 
+
+
 ## Discover these off-the-beaten-path trails
 
 
