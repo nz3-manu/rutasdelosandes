@@ -20,7 +20,7 @@ protect them land, Nona was the name of the cacique and main warrior of the quim
 the field became him a legend, this trail is in his honor that's why the name is "sendero natural cacique nona"
 
 <figure>
-<amp-img src="/images/2017-05-21_10-02-20_o.jpg" layout="responsive" alt="Bienvenido" height="771" width="1028"></amp-img>
+<amp-img src="{{site.url}}/images/2017-05-21_10-02-20_o.jpg" layout="responsive" alt="Bienvenido" height="771" width="1028"></amp-img>
 </figure>
  
  the "cacique la nona" trail goes from *Mirador Parque Regional Natural Serrania Alto El Nudo* to
