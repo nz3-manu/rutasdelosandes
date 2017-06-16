@@ -64,7 +64,7 @@ layout: null
                             {% if post.instantfeedback %}
                                 {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
                             {% else %}
-                                {{ post.content }}
+                                {{ post.content | replace: "amp-img", "img" | replace: "amp-iframe", "iframe" }} 
                             {% endif %}
                                 <footer>
                                     <aside>
