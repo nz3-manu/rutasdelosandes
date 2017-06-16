@@ -19,7 +19,9 @@ is the name of the first settlers in the coffee region(500 b.c. - 600 a.d), they
 protect them land, Nona was the name of the cacique and main warrior of the quimbayian tribe, his courage and strength in 
 the field became him a legend, this trail is in his honor that's why the name is "sendero natural cacique nona"
 
+<figure>
 <amp-img src="/images/2017-05-21_10-02-20_o.jpg" layout="responsive" alt="Bienvenido" height="771" width="1028"></amp-img>
+</figure>
  
  the "cacique la nona" trail goes from *Mirador Parque Regional Natural Serrania Alto El Nudo* to
   *Reserva forestal la nona-Casa de la carder* ranger's houses 
@@ -42,15 +44,17 @@ the field became him a legend, this trail is in his honor that's why the name is
   * Take a bus marsella-pereira in the bus terminal, get off of the bus in la nona 
   if you choose this option(this is the route i tracked in the map below) you will have to walk 40 minutes until you get to the "la convension" town 
 
+<figure>
 <amp-img src="https://s2.wklcdn.com/image_97/2927161/17867167/11275334.jpg" layout="responsive" alt="Bienvenido" height="525" width="700"></amp-img>
+</figure>
 
 
-  <amp-iframe width="200" height="200"
-      sandbox="allow-scripts allow-same-origin"
-      layout="responsive"
-      frameborder="0"
-      src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=17867164&measures=off&title=off&near=off&images=off&maptype=S">
-  </amp-iframe>
+<amp-iframe width="200" height="200"
+    sandbox="allow-scripts allow-same-origin"
+    layout="responsive"
+    frameborder="0"
+    src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=17867164&measures=off&title=off&near=off&images=off&maptype=S">
+</amp-iframe>
 
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization
