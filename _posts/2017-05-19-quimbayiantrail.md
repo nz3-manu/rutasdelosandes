@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El camino del quimbaya"
+title:  El camino del quimbaya
 date:   2017-05-23 21:12:07 -0500
 modified:   2017-06-16 13:16:01 -0500
 categories: senderismo pereira excursionismo 
