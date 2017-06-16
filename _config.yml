@@ -10,17 +10,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Not-So-Beaten Paths in colombia andes
+title: Senderos y rutas escritas por locales de los andes colombias
 logo: /images/logo.png
 email: tuxgabo@gmail.com
-description: Lesser-Known payoff Hikes in  Colombia andes mountains discovered by locals, avoid crowds and get again the feelings of discover and adventure
+description: descubre hermosas y poco conocidas rutas en los andes colombianos, evade multitudes en el camino y descubre las mas bellas especies y paisajes en tus rutas de senderismo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hikingintheandes.com" # the base hostname & protocol for your site, e.g. http://example.com
-github: "https://github.com/jg-rc/takeahike/edit/master"
+url: "http://rutasdelosandes.com" # the base hostname & protocol for your site, e.g. http://example.com
+github: "https://github.com/jg-rc/rutasdelosandes/edit/master"
 twitter_username: _jgrc_
 github_username:  jg-rc
 googlemaps_key: AIzaSyAz1r9qDIaA7lGoMdW7VPpvic7JXZjCdls
-google_analytics: UA-100391485-1
+google_analytics: UA-100391485-2
 #permalink built in style
 permalink: /:categories/:title
 disqus:
