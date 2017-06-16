@@ -26,6 +26,7 @@ layout: null
                             <meta charset="utf-8">
                             <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
                             <meta property="op:markup_version" content="v1.0">
+                            <meta property="fb:article_style" content="myarticlestyle">
                         </head>
                         <body>
                             <article>
@@ -42,6 +43,16 @@ layout: null
                                     <figcaption>{{ post.title }}</figcaption>
                                 </figure>
                                 {% endif %}
+                                <!-- A kicker for your article -->
+                                <h3 class="op-kicker">
+                                    This is a kicker
+                                </h3>
+
+                                <!-- The author of your article -->
+                                <address>
+                                    <a rel="facebook" href="{{ post.author.profile }}">{{ post.author.name }}</a>
+                                    {{ post.author.description }}
+                                </address>
                                 <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                                 <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
                             </header>
@@ -55,7 +66,7 @@ layout: null
                                         {% if post.credit %}
                                         {{ post.credit }}.<br />
                                         {% endif %}
-                                        Written by {{ post.author }} 
+                                        Written by {{ post.author.name }} 
                                     </aside>
                             </footer>
                             </article>
