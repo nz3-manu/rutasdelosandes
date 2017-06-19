@@ -13,7 +13,6 @@ layout: null
     <lastBuildDate>2014-12-11T04:44:16Z</lastBuildDate>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <language>es-co</language>
-    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
     {% for post in site.posts %}
         {% unless post.link %}
             <item>
