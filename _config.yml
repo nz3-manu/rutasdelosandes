@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Senderos y rutas escritas por locales de los andes colombias
-logo: /images/logo.png
+logo: /images/andesLogoSmall.png
 owner: juan gabriel
 email: tuxgabo@gmail.com
 description: descubre hermosas y poco conocidas rutas en los andes colombianos, evade multitudes en el camino y descubre las mas bellas especies y paisajes en tus rutas de senderismo
