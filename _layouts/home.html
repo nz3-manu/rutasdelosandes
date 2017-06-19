@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Rutas poco conocidas y que valen la pena conocer escritas por gente de la region andina colombiana</h1>
+  <h1 class="page-heading">Lesser-known payoff hikes written by locals in colombia</h1>
   {{ content }}
 
   <ul class="post-list">
@@ -13,12 +13,12 @@ layout: default
           <h2>{{ post.title | escape }}</h2>
           <div class="post-home_description">
             <span class="post-home_thumbnail">
-               <amp-img src="{{post.image}}" 
+               <amp-img src="/images/{{post.image}}" 
                         layout="responsive"
                         alt="{{post.thumbnail_alt}}" 
                         height="370" 
                         width="700"/>
-                        <div fallback>por favor revisa tu conexión a internet</div>
+                        <div fallback>please check your internet connection</div>
                </amp-img>
             </span>
             <span class="post-home_excerpt">{{ post.excerpt }}</span>
@@ -28,6 +28,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribete a nuestro rss <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>

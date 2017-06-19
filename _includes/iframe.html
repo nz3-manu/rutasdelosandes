@@ -1,0 +1,12 @@
+<figure class="op-interactive">
+  <amp-iframe 
+    width="{{ include.width | default: "200" }}"
+    height="{{ include.height | default: "200" }}" 
+    sandbox="allow-scripts allow-same-origin"
+    class="no-margin"
+    layout="responsive"
+    frameborder="0"
+    src="{{ include.src }}">
+  </amp-iframe>
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
