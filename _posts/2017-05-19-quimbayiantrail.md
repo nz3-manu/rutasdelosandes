@@ -19,7 +19,7 @@ protect them land, Nona was the name of the cacique and main warrior of the quim
 the field became him a legend, this trail is in his honor that's why the name is "sendero natural cacique nona"
 
 {% include image.html 
-   file="/quimbaya/2017-05-21_10-02-20_o.jpg" 
+   file="quimbaya/2017-05-21_10-02-20_o.jpg" 
    caption="cacique nona trail map"
 %} 
 
@@ -41,7 +41,7 @@ The entry point to the trail is the *Reserva forestal la nona-Casa de la carder*
 away from a small town called "la convencion", there are two ways you can get there 
 
 {% include image.html 
-    file="/quimbaya/convencion.jpg"
+    file="quimbaya/convencion.jpg"
     height="525" 
     width="700"
     caption="la convecion school"
