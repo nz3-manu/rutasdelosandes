@@ -1,0 +1,18 @@
+{
+    "gabo": {
+        "name": "juan gabriel ramirez",
+        "picture": "/images/authors/gabo.jpg",
+        "twitter": "_jgrc_",
+        "facebook": "https://www.facebook.com/jgramirezc",
+        "color": "blue",
+        "description": "i was born inside the mountains and i like to be between them"
+    },
+    "manuel": {
+        "name": "manuel alejandro ramirez",
+        "picture": "/images/authors/manuel.jpg",
+        "twitter": "adictovirtual",
+        "facebook": "https://www.facebook.com/nz3.manu",
+        "color": "green",
+        "description": "esto es una descripcion"
+    }
+}

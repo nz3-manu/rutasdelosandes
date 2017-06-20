@@ -119,7 +119,7 @@
     .post-list { margin-left: 0; list-style: none; }
     .post-list > li { margin-bottom: 30px; }
 
-    .post-meta { font-size: 14px; color: #828282; }
+    .post-meta { display:flex;font-size: 14px; color: #828282; }
 
     .post-link { display: block; font-size: 24px; }
 
@@ -180,6 +180,39 @@
         vertical-align: middle;
         font-weight: bolder;
         padding-top:100px;
+    }
+    .author_avatar{
+      position:relative;
+      margin-right: 15px;
+    }
+    .author_avatar-img{
+      width: 60px;
+      height: 60px;
+      vertical-align: middle;
+      border-radius: 100%;
+    }
+    .author_avatar-svg{
+      position:absolute;
+      top: -6px;
+      left: -6px;
+      width: calc(100% + 12px);
+      height: calc(100% + 12px);
+    }
+    .green{ 
+      fill: green;
+      color: green;
+    }
+    .blue{
+      fill: blue;
+      color: blue;
+    }
+    .author_twitter{
+      display: inline-block;
+      margin: 0 2px;
+    }
+    .author_facebook{
+      display: inline-block;
+      margin: 0 2px;
     }
     @media (min-width: 740px) {
       .post-home_description {
