@@ -6,7 +6,7 @@ categories: colombia
 excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda casaca despues de una caminata corta
 thumbnail_alt: estacion pereira combia la playita
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-image: /estacion/garrucha.jpg
+image: /images/estacion/garrucha.jpg
 author: manuel
 ---
 

@@ -42,7 +42,7 @@ layout: null
                                 <h1>{{ post.title | xml_escape }}</h1>
                                 {% if post.image %}
                                     <figure>
-                                        <img src="{{ post.image | prepend: "/images" | prepend: site.url }}" alt=" {{ post.title }} ">
+                                        <img src="{{ post.image |  prepend: site.url }}" alt=" {{ post.title }} ">
                                         <figcaption>{{ post.title }}</figcaption>
                                     </figure>                          
                                 {% endif %}
