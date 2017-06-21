@@ -67,13 +67,8 @@ layout: null
                                 {{ post.content | replace: "amp-img", "img" | replace: "</img>", "" | replace: "amp-iframe", "iframe"  }} 
                             {% endif %}
                                 <footer>
-                                    <aside>
-                                        {% if post.credit %}
-                                        {{ post.credit }}.<br />
-                                        {% endif %}
-                                        Written by {{ post.author.name }} 
-                                    </aside>
-                            </footer>
+                                   
+                                </footer>
                             </article>
                         </body>
                     </html>
