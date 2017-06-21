@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Estacion pereira
-modified:   2017-06-17 13:16:01 -0500
+modified:   2017-06-18 13:16:01 -0500
 categories: colombia 
-excerpt: 16.32 km length trail in quinchia risaralda, you will get an amazing view of quinchia and some small towns
-thumbnail_alt: quinchia cerro batero
+excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda casaca despues de una caminata corta
+thumbnail_alt: estacion pereira combia la playita
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-image: /batero/batero.jpg
+image: /estacion/garrucha.jpg
 author: manuel
 ---
 
@@ -34,35 +34,45 @@ https://www.google.com/maps/embed/v1/directions?key={{site.googlemaps_key}}&orig
     caption="casique nona start and end point"
 %}
  
-
-
-
-
-
-
  <h3> Transporte en marrana </h3>
 
 Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita” el cual consiste en una moto que va por las antiguas vías del tren impulsando una plataforma de madera en las cuales van sentando las personas, Este medio de transporte es muy común entre los pobladores ya que es una forma rápida para transportarse.
 
 **Por favor Aclarar al conductor que nos dirigimos a la garruncha que va a la finca la playita**
 
-_Foto de la marrana_
+{% include image.html 
+   file="estacion/marrana.jpg" 
+   caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+   width="800"
+   height="704"
+%} 
 
 El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 minutos.
 
-### Cruzar el rio Cauca en "garrucha"
+### Cruzar el rio cauca en "garrucha" 🏞
 
 Como tramo final del recorrido llegamos a un lugar donde debemos cruzar el rio cauca en una garrucha la cual es un medio de transporte que consiste en un cable grueso que cruza el río de ambas orillas al cual se adapta una polea y una caja grande de madera y acero en donde caben de 5 a 6 personas, se desliza el canasto hasta la mitad del río y las personas que van dentro de él por sus propios medios deben llegar al otro lado de la orilla impulsandose del cable grueso.
 
 
-_Foto de la garrucha_
-
+{% include image.html 
+   file="estacion/garrucha.jpg" 
+   caption="garrucha cruzando el rio cauca podemos ver en su interior alguien halando el cable para impulsarla "
+   width="800"
+   height="450"
+%} 
 
 Después de haber cruzado el río cauca nos encontraremos en la finca la Playita donde se puede acampar el costo es de 6 mil pesos por carpa, habitaciòn privada 2 personas 26 mil pesos, la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca Teléfono: 3117007797.
 
-_Foto de las cascadas_
-
 iniciamos el recorrido a las cascadas las cuales están a 30 minutos caminando por una camino muy señalizado 
+
+{% include image.html 
+   file="estacion/cascada.jpg" 
+   caption="esta cascada esta a unos 20 minutos caminando desde la finca 'la playita' por un sendero muy señalizado"
+   width="800"
+   height="600"
+%} 
+
+
 
 
 
