@@ -1,18 +1,18 @@
 {
     "gabo": {
         "name": "juan gabriel ramirez",
-        "picture": "/images/authors/gabo.jpg",
         "twitter": "_jgrc_",
         "facebook": "https://www.facebook.com/jgramirezc",
         "color": "blue",
+        "facebookId":"601094299",
         "description": "un montañero mas"    
     },
     "manuel": {
         "name": "manuel alejandro ramirez",
-        "picture": "/images/authors/manuel.jpg",
         "twitter": "adictovirtual",
         "facebook": "https://www.facebook.com/nz3.manu",
         "color": "green",
+        "facebookId":"601094299",
         "description": "esto es una descripcion"
     }
 }
