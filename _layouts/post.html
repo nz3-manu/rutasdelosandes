@@ -53,6 +53,11 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    <ul class="tags">
+      {% for tag in page.tags %}
+        <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
     <div class="warning">
       <i class="fa fa-exclamation-circle fa-2" aria-hidden="true"></i>
       <b>
