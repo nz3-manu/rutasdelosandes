@@ -41,19 +41,11 @@ layout: null
                             <header>
                                 <h1>{{ post.title | xml_escape }}</h1>
                                 {% if post.image %}
-                                <figure>
-                                    <img src="{{ post.image | prepend: "/images" | prepend: site.url }}" alt=" {{ post.title }} ">
-                                    <figcaption>{{ post.title }}</figcaption>
-                                </figure>
-                                {% else %}
-                                <figure>
-                                    <img src="{{ site.baseurl |  prepend: site.url }}/images/sitelogo_640x492.png" alt=" {{ post.title }} ">
-                                    <figcaption>{{ post.title }}</figcaption>
-                                </figure>
+                                    <figure>
+                                        <img src="{{ post.image | prepend: "/images" | prepend: site.url }}" alt=" {{ post.title }} ">
+                                        <figcaption>{{ post.title }}</figcaption>
+                                    </figure>                          
                                 {% endif %}
-                                <h3 class="op-kicker">
-                                    This is a kicker
-                                </h3>
                                 <address>
                                     <a rel="facebook" href="{{ authorInfo.facebook }}">{{ authorInfo.name }}</a>
                                     {{ authorInfo.description }}
