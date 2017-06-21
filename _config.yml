@@ -1,23 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Senderos y rutas escritas por locales de los andes colombias
 logo: /images/andesLogoSmall.png
 owner: juan gabriel
 email: tuxgabo@gmail.com
 description: descubre hermosas y poco conocidas rutas en los andes colombianos, evade multitudes en el camino y descubre las mas bellas especies y paisajes en tus rutas de senderismo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rutasdelosandes.com" # the base hostname & protocol for your site, e.g. http://example.com
-github: "https://github.com/jg-rc/rutasdelosandes/edit/master"
+lang: es
+url: http://rutasdelosandes.com # the base hostname & protocol for your site, e.g. http://example.com
+alternative_lang: en
+alternative_url: http://hikingintheandes.com # alternative version
+github: https://github.com/jg-rc/rutasdelosandes/edit/master
 twitter_username: _jgrc_
 github_username:  jg-rc
 googlemaps_key: AIzaSyAz1r9qDIaA7lGoMdW7VPpvic7JXZjCdls

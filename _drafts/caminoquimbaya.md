@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  El camino del quimbaya
+alt_url: /colombia/caminoquimbaya
 modified:   2017-06-18 13:16:01 -0500
 categories: colombia 
+tags: zonacafetera pereira marsella
 excerpt: 16.79 km lenght trail between marsella and pereira risaralda, this trail lead to a wonderfull view of pereira
-thumbnail_alt: quimbayian trail
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /quimbaya/quimbayian_thumbnail.jpg
 author: gabo

@@ -12,6 +12,8 @@
   <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
   <meta property="fb:pages" content="{{ site.instant_pages }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="alternate" hreflang="{{site.lang}}" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" hreflang="{{site.alternative_lang}}" href="{{ site.alternative_url }}{{page.alt_url | default: page.url}}">
    <style amp-custom>
       /** Reset some basic elements */
     body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
