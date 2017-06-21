@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  la estrella de agua
-modified:   2017-06-16 13:16:01 -0500
+modified:   2017-06-17 13:16:01 -0500
 categories: senderismo pereira excursionismo 
 excerpt: 16.79 km lenght trail between marsella and pereira risaralda, this trail lead to a wonderfull view of pereira
 thumbnail_alt: quimbayian trail
