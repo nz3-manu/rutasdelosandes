@@ -17,7 +17,7 @@ author: daniel
     layout="responsive"
     type="slides"
     autoplay
-    delay="3000">
+    delay="4000">
   <amp-img src="/images/quimbaya/slide3.jpg"
     width="800"
     height="1067"
