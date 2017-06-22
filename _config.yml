@@ -8,6 +8,7 @@ lang: es
 url: http://rutasdelosandes.com # the base hostname & protocol for your site, e.g. http://example.com
 alternative_lang: en
 alternative_url: http://hikingintheandes.com # alternative version
+fbpage: https://www.facebook.com/rutasdelosandes0/
 github: https://github.com/jg-rc/rutasdelosandes/edit/master
 twitter_username: _jgrc_
 github_username:  jg-rc
