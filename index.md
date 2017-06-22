@@ -10,10 +10,7 @@ poder observar algunas de esas especies en su habitad natural.
 
 Rutas de los andes documenta rutas de senderismo poco conocidas escritas por locales de cada region de los andes colombianos.
 
-
-
-
-## Animate y recorre algunos de esos bellos senderos
+Animate y recorre algunos de esos bellos senderos
 
 
 
