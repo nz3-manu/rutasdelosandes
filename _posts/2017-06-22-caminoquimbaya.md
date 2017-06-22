@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  El camino del quimbaya
-alt_url: /colombia/caminoquimbaya
+alt_url: /colombia/quimbayiantrail
 modified:   2017-06-18 13:16:01 -0500
 categories: colombia 
 tags: zonacafetera pereira marsella
