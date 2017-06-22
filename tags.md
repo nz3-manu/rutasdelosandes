@@ -3,8 +3,6 @@ layout: page
 title: tags
 permalink: /tags/
 ---
-
-
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
@@ -29,16 +27,24 @@ to the `site_tags` variable. -->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-      <div>
-        <span style="float: left;">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </span>
-        <span style="float: right;">
-          {{ post.date | date_to_string }}
-        </span>
-      </div>
-      <div style="clear: both;"></div>
-    {% endif %}{% endfor %}
+     <div class="tag_container">
+      {% for post in site.tags[this_word] %}{% if post.title != null %} 
+          <a class="tag_post" href="{{ post.url }}">
+            <div class="post-thumbnail">
+              <amp-img  src="{{post.image}}" 
+                        layout="responsive"
+                        alt="{{post.thumbnail_alt}}" 
+                        height="370" 
+                        width="700"/>
+            </div>
+            <div>
+              {{ post.title }}
+            </div>
+            <span>
+            {{ post.date | date_to_string }}
+          </span>
+          </a>   
+      {% endif %}{% endfor %}
+    </div>
   {% endunless %}{% endfor %}
 </div>
