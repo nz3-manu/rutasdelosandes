@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -60,8 +61,22 @@
     pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
     /** Wrapper */
-    .wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
-    @media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+    .wrapper { 
+        max-width: -webkit-calc(800px - (30px * 2)); 
+        max-width: calc(800px - (30px * 2)); 
+        margin-right: auto; 
+        margin-left: auto; 
+        padding-right: 30px; 
+        padding-left: 30px; 
+      }
+    @media screen and (max-width: 800px) { 
+      .wrapper { 
+        max-width: -webkit-calc(800px - (20px)); 
+        max-width: calc(800px - (20px)); 
+        padding-right: 10px;
+        padding-left: 10px;
+      } 
+      }
 
     /** Clearfix */
     .wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }
@@ -142,6 +157,7 @@
       background-color: #fcf8e3;
       border-color: #faebcc;
       color: #8a6d3b;
+      font:14px;
     }
     .post-home_link {
         color: black;
@@ -186,11 +202,22 @@
       position:relative;
       margin-right: 15px;
     }
+    .author_name{
+      color: black;
+      font-family: fantasy;
+      font-size: 17px;
+    }
+    .author_description{
+
+    }
     .author_avatar-img{
       width: 70px;
       height: 70px;
       vertical-align: middle;
       border-radius: 100%;
+    }
+    .author_published-date{
+      font-size: 10px;
     }
     .author_avatar-svg{
       position:absolute;
@@ -207,13 +234,19 @@
       fill: blue;
       color: blue;
     }
+    .red{
+      fill:Red;
+      color: red;
+    }
     .author_twitter{
       display: inline-block;
       margin: 0 2px;
+      height: 25px;
     }
     .author_facebook{
       display: inline-block;
       margin: 0 2px;
+      height: 25px;
     }
     .tags {
       color: #999;

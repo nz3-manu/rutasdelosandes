@@ -11,12 +11,14 @@ layout: default
       {% if page.author %}
       {% assign authorInfo = site.data.authors[page.author] %}  
       <div class="author_avatar">
-          <amp-img class="author_avatar-img" 
+          <div>
+            <amp-img class="author_avatar-img"
                    src="https://graph.facebook.com/{{ authorInfo.facebookId }}/picture?type=normal"
                    alt=""
                    width=70px
                    height=70px
                    >
+          </div>
           <div class="author_avatar-svg {{authorInfo.color}}">
             <svg viewBox="0 0 114 114" xmlns="http://www.w3.org/2000/svg">
               <path d="M7.66922967,32.092726 C17.0070768,13.6353618 35.9421928,1.75 57,1.75 C78.0578072,1.75 96.9929232,13.6353618 106.33077,32.092726 L107.66923,31.4155801 C98.0784505,12.4582656 78.6289015,0.25 57,0.25 C35.3710985,0.25 15.9215495,12.4582656 6.33077033,31.4155801 L7.66922967,32.092726 Z">
@@ -44,7 +46,7 @@ layout: default
           </a>
           <div class="author_description">{{ authorInfo.description }}</div>
           {% endif %}
-          <time datetime="{{ page.date | date_to_xmlschema }}">
+          <time class="author_published-date" datetime="{{ page.date | date_to_xmlschema }}">
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             {{ page.date | date: date_format }}
           </time>
@@ -58,6 +60,7 @@ layout: default
         <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
       {% endfor %}
     </ul>
+    {{ content }}
     <div class="warning">
       <i class="fa fa-exclamation-circle fa-2" aria-hidden="true"></i>
       <b>
@@ -72,7 +75,6 @@ layout: default
         <li>Se considerado con los demas visitantes</li>
       </ul>
     </div>
-    {{ content }}
   </div>
 </article>
 

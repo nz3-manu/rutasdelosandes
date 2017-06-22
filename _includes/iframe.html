@@ -1,3 +1,17 @@
+{% if include.type == 'search' %}
+  {% capture map_url %}
+    https://www.google.com/maps/embed/v1/place?key={{site.googlemaps_key}}&q={{include.querie}}&maptype=satellite&zoom={{include.zoom | default: "9"}}
+  {% endcapture %}
+{% elsif include.type == 'directions' %}
+  {% capture map_url %}
+    https://www.google.com/maps/embed/v1/directions?key={{site.googlemaps_key}}&origin={{include.origin}}&destination={{include.destination}}&mode={{include.mode | default: "driving"}}&maptype=satellite&zoom={{include.zoom | default: "12"}}
+  {% endcapture %}
+{% else %}
+   {% capture map_url %}
+    https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id={{include.id}}&measures=off&title=off&near=off&images=off&maptype=S
+  {% endcapture %}
+{% endif %}
+
 <figure class="op-interactive">
   <amp-iframe 
     width="{{ include.width | default: "200" }}"
@@ -6,7 +20,7 @@
     class="no-margin"
     layout="responsive"
     frameborder="0"
-    src="{{ include.src }}">
+    src="{{ map_url }}">
   </amp-iframe>
   <figcaption>{{ include.caption }}</figcaption>
 </figure>

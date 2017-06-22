@@ -25,5 +25,22 @@ if you are looking for an adrenaline dose this trail is for you, this a 16,32km 
     caption="wikiloc map route"
 %}
 
+<amp-carousel height="300"
+  layout="fixed-height"
+  type="carousel">
+  <amp-img src="/img/image1.jpg"
+    width="400"
+    height="300"
+    alt="a sample image"></amp-img>
+  <amp-img src="/img/image2.jpg"
+    width="400"
+    height="300"
+    alt="another sample image"></amp-img>
+  <amp-img src="/img/image3.jpg"
+    width="400"
+    height="300"
+    alt="and another sample image"></amp-img>
+</amp-carousel>
+
 
 

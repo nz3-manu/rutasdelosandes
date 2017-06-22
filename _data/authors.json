@@ -14,5 +14,13 @@
         "color": "green",
         "facebookId":"1102120497",
         "description": "esto es una descripcion"
+    },
+    "daniel":{
+        "name": "daniel lópez ",
+        "twitter": "adictovirtual",
+        "facebook": "https://www.facebook.com/ellions",
+        "color": "red",
+        "facebookId":"1518774070",
+         "description": "esto es una descripcion"
     }
 }

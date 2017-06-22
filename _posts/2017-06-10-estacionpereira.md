@@ -26,12 +26,10 @@ Atracciones turísticas:
 
 Para llegar a estación pereira se debe tomar una chiva que la podemos tomar al frente del centro comercial victoria por la carrera 12. Los horarios de salida son los siguientes: de lunes a domingo en los siguientes horarios 12:30 pm y 4:00 pm y sale uno a las 5:15 am desde turín en la vía pereira marsella, el valor por trayecto es de 3.700 Pesos, duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza.
 
-{% capture map_url %}
-https://www.google.com/maps/embed/v1/directions?key={{site.googlemaps_key}}&origin=Victoria+Centro+Comercial&destination=Estacion+Pereira&maptype=satellite&zoom=13
-{% endcapture %}
-
 {% include iframe.html
-    src=map_url
+    type= "directions"
+    origin = "Victoria+Centro+Comercial"
+    destination = "Estacion+Pereira"
     caption="casique nona start and end point"
 %}
  
