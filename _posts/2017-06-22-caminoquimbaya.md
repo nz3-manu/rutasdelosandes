@@ -12,7 +12,7 @@ author: daniel
 ---
 <amp-carousel 
     width="400"
-    height="600"
+    height="400"
     layout="responsive"
     type="slides"
     autoplay

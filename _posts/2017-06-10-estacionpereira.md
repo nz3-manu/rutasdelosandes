@@ -74,7 +74,7 @@ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita
 
 El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 minutos.
 
-### Cruzar el rio cauca en "garrucha" 🏞
+### Cruzar el rio cauca en "garrucha" 🚡
 
 Como tramo final del recorrido llegamos a un lugar donde debemos cruzar el rio cauca en una garrucha la cual es un medio de transporte que consiste en un cable grueso que cruza el río de ambas orillas al cual se adapta una polea y una caja grande de madera y acero en donde caben de 5 a 6 personas, se desliza el canasto hasta la mitad del río y las personas que van dentro de él por sus propios medios deben llegar al otro lado de la orilla impulsandose del cable grueso.
 
