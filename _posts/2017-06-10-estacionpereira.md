@@ -7,7 +7,7 @@ categories: colombia
 tags: zonacafetera risaralda
 excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda cascada despues de una caminata corta
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-image: /images/estacion/garrucha.jpg
+image: /images/estacion/featured.jpg
 author: manuel
 ---
 
