@@ -5,11 +5,36 @@ alt_url: /colombia/estacionen
 modified:   2017-06-18 13:16:01 -0500
 categories: colombia 
 tags: zonacafetera risaralda
-excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda casaca despues de una caminata corta
+excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda cascada despues de una caminata corta
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /images/estacion/garrucha.jpg
 author: manuel
 ---
+
+<amp-carousel 
+    width="800"
+    height="600"
+    layout="responsive"
+    type="slides"
+    autoplay
+    delay="2000">
+    <amp-img src="/images/estacion/slide1.jpg"
+        width="800"
+        height="600"
+        alt="another sample image"></amp-img>
+    <amp-img src="/images/estacion/slide2.jpg"
+        width="800"
+        height="600"
+        alt="a sample image"></amp-img>
+    <amp-img src="/images/estacion/slide3.jpg"
+        width="800"
+        height="600"
+        alt="another sample image"></amp-img>
+    <amp-img src="/images/estacion/slide4.jpg"
+        width="800"
+        height="600"
+        alt="another sample image"></amp-img>
+</amp-carousel>
 
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
  
