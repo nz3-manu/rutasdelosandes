@@ -45,7 +45,7 @@ El departamento del Risaralda y otros departamentos están constituidos en los a
 La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua potable al municipio de Marsella y veredas aledañas, por eso el bosque es muy húmedo y se recomienda uso de indumentaria impermeable y repelente para los mosquitos.  
 
  
-## Ruta
+## Llegando alli
  
 Para ir a la Reserva, primero se llega a la vereda La Convención ubicada a 30 minutos en vehículo de Pereira, capital del departamento, y a 40 minutos del municipio de Marsella, dependiendo del punto de partida, si es en Pereira lo recomendable es tomar “la chiva” o bus escalera, desde La plaza Victoria, en horarios de 6 am, 9 am y 2 pm o si es desde Marsella por la carretera que lleva a las veredas El Rayo y La Convención en jeep desde la plaza principal.
 
@@ -58,8 +58,10 @@ Para ir a la Reserva, primero se llega a la vereda La Convención ubicada a 30 m
 
 Una vez en La Convención, se debe caminar solo 10 minutos hacia la Casa de la CARDER, en donde inicia la Reserva, en esta casa se brinda servicio de alojamiento y alquiler de zona de camping, la cual posee la belleza de una casa colonial, característica del “paisaje cultural cafetero”
 
-
+## La ruta
 En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos .
+
+{% include route.html %} 
 
 {% include iframe.html
     type="viewranger"
@@ -70,12 +72,6 @@ En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dent
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco mas de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.. 
 
-{% include image.html 
-    file="quimbaya/altoelnudo.jpg"
-    height="600" 
-    width="800"
-    caption="alto el nudo"
-%} 
 
  
 
