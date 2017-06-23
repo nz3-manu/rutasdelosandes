@@ -15,7 +15,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link rel="alternate" hreflang="{{site.lang}}" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" hreflang="{{site.alternative_lang}}" href="{{ site.alternative_url }}{{page.alt_url | default: page.url}}">
-   <style amp-custom>
+  <style amp-custom>
       /** Reset some basic elements */
     body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -94,7 +94,7 @@
     .social-media-list li + li { padding-top: 5px; }
 
     /** Site header */
-    .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
+    .site-header {    background-color: white; border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; position:fixed;width:100%;top:0;z-index:10000;}
 
     .site-title { float: left; }
     .site-title, .site-title:visited { color: #424242; }
@@ -134,23 +134,46 @@
       .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
     @media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
     /** Page content */
-    .page-content { padding: 13px 0; }
+    .page-content { padding:0; margin-top:62px;}
 
     .page-heading { font-size: 20px; }
 
     .post-list { margin-left: 0; list-style: none; }
     .post-list > li { margin-bottom: 30px; }
 
-    .post-meta { display:flex;font-size: 14px; color: #828282; }
+    .post-meta {
+      display:flex;
+      font-size: 14px; 
+      color: #828282;
+      margin-top: 12px;
+      }
 
     .post-link { display: block; font-size: 24px; }
 
     /** Posts */
     .post-header { margin-bottom: 10px; }
 
-    .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+    .post-title { 
+      position:absolute; 
+      font-size: 42px; 
+      letter-spacing: -1px; 
+      line-height: 1;
+      color:white;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.62);
+      padding: 0px 5px 2px 30px;
+    }
     @media screen and (max-width: 800px) { .post-title { font-size: 30px; } }
-
+    .post_featured-image{
+        position:relative;
+        width: 100%;
+        padding-bottom: 52%;
+        background-image: url("{{site.url}}{{page.image}}");
+        background-repeat: no-repeat;
+	      background-attachment: fixed;
+        background-size: contain;  
+        background-position-y: 62px; 
+      } 
     .post-content { margin-bottom: 30px; }
     .post-content h2 { font-size: 32px; }
     @media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
@@ -273,7 +296,7 @@
       line-height: 22px;
       padding: 0 17px 0 23px;
       position: relative;
-      margin: 0 5px 0px 0;
+      margin: 0 5px 0 0;
       text-decoration: none;
       -webkit-transition: color 0.2s;
       font-size: 13px;
@@ -309,6 +332,7 @@
     .tag_container{
       display: flex;
     }
+    
     @media (min-width: 740px) {
       .post-home_description {
         flex-direction: row;
@@ -321,7 +345,7 @@
       text-decoration: none;
     }
     a:visited { color:inherit}
-    a:active { color:inherit }
+    a:active { color:inherit } 
   </style>
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
   <meta property="fb:pages"  content="{{site.fbpage}}" />  
