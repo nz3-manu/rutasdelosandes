@@ -163,16 +163,14 @@
       background-color: rgba(0, 0, 0, 0.62);
       padding: 0px 5px 2px 30px;
     }
-    @media screen and (max-width: 800px) { .post-title { font-size: 30px; } }
+    @media screen and (max-width: 800px) { .post-title { font-size: 25px; } }
     .post_featured-image{
         position:relative;
         width: 100%;
         padding-bottom: 52%;
         background-image: url("{{site.url}}{{page.image}}");
         background-repeat: no-repeat;
-	      background-attachment: fixed;
         background-size: contain;  
-        background-position-y: 62px; 
       } 
     .post-content { margin-bottom: 30px; }
     .post-content h2 { font-size: 32px; }
@@ -334,13 +332,17 @@
       display: flex;
     }
     
-    @media (min-width: 740px) {
+    @media (min-width: 800px) {
       .post-home_description {
         flex-direction: row;
       }
       .post-home_excerpt{
         margin-left: 10px
       }
+      .post_featured-image{
+        background-attachment: fixed;
+        background-position-y: 62px; 
+      }     
     }
     a:hover{
       text-decoration: none;
