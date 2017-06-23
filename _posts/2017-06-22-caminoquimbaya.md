@@ -62,10 +62,11 @@ Una vez en La Convención, se debe caminar solo 10 minutos hacia la Casa de la C
 En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos .
 
 {% include iframe.html
-    type="wikiloc"
-    id="17867164"
-    caption="wikiloc map route"
+    type="viewranger"
+    id="MTM4MjU4NA"
+    caption="viewranger route"
 %}
+
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco mas de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.. 
 

@@ -8,7 +8,7 @@
   {% endcapture %}
 {% else %}
    {% capture map_url %}
-    https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id={{include.id}}&measures=off&title=off&near=off&images=off&maptype=S
+    https://my.viewranger.com/route/widget/{{include.id}}==?locale=es&amp;m=km
   {% endcapture %}
 {% endif %}
 
@@ -17,6 +17,10 @@
     width="{{ include.width | default: "200" }}"
     height="{{ include.height | default: "200" }}" 
     sandbox="allow-scripts allow-same-origin"
+    frameborder="0" 
+    scrolling="no"
+    marginwidth="0" 
+    frameborder="0" 
     class="no-margin"
     layout="responsive"
     frameborder="0"
