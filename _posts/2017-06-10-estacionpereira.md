@@ -68,6 +68,7 @@ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita
    file="estacion/marrana.jpg" 
    caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
    width="800"
+   zoom="13"
    height="704"
 %} 
 
