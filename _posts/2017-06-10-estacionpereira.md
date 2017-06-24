@@ -18,19 +18,19 @@ author: manuel
     type="slides"
     autoplay
     delay="2000">
-    <amp-img src="/images/estacion/slide6.jpg"
+    <amp-img src="{{site.url}}/images/estacion/slide6.jpg"
         width="800"
         height="600"
         alt="another sample image"></amp-img>
-    <amp-img src="/images/estacion/slide2.jpg"
+    <amp-img src="{{site.url}}/images/estacion/slide2.jpg"
         width="800"
         height="600"
         alt="a sample image"></amp-img>
-    <amp-img src="/images/estacion/slide3.jpg"
+    <amp-img src="{{site.url}}/images/estacion/slide3.jpg"
         width="800"
         height="600"
         alt="another sample image"></amp-img>
-    <amp-img src="/images/estacion/slide4.jpg"
+    <amp-img src="{{site.url}}/images/estacion/slide4.jpg"
         width="800"
         height="600"
         alt="another sample image"></amp-img>
