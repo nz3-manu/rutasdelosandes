@@ -53,11 +53,12 @@ layout: null
                                 <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                                 <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.modified | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                             </header>
-                            {% if post.instantfeedback %}
-                                {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
-                            {% else %}
-                                {{ post.content | replace: "amp-img", "img" | replace: "</img>", "" | replace: "amp-iframe", "iframe"  }} 
-                            {% endif %}
+                                {{ post.content |
+                                    replace: "amp-img", "img" | 
+                                    replace: "</img>", "" |
+                                    replace: "amp-iframe", "iframe" |
+                                    replace: "<amp-carousel", "<figure class='op-slideshow'" |
+                                    replace: "/amp-carousel", "/figure"}}  
                                 <footer>
                                    
                                 </footer>
