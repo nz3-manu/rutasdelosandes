@@ -18,7 +18,7 @@ author: manuel
     type="slides"
     autoplay
     delay="2000">
-    <amp-img src="/images/estacion/slide1.jpg"
+    <amp-img src="/images/estacion/slide6.jpg"
         width="800"
         height="600"
         alt="another sample image"></amp-img>
