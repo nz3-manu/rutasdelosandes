@@ -2,10 +2,10 @@
 layout: post
 title:  Cerro gobia en Quinchia
 alt_url: /colombia/estacionen
-modified:   2017-06-18 13:16:01 -0500
+modified:   2017-06-23 13:16:01 -0500
 categories: colombia 
 tags: zonacafetera risaralda quinchia
-excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda cascada despues de una caminata corta
+excerpt: Cerro gobia está ubicado en  el departamento de Risaralda en el municipio de quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /images/gobia/featured.jpg
 author: manuel
