@@ -48,6 +48,13 @@ La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua pot
  
 ## Llegando alli
  
+
+{% include iframe.html
+    type="custom"
+    mid="124PdZ7p-xPFBIxAV8OipbwFj5aU&hl=es-419"
+    caption="como llegar a 'la convencion'"
+%}
+
 Para ir a la Reserva, primero se llega a la vereda La Convención ubicada a 30 minutos en vehículo de Pereira, capital del departamento, y a 40 minutos del municipio de Marsella, dependiendo del punto de partida, si es en Pereira lo recomendable es tomar “la chiva” o bus escalera, desde La plaza Victoria, en horarios de 6 am, 9 am y 2 pm o si es desde Marsella por la carretera que lleva a las veredas El Rayo y La Convención en jeep desde la plaza principal.
 
 {% include image.html 

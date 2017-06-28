@@ -24,9 +24,16 @@ La región que hoy ocupa el municipio de Quinchía era habitada por distintos gr
 
 ## Como llegar
 
+{% include iframe.html
+    type="custom"
+    mid="1OoVsxqHUn6iIAR77Q_T2Iv-gd08&hl=es-419"
+    caption="La ruta saliendo desde el pueblo de quimbaya hacia el cerro gobia"
+%}
+
 Se debe de tomar un bus en el terminal de la ciudad de pereira, nombre de la empresa Flota occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00pm, 3:45pm,  4:40pm, 5:40pm. tiempo estimado de llegada 2 horas 50 minutos,  valor del pasaje 14 mil pesos. 
 Al llegar a quinchía podremos ver el cerro de gobia.
 donde se aprecias 2 piedras que sobresalen en la montaña, 1 es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de quinchía  y otro mirador a 2400 donde tiene una vista de 360 grados.
+
 
 {% include image.html 
    file="/gobia/FullSizeRender2.jpg" 
@@ -41,11 +48,10 @@ En la parte de abajo detallo la ruta saliendo desde el parque principal de quinc
 
 {% include route.html %} 
 
-
 {% include iframe.html
-    type="viewranger"
-    id="MTM4Mzc4OA"
-    caption="traza de la ruta en la aplicacion viewranger"
+    type="custom"
+    mid="11oZn70PBJV5HfkUOL9Tr9cwQx3o&hl=es-419"
+    caption="La ruta saliendo desde el pueblo de quimbaya hacia el cerro gobia"
 %}
 
 Vista desde el mirador de la virgen (1800 msnm)
