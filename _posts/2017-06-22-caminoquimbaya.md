@@ -18,33 +18,29 @@ author: daniel
     type="slides"
     autoplay
     delay="2000">
-     {% include image.html 
+    {% include image.html 
         file="quimbaya/slide3.jpg" 
         caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        zoom="13"
-        height="704"
+        height="1067"
     %} 
      {% include image.html 
         file="quimbaya/slide2.jpg" 
         caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
-        width="800"
-        zoom="13"
-        height="704"
+        width="690"
+        height="762"
     %} 
      {% include image.html 
         file="quimbaya/slide1.jpg" 
         caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        zoom="13"
-        height="704"
+        height="1067"
     %} 
      {% include image.html 
         file="quimbaya/slide4.jpg" 
         caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        zoom="13"
-        height="704"
+        height="1067"
     %} 
 </amp-carousel>
 
