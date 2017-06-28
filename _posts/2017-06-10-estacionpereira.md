@@ -45,8 +45,7 @@ Atracciones turísticas:
 - Zona de camping
 - Caminata Cascada
 
-## Como llegar alli 
- 
+## Como llegar 
 
 {% include iframe.html
     type="custom"

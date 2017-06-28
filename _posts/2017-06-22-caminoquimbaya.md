@@ -46,7 +46,7 @@ El departamento del Risaralda y otros departamentos están constituidos en los a
 La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua potable al municipio de Marsella y veredas aledañas, por eso el bosque es muy húmedo y se recomienda uso de indumentaria impermeable y repelente para los mosquitos.  
 
  
-## Como llegar alli
+## Como llegar
 
 {% include iframe.html
     type="custom"
