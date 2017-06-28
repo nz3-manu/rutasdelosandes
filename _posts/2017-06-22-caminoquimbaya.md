@@ -67,7 +67,7 @@ En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dent
 {% include iframe.html
     type="custom"
     mid="14ilChgOqPi6Iq2VpBHxpbscpCsA&hl=es-419"
-    caption="the trail"
+    caption="el camino"
 %}
 
 
