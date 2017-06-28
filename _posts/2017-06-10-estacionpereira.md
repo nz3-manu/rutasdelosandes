@@ -18,22 +18,41 @@ author: manuel
     type="slides"
     autoplay
     delay="2000">
-    <amp-img src="{{site.url}}/images/estacion/slide6.jpg"
+    {% include image.html 
+        file="estacion/slide6.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        height="600"
-        alt="another sample image"></amp-img>
-    <amp-img src="{{site.url}}/images/estacion/slide2.jpg"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="estacion/slide2.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        height="600"
-        alt="a sample image"></amp-img>
-    <amp-img src="{{site.url}}/images/estacion/slide3.jpg"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="estacion/slide2.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        height="600"
-        alt="another sample image"></amp-img>
-    <amp-img src="{{site.url}}/images/estacion/slide4.jpg"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="estacion/slide3.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
-        height="600"
-        alt="another sample image"></amp-img>
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="estacion/slide4.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+        width="800"
+        zoom="13"
+        height="704"
+    %} 
 </amp-carousel>
 
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
