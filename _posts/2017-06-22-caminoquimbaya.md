@@ -18,22 +18,34 @@ author: daniel
     type="slides"
     autoplay
     delay="2000">
-  <amp-img src="{{site.url}}/images/quimbaya/slide3.jpg"
-    width="800"
-    height="1067"
-    alt="another sample image"></amp-img>
-  <amp-img src="{{site.url}}/images/quimbaya/slide2.jpg"
-    width="690"
-    height="762"
-    alt="a sample image"></amp-img>
-  <amp-img src="{{site.url}}/images/quimbaya/slide1.jpg"
-    width="800"
-    height="1067"
-    alt="another sample image"></amp-img>
-    <amp-img src="{{site.url}}/images/quimbaya/slide4.jpg"
-    width="800"
-    height="1067"
-    alt="another sample image"></amp-img>
+     {% include image.html 
+        file="quimbaya/slide3.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+        width="800"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="quimbaya/slide2.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+        width="800"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="quimbaya/slide1.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+        width="800"
+        zoom="13"
+        height="704"
+    %} 
+     {% include image.html 
+        file="quimbaya/slide4.jpg" 
+        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
+        width="800"
+        zoom="13"
+        height="704"
+    %} 
 </amp-carousel>
 
 El departamento del Risaralda y otros departamentos están constituidos en los antiguos asentamientos de la cultura Quimbaya, en tiempos precolombinos, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
