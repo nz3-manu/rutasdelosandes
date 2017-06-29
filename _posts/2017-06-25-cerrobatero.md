@@ -53,7 +53,7 @@ Teléfono: 3216128122 Bernarda, Jose Luis 314808851
 
 {% include image.html 
    file="batero/casadetino.jpg"
-   caption="lugar donde nos hospedamos"
+   caption="lugar donde acampamos"
    height="533" 
    width="800"
 %} 
@@ -63,8 +63,9 @@ Teléfono: 3216128122 Bernarda, Jose Luis 314808851
 Después de dejar todo nuestro equipaje en la hospedaje, iniciamos nuestro recorrido para llegar a la vereda batero, se puede llegar de 2 formas; tomando un jeep que pasa a las 7:00 am y tiene un costo de 4.000 mil, la segunda opción es caminando desde la finca que estábamos hospedados nos tardamos aproximadamente 1 hora y 30 para llegar hasta la vereda batero.
 
 {% include iframe.html
-    src="https://www.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=18015642&measures=off&title=off&near=off&images=off&maptype=S"
-    caption="wikiloc map route"
+    type="custom"
+    mid="1mKrzhAE4NMsDbJ070NrAwhJazvo&hl=es-419"
+    caption="desde el matadero viejo pasando por el jardin botanico y por el camping de la finca la mona"
 %}
 
 Al llegar la vereda batero encontrarás una tienda por si necesitas comprar algo, ya que el ascenso hasta el cerro es aproximadamente 2 horas y 30 minutos.
