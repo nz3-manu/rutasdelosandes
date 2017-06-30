@@ -3,22 +3,31 @@
         "name": "juan gabriel ramirez",
         "twitter": "_jgrc_",
         "facebook": "https://www.facebook.com/jgramirezc",
+        "email":"",
         "color": "blue",
         "facebookId":"601094299",
         "description": "un montañero mas"    
     },
     "manuel": {
         "name": "manuel alejandro ramirez",
-        "twitter": "adictovirtual",
         "facebook": "https://www.facebook.com/nz3.manu",
+        "email":"nz3.manu@gmail.com",
         "color": "green",
         "facebookId":"1102120497",
         "description": "Ingeniero de profesión y aventurero por pasión, nunca he sido amante a la rutina así que escapo de ella por medio de los viajes 😜"
     },
+    "leidy": {
+        "name": "Leidy holguin",
+        "facebook": "https://www.facebook.com/leidyjhojanah",
+        "email":    "leidyholguin@outlook.es",
+        "color": "purple",
+        "facebookId":"1392349473",
+        "description": "🏞 🍃 ⛺️"
+    }, 
     "daniel":{
         "name": "daniel lópez ",
-        "twitter": "adictovirtual",
         "facebook": "https://www.facebook.com/ellions",
+        "email": "danielopezq@gmail.com",
         "color": "red",
         "facebookId":"1518774070",
          "description": "Soy licenciado en Comunicación e informática Educativa de la Universidad Tecnológica de Pereira, de allí mi pasión al cine, me gusta escribir acerca de diversos temas como: Viajes, Política, Cultura, Tecnología, Educación y obviamente Cine"

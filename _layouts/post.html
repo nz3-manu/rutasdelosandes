@@ -30,20 +30,33 @@ layout: default
         </div>
           <div class="author_body">
               <div class="author_name">{{ authorInfo.name }}</div>
-              <a href="{{ authorInfo.facebook }}" target="_blank" class="author_facebook">
-              <amp-img
-                src="/images/facebook-logo-button.png"
-                width=24px
-                height=24px
-              >
-              </a>
-              <a href="https://twitter.com/{{ authorInfo.twitter }}" target="_blank" class="author_twitter">
-                <amp-img
-                    src="/images/twitter-logo-button.png"
+               {% if authorInfo.facebook %}
+                <a href="{{ authorInfo.facebook }}" target="_blank" class="author_facebook">
+                  <amp-img
+                    src="/images/facebook-logo-button.png"
                     width=24px
                     height=24px
                   >
-              </a>
+                </a>
+              {% endif %}
+               {% if authorInfo.email %}
+                <a href="mailto:{{ authorInfo.email }}?Subject=acerca de tu articulo:{{ page.title | escape }}" class="author_email">
+                  <amp-img
+                    src="/images/close-envelope.png"
+                    width=24px
+                    height=24px
+                  >
+                </a>
+              {% endif %}
+              {% if authorInfo.twitter %}
+                <a href="https://twitter.com/{{ authorInfo.twitter }}" target="_blank" class="author_twitter">
+                  <amp-img
+                      src="/images/twitter-logo-button.png"
+                      width=24px
+                      height=24px
+                    >
+                </a>
+              {% endif %}
               <div class="author_description">{{ authorInfo.description }}</div>
               {% endif %}
               <time class="author_published-date" datetime="{{ page.date | date_to_xmlschema }}">
