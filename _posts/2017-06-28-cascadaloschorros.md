@@ -49,10 +49,22 @@ aventura ya que es un senderismo acompañado de hermosos paisajes llenos de faun
 
 La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la chiva ya es el único medio de transporte público. La chiva se puede abordar en la plaza del victoria que sale cada 20 minutos a partir de las 08:00 AM, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo de $5.100 Cinco Mil Cien Pesos M/Cte; desde el inicio del recorrido puede apreciarlos múltiples paisajes y al lado izquierdo de la vía puede apreciar el rio Otún
 
+{% include iframe.html
+    type="custom"
+    mid="13jxiBglNpVvBqiq2mmednVMd5gs&hl=es-419"
+    caption="desde  la plazoleta del centro comercial victoria hasta el cedral en chiva"
+%}
+
 ## La Ruta 
 
 una vez llegue al Cedral es recomendable recibir las instrucciones del guardabosque aun que es un camino que está muy bien señalizado, el recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades.
 
+
+{% include iframe.html
+    type="custom"
+    mid="1cuiAHEfIZ09xKeaHLxxn5nzd19M&hl=es-419"
+    caption="desde  la plazoleta del centro comercial victoria hasta el cedral en chiva"
+%}
 
 ## Actividades que puedes realizar en la pastora
 
