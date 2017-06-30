@@ -7,5 +7,7 @@
         height="{{ include.height | default: "771" }}px" 
         >
     </amp-img>
-    <figcaption>{{ include.caption }}</figcaption>
+    {% if include.caption %}
+        <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
 </figure>
