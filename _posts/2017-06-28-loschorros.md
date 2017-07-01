@@ -57,7 +57,7 @@ La pastora es una reserva natural ubicada en el parque regional ucumari situada 
 ## Como llegar 
 
 {% include image.html 
-    file="chorros/slide4.jpg" 
+    file="chorros/chiva.jpg" 
     width="1024"
     height="576"
     caption="chiva la cual nos lleva a el cedral"
