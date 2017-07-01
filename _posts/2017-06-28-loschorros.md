@@ -15,6 +15,15 @@ author: leidy
 La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente
 aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del rio Otún que se encuentran durante todo el recorrido.
 
+## Actividades que puedes realizar en la pastora
+
+* Realizar paseos ecológicos
+* Zona de camping
+* Calbagatas ecológicas
+* Noches de refugio en la pastora (donde podrán realizar diferentes actividades y
+* recibir diferentes tipos de charlas de sobrevivencia e interpretación de la naturaleza)
+* Recorridos a los chorros
+
 <amp-carousel 
     width="1024"
     height="1500"
@@ -47,6 +56,13 @@ aventura ya que es un senderismo acompañado de hermosos paisajes llenos de faun
 
 ## Como llegar 
 
+{% include image.html 
+    file="chorros/slide4.jpg" 
+    width="1024"
+    height="576"
+    caption="chiva la cual nos lleva a el cedral"
+%} 
+
 La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la chiva ya es el único medio de transporte público. La chiva se puede abordar en la plaza del victoria que sale cada 20 minutos a partir de las 08:00 AM, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo de $5.100 Cinco Mil Cien Pesos M/Cte; desde el inicio del recorrido puede apreciarlos múltiples paisajes y al lado izquierdo de la vía puede apreciar el rio Otún
 
 {% include iframe.html
@@ -66,11 +82,3 @@ una vez llegue al Cedral es recomendable recibir las instrucciones del guardabos
     caption="desde  la plazoleta del centro comercial victoria hasta el cedral en chiva"
 %}
 
-## Actividades que puedes realizar en la pastora
-
-* Realizar paseos ecológicos
-* Zona de camping
-* Calbagatas ecológicas
-* Noches de refugio en la pastora (donde podrán realizar diferentes actividades y
-* recibir diferentes tipos de charlas de sobrevivencia e interpretación de la naturaleza)
-* Recorridos a los chorros
