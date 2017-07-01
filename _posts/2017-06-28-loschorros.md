@@ -12,8 +12,8 @@ author: leidy
 
 ## La pastora 
 
-La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente
-aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del rio Otún que se encuentran durante todo el recorrido.
+La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
+ 
 
 ## Actividades que puedes realizar en la pastora
 
@@ -63,7 +63,7 @@ aventura ya que es un senderismo acompañado de hermosos paisajes llenos de faun
     caption="chiva la cual nos lleva a el cedral"
 %} 
 
-La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la chiva ya es el único medio de transporte público. La chiva se puede abordar en la plaza del victoria que sale cada 20 minutos a partir de las 08:00 AM, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo de $5.100 Cinco Mil Cien Pesos M/Cte; desde el inicio del recorrido puede apreciarlos múltiples paisajes y al lado izquierdo de la vía puede apreciar el rio Otún
+La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la chiva ya que es el único medio de transporte público. La chiva se puede abordar en la plaza del victoria que sale en los siguientes horarios lunes a viernes 9 am,12 pm y 3 pm sábado y domingo son los mismos horarios adicional una a las 7 am, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo de $5.100 Cinco Mil Cien Pesos M/Cte; desde el inicio del recorrido puede apreciar los múltiples paisajes y al lado izquierdo de la vía puede apreciar el río Otún
 
 {% include iframe.html
     type="custom"
@@ -73,12 +73,20 @@ La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; pa
 
 ## La Ruta 
 
-una vez llegue al Cedral es recomendable recibir las instrucciones del guardabosque aun que es un camino que está muy bien señalizado, el recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades.
 
+Una vez llegue al Cedral es recomendable recibir las instrucciones del guardabosque aun que es un camino que está muy bien señalizado, el recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio se debe confirmar con 2 dias de anticipacion Telefono: (036)3144162.
 
 {% include iframe.html
     type="custom"
     mid="1cuiAHEfIZ09xKeaHLxxn5nzd19M&hl=es-419"
-    caption="desde  la plazoleta del centro comercial victoria hasta el cedral en chiva"
+    caption="ruta a pie desde el cedral hasta la cascada los chorros pasando por la pastora, aproximadamente dos horas de caminata"
 %}
 
+una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes la pastora.
+
+{% include image.html 
+    file="chorros/lapastora3.jpg" 
+    width="1024"
+    height="682"
+    caption="centro de visitantes la pastora"
+%} 
