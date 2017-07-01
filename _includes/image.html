@@ -1,4 +1,8 @@
- <figure data-feedback="fb:likes, fb:comments">
+ <figure
+    {% if include.fullscreen %}
+        data-mode="fullscreen"
+    {% endif %}
+    data-feedback="fb:likes, fb:comments">
     <amp-img 
         src="{{site.url}}/images/{{ include.file }}" 
         layout="responsive" 
@@ -8,6 +12,10 @@
         >
     </amp-img>
     {% if include.caption %}
-        <figcaption>{{ include.caption }}</figcaption>
+        <figcaption
+        {% if include.overimage %}
+            class="op-vertical-bottom op-large"
+        {% endif %}
+        >{{ include.caption }}</figcaption>
     {% endif %}
 </figure>

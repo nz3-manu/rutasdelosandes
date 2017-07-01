@@ -90,3 +90,16 @@ una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes
     height="682"
     caption="centro de visitantes la pastora"
 %} 
+
+ En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pesos, almuerzos y comidas a $12.000 pesos. si nuestra idea es pasar una noche aqui que seria lo aconsejable para disfrutar de los chorros, podemos encontrar zona de camping valor $8.000 pesos o cabañas $28.000 pesos para alquiler de cabaña se debe confirmar disponibilidad Teléfono: (036)3144162.
+ 
+{% include image.html 
+    file="chorros/slide4.jpg" 
+    width="1024"
+    height="1536"
+    fullscreen="true"
+    caption="nuestra recompensa sera esta majestuosa cascada de 20 metros de altura"
+    overimage="true"
+%} 
+
+Para regresar la última chiva sale a las 5:pm.
