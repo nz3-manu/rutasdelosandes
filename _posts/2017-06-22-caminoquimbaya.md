@@ -2,7 +2,7 @@
 layout: post
 title:  El camino del quimbaya
 alt_url: /colombia/quimbayiantrail
-modified:   2017-07-03 12:16:01 -0500
+modified:   2017-07-03 13:16:01 -0500
 categories: colombia 
 tags: zonacafetera pereira marsella
 excerpt: 16.79 km de selva tropical ubicado entre marsella y pereira, este sendero esta lleno de variada vegetacion 🍃 y termina con una hermosa panoramica de la ciudad de pereira 🏞
@@ -74,8 +74,6 @@ Una vez en La Convención, se debe caminar solo 10 minutos hacia la Casa de la C
 
 ## La ruta
 En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos .
-
-{% include route.html %} 
 
 {% include iframe.html
     type="custom"
