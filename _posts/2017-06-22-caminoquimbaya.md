@@ -2,7 +2,6 @@
 layout: post
 title:  El camino del quimbaya
 alt_url: /colombia/quimbayiantrail
-modified:   2017-07-03 13:16:01 -0500
 categories: colombia 
 tags: zonacafetera pereira marsella
 excerpt: 16.79 km de selva tropical ubicado entre marsella y pereira, este sendero esta lleno de variada vegetacion 🍃 y termina con una hermosa panoramica de la ciudad de pereira 🏞
@@ -83,11 +82,6 @@ En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dent
 
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco mas de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.. 
-
-
- 
-
-
 
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization

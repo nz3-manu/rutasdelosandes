@@ -2,7 +2,6 @@
 layout: post
 title:  Estacion pereira
 alt_url: /colombia/estacionen
-modified:   2017-07-03 12:16:01 -0500
 categories: colombia 
 tags: zonacafetera risaralda
 excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda cascada despues de una caminata corta
@@ -103,7 +102,8 @@ Como tramo final del recorrido llegamos a un lugar donde debemos cruzar el rio c
    height="450"
 %} 
 
-Después de haber cruzado el río cauca nos encontraremos en la finca la Playita donde se puede acampar el costo es de 6 mil pesos por carpa, habitaciòn privada 2 personas 26 mil pesos, la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca Teléfono: 3117007797.
+Después de haber cruzado el río cauca nos encontraremos en la finca la Playita donde se puede acampar el costo es de 6 mil pesos por carpa, habitaciòn privada 2 personas 26 mil pesos, la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca Teléfono:  
+<a href="tel:+573117007797">3117007797</a>.
 
 ## La ruta
 

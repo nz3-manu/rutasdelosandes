@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Cerro de batero
-modified:   2017-07-03 13:16:01 -0500
 categories: colombia
 tags: quinchia
 excerpt: Para los amantes de la adrenalina, 😨 despues de caminar 9km veremos  una escalada de 150 metros por escalinatas pegadas a la roca 🗻 al final todo se recompensa con una linda vista de la villa de los cerros
@@ -15,8 +14,6 @@ Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en e
 Quinchía fue declarado en 1986 como el  municipio más bello de Risaralda. Su hermoso paisaje de montañas y cerros tutelares enmarca una de las más hermosas vistas de la región cafetera colombiana. 
 La región que hoy ocupa el municipio de Quinchía era habitada por distintos grupos indígenas de la etnia Caribe. Esta región era llamada "Guacuma" por los indígenas, estaba habitada por las tribus de los Guaqueramaes y los Tapascos de la familia de los Ansermas y los Irras con idiomas y costumbres diferentes.
 hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
-
-
 
 __Cerros ubicados en quinchía:__
 * Cerro Gobia (rango altitud  1800  2400 msnm)
@@ -47,7 +44,7 @@ __Cerros ubicados en quinchía:__
 
 Se debe de tomar un bus en el terminal de la ciudad de pereira, nombre de la empresa Flota occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00pm, 3:45pm,  4:40pm, 5:40pm. tiempo estimado de llegada 2 horas 50 minutos,  valor del pasaje 14 mil pesos. 
 nos bajamos en el antiguo matadero de quinchía(también es la entrada del jardín botánico) de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada :), al llegar a la finca encontraremos zonas de camping $5.000 pesos por persona, habitaciones privadas $25.000 pesos para 2 personas y habitación para grupos de  máximo 7 personas $70.000pesos.
-Teléfono: 3216128122 Bernarda, Jose Luis 314808851
+Teléfono: <a href="tel:+573216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:+57314808851">314808851</a>
 
 
 {% include image.html 

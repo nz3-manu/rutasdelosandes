@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Cascada los chorros
-modified:   2017-07-03 13:16:01 -0500
 categories: colombia 
 tags: pereira zonacafetera
 excerpt: Despues de una caminata de 2 horas por un terreno pedregoso con el rio Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!
@@ -71,8 +70,7 @@ La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; pa
 
 ## La Ruta 
 
-
-Una vez llegue al Cedral es recomendable recibir las instrucciones del guardabosque aun que es un camino que está muy bien señalizado, el recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio se debe confirmar con 2 dias de anticipacion Telefono: (036)3144162.
+Una vez llegue al Cedral es recomendable recibir las instrucciones del guardabosque aun que es un camino que está muy bien señalizado, el recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio se debe confirmar con 2 dias de anticipacion Telefono: <a href="tel:0363144162">(036)3144162</a>.
 
 {% include iframe.html
     type="custom"

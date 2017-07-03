@@ -2,7 +2,6 @@
 layout: post
 title:  Cerro gobia en Quinchia
 alt_url: /colombia/estacionen
-modified:   2017-07-03 12:16:01 -0500
 categories: colombia 
 tags: zonacafetera risaralda quinchia
 excerpt: Ubicado en el municipio de quinchia y a tan solo 1.5 kilometros de su parque principal por un terreno suave, el cual lleva a una hermosa vista de la villa de los cerros. Es ideal para personas que estan iniciando en el senderismo o hiking.
@@ -44,8 +43,6 @@ donde se aprecias 2 piedras que sobresalen en la montaña, 1 es a 1800 metros do
 En la parte de abajo detallo la ruta saliendo desde el parque principal de quinchía 
 
 ## La ruta
-
-{% include route.html %} 
 
 {% include iframe.html
     type="custom"
