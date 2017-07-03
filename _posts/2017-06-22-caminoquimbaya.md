@@ -2,7 +2,7 @@
 layout: post
 title:  El camino del quimbaya
 alt_url: /colombia/quimbayiantrail
-modified:   2017-06-18 13:16:01 -0500
+modified:   2017-07-03 12:16:01 -0500
 categories: colombia 
 tags: zonacafetera pereira marsella
 excerpt: 16.79 km de selva tropical ubicado entre marsella y pereira, este sendero esta lleno de variada vegetacion 🍃 y termina con una hermosa panoramica de la ciudad de pereira 🏞
@@ -10,7 +10,6 @@ excerpt: 16.79 km de selva tropical ubicado entre marsella y pereira, este sende
 image: /images/quimbaya/featured.jpg
 author: daniel
 ---
-
 <amp-carousel 
     width="400"
     height="400"

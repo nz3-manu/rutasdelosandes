@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cascada los chorros
-modified:   2017-06-30 13:16:01 -0500
+modified:   2017-07-03 12:16:01 -0500
 categories: colombia 
 tags: pereira zonacafetera
 excerpt: Despues de una caminata de 2 horas por un terreno pedregoso con el rio Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!
@@ -9,7 +9,6 @@ excerpt: Despues de una caminata de 2 horas por un terreno pedregoso con el rio 
 image: /images/chorros/featured.jpg
 author: leidy
 ---
-
 ## La pastora 
 
 La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
@@ -31,7 +30,6 @@ La pastora es una reserva natural ubicada en el parque regional ucumari situada 
     type="slides"
     autoplay
     delay="2000">
-
     {% include image.html 
         file="chorros/slide4.jpg" 
         width="1024"

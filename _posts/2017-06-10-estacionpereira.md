@@ -2,7 +2,7 @@
 layout: post
 title:  Estacion pereira
 alt_url: /colombia/estacionen
-modified:   2017-06-27 13:16:01 -0500
+modified:   2017-07-03 12:16:01 -0500
 categories: colombia 
 tags: zonacafetera risaralda
 excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en "garrucha" y recorreras unas antiguas vias de tren montando una "marranita", ademas podras descubrir una linda cascada despues de una caminata corta
@@ -10,7 +10,6 @@ excerpt: Ubicado entre marsella y pereira en esta ruta cruzaras en rio cauca en 
 image: /images/estacion/featured.jpg
 author: manuel
 ---
-
 <amp-carousel 
     width="800"
     height="600"

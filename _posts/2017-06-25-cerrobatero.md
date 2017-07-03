@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cerro de batero
-modified:   2017-06-17 13:16:01 -0500
+modified:   2017-07-03 13:16:01 -0500
 categories: colombia
 tags: quinchia
 excerpt: Para los amantes de la adrenalina, 😨 despues de caminar 9km veremos  una escalada de 150 metros por escalinatas pegadas a la roca 🗻 al final todo se recompensa con una linda vista de la villa de los cerros
@@ -9,7 +9,6 @@ excerpt: Para los amantes de la adrenalina, 😨 despues de caminar 9km veremos 
 image: /images/batero/featured.jpg
 author: manuel
 ---
-
 ## Cerro Batero
 
 Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de quinchía. este municipio es conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
