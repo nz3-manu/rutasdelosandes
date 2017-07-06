@@ -49,6 +49,10 @@ layout: null
                                             ga('create','{{ site.google_analytics }}', 'auto');
                                             ga('set', 'referrer', 'https://ia.facebook.com');
                                             ga('set', 'dataSource', 'instantArticle');
+                                            ga('set', 'campaignName', 'instant articles');
+                                            ga('set', 'campaignSource', 'instant articles source');
+                                            ga('set', 'campaignKeyword', 'rutas de los andes instant articles');
+                                            ga('set', 'campaignMedium', 'instant article medium);
                                             ga('send', 'pageview');
                                         </script>
                                     </iframe>
