@@ -91,6 +91,8 @@ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita
 El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 minutos.
 
 {%  include video.html
+    width="352"
+    height="640"
     file="estacion/marranita.mp4"
  %}
 
