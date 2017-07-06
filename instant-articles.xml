@@ -48,6 +48,7 @@ layout: null
 
                                             ga('create','{{ site.google_analytics }}', 'auto');
                                             ga('set', 'referrer', 'https://ia.facebook.com');
+                                            ga('set', 'dataSource', 'instantArticle');
                                             ga('send', 'pageview');
                                         </script>
                                     </iframe>
