@@ -87,9 +87,7 @@ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita
    zoom="13"
    height="704"
 %} 
-{%  include video.html
-    file="estacion/marranita.mp4"
-%}
+
 El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 minutos.
 
 __Cruzar el rio cauca en "garrucha" 🚡__
