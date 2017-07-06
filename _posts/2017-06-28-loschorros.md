@@ -8,13 +8,9 @@ excerpt: Despues de una caminata de 2 horas por un terreno pedregoso con el rio 
 image: /images/chorros/featured.jpg
 author: leidy
 ---
-## La pastora 
-
 La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
  
-
-## Actividades que puedes realizar en la pastora
-
+Actividades que puedes realizar en la pastora
 * Realizar paseos ecológicos
 * Zona de camping
 * Calbagatas ecológicas
