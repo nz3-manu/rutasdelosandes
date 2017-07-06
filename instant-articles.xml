@@ -52,7 +52,7 @@ layout: null
                                             ga('set', 'campaignName', 'instant articles');
                                             ga('set', 'campaignSource', 'instant articles source');
                                             ga('set', 'campaignKeyword', 'rutas de los andes instant articles');
-                                            ga('set', 'campaignMedium', 'instant article medium);
+                                            ga('set', 'campaignMedium', 'instant article medium');
                                             ga('send', 'pageview');
                                         </script>
                                     </iframe>
