@@ -68,13 +68,18 @@ layout: null
                                 <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                                 <time class="op-modified" dateTime="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">{{  "now"  | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                             </header>
+                                {% assign  fbvideos = site.url | prepend: '4" src="' %}
                                 {{ post.content |
                                     replace: "<amp-img", "<img" | 
                                     replace: "</amp-img>", "</img>" |
                                     replace: "</img>", "" |
                                     replace: "amp-iframe", "iframe" |
                                     replace: "<amp-carousel", "<figure class='op-slideshow'" |
-                                    replace: "/amp-carousel", "/figure" }}  
+                                    replace: "/amp-carousel", "/figure" |
+                                    replace: "<amp-video", "<video" |
+                                    replace: '4" src="', fbvideos |
+                                    replace: "</amp-video>", "</video>"
+                                }}  
                                 <footer>
                                    <ul class="op-related-articles">
                                     {% assign maxRelated = 4 %}
