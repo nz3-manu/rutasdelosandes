@@ -1,16 +1,13 @@
 <figure>
-    <amp-video 
-        width="{{include.width |default: 480}}"
-        height="{{include.height|default: 270}}"
-        layout="responsive"
-        type="video/mp4"
-        autoplay
-        controls
-        loop
-        {% if include.360 %}
-            data-fb-parse-360
-        {% endif %}
-    >
-        <source type="video/mp4" src="../images/{{ include.file }}">
-    </amp-video>
+    <amp-video width="480"
+  height="270"
+  src="/images/{{ include.file }}"
+  layout="responsive"
+  controls>
+  <div fallback>
+    <p>Your browser doesn't support HTML5 video.</p>
+  </div>
+  <source type="video/mp4"
+    src="/images/{{ include.file }}">
+</amp-video>
 </figure>
