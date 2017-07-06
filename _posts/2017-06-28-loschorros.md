@@ -95,7 +95,6 @@ una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes
     height="1536"
     fullscreen="true"
     caption="nuestra recompensa sera esta majestuosa cascada de 20 metros de altura"
-    overimage="true"
 %} 
 
 Para regresar la última chiva sale a las 5:pm.
