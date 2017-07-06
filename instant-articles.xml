@@ -47,6 +47,7 @@ layout: null
                                             })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
                                             ga('create','{{ site.google_analytics }}', 'auto');
+                                            ga('set', 'referrer', ia_document.referrer);
                                             ga('send', 'pageview');
                                         </script>
                                     </iframe>
