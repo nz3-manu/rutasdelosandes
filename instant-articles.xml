@@ -61,7 +61,36 @@ layout: null
                                     replace: "<amp-carousel", "<figure class='op-slideshow'" |
                                     replace: "/amp-carousel", "/figure" }}  
                                 <footer>
-                                   
+                                   <ul class="op-related-articles">
+                                    {% assign maxRelated = 4 %}
+                                    {% assign minCommonTags =  1 %}
+                                    {% assign maxRelatedCounter = 0 %}
+                                        
+                                    {% for relatedPost in site.posts %}
+
+                                        {% assign sameTagCount = 0 %}
+                                        {% assign commonTags = '' %}
+
+                                        {% for tag in relatedPost.tags %}
+                                            {% if relatedPost.url != post.url %}
+                                                {% if post.tags contains tag %}
+                                                    {% assign sameTagCount = sameTagCount | plus: 1 %}
+                                                {% endif %}
+                                            {% endif %}
+                                        {% endfor %}
+
+                                        {% if sameTagCount >= minCommonTags %}
+                                            <li>
+                                                <a href="{{ site.url }}{{ relatedPost.url }}">{{ relatedPost.title }}</a>
+                                            </li>
+                                            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                                            {% if maxRelatedCounter >= maxRelated %}
+                                                {% break %}
+                                            {% endif %}
+                                        {% endif %}
+
+                                    {% endfor %}
+                                    </ul>
                                 </footer>
                             </article>
                         </body>
