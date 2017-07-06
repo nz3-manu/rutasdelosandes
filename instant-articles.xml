@@ -47,7 +47,7 @@ layout: null
                                             })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
                                             ga('create','{{ site.google_analytics }}', 'auto');
-                                            ga('set', 'referrer', 'https://ia.facebook.com');
+                                            ga('set', 'referrer', 'ia.facebook.com');
                                             ga('set', 'dataSource', 'instantArticle');
                                             ga('set', 'campaignName', 'instant articles');
                                             ga('set', 'campaignSource', 'instant articles source');
