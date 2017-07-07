@@ -73,7 +73,9 @@ Hay 2 opciones para llegar desde pereira;  la primera opción es tomar “la chi
 
 
 ## Ruta 🚶🏼
-{% include route.html %}
+{% include route.html
+           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
+%}
 Una vez en La Convención, se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
 
 {% include image.html 
