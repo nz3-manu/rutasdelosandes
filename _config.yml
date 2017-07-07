@@ -5,7 +5,7 @@ email: rutasdelosandes@gmail.com
 description: descubre hermosas y poco conocidas rutas en los andes colombianos, evade multitudes en el camino y descubre las mas bellas especies y paisajes en tus rutas de senderismo
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: es
-url: http://rutasdelosandes.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rutasdelosandes.com # the base hostname & protocol for your site, e.g. http://example.com
 alternative_lang: en
 alternative_url: http://hikingintheandes.com # alternative version
 fbpage: https://www.facebook.com/rutasdelosandes0/

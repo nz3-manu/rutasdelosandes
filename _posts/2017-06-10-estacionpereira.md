@@ -62,7 +62,7 @@ Atracciones turísticas:
 - Zona de camping
 - Caminata Cascada
 
-## Como llegar 
+## Como llegar ? 🛣🚌
 
 {% include iframe.html
     type="custom"
@@ -89,6 +89,12 @@ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita
 %} 
 
 El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 minutos.
+
+{%  include video.html
+    width="352"
+    height="640"
+    file="estacion/marranita.mp4"
+ %}
 
 __Cruzar el rio cauca en "garrucha" 🚡__
 
