@@ -100,6 +100,23 @@ __Para alquiler de habitación compartida y almuerzos se debe confirmar disponib
 
 En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos.
 
+
+{% include image.html 
+    file="quimbaya/slide5.jpg" 
+    width="4032"
+    height="3024"
+    fullscreen="true"
+    caption="test1"
+%} 
+
+{% include image.html 
+    file="quimbaya/sendero.jpg" 
+    width="3024"
+    height="4032"
+    fullscreen="true"
+    caption="test2"
+%} 
+
  {% include image.html 
    file="quimbaya/mirador.JPG" 
     height="533" 
