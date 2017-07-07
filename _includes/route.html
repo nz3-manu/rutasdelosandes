@@ -1,14 +1,28 @@
 {% capture srcdoc %}
-        <div style="color: #31708f;
-                    background-color: #d9edf7;
-                    border-color: #bce8f1;
-                    padding: 15px;
+        <style>
+            body{
+                margin: 0;
+            }
+            .alert-info{
+                color: #31708f;
+                background-color: #d9edf7;
+                border-color: #bce8f1;
+                padding: 5px;
+                border: 1px solid transparent;
+                border-radius: 4px;
+                font-size:16px;
+                font-family: sans-serif;
+                font-weight: 300;
+            }     
+            @media (min-width: 600px) {
+                .alert-info {
+                    padding: 10px;
                     margin-bottom: 20px;
-                    border: 1px solid transparent;
-                    border-radius: 4px;
                     font-size: 18px;
-                    font-family: sans-serif;
-                    font-weight: 300;" class="alert alert-info">
+                }
+            }
+        </style>
+        <div class="alert alert-info">
                     <b> Todas nuestras rutas son grabadas usando la aplicacion Viewranger para senderismo</b>
                     <br>
                     si quieres seguir la ruta en tu celular descargar la app viewranger la cual esta disponible en
@@ -21,6 +35,7 @@
     <amp-iframe 
     sandbox="allow-scripts  allow-popups"
     srcdoc='{{ srcdoc }}'
-    layout="responsive" width="740" height="150">
+    layout="fixed-height"
+    height="190">
     </amp-iframe>
 </figure>
