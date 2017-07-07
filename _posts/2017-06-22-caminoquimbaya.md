@@ -16,7 +16,7 @@ La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua pot
 ## ¿Qué encontrarás?
 
 - Caminata ecológica.
-- Palosanto(punto de referencia donde nace la quebrada la nona)
+- Palosanto(punto de referencia donde nace la quebrada la nona).
 - Gran biodiversidad de  flora y fauna.
 - Mirador donde se puede ver Pereira y Dosquebradas.
 
@@ -61,7 +61,7 @@ Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es
 {% include iframe.html
     type="custom"
     mid="124PdZ7p-xPFBIxAV8OipbwFj5aU&hl=es-419"
-    caption="como llegar a 'la convencion'"
+    caption="Como llegar a 'la convencion'"
 %}
 
 Hay 2 opciones para llegar desde pereira;  la primera opción es tomar “la chiva” o bus escalera, desde La plaza Victoria, cuyos horarios son de lunes a viernes 6 am, 12 pm y 4:30 pm sabado adicional a las 10 am y domingo adicional  8 am el valor del pasaje es aproximado de $3.200 pesos la duración del trayecto es en promedio 1 hora 20 minutos. La segunda opción es  tomar el bus pereira-marsella en el terminal, este bus sale a partir de las 5:30 am cada 30 minutos (si escoges esta opción tendrás que caminar aproximadamente una hora) valor del pasaje aproximado $4.500 pesos duración del trayecto 1 hora aproximadamente.
@@ -71,7 +71,7 @@ Hay 2 opciones para llegar desde pereira;  la primera opción es tomar “la chi
     file="quimbaya/convencion.jpg"
     height="525" 
     width="700"
-    caption="la convecion school"
+    caption="Escuela de la convecion"
 %} 
 
 
@@ -83,15 +83,15 @@ Una vez en La Convención, se debe caminar solo 20 minutos hacia la Casa de la C
     file="quimbaya/Camping.jpg"
     height="533" 
     width="800"
-    caption="casa de la CARDER"
+    caption="Casa de la CARDER"
 %} 
 
-En esta casa se brinda servicio de alojamiento en habitación compartida $25.000 pesos por persona  y alquiler de zona de camping valor $8.000 pesos por persona, además cuenta con cocina y utensilios(platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es la cocina  también se venden desayuno $8.000 pesos almuerzo y comida a $12.000 pesos. Este lugar posee la belleza de una casa colonial, característica del “paisaje cultural cafetero”.
-__Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: 3184017976 Edilia__
+En esta casa se brinda servicio de alojamiento en habitación compartida $25.000 pesos por persona  y alquiler de zona de camping valor $8.000 pesos por persona, además cuenta con cocina y utensilios(platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es la cocina  no te preocupes 😃 también se venden desayuno a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial, característica del “paisaje cultural cafetero”.
+__Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: 3184017976 Edilia__.
 
  {% include image.html 
    file="quimbaya/2017-05-21_10-02-20_o.jpg" 
-   caption="cacique nona trail map"
+   caption="Mapa del sendero cacique nona"
 %} 
 
 
@@ -102,18 +102,18 @@ __Para alquiler de habitación compartida y almuerzos se debe confirmar disponib
 %}
 
 
-En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos .
+En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dentro de esta existe varios puntos de referencia La Bocatoma y Palosanto, el camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos.
 
  {% include image.html 
    file="quimbaya/mirador.JPG" 
     height="533" 
     width="900"
-   caption="Mirador"
+   caption="Mirador alto el nudo"
 %} 
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
-para regresar a pereira se debe tomar en la convención la “chiva” o bus escalera la última sale a las 5:30 pm. 
+para regresar a pereira se debe tomar en la convención la “chiva” o bus escalera 🚌 la última sale a las 5:30 pm. 
 
 
 
