@@ -106,16 +106,10 @@ En este punto inicia el sendero del Cacique Nona, la cual cruza la Reserva, dent
     width="4032"
     height="3024"
     fullscreen="true"
-    caption="test1"
+    caption="variadas plantas que puedes encontrar en el recorrido"
 %} 
 
-{% include image.html 
-    file="quimbaya/sendero.jpg" 
-    width="3024"
-    height="4032"
-    fullscreen="true"
-    caption="test2"
-%} 
+Al llegar a la parte mas alta de nuestro recorrido llegaremos a este lindo mirador
 
  {% include image.html 
    file="quimbaya/mirador.JPG" 
