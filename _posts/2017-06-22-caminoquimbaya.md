@@ -30,25 +30,21 @@ La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua pot
     delay="2000">
     {% include image.html 
         file="quimbaya/slide3.jpg" 
-        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
         height="1067"
     %} 
      {% include image.html 
         file="quimbaya/slide2.jpg" 
-        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="690"
         height="762"
     %} 
      {% include image.html 
         file="quimbaya/slide1.jpg" 
-        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
         height="1067"
     %} 
      {% include image.html 
         file="quimbaya/slide4.jpg" 
-        caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
         width="800"
         height="1067"
     %} 
