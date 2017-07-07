@@ -52,7 +52,7 @@ La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua pot
 
  
 ## ¿Cómo llegar 🚌?
-Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una verda perteneciente a la ciudad de pereira. 
+Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una vereda perteneciente a la ciudad de pereira. 
 
 {% include iframe.html
     type="custom"
