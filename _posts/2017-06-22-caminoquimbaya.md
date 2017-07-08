@@ -96,7 +96,7 @@ En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. 
    file="quimbaya/2017-05-21_10-02-20_o.jpg" 
    caption="Mapa del sendero cacique nona"
 %} 
-
+Ahora ya estamos preparados para empezar el sendero.
 
 {% include iframe.html
     type="custom"
