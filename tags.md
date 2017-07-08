@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Regiones
+image: /images/regiones.jpg
 permalink: /regiones/
 ---
 <!-- Get the tag name for every tag on the site and set them
