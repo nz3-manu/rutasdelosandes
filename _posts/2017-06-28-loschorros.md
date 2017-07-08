@@ -3,7 +3,7 @@ layout: post
 title:  Cascada los chorros
 categories: colombia 
 tags: pereira zonacafetera
-excerpt: Despues de una caminata de 2 horas por un terreno pedregoso con el rio Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!
+excerpt: Después de una caminata de 2 horas por un terreno pedregoso con el río Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /images/chorros/featured.jpg
 author: leidy
