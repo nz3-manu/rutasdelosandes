@@ -3,14 +3,12 @@ layout: home
 image: /images/hiking_in_the_andes.jpg
 ---
 
-Colombia es el segundo pais con mas biodiversidad en el mundo, algunas especies solo es posible observarlas en nuestro territorio. 
+Si no tienes plan para esta semana, anímate a conocer lugares escondidos que no sabías que existían en nuestra región. En todas las rutas encontrarás toda la información de transporte, hospedaje de todo tipo (camping o habitación), alimentación y además encontraras mapas guiados por GPS que te van a ayudar a guiar y disfrutar todos los sitios de interés en el camino para no perderte ningún detalle de nuestro hermoso territorio. 
 
-Por esta razon es que muchos viajeros visitan colombia, Desafortunadamente los senderos populares atraen multitudes y hacen casi imposible 
-poder observar algunas de esas especies en su habitad natural.
+!Anímate a viajar 🏔!
 
-Rutas de los andes documenta rutas de senderismo poco conocidas escritas por locales de cada region de los andes colombianos.
+## Nuestras rutas:
 
-Animate y recorre algunos de esos bellos senderos
 
 
 
