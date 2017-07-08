@@ -9,9 +9,9 @@ excerpt: 16.79 km de selva tropical ubicado entre marsella y pereira, este sende
 image: /images/quimbaya/featured.jpg
 author: daniel
 ---
-El departamento del Risaralda y otros departamentos están constituidos en los antiguos asentamientos de la cultura Quimbaya, en tiempos precolombinos, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
-La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua potable al municipio de Marsella y veredas aledañas, por eso el bosque es muy húmedo y se recomienda uso de indumentaria impermeable y repelente para los mosquitos.  
+El departamento del Risaralda como otros departamentos del eje cafetero están constituidos los antiguos asentamientos de la cultura Quimbaya, en tiempos precolombinos, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
 
+_El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
 ## ¿Qué encontrarás?
 
@@ -51,7 +51,7 @@ La Reserva Forestal La Nona en una cuenca hidrográfica que abastece de agua pot
 </amp-carousel> 
 
  
-## ¿Cómo llegar 🚌?
+## ¿Cómo llegar ?
 Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una vereda perteneciente a la ciudad de pereira. 
 
 {% include iframe.html
@@ -72,11 +72,13 @@ Hay 2 opciones para llegar desde pereira;  la primera opción es tomar “la chi
 
 
 
-## Ruta 🚶🏼
+## El camino 
+
 {% include route.html
            url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
 %}
-Una vez en La Convención, se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
+
+Una vez de haber llegado a la vereda la convención por cualquiera de las 2 rutas explicadas anteriormente (en la sección ¿Cómo llegar?), se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
 
 {% include image.html 
     file="quimbaya/Camping.jpg"
@@ -88,6 +90,8 @@ Una vez en La Convención, se debe caminar solo 20 minutos hacia la Casa de la C
 En esta casa se brinda servicio de alojamiento en habitación compartida $25.000 pesos por persona  y alquiler de zona de camping valor $8.000 pesos por persona, además cuenta con cocina y utensilios(platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es la cocina  no te preocupes 😃 también se venden desayuno a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial, característica del “paisaje cultural cafetero”.
 __Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: 3184017976 Edilia__.
 
+
+En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
  {% include image.html 
    file="quimbaya/2017-05-21_10-02-20_o.jpg" 
    caption="Mapa del sendero cacique nona"
