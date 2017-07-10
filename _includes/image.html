@@ -12,7 +12,12 @@
         >
     </amp-img>
     {% if include.caption %}
-        <figcaption>{{ include.caption }}</figcaption>
+        <figcaption 
+        {% if include.fullscreen %}
+            class="op-large"
+        {% else %}
+            class="op-medium"
+        {% endif %}>{{ include.caption }}</figcaption>
     {% endif %}
 </figure>
 
