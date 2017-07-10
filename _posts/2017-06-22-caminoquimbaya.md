@@ -74,10 +74,6 @@ Hay 2 opciones para llegar desde Pereira;  la primera opción es tomar “la chi
 
 ## El camino 
 
-{% include route.html
-           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
-%}
-
 Una vez de haber llegado a la vereda la convención por cualquiera de las 2 rutas explicadas anteriormente (en la sección ¿Cómo llegar?), se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
 
 {% include image.html 
@@ -130,6 +126,9 @@ El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más 
 Para regresar a Pereira se debe tomar en la convención la “chiva” o bus escalera 🚌 la última sale a las 5:30 pm. 
 
 
+{% include route.html
+           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
+%}
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization
 
