@@ -93,6 +93,7 @@ El costo es de 8 mil pesos para 6 personas, el viaje dura aproximadamente 15 min
 {%  include video.html
     width="352"
     height="640"
+    caption="para los que no han montado antes en marranita este puede ser un emocionante momento"
     file="estacion/marranita.mp4"
  %}
 
