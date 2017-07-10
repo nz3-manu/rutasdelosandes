@@ -9,7 +9,7 @@ excerpt: 16.79 km de selva tropical ubicado entre Marsella y Pereira, este sende
 image: /images/quimbaya/featured.jpg
 author: daniel
 ---
-El departamento del Risaralda como otros departamentos del eje cafetero están constituidos los antiguos asentamientos de la cultura Quimbaya, en tiempos precolombinos, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
+El departamento del Risaralda como otros departamentos del eje cafetero están constituidos como antiguos asentamientos de la cultura Quimbaya, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
@@ -52,7 +52,7 @@ _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas
 
  
 ## ¿Cómo llegar ?
-Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una vereda perteneciente a la ciudad de pereira. 
+Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una vereda perteneciente a la ciudad de Pereira. 
 
 {% include iframe.html
     type="custom"
@@ -60,7 +60,7 @@ Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es
     caption="Como llegar a 'la convencion'"
 %}
 
-Hay 2 opciones para llegar desde pereira;  la primera opción es tomar “la chiva” o bus escalera, desde La plaza Victoria, cuyos horarios son de lunes a viernes 6 am, 12 pm y 4:30 pm sabado adicional a las 10 am y domingo adicional  8 am el valor del pasaje es aproximado de $3.200 pesos la duración del trayecto es en promedio 1 hora 20 minutos. La segunda opción es  tomar el bus pereira-marsella en el terminal, este bus sale a partir de las 5:30 am cada 30 minutos (si escoges esta opción tendrás que caminar aproximadamente una hora) valor del pasaje aproximado $4.500 pesos duración del trayecto 1 hora aproximadamente.
+Hay 2 opciones para llegar desde Pereira;  la primera opción es tomar “la chiva” o bus escalera desde La plaza Victoria, cuyos horarios son de lunes a viernes 6 am, 12 pm y 4:30 pm sabado adicional a las 10 am y domingo adicional  8 am. El valor del pasaje es aproximado de $3.200 pesos, la duración del trayecto es en promedio 1 hora 20 minutos. La segunda opción es  tomar el bus Pereira-Marsella en el terminal, este bus sale a partir de las 5:30 am cada 30 minutos (si escoges esta opción tendrás que caminar aproximadamente una hora) valor del pasaje aproximado $4.500 pesos duración del trayecto 1 hora aproximadamente.
 
 
 {% include image.html 
@@ -127,7 +127,7 @@ Al llegar a la parte mas alta de nuestro recorrido llegaremos a este lindo mirad
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
-para regresar a pereira se debe tomar en la convención la “chiva” o bus escalera 🚌 la última sale a las 5:30 pm. 
+Para regresar a Pereira se debe tomar en la convención la “chiva” o bus escalera 🚌 la última sale a las 5:30 pm. 
 
 
 
