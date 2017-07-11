@@ -3,7 +3,7 @@ layout: post
 title:  Estación Pereira
 alt_url: /colombia/estacionen
 categories: colombia 
-tags: zonacafetera risaralda
+tags: notready
 excerpt: Ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en "garrucha" y recorrerá unas antiguas vías de tren montando una "marranita", ademas podras descubrir una linda cascada después de una caminata corta. Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /images/estacion/featured.jpg
