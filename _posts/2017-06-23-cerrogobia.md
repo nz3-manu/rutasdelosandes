@@ -11,41 +11,65 @@ author: manuel
 ---
 Cerro gobia está ubicado en  el departamento de Risaralda en el municipio de quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 Quinchía fue declarado en 1986 como el  municipio más bello de Risaralda. Su hermoso paisaje de montañas y cerros tutelares enmarca una de las más hermosas vistas de la región cafetera colombiana. 
-La región que hoy ocupa el municipio de Quinchía era habitada por distintos grupos indígenas de la etnia Caribe. Esta región era llamada "Guacuma" por los indígenas, estaba habitada por las tribus de los Guaqueramaes y los Tapascos de la familia de los Ansermas y los Irras con idiomas y costumbres diferentes.
 
 Cerros ubicados en quinchía:
 - Cerro Gobia (rango altitud  1800  2400 msnm)
 - Cerro Batero(Altitud 2200 msnm)
 - Cerro Ingrumá (Altitud 1783 msnm)
 
-## Como llegar
+## ¿Qué encontrarás?
+- Mirador con vista espectacular.
+- Caminata ecológica.
+<amp-carousel 
+    width="400"
+    height="400"
+    layout="responsive"
+    type="slides"
+    autoplay
+    delay="2000">
+    {% include image.html 
+        file="gobia/slider1.jpg" 
+        width="800"
+        height="1067"
+    %} 
+     {% include image.html 
+        file="quimbaya/slider2.jpg" 
+        width="690"
+        height="762"
+    %} 
+</amp-carousel> 
+
+## ¿Cómo llegar?
+Se debe de tomar un bus en el terminal de Pereira de la empresa Flota Occidental 🚌 horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
+Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada :), al llegar a la finca encontraremos zonas de camping  a $8.000 pesos por persona.
+__Por favor confirmar disponibilidad a los teléfonos: 3216128122 Bernarda, Jose Luis 314808851.__
+
+{% include image.html 
+   file="/gobia/camping.jpg" 
+   caption="Lugar donde acampamos"
+   width="800"
+   height="452"
+%} 
+Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
+
+
+## El camino
+
+Una vez en el parque de Quinchía podremos ver Cerro Gobia donde se aprecian 2 piedras que sobresalen en la montaña, la primera es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de Quinchía  y la segundo piedra es un mirador a 2400 metros donde se puede tener una  vista de 360 grados.
+
+{% include image.html 
+   file="/gobia/vistaParque.jpg" 
+   caption="Vista desde el parque"
+   width="800"
+   height="452"
+%} 
+
+Una vez aquí ya estamos listos para empezar nuestro camino a Cerro Gobia.
 
 {% include iframe.html
     type="custom"
     mid="1OoVsxqHUn6iIAR77Q_T2Iv-gd08&hl=es-419"
-    caption="La ruta saliendo desde el pueblo de quimbaya hacia el cerro gobia"
-%}
-
-Se debe de tomar un bus en el terminal de la ciudad de pereira, nombre de la empresa Flota occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00pm, 3:45pm,  4:40pm, 5:40pm. tiempo estimado de llegada 2 horas 50 minutos,  valor del pasaje 14 mil pesos. 
-Al llegar a quinchía podremos ver el cerro de gobia.
-donde se aprecias 2 piedras que sobresalen en la montaña, 1 es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de quinchía  y otro mirador a 2400 donde tiene una vista de 360 grados.
-
-
-{% include image.html 
-   file="/gobia/FullSizeRender2.jpg" 
-   caption="cerro gobia desde quinchia"
-   width="800"
-   height="600"
-%} 
-
-En la parte de abajo detallo la ruta saliendo desde el parque principal de quinchía 
-
-## La ruta
-
-{% include iframe.html
-    type="custom"
-    mid="11oZn70PBJV5HfkUOL9Tr9cwQx3o&hl=es-419"
-    caption="La ruta saliendo desde el pueblo de quimbaya hacia el cerro gobia"
+    caption="La ruta saliendo desde el pueblo de quimbaya hacia el Cerro Gobia"
 %}
 
 Vista desde el mirador de la virgen (1800 msnm)
@@ -57,7 +81,7 @@ Vista desde el mirador de la virgen (1800 msnm)
    height="452"
 %} 
 
-Vista del mirador ubicado a 2400 msnm
+Para llegar al segundo mirador es una subida inclinada el último trayecto hay que subir unas escaleras metálicas, pero todo esto vale la pena por tener una vista de 360 grados :). 
 
 {% include image.html 
    file="/gobia/FullSizeRender2copy.jpg" 
@@ -65,4 +89,6 @@ Vista del mirador ubicado a 2400 msnm
    width="800"
    height="482"
 %} 
+
+Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
 
