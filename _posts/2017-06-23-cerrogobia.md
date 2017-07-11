@@ -33,7 +33,12 @@ Cerros ubicados en quinchía:
         height="1067"
     %} 
      {% include image.html 
-        file="quimbaya/slider2.jpg" 
+        file="gobia/slider2.jpg" 
+        width="690"
+        height="762"
+    %} 
+      {% include image.html 
+        file="gobia/slider3.jpg" 
         width="690"
         height="762"
     %} 
@@ -81,7 +86,7 @@ Vista desde el mirador de la virgen (1800 msnm)
    height="452"
 %} 
 
-Para llegar al segundo mirador es una subida inclinada el último trayecto hay que subir unas escaleras metálicas, pero todo esto vale la pena por tener una vista de 360 grados :). 
+Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo mirador 🙂, la subida es inclinada así que se pueden tardar un poco más. Una vez arriba tenemos que subir el último tramo  que son unas escaleras metálicas, pero todo esto vale la pena por tener una vista de 360 grados. 
 
 {% include image.html 
    file="/gobia/FullSizeRender2copy.jpg" 
@@ -92,3 +97,6 @@ Para llegar al segundo mirador es una subida inclinada el último trayecto hay q
 
 Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
 
+{% include route.html
+           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
+%}
