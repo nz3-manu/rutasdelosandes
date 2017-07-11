@@ -13,7 +13,7 @@ El departamento del Risaralda como otros departamentos del eje cafetero están c
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
-## ¿Qué encontrarás?
+## ¿Qué encontrarás 🏞👀? 
 
 - Caminata ecológica.
 - Palosanto(punto de referencia donde nace la quebrada la nona).
@@ -51,7 +51,7 @@ _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas
 </amp-carousel> 
 
  
-## ¿Cómo llegar ?
+## ¿Cómo llegar 🛣🚌?
 Para ir a la Reserva, primero se debe llegar a la vereda La Convención, esta es una vereda perteneciente a la ciudad de Pereira. 
 
 {% include iframe.html
@@ -72,7 +72,7 @@ Hay 2 opciones para llegar desde Pereira;  la primera opción es tomar “la chi
 
 
 
-## El camino 
+## El camino 🏃🏽
 
 Una vez de haber llegado a la vereda la convención por cualquiera de las 2 rutas explicadas anteriormente (en la sección ¿Cómo llegar?), se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
 

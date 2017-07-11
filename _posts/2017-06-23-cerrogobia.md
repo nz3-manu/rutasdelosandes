@@ -17,7 +17,7 @@ __Cerros ubicados en Quinchía:__
 - <a href="https://rutasdelosandes.com/colombia/cerrobatero"> Cerro Batero(Altitud 2200 msnm)</a>
 - Cerro Ingrumá (Altitud 1783 msnm)
 
-## ¿Qué encontrarás?
+## ¿Qué encontrarás 🏞👀?
 - Vista sin igual de 360º de quinchía y de poblaciones cercanas.
 - Caminata ecológica.
 <amp-carousel 
