@@ -40,7 +40,7 @@ Cerros ubicados en quinchía:
       {% include image.html 
         file="gobia/slider3.jpg" 
         width="528"
-        height="960"
+        height="570"
     %} 
 </amp-carousel> 
 
