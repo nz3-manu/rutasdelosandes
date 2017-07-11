@@ -86,7 +86,7 @@ Vista desde el mirador de la virgen (1800 msnm)
    height="452"
 %} 
 
-Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo mirador 🙂, la subida es inclinada así que se pueden tardar un poco más. Una vez arriba tenemos que subir el último tramo  que son unas escaleras metálicas, pero todo esto vale la pena por tener una vista de 360 grados. 
+Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo mirador 🙂, la subida es inclinada así que se pueden tardar un poco más. Una vez arriba tenemos que subir el último tramo  que son unas escaleras metálicas en caracol, pero todo esto vale la pena por tener una vista de 360 grados. 
 
 {% include image.html 
    file="/gobia/FullSizeRender2copy.jpg" 
