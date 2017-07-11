@@ -72,7 +72,7 @@ Hay 2 opciones para llegar desde Pereira;  la primera opción es tomar “la chi
 
 
 
-## El camino 🏃🏽
+## El camino 🏃🏽🚶🏽
 
 Una vez de haber llegado a la vereda la convención por cualquiera de las 2 rutas explicadas anteriormente (en la sección ¿Cómo llegar?), se debe caminar solo 20 minutos hacia la Casa de la CARDER, en donde inicia la Reserva.
 

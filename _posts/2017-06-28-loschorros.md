@@ -64,7 +64,7 @@ La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; pa
     caption="desde  la plazoleta del centro comercial victoria hasta el cedral en chiva"
 %}
 
-## El camino 🏃🏽
+## El camino 🏃🏽🚶🏽
 
 El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio __se debe confirmar con 2 dias de anticipacion Telefono: <a href="tel:0363144162">(036)3144162</a>.__
 
