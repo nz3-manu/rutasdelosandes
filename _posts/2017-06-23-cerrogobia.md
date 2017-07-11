@@ -9,10 +9,10 @@ excerpt: Ubicado en el municipio de Quinchía y a tan solo 1.5 kilómetros de su
 image: /images/gobia/featured.jpg
 author: manuel
 ---
-Cerro gobia está ubicado en  el departamento de Risaralda en el municipio de quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
+Cerro Gobia está ubicado en  el departamento de Risaralda en el municipio de quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 Quinchía fue declarado en 1986 como el  municipio más bello de Risaralda. Su hermoso paisaje de montañas y cerros tutelares enmarca una de las más hermosas vistas de la región cafetera colombiana. 
 
-Cerros ubicados en quinchía:
+Cerros ubicados en Quinchía:
 - Cerro Gobia (rango altitud  1800  2400 msnm)
 - Cerro Batero(Altitud 2200 msnm)
 - Cerro Ingrumá (Altitud 1783 msnm)
@@ -44,7 +44,7 @@ Cerros ubicados en quinchía:
     %} 
 </amp-carousel> 
 
-## ¿Cómo llegar?
+## ¿Cómo llegar 🛣🚌?
 Se debe de tomar un bus en el terminal de Pereira de la empresa Flota Occidental 🚌 horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
 Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada :), al llegar a la finca encontraremos zonas de camping  a $8.000 pesos por persona.
 __Por favor confirmar disponibilidad a los teléfonos: 3216128122 Bernarda, Jose Luis 314808851.__
@@ -58,7 +58,7 @@ __Por favor confirmar disponibilidad a los teléfonos: 3216128122 Bernarda, Jose
 Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
 
 
-## El camino
+## El camino 🏃🏽
 
 Una vez en el parque de Quinchía podremos ver Cerro Gobia donde se aprecian 2 piedras que sobresalen en la montaña, la primera es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de Quinchía  y la segundo piedra es un mirador a 2400 metros donde se puede tener una  vista de 360 grados.
 
