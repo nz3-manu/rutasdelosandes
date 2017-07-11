@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cerro Gobia en Quinchia
+title:  Cerro Gobia
 alt_url: /colombia/estacionen
 categories: colombia 
 tags: zonacafetera risaralda quinchia
