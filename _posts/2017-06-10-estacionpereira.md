@@ -104,7 +104,7 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
 Después de haber cruzado el río cauca llegamos a la finca la Playita donde cuenta con zona de camping 🏕 el costo es de $6.000 pesos por carpa, habitaciòn privada 2 personas $26.000 pesos (los precios son aproximados), la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca. Teléfono: 
 <a href="tel:3117007797">3117007797</a>.
 
-## El camino 🏃🏽🚶🏽
+## El camino 🚶🏽🚶🏽
 
 Una vez de haber cruzado el río cauca en la “garrucha” ya estamos preparados para iniciar  el recorrido a las cascadas las cuales están a 30 minutos caminando de la “finca la Playita”(donde nos deja la garrucha) por una camino muy señalizado.
 

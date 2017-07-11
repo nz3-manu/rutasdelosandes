@@ -66,7 +66,7 @@ __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">
 Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
 
 
-## El camino 🏃🏽🚶🏽
+## El camino 🚶🏽🚶🏽
 
 {% include iframe.html
     type="custom"

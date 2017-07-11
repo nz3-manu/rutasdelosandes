@@ -55,7 +55,7 @@ __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">
    width="800"
 %} 
 
-## El camino 🏃🏽🚶🏽
+## El camino 🚶🏽🚶🏽
 
 Después de dejar todo nuestro equipaje en la hospedaje, iniciamos nuestro recorrido para llegar a la vereda batero, se puede llegar de 2 formas; tomando un jeep que pasa a las 7:00 am y tiene un costo de 4.000 mil, la segunda opción es caminando desde la finca que estábamos hospedados nos tardamos aproximadamente 1 hora y 30 para llegar hasta la vereda batero.
 
