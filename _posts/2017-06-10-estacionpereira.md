@@ -11,7 +11,7 @@ author: manuel
 ---
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
-##¿Qué encontrarás?
+## ¿Qué encontrarás?
 - Paseo en marranitas (se explica más a detalle en la ruta).
 - Cruce del rio Cauca en Garrucha (se explica más a detalle en la ruta).
 - Piscina de agua natural.
