@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Estacion pereira
+title:  Estación Pereira
 alt_url: /colombia/estacionen
 categories: colombia 
 tags: zonacafetera risaralda
-excerpt: Ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en "garrucha" y recorrerá unas antiguas vías de tren montando una "marranita", ademas podras descubrir una linda cascada después de una caminata corta.
+excerpt: Ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en "garrucha" y recorrerá unas antiguas vías de tren montando una "marranita", ademas podras descubrir una linda cascada después de una caminata corta. Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 image: /images/estacion/featured.jpg
 author: manuel
@@ -12,8 +12,8 @@ author: manuel
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
 ## ¿Qué encontrarás?
-- Paseo en marranitas (se explica más a detalle en la ruta).
-- Cruce del rio Cauca en Garrucha (se explica más a detalle en la ruta).
+- Paseo en "marranitas" (se explica más a detalle en la ruta).
+- Cruce del rio Cauca en "garrucha" (se explica más a detalle en la ruta).
 - Piscina de agua natural.
 - Zona de camping.
 - Cascada.
@@ -101,8 +101,8 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
    height="450"
 %} 
 
-Después de haber cruzado el río cauca llegamos a la finca la Playita donde se puede acampar el costo es de $6.000 pesos por carpa, habitaciòn privada 2 personas $26.000 pesos, la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca.Teléfono:  
-<a href="tel:+573117007797">3117007797</a>.
+Después de haber cruzado el río cauca llegamos a la finca la Playita donde cuenta con zona de camping 🏕 el costo es de $6.000 pesos por carpa, habitaciòn privada 2 personas $26.000 pesos (los precios son aproximados), la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca. Teléfono: 
+<a href="tel:3117007797">3117007797</a>.
 
 ## El camino 🏃
 

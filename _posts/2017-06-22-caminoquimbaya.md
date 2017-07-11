@@ -84,7 +84,7 @@ Una vez de haber llegado a la vereda la convención por cualquiera de las 2 ruta
 %} 
 
 En esta casa se brinda servicio de alojamiento en habitación compartida $25.000 pesos por persona  y alquiler de zona de camping valor $8.000 pesos por persona, además cuenta con cocina y utensilios(platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es la cocina  no te preocupes 😃 también se venden desayuno a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial, característica del “paisaje cultural cafetero”.
-__Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: 3184017976 Edilia__.
+__Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: <a href="tel:3184017976">3184017976</a> Edilia__.
 
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
