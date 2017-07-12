@@ -55,9 +55,9 @@ layout: null
                                 </figure>
                             <header>
                                 <h1>{{ post.title | xml_escape }}</h1>
-                                {% if post.image %}
+                                {% if post.images_url %}
                                     <figure>
-                                        <img src="{{ post.image |  prepend: site.url }}" alt=" {{ post.title }} ">
+                                        <img src="{{ post.images_url |  prepend: site.url }}/featured.jpg" alt=" {{ post.title }} ">
                                         <figcaption>{{ post.title }}</figcaption>
                                     </figure>                          
                                 {% endif %}
