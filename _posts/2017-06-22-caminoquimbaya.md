@@ -128,7 +128,9 @@ Para regresar a Pereira se debe tomar en la convención la “chiva” o bus esc
 
 {% include route.html
            url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
+           gpx="quimbaya_trail"
 %}
+{% include warning.html %}
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization
 

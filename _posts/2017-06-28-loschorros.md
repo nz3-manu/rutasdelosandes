@@ -92,7 +92,13 @@ En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pes
     fullscreen="true"
     caption="nuestra recompensa sera esta majestuosa cascada de 20 metros de altura"
 %} 
-
  
 Para regresar la última “chiva” o bus escalera 🚌 sale a las 5 pm desde el Cedral.
+
+{% include route.html
+           url="http://my.viewranger.com/route/details/MTQwODQyMA=="
+           gpx="loschorros"
+%}
+
+{% include warning.html %}
 
