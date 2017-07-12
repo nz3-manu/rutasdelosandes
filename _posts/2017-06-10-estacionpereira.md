@@ -6,7 +6,7 @@ categories: colombia
 tags: notready
 excerpt: Ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en "garrucha" y recorrerá unas antiguas vías de tren montando una "marranita", ademas podras descubrir una linda cascada después de una caminata corta. Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-image: /images/estacion/featured.jpg
+images_url: /images/estacion
 author: manuel
 ---
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.

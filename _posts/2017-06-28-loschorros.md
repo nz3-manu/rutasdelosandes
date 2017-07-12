@@ -5,7 +5,7 @@ categories: colombia
 tags: pereira zonacafetera
 excerpt: Después de una caminata de 2 horas por un terreno pedregoso con el río Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-image: /images/chorros/featured.jpg
+images_url: /images/chorros
 author: leidy
 ---
 La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
