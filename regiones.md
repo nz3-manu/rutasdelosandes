@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Regiones
-image: /images/regiones.jpg
 permalink: /regiones/
+images_url: /images/regiones
 ---
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
