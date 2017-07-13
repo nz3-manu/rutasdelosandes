@@ -106,5 +106,6 @@ Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo 
    height="482"
 %} 
 
-Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
+Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Gobia sin preocupaciones.
 
+                                            *"Aprovechemos lo nuestro y cuidemos lo nuestro"*
