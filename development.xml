@@ -65,7 +65,7 @@ layout: null
                                     replace: '4" src="', fbvideos |
                                     replace: "</amp-video>", "</video>"
                                 }}  
-                                <figure class="op-tracker">
+                                <figure class="op-tracker op-interactive">
                                     <iframe>
                                     asdf
                                     asdf
