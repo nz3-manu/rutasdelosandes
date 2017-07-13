@@ -7,14 +7,13 @@ tags: Quinchía
 excerpt: Para los amantes de la adrenalina, después de caminar 9km veremos una escalada de 150 metros por escalinatas pegadas a la roca  al final todo se recompensa con una linda vista de la villa de los cerros.Duración del trayecto 1 día
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url : /images/batero
-viewranger: MTM4MjU4NA==
 author: manuel
 ---
 Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
 
 ⚠️ __Recomendaciones:__
-* Si está lloviendo evitese de subir al Cerro Batero.
+* Si está lloviendo evite subir al Cerro Batero.
 * Llevar tenis de buen agarre.
 * La subida es por trayectos muy difíciles no es recomendado para personas de edad o niños.
 
@@ -67,8 +66,8 @@ Para ir a Cerro Batero primero tenemos que ir a la vereda Batero, la cual se pue
     caption="desde el matadero viejo pasando por el jardin botanico y por el camping de la finca la mona"
 %}
 
-Al llegar la vereda batero encontrarás una tienda por si necesitas comprar algo, ya que el ascenso hasta el cerro es aproximadamente 2 horas y 30 minutos.
-en el ascenso hay que tener precaución ya que tienes que subir por escaleras de metal y pasos muy angostas donde de lizarse podrían herirse de gravedad o algo peor.
+Al llegar a la vereda Batero encontrarás una tienda por si necesitas comprar algo  de comida y agua 🍎🍶, ya que el ascenso hasta el cerro es aproximadamente 2 horas y 30 minutos.
+En el ascenso hay que tener precaución ya que tienes que subir por escaleras de metal y pasos muy angosto donde de lizarse podrían herirse o algo peor 😰.
 
 {% include image.html 
    file="batero/subida.jpg"
@@ -76,10 +75,15 @@ en el ascenso hay que tener precaución ya que tienes que subir por escaleras de
    height="560" 
    width="897"
 %} 
-Una vez dicho esto ya estamos listos para empezar nuestro asenso 🙂. 
+Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero.
+
+----- Mapa de vereda batero hasta Cerro Batero. -----
 
 
-Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
+Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía donde podremos tomar el bus para Pereira.
+
+                                              *"Aprovechemos lo nuestro y cuidemos lo nuestro"*
+
 
 
 
