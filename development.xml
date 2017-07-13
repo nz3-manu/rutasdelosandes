@@ -67,44 +67,6 @@ layout: null
                                 }}  
                                 <figure class="op-tracker op-interactive">
                                     <iframe>
-                                    asdf
-                                    asdf
-                                    sdf
-                                    sdf
-                                    sdf
-                                    asdf
-                                    sdfsa
-                                    dfsa
-                                    dfsdf
-                                    asdfsd
-                                    fsadf
-                                    sdf
-                                    sdf
-                                    sad
-                                    fsdf
-                                    sdf
-                                    sadf
-                                    sdf
-                                    sd
-                                    fasdf
-                                    sd
-                                    fsd
-                                    fsd
-                                    fsd
-                                    fsd
-                                    fsd
-                                    fs
-                                    df
-                                    sdf
-                                    sd
-                                    f
-                                    sdf
-                                    sdf
-                                    sdfsd
-                                    f
-                                    sdf
-                                    sadf
-                                    sdf
                                         <script>
                                             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                                             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -116,6 +78,9 @@ layout: null
                                             ga('set', 'referrer', 'http://m.facebook.com/');
                                             ga('send', 'pageview');
                                         </script>
+                                        <a href="https://www.google.com.co/?gws_rd=ssl" onclick="ga('send', 'event', 'Videos', 'play', 'Fall Campaign')">
+                                         test link
+                                        </a>
                                     </iframe>
                                 </figure>
                                 <footer>
