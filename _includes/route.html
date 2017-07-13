@@ -3,17 +3,17 @@
         <b> Todas nuestras rutas son grabadas usando la aplicacion Viewranger para senderismo</b>
         <br>
         si quieres seguir la ruta en tu celular descargar la app viewranger la cual esta disponible en
-        <a onclick="ga('send', 'event', 'Rutas', 'descargaAppIos', 'Fall Campaign')" target="_blank" href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8">IOS</a> y 
-        <a onclick="ga('send', 'event', 'Rutas', 'descargaAppAndroid', 'Fall Campaign')" target="_blank" href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es"> Android</a>,
+        <a id="ios" onclick="ga('send', 'event', 'Rutas', 'descargaAppIos', 'Fall Campaign')" target="_blank" href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8">IOS</a> y 
+        <a id="android" onclick="ga('send', 'event', 'Rutas', 'descargaAppAndroid', 'Fall Campaign')" target="_blank" href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es"> Android</a>,
         una vez instalada ó si ya tienes la aplicacion solo necesitas<b> 
-        <a onclick="ga('send', 'event', 'Rutas', 'clickRutaOnline', 'Fall Campaign')" target="_blank" href="http://my.viewranger.com/route/details/{{include.viewranger}}">
+        <a id="viewranger" onclick="ga('send', 'event', 'Rutas', 'clickRutaOnline', 'Fall Campaign')" target="_blank" href="http://my.viewranger.com/route/details/{{include.viewranger}}">
           descarga esta ruta
         </a>
         </b>
         <br>
         <b> Para aquellos que disponen de un dispositivo GPS 📟 </b>
         pueden descargar la ruta en formato 
-        <a onclick="ga('send', 'event', 'Rutas', 'descargaRutaGpx', 'Fall Campaign')" target="_blank" href="{{site.url}}{{page.images_url}}/gpx/ruta.gpx">GPX</a>
+        <a id="gpx" onclick="ga('send', 'event', 'Rutas', 'descargaRutaGpx', 'Fall Campaign')" target="_blank" href="{{site.url}}{{include.images_url}}/gpx/ruta.gpx">GPX</a>
 </div>
 <div class="warning">
   <i class="fa fa-exclamation-circle fa-2" aria-hidden="true"></i>

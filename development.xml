@@ -111,7 +111,7 @@ layout: null
                                                 padding: 10px;
                                             }
                                         </style>
-                                        {% include route.html viewranger = post.viewranger %}
+                                        {% include route.html images_url = post.images_url viewranger = post.viewranger %}
                                     </iframe>
                                 </figure>
                                 <footer>
