@@ -38,21 +38,6 @@ layout: null
                         </head>
                         <body>
                             <article>
-                                <figure class="op-tracker">
-                                    <iframe>
-                                        <script>
-                                            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                                            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-                                            ga('create','{{ site.google_analytics }}', {'alwaysSendReferrer': true});
-                                            ga('set', 'dataSource', 'iafacebook');
-                                            ga('set', 'referrer', 'http://m.facebook.com/');
-                                            ga('send', 'pageview');
-                                        </script>
-                                    </iframe>
-                                </figure>
                             <header>
                                 <h1>{{ post.title | xml_escape }}</h1>
                                 {% if post.images_url %}
@@ -80,6 +65,59 @@ layout: null
                                     replace: '4" src="', fbvideos |
                                     replace: "</amp-video>", "</video>"
                                 }}  
+                                <figure class="op-tracker">
+                                    <iframe>
+                                    asdf
+                                    asdf
+                                    sdf
+                                    sdf
+                                    sdf
+                                    asdf
+                                    sdfsa
+                                    dfsa
+                                    dfsdf
+                                    asdfsd
+                                    fsadf
+                                    sdf
+                                    sdf
+                                    sad
+                                    fsdf
+                                    sdf
+                                    sadf
+                                    sdf
+                                    sd
+                                    fasdf
+                                    sd
+                                    fsd
+                                    fsd
+                                    fsd
+                                    fsd
+                                    fsd
+                                    fs
+                                    df
+                                    sdf
+                                    sd
+                                    f
+                                    sdf
+                                    sdf
+                                    sdfsd
+                                    f
+                                    sdf
+                                    sadf
+                                    sdf
+                                        <script>
+                                            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                                            ga('create','{{ site.google_analytics }}', {'alwaysSendReferrer': true});
+                                            ga('set', 'dataSource', 'iafacebook');
+                                            ga('set', 'referrer', 'http://m.facebook.com/');
+                                            ga('send', 'pageview');
+                                        </script>
+                                    </iframe>
+                                </figure>
                                 <footer>
                                    <ul class="op-related-articles">
                                     {% assign maxRelated = 4 %}
