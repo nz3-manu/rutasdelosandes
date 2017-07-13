@@ -7,6 +7,7 @@ tags: zonacafetera Pereira Marsella
 excerpt: 16.79 km de selva tropical ubicado entre Marsella y Pereira, este sendero está lleno de variada vegetación  y termina con una hermosa panorámica de la ciudad de Pereira.Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url: /images/quimbaya
+viewranger: MTM4MjU4NA==
 author: daniel
 ---
 El departamento del Risaralda como otros departamentos del eje cafetero están constituidos como antiguos asentamientos de la cultura Quimbaya, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, y es allí donde inicia esta ruta.
@@ -124,13 +125,6 @@ Al llegar a la parte mas alta de nuestro recorrido llegaremos a este lindo mirad
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2000 metros sobre el nivel del mar, es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella, debido a su altura desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
 Para regresar a Pereira se debe tomar en la convención la “chiva” o bus escalera 🚌 la última sale a las 5:30 pm. 
-
-
-{% include route.html
-           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
-           gpx="quimbaya_trail"
-%}
-{% include warning.html %}
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization
 

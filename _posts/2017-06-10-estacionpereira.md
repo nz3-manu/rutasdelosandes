@@ -117,7 +117,3 @@ Una vez de haber cruzado el río cauca en la “garrucha” ya estamos preparado
 %} 
 De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:40 pm desde Estación Pereira.
 
-
-
-
-

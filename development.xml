@@ -78,9 +78,40 @@ layout: null
                                             ga('set', 'referrer', 'http://m.facebook.com/');
                                             ga('send', 'pageview');
                                         </script>
-                                        <a href="https://www.google.com.co/?gws_rd=ssl" onclick="ga('send', 'event', 'Videos', 'play', 'Fall Campaign')">
-                                         test link
-                                        </a>
+                                        <style>
+                                            .alert-title{
+                                                font-size: 25px;
+                                            }
+                                            .alert-info{
+                                                color: #31708f;
+                                                background-color: #d9edf7;
+                                                border-color: #bce8f1;
+                                                padding: 7px 9px;
+                                                border: 1px solid transparent;
+                                                border-radius: 4px;
+                                                font-size:17px;
+                                                font-family: sans-serif;
+                                                font-weight: 300;
+                                            }     
+                                            @media (min-width: 600px) {
+                                                .alert-info {
+                                                    padding: 10px;
+                                                    margin-bottom: 20px;
+                                                    font-size: 18px;
+                                                }
+                                            }
+                                             body{
+                                                margin: 0;
+                                            }
+                                            .warning {
+                                                background-color: #fcf8e3;
+                                                border-color: #faebcc;
+                                                color: #8a6d3b;
+                                                font-size: 14px;
+                                                padding: 10px;
+                                            }
+                                        </style>
+                                        {% include route.html viewranger = post.viewranger %}
                                     </iframe>
                                 </figure>
                                 <footer>

@@ -1,49 +1,34 @@
-{% capture srcdoc %}
-        <style>
-            body{
-                margin: 0;
-            }
-            .alert-title{
-                font-size: 25px;
-            }
-            .alert-info{
-                color: #31708f;
-                background-color: #d9edf7;
-                border-color: #bce8f1;
-                padding: 7px 9px;
-                border: 1px solid transparent;
-                border-radius: 4px;
-                font-size:17px;
-                font-family: sans-serif;
-                font-weight: 300;
-            }     
-            @media (min-width: 600px) {
-                .alert-info {
-                    padding: 10px;
-                    margin-bottom: 20px;
-                    font-size: 18px;
-                }
-            }
-        </style>
-        <div class="alert alert-info">
-                    <div class="alert-title">Como seguir la ruta? 🗺🚶</div>                  
-                    <b> Todas nuestras rutas son grabadas usando la aplicacion Viewranger para senderismo</b>
-                    <br>
-                    si quieres seguir la ruta en tu celular descargar la app viewranger la cual esta disponible en
-                    <a target="_blank" href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8">IOS</a> y 
-                    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es"> Android</a>,
-                    una vez instalada ó si ya tienes la aplicacion solo necesitas<b> <a target="_blank" href="{{include.url}}">descarga esta ruta</a></b>
-                    <br>
-                    <b> Para aquellos que disponen de un dispositivo GPS 📟 </b>
-                    pueden descargar la ruta en formato <a target="_blank" href="{{site.url}}{{page.images_url}}/gpx/{{include.gpx}}.gpx">GPX</a>
-        </div>
-{% endcapture %}
-<figure class="op-interactive">
-    <amp-iframe 
-    sandbox="allow-scripts  allow-popups"
-    srcdoc='{{ srcdoc }}'
-    layout="fixed-height"
-    height="300">
-    </amp-iframe>
-</figure>
+<div class="alert alert-info">
+        <div class="alert-title">Como seguir la ruta? 🗺🚶</div>                  
+        <b> Todas nuestras rutas son grabadas usando la aplicacion Viewranger para senderismo</b>
+        <br>
+        si quieres seguir la ruta en tu celular descargar la app viewranger la cual esta disponible en
+        <a onclick="ga('send', 'event', 'Rutas', 'descargaAppIos', 'Fall Campaign')" target="_blank" href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8">IOS</a> y 
+        <a onclick="ga('send', 'event', 'Rutas', 'descargaAppAndroid', 'Fall Campaign')" target="_blank" href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es"> Android</a>,
+        una vez instalada ó si ya tienes la aplicacion solo necesitas<b> 
+        <a onclick="ga('send', 'event', 'Rutas', 'clickRutaOnline', 'Fall Campaign')" target="_blank" href="http://my.viewranger.com/route/details/{{include.viewranger}}">
+          descarga esta ruta
+        </a>
+        </b>
+        <br>
+        <b> Para aquellos que disponen de un dispositivo GPS 📟 </b>
+        pueden descargar la ruta en formato 
+        <a onclick="ga('send', 'event', 'Rutas', 'descargaRutaGpx', 'Fall Campaign')" target="_blank" href="{{site.url}}{{page.images_url}}/gpx/ruta.gpx">GPX</a>
+</div>
+<div class="warning">
+  <i class="fa fa-exclamation-circle fa-2" aria-hidden="true"></i>
+  <b>
+    ⚠️ &nbsp; <i>Por favor tenga esto en mente cuanto este recorriendo los senderos </i>
+  </b>
+  <ul>
+    <li>Trata de no dejar rastro.</li>
+    <li>Recuerda no dejar basura en los senderos.</li>
+    <li>Disfruta de lo que encuentras y dejalo tal cual lo encontraste (toma solo fotos, deja solo las huellas de tus pisadas).</li>
+    <li>Minimiza el impacto de tus fogatas.</li>
+    <li>Respeta la vida silvestre.</li>
+    <li>Se amable con los demas visitantes.</li>
+  </ul>
+</div>
+
+
 

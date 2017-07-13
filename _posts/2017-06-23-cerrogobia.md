@@ -107,6 +107,3 @@ Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo 
 
 Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
 
-{% include route.html
-           url="http://my.viewranger.com/route/details/MTM4MjU4NA=="
-%}

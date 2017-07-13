@@ -73,6 +73,8 @@ layout: default
       {% endfor %}
     </ul>
     {{ content }}
+     {% assign viewranger= page.viewranger %}
+     {% include route.html viewranger = viewranger %}
   </div>
 </article>
 </div>
