@@ -45,7 +45,7 @@ __Cerros ubicados en Quinchía:__
 
 ## ¿Cómo llegar 🛣🚌?
 
-Se debe de tomar un bus en el terminal de Pereira de la empresa Flota Occidental 🚌 horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
+Se debe de tomar un bus 🚌 en el terminal de Pereira de la empresa Flota Occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
 Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada :), al llegar a la finca encontraremos zonas de camping 🏕  a $8.000 pesos por persona.
 __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:314808851">314808851</a>.__
 
@@ -59,7 +59,7 @@ __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">
 
 ## El camino 🚶🏽🚶🏽
 
-Después de dejar todo nuestro equipaje en la hospedaje, iniciamos nuestro recorrido para llegar a la vereda batero, se puede llegar de 2 formas; tomando un jeep que pasa a las 7:00 am y tiene un costo de 4.000 mil, la segunda opción es caminando desde la finca que estábamos hospedados nos tardamos aproximadamente 1 hora y 30 para llegar hasta la vereda batero.
+Para ir a Cerro Batero primero tenemos que ir a la vereda Batero, la cual se puede llegar de 2 formas; 1) tomando un jeep que lo podemos abordar en el parque de Quinchía en los horarios:  7 am, 10 am, 12 pm , 4 pm y 5:30 pm los domingo salen “chivas” o bus escalera 🚌 adicionales cuyos horarios son: 6 am, 12 pm y 3 pm tiene un costo aproximado de $3.800 pesos la duración del trayecto es de 30 minutos, si estás hospedado en el mismo lugar que nosotros puedes tomar el jeep en la carretera que pasa cerca de la finca. 2) Nuestra segunda opción es caminar desde la finca que estamos hospedados, duración aproximada es 1 hora y 30 para llegar hasta la vereda Batero, abajo dejamos la ruta desde nuestro hospedaje para las personas que quieran hacer la ruta caminando 🚶🏼.
 
 {% include iframe.html
     type="custom"
@@ -76,6 +76,9 @@ en el ascenso hay que tener precaución ya que tienes que subir por escaleras de
    height="560" 
    width="897"
 %} 
+Una vez dicho esto ya estamos listos para empezar nuestro asenso 🙂. 
+
+
 Para tomar el bus 🚌 de regreso a Pereira el último sale hasta las 5:00 pm.
 
 
