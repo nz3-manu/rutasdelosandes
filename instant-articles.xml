@@ -112,6 +112,24 @@ layout: null
                                             }
                                         </style>
                                         {% include route.html images_url = post.images_url viewranger = post.viewranger %}
+                                        <script>
+                                            var android =  document.getElementById("android")
+                                            var ios = document.getElementById("ios")
+                                            var viewranger = document.getElementById("viewranger")
+                                            var gpx = document.getElementById("gpx")
+                                            ios.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'descargaAppIos', 'Fall Campaign')
+                                            }
+                                            android.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'descargaAppAndroid', 'Fall Campaign')
+                                            }
+                                            viewranger.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'clickRutaOnline', 'Fall Campaign')
+                                            }
+                                            gpx.onclick= function(){
+                                                ga('send', 'event', 'Rutas', 'descargaRutaGpx', 'Fall Campaign')
+                                            }
+                                        </script>
                                     </iframe>
                                 </figure>
                                 <footer>

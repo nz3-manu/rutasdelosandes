@@ -5,35 +5,48 @@
     "account": "{{ site.google_analytics }}"
   },
   "triggers": {
-    "trackPageview": {
-      "on": "visible",
-      "request": "pageview"
-    },
-    "trackClickOnHeader" : {
-      "on": "click",
-      "selector": "#header",
-      "request": "event",
-      "vars": {
-        "eventCategory": "ui-components",
-        "eventAction": "header-click"
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      },
+      "trackClickGpx" : {
+        "on": "click",
+        "selector": "#gpx",
+        "request": "event",
+        "vars": {
+          "eventCategory": "Rutas",
+          "eventAction": "descargaRutaGpx",
+          "eventLabel": "test"
+        }
+      },
+      "trackClickOnAndroid" : {
+        "on": "click",
+        "selector": "#android",
+        "request": "event",
+        "vars": {
+          "eventCategory": "Rutas",
+          "eventAction": "descargaAppAndroid",
+          "eventLabel": "test"
+        }
+      },
+      "trackClickOnIos" : {
+        "on": "click",
+        "selector": "#ios",
+        "request": "event",
+        "vars": {
+          "eventCategory": "Rutas",
+          "eventAction": "descargaAppIos",
+          "eventLabel": "test"
       }
-    },
-     "trackClickOnFooter" : {
-      "on": "click",
-      "selector": "#header",
-      "request": "event",
-      "vars": {
-        "eventCategory": "ui-components",
-        "eventAction": "header-click"
-      }
-    },
-      "trackClickOnBody" : {
-      "on": "click",
-      "selector": "#header",
-      "request": "event",
-      "vars": {
-        "eventCategory": "ui-components",
-        "eventAction": "header-click"
+      },
+      "trackClickOnViewRanger" : {
+        "on": "click",
+        "selector": "#viewranger",
+        "request": "event",
+        "vars": {
+          "eventCategory": "Rutas",
+          "eventAction": "clickRutaOnline",
+          "eventLabel": "test"
       }
     }
   }
