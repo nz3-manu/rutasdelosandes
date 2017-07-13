@@ -29,7 +29,8 @@ to the `site_tags` variable. -->
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
      <div class="tag_container">
-      {% for post in site.tags[this_word] %}{% if post.title != null %} 
+      {% for post in site.tags[this_word] %}
+          {% if post.title != null %} 
           <a class="tag_post" href="{{ post.url }}">
             <div class="post-thumbnail">
               <amp-img  src="{{post.image}}" 

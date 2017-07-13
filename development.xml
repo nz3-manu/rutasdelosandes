@@ -14,7 +14,7 @@ layout: null
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <language>es-co</language>
     {% for post in site.posts %}
-        {% unless post.draft %}
+        {% if post.draft %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <link>{{ site.url }}{{ post.url }}</link>
@@ -118,7 +118,7 @@ layout: null
                     ]]>
                 </content:encoded>
             </item>
-        {% endunless %}
+        {% endif %}
     {% endfor %}
   </channel>
 </rss>

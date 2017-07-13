@@ -1,10 +1,10 @@
 ---
+draft: true
 layout: post
 title:  Cerro de Batero
 categories: colombia
 tags: Quinchía
-excerpt: Para los amantes de la adrenalina, después de caminar 9km veremos una escalada de 150 metros por escalinatas pegadas a la roca  al final todo se recompensa con una linda vista de la villa de los cerros.
-Duración del trayecto 1 día
+excerpt: Para los amantes de la adrenalina, después de caminar 9km veremos una escalada de 150 metros por escalinatas pegadas a la roca  al final todo se recompensa con una linda vista de la villa de los cerros.Duración del trayecto 1 día
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url : /images/batero
 author: manuel
