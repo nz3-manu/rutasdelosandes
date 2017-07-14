@@ -92,7 +92,11 @@ layout: null
                                                 font-size:17px;
                                                 font-family: sans-serif;
                                                 font-weight: 300;
-                                            }     
+                                            } 
+                                            .alert-info a{
+                                                color: #000015;
+                                                font-weight: 300;
+                                            }    
                                             @media (min-width: 600px) {
                                                 .alert-info {
                                                     padding: 10px;
@@ -104,14 +108,35 @@ layout: null
                                                 margin: 0;
                                             }
                                             .warning {
+                                                padding: 7px 9px;
                                                 background-color: #fcf8e3;
                                                 border-color: #faebcc;
                                                 color: #8a6d3b;
-                                                font-size: 14px;
-                                                padding: 10px;
+                                                font-size: 17px;
+                                                font-family: sans-serif;
+                                                font-size:17px;
+                                                margin: 10px 0;
                                             }
                                         </style>
                                         {% include route.html images_url = post.images_url viewranger = post.viewranger %}
+                                        <script>
+                                            var android =  document.getElementById("android")
+                                            var ios = document.getElementById("ios")
+                                            var viewranger = document.getElementById("viewranger")
+                                            var gpx = document.getElementById("gpx")
+                                            ios.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'descargaAppIos', 'Fall Campaign')
+                                            }
+                                            android.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'descargaAppAndroid', 'Fall Campaign')
+                                            }
+                                            viewranger.onclick = function(){
+                                                ga('send', 'event', 'Rutas', 'clickRutaOnline', 'Fall Campaign')
+                                            }
+                                            gpx.onclick= function(){
+                                                ga('send', 'event', 'Rutas', 'descargaRutaGpx', 'Fall Campaign')
+                                            }
+                                        </script>
                                     </iframe>
                                 </figure>
                                 <footer>
@@ -121,7 +146,7 @@ layout: null
                                     {% assign maxRelatedCounter = 0 %}
                                         
                                     {% for relatedPost in site.posts %}
-
+                                        {% if post.draft %}
                                         {% assign sameTagCount = 0 %}
                                         {% assign commonTags = '' %}
 
@@ -142,7 +167,7 @@ layout: null
                                                 {% break %}
                                             {% endif %}
                                         {% endif %}
-
+                                        {% endif %}
                                     {% endfor %}
                                     </ul>
                                 </footer>
