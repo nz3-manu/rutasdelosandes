@@ -146,7 +146,7 @@ layout: null
                                     {% assign maxRelatedCounter = 0 %}
                                         
                                     {% for relatedPost in site.posts %}
-                                     {%  unless post.draft %}                                       
+                                     {%  unless relatedPost.draft %}                                       
                                         {% assign sameTagCount = 0 %}
                                         {% assign commonTags = '' %}
 
