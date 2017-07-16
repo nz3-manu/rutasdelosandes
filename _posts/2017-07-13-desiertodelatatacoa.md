@@ -3,7 +3,7 @@ draft: true
 layout: post
 title:  Desierto de la Tatacoa
 categories: colombia
-tags: Huila Neva
+tags: Huila Neiva
 excerpt: El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url : /images/desiertodelatatacoa

@@ -3,7 +3,7 @@ draft: true
 layout: post
 title:  Barbas Bremen
 categories: colombia
-tags: zonaCafetera Pereira Yarumal 
+tags: zonaCafetera Pereira 
 excerpt: La reserva barbas bremen se encuentra localizado entre los municipios de Filandia, Circasia y Salento, en el Quindío; y Pereira, en Risaralda Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url : /images/barbasbremen
@@ -53,7 +53,22 @@ En esta ruta no tendremos que caminar, pero la ruta dura aproximadamente 2  hora
 
  Una vez de haber llegado por cualquiera de las 2 rutas explicadas anteriormente. ya estamos listos para empezar el camino por el sendero 😃.
 
+## El camino 🚶🏼
 
+La duración del sendero es aproximadamente 3 horas, en el trayecto podremos tomar baño en el río barbas para los que quieran refrescarse un poco, además algunos punto cuentan con casetas hechas en guadua donde podremos comer(por favor NO dejar basuras en estos sitios), si contamos con suerte podremos escuchar los monos aulladores🐒.
+ 
+----------------- Mapa del sendero de Barbas Bremen --------------------
+
+Si no llevan nada de comida hecha y quieren algo de comida casera, en nuestro recorrido encontramos una señora que vende comida casera muy rica y si se llama con anticipación puede empacar los almuerzos en hojas de plátano 😋 valor del almuerzo $5.000 pesos teléfono 3113473438 doña Manuela.
+
+
+Para nuestro regreso podremos tomar de nuevo las  2 rutas anteriormente mencionadas en la sección “¿cómo llegar?”. Si saliste cansado del sendero o ya hiciste la caminata pasando por la vereda alegría y viste la cascada puedes tomar el bus de regreso para pereira  el último directo de yarumal es a las 5:00pm, la otra opción es tomar un bus hasta arabia que pasan hasta las 7 pm y tomar otro de arabia a pereira.
+
+Si estás dispuesto a caminar para vivir una nueva aventura 😎, puedes ir hasta la vereda Alegría para tomar el bus de regreso 🚌 en el recorrido pasaremos por las cascadas. 
+
+-------------------------- Fotos de la cascada ----------------------- 
+
+Abajo podrás ver el recorrido desde la salida de parque Barbas Bremen hasta la “cascada Alegría”  una vez vista la cascada, seguimos la ruta hasta la vereda alegría, donde podremos tomar el jeep de regreso para pereira a las 6:00pm (estar un poco antes) o  bus 🚌 a las 7:30pm y a las 8 pm. valor del pasaje aproximadamente $2.000 pesos.
 
 
 
