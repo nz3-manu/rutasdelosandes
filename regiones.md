@@ -33,7 +33,7 @@ to the `site_tags` variable. -->
           {% if post.title != null %} 
           <a class="tag_post" href="{{ post.url }}">
             <div class="post-thumbnail">
-              <amp-img  src="{{post.image}}" 
+              <amp-img  src="{{site.url}}{{post.images_url}}/featuredThumbnail.jpg" 
                         layout="responsive"
                         alt="{{post.thumbnail_alt}}" 
                         height="370" 
@@ -42,9 +42,6 @@ to the `site_tags` variable. -->
             <div>
               {{ post.title }}
             </div>
-            <span>
-            {{ post.date | date_to_string }}
-          </span>
           </a>   
       {% endif %}{% endfor %}
     </div>
