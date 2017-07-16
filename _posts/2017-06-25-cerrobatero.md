@@ -22,6 +22,9 @@ __Cerros ubicados en Quinchía:__
 - Cerro Batero(Altitud 2200 msnm).
 - Cerro Ingrumá (Altitud 1783 msnm).
 
+## ¿Qué encontrarás 🏞👀?
+- Vista sin igual de 360º de la vereda Batero y de poblaciones cercanas.
+- Caminata ecológica.
 
 <amp-carousel 
     width="800"
@@ -31,14 +34,19 @@ __Cerros ubicados en Quinchía:__
     autoplay
     delay="2000">
     {% include image.html 
-        file="batero/batero_1.jpg" 
+        file="batero/slider1.jpg" 
         height="695" 
         width="705"
     %} 
      {% include image.html 
-        file="batero/batero_2.jpg" 
+        file="batero/slider2.jpg" 
         width="800"
         height="805"
+    %} 
+      {% include image.html 
+        file="batero/slider3.jpg" 
+        width="720"
+        height="960"
     %} 
 </amp-carousel>
 

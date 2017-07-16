@@ -20,7 +20,7 @@ __Cerros ubicados en Quinchía:__
 - Cerro Ingrumá (Altitud 1783 msnm)
 
 ## ¿Qué encontrarás 🏞👀?
-- Vista sin igual de 360º de quinchía y de poblaciones cercanas.
+- Vista sin igual de 360º de Quinchía y de poblaciones cercanas.
 - Caminata ecológica.
 <amp-carousel 
     width="400"
