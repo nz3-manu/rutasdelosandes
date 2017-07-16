@@ -73,7 +73,7 @@ Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al p
 {% include iframe.html
     type="custom"
     mid="11oZn70PBJV5HfkUOL9Tr9cwQx3o&hl=es-419"
-    caption="La caminata saliendo desde el pueblo de quimbaya hacia el Cerro Gobia"
+    caption="La caminata saliendo desde el pueblo de Quinchía hacia el Cerro Gobia"
 %}
 
 Una vez en el parque de Quinchía podremos ver Cerro Gobia donde se aprecian 2 piedras que sobresalen en la montaña, la primera es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de Quinchía  y la segundo piedra es un mirador a 2400 metros donde se puede tener una  vista de 360 grados.
@@ -88,7 +88,7 @@ Una vez en el parque de Quinchía podremos ver Cerro Gobia donde se aprecian 2 p
 Una vez aquí ya estamos listos para empezar nuestro camino a Cerro Gobia.
 
 
-Vista desde el mirador de la virgen (1800 msnm)
+Vista desde el mirador de la virgen (1800 msnm).
 
 {% include image.html 
    file="/gobia/featured.jpg" 
@@ -108,4 +108,4 @@ Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo 
 
 Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Gobia sin preocupaciones.
 
-                                            *"Aprovechemos lo nuestro y cuidemos lo nuestro"*
+                                            _"Aprovechemos lo nuestro y cuidemos lo nuestro."_

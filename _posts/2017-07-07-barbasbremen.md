@@ -1,26 +1,23 @@
 ---
 draft: true
 layout: post
-title:  Cerro de Batero
+title:  Barbas Bremen
 categories: colombia
-tags: Quinchía
-excerpt: Para los amantes de la adrenalina, después de caminar 9km veremos una escalada de 150 metros por escalinatas pegadas a la roca  al final todo se recompensa con una linda vista de la villa de los cerros.Duración del trayecto 1 día
+tags: Yarumal
+excerpt: La reserva barbas bremen se encuentra localizado entre los municipios de Filandia, Circasia y Salento, en el Quindío; y Pereira, en Risaralda Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-images_url : /images/batero
+images_url : /images/barbasbremen
 author: manuel
 ---
 Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
 
-⚠️ __Recomendaciones:__
-* Si está lloviendo evite subir al Cerro Batero.
-* Llevar tenis de buen agarre.
-* La subida es por trayectos muy difíciles no es recomendado para personas de edad o niños.
-
 __Cerros ubicados en Quinchía:__
-- <a href="https://rutasdelosandes.com/colombia/cerrogobia"> Cerro Gobia (rango altitud  1800  2400 msnm).</a>
-- Cerro Batero(Altitud 2200 msnm).
-- Cerro Ingrumá (Altitud 1783 msnm).
+- Mono aullador.
+- Río barbas (pueden tomar baño en el río).
+- sendero ecológico.
+- Gran biodiversidad flora y fauna.
+- Cascadas.
 
 
 <amp-carousel 
@@ -44,9 +41,7 @@ __Cerros ubicados en Quinchía:__
 
 ## ¿Cómo llegar 🛣🚌?
 
-Se debe de tomar un bus 🚌 en el terminal de Pereira de la empresa Flota Occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
-Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada 😋, al llegar a la finca encontraremos zonas de camping 🏕  a $8.000 pesos por persona.
-__Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:314808851">314808851</a>.__
+Para llegar al parque regional natural Barbas-Bremen, tenemos que tomar el buses 🚌 de yarumal (transportes arabia y transporte )que pasan en frente del victoria bajan por la calle 18 (en la esquina de la panaderia) y voltean por la carrera 12, el bus pasa a partir de las 6:00 am cada 2 horas el trayecto dura aproximadamente 2 horas, en este momento se tiene que hacer un transbordo por adecuación de la vía, el valor del pasaje es de $2.300 pesos(incluye el transbordo), una vez en yarumal, el bus nos deja a pocos metro de la entrada a la reserva. 
 
 
 {% include image.html 
@@ -75,15 +70,14 @@ En el ascenso hay que tener precaución ya que tienes que subir por escaleras de
    height="560" 
    width="897"
 %} 
-Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero ⛰.
+Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero.
+
+----- Mapa de vereda batero hasta Cerro Batero. -----
 
 
-                     ----- Mapa de vereda batero hasta Cerro Batero. -----
+Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía donde podremos tomar el bus para Pereira.
 
-
-Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía __es importante preguntar el horario de salida de los jeep desde la vereda Batero hacia Quinchía ya que no tienen un horario exacto.__
-
- _"Aprovechemos lo nuestro y cuidemos lo nuestro."_
+                                              _"Aprovechemos lo nuestro y cuidemos lo nuestro."*_
 
 
 

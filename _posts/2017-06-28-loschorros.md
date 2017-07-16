@@ -12,12 +12,11 @@ author: leidy
 La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
  
 ## ¿Qué encontrarás 🏞👀?
-* Realizar paseos ecológicos
-* Zona de camping
-* Calbagatas ecológicas
-* Noches de refugio en la pastora (donde podrán realizar diferentes actividades y
-* recibir diferentes tipos de charlas de sobrevivencia e interpretación de la naturaleza)
-* Recorridos a los chorros
+* Realizar paseos ecológicos.
+* Zona de camping.
+* Calbagatas ecológicas.
+* Noches de refugio en la pastora (donde podrán realizar diferentes actividades y recibir diferentes tipos de charlas de sobrevivencia e interpretación de la naturaleza).
+* Recorridos a los chorros.
 
 <amp-carousel 
     width="1024"
@@ -57,7 +56,7 @@ La pastora es una reserva natural ubicada en el parque regional ucumari situada 
     caption="chiva la cual nos lleva a el cedral"
 %} 
 
-La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la “chiva” o bus escalera 🚌 ya que es el único medio de transporte público. La “chiva” o bus escalera se puede abordar en la plaza del victoria que sale en los siguientes horarios lunes a viernes 9 am, 12 pm y 3 pm sábado y domingo son los mismos horarios adicional una a las 7 am, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo aproximado $5.100 Pesos; desde el inicio del recorrido puede apreciar los múltiples paisajes y al lado izquierdo de la vía puede apreciar el río Otún.
+La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; para llegar al corregimiento la florida debes abordar la “chiva” o bus escalera 🚌 ya que es el único medio de transporte público. La “chiva” o bus escalera se puede abordar en la plaza del victoria que sale en los siguientes horarios de lunes a viernes 9 am, 12 pm y 3 pm sábado y domingo son los mismos horarios adicional una a las 7 am, el recorrido dura un promedio de (2) dos horas y media hasta el Cedral, el valor del pasajes tiene un costo aproximado $5.100 Pesos; desde el inicio del recorrido puede apreciar los múltiples paisajes y al lado izquierdo de la vía puede apreciar el río Otún.
 
 {% include iframe.html
     type="custom"
@@ -67,7 +66,7 @@ La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; pa
 
 ## El camino 🚶🏽🚶🏽
 
-El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio __se debe confirmar con 2 dias de anticipacion Telefono: <a href="tel:0363144162">(036)3144162</a>.__
+El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos 🐴 para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio __se debe confirmar con 2 dias de anticipacion Telefono: <a href="tel:0363144162">(036)3144162</a>.__
 
 {% include iframe.html
     type="custom"
@@ -84,7 +83,7 @@ Una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes
     caption="centro de visitantes la pastora"
 %} 
 
-En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pesos, almuerzos y comidas a $12.000 pesos. si nuestra idea es pasar una noche aqui que seria lo aconsejable para disfrutar de los chorros, podemos encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. __Para alquiler de cabaña se debe confirmar disponibilidad Teléfono: (036)3144162.__
+En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pesos, almuerzos y comidas a $12.000 pesos. Si nuestra idea es pasar una noche aqui que seria lo aconsejable para disfrutar de los chorros, podemos encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. __Para alquiler de cabaña se debe confirmar disponibilidad Telefono: <a href="tel:0363144162">(036)3144162</a>.__
  
 {% include image.html 
     file="chorros/slide4.jpg" 
