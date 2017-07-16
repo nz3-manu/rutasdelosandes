@@ -4,7 +4,7 @@ layout: post
 title:  Cerro Gobia
 alt_url: /colombia/estacionen
 categories: colombia 
-tags: Quinchía
+tags: zonaCafetera Quinchía
 excerpt: Ubicado en el municipio de Quinchía y a tan solo 1.5 kilómetros de su parque principal por un terreno suave, el cual lleva a una hermosa vista de la villa de los cerros. Es ideal para personas que están iniciando en el senderismo o hiking.Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url: /images/gobia
