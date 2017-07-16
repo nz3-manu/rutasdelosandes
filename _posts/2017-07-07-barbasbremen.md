@@ -12,12 +12,13 @@ author: manuel
 Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
 hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
 
-__Cerros ubicados en Quinchía:__
-- Mono aullador.
-- Río barbas (pueden tomar baño en el río).
-- sendero ecológico.
-- Gran biodiversidad flora y fauna.
-- Cascadas.
+## ¿Qué encontrarás 🏞👀?
+* Mono aullador.
+* Río barbas (pueden tomar baño en el río).
+* Sendero ecológico.
+* Gran biodiversidad flora y fauna.
+* Cascada(la encontrarás a 40 minutos caminando hacia la vereda alegría , la que hay dentro de la reserva solo es para hacer rapel).
+
 
 
 <amp-carousel 
@@ -41,41 +42,20 @@ __Cerros ubicados en Quinchía:__
 
 ## ¿Cómo llegar 🛣🚌?
 
-Para llegar al parque regional natural Barbas-Bremen, tenemos que tomar el buses 🚌 de yarumal (transportes arabia y transporte )que pasan en frente del victoria bajan por la calle 18 (en la esquina de la panaderia) y voltean por la carrera 12, el bus pasa a partir de las 6:00 am cada 2 horas el trayecto dura aproximadamente 2 horas, en este momento se tiene que hacer un transbordo por adecuación de la vía, el valor del pasaje es de $2.300 pesos(incluye el transbordo), una vez en yarumal, el bus nos deja a pocos metro de la entrada a la reserva. 
+Existen 2 rutas para llegar a la reserva Barbas Bremen aquí vamos a explicar las 2 rutas:
+__Ruta 1__ 🚌🚶🏼:
+Si tomamos esta ruta tendrás que caminar aproximadamente 60 minutos desde la vereda alegría(es donde nos deja el bus)  hasta yarumal(es donde está la reserva) el recorrido del bus es aproximadamente 40 minutos. Para tomar el bus lo puedes tomar al frente del Centro Comercial Victoria(carrera 12), el número del bus es la 14 pasa en los siguientes  horarios de lunes a viernes;  6:20 am, 11:10 am, 5:10 pm y 6:40 pm. Horarios: Sábados, Domingos y festivos; 07:10 am, 11:30 am, 4:10 pm y 07:10 pm, el valor del pasaje es en promedio $1.900 pesos. Dejamos la ruta de gps desde la vereda alegría en la cual pasaremos cerca de la cascada y despues la reserva Barbas Bremen.
+
+             ----- Ruta desde la vereda alegría hasta parque barbas Bremen--------
+
+__Ruta 2__ 🚌:
+En esta ruta no tendremos que caminar, pero la ruta dura aproximadamente 2  horas. Tenemos que tomar el bus 🚌 de yarumal que pasa al frente del victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas, en este momento se tiene que hacer un transbordo por adecuación de la vía, el valor del pasaje es aproximadamente $2.300 pesos(incluye el transbordo), una vez en yarumal, el bus nos deja a pocos metro de la entrada a la reserva.
+
+ Una vez de haber llegado por cualquiera de las 2 rutas explicadas anteriormente. ya estamos listos para empezar el camino por el sendero 😃.
 
 
-{% include image.html 
-   file="batero/casadetino.jpg"
-   caption="lugar donde acampamos"
-   height="533" 
-   width="800"
-%} 
-
-## El camino 🚶🏽🚶🏽
-
-Para ir a Cerro Batero primero tenemos que ir a la vereda Batero, la cual se puede llegar de 2 formas; 1) tomando un jeep que lo podemos abordar en el parque de Quinchía en los horarios:  7 am, 10 am, 12 pm , 4 pm y 5:30 pm los domingo salen “chivas” o bus escalera 🚌 adicionales cuyos horarios son: 6 am, 12 pm y 3 pm tiene un costo aproximado de $3.800 pesos la duración del trayecto es de 30 minutos, si estás hospedado en el mismo lugar que nosotros puedes tomar el jeep en la carretera que pasa cerca de la finca. 2) Nuestra segunda opción es caminar desde la finca que estamos hospedados, duración aproximada es 1 hora y 30 para llegar hasta la vereda Batero, abajo dejamos la ruta desde nuestro hospedaje para las personas que quieran hacer la ruta caminando 🚶🏼.
-
-{% include iframe.html
-    type="custom"
-    mid="1mKrzhAE4NMsDbJ070NrAwhJazvo&hl=es-419"
-    caption="desde el matadero viejo pasando por el jardin botanico y por el camping de la finca la mona"
-%}
-
-Al llegar a la vereda Batero encontrarás una tienda por si necesitas comprar algo  de comida y agua 🍎🍶, ya que el ascenso hasta el cerro es aproximadamente 2 horas y 30 minutos.
-En el ascenso hay que tener precaución ya que tienes que subir por escaleras de metal y pasos muy angosto donde de lizarse podrían herirse o algo peor 😰.
-
-{% include image.html 
-   file="batero/subida.jpg"
-   caption="escaleras y escalada con la ayuda de pines metalicos que hay en la roca"
-   height="560" 
-   width="897"
-%} 
-Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero.
-
------ Mapa de vereda batero hasta Cerro Batero. -----
 
 
-Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía donde podremos tomar el bus para Pereira.
 
                                               _"Aprovechemos lo nuestro y cuidemos lo nuestro."*_
 
