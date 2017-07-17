@@ -1,8 +1,8 @@
-title: Senderos y rutas escritas por locales de los andes colombias
+title: Senderos y rutas escritas por locales de los Andes colombianos
 logo: /images/andesLogoSmall.png
 owner: juan gabriel
 email: rutasdelosandes@gmail.com
-description: descubre hermosas y poco conocidas rutas en los andes colombianos, evade multitudes en el camino y descubre las mas bellas especies y paisajes en tus rutas de senderismo
+description: Descubre hermosas y poco conocidas rutas de los Andes colombianos, evade mutitudes en el camino y observa las más bellas especies y paisajes en tus rutas de senderismo. Una experiencia única y maravillosa te espera!
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: es
 url: https://rutasdelosandes.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,6 @@ alternative_lang: en
 alternative_url: http://hikingintheandes.com # alternative version
 fbpage: https://www.facebook.com/rutasdelosandes0/
 github: https://github.com/jg-rc/rutasdelosandes/edit/master
-twitter_username: _jgrc_
 googlemaps_key: AIzaSyAz1r9qDIaA7lGoMdW7VPpvic7JXZjCdls
 google_analytics: UA-100391485-2
 instant_pages: 1078600055607267

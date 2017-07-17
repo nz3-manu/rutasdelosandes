@@ -5,4 +5,4 @@ permalink: /acerca/
 images_url: /images/acerca
 ---
 
-somos un grupo de viajeros los cuales quieren dar a conocer la belleza de nuestro territorio
+Somos un grupo de viajeros los cuales quieren dar a conocer la belleza de nuestro territorio
