@@ -40,7 +40,9 @@ to the `site_tags` variable. -->
                         width="700"/>
             </div>
             <div>
+            <amp-fit-text min-font-size="9"  max-font-size="52" height="15" layout="fixed-height" >
               {{ post.title }}
+            </amp-fit-text>
             </div>
           </a>   
       {% endif %}{% endfor %}
