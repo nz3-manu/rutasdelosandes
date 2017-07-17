@@ -54,8 +54,14 @@ Si tomamos esta ruta tendrás que caminar aproximadamente 60 minutos desde la ve
                 ----Ruta desde la vereda Alegría hasta parque barbas Bremen--------
 
 Foto de la cascada en la vereda Alegría.
-            
-               ---------Foto de la cascada--------
+
+{% include image.html 
+    file="barbasBremen/cascada.jpg" 
+    width="1280"
+    height="1676"
+    fullscreen="true"
+    caption="cascada alegrias"
+%}    
 
 __Ruta 2__ 🚌:
 En esta ruta no tendremos que caminar, pero la ruta dura aproximadamente 2  horas. Tenemos que tomar el bus 🚌 de Yarumal que pasa al frente del victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas, en este momento se tiene que hacer un transbordo por adecuación de la vía, el valor del pasaje es aproximadamente $2.300 pesos(incluye el transbordo), una vez en Yarumal, el bus nos deja a pocos metro de la entrada a la reserva.
