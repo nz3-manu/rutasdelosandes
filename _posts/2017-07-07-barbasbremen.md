@@ -6,11 +6,11 @@ categories: colombia
 tags: zonaCafetera Pereira 
 excerpt: La reserva barbas bremen se encuentra localizado entre los municipios de Filandia, Circasia y Salento, en el Quindío; y Pereira, en Risaralda Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
-images_url : /images/barbasbremen
+images_url : /images/barbasBremen
 author: manuel
 ---
-Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
-hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
+La reserva barbas bremen se encuentra localizado entre los municipios de Filandia, Circasia y Salento, en el Quindío; y Pereira, en Risaralda Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.
+El nombre del río tiene una historia muy particular que cuentan los abuelos  y es la siguiente “un dia Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde allí el río se llama barbas.”
 
 ## ¿Qué encontrarás 🏞👀?
 * Mono aullador.
@@ -29,12 +29,12 @@ hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyen
     autoplay
     delay="2000">
     {% include image.html 
-        file="batero/batero_1.jpg" 
+        file="barbasBremen/slider1.jpg" 
         height="695" 
         width="705"
     %} 
      {% include image.html 
-        file="batero/batero_2.jpg" 
+        file="barbasBremen/slider2.jpg" 
         width="800"
         height="805"
     %} 
