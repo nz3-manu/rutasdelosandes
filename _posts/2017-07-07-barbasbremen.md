@@ -72,9 +72,9 @@ Si no llevan nada de comida hecha y quieren algo de comida casera, en nuestro re
 
 Para nuestro regreso  a Pereira podremos tomar de nuevo las  2 rutas anteriormente mencionadas en la sección “¿cómo llegar?”:
 
-__Ruta 1__ 🚌🚶🏼:
-Los horarios de salida desde la vereda Alegría son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje aproximadamente $2.000 pesos.
-_Si quieres ver la casca puedes ver la ruta en la sección ¿cómo llegar? Ruta1._
+__Ruta 1__🚶🚌:
+Los horarios de salida desde la vereda Alegría son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje es aproximadamente $2.000 pesos.
+_Si quieres ver la cascada puedes ver la ruta en la sección “¿cómo llegar? Ruta1”._
 
 __Ruta 2__ 🚌:
 El último bus directo de Yarumal-Pereira es a las 5:30pm, si nos deja el bus 🚌💨🏃 no hay problema tenemos otra opción 🙂 tomar un bus hasta Arabia que pasan hasta las 7 pm y tomar otro de Arabia a Pereira.
