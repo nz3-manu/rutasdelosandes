@@ -4,7 +4,6 @@ layout: null
 
 [
     {% for post in site.posts %}
-      {% unless post.draft %}
       {
         "url" : "{{ post.url | relative_url }}",
         "title": "{{ post.title | escape }}",
@@ -13,16 +12,10 @@ layout: null
         "author": "Demetria T. Edwards",
         "date": "Sep 24, 2016 10:04 AM",
         "image": "{{post.images_url}}/featuredThumbnail.jpg"
-      },
-      {% endunless %}
+      }
+      
+      {% if forloop.last == false %}
+        ,
+      {% endif %}
     {% endfor %}
-  {
-    "title": "16 Top Spots for Hiking",
-    "section": "Top Spots",
-    "kicker": "Don't forget your walking stick",
-    "author": "Demetria T. Edwards",
-    "date": "Sep 24, 2016 10:04 AM",
-    "image": "/content/hero/21.jpeg",
-    "url": "/content/21.amp.html"
-  }
 ]

@@ -10,8 +10,8 @@ import Shell from './components/shell';
 ReactDOM.render((
   <Router history={browserHistory}>
     <Route path='/' component={Shell}>
-      <Route path=':category/:document' component={
-        props => <AMPDocument src={props.params.category + props.params.document} />
+      <Route path='/:category/:document' component={
+        props => <AMPDocument src={props.params.document} />
       } />
     </Route>
   </Router>

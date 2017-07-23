@@ -8,6 +8,8 @@ import './amp-document.css'
 class AMPDocument extends React.Component {
   constructor(props) {
     super(props);
+    console.log(props.src)
+    console.log(props.category)
 
     // 'offline' is set to true if and when the document fetch fails.
     this.state = {'offline': false};
