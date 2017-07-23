@@ -7,7 +7,7 @@ layout: null
   "name": "{{site.pwa}}",
   "display": "fullscreen",
   "background_color": "white",
-  ​​"orientation": "any"
+  ​​"orientation": "any",
   "icons": [
     {% for icon in site.icons %}
       {
