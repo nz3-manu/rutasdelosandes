@@ -50,7 +50,10 @@ export default class Shell extends React.Component {
         <Navbar fixedTop>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to='/'>The Scenic</Link>
+              <Link to='/'>
+                <img src={jekyll.logo} height="50" width="50">
+                </img>
+              </Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>

@@ -21,9 +21,15 @@ layout: null
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="AMP in PWA">
     <link rel="apple-touch-icon" href="./src/icon.png">
+    
     <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
     <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
     <title>{{site.title}}</title>
+    <script>
+        window.jekyll = {
+            logo : "{{ site.logo | escape }}"
+        }
+    </script>
 </head>
 <body>
     <div id="root"></div>

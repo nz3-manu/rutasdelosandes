@@ -26,12 +26,6 @@ export default class Home extends React.Component {
   render() {
     return (
       <div>
-        <div className='categories'>
-          <ul>
-            <a href="#"><li><span className='active'>Recent</span></li></a>
-            <a href="#"><li><span>Trending</span></li></a>
-          </ul>
-        </div>
         <div className='articles'>
           {this.props.documents.map(doc =>
             <Article
