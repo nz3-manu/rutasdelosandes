@@ -1,7 +1,8 @@
 title: Senderos y rutas escritas por locales de los Andes colombianos
 logo: /images/logo.png
 #PWA parameters
-pwa: rutas
+pwa: rutas de los andes
+short_name: rdla
 icons: 
   - src: images/launcher-icon-1x.png
     size: 48x48

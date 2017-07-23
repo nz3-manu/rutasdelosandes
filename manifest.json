@@ -3,7 +3,7 @@ layout: null
 ---
 
 {
-  "short_name": "ABE",
+  "short_name": "{{site.short_name}}",
   "name": "{{site.pwa}}",
   "display": "fullscreen",
   "background_color": "white",
@@ -20,5 +20,5 @@ layout: null
       {% endif %}
     {% endfor %}
   ],
-  "start_url": "index.html?launcher=true"
+  "start_url": "."
 }
