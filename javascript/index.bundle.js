@@ -21583,8 +21583,8 @@ _reactDom2.default.render(_react2.default.createElement(
   _react2.default.createElement(
     _reactRouter.Route,
     { path: '/', component: _shell2.default },
-    _react2.default.createElement(_reactRouter.Route, { path: 'content/:document', component: function component(props) {
-        return _react2.default.createElement(_ampDocument2.default, { src: '/content/' + props.params.document });
+    _react2.default.createElement(_reactRouter.Route, { path: 'colombia/:document', component: function component(props) {
+        return _react2.default.createElement(_ampDocument2.default, { src: '/colombia/' + props.params.document });
       } })
   )
 ), document.getElementById('root'));

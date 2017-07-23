@@ -4,7 +4,7 @@
   "description": "jekyll theme for publishers, amp, fb instant articles and pwa ",
   "main": "index.html",
   "scripts": {
-    "start": "webpack --config webpack.config.js && jekyll build  && webpack-dev-server --open"
+    "start": "webpack --config _webpack.config.js && jekyll build  && jekyll serve"
   },
   "repository": {
     "type": "git",
