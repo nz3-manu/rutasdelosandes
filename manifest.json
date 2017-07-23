@@ -5,6 +5,9 @@ layout: null
 {
   "short_name": "ABE",
   "name": "{{site.pwa}}",
+  "display": "fullscreen",
+  "background_color": "white",
+  ​​"orientation": "any"
   "icons": [
     {% for icon in site.icons %}
       {
