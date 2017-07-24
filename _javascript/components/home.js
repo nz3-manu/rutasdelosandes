@@ -30,7 +30,7 @@ export default class Home extends React.Component {
           {this.props.documents.map(doc =>
             <Article
                 title={doc.title}
-                subtitle={'By ' + doc.author + ', ' + doc.date}
+                subtitle={'Por ' + doc.author + ', ' + doc.date}
                 image={doc.image}
                 src={doc.url}
                 key={doc.title} />
