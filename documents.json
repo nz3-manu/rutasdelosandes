@@ -4,13 +4,14 @@ layout: null
 
 [
     {% for post in site.posts %}
+     {% assign authorInfo = site.data.authors[post.author] %}  
       {
         "url" : "{{ post.url | relative_url }}",
         "title": "{{ post.title | escape }}",
-        "section": "Top Spots",
+        "section": "{{post.categories}}",
         "kicker": "Don't forget your walking stick",
-        "author": "Demetria T. Edwards",
-        "date": "Sep 24, 2016 10:04 AM",
+        "author": "{{ authorInfo.name }}",
+        "date": "{{post.date | date: '%b %d' }}",
         "image": "{{post.images_url}}/featuredThumbnail.jpg"
       }
       
