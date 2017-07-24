@@ -47691,7 +47691,7 @@ var Home = function (_React$Component) {
           this.props.documents.map(function (doc) {
             return _react2.default.createElement(_article2.default, {
               title: doc.title,
-              subtitle: 'By ' + doc.author + ', ' + doc.date,
+              subtitle: 'Por ' + doc.author + ', ' + doc.date,
               image: doc.image,
               src: doc.url,
               key: doc.title });
