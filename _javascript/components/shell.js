@@ -47,14 +47,12 @@ export default class Shell extends React.Component {
   render() {
     return (
       <div>
-        <Navbar fixedTop>
+        <Navbar style={{ backgroundColor: 'white', borderColor: 'black' }} fixedTop>
           <Navbar.Header>
-            <Navbar.Brand>
               <Link to='/'>
                 <img src={jekyll.logo} height="50" width="50">
                 </img>
-              </Link>
-            </Navbar.Brand>
+              </Link>        
             <Navbar.Toggle />
           </Navbar.Header>
         </Navbar>

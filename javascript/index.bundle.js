@@ -36464,18 +36464,14 @@ var Shell = function (_React$Component) {
         null,
         _react2.default.createElement(
           _reactBootstrap.Navbar,
-          { fixedTop: true },
+          { style: { backgroundColor: 'white', borderColor: 'black' }, fixedTop: true },
           _react2.default.createElement(
             _reactBootstrap.Navbar.Header,
             null,
             _react2.default.createElement(
-              _reactBootstrap.Navbar.Brand,
-              null,
-              _react2.default.createElement(
-                _reactRouter.Link,
-                { to: '/' },
-                _react2.default.createElement('img', { src: jekyll.logo, height: '50', width: '50' })
-              )
+              _reactRouter.Link,
+              { to: '/' },
+              _react2.default.createElement('img', { src: jekyll.logo, height: '50', width: '50' })
             ),
             _react2.default.createElement(_reactBootstrap.Navbar.Toggle, null)
           )
