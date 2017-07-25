@@ -1,22 +1,24 @@
 ---
 layout: null
 ---
-
+{% assign documents = 0 %}
 [
-    {% for post in site.posts %}
-     {% assign authorInfo = site.data.authors[post.author] %}  
-      {
-        "url" : "{{ post.url | relative_url }}",
-        "title": "{{ post.title | escape }}",
-        "section": "{{post.categories}}",
-        "kicker": "Don't forget your walking stick",
-        "author": "{{ authorInfo.name }}",
-        "date": "{{post.date | date: '%b %d' }}",
-        "image": "{{post.images_url}}/featuredThumbnail.jpg"
-      }
-      
-      {% if forloop.last == false %}
-        ,
+  {% for post in site.posts %}
+    {% unless post.draft %}
+      {% if documents != 0 %}
+          ,
       {% endif %}
+        {% assign authorInfo = site.data.authors[post.author] %}  
+          {
+            "url" : "{{ post.url | relative_url }}",
+            "title": "{{ post.title | escape }}",
+            "section": "{{post.categories}}",
+            "kicker": "Don't forget your walking stick",
+            "author": "{{ authorInfo.name }}",
+            "date": "{{post.date | date: '%b %d' }}",
+            "image": "{{post.images_url}}/featuredThumbnail.jpg"
+          }
+        {% assign documents = documents | plus: 1 %}
+      {% endunless %}
     {% endfor %}
 ]
