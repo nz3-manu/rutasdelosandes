@@ -1,16 +1,27 @@
+import { Router, Route, browserHistory } from 'react-router';
 import AMPDocument from './components/amp-document/amp-document';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router, Route, browserHistory } from 'react-router';
 import Shell from './components/shell';
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './bootstrap-theme.css'; // Replace with your own bootstrap theme!
 
+/**
+ * @see https://github.com/ampproject/amphtml/blob/master/extensions/amp-install-serviceworker/amp-install-serviceworker.md#shell-url-rewrite
+ */
+function redirectSWFallbackURL(nextState, replace) {
+  var hash = window.location.hash;
+  if (hash && hash.indexOf('#href=') === 0) {
+    var href = decodeURIComponent(hash.substr(6));
+    replace({pathname: href});
+  }
+}
+
 ReactDOM.render((
   <Router history={browserHistory}>
-    <Route path='/' component={Shell}>
-      <Route path='/:category/:document' component={
+    <Route path='/' component={Shell} onEnter={redirectSWFallbackURL}>
+      <Route path=':category/:document' component={
         props => <AMPDocument src={props.params.document} />
       } />
     </Route>
