@@ -44402,7 +44402,11 @@ var Shell = function (_React$Component) {
           _react2.default.createElement(
             _reactBootstrap.Navbar.Header,
             null,
-            _react2.default.createElement('img', { src: jekyll.logo, height: '50', width: '50' }),
+            _react2.default.createElement(
+              _reactRouter.Link,
+              { to: '/' },
+              _react2.default.createElement('img', { src: jekyll.logo, height: '50', width: '50' })
+            ),
             _react2.default.createElement(_reactBootstrap.Navbar.Toggle, null)
           )
         ),

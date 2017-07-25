@@ -447,6 +447,7 @@
       bottom: 0;
       background-color: rgba(0, 0, 0, 0.62);
       padding: 0px 5px 2px 30px;
+      z-index: 10000;
     }
 
     @media screen and (max-width: 800px) {
@@ -674,11 +675,6 @@
     }
     .post_featured-image {
       position: relative;
-      width: 100%;
-      padding-bottom: 52%;
-      background-image: url("{{site.url}}{{page.images_url}}/featured.jpg");
-      background-repeat: no-repeat;
-      background-size: cover;
     }
     .menu-button{
       display: block;
@@ -696,10 +692,6 @@
       }
       .post-home_excerpt {
         margin-left: 10px
-      }
-      .post_featured-image {
-        padding-bottom: 40%;
-        background-size: cover;
       }
     }
 
