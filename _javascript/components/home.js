@@ -45,7 +45,7 @@ export default class Home extends React.Component {
       const epsilon = 150;
       const duration = 0.35;
 
-      const navBarHeight = 50;
+      const navBarHeight = 56;
       const bounds = this.selectedArticle_.getBoundingClientRect();
       const toY = -bounds.top + navBarHeight;
       this.selectedArticle_.classList.add('selected');
@@ -61,10 +61,11 @@ export default class Home extends React.Component {
       const elementsToFadeOut = selectedArticleChildren.concat(otherArticlesToFade);
 
       // Article height !== height of hero image in responsive layout, so animate to the latter.
-      const oneOverAspectRatio = 0.6;
+      const oneOverAspectRatio = 0.52356020942;
       const maxContainerWidth = this.maxContainerWidth_();
       const responsiveHeight = Math.min(maxContainerWidth * oneOverAspectRatio,
-          (window.innerWidth || document.documentElement.clientWidth) * oneOverAspectRatio);
+        (window.innerWidth || document.documentElement.clientWidth) * oneOverAspectRatio);
+      console.log(responsiveHeight,"pxs")
 
       this.timeline_ = new TimelineLite();
       this.timeline_.to(this.selectedArticle_, duration, {y: toY, height: responsiveHeight, onComplete:() => {
