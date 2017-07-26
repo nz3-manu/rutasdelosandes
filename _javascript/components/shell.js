@@ -33,7 +33,7 @@ export default class Shell extends React.Component {
   render() {
     return (
       <div>
-        <Navbar fixedTop>
+        <Navbar style={{backgroundColor: jekyll.brandColor,borderColor:"black"}} fixedTop>
           <Navbar.Header>
             <Link to='/'>
               <img src={jekyll.logo} height="50" width="50">

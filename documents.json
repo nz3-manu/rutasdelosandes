@@ -16,7 +16,7 @@ layout: null
             "kicker": "Don't forget your walking stick",
             "author": "{{ authorInfo.name }}",
             "date": "{{post.date | date: '%b %d' }}",
-            "image": "{{post.images_url}}/featuredThumbnail.jpg"
+            "image": "{{post.images_url}}/featured.jpg"
           }
         {% assign documents = documents | plus: 1 %}
       {% endunless %}
