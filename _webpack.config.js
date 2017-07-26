@@ -1,5 +1,6 @@
 var path = require("path");
-
+const webpack = require('webpack');
+var CompressionPlugin = require("compression-webpack-plugin");
 module.exports = {
   entry: {
     index: "./_javascript/index.js"
@@ -8,6 +9,8 @@ module.exports = {
     path: path.join(__dirname, "javascript"),
     filename: "[name].bundle.js"
   },
+  cache: false,
+  devtool: 'cheap-module-source-map',
   module: {
     rules: [
       {
@@ -39,5 +42,34 @@ module.exports = {
       }
 
     ]
-  }
+  },
+  plugins: [
+    new webpack.DefinePlugin({
+      'process.env.NODE_ENV': '"production"'
+    }),
+    new webpack.optimize.DedupePlugin(),
+    new webpack.optimize.UglifyJsPlugin({
+      mangle: true,
+      compress: {
+        warnings: false, // Suppress uglification warnings
+        pure_getters: true,
+        unsafe: true,
+        unsafe_comps: true,
+        screw_ie8: true
+      },
+      output: {
+        comments: false,
+      },
+      exclude: [/\.min\.js$/gi] // skip pre-minified libs
+    }),
+    new webpack.IgnorePlugin(/^\.\/locale$/, [/moment$/]),
+    new webpack.NoErrorsPlugin(),
+    new CompressionPlugin({
+      asset: "[path].gz[query]",
+      algorithm: "gzip",
+      test: /\.js$|\.css$|\.html$/,
+      threshold: 10240,
+      minRatio: 0
+    })
+  ]
 };
