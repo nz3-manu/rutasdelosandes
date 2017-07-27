@@ -49,6 +49,9 @@ export default class Home extends React.Component {
       const bounds = this.selectedArticle_.getBoundingClientRect();
       const toY = -bounds.top + navBarHeight;
       this.selectedArticle_.classList.add('selected');
+      console.log(bounds.top)
+      console.log(navBarHeight)
+      console.log(toY,"valor")
 
       // Fade out all articles other than the one that was clicked on, as well as the selected
       // article's children (text and scrims).

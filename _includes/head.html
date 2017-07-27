@@ -61,6 +61,11 @@
       font-feature-settings: "kern" 1;
       font-kerning: normal;
     }
+    * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
     /** Set `margin-bottom` to maintain vertical rhythm */
 
     h1,
@@ -675,6 +680,11 @@
     }
     .post_featured-image {
       position: relative;
+      width: 100%;
+      padding-bottom: 52.356%;
+      background-image: url("{{site.url}}{{page.images_url}}/featured.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
     }
     .menu-button{
       display: block;
