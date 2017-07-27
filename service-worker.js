@@ -1,14 +1,40 @@
-self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    caches.open('mysite').then(function(cache) {
-      return cache.match(event.request).then(function(response) {
-        var fetchPromise = fetch(event.request).then(function(networkResponse) {
-          cache.put(event.request, networkResponse.clone());
-          return networkResponse;
-        })
+importScripts("https://unpkg.com/workbox-sw@1.1.0");
+var cache_name = "rutas-cache-v1";
+var urlsToCache = ["/", "/index.html", "/javascript/index.bundle.js"];
 
-        return response || fetchPromise;
-      })
+self.addEventListener("install", function(event) {
+  // Perform install steps
+  event.waitUntil(
+    caches.open(cache_name).then(function(cache) {
+      return cache.addAll(urlsToCache);
+    })
+  );
+});
+
+self.addEventListener("fetch", function(event) {
+  event.respondWith(
+    caches.match(event.request).then(function(response) {
+      // Cache hit - return response
+      if (response) {
+        return response;
+      }
+      return fetch(event.request);
+    })
+  );
+});
+
+self.addEventListener("activate", function(event) {
+  console.log("activate triggered", "SW starts up");
+  event.waitUntil(
+    caches.keys().then(keyList => { 
+      Promise.all(
+        keyList.map(key => {
+          if (key !== cache_name) {
+            console.log("deleting old cache");
+            return caches.delete(key);
+          }
+        })
+      );
     })
   );
 });
