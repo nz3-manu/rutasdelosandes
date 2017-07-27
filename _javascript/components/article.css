@@ -4,7 +4,8 @@
   margin-left: -15px;
   margin-right: -15px;
   margin-bottom: 5px;
-  height: 200px;
+  height: 0;
+  padding-bottom: 58%;
   position: relative;
 }
 
@@ -28,7 +29,7 @@
   color: white;
   letter-spacing: 2px;
   position: absolute;
-  top: 25px;
+  top: 12%;
   left: 12%;
   right: 12%;
   margin: 0;
@@ -41,6 +42,6 @@
   font-size: 8pt;
   letter-spacing: 1px;
   position: absolute;
-  top: 160px;
+  bottom: 25%;
   left: 12%;
 }
