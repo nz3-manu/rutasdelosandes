@@ -34,13 +34,13 @@ export default class Shell extends React.Component {
     return (
       <div>
         <Navbar style={{backgroundColor: jekyll.brandColor,borderColor:"black"}} fixedTop>
-          <Navbar.Header>
+          <div>
             <Link to='/'>
               <img src={jekyll.logo} height="50" width="50">
               </img>
             </Link>        
             <Navbar.Toggle />
-          </Navbar.Header>
+          </div>
         </Navbar>
 
         <Grid className='contents'>
