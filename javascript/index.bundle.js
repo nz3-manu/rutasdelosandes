@@ -37051,43 +37051,39 @@ var Shell = function (_React$Component) {
       return _react2.default.createElement(
         'div',
         null,
-        this.state.sidebarIsOpen && _react2.default.createElement(
+        _react2.default.createElement(
           'div',
-          null,
+          { className: 'side-bar', open: this.state.sidebarIsOpen },
           _react2.default.createElement(
-            'div',
-            { className: 'side-bar', open: true },
-            _react2.default.createElement(
-              'button',
-              { onClick: function onClick() {
-                  _this3.toggleSideBar(false);
-                }, className: 'side-bar__close' },
-              _react2.default.createElement('img', { src: '/images/ic_close_black_18dp_2x.png',
-                width: '20',
-                height: '20',
-                alt: 'close sidebar'
-              })
-            ),
-            _react2.default.createElement(
-              'ul',
-              null,
-              jekyll.pages.map(function (page, index) {
-                return _react2.default.createElement(
-                  'li',
-                  { key: index },
-                  _react2.default.createElement(
-                    _reactRouter.Link,
-                    { to: page.url },
-                    page.title
-                  )
-                );
-              })
-            )
+            'button',
+            { onClick: function onClick() {
+                _this3.toggleSideBar(false);
+              }, className: 'side-bar__close' },
+            _react2.default.createElement('img', { src: '/images/ic_close_black_18dp_2x.png',
+              width: '20',
+              height: '20',
+              alt: 'close sidebar'
+            })
           ),
-          _react2.default.createElement('div', { className: 'side-bar__mask', onClick: function onClick() {
-              _this3.toggleSideBar(false);
-            } })
+          _react2.default.createElement(
+            'ul',
+            null,
+            jekyll.pages.map(function (page, index) {
+              return _react2.default.createElement(
+                'li',
+                { key: index },
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: page.url },
+                  page.title
+                )
+              );
+            })
+          )
         ),
+        this.state.sidebarIsOpen && _react2.default.createElement('div', { className: 'side-bar__mask', onClick: function onClick() {
+            _this3.toggleSideBar(false);
+          } }),
         _react2.default.createElement(
           'div',
           { className: 'header', style: { backgroundColor: jekyll.brandColor, borderBottom: "solid 1px black" } },
@@ -38279,7 +38275,7 @@ exports = module.exports = __webpack_require__(29)(true);
 
 
 // module
-exports.push([module.i, "* {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n}\n.contents {\n  /** Prevents fixed-top navbar from overlapping site contents. */\n  padding-top: 56px;\n}\nbody {\n  margin: 0;\n}\na {\n      text-decoration: none;\n}\n.header .container{\n  display: flex;\n  justify-content: space-between;\n}\na:hover {\n  /** Disables Bootstrap's default underline-on-hover behavior. */\n  text-decoration:none !important;\n}\n.side-bar{\n    position: fixed!important;\n    top: 0;\n    max-height: 100vh!important;\n    height: 100vh;\n    max-width: 80vw!important;\n    background-color: #efefef;\n    min-width: 45px!important;\n    outline: none;\n    overflow-x: hidden!important;\n    overflow-y: auto!important;\n    z-index: 2147483647;\n    -webkit-overflow-scrolling: touch;\n    will-change: transform;\n    -webkit-transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    transition: transform 233ms cubic-bezier(0,0,.21,1);\n    transition: transform 233ms cubic-bezier(0,0,.21,1),-webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    right: 0!important;\n    -webkit-transform: translateX(100%)!important;\n    transform: translateX(100%)!important;\n    width: 250px;\n    padding-right: 10px;\n}\n.side-bar[open] {\n    -webkit-transform: translateX(0)!important;\n    transform: translateX(0)!important;\n}\n.side-bar__close{\n  position: absolute;\n  right: 0;\n}\n.side-bar ul{\n  list-style: none;\n  font-size: 17px;\n  line-height: 1.15em;\n}\n.side-bar__mask{\n    position: fixed!important;\n    top: 0!important;\n    left: 0!important;\n    width: 100vw!important;\n    height: 100vh!important;\n    opacity: 0.2;\n    background-image: none!important;\n    background-color: #000;\n    z-index: 2147483646;\n}\n", "", {"version":3,"sources":["/Users/gabo/personal/rutasdelosandes/_javascript/components/shell.css"],"names":[],"mappings":"AAAA;EACE,+BAA+B;EAC/B,4BAA4B;EAC5B,uBAAuB;CACxB;AACD;EACE,gEAAgE;EAChE,kBAAkB;CACnB;AACD;EACE,UAAU;CACX;AACD;MACM,sBAAsB;CAC3B;AACD;EACE,cAAc;EACd,+BAA+B;CAChC;AACD;EACE,gEAAgE;EAChE,gCAAgC;CACjC;AACD;IACI,0BAA0B;IAC1B,OAAO;IACP,4BAA4B;IAC5B,cAAc;IACd,0BAA0B;IAC1B,0BAA0B;IAC1B,0BAA0B;IAC1B,cAAc;IACd,6BAA6B;IAC7B,2BAA2B;IAC3B,oBAAoB;IACpB,kCAAkC;IAClC,uBAAuB;IACvB,oEAAoE;IACpE,4DAA4D;IAC5D,oDAAoD;IACpD,oGAAoG;IACpG,mBAAmB;IACnB,8CAA8C;IAC9C,sCAAsC;IACtC,aAAa;IACb,oBAAoB;CACvB;AACD;IACI,2CAA2C;IAC3C,mCAAmC;CACtC;AACD;EACE,mBAAmB;EACnB,SAAS;CACV;AACD;EACE,iBAAiB;EACjB,gBAAgB;EAChB,oBAAoB;CACrB;AACD;IACI,0BAA0B;IAC1B,iBAAiB;IACjB,kBAAkB;IAClB,uBAAuB;IACvB,wBAAwB;IACxB,aAAa;IACb,iCAAiC;IACjC,uBAAuB;IACvB,oBAAoB;CACvB","file":"shell.css","sourcesContent":["* {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n}\n.contents {\n  /** Prevents fixed-top navbar from overlapping site contents. */\n  padding-top: 56px;\n}\nbody {\n  margin: 0;\n}\na {\n      text-decoration: none;\n}\n.header .container{\n  display: flex;\n  justify-content: space-between;\n}\na:hover {\n  /** Disables Bootstrap's default underline-on-hover behavior. */\n  text-decoration:none !important;\n}\n.side-bar{\n    position: fixed!important;\n    top: 0;\n    max-height: 100vh!important;\n    height: 100vh;\n    max-width: 80vw!important;\n    background-color: #efefef;\n    min-width: 45px!important;\n    outline: none;\n    overflow-x: hidden!important;\n    overflow-y: auto!important;\n    z-index: 2147483647;\n    -webkit-overflow-scrolling: touch;\n    will-change: transform;\n    -webkit-transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    transition: transform 233ms cubic-bezier(0,0,.21,1);\n    transition: transform 233ms cubic-bezier(0,0,.21,1),-webkit-transform 233ms cubic-bezier(0,0,.21,1);\n    right: 0!important;\n    -webkit-transform: translateX(100%)!important;\n    transform: translateX(100%)!important;\n    width: 250px;\n    padding-right: 10px;\n}\n.side-bar[open] {\n    -webkit-transform: translateX(0)!important;\n    transform: translateX(0)!important;\n}\n.side-bar__close{\n  position: absolute;\n  right: 0;\n}\n.side-bar ul{\n  list-style: none;\n  font-size: 17px;\n  line-height: 1.15em;\n}\n.side-bar__mask{\n    position: fixed!important;\n    top: 0!important;\n    left: 0!important;\n    width: 100vw!important;\n    height: 100vh!important;\n    opacity: 0.2;\n    background-image: none!important;\n    background-color: #000;\n    z-index: 2147483646;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "* {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n}\n.contents {\n  /** Prevents fixed-top navbar from overlapping site contents. */\n  padding-top: 56px;\n}\nbody {\n  margin: 0;\n}\na {\n      text-decoration: none;\n}\n.header .container{\n  display: flex;\n  justify-content: space-between;\n}\na:hover {\n  /** Disables Bootstrap's default underline-on-hover behavior. */\n  text-decoration:none !important;\n}\n.side-bar{\n  position: fixed!important;\n  top: 0;\n  right: 0!important;\n  max-height: 100vh!important;\n  height: 100vh;\n  max-width: 80vw!important;\n  background-color: #efefef;\n  min-width: 45px!important;\n  outline: none;\n  overflow-x: hidden!important;\n  overflow-y: auto!important;\n  -webkit-overflow-scrolling: touch;\n  will-change: transform;\n  -webkit-transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  transition: transform 233ms cubic-bezier(0,0,.21,1);\n  transition: transform 233ms cubic-bezier(0,0,.21,1),-webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  -webkit-transform: translateX(100%)!important;\n  transform: translateX(100%)!important;\n  width: 250px;\n  padding-right: 10px;\n  opacity: 0;\n}\n.side-bar[open] {\n  opacity: 1;\n  z-index: 2147483647;\n  display: block;\n  -webkit-transform: translateX(0)!important;\n  transform: translateX(0)!important;\n}\n.side-bar__close{\n  position: absolute;\n  right: 0;\n}\n.side-bar ul{\n  list-style: none;\n  font-size: 17px;\n  line-height: 1.15em;\n}\n.side-bar__mask{\n    position: fixed!important;\n    top: 0!important;\n    left: 0!important;\n    width: 100vw!important;\n    height: 100vh!important;\n    opacity: 0.2;\n    background-image: none!important;\n    background-color: #000;\n    z-index: 2147483646;\n}\n  .menu {\n    display: block;\n    border-radius: 0;\n    background-color: white;\n    border:0;\n  }\n", "", {"version":3,"sources":["/Users/gabo/personal/rutasdelosandes/_javascript/components/shell.css"],"names":[],"mappings":"AAAA;EACE,+BAA+B;EAC/B,4BAA4B;EAC5B,uBAAuB;CACxB;AACD;EACE,gEAAgE;EAChE,kBAAkB;CACnB;AACD;EACE,UAAU;CACX;AACD;MACM,sBAAsB;CAC3B;AACD;EACE,cAAc;EACd,+BAA+B;CAChC;AACD;EACE,gEAAgE;EAChE,gCAAgC;CACjC;AACD;EACE,0BAA0B;EAC1B,OAAO;EACP,mBAAmB;EACnB,4BAA4B;EAC5B,cAAc;EACd,0BAA0B;EAC1B,0BAA0B;EAC1B,0BAA0B;EAC1B,cAAc;EACd,6BAA6B;EAC7B,2BAA2B;EAC3B,kCAAkC;EAClC,uBAAuB;EACvB,oEAAoE;EACpE,4DAA4D;EAC5D,oDAAoD;EACpD,oGAAoG;EACpG,8CAA8C;EAC9C,sCAAsC;EACtC,aAAa;EACb,oBAAoB;EACpB,WAAW;CACZ;AACD;EACE,WAAW;EACX,oBAAoB;EACpB,eAAe;EACf,2CAA2C;EAC3C,mCAAmC;CACpC;AACD;EACE,mBAAmB;EACnB,SAAS;CACV;AACD;EACE,iBAAiB;EACjB,gBAAgB;EAChB,oBAAoB;CACrB;AACD;IACI,0BAA0B;IAC1B,iBAAiB;IACjB,kBAAkB;IAClB,uBAAuB;IACvB,wBAAwB;IACxB,aAAa;IACb,iCAAiC;IACjC,uBAAuB;IACvB,oBAAoB;CACvB;EACC;IACE,eAAe;IACf,iBAAiB;IACjB,wBAAwB;IACxB,SAAS;GACV","file":"shell.css","sourcesContent":["* {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n}\n.contents {\n  /** Prevents fixed-top navbar from overlapping site contents. */\n  padding-top: 56px;\n}\nbody {\n  margin: 0;\n}\na {\n      text-decoration: none;\n}\n.header .container{\n  display: flex;\n  justify-content: space-between;\n}\na:hover {\n  /** Disables Bootstrap's default underline-on-hover behavior. */\n  text-decoration:none !important;\n}\n.side-bar{\n  position: fixed!important;\n  top: 0;\n  right: 0!important;\n  max-height: 100vh!important;\n  height: 100vh;\n  max-width: 80vw!important;\n  background-color: #efefef;\n  min-width: 45px!important;\n  outline: none;\n  overflow-x: hidden!important;\n  overflow-y: auto!important;\n  -webkit-overflow-scrolling: touch;\n  will-change: transform;\n  -webkit-transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  transition: -webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  transition: transform 233ms cubic-bezier(0,0,.21,1);\n  transition: transform 233ms cubic-bezier(0,0,.21,1),-webkit-transform 233ms cubic-bezier(0,0,.21,1);\n  -webkit-transform: translateX(100%)!important;\n  transform: translateX(100%)!important;\n  width: 250px;\n  padding-right: 10px;\n  opacity: 0;\n}\n.side-bar[open] {\n  opacity: 1;\n  z-index: 2147483647;\n  display: block;\n  -webkit-transform: translateX(0)!important;\n  transform: translateX(0)!important;\n}\n.side-bar__close{\n  position: absolute;\n  right: 0;\n}\n.side-bar ul{\n  list-style: none;\n  font-size: 17px;\n  line-height: 1.15em;\n}\n.side-bar__mask{\n    position: fixed!important;\n    top: 0!important;\n    left: 0!important;\n    width: 100vw!important;\n    height: 100vh!important;\n    opacity: 0.2;\n    background-image: none!important;\n    background-color: #000;\n    z-index: 2147483646;\n}\n  .menu {\n    display: block;\n    border-radius: 0;\n    background-color: white;\n    border:0;\n  }\n"],"sourceRoot":""}]);
 
 // exports
 

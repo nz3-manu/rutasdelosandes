@@ -1,12 +1,15 @@
 importScripts("https://unpkg.com/workbox-sw@1.1.0");
-var cache_name = "rutas-cache-v6";
+var cache_name = "rutas-cache-v8";
 var urlsToCache = ["/", "/index.html", "/javascript/index.bundle.js"];
 
 self.addEventListener("install", function(event) {
   // Perform install steps
-  event.waitUntil(
-    caches.open(cache_name).then(function(cache) {
-      return cache.addAll(urlsToCache);
+  event.waitUntil(fetch("/documents.json").
+    then(documents => documents.json()).
+    then((jsonDocuments) => jsonDocuments.map(document => document.image)).
+    then((imagesArray) => { 
+      caches.open(cache_name).then(function(cache) {
+      return cache.addAll(urlsToCache.concat(imagesArray));})
     })
   );
 });

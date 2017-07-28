@@ -38,28 +38,26 @@ export default class Shell extends React.Component {
   render() {
     return (
       <div>
-        {this.state.sidebarIsOpen &&
-          <div>
-          <div className="side-bar" open>
-            <button onClick={() => { this.toggleSideBar(false) } } className="side-bar__close">
-              <img  src="/images/ic_close_black_18dp_2x.png"
-                    width="20"
-                    height="20"
-                    alt="close sidebar"
-              />
-             </button> 
-              <ul>
-                {jekyll.pages.map((page,index) =>
-                  <li key={index}>
-                    <Link to={page.url}>
-                      {page.title}  
-                    </Link>  
-                  </li>)} 
-              </ul>    
-              </div>
-                <div className="side-bar__mask" onClick={() => { this.toggleSideBar(false) }} >
-            </div>
-          </div>      
+        <div className="side-bar" open = {this.state.sidebarIsOpen}>
+          <button onClick={() => { this.toggleSideBar(false) } } className="side-bar__close">
+            <img  src="/images/ic_close_black_18dp_2x.png"
+                  width="20"
+                  height="20"
+                  alt="close sidebar"
+            />
+            </button> 
+            <ul>
+              {jekyll.pages.map((page,index) =>
+                <li key={index}>
+                  <Link to={page.url}>
+                    {page.title}  
+                  </Link>  
+                </li>)} 
+            </ul>    
+        </div>
+        { this.state.sidebarIsOpen &&
+              <div className="side-bar__mask" onClick={() => { this.toggleSideBar(false) }} >
+            </div>      
         }      
         <div className="header" style={{ backgroundColor: jekyll.brandColor, borderBottom: "solid 1px black" }} >
           <div className='container'>
