@@ -2,14 +2,15 @@
 layout: post
 title:  Cascada los Chorros
 categories: colombia 
-tags: zonaCafetera Pereira
+tags: Zona_Cafetera Pereira
 excerpt: Después de una caminata de 2 horas por un terreno pedregoso con el río Otún al costado se llega a esta hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya, vale la pena visitarla!!.Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url: /images/chorros
 viewranger: MTQwODQyMA==
 author: leidy
 ---
-La pastora es una reserva natural ubicada en el parque regional ucumari situada en el departamento de Risaralda del municipio de Pereira, la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un senderismo acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
+La pastora es una reserva natural ubicada en el Parque Regional Ucumarí situada en el departamento de Risaralda del municipio de Pereira,la pastora es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura ya que es un sendero acompañado de hermosos paisajes llenos de fauna y flora y además se puede disfrutar de las múltiples cascadas y en si toda la extensión del río Otún que se encuentran durante todo el recorrido.
+Duración del trayecto 1 día.
  
 ## ¿Qué encontrarás 🏞👀?
 * Realizar paseos ecológicos.
@@ -66,7 +67,7 @@ La pastora se encuentra ubicada en el corregimiento de la florida en Pereira; pa
 
 ## El camino 🚶🏽🚶🏽
 
-El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos 🐴 para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio __se debe confirmar con 2 dias de anticipacion Teléfono: <a href="tel:0363144162">(036)3144162</a>.__
+El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el camino está lleno rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. También se cuenta con servicio de caballos 🐴 para realizar este recorrido tiene un costo de $30.000 pesos por trayecto ($60.000 pesos en ir y volver), para este servicio __se debe confirmar con 2 dias de anticipación Teléfono: <a href="tel:0363144162">(036)3144162</a>.__
 
 {% include iframe.html
     type="custom"
@@ -74,7 +75,7 @@ El recorrido de la pastora está a dos horas del Cedral, durante el trayecto el 
     caption="ruta a pie desde el cedral hasta la cascada los chorros pasando por la pastora, aproximadamente dos horas de caminata"
 %}
 
-Una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes la pastora.
+Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Pastora.
 
 {% include image.html 
     file="chorros/lapastora3.jpg" 
@@ -83,7 +84,7 @@ Una vez haber llegado a la pastora nos encontraremos con el Centro de visitantes
     caption="centro de visitantes la pastora"
 %} 
 
-En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pesos, almuerzos y comidas a $12.000 pesos. Si nuestra idea es pasar una noche aqui que seria lo aconsejable para disfrutar de los chorros, podemos encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. __Para alquiler de cabaña se debe confirmar disponibilidad Teléfono: <a href="tel:0363144162">(036)3144162</a>.__
+En el Centro de Visitantes la Pastora podremos encontrar desayunos a $8.000  pesos, almuerzos y comidas a $12.000 pesos. Si nuestra idea es pasar una noche aqui que seria lo aconsejable para disfrutar de los chorros, podemos encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. __Para alquiler de cabaña se debe confirmar disponibilidad Teléfono: <a href="tel:0363144162">(036)3144162</a>.__
  
 {% include image.html 
     file="chorros/slide4.jpg" 
@@ -93,5 +94,5 @@ En el centro de visitantes la pastora podremos encontrar desayunos a $8.000  pes
     caption="nuestra recompensa sera esta majestuosa cascada de 20 metros de altura"
 %} 
  
-Para regresar la última “chiva” o bus escalera 🚌 sale a las 5 pm desde el Cedral.
+Una vez para regresar tenemos que  tener en cuenta que la última "chiva"  o bus escalera 🚌 sale a las 5 pm desde el Cedral.
 

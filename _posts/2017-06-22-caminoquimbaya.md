@@ -3,7 +3,7 @@ layout: post
 title:  El camino del quimbaya
 alt_url: /colombia/quimbayiantrail
 categories: colombia 
-tags: zonaCafetera Pereira Marsella
+tags: Zona_Cafetera Pereira Marsella
 excerpt: 16.79 km de selva tropical ubicado entre Marsella y Pereira, este sendero está lleno de variada vegetación  y termina con una hermosa panorámica de la ciudad de Pereira.Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url: /images/quimbaya

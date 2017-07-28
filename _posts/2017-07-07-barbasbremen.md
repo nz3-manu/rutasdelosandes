@@ -3,7 +3,7 @@ draft: true
 layout: post
 title:  Barbas Bremen
 categories: colombia
-tags: zonaCafetera Pereira 
+tags: Zona_Cafetera Pereira 
 excerpt: La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia y Salento (Quindío) y Pereira (Risaralda). Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día.
 #fb image at least  600 × 315 px  hd devices 1.200 × 630 487x255 how i see it
 images_url : /images/barbasBremen
