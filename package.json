@@ -17,11 +17,9 @@
   },
   "homepage": "https://github.com/jg-rc/rutasdelosandes#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
     "gsap": "^1.20.2",
     "react": "^15.6.1",
     "react-addons-transition-group": "^15.6.0",
-    "react-bootstrap": "^0.31.1",
     "react-dom": "^15.6.1",
     "react-router": "^2.8.0"
   },

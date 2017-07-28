@@ -2,7 +2,9 @@
   /** Prevents fixed-top navbar from overlapping site contents. */
   padding-top: 56px;
 }
-
+body {
+  margin: 0;
+}
 a:hover {
   /** Disables Bootstrap's default underline-on-hover behavior. */
   text-decoration:none !important;

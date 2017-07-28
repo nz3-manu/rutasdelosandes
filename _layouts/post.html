@@ -72,6 +72,7 @@ layout: default
         <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
       {% endfor %}
     </ul>
+    {{ page.excerpt }}
     {{ content }}
      {% assign viewranger= page.viewranger %}
      {% include route.html  images_url = page.images_url viewranger = page.viewranger %}

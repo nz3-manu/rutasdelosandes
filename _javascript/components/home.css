@@ -29,3 +29,29 @@
   border-bottom: solid 2px #37dc8c;
   color: black;
 }
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+@media (min-width: 768px){
+  .container {
+      width: 750px;
+  }
+}
+
+@media (min-width: 992px){
+  .container {
+      width: 970px;
+  }
+}
+@media (min-width: 1200px){
+  .container {
+      width: 1170px;
+  }
+}
+
+
+
+

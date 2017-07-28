@@ -4,8 +4,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Shell from './components/shell';
 
-import 'bootstrap/dist/css/bootstrap.css';
-import './bootstrap-theme.css'; // Replace with your own bootstrap theme!
 
 /**
  * @see https://github.com/ampproject/amphtml/blob/master/extensions/amp-install-serviceworker/amp-install-serviceworker.md#shell-url-rewrite
