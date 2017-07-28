@@ -10,6 +10,10 @@
 body {
   margin: 0;
 }
+.header .container{
+  display: flex;
+  justify-content: space-between;
+}
 a:hover {
   /** Disables Bootstrap's default underline-on-hover behavior. */
   text-decoration:none !important;

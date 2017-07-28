@@ -18,7 +18,7 @@ export default class TransitionWrapper extends React.Component {
     if (this.props.isTransitioning) {
       // Matches the "leave" animation duration of the `Home` component to avoid overlapping.
       const leaveAnimationDuration = 350;
-      const duration = 0.25;
+      const duration = 0.45;
 
       // The `in-transition` class hides and overlays the wrapper contents on top of `Home`.
       this.container_.classList.add('in-transition');
