@@ -24,7 +24,6 @@ self.addEventListener("fetch", function(event) {
 });
 
 self.addEventListener("activate", function(event) {
-  console.log("activate triggered", "SW starts up");
   event.waitUntil(
     caches.keys().then(keyList => { 
       Promise.all(
