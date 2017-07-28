@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { TimelineLite, TweenLite, Elastic } from 'gsap';
+import { TimelineLite, TweenLite, Power2 } from 'gsap';
 import Article from './article';
 import React from 'react';
 import './home.css';
@@ -33,7 +33,7 @@ export default class Home extends React.Component {
       callback();
     } else {
       // If this is a non-interrupted navigation, perform a small animation for the categories bar.
-      TweenLite.fromTo(this.categories_, 0.5, {y: -100}, {y: 0, onComplete:callback});
+      TweenLite.fromTo(this.categories_, 0.5, {y: -100}, {ease: Power2.easeOut, y: 0, onComplete:callback});
     }
   }
 
@@ -43,16 +43,12 @@ export default class Home extends React.Component {
       // Matches the "enter" animation duration in `TransitionWrapper` to avoid overlapping.
       const enterAnimationDuration = 250;
       const epsilon = 150;
-      const duration = 0.35;
+      const duration = 0.5;
 
       const navBarHeight = 56;
       const bounds = this.selectedArticle_.getBoundingClientRect();
       const toY = -bounds.top + navBarHeight;
       this.selectedArticle_.classList.add('selected');
-      console.log(bounds.top)
-      console.log(navBarHeight)
-      console.log(toY,"valor")
-
       // Fade out all articles other than the one that was clicked on, as well as the selected
       // article's children (text and scrims).
       const otherArticles = Array.from(this.articles_.querySelectorAll('.article:not(.selected)'));
@@ -68,10 +64,9 @@ export default class Home extends React.Component {
       const maxContainerWidth = this.maxContainerWidth_();
       const responsiveHeight = Math.min(maxContainerWidth * oneOverAspectRatio,
         (window.innerWidth || document.documentElement.clientWidth) * oneOverAspectRatio);
-      console.log(responsiveHeight,"pxs")
 
       this.timeline_ = new TimelineLite();
-      this.timeline_.to(this.selectedArticle_, duration, {y: toY, ease: Elastic.easeOut, paddingBottom: "52.356%", onComplete:() => {
+      this.timeline_.to(this.selectedArticle_, duration, {y: toY, height: responsiveHeight, onComplete:() => {
             // Reset window scroll so top of article is displayed.
             const previousScrollY = window.scrollY;
             window.scrollTo(0, 0);
