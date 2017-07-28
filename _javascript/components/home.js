@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { TimelineLite, TweenLite } from 'gsap';
+import { TimelineLite, TweenLite, Elastic } from 'gsap';
 import Article from './article';
 import React from 'react';
 import './home.css';
@@ -71,7 +71,7 @@ export default class Home extends React.Component {
       console.log(responsiveHeight,"pxs")
 
       this.timeline_ = new TimelineLite();
-      this.timeline_.to(this.selectedArticle_, duration, {y: toY, height: responsiveHeight, onComplete:() => {
+      this.timeline_.to(this.selectedArticle_, duration, {y: toY, ease: Elastic.easeOut, paddingBottom: "52.356%", onComplete:() => {
             // Reset window scroll so top of article is displayed.
             const previousScrollY = window.scrollY;
             window.scrollTo(0, 0);
@@ -142,7 +142,7 @@ export default class Home extends React.Component {
             <Link to={doc.url} key={doc.url} onClick={this.onClickArticleLink_.bind(this)}>
               <Article
                   title={doc.title}
-                  subtitle={'By ' + doc.author + ', ' + doc.date}
+                  subtitle={'Por ' + doc.author + ', ' + doc.date}
                   image={doc.image}
                   src={doc.url} />
             </Link>
