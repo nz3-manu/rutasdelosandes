@@ -146,10 +146,9 @@ class AMPDocument extends React.Component {
    *         Otherwise, rejects with {!string} error description.
    */
    fetchDocument_(url) {
-     let originUrl = window.location.origin;
     return new Promise((resolve, reject) => {
       this.xhr_ = new XMLHttpRequest();
-      this.xhr_.open('GET',`${originUrl}${url}`, true);
+      this.xhr_.open('GET',url, true);
       this.xhr_.responseType = 'document';
       // This is set to text/* instead of text/html because the development server
       // only forwards requests to the proxy for requests whose 'Accept' header
