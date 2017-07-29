@@ -1,4 +1,4 @@
-var cache_name = "rutas-cache-v14";
+var cache_name = "rutas-cache-v15";
 var urlsToCache = ["/", "/index.html", "/javascript/index.bundle.js"];
 
 self.addEventListener("install", function(event) {
