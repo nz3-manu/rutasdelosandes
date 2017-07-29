@@ -79,8 +79,8 @@ class AMPDocument extends React.Component {
     if (this.state.offline) {
       return (
         <div>
-          <h2>Houston, we have a problem.</h2>
-          <p>Looks like we are offline&mdash;please check your Internet connection.</p>
+          <h2>Houston, tenemos problemas</h2>
+          <p>parece que estas sin Conexión a internet&mdash; por favor revisala</p>
         </div>
       );
     } else {
@@ -145,7 +145,7 @@ class AMPDocument extends React.Component {
    * @return {!Promise<!Document|!string>} If fetch succeeds, resolved with {!Document}.
    *         Otherwise, rejects with {!string} error description.
    */
-  fetchDocument_(url) {
+   fetchDocument_(url) {
     return new Promise((resolve, reject) => {
       this.xhr_ = new XMLHttpRequest();
       this.xhr_.open('GET', url, true);

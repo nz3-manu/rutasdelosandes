@@ -1,5 +1,4 @@
-importScripts("https://unpkg.com/workbox-sw@1.1.0");
-var cache_name = "rutas-cache-v12";
+var cache_name = "rutas-cache-v14";
 var urlsToCache = ["/", "/index.html", "/javascript/index.bundle.js"];
 
 self.addEventListener("install", function(event) {

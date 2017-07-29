@@ -19,8 +19,11 @@ function redirectSWFallbackURL(nextState, replace) {
 ReactDOM.render((
   <Router history={browserHistory}>
     <Route path='/' component={Shell} onEnter={redirectSWFallbackURL}>
+     <Route path=':page' component={
+        props => <AMPDocument src={`/${props.params.page}`} />
+      } />  
       <Route path=':category/:document' component={
-        props => <AMPDocument src={props.params.document} />
+        props => <AMPDocument src={`/${props.params.category}/${props.params.document}`} />
       } />
     </Route>
   </Router>
