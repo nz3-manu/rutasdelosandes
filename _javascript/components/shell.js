@@ -49,7 +49,7 @@ export default class Shell extends React.Component {
             <ul>
               {jekyll.pages.map((page,index) =>
                 <li key={index}>
-                  <Link to={page.url}>
+                  <Link onClick={() => { this.toggleSideBar(false) } } to={page.url}>
                     {page.title}  
                   </Link>  
                 </li>)} 

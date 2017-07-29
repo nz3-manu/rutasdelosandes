@@ -9,6 +9,16 @@
 }
 body {
   margin: 0;
+  font-family: Montserrat,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;
+  color:#4a4a4a;
+  line-height: 1.5rem;
+  background-color: #fdfdfd;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
 }
 a {
       text-decoration: none;
@@ -55,11 +65,16 @@ a:hover {
 .side-bar__close{
   position: absolute;
   right: 0;
+  top:10px;
 }
 .side-bar ul{
   list-style: none;
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.15em;
+  margin-top: 45px;
+}
+.side-bar ul li{
+  margin-bottom: 20px;
 }
 .side-bar__mask{
     position: fixed!important;
@@ -72,7 +87,7 @@ a:hover {
     background-color: #000;
     z-index: 2147483646;
 }
-  .menu {
+  .menu, .side-bar__close {
     display: block;
     border-radius: 0;
     background-color: white;
