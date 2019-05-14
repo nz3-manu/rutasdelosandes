@@ -1,0 +1,46 @@
+---
+layout: null
+---
+
+{ 
+  "expanded": "",
+  "activeStep": 0,
+  "product": "",
+  "shipping": "",
+  "payment": "",
+  "documents" :{
+  {% for collection in site.collections %}
+     "{{collection.label}}":[
+      {% for post in collection.docs  %}
+      {% unless post.draft  %}
+          {% assign authorInfo = site.data.authors[post.author] %}  
+            { "url" : "{{ post.url | relative_url | remove: '/amp'}}",
+              "title": "{{ post.title | escape }}",
+              "excerpt":"{{post.excerpt}}",
+              "author": "{{ authorInfo.name }}",
+              "date": "{{post.date | date: '%b %d' }}",
+              "image": "{{post.images_url}}/thumbnail.jpg"
+            }
+            {% if forloop.last != true %}
+            ,
+            {% endif %}
+        {% endunless %}
+      {% endfor %}
+    ]
+    {% if forloop.last != true %}
+    , 
+    {% endif %}
+  {% endfor %} 
+},
+"jekyll":{
+  "logo" : "{{ site.logo | escape }}",
+  "brandColor": "{{ site.brand_color }}",
+  "pages" : [
+    {% for page in site.menu_pages %}
+      {"url":"{{page.url}}", "title" :"{{page.display}}"}
+      {% if forloop.last != true %}
+       ,
+      {% endif %}
+    {% endfor %}
+  ]
+}}

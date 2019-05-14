@@ -1,0 +1,1252 @@
+<!doctype html>
+<html ⚡>
+<head>
+    <meta charset="utf-8">
+     <title><%= product.name %></title>
+    <meta name="amp-experiment-token" content="HfmyLgNLmblRg3Alqy164Vywr">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+    <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+    <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
+    <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
+    <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-custom>
+    body {
+      background: #fff;
+      color: #4a4a4a;
+      line-height: 1.5rem;
+      font-family: Montserrat,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;
+      min-width: 315px;
+      overflow-x: hidden;
+      font-smooth: always;
+      -webkit-font-smoothing: antialiased;
+    }
+    #product-description {
+      clear: both;
+    }
+    amp-lightbox {
+      background: rgba(0,0,0,0.8);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+    }
+    amp-accordion h4 {
+      font-size: 18px;
+    }
+    amp-carousel .selected {
+      border: solid 2px red;
+    }
+    .amp-youtube-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+    }
+    .video {
+      flex: 1;
+    }
+    .main{
+      padding-top: 57px;
+    }
+    .price-description {
+      color: grey;
+      font-weight: 400;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      padding: 0 16px;
+    }
+    .product-gallery > ul {
+      margin: 0;
+      padding: 0;
+      float: left;
+      list-style: none;
+      line-height: 0;
+    }
+    .product-gallery > ul > li {
+      cursor: pointer;
+      margin: 0 1em 1em 1em;
+      opacity: 1;
+      will-change: opacity;
+      transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    }
+    .product-gallery > ul > li:active {
+      opacity: 0.5;
+    }
+    .product-gallery > ul > li:focus {
+      outline: none;
+    }
+    .product-gallery amp-img:focus {
+      outline: none;
+    }
+    form#order label {
+      display: inline;
+      font-weight: 500;
+      font-size: 16px;
+      margin: 0;
+    }
+    form#order .button {
+      width: 100%;
+      max-width: 400px;
+      align-self: center;
+      margin: 16px 20%;
+      box-sizing: border-box;
+    }
+    form#order.amp-form-submitting [name=add-to-cart] {
+      color: #666;
+      background-color: #aaa;
+      cursor: default;
+    }
+    form#order amp-selector > ul {
+      list-style: none;
+      display: flex;
+      align-items: flex-end;
+      justify-content: end;
+    }
+    form#order amp-selector > ul li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 8px;
+      background: white;
+      height: 40px;
+      min-width: 40px;
+      width: auto;
+    }
+    form#order amp-selector [option] {
+      outline: none;
+    }
+    form#order amp-selector amp-img[option][selected] {
+      outline-width: 1px;
+      outline-style: solid;
+      outline-color: #607d8b;
+      background: none;
+    }
+    form#order amp-selector:not([disabled]) [option][selected]:not([disabled]), amp-img.selected {
+      will-change: box-shadow;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+      transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+      color: #fff;
+    }
+
+    form#order amp-selector:not([disabled]) [option][selected]:not([disabled]):not(.unavailable):not(.square) {
+      background-color: #607d8b;
+    }
+
+    form#order amp-selector:not([disabled]) [option][selected]:not([disabled]):not(.unavailable).square {
+      outline: 1px solid #607d8b;
+    }
+    form#order amp-selector:not([disabled]) [option]:not([selected]):not([disabled]), amp-img:not([.selected]) {
+      will-change: box-shadow;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+      transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+    }
+
+    form#order amp-selector[name=color] div:not([selected]):not([disabled]) {
+      opacity: 0.6;
+    }
+    @keyframes fadeIn {
+      0% {opacity: 0;}
+      100% {opacity: 1;}
+    }
+    .fadeIn {
+      animation-duration: 1s;
+      animation-fill-mode: both;
+      animation-name: fadeIn;
+    }
+
+    .unavailable {
+      position: relative;
+      background: gray;
+      overflow: hidden;
+      opacity: 0.6;
+      pointer-events: none;
+      user-select: none;
+    }
+
+    .unavailable:before, .unavailable:after {
+      position: absolute;
+      content: '';
+      background: grey;
+      display: block;
+      width: auto;
+      height: 1px;
+      min-width: 56px;
+      -webkit-transform: rotate(-45deg);
+      transform: rotate(-45deg);
+      left: -11px;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      border-bottom: 2px solid;
+    }
+
+    .unavailable:after {
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    .info-button {
+      background: -webkit-image-set(
+        url(/img/ic_info_outline_black_24dp_1x.png) 1x,
+        url(/img/ic_info_outline_black_24dp_2x.png) 2x
+      );
+      background-repeat: no-repeat;
+      width: 24px;
+      height: 24px;
+      margin-top: 4px;
+    }
+
+    .info {
+      margin: 0 auto;
+      background: #fff;
+    }
+
+    .lightbox {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+
+    .ampTabContainer {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 20px 0;
+    }
+
+    .tabButton {
+        list-style: none;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+    }
+
+    amp-selector [option][selected] {
+      outline: #fff;
+    }
+
+    .tabContent {
+        line-height: 1.5rem;
+        margin-top: 5px;
+        display: none;
+        width: 100%;
+        order: 1; /* must be greater than the order of the tab buttons to flex to the next line */
+    }
+
+    .tabButton[selected]::after {
+      content: '';
+      display: block;
+      height: 4px;
+      background: -webkit-gradient(linear,left top, right top,color-stop(0, #000000),to(#8a8a8a));    
+      background: -webkit-linear-gradient(left,#000000 0,#8a8a8a);    
+      background: -o-linear-gradient(left,#000000 0,#8a8a8a);    
+      background: linear-gradient(90deg,#000000 0,#8a8a8a);
+    }
+
+    .tabButton[selected]+.tabContent {
+        display: block;
+    }
+
+    .items, amp-list.items > div {
+      justify-content: flex-start;
+    }
+
+    .close-gallery-button {
+      z-index: 1;
+      cursor: pointer;
+      position: absolute;
+      right: -14px;
+      top: -14px;
+      color: #060606;
+      font-size: 18px;
+      font-weight: bold;
+      border: 1px solid #080808;
+      background-color: white;
+      width: 26px;
+      margin: 0px;
+      padding: 0px;
+      height: 26px;
+      border-radius: 27px;
+    }
+    .flex{
+      display:flex;
+    }
+    .items-center{
+      align-items: center;
+    }
+    .items, amp-list.items > div {
+      justify-content: flex-start;
+    }
+    .items, amp-list.items > div {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+    .options{
+      list-style: none;
+      padding: 0;
+      display:flex;
+      margin: 0;
+    }
+    .options li {
+      display: inline-block;
+      padding: 1px;
+    }
+    div.square {
+      width: 44px;
+      height: 44px;
+    }
+    .options li div{
+      text-align:center;
+      line-height: 44px;
+      margin: 0;
+      -webkit-box-shadow:0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12); 
+      box-shadow:0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+    }
+    .options div[selected] {
+      outline: 3px solid gray;
+    }
+    .variations{
+      display: flex;
+      justify-content: space-around;
+    }
+    .Blanca {
+      background-color: #29387d;
+    }
+    .Negra {
+      background-color: black;
+    }
+    .Gris {
+      background-color: gray;
+    }
+    .Small::before{
+      content: "S";
+    }
+    .Medium::after{
+      content: "M";
+    }
+    .Large::after{
+      content: "L";
+    }
+    .Hombre::before{
+      content: "👨🏻";
+    }
+    .Mujer::after{
+      content: "👩🏻";
+    }
+    .buy{
+      width: 100%;
+      height: 50px;
+      color: #ffffff;
+      border: 1px solid #000000;
+      text-transform: uppercase;
+      letter-spacing: .2em;
+      font-family: inherit;
+      font-weight: 500;
+      font-size: 1rem;
+      line-height: 1.125rem;
+      padding: .7em .8em;
+      text-decoration: none;
+      white-space: nowrap;
+      word-wrap: normal;
+      vertical-align: middle;
+      cursor: pointer;
+      background-color: #000;
+      margin-top: 2px;
+    }
+    .buy:hover{
+      color: gray;
+    }
+    .buy[disabled]{
+      color:gray;
+      border: 1px solid gray;
+    }
+    .productAvailability{
+      height: 150px;
+      overflow: hidden;
+    }
+    .single_productAvailability{
+      height: 150px;
+      position: relative;
+    }
+    .availabilityOption{
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+      line-height: normal;
+      font-size: 11px;
+      text-align: center;
+    }
+    .availabilityOption__textNotification{
+      font-weight: 600;
+      font-size: 11px;
+      color: #C70039;
+    }
+    .notify{
+      width:100%;
+      height: 50px; 
+      color: #000000;
+      border: 1px solid #000000;
+      text-transform: uppercase;
+      letter-spacing: .2em;
+      font-family: inherit;
+      font-weight: 600;
+      font-size: 1rem;
+      line-height: 1.125rem;
+      padding: .7em .8em;
+      text-decoration: none;
+      white-space: nowrap;
+      word-wrap: normal;
+      vertical-align: middle;
+      cursor: pointer;
+      background-color: #fff;
+      margin-top: 5px;
+    }
+    .notify:hover {
+      color: gray;
+    }
+    .price-wrap{
+      display: flex;
+      justify-content: center;
+    }
+    .price{
+      text-align: center;
+      margin-bottom: 0;
+      text-decoration:line-through;
+    }
+    .pricePromotion{
+      text-align: center;
+      margin-bottom: 0;
+      color: #C70039;
+      margin-left: 6px;
+    }
+    .notify-popup{
+      width: 80%;
+      margin: 0 auto;
+      background-color: #ffffff;;
+      padding: 10px;
+      border-radius: 10px;
+      position: relative;
+    }
+    .site-header {
+      background-color: white;
+      border-bottom: 1px solid black;
+      min-height: 55.95px;
+      position: relative;
+      position: fixed;
+      width: 100%;
+      top: 0;
+      z-index: 20000;
+    }
+    div.header-wrapper {
+      padding-top: 0;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+    }
+    .ampstart-nav-item{
+      padding: 0 0.5rem;
+      background: 0 0;
+      opacity: .8;
+    }
+    .variation-label{
+      display:block;
+      width: 100%;
+      text-align: center;
+      margin: 5px 0;
+      font-weight: 600;
+    }
+    .h4, h4 {
+      font-size: 1.125rem;
+      line-height: 1.5rem;
+    }
+    #notify-form span,#notify-form input{
+      display: block;
+      width: 100%;
+    }
+    .phone-label span,.name-label span,.email-label span{
+      color:black;
+      font-family: Helvetica;
+    }
+    /*Mamnuel*/
+    .lightbox__wrap__btnForm{
+      width: 100%;
+      position: relative;
+      height: 100%;
+      max-width: 800px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    #notify-form input[type="text"], #notify-form input[type="email"], #notify-form input[type="tel"]{
+      width: 93%;
+      border: 1px solid #000;
+      background: #FFF;
+      margin: 0px;
+      padding: 10px;
+      font-size: 15px;
+      font-family: Montserrat;
+    }
+    .notify-popup--tittle{
+      margin-top: 0;
+      color: black;
+      text-align: center;
+      font-size: 29px;
+      line-height: 1.2;
+      margin-bottom: 8px;
+      font-family: Helvetica;
+    }
+
+    /*Fin Manuel*/
+    .quatity{
+      position:absolute;
+      top:0;
+      position: absolute;
+      top: -65px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 15px;
+      display: flex;
+      line-height: 44px;
+    }
+    .quatity-list{
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .quatity-list li{
+      width: 44px;
+      height: 44px;
+      text-align: center;
+      line-height: 44px;
+      font-weight: bold;
+      font-size: 18px;
+      color: #4a4a4a;
+    }
+    .quantity-title{
+      margin-right: 5px;
+      font-weight: 600;
+    }
+    .quatity-list li[selected]{
+      background-color: gray;
+      color: white;
+      will-change: box-shadow;
+      -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+      box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+      -webkit-transition: -webkit-box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+      transition: -webkit-box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+      -o-transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+      transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+      transition: box-shadow 0.3s cubic-bezier(.25,.8,.25,1), -webkit-box-shadow 0.3s cubic-bezier(.25,.8,.25,1);
+    }
+    .cart{
+      width:56px;
+      height:56px;
+    }
+
+    /* Header Amp */
+    .site-logo{
+      padding:0 5px;
+    }
+    .menu-button{
+      display: block;
+      border-radius: 0;
+      background-color: white;
+      border:0;
+    }
+
+    .container {
+      margin-right: auto;
+      margin-left: auto;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+    /* Descuento */
+    .product{
+      position: relative;
+    }
+    .porcentajeDescu{
+      position: absolute;
+      color: #000000;
+      left: 0px;
+      top: 0;
+      font-size: 18px;
+      font-weight: bold;
+      border: 1px solid #000000;
+      padding: 2px;
+    }
+
+    /* ======  table edit car  ======*/
+
+    .wrap-cart{
+      position: relative;
+      height: auto;
+      margin-top: 7px;
+      margin-bottom: 5px;
+      cursor: pointer;
+      display: block;
+      text-align: center;
+    }
+    .productQ{
+      position: absolute;
+      z-index: 100;
+      left: 20px;
+      top: 20px;
+    }
+    .productQ span {
+      color: white;
+      background-color: #C70039;
+      padding: 2px;
+      font-weight: bold;
+      font-size: 13px;
+    }
+    .cartBuy{
+      display: inline-block;
+      background-color: #ffffff;
+      border: 2px solid #000000;
+      text-align: center;
+      width: 92%;
+      height: 20px;
+    }
+    a.buy.cartBuy {
+      text-decoration: none;
+      color: black;
+    }
+    .cartBuy:hover{
+      background-color: black;
+    }
+    a.buy.cartBuy:hover{
+      color: white;
+     }
+    .edit-cart {
+      background-color: white;
+      position: fixed;
+      width: 100%;
+      height: auto;
+      right: 0px;
+    }
+    .wrap-shoppingCart{
+      padding: 10px;
+    }
+    .table {
+      display:table;
+      width:100%;
+      margin-bottom: 5px;
+    }
+    .headerRows{
+      text-align: center;
+      font-weight: 800;
+    }
+    .row {
+      display:table-row;
+    }
+    .cell {
+      display:table-cell;
+    }
+    .caption {
+      display:table-caption;
+      caption-side:bottom;
+    }
+    .cart-item-quantity{
+      text-align: center;
+    }
+  /* Footer*/
+  .wrapFoter{
+    width: 100%;
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 90px
+
+  }
+  .footer{
+    width: 100%;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    margin: auto;
+    justify-content: space-around;
+  }
+  .contacto h3, .politicas h3, .pagos h3 {
+    padding-bottom: 10px;
+  }
+  .footer h3, .footer ul , .footer p{
+    margin: 0px;
+  }
+  .footer ul {
+    list-style:none;
+    padding-left: 0px;
+  }
+  .politicas {
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+  }
+  .li-politicas li a {
+    color: white;
+    text-decoration: none;
+  }
+  .li-politicas li a:hover{
+    color: gray;
+  }
+
+  
+
+  /* =====  Media Query =====*/
+  @media (min-width: 450px) {
+      .notify-popup {
+        width: 400px;
+        padding: 25px;
+          }
+      .tabContent {
+        margin-top: 20px;
+          }
+          #notify-form input[type="text"], #notify-form input[type="email"], #notify-form input[type="number"]{
+            width: 94%;
+          }
+      .edit-cart {
+        width: 400px;
+      }
+      .wrap-shoppingCart{
+        padding: 15px;
+      }
+      .wrapFoter{
+        margin-top: 140px;
+      }
+        }
+  @media (min-width: 600px) {
+    .product {
+      display: flex;
+      justify-content: space-between;
+      }
+    .product-gallery,.product-info{
+      width: 49%;
+      }
+    .notify-popup{
+      padding: 35px;
+      }
+      .wrap-shoppingCart{
+        padding: 20px;
+      }
+      .footer{
+        display: flex;
+      }
+      .politicas{
+        border:none;
+      }
+    }  
+    @media (min-width: 768px) {
+      .container {
+        width: 750px;
+        }
+      .availabilityOption__textNotification{
+        font-size: 13px;
+       }
+       .edit-cart{
+        right: auto;
+       }
+       .price-wrap{
+        font-size: 21px;
+       }
+      }
+    @media (min-width: 992px){
+      .container {
+        width: 970px;
+        }
+      }
+    @media (min-width: 1024px) {
+    .product-gallery > ul {
+      display: none;
+      }
+    }
+    @media (min-width: 1200px){
+      .container {
+        width: 1170px;
+    }
+    .page-content {
+      width: 1170px;
+    }
+    .footer{
+      width: 1170px;
+    }
+    }
+    
+   /* when inside amp shadow don't display the header */
+   .amp-shadow .site-header, .amp-shadow  .wrapFoter  {
+    display: none;
+   }
+  </style>
+
+    <!-- ## Metadata -->
+    <!-- The page indexing requires schema.org markup for one of the following types: Type, AggregateRating, Offers. [Learn more](https://developers.google.com/structured-data/carousels/top-stories#markup_specification). -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+        "name": "Apple",
+        "image": "http://www.ampbyexample.com/img/golden_apple1_1024x682.jpg",
+        "description": "Lorem ipsum",
+        "mpn": "925872",
+        "brand": {
+            "@type": "Fruit",
+            "name": "Apple"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.4",
+            "reviewCount": "88"
+        },
+        "offers": {
+            "@type": "Offer",
+            "priceCurrency": "USD",
+            "price": "1.99",
+            "priceValidUntil": "2020-11-05",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": {
+                "@type": "Retail",
+                "name": "AMP by Example"
+            }
+        }
+    }
+    </script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    </head>
+    <body>
+    <!-- Google Analytics tracking -->
+      <div id="google-analitycs">
+        <amp-analytics type="googleanalytics" id="analytics1">
+          <script type="application/json">
+          {
+            "vars": {
+              "account": "UA-100391485-2"
+            },
+            "triggers": {
+                "trackPageview": {
+                  "on": "visible",
+                  "request": "pageview"
+                },
+                "clicBtnCompra" : {
+                  "on": "click",
+                  "selector": ".buy",
+                  "request": "event",
+                  "vars": {
+                    "eventCategory": "clicCompra",
+                    "eventAction": "clickBtnCompra"
+                }
+                }
+            }
+          }
+          </script>
+        </amp-analytics>
+        <!-- Google Analytics tracking --> 
+        <!-- Facebook Pixel Analytics tracking -->
+        <amp-analytics type="facebookpixel" id="facebook-pixel">
+          <script type="application/json">
+          {
+            "vars": {
+              "pixelId": "171238663763950"
+            },
+            "triggers": {
+              "trackPageview": {
+                "on": "visible",
+                "request": "pageview"
+              },
+              "trackEvent": {
+                "on": "click",
+                "selector": ".buy",
+                "request": "eventAddToCart",
+                "vars": {
+                  "content_ids": ["1234"],
+                  "content_name": "The Avengers",
+                  "content_type": "Entertainment",
+                  "value": 49.900,
+                  "currency": "COP"
+                }
+              }
+            }
+          }
+          </script>
+        </amp-analytics>
+        <!-- End Facebook Pixel Analytics example -->
+      </div>
+          
+    <!-- Fin Google Analytics tracking -->   
+
+    <header class="site-header" role="banner">
+      <div class="header-wrapper page-content">
+        <a class="site-logo" href="/">
+          <amp-img src="/images/logo.png" height="50" width="50">
+          </amp-img>
+        </a>   
+       <div class="cart">
+          <amp-list 
+          width="auto"
+          height="400"
+          single-item
+          items="."
+          layout="fixed-height"
+          src="/getcart?clientid=CLIENT_ID(cart)"
+          id="dynamic-content">
+          <div placeholder>Cargando ...</div>
+          <div fallback>Algo fallo en la carga</div>
+          <template type="amp-mustache">
+            <a class="wrap-cart" on="tap:AMP.setState({cart: {visible: !cart.visible}})" > 
+                <amp-img class="cart-icon" src="/images/cart.svg" height="40" width="40"></amp-img>
+                {{#number}}
+                <div class="cart-items productQ">
+                  <span >
+                      {{number}}
+                  </span>
+                </div>
+                    {{/number}}
+            </a>
+            <div [hidden]="cart.visible" class="edit-cart">
+              <div class="wrap-shoppingCart">
+                  <h2> MI CARRITO DE COMPRAS </h2>
+                  <div class="cart-items table">
+                    <div class="row headerRows">
+  
+                    </div>
+                    {{^items}}
+                    <p>Aun no agregaste productos a tu carrito de compras.</p>
+                    {{/items}}
+                    {{#items}} 
+                      <div class="cart-item row">
+                        <span class="cart-item-name cell">{{name}}</span>
+                        <span class="cart-item-quantity cell">{{quantity}}</span>
+                      </div>
+                  {{/items}}
+                  </div>
+                  <a href="/checkout?clientid=CLIENT_ID(cart)" data-amp-replace="CLIENT_ID" class="buy cartBuy">FINALIZAR COMPRA</a>
+                </div>
+            </div>
+
+          </template>
+      </amp-list>
+       </div>
+
+        <button on="tap:sidebar.toggle" class="ampstart-btn caps m2 menu-button">
+            <svg viewBox="0 0 18 15" width="35px" height="45px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+        </button>
+      </div>
+    </header>
+
+    <div class="container main">
+      <amp-state id="variationMatrix" >
+        <script type="application/json">
+          <%- JSON.stringify(product.variations)  %>
+        </script>
+      </amp-state>
+      <amp-state id="product">
+          <script type="application/json">
+            { 
+              "selectedProduct" : "<%- product.defaultChild %>",
+              "variationSelected" : <%- JSON.stringify(product.defaultVariations) %>,
+              "quantity" : "1"
+            }
+          </script>
+      </amp-state>
+      <amp-state id="cart">
+          <script type="application/json">
+            { 
+              "visible" : "false"
+              
+            }
+          </script>
+      </amp-state>
+      <h2 class="m1"><%= product.name %></h2>
+      <div class="product">
+      <div class="product-gallery">
+        <% product.childrens.forEach(function(child){ %>
+
+                  <amp-carousel 
+                      id="green-apple-carousel"
+                      width="1024" height="682"
+                      layout="responsive"
+                      type="slides"
+                      on="slideChange: AMP.setState({product: { {{color.name}}Slide: event.index}})"
+                      class="fadeIn"
+                      <% if (product.defaultChild != child.id) { %>
+                        hidden
+                      <% } %>     
+                      [hidden]=" <%= variationsParams %> != '<%= child.id %>'">
+                          <amp-img src="<%= child.main_image.link.href %>"
+                                  width="1024" height="682"
+                                  layout="responsive" 
+                                  role="button" tabindex="0">
+                          </amp-img>
+                  </amp-carousel>
+                  <p class="porcentajeDescu">
+                    <%= product.discount %>
+                  </p>
+              <% }) %>
+              <amp-image-lightbox id="gallery-lightbox" layout="nodisplay">
+                <div on="tap:gallery-lightbox.close" role="button"
+                    tabindex="0">
+                    <button class="ampstart-btn caps m2 close-gallery-button" on="tap:gallery-lightbox.close"
+                      role="button" tabindex="0">
+                      X
+                    </button>
+                </div>
+              </amp-image-lightbox>
+      </div>
+      <div class="product-info">
+        <div class="variations">
+          <% product.meta.variations.forEach(function(variation){ %>
+            <div class="variation">
+              <label class="variation-label" for="<%= variation.name %>"><%= variation.name %></label>
+              <amp-selector name="<%= variation.name %>"
+                      layout="container"
+                      on="select:AMP.setState({
+                        product: {
+                          variationSelected:{
+                            <%= variation.name %> : event.targetOption
+                          }
+                        }
+                      })"
+                      [selected]="product.variationSelected['<%= variation.name %>']">
+                <ul class="options">   
+                    <% variation.options.forEach(function(option,index){ %>      
+                      <li>
+                          <div 
+                            <% if (index < 1){ %>
+                             selected
+                            <% } %>
+                            option="<%= option.id %>"  
+                            class="square <%= option.name %>">
+                        </div>
+                      </li>
+                    <% }) %>
+                </ul>
+              </amp-selector>
+           </div>
+          <% }) %>
+        </div>
+        <div class="price-wrap">
+          <h3 class="price"> <%= product.originaprice %> </h3>
+          <h3 class="pricePromotion"> <%= product.meta.display_price.with_tax.formatted %> </h3>
+        </div>
+        <form 
+          id="checkout" 
+          target="_top"
+          method="post"
+          action-xhr="/addcart"
+          class="flex flex-wrap m1">     
+            <input type="hidden" name="id" value="<%= product.defaultChild %>" [value]=<%= variationsParams %> >
+            <input  type="hidden" name="quantity" value="1" [value]=<%= quantityExpression %> >
+            <input name="action" type="hidden" value="checkout" >
+        </form>
+        <form 
+        id="addtocart" 
+        target="_top"
+        method="post"
+        action-xhr="/addcart"
+        class="flex flex-wrap m1">     
+          <input type="hidden" name="id" value="<%= product.defaultChild %>" [value]=<%= variationsParams %> >
+          <input type="hidden" name="url" value="<%= product.url %>" >
+          <input  type="hidden" name="quantity" value="1" [value]=<%= quantityExpression %> >
+          <input name="action" type="hidden" value="addtocart" >
+      </form>
+      <amp-lightbox id="checkout-confirm-lightbox"
+      layout="nodisplay">
+        <div class="lightbox__wrap__btnForm"> 
+          <div class="notify-popup">
+            <div on="tap:checkout-confirm-lightbox.close" role="button"
+            tabindex="0">
+              <button class="ampstart-btn caps m2 close-gallery-button" on="tap:notify-lightbox.close"
+                role="button" tabindex="0">
+                  X
+              </button>
+            </div>
+            <button class="buy" on="tap:addtocart.submit" >
+              Seguir comprando
+            </button>
+            <button class="buy" on="tap:checkout.submit" >
+              Finalizar compra
+            </button>
+        </div>
+      </div>
+    </amp-lightbox>
+      <amp-lightbox id="notify-lightbox" 
+        layout="nodisplay">
+        <!--   Aqui viene el boton -->
+          <div class="lightbox__wrap__btnForm"> 
+            <div class="notify-popup">
+
+                <div on="tap:notify-lightbox.close" role="button"
+                tabindex="0">
+                  <button class="ampstart-btn caps m2 close-gallery-button" on="tap:notify-lightbox.close"
+                    role="button" tabindex="0">
+                      X
+                  </button>
+                </div>
+
+
+
+              <h3 class="notify-popup--tittle">Formulario De Notificación</h3>
+              <form
+              method="POST"
+              id="notify-form"
+              action-xhr="/product-notify"
+              target="_top"
+              on="submit-success:notify-lightbox.close">    
+                  <label class="name-label">
+                      <span>Nombre</span>
+                      <input type="text"
+                        name="nombre"
+                        placeholder="Nombre"
+                        required>
+                  </label>  
+                  <label class="email-label">
+                    <span>Correo Electronico</span>
+                    <input type="email"
+                      name="correo"
+                      placeholder="Correo"
+                    >
+                </label> 
+                  <label class="phone-label">
+                      <span>Whatsapp</span>
+                      <input type="tel"
+                        name="whatsapp"
+                        placeholder="Whatsapp"
+                        required>
+                  </label>
+                  <input type="hidden" name="id" value="<%= product.defaultChild %>" [value]=<%= variationsParams %> >
+                  <div submit-success>
+                      <template type="amp-mustache">
+                        Te notificaremos via whatsapp al numero {{celular}} cuando este disponible 
+                      </template>
+                  </div>
+                  <div submit-error>
+                        Algo fallo :( 
+                  </div>
+                  <input  type="submit" class="notify" value="enviar">   
+              </form>
+            </div>
+          </div>
+  </amp-lightbox>
+      <!--<amp-state id="productAvailavility" src="/product/availability/<%= product.id %>"></amp-state> -->
+      <div class="productAvailability">
+        <amp-list 
+          width="auto"
+          height="500"
+          layout="fixed-height"
+          src="/producto/availability/<%= product.id %>"
+          id="dynamic-content">
+          <div placeholder>Cargando ...</div>
+          <div fallback>Algo fallo en la carga</div>
+          <template type="amp-mustache">
+              <div class="single_productAvailability" [hidden]=" <%= variationsParams %> != '{{id}}'" >
+                  <div class="availabilityOption" [hidden]="{{total}} != 0">
+                    <div class="availabilityOption__textNotification">
+                      Este producto se encuentra agotado <br> ¿te gustaría que te notifiquemos cuando este disponible?
+                    </div>
+                    <button class="notify" value="notificame" on="tap:notify-lightbox" role="button" tabindex="0">  
+                      Notifícame
+                    </button> 
+                  </div>
+                  <div class="availabilityOption" [hidden]="{{total}} == 0">
+                      <div class="quatity">
+                          <div class="quantity-title">
+                              Cantidad 
+                          </div>
+                          <amp-selector
+                           on="select:AMP.setState({
+                            product: {
+                              quantity: event.targetOption
+                            }})"
+                            selected="1">
+                            <ul class="quatity-list">
+                              {{#options}}
+                                <li option="{{label}}" {{selected}}>{{label}}</li>
+                              {{/options}}
+                            </ul>
+                          </amp-selector>
+                      </div>
+                    <div class="availabilityOption__textNotification">
+                      Apresúrate sólo tenemos  {{total}} disponibles.
+                    </div>
+
+                    
+                    <button class="buy" on="tap:checkout-confirm-lightbox" >
+                      Comprar
+                    </button>
+                  </div>
+              </div>
+          </template>
+          <div overflow
+          class="list-overflow">
+            See more
+          </div>
+        </amp-list>
+      </div>
+      <amp-selector role="tablist"
+        layout="container"
+        class="ampTabContainer ampstart-headerbar-nav" keyboard-select-mode="select">
+        <div role="tab"
+          class="tabButton h4 ampstart-nav-item"
+          selected
+          option="a">INFORMACIÓN</div>
+        <div role="tabpanel"
+            class="tabContent p1 p">
+          <%= product.description %>
+        </div>
+        <div role="tab"
+          class="tabButton h4 ampstart-nav-item"
+          option="b"> ESPECIFICACIONES </div>
+        <div role="tabpanel"
+          class="tabContent p1 p"><%= product.specification %>
+        </div>
+      </amp-selector>
+      </div>
+      </div>
+    </div>
+
+    <div class="wrapFoter">
+        <div class="footer">
+            <div class="contacto">
+                <h3> CONTACTO</h3>
+                <ul class="li-contacto">
+                  <li>Whatsapp y Telefono: 3113403572</li>
+                  <li> Correo: rutasdelosandes@gmail.com</li>
+                </ul>
+                <p>Atendemos de lunes a viernes de 8:00 am a 6:00 pm.</p>
+            </div>
+            <div class="politicas">
+                <h3> POLÍTICAS</h3>
+                <ul class="li-politicas">
+                  <li><a href="/politicas#politicasPrivacidad" target= ”_blank”>Políticas privacidad</a></li>
+                  <li><a href="/politicas#politicasEnvio" target=”_blank”>Políticas de envío</a></li>
+                  <li><a href="/politicas#politicasDevolucion" target=”_blank”>Políticas de devolución</a></li>
+                </ul>
+            </div>
+             <div class="pagos">
+                <h3> PAGOS</h3>
+                <ul class="li-pagos">
+                  <li> Pse</li>
+                  <li> Efectivo</li>
+                  <li> Credito</li>
+                  <li> Baloto, Efecty y Apostar su red</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,28 @@
+ <figure
+    {% if include.fullscreen %}
+        data-mode="fullscreen"
+    {% endif %}
+    >
+    <amp-img 
+        {% if include.absolute %}
+            src="{{include.file}}"
+        {% else %}
+            src="/images/{{ include.file }}"
+        {% endif %}
+        {% if include.fullscreen %}
+            data-mode="fullscreen"
+        {% endif %}
+        layout="responsive" 
+        alt="{{ include.caption }}" 
+        width="{{ include.width | default: 1028 }}px"
+        height="{{ include.height | default: 771 }}px" 
+        >
+    </amp-img>
+    {% if include.caption %}
+        <figcaption 
+        {% if include.fullscreen %}
+            class="op-extra-large"
+        {% endif %}>{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>
+

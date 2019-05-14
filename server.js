@@ -17,6 +17,7 @@ const express = require('express'),
   
 
   import { SheetsRegistry } from 'react-jss/lib/jss';
+ import { updateLineItem, shopNameAndProductsPromise, cartPromise} from './shopifyPromises.js'
   import JssProvider from 'react-jss/lib/JssProvider';
   import {
     MuiThemeProvider,
@@ -26,9 +27,6 @@ const express = require('express'),
   import recipe from './recipe';
   import main from './imageProcess/custom-image';
   import blueGrey from '@material-ui/core/colors/blueGrey';
-  
-
- 
 
   let upload = multer();
   Sentry.init({ dsn: 'https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109' });
@@ -318,27 +316,6 @@ app.get('/producto/availability/:id', function(req, res) {
 app.set('views', './views');
 app.set('view engine', 'ejs');
 
-const getMainImage = (included, productObj) => {
-  let mainImage = { link: { href: `/images/products/${productObj.slug}.jpg` } };
-  /*
-		moltin socks
-		let main_image = included.main_images.find(function(el) {
-			return id === el.id;
-		}); */
-  return mainImage;
-};
-const getFile = (included, id) => {
-  let main_image = included.files.find(function(el) {
-    return id === el.id;
-  });
-  return main_image;
-};
-
-const getFiles = (included, files) => {
-  return files.data.map(file => {
-    return getFile(included, file.id);
-  });
-};
 
 app.get('/amp/producto/:slug', (req, res) => {
   const slug = req.params.slug;
@@ -490,241 +467,6 @@ app.get('/amp/producto/:slug', (req, res) => {
     });
 });
 
-const credit = (
-  { apiKey, apiLogin, referenceCode,currency,tx_value,tx_tax,tx_tax_return_base,signature, accountId, ip },
-  customerData,
-  orderId,
-  orderDescription
-) => ({
-  language: 'es',
-  command: 'SUBMIT_TRANSACTION',
-  merchant: {
-    apiKey: apiKey,
-    apiLogin: apiLogin
-  },
-  transaction: {
-    order: {
-      accountId: accountId,
-      referenceCode: referenceCode,
-      description: orderDescription,
-      language: 'es',
-      signature: signature,
-      notifyUrl: `https://rutasdelosandes.com/notify?orderid=${orderId}`,
-      additionalValues: {
-        TX_VALUE: {
-          value: tx_value,
-          currency: currency
-        },
-        TX_TAX: {
-          value: tx_tax,
-          currency: currency
-        },
-        TX_TAX_RETURN_BASE: {
-          value: tx_tax_return_base,
-          currency: currency
-        }
-      },
-      buyer: {
-        fullName: customerData.name,
-        emailAddress: customerData.email,
-        contactPhone: '',
-        dniNumber: '',
-        dniType: 'CC',
-        shippingAddress: {
-          country: 'CO',
-          city: '',
-          street1: '',
-          phone: ''
-        }
-      }
-    },
-    payer: {
-      fullName: customerData.cardName,
-      emailAddress: '',
-      contactPhone: customerData.phone,
-      dniNumber: '124234324324',
-      dniType: 'CC',
-      billingAddress: {
-        country: 'CO',
-        city: '',
-        street1: '',
-        phone: '',
-        state: ''
-      }
-    },
-    creditCard: {
-      number: customerData.cardNumber,
-      securityCode: customerData.cvv,
-      expirationDate: `${customerData.cardYear}/${customerData.cardMonth}`,
-      name: customerData.cardName
-    },
-    extraParameters: {
-      INSTALLMENTS_NUMBER: 1
-    },
-    type: 'AUTHORIZATION_AND_CAPTURE',
-    paymentMethod: customerData.medium,
-    paymentCountry: 'CO',
-    deviceSessionId: 'vghs6tvkcle931686k1900o6e1',
-    ipAddress: ip,
-    cookie: 'pt1t38347bs6jc9ruv2ecpv7o2',
-    userAgent:
-      'Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0'
-  },
-  test: true
-});
-
-const pse = (
-  { apiKey, apiLogin, referenceCode, currency, tx_value,tx_tax,tx_tax_return_base, signature, accountId, ip },
-  customerData,
-  orderId,
-  orderDescription
-) => ({
-  language: 'es',
-  command: 'SUBMIT_TRANSACTION',
-  merchant: {
-    apiKey: apiKey,
-    apiLogin: apiLogin
-  },
-  transaction: {
-    order: {
-      accountId: accountId,
-      referenceCode: referenceCode,
-      description: orderDescription,
-      language: 'es',
-      signature: signature,
-      notifyUrl: `https://rutasdelosandes.com/notify?orderid=${orderId}`,
-      additionalValues: {
-        TX_VALUE: {
-          value: tx_value,
-          currency: currency
-        },
-        TX_TAX: {
-          value: tx_tax,
-          currency: currency
-        },
-        TX_TAX_RETURN_BASE: {
-          value: tx_tax_return_base,
-          currency: currency
-        }
-      },
-      buyer: {
-        fullName: customerData.name,
-        emailAddress: customerData.email,
-        contactPhone: '',
-        dniNumber: '',
-        dniType: 'CC',
-        shippingAddress: {
-          country: 'CO',
-          city: '',
-          street1: '',
-          phone: ''
-        }
-      }
-    },
-    payer: {
-      fullName: customerData.name,
-      emailAddress: '',
-      contactPhone: customerData.phone,
-      dniNumber: customerData.dniNumber,
-      dniType: customerData.dniType,
-      billingAddress: {
-        country: 'CO',
-        city: '',
-        street1: '',
-        phone: '',
-        state: ''
-      }
-    },
-    extraParameters: {
-      RESPONSE_URL: `https://rutasdelosandes.com/confirmation?orderid=${orderId}`,
-      PSE_REFERENCE1: ip,
-      FINANCIAL_INSTITUTION_CODE: customerData.bank,
-      USER_TYPE: customerData.personType,
-      PSE_REFERENCE2: customerData.dniType,
-      PSE_REFERENCE3: customerData.dniNumber
-    },
-    type: 'AUTHORIZATION_AND_CAPTURE',
-    paymentMethod: 'PSE',
-    paymentCountry: 'CO',
-    deviceSessionId: 'vghs6tvkcle931686k1900o6e1',
-    ipAddress: ip,
-    cookie: 'pt1t38347bs6jc9ruv2ecpv7o2',
-    userAgent:
-      'Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0'
-  },
-  test: false
-});
-
-const cash = (
-  { apiKey, apiLogin, referenceCode,currency, tx_value,tx_tax,tx_tax_return_base, signature, accountId, ip },
-  customerData,
-  orderId,
-  orderDescription
-) => {
-  var date = new Date();
-  date.setDate(date.getDate() + 5);
-  return {
-    language: 'es',
-    command: 'SUBMIT_TRANSACTION',
-    merchant: {
-      apiKey: apiKey,
-      apiLogin: apiLogin
-    },
-    transaction: {
-      order: {
-        accountId: accountId,
-        referenceCode: referenceCode,
-        description: orderDescription,
-        language: 'es',
-        signature: signature,
-        notifyUrl: `https://rutasdelosandes.com/notify?orderid=${orderId}`,
-        additionalValues: {
-          TX_VALUE: {
-            value: tx_value,
-            currency: currency
-          },
-          TX_TAX: {
-            value: tx_tax,
-            currency: currency
-          },
-          TX_TAX_RETURN_BASE: {
-            value: tx_tax_return_base,
-            currency: currency
-          }
-        },
-        buyer: {
-          fullName: customerData.name,
-          emailAddress: customerData.email
-        }
-      },
-      type: 'AUTHORIZATION_AND_CAPTURE',
-      paymentMethod: customerData.paymentMethod,
-      expirationDate: date.toISOString(),
-      paymentCountry: 'CO',
-      ipAddress: ip
-    },
-    test: false
-  };
-};
-
-function buildPayu(paymentData, payment, order, orderDescription) {
-  let payuQuery;
-  switch (payment.type) {
-    case 'cash':
-      payuQuery = cash(paymentData, payment, order.id, orderDescription);
-      break;
-    case 'pse':
-      payuQuery = pse(paymentData, payment, order.id, orderDescription);
-      break;
-    case 'credit':
-      payuQuery = credit(paymentData, payment, order.id, orderDescription);
-      break;
-    default:
-      console.log("not sure what to do i'm lost");
-  }
-  return payuQuery;
-}
-
 
 const clearCart = (cartId) => { 
     return Moltin.Cart(cartId)
@@ -792,90 +534,7 @@ function trimObjValues(obj) {
   }, {});
 }
 
-app.post('/pay', function (req, res) {
-  
-  let { payment, shipping, order: orderId, cart } = req.body;
 
-  // some forms send leading and trailing spaces
-  shipping = trimObjValues(shipping);
-  payment = trimObjValues(payment);
-  
-  Sentry.configureScope((scope) => {
-    scope.setTag("invalid-payment-input", "wrong-payment");
-    scope.setUser(payment);
-  
-  // first is testing endpoint
-  let payuEndpoint = /*'https://sandbox.api.payulatam.com/payments-api/4.0/service.cgi' */ 'https://api.payulatam.com/payments-api/4.0/service.cgi'
- 
-  res.setHeader('Content-Type', 'application/json');
-  let orderDescription = cart.items.reduce((prev, cur, i) => {
-                          return `${prev} - ${cur.name}`
-  }, ``);
-  
-
-  Moltin.Orders.Get(orderId).then(orderResponse => {
-    const order = orderResponse.data;
-    
-    let paymentData = {
-      apiKey: /*'4Vj8eK4rloUd272L48hsrarnUA',*/	'WrU1IbpWfvFRn04uJ91bFX0lN3',
-      apiLogin:/*'pRRXKOl8ikMmt9u', */ 'BK99m9f61RUr6OF',
-      merchantId: /*'508029', */ '703127', 
-      accountId: /*'512321', */ '706190', 
-      referenceCode: order.id,
-      tx_value: order.meta.display_price.with_tax.amount,
-      currency: order.meta.display_price.with_tax.currency,
-      tx_tax: order.meta.display_price.with_tax.amount - order.meta.display_price.without_tax.amount,
-      tx_tax_return_base: order.meta.display_price.without_tax.amount,
-      ip: req.connection.remoteAddress
-    };
-
-    if (paymentData.tx_tax == 0) { 
-      // payu and their bad practices if iva 0 return base must be 0 :/
-      paymentData.tx_tax_return_base = 0;
-    }
-
-    paymentData.signature = md5(
-      `${paymentData.apiKey}~${paymentData.merchantId}~${
-        paymentData.referenceCode
-      }~${paymentData.tx_value}~${paymentData.currency}`
-    );
-
-  let paymentUserInfo = Object.assign({}, payment, shipping);
-  let payuQuery = buildPayu(paymentData, paymentUserInfo, order, orderDescription);
-    Moltin.Orders.Payment(orderId, {
-      gateway: 'manual',
-      method: 'authorize'
-    }).then(() => {
-      request(
-        {
-          method: 'POST',
-          uri: payuEndpoint,
-          json: true,
-          body: payuQuery
-        },
-        (err, response, body) => {
-          console.log("body of the response from payu", body)
-          if (body.error) { 
-            //error en los valores de la tarjeta
-            deallocateOrder(cart.id)
-          }
-          clearCart(cart.id)
-          // if cash lets authorize and capture
-          res.status(200).send(JSON.stringify(Object.assign({}, body, { orderId: order.id })));
-        }
-      );  
-    }).catch(function (reason) {
-      Sentry.captureException(reason);
-      clearCart(cart.id)
-      res.status(500).send(JSON.stringify(reason));
-    })
-  }).catch(function (reason) {
-      Sentry.captureException(reason);
-      clearCart(cart.id)
-      res.status(500).send(JSON.stringify(reason));
-    })
-  })
-});
 
 app.get(`/orderslist`, (req, res) => { 
   if (req.query.pass == "luna") {
@@ -1029,7 +688,21 @@ app.get('/getcart', function (req,res) {
     })
 })
 
-app.get('/getproducts', function (req,res) { 
+
+
+
+app.get('/getproducts', function (req, res) {
+
+  return Promise.all([shopNameAndProductsPromise]).then(([shop]) => {
+    var parentProductsWithImages = {
+      products: shop.products,
+      shop
+    };
+     // Do something
+     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+     res.json({ "products": parentProductsWithImages });
+  });
+
   Moltin.Products.With(['main_image']).All().then(products => {
     // moltin does have a parent filter :()
     let parentProducts = products.data.filter((product) => !product.relationships.parent)
@@ -1044,9 +717,7 @@ app.get('/getproducts', function (req,res) {
       return product;
     })
 
-    // Do something
-    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-    res.json({ "products": parentProductsWithImages });
+   
   })
 })
 

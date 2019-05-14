@@ -1,0 +1,79 @@
+<div id="google-analitycs">
+
+
+    <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+    {
+      "vars" : {
+        "gtag_id": "{{ site.google_analytics }}",
+        "config" : {
+          "{{ site.google_analytics }}": { 
+            "groups": "default",
+            "dataSource": "AMP" 
+          }
+        }
+      },
+      "triggers": {
+          "trackPageview": {
+            "on": "visible",
+            "request": "pageview"
+          },
+          "trackClickGpx" : {
+            "on": "click",
+            "selector": "#gpx",
+            "request": "event",
+            "vars": {
+              "eventCategory": "Rutas",
+              "eventAction": "descargaRutaGpx"
+            }
+          },
+          "trackClickOnAndroid" : {
+            "on": "click",
+            "selector": "#android",
+            "request": "event",
+            "vars": {
+              "eventCategory": "Rutas",
+              "eventAction": "descargaAppAndroid"
+            }
+          },
+          "trackClickOnIos" : {
+            "on": "click",
+            "selector": "#ios",
+            "request": "event",
+            "vars": {
+              "eventCategory": "Rutas",
+              "eventAction": "descargaAppIos"
+          }
+          },
+          "trackClickOnViewRanger" : {
+            "on": "click",
+            "selector": "#viewranger",
+            "request": "event",
+            "vars": {
+              "eventCategory": "Rutas",
+              "eventAction": "clickRutaOnline"
+          }
+        }
+      }
+    }
+    </script>
+    </amp-analytics>
+    
+    <!-- Facebook Pixel Analytics tracking -->
+<amp-analytics type="facebookpixel" id="facebook-pixel">
+  <script type="application/json">
+  {
+    "vars": {
+      "pixelId": "171238663763950"
+    },
+    "triggers": {
+      "trackPageview": {
+        "on": "visible",
+        "request": "pageview"
+      }
+    }
+  }
+  </script>
+</amp-analytics>
+<!-- End Facebook Pixel Analytics example -->
+</div>
