@@ -47,17 +47,18 @@ class Products extends React.Component {
   
   render() {
     const { products, classes } = this.props;
+    console.log(products)
     return (
       <div>
         <ul className={classes.products}>
           {products.length == 0 ? (<div className="loading"><img src="/images/loading.gif" /></div>) : ""}  
           {products.map((product, key) => (
             <li className={classes.wrapper} key={key}>
-              <Link className={classes.product} to={`/producto/${product.slug}`}>
-                <div className="article" style={{  backgroundImage: 'url(' + product.main_image.link.href + ')' }}>
+              <Link className={classes.product} to={`/producto/slug`}>
+                <div className="article" style={{  backgroundImage: 'url(' + product.images[0].src + ')' }}>
                   <div className="scrim-top" />
                   <div className="scrim-bottom" />
-                  <div className={classes.producttitle}>{product.name}</div>
+                  <div className={classes.producttitle}>{product.title}</div>
                 </div>
               </Link>
             </li>

@@ -1,5 +1,6 @@
 import client from './graphql-js-client';
 import {gql} from 'babel-plugin-graphql-js-client-transform';
+var checkoutId = '1232321'
 
 const shopNameAndProductsPromise = client.send(gql(client)`
     query {
@@ -56,6 +57,8 @@ const shopNameAndProductsPromise = client.send(gql(client)`
     }
   `).then((result) => {
     return result.model.shop;
+  }).catch((e) => { 
+    console.log(e)
   });
 
   // Fetch the checkout
@@ -117,4 +120,4 @@ function updateLineItem(checkoutId, quantity, id) {
   );
 }
 
-export default { updateLineItem, shopNameAndProductsPromise, cartPromise };
+export { updateLineItem, shopNameAndProductsPromise, cartPromise };

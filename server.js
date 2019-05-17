@@ -688,19 +688,15 @@ app.get('/getcart', function (req,res) {
     })
 })
 
-
-
-
 app.get('/getproducts', function (req, res) {
 
   return Promise.all([shopNameAndProductsPromise]).then(([shop]) => {
     var parentProductsWithImages = {
-      products: shop.products,
-      shop
+      products:  shop.products
     };
-     // Do something
-     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-     res.json({ "products": parentProductsWithImages });
+    // Do something
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    res.json(parentProductsWithImages);
   });
 
   Moltin.Products.With(['main_image']).All().then(products => {
