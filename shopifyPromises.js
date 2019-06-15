@@ -2,6 +2,92 @@ import client from './graphql-js-client';
 import {gql} from 'babel-plugin-graphql-js-client-transform';
 var checkoutId = '1232321'
 
+
+
+const productByHandle = (handle) => { 
+  
+  const input = {
+    handle
+  };
+
+  return client.send(gql(client)`
+  query($handle: String!) {
+    productByHandle(handle: $handle) {
+      id
+      title
+      description
+      descriptionHtml
+      productType
+      handle
+      tags
+      vendor
+      options {
+        id
+        name
+        values
+      }
+      images(first: 250) {
+        pageInfo {
+          hasNextPage
+          hasPreviousPage
+        }
+        edges {
+          node {
+            src
+          }
+        }
+      }
+      metafield(key: "app_key", namespace: "affiliates") {
+        description
+      }
+      metafields(first: 5) {
+        pageInfo {
+          hasNextPage
+          hasPreviousPage
+        }
+        edges {
+          node {
+            description
+          }
+        }
+      }
+      priceRange {
+        maxVariantPrice {
+          amount
+        }
+        minVariantPrice {
+          amount
+        }
+      }
+      variants(first: 250) {
+        pageInfo {
+          hasNextPage
+          hasPreviousPage
+        }
+        edges {
+          node {
+            title
+            sku
+            availableForSale
+            selectedOptions {
+              name
+              value
+            }
+            image {
+              src
+            }
+            price
+          }
+        }
+      }
+    }
+  }`, input).then((result) => { 
+    return result
+  }).catch((e) => { 
+    console.log(e)
+  });
+}
+
 const shopNameAndProductsPromise = client.send(gql(client)`
     query {
       shop {
@@ -16,11 +102,8 @@ const shopNameAndProductsPromise = client.send(gql(client)`
             node {
               id
               title
-              options {
-                name
-                values
-              }
-              variants(first: 250) {
+              handle
+              collections(first: 5) {
                 pageInfo {
                   hasNextPage
                   hasPreviousPage
@@ -28,14 +111,7 @@ const shopNameAndProductsPromise = client.send(gql(client)`
                 edges {
                   node {
                     title
-                    selectedOptions {
-                      name
-                      value
-                    }
-                    image {
-                      src
-                    }
-                    price
+                    handle
                   }
                 }
               }
@@ -56,7 +132,7 @@ const shopNameAndProductsPromise = client.send(gql(client)`
       }
     }
   `).then((result) => {
-    return result.model.shop;
+    return result;
   }).catch((e) => { 
     console.log(e)
   });
@@ -120,4 +196,4 @@ function updateLineItem(checkoutId, quantity, id) {
   );
 }
 
-export { updateLineItem, shopNameAndProductsPromise, cartPromise };
+export { updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle };

@@ -4,6 +4,7 @@ import { connect } from 'react-redux';
 import { withStyles } from '@material-ui/core/styles';
 import { getProducts } from '../actions';
 
+
 const styles = {
   container: {
     flexGrow: 1
@@ -53,11 +54,11 @@ class Products extends React.Component {
           {products.length == 0 ? (<div className="loading"><img src="/images/loading.gif" /></div>) : ""}  
           {products.map((product, key) => (
             <li className={classes.wrapper} key={key}>
-              <Link className={classes.product} to={`/producto`}>
-                <div className="article" style={{  backgroundImage: 'url('+(product.attrs.images.length && product.attrs.images[0].attrs.src.value)+')' }}>
+              <Link className={classes.product} to={`/producto/${product.handle}`}>
+                <div className="article" style={{  backgroundImage: 'url('+(product.images.edges.length && product.images.edges[0].node.src)+')' }}>
                   <div className="scrim-top" />
                   <div className="scrim-bottom" />
-                  <div className={classes.producttitle}>{product.attrs.title.value}</div>
+                  <div className={classes.producttitle}>{product.title}</div>
                 </div>
               </Link>
             </li>

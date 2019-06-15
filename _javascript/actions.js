@@ -8,6 +8,7 @@ export const SETORDER = 'setOrder'
 export const SETLOADING = 'setLoading'
 export const SETCARTITEMS = 'setCartItems'
 export const SETPRODUCTS = 'setProducts'
+import { introspectionQuery, buildSchema } from 'graphql'; // ES6
 
 export function changeExpansion(index) {
     return { type: EXPANSIONCHANGE, index };
@@ -40,7 +41,7 @@ export function setCartItems(value) {
     return { type: SETCARTITEMS, data: { cart: value  } }
 }
 export function setProducts(value) {
-    return { type: SETPRODUCTS, data: { products: value.products  } }
+    return { type: SETPRODUCTS, data: { products: value  } }
 }
 
 export function updateOrder(orderid, values) {
@@ -103,8 +104,10 @@ export function getProducts() {
                 'Accept': 'application/json, text/plain, */*',
                 'Content-Type': 'application/json'
             }
-        }).then(function (response) { return response.json(); }).then((data) => {
-            dispatch(setProducts(data))
+        }).then(function (response) { return response.json(); }).then((products) => {
+           // var productsSchemaObject = buildSchema(schema);
+            console.log(`products in action get products`, products)
+            dispatch(setProducts(products))
         })
     }
 }

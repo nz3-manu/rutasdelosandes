@@ -1,10 +1,10 @@
 import fetch from 'node-fetch';
 import Client from 'graphql-js-client';
-import typeBundle from './types';
+import types from './schema/types';
 
 global.fetch = fetch;
 
-export default new Client(typeBundle, {
+export default new Client(types, {
   url: 'https://randex.myshopify.com/api/graphql',
   fetcherOptions: {
     headers: {

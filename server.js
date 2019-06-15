@@ -17,7 +17,7 @@ const express = require('express'),
   
 
   import { SheetsRegistry } from 'react-jss/lib/jss';
- import { updateLineItem, shopNameAndProductsPromise, cartPromise} from './shopifyPromises.js'
+ import { updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle} from './shopifyPromises.js'
   import JssProvider from 'react-jss/lib/JssProvider';
   import {
     MuiThemeProvider,
@@ -283,47 +283,86 @@ app.post('/api/save-subscription/', function(req, res) {
   res.status(200).send('ok');
 });
 
-app.get('/producto/availability/:id', function(req, res) {
-  const id = req.params.id;
-  Moltin.Inventories.All().then(inventories => {
-    //res.setHeader('Content-Type', 'application/json');
-    //res.status(200).send(JSON.stringify(variations))
-    inventories = inventories.data.map((item) => { 
-      let options = []
-      let fakeAvailable = (item.available < 4)?item.available:4
-      for (let i = 1; i <= fakeAvailable ; i++) { 
-        options.push({selected:(i == 1)?'selected':'', label: i })
-      }
-      // overwrite real total
-      return ({ ...item, total:fakeAvailable, options:options})
-    })
-    res.setHeader('Content-Type', 'application/json');
-    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-    res.status(200).send(JSON.stringify({ items: inventories }));
+app.get('/producto/availability/:slug', async (req, res) => {
+  const slug = req.params.slug;
+  const product =  await productByHandle(slug).then((res) => { 
+    return res.data
+  })
+
+  const items = product.productByHandle.variants.edges.map((variant) => {
+    let variantObj = variant.node;
+    let options = [{ "selected": "selected", "label": 1 },{"selected":"","label":2}];
+    return ({ ...variantObj, total: (variantObj.availableForSale ? 2 : 0 ), options:options})
   });
 
-  /*	Moltin.Products.All().then((products) => {
-		let childrensDataObject = products.data.filter((prod) => { 
-			let relationships = prod.relationships
-			if (relationships.parent && relationships.parent.data.id == id) { 
-				return prod;
-			}
-		})
-			res.setHeader('Content-Type', 'application/json');
-			res.status(200).send(JSON.stringify({ items: childrensDataObject }))	
-		}) */
+  res.setHeader('Content-Type', 'application/json');
+  res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+  res.status(200).send(JSON.stringify({ items: items }));
+
 });
 app.set('views', './views');
 app.set('view engine', 'ejs');
 
+const deepmerge = require('deepmerge');
 
-app.get('/amp/producto/:slug', (req, res) => {
+app.get('/amp/producto/:slug', async (req, res) => {
   const slug = req.params.slug;
+  let shopifyProduct = await productByHandle(slug).then((result) => {
+    return result
+  })
+  
+  const shopifyVariations = shopifyProduct.data.productByHandle.options
+  //TODO: build a recursive function that starts from the las item of the array and build a nested obj using all its values
+  
+  const buildNestedObj = (values, id, obj = {}, ref = obj) => {
+    let lastValue = values.shift();
+    if (values.length == 0) {
+      ref[lastValue] = id;
+      return obj
+    }
+    else { 
+      ref[lastValue] = {};
+      buildNestedObj(values, id, obj, ref[lastValue]);
+    }
+  }
+
+  
+
+  let variationsArray = shopifyProduct.data.productByHandle.variants.edges.map((variant) => { 
+    let variationsValues = variant.node.selectedOptions.map(variantObj => variantObj.value);
+    let obj = {};
+    buildNestedObj(variationsValues, variant.node.id, obj);
+    return obj
+  });
+
+  const variationsMatrix = deepmerge.all(variationsArray);
+
+  let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
+  .map((option) => ({ [option.name]: option.value }))
+  .reduce((valorAnterior, valorActual, indice, vector) => { 
+    return Object.assign(valorAnterior, valorActual)
+  }, {});
+
+  let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node.id;
+
+  let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
+    (valorAnterior, valorActual, indice, vector) => {
+      return (
+        valorAnterior + `[product.variationSelected.${valorActual}]`
+      );
+    },
+    `variationMatrix`
+  );
+ 
+  const children = shopifyProduct.data.productByHandle.variants.edges.map(child => { 
+    return child.node
+  });
+  
   Moltin.Products.With('files, main_images, collections')
     .All()
     .then(products => {
       let allProducts = products.data;
-      let product = allProducts.find(el => el.slug == slug);
+      let product = allProducts.find(el => el.slug == "gorra-rutas");
       // product not found
       if (!product) { 
         return res.render('productnotfound');
@@ -333,120 +372,18 @@ app.get('/amp/producto/:slug', (req, res) => {
       // this will get cached by google amp hopefully
       Moltin.Products.Get(product.id)
         .then(product => {
-          let productById = product.data;
-          let productInfo = productById.description.split("|")
-          productById.description = productInfo[0]
-          productById.specification = productInfo[1]
-          productById.discount = (typeof productInfo[2] != "undefined") ? productInfo[2] : "";
-          productById.originaprice = (typeof productInfo[3] != "undefined") ? productInfo[3] : "";
-          let variationMatrix = productById.meta.variation_matrix;
-
-          // Build the tree :
-          let matrixKeys = [];
-          var deepOBject = function(object, map) {
-            Object.keys(object).forEach(key => {
-              let keySumm = [...map, key];
-              // Object.assign({}, map, { [key]: "" })
-              if (typeof object[key] == 'object') {
-                deepOBject(object[key], keySumm);
-              } else {
-                matrixKeys.push({ [object[key]]: keySumm });
-              }
-            });
-          };
-          deepOBject(variationMatrix, []);
-
-          const permutator = inputArr => {
-            let result = [];
-            const permute = (arr, m = []) => {
-              if (arr.length === 0) {
-                result.push(m);
-              } else {
-                for (let i = 0; i < arr.length; i++) {
-                  let curr = arr.slice();
-                  let next = curr.splice(i, 1);
-                  permute(curr.slice(), m.concat(next));
-                }
-              }
-            };
-            permute(inputArr);
-            return result;
-          };
-
-          let allcombinatios = matrixKeys.map(currentValue => {
-            let actualKey = Object.keys(currentValue)[0];
-            let permutations = permutator(Object.values(currentValue)[0]);
-            return { [actualKey]: permutations };
-          });
-          var allcombinatiosMatrix = {};
-          allcombinatios.forEach(currentValue => {
-            let key = Object.keys(currentValue)[0];
-            let values = Object.values(currentValue)[0];
-            values.forEach((currentValue, index, array) => {
-              let reducedObject = currentValue.reduce(
-                (valorAnterior, valorActual, indiceActual) => {
-                  if (valorAnterior[valorActual]) {
-                    return valorAnterior[valorActual];
-                  } else {
-                    if (indiceActual == currentValue.length - 1) {
-                      valorAnterior[valorActual] = key;
-                    } else {
-                      valorAnterior[valorActual] = {};
-                    }
-
-                    return valorAnterior[valorActual];
-                  }
-                },
-                allcombinatiosMatrix
-              );
-            });
-          });
-
-          let childrens = productById.relationships.children.data.map(
-            product => {
-              let productId = product.id;
-              let productObject = allProducts.find(
-                prod => prod.id == productId
-              );
-              let main_image = getMainImage(products.included, productObject);
-              return Object.assign({}, productObject, {
-                main_image: main_image
-              });
-            }
-          );
-
-          let defaultVariations = productById.meta.variations
-            .map(variation => ({ [variation.name]: variation.options[0].id }))
-            .reduce(function(acc, cur, i) {
-              return Object.assign(acc, cur);
-            }, {});
-
-          let defaultChild = Object.values(defaultVariations).reduce(
-            (valorAnterior, valorActual, indice, vector) => {
-              return valorAnterior[valorActual];
-            },
-            allcombinatiosMatrix
-          );
-
-          let variationsParams = Object.keys(defaultVariations).reduce(
-            (valorAnterior, valorActual, indice, vector) => {
-              return (
-                valorAnterior + `[product.variationSelected.${valorActual}]`
-              );
-            },
-            `variationMatrix`
-          );
-
+         
           let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
           let quantityExpression = 'product.quantity';
-
+   
           //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
           //	let files = getFiles(products.included, product.relationships.files)
           let productDisplay = Object.assign(
             {},
-            productById,
-            { childrens },
-            { variations: allcombinatiosMatrix },
+            {shopifyVariations},
+            shopifyProduct.data.productByHandle,
+            { children },
+            { variations: variationsMatrix },
             { defaultChild },
             { defaultVariations: defaultVariations },
             { url: `producto/${slug}`}
@@ -515,17 +452,6 @@ app.post('/order', (req, res) => {
     });
   });
 })
-
-function deallocateOrder(cartId){ 
-  // traer el cart ciclar sobre los items e incrementarlos al inventario
- return Moltin.Cart(cartId)
-  .Items()
-    .then(items => {
-      return items.data.filter((item)=>item.sku != "envio").reduce((promise, item) => {
-        return promise.then((() => Moltin.Inventories.DeallocateStock(item.product_id, item.quantity))).catch((e) => { console.log("something went wrong incrementing cart",e)})
-        }, Promise.resolve());
-    })
-}
 
 function trimObjValues(obj) {
   return Object.keys(obj).reduce((acc, curr) => {
@@ -690,13 +616,11 @@ app.get('/getcart', function (req,res) {
 
 app.get('/getproducts', function (req, res) {
 
-  return Promise.all([shopNameAndProductsPromise]).then(([shop]) => {
-    var parentProductsWithImages = {
-      products:  shop.products
-    };
+  return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
     // Do something
+    let products = result.data.shop.products.edges.map(product => product.node);
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-    res.json(parentProductsWithImages);
+    res.json(products);
   });
 
   Moltin.Products.With(['main_image']).All().then(products => {
@@ -721,7 +645,6 @@ app.post('/editcart', function (req,res) {
   let sessionId = req.session.id;
   let itemId = req.body.id;
   let quantity = req.body.quantity;
-  console.log("on editcart ", sessionId)
   Moltin.Cart(sessionId).RemoveItem(itemId, quantity).then(cart => {
     let total = cart.data.reduce((prev, actual) => { return prev + actual.quantity }, 0);
     // Do something
@@ -740,7 +663,6 @@ app.post('/addcart', upload.fields([]), function (req, res) {
   let source = req.query.__amp_source_origin
   let checkoutUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/checkout` : `http://localhost:8080/checkout`
   let EnvproductUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/${productUrl}` : `http://localhost:8080/${productUrl}`
-  console.log(sessionId, "on add to cart call from amp")
   
   Moltin.Cart(sessionId)
     .AddProduct(productId, quantity)

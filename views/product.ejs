@@ -2,7 +2,7 @@
 <html ⚡>
 <head>
     <meta charset="utf-8">
-     <title><%= product.name %></title>
+     <title><%= product.title %></title>
     <meta name="amp-experiment-token" content="HfmyLgNLmblRg3Alqy164Vywr">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
@@ -321,28 +321,47 @@
       display: flex;
       justify-content: space-around;
     }
-    .Blanca {
-      background-color: #29387d;
+    /* options styles based on clases */ 
+    .blanca, .blanco {
+      background-color: white;
     }
-    .Negra {
+    .azul {
+      background-color: blue;
+    }
+    .negra, .negro {
       background-color: black;
     }
-    .Gris {
+    .rosa {
+      background-color: pink;
+    }
+    .gris {
       background-color: gray;
     }
-    .Small::before{
+    .roja {
+      background-color: red;
+    }
+    .verde {
+      background-color: green;
+    }
+    .verde-petroleo {
+      background-color: green;
+    }
+    .cromado {
+      background-color: gray;
+    }
+    .s::after{
       content: "S";
     }
-    .Medium::after{
+    .m::after{
       content: "M";
     }
-    .Large::after{
+    .l::after{
       content: "L";
     }
-    .Hombre::before{
+    .hombre::before{
       content: "👨🏻";
     }
-    .Mujer::after{
+    .mujer::after{
       content: "👩🏻";
     }
     .buy{
@@ -794,9 +813,9 @@
     {
         "@context": "http://schema.org/",
         "@type": "Product",
-        "name": "Apple",
-        "image": "http://www.ampbyexample.com/img/golden_apple1_1024x682.jpg",
-        "description": "Lorem ipsum",
+        "name": "<%= product.title %>",
+        "image": "<%= product.images.edges[0].node.src %>",
+        "description": "<%= product.description %>",
         "mpn": "925872",
         "brand": {
             "@type": "Fruit",
@@ -970,11 +989,10 @@
             }
           </script>
       </amp-state>
-      <h2 class="m1"><%= product.name %></h2>
+      <h2 class="m1"><%= product.title %></h2>
       <div class="product">
       <div class="product-gallery">
-        <% product.childrens.forEach(function(child){ %>
-
+        <% product.children.forEach(function(child){ %>
                   <amp-carousel 
                       id="green-apple-carousel"
                       width="1024" height="682"
@@ -986,7 +1004,7 @@
                         hidden
                       <% } %>     
                       [hidden]=" <%= variationsParams %> != '<%= child.id %>'">
-                          <amp-img src="<%= child.main_image.link.href %>"
+                          <amp-img src="<%= child.image.src %>"
                                   width="1024" height="682"
                                   layout="responsive" 
                                   role="button" tabindex="0">
@@ -1008,7 +1026,7 @@
       </div>
       <div class="product-info">
         <div class="variations">
-          <% product.meta.variations.forEach(function(variation){ %>
+          <% product.shopifyVariations.forEach(function(variation){ %>
             <div class="variation">
               <label class="variation-label" for="<%= variation.name %>"><%= variation.name %></label>
               <amp-selector name="<%= variation.name %>"
@@ -1022,14 +1040,14 @@
                       })"
                       [selected]="product.variationSelected['<%= variation.name %>']">
                 <ul class="options">   
-                    <% variation.options.forEach(function(option,index){ %>      
+                    <% variation.values.forEach(function(option,index){ %>      
                       <li>
                           <div 
                             <% if (index < 1){ %>
                              selected
                             <% } %>
-                            option="<%= option.id %>"  
-                            class="square <%= option.name %>">
+                            option="<%= option %>"  
+                            class="square <%= option.replace(/\s+/g, '-').toLowerCase(); %>">
                         </div>
                       </li>
                     <% }) %>
@@ -1040,7 +1058,7 @@
         </div>
         <div class="price-wrap">
           <h3 class="price"> <%= product.originaprice %> </h3>
-          <h3 class="pricePromotion"> <%= product.meta.display_price.with_tax.formatted %> </h3>
+          <h3 class="pricePromotion"> <%= product.priceRange.maxVariantPrice.amount %> </h3>
         </div>
         <form 
           id="checkout" 
@@ -1147,7 +1165,7 @@
           width="auto"
           height="500"
           layout="fixed-height"
-          src="/producto/availability/<%= product.id %>"
+          src="/producto/availability/<%= product.handle %>"
           id="dynamic-content">
           <div placeholder>Cargando ...</div>
           <div fallback>Algo fallo en la carga</div>
@@ -1205,7 +1223,7 @@
           option="a">INFORMACIÓN</div>
         <div role="tabpanel"
             class="tabContent p1 p">
-          <%= product.description %>
+          <%= product.descriptionHtml %>
         </div>
         <div role="tab"
           class="tabButton h4 ampstart-nav-item"
