@@ -5,8 +5,9 @@ import { getCart , deleteItem} from '../actions';
 class Cart extends React.Component {
   constructor(props) {
     super(props);
+  
     this.state = {
-      cartIsOpen:false
+      cartIsOpen: this.props.cart.open
     };
   }
   toggleCart (){
@@ -16,7 +17,7 @@ class Cart extends React.Component {
     const { cart , deleteItems } = this.props;
     return (
       <div>
-             <a className="wrap-cart"  onClick={this.toggleCart.bind(this)}> 
+        <a className="wrap-cart"  onClick={this.toggleCart.bind(this)}> 
         <img className="cart-icon" src="/images/cart.svg" height="40" width="40"></img>
         <div className="cart-items productQ">
           <span >
@@ -26,15 +27,21 @@ class Cart extends React.Component {
         </a>
         {this.state.cartIsOpen && (<div className="edit-cart">
           <div className="wrap-shoppingCart">
+            <button onClick={this.toggleCart.bind(this)} type="button" className="close">
+              <span>×</span>
+            </button>
             <h2> MI CARRITO DE COMPRAS </h2>
             <div className="cart-items table">
               {!cart.number && <p>Aun no agregaste productos a tu carrito de compras.</p>}
-              {cart.items.filter((item)=>item.sku != "envio").map((item, i) => {
+              {cart.items.map((item, i) => {
+                let { variant } = item; 
+     
                 return (
                   <div key={i} className="cart-item row">
-                    <span className="cart-item-name cell">{item.name}</span>
-                    <span className="cart-item-quantity cell">{item.quantity}</span>
-                    <span onClick={deleteItems(item.id,item.quantity)} className="cart-item-clear cell" >X</span>
+                    <div className="cart-item-name cell"> <img width="100px" src={variant.image.src} /> </div>
+                    <div className="cart-item-name cell">{item.title}<br/><sub>{variant.title}</sub></div>
+                    <div className="cart-item-quantity cell">{item.quantity}</div>
+                    <div onClick={deleteItems(item.id,item.quantity)} className="cart-item-clear cell" >×</div>
                   </div>
                 );
               })}
@@ -42,7 +49,7 @@ class Cart extends React.Component {
             {
               !cart.number ? (<a href="/tienda" className="buy cartBuy">
                 IR A LA TIENDA
-            </a>) : (<a href="/checkout" className="buy cartBuy">
+            </a>) : (<a href={`/checkout?checkoutId=${cart.checkoutId}`} className="buy cartBuy">
                   FINALIZAR COMPRA
             </a>)
             }

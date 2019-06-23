@@ -1,16 +1,15 @@
 import client from './graphql-js-client';
-import {gql} from 'babel-plugin-graphql-js-client-transform';
-var checkoutId = '1232321'
+import { gql } from 'babel-plugin-graphql-js-client-transform';
+var checkoutId = '1232321';
 
-
-
-const productByHandle = (handle) => { 
-  
+const productByHandle = handle => {
   const input = {
     handle
   };
 
-  return client.send(gql(client)`
+  return client
+    .send(
+      gql(client)`
   query($handle: String!) {
     productByHandle(handle: $handle) {
       id
@@ -81,14 +80,44 @@ const productByHandle = (handle) => {
         }
       }
     }
-  }`, input).then((result) => { 
-    return result
-  }).catch((e) => { 
-    console.log(e)
-  });
-}
+  }`,
+      input
+    )
+    .then(result => {
+      return result;
+    })
+    .catch(e => {
+      console.log(e);
+    });
+};
 
-const shopNameAndProductsPromise = client.send(gql(client)`
+function createCheckout() {
+  return client
+    .send(
+      gql(client)`
+  mutation {
+    checkoutCreate(input: {}) {
+      userErrors {
+        message
+        field
+      }
+      checkout {
+        id
+      }
+    }
+  }
+`
+    )
+    .then(result => {
+      return result;
+    })
+    .catch(e => {
+      console.log(e);
+    });
+}
+const shopNameAndProductsPromise = client
+  .send(
+    gql(client)`
     query {
       shop {
         name
@@ -131,14 +160,69 @@ const shopNameAndProductsPromise = client.send(gql(client)`
         }
       }
     }
-  `).then((result) => {
+  `
+  )
+  .then(result => {
     return result;
-  }).catch((e) => { 
-    console.log(e)
+  })
+  .catch(e => {
+    console.log(e);
   });
 
-  // Fetch the checkout
-  const cartPromise = client.send(gql(client)`
+const lineItemRemove = input =>
+  client
+    .send(
+      gql(client)`
+  mutation ($checkoutId: ID!, $lineItemIds: [ID!]!) {
+     checkoutLineItemsRemove(checkoutId: $checkoutId, lineItemIds: $lineItemIds) {
+     userErrors {
+       message
+       field
+     }
+     checkout {
+       id
+     }
+   }
+ }
+`,
+      input
+    )
+    .then(result => {
+      return result;
+    })
+    .catch(e => {
+      console.log(e);
+    });
+
+const lineItemAdd = input =>
+  client
+    .send(
+      gql(client)`
+  mutation ($checkoutId: ID!, $lineItems: [CheckoutLineItemInput!]!) {
+    checkoutLineItemsAdd(checkoutId: $checkoutId, lineItems: $lineItems) {
+      userErrors {
+        message
+        field
+      }
+      checkout {
+        id
+      }
+    }
+  }
+`,
+      input
+    )
+    .then(result => {
+      return result;
+    })
+    .catch(e => {
+      console.log(e);
+    });
+// Fetch the checkout
+const fetchCheckout = checkoutId =>
+  client
+    .send(
+      gql(client)`
     query ($checkoutId: ID!) {
       node(id: $checkoutId) {
         ... on Checkout {
@@ -168,9 +252,15 @@ const shopNameAndProductsPromise = client.send(gql(client)`
         }
       }
     }
-  `, {checkoutId}).then((result) => {
-    return result.model.node;
-  });
+  `,
+      { checkoutId }
+    )
+    .then(result => {
+      return result;
+    })
+    .catch(e => {
+      console.log(e);
+    });
 
 function updateLineItem(checkoutId, quantity, id) {
   const input = {
@@ -196,4 +286,12 @@ function updateLineItem(checkoutId, quantity, id) {
   );
 }
 
-export { updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle };
+export {
+  lineItemAdd,
+  lineItemRemove,
+  updateLineItem,
+  shopNameAndProductsPromise,
+  productByHandle,
+  createCheckout,
+  fetchCheckout
+};

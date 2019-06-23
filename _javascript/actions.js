@@ -113,7 +113,6 @@ export function getProducts() {
 }
 export function getCart() { 
     return (dispatch) => { 
-        let dataString = JSON.stringify({ message:"give me my cart" })  
         return fetch(`/getcart`, {
             method: 'GET',
             credentials: 'same-origin',
@@ -122,6 +121,7 @@ export function getCart() {
                 'Content-Type': 'application/json'
             }
         }).then(function (response) { return response.json(); }).then((data) => {
+            console.log(data)
             dispatch(setCartItems(data))
         })
     }
@@ -129,8 +129,8 @@ export function getCart() {
 
 export function deleteItem(id,quantity) { 
     return (dispatch) => { 
-        let dataString = JSON.stringify({ id:id, quantity:quantity })  
-        return fetch(`/editcart`, {
+        let dataString = JSON.stringify({ id, quantity })  
+        return fetch(`/removecart`, {
             method: 'POST',
             credentials: 'same-origin',
             headers: {
@@ -139,7 +139,7 @@ export function deleteItem(id,quantity) {
             },
             body: dataString
         }).then(function (response) { return response.json(); }).then((data) => {
-            dispatch(setCartItems(data))
+            dispatch(setCartItems(data));
         })
     }
 }
@@ -157,64 +157,6 @@ export function checkoutToServer (order, payment, shipping, cart) {
             body: dataString
         }).then(function (response) { return response.json(); }).then((data) => {
             dispatch(setLoading(false))
-           /* cash
-            {
-                "code": "SUCCESS",
-                "error": null,
-                    "transactionResponse": {
-                    "orderId": 1016667832,
-                    "transactionId": "9408d170-a968-4a3e-9ea2-36f3a100f53a",
-                    "state": "PENDING",
-                    "paymentNetworkResponseCode": null,
-                    "paymentNetworkResponseErrorMessage": null,
-                    "trazabilityCode": null, "authorizationCode": null,
-                    "pendingReason": "AWAITING_NOTIFICATION",
-                    "responseCode": "PENDING_TRANSACTION_CONFIRMATION",
-                    "errorCode": null,
-                    "responseMessage": null,
-                    "transactionDate": null,
-                    "transactionTime": null,
-                    "operationDate": null,
-                    "referenceQuestionnaire": null,
-                    "extraParameters": {
-                        "EXPIRATION_DATE": 1522368000000,
-                        "URL_PAYMENT_RECEIPT_PDF": "https://checkout.payulatam.com/ppp-web-gateway-payu/receipt?vid=1016667832Y9408d170a9684a3Yc79d87b2fdaa8f4",
-                        "REFERENCE": 1016667832,
-                        "URL_PAYMENT_RECEIPT_HTML": "https://checkout.payulatam.com/ppp-web-gateway-payu/app?vid=1016667832Y9408d170a9684a3Yc79d87b2fdaa8f4"
-                    }, 
-                    "additionalInfo": null
-                }
-            }
-           */
-          /* pse
-            {"code":"SUCCESS",
-            "error":null,
-            "transactionResponse":{
-                "orderId":1017216823,
-                "transactionId":"92c9d2ca-603f-4536-9c07-7a11d678fc99",
-                "state":"PENDING",
-                "paymentNetworkResponseCode":null,
-                "paymentNetworkResponseErrorMessage":null,
-                "trazabilityCode":"325625562",
-                "authorizationCode":null,
-                "pendingReason":"AWAITING_NOTIFICATION",
-                "responseCode":"PENDING_TRANSACTION_CONFIRMATION",
-                "errorCode":null,
-                "responseMessage":null,
-                "transactionDate":null,
-                "transactionTime":null,
-                "operationDate":null,
-                "referenceQuestionnaire":null,
-                "extraParameters":
-                {
-                    "BANK_URL":"https://registro.pse.com.co/PSEUserRegister/StartTransaction.htm?enc=tnPcJHMKlSnmRpHM8fAbuxbnWtFDy4g0Yd75ANUnvtGkrBSLbMSxhSm7I9yrIWss",
-                    "TRANSACTION_CYCLE":"1"
-                },
-                "additionalInfo":null}}
-          */
-         /* credit 
-         
-        */
             let { transactionResponse, error } = data    
             let errorMessage =  (transactionResponse && transactionResponse.responseCode) || error;
             console.log("data back from pay", data)

@@ -17,7 +17,7 @@ const express = require('express'),
   
 
   import { SheetsRegistry } from 'react-jss/lib/jss';
- import { updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle} from './shopifyPromises.js'
+  import { lineItemAdd ,lineItemRemove ,updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle, createCheckout, fetchCheckout} from './shopifyPromises.js'
   import JssProvider from 'react-jss/lib/JssProvider';
   import {
     MuiThemeProvider,
@@ -600,18 +600,28 @@ app.get('/confirmation', (req, res) => {
     });
 });
 
-app.get('/getcart', function (req,res) { 
-  let sessionId = req.session.id;
-  Moltin.Cart(sessionId)
-  .Items()
-    .then(cart => {
-      let total = cart.data.filter((item)=>item.sku != "envio").reduce((prev, actual) => { return prev + actual.quantity }, 0);
-      let items = cart.data;
-      res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-      res.json({ "number": total, "items": items, id: sessionId});
-    }).catch((e) => { 
-
-    })
+app.get('/getcart', async (req, res) => {
+  try { 
+    let checkoutId = req.session.checkoutId;
+    let sessionId = req.session.id;
+    var shopifyCart = "";
+    var result = "";
+    var lineItems = [];
+    // Create a checkout if it doesn't exist yet
+    if (!checkoutId) {
+      result = await createCheckout();
+      checkoutId = result.model.checkoutCreate.checkout.id;
+      req.session.checkoutId = checkoutId;
+      console.log("checkout ID on get cart", req.session.checkoutId)
+    }
+    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
+    shopifyCart = await fetchCheckout(checkoutId);
+    lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    res.json({ "number": lineItems.length, "items": lineItems, checkoutId });
+  } catch (error) {
+    console.log(error)
+  }
 })
 
 app.get('/getproducts', function (req, res) {
@@ -622,101 +632,79 @@ app.get('/getproducts', function (req, res) {
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
     res.json(products);
   });
-
-  Moltin.Products.With(['main_image']).All().then(products => {
-    // moltin does have a parent filter :()
-    let parentProducts = products.data.filter((product) => !product.relationships.parent)
-    
-    let mainImages = products.included.main_images;
-
-    let parentProductsWithImages = parentProducts.map((product) => {
-      
-      let main_image = product.relationships.main_image;
-
-      product.main_image = mainImages.find((image) => image.id == (main_image && main_image.data.id));
-      return product;
-    })
-
-   
-  })
 })
 
-app.post('/editcart', function (req,res) { 
-  let sessionId = req.session.id;
-  let itemId = req.body.id;
-  let quantity = req.body.quantity;
-  Moltin.Cart(sessionId).RemoveItem(itemId, quantity).then(cart => {
-    let total = cart.data.reduce((prev, actual) => { return prev + actual.quantity }, 0);
-    // Do something
+app.post('/removecart', async (req, res) => { 
+  try {
+    let checkoutId = req.query.checkoutId;
+    let itemId = req.body.id;
+    let shopifyCart,lineItems;
+
+    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
+  
+    const input = {
+      checkoutId,
+      lineItemIds: [itemId]
+    };
+
+    await lineItemRemove(input);
+    shopifyCart = await fetchCheckout(checkoutId);
+    lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
+    
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-    res.json({ "number": total, "items": cart.data });
-  })
-})
+    res.json({ "number": lineItems.length, "items": lineItems });
 
-app.post('/addcart', upload.fields([]), function (req, res) { 
-  let productId = req.body.id;
-  let sessionId = req.session.id;
-  let productUrl = req.body.url;
-  let quantity = Number(req.body.quantity);
-  let action = req.body.action
-  let origin = req.header('origin').toLowerCase()
-  let source = req.query.__amp_source_origin
-  let checkoutUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/checkout` : `http://localhost:8080/checkout`
-  let EnvproductUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/${productUrl}` : `http://localhost:8080/${productUrl}`
-  
-  Moltin.Cart(sessionId)
-    .AddProduct(productId, quantity)
-    .then(() => {
-      res.set('Access-Control-Allow-Origin', origin);
-      res.set('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-      res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, HEAD, PUT');
-      res.set('Access-Control-Allow-Credentials', 'true');
-      res.set('Access-Control-Expose-Headers', 'AMP-Access-Control-Allow-Source-Origin,AMP-Redirect-To');
-
-      if (action == "checkout") {
-        res.set('amp-redirect-to', `${checkoutUrl}?cart=${sessionId}`);
-      }
-      else { 
-        res.set('amp-redirect-to', `${EnvproductUrl}`);
-      }
-      res.set('AMP-Access-Control-Allow-Source-Origin', source);
-      res
-        .json({"status": "ok"});
-      })
-    .catch(e => {
-      console.log('error agregando al carro', e);
-      res.send('el producto que tratas de comprar se encuentra agotado');
-    });
-})
-
-app.get('/checkout', (req, res, next) => {
-  // si alguien recarga la pagina de checkout llegara aqui con el mismo id por consigiente agregara dos productos al carro y descontara dos productos del
-  //inventario :(  no habia pensado en ese caso :(
-  const cartId = req.query.cart;
-  
-  const item = {
-    name: 'Envio',
-    sku: 'envio',
-    description: 'Envio',
-    quantity: 1,
-    price: {
-      amount: 7000
-    }
+  } catch (error) {
+   console.log(error) 
   }
+})
 
-  Moltin.Cart(cartId).Items().then((Items) => { 
+app.post('/addcart', upload.fields([]), async (req, res) => { 
+  try {
+    let productId = req.body.id;
+    let checkoutId = req.query.checkoutId;
+    let productUrl = req.body.url;
+    let quantity = Number(req.body.quantity);
+    let action = req.body.action
+    let origin = req.header('origin').toLowerCase()
+    let source = req.query.__amp_source_origin
+    let checkoutUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/checkout` : `http://localhost:8080/checkout`
+    let EnvproductUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/${productUrl}` : `http://localhost:8080/${productUrl}`
+   
+    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
+  
 
-    const envio = Items.data.find((item) => item.sku == "envio");
-
-    if (!envio) {
-      Moltin.Cart(cartId).AddCustomItem(item).catch((e) => {
-        Sentry.captureException(e);
-      });
-    }
+    // Add the variant to our cart
+    const input = {
+      checkoutId,
+      lineItems: [{variantId: productId, quantity}]
+    };
+    let lineItemId = await lineItemAdd(input);
+    res.set('Access-Control-Allow-Origin', origin);
+    res.set('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, HEAD, PUT');
+    res.set('Access-Control-Allow-Credentials', 'true');
+    res.set('Access-Control-Expose-Headers', 'AMP-Access-Control-Allow-Source-Origin,AMP-Redirect-To');
     
-    // add shipping to the cart
-    mathRouter(req, res, { products:[],  cart: {"number": 0, "items": [], id: cartId}, loading: false }); 
-  });
+    if (action == "checkout") {
+      res.set('amp-redirect-to', `${checkoutUrl}?checkoutId=${lineItemId.data.checkoutLineItemsAdd.checkout.id}`);
+    }
+    else { 
+      res.set('amp-redirect-to', `${EnvproductUrl}?cartOpen=true`);
+    }
+    res.set('AMP-Access-Control-Allow-Source-Origin', source);
+    res.json({ "status": "ok" });
+    
+  } catch (error) {
+    console.log(error)
+  }
+})
+
+app.get('/checkout', async (req, res, next) => {
+  const checkoutId = req.query.checkoutId;
+  let checkoutObj = await fetchCheckout(checkoutId);
+  let webUrl = checkoutObj.data.node.webUrl;
+  res.redirect(webUrl);
 });
 
 //amp static pages
@@ -724,13 +712,19 @@ app.use(express.static('./_site'));
 
 // if not a static file come to react router
 app.get(`*`, (req, res) => {
-  let ampEquivalent = false;
+  try {
+    let ampEquivalent = false;
 
   if (req.originalUrl.match(/[a-z/].html/)) { 
     ampEquivalent = `${req.protocol}://${req.get('host')}/amp${req.originalUrl}`;
   }
+  
+  let cartOpen = req.query.cartOpen;
 
-  mathRouter(req, res, { products: [], cart: { number: 0, items: [] } }, ampEquivalent);
+  mathRouter(req, res, { products: [], cart: { number: 0, items: [], open: cartOpen } }, ampEquivalent);   
+  } catch (error) {
+    console.log(error)
+  }
 });
  
 //Not found
