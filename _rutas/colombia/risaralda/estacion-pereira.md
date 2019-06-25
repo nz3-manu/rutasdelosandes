@@ -1,8 +1,9 @@
 ---
-layout: trail
+draft: true
 title:  Estación Pereira
 categories: colombia 
 tags: Risaralda
+seo_title: ESTACIÓN PEREIRA EN MARSELLA | COMO LLEGAR
 excerpt: Estación Pereira esta ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en 'garrucha' y recorrerá unas antiguas vías de tren montando una 'marranita', ademas podras descubrir una linda cascada después de una caminata corta. La caminata se puede hacer con caninos 🐕, duración del trayecto 1 día.
 images_url: /images/rutas/risaralda/estacion
 viewranger: MTM4MjU4NA==
@@ -25,6 +26,9 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌 que pasa al frente del centro comercial victoria por la carrera 12. Los horarios de salida son los siguientes: de lunes a domingo en los siguientes horarios 12:30 pm y 4:00 pm y sale uno a las 5:15 am desde turín en la vía Pereira Marsella, el valor por trayecto es de $3.700 pesos, duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
+
+Recomendación: Solo se recomienda para vehículos todo terreno ya que la carretera es algo difícil para un automóvil.
+
 
 {% include iframe.html
     type="custom"

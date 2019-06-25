@@ -3,6 +3,7 @@ layout: trail
 title:  Finca Primavera
 categories: colombia 
 tags: Quindío
+seo_title: Ruta al Nevado del Tolima por salento.
 excerpt: La Finca Primavera está ubicada a 17 kilómetros del Valle del Cocora, esta es la puerta para ir al Nevado del Tolima. Lo complicado de esta ruta es el cambio de altitud, pasaran de 1.800 msnm a 3.900 msnm lo que puede dar mal de altura.
 images_url: /images/rutas/quindio/primaveraTolima
 viewranger: MTYzNjI3OA==

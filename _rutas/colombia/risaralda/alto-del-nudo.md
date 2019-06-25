@@ -3,6 +3,7 @@ layout: trail
 title:  Alto Del Nudo 
 categories: colombia 
 tags: Risaralda
+seo_title: ALTO DEL NUDO, SERRANÍA ALTO DEL NUDO | COMO LLEGAR
 excerpt: Ruta de turismo ecológico en el eje cafetero, el alto del nudo o cerro del nudo, esta ubicada cerca de pereira, rodeado de una gran variedad de fauna y flora, aquí encontraras todo lo que tienes que saber para conocer esta maravilla natural en Pereira.
 images_url: /images/rutas/risaralda/quimbaya
 viewranger: MTM4MjU4NA==

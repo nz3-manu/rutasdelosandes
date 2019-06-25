@@ -3,7 +3,8 @@ layout: trail
 title:  Cerro Tusa
 categories: colombia 
 tags: Antioquia
-excerpt: Cerro Tusa, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.
+seo_title: Cerro Tusa, piramide natural en colombia| comó llegar.
+excerpt: Cerro Tusa en antioquia, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.
 images_url: /images/rutas/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel

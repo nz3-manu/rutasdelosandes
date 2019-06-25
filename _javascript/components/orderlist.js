@@ -36,7 +36,7 @@ const styles = theme => ({
 class OrdersList extends React.Component {
   render() {
       const { classes, orders, updateOrder } = this.props;
-      console.log(orders)
+      console.log(orders[0])
     return (
       <Paper className={classes.root}>
         <Table className={classes.table}>

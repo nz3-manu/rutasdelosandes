@@ -3,6 +3,7 @@ layout: trail
 title:  Cascada los Chorros
 categories: colombia 
 tags: Risaralda
+seo_title: Cascada los chorros,los chorros en el cedral cerca a Pereira Risaralda.
 excerpt: Cascada los chorros o los chorros esta ubicada en la pastora risaralda es una hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya. Vale la pena visitarla!!. Duración del trayecto 1 día.
 images_url: /images/rutas/risaralda/chorros
 viewranger: MTQwODQyMA==

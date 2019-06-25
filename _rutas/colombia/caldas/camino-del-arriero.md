@@ -4,6 +4,7 @@ layout: trail
 title:  Camino Del Arriero
 categories: colombia 
 tags: Caldas
+seo_title: Caminatas ecológicas cerca de Manizales, caldas.
 excerpt: Este definitivamente es un destino natural poco conocido en Manizales. Esta es una ruta ecológica en el  eje cafetero  que cuenta con una hermosa cascada.
 images_url: /images/rutas/caldas/luna
 viewranger: MjI1MDg3NA==
@@ -15,30 +16,24 @@ La arriería formó parte importante del desarrollo económico de nuestro país 
 Todos estos expedicionarios debieron cruzar; Neira, Pueblo Rico, El guineo, la Cuchilla del Salado y finalmente el cementerio viejo.
 
 ## ¿Qué encontrarás 🏞👀?
-* Hermosos  paisajes cafeteros.
-* Camino por donde pasaban los antiguos arrieros.
-* Cascada (queda fuera de la ruta del arriero).
-
+{% include youtube.html
+    videoid="fOQ3_a_8EpM"
+    caption="Cascada la cristalina"
+%}
 
 
 ## ¿Cómo llegar 🛣🚌🚶🏼?
 
-Lo primero que tenemos que hacer es llegar a la ciudad de Manizales. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en el centro histórico de Manizales cerca del Palacio de Bellas Artes y la plaza Bolívar ver hostal __<a href="http://www.booking.com/hotel/co/hostal-kaleidoscopio.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-591834&nflt=ht_id%253D201%253Breview_score%253D90%253Breview_score%253D80&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
-
-__Recomendación:__ realizar reservación con previa anticipación, nosotros las realizamos a través de Booking ya que permite hacer reserva totalmente gratis 😋, de esta forma nos evitamos estar corriendo de un lado para el otro buscando hospedaje 🏨💨🏃‍ como ya nos ha pasado 😅.
-
-
-Al día siguiente tomamos el bus 🚌 al frente de la terminal de Manizales este pasa con una frecuencia de 10 minutos, el pasaje vale aproximadamente $2.000 pesos la duración del trayecto es en promedio 40 minutos. 
+Al llegar a la ciudad de  Manizales tomamos un bus 🚌 con destino a la Cuchilla del Salado, este pasa en todo el frente de la terminal, con una frecuencia de 10 minutos, el pasaje vale aproximadamente $2.200 pesos la duración del trayecto es en promedio 40 minutos. 
 
 
 La última parada del bus es un poco más allá de la  vereda que se llama la Cuchilla del Salado, una vez allí ya estamos listos para empezar nuestro camino 😎.
 
 ## El camino🚶🏼🐕
 
-
 {% include iframe.html
    type="custom"
-   mid="1cZt_vBjZDXfrRz07iTwTN00q99NMGgK0&hl=es"
+   mid="19__hrPNn3z6ZXwARkxlYCkwoJRpe9LZ4&hl=es"
    caption="Ruta de la Cuchilla del salado hasta la cascada"
 %}
 
@@ -64,34 +59,11 @@ height="1411"
 
 __Nota:__ Para llegar a la Cascada tuvimos que desviarnos de la conocida Ruta de los arrieros que sube a la Vereda Pueblo Rico. 
 
-Una vez que pasamos la vereda El Guineo continuamos por la carretera con dirección a Neira, en el camino nos desviamos hacia la derecha donde veamos esta entrada.
+Al llegar a la vereda el guineo aprovechamos para comprar en una pequeña tienda 🍞. Continuamos por el camino que cruzaba esta vereda y seguimos por una pequeña carretera (ver mapa, ya que hay muchos caminos) que pasa por algunas fincas cafeteras, en las cuales habian perros ⚠️🐕.
+⚠️ No ir solos a esta ruta ya que por los caminos que se pasa no son muy transitados por viajeros.
 
-{% include image.html
-file="rutas/caldas/luna/desvioCarreteraNeira.jpg"
-caption="Desvío de la carretera Neira para entrar al camino hacia la cascada"
-width="1000"
-height="667"
-%}
 
-seguimos el sendero y nos encontraremos con unos cultivos de caña de azúcar,  seguimos la carretera y para despues desviarnos a mano derecha.
-
-{% include image.html
-file="rutas/caldas/luna/desvioCultivoCaña.jpg"
-caption="Cañaduzal a mano derecha"
-width="1500"
-height="975"
-%}
-
-Después de haber tomado este sendero, nos llevará hasta una pequeña quebrada después de cruzar nos encontraremos con cultivos de café y llegaremos hasta una pequeña casa.
-
-{% include image.html
-file="rutas/caldas/luna/caminoCasaAntesCascada.jpg"
-caption="Camino casa antes de llegar a la cascada"
-width="2170"
-height="1411"
-%}
-
-Seguiremos nuestro sendero aproximadamente 15 minutos y llegaremos a un pequeño río que tiene un puente de guadua.
+Después de  40 minutos caminando (desde que pasamos la vereda el guineo), nos encontramos con este puente.
 
 {% include image.html
 file="rutas/caldas/luna/puenteGuadua.jpg"
@@ -101,6 +73,8 @@ height="1411"
 %}
 
 Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 minutos, __se recomienda usar tenis de muy buen agarre ya que en el camino se encuentran unas piedras que pueden ser muy peligrosas.__
+⚠️ No es recomendable cruzar este río si ha llovido mucho en los últimos días.
+
 Por fin de una dura caminata nos encontraremos con esta cascada.
 
 <amp-instagram

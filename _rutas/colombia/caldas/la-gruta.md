@@ -3,6 +3,7 @@ layout: trail
 title:  La Gruta
 categories: colombia 
 tags: Caldas
+seo_title: Como llegar a la gruta o Santuario Scout la Gruta en manizales caldas.
 excerpt: La Gruta Ruta o Santuario Scout la Gruta, este lugar encuentra a 27 kilómetros desde el parque de Villamaría Caldas por la  Vía a Gallinazo también es la vía que va para el nevado del Ruiz.
 images_url: /images/rutas/caldas/gruta
 viewranger: MTYzNjQzOA==

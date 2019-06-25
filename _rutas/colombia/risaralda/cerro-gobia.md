@@ -3,6 +3,7 @@ layout: trail
 title:  Cerro Gobia
 categories: colombia 
 tags: Risaralda
+seo_title: Cerro Gobia en quinchia risaralda, como llegar.
 excerpt: Cerro Gobia esta ubicado en el municipio de Quinchía a tan solo 1.5 kilómetros de su parque principal. Es una caminata ecológica ideal para personas que están iniciando en el senderismo. Duración del trayecto 1 día.
 images_url: /images/rutas/risaralda/gobia
 viewranger: 

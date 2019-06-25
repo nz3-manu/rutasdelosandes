@@ -3,6 +3,7 @@ layout: trail
 title:  Casa de los Colibríes en Salento
 categories: colombia 
 tags: Quindío
+seo_title: Cómo llegar al valle del cocora en salento
 excerpt: La Casa de los Colibríes o caime se encuentra en Salento, un recorrido que va por el valle del cocora en  salento subiendo por el valle de las palmas hasta llegar a la casa de los colibries, una bella ruta que en total recorre  12.39 kilometros
 images_url: /images/rutas/quindio/acaime
 viewranger: MTYzNjI1OA==

@@ -3,6 +3,7 @@ layout: trail
 title:  Desierto de la Tatacoa
 categories: colombia
 tags: Huila 
+seo_title: Guía completa para ir al Desierto de la Tatacoa.
 excerpt: El Desierto de la Tatacoa es un lugar hermoso para visitar en Colombia, en este post conocerás todo lo necesario en transporte, donde dormir y que visitar.
 images_url : /images/rutas/huila/desiertoTatacoa
 viewranger: MTY2NDcwMQ==
