@@ -52,8 +52,6 @@ menu_pages:
     url: /
   - display: Blog
     url: /blog
-  - display: Tienda
-    url: /tienda
   - display: Acerca de nosotros
     url: /acerca
 
