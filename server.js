@@ -43,13 +43,7 @@ const express = require('express'),
   
   require('es6-promise').polyfill();
   require('isomorphic-fetch');
-  import { gateway as MoltinGateway } from '@moltin/sdk';
   
-const Moltin = MoltinGateway({
-  client_id: 'g5Yz702xpZjiUIeTwtZum4sy5IAEPfPZNRJx93Yw8P',
-  client_secret: 'tvjrzCksvCfxUJAyz5CzDeiRkH7YQmXoBGq5IjJOQJ'
-});
-
 // push notifications
 const vapidKeys = {
   publicKey:

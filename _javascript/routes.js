@@ -24,7 +24,8 @@ function redirectSWFallbackURL(nextState, replace) {
     replace({pathname: href});
   }
 }
-module.exports = (
+
+export default (
     <Route path='/' component={Shell} onEnter={redirectSWFallbackURL}>
       <Route path='/checkout' component={
         props => <Checkout query={props.location.query} />

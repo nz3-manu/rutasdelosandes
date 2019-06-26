@@ -1,5 +1,7 @@
 {
-  "presets": ["react", "shopify/node"],
+  "presets": ["react"],
   "plugins": [
+      "transform-es2015-destructuring",
+      "transform-object-rest-spread",
       "graphql-js-client-transform" ]
 }
