@@ -15,7 +15,6 @@ const express = require('express'),
   Sentry = require('@sentry/node'),
   cheerio = require('cheerio');
   
-  import 'babel-polyfill';
   import { SheetsRegistry } from 'react-jss/lib/jss';
   import { lineItemAdd ,lineItemRemove ,updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle, createCheckout, fetchCheckout} from './shopifyPromises.js'
   import JssProvider from 'react-jss/lib/JssProvider';
