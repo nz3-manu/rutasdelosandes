@@ -95,35 +95,7 @@ class Shell extends React.Component {
             }
         </div>
             <footer>
-                <div className="wrapFoter">
-                  <div className="footer">
-                    <div className="contacto">
-                    <h3> CONTACTO</h3>
-                    <ul className="li-contacto">
-                      <li>Whatsapp y Telefono: 3113403572</li>
-                      <li> Correo: rutasdelosandes@gmail.com</li>
-                    </ul>
-                    <p>Atendemos de lunes a viernes de 8:00 am a 6:00 pm.</p>
-                  </div>
-                  <div className="politicas">
-                    <h3> POLÍTICAS</h3>
-                    <ul className="li-politicas">
-                      <li><a href="/politicas#politicasPrivacidad" target= "_blank"> Políticas de privacidad </a></li>
-                      <li><a href="/politicas#politicasEnvio" target="_blank"> Políticas de envío </a></li>
-                      <li><a href="/politicas#politicasDevolucion" target="_blank">Políticas de devolución </a></li>
-                    </ul>
-                </div>
-                <div className="pagos">
-                    <h3> PAGOS</h3>
-                    <ul className="li-pagos">
-                      <li> Pse</li>
-                      <li> Efectivo</li>
-                      <li> Credito</li>
-                      <li> Baloto, Efecty y Apostar su red</li>
-                    </ul>
-                        </div>
-                        </div>
-                      </div>
+             
             </footer>
 
         </div>
