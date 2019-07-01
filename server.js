@@ -15,7 +15,6 @@ const express = require('express'),
   Sentry = require('@sentry/node'),
   cheerio = require('cheerio');
   
-  import 'babel-polyfill';
   import { SheetsRegistry } from 'react-jss/lib/jss';
   import { lineItemAdd ,lineItemRemove ,updateLineItem, shopNameAndProductsPromise, cartPromise, productByHandle, createCheckout, fetchCheckout} from './shopifyPromises.js'
   import JssProvider from 'react-jss/lib/JssProvider';
@@ -44,13 +43,7 @@ const express = require('express'),
   
   require('es6-promise').polyfill();
   require('isomorphic-fetch');
-  import { gateway as MoltinGateway } from '@moltin/sdk';
   
-const Moltin = MoltinGateway({
-  client_id: 'g5Yz702xpZjiUIeTwtZum4sy5IAEPfPZNRJx93Yw8P',
-  client_secret: 'tvjrzCksvCfxUJAyz5CzDeiRkH7YQmXoBGq5IjJOQJ'
-});
-
 // push notifications
 const vapidKeys = {
   publicKey:
@@ -357,51 +350,29 @@ app.get('/amp/producto/:slug', async (req, res) => {
   const children = shopifyProduct.data.productByHandle.variants.edges.map(child => { 
     return child.node
   });
-  
-  Moltin.Products.With('files, main_images, collections')
-    .All()
-    .then(products => {
-      let allProducts = products.data;
-      let product = allProducts.find(el => el.slug == "gorra-rutas");
-      // product not found
-      if (!product) { 
-        return res.render('productnotfound');
-      }
-      //let productID = products.data[0].id
-      // this is needed in order to get the variations matrix :(
-      // this will get cached by google amp hopefully
-      Moltin.Products.Get(product.id)
-        .then(product => {
-         
-          let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
-          let quantityExpression = 'product.quantity';
-   
-          //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
-          //	let files = getFiles(products.included, product.relationships.files)
-          let productDisplay = Object.assign(
-            {},
-            {shopifyVariations},
-            shopifyProduct.data.productByHandle,
-            { children },
-            { variations: variationsMatrix },
-            { defaultChild },
-            { defaultVariations: defaultVariations },
-            { url: `producto/${slug}`}
-          );
-          res.render('product', {
-            product: productDisplay,
-            variationsParams,
-            priceExpression,
-            quantityExpression
-          });
-        })
-        .catch(e => {
-          console.log(e)
-        });
-    })
-    .catch(e => {
-      console.log(e);
-    });
+
+
+  let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
+  let quantityExpression = 'product.quantity';
+
+  //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
+  //	let files = getFiles(products.included, product.relationships.files)
+  let productDisplay = Object.assign(
+    {},
+    {shopifyVariations},
+    shopifyProduct.data.productByHandle,
+    { children },
+    { variations: variationsMatrix },
+    { defaultChild },
+    { defaultVariations: defaultVariations },
+    { url: `producto/${slug}`}
+  );
+  res.render('product', {
+    product: productDisplay,
+    variationsParams,
+    priceExpression,
+    quantityExpression
+  });
 });
 
 
@@ -484,84 +455,6 @@ app.post(`/updateorder`, (req,res) => {
     res.status(500).send(JSON.stringify(reason));
 })
 })
-
-app.post(`/notify`, (req, res) => {
-  let orderId = req.query.orderid;
-  let sucess = false;
-  let rejected = true;
-  let notifyData = req.body;
-  let paymentName = "";
-  //Logic for this stuff
-  //efectivo
-  if (notifyData.payment_method_type == 7) {
-    paymentName = "efectivo"
-    if (notifyData.state_pol == 4) {
-      // el usuario pago en efectivo con exito
-      sucess = true;
-      rejected = false;
-    } else {
-      // el usuario dejo vencer la factura o fue rechazada
-      sucess = false;
-      rejected = true;
-    }
-  }
-  //tarjeta de credito
-  else if (notifyData.payment_method_type == 2) {
-    paymentName = "tarjeta de credito"
-    if (notifyData.state_pol == 4) {
-      // el usuario pago con tarjeta
-      sucess = true;
-      rejected = false;
-    } else {
-      // el usuario dejo vencer la factura o fue rechazada
-      sucess = false;
-      rejected = true;
-    } 
-  }
-  //PSE
-  else if (notifyData.payment_method_type == 4) {
-    paymentName = "PSE"
-    if (notifyData.state_pol == 4) {
-      // el usuario pago con PSE
-      sucess = true;
-      rejected = false;
-    } else {
-      // el usuario dejo vencer la factura o fue rechazada
-      rejected = true;
-      sucess = false;
-    } 
-  } else {
-    console.log('not sure what to do');
-  }
-
-  Moltin.Orders.Items(orderId).then(items => {
-    if (sucess) {
-        // el usuario pago ! ya el producto se habia descontado del inventario previamente! asi que solo queda enviarlo
-      Moltin.Orders.Get(orderId)
-        .then(order => {
-          recipe(order, items)
-        })
-        Moltin.Orders.Transactions(orderId).then(transactions => {
-          const transactionId = transactions.data[0].id
-          Moltin.Transactions.Capture({
-            order: orderId,
-            transaction: transactionId
-          }).catch((reason) => { 
-            console.log(`something went wrong capturing the payment`,reason)
-          })
-        })
-    }
-    if (rejected) {
-      //deallocate order items this guy never paid
-      items.data.filter((item)=>item.sku != "envio").reduce((promise, item) => {
-           promise.then((() => Moltin.Inventories.DeallocateStock(item.product_id, item.quantity))).catch((e) => { console.log("  wrong incrementing cart",e)})
-        }, Promise.resolve());
-    } 
-    res.status(200).send('ok');
-  }).catch(function(reason) {
-    console.log('notify failed', reason);
-  });
-});
 
 
 
