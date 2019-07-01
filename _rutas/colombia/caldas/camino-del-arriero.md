@@ -18,6 +18,8 @@ Todos estos expedicionarios debieron cruzar; Neira, Pueblo Rico, El guineo, la C
 ## ¿Qué encontrarás 🏞👀?
 {% include youtube.html
     videoid="fOQ3_a_8EpM"
+    width="480"
+    height="270"
     caption="Cascada la cristalina"
 %}
 
@@ -59,8 +61,10 @@ height="1411"
 
 __Nota:__ Para llegar a la Cascada tuvimos que desviarnos de la conocida Ruta de los arrieros que sube a la Vereda Pueblo Rico. 
 
-Al llegar a la vereda el guineo aprovechamos para comprar en una pequeña tienda 🍞. Continuamos por el camino que cruzaba esta vereda y seguimos por una pequeña carretera (ver mapa, ya que hay muchos caminos) que pasa por algunas fincas cafeteras, en las cuales habian perros ⚠️🐕.
-⚠️ No ir solos a esta ruta ya que por los caminos que se pasa no son muy transitados por viajeros.
+Al llegar a la vereda el guineo aprovechamos para comprar en una pequeña tienda 🍞. Continuamos por el camino que cruzaba esta vereda y seguimos por una pequeña carretera que pasa por algunas fincas cafeteras, en las cuales habian perros ⚠️🐕. 
+Lo aconsejable es ir con alguien que conozca la ruta, ya que hay muchos caminos y de no tomar al correcto podrían llegar a alguna finca 😅.
+
+⚠️ Por esta ruta no se van a encontrar muchos turistas, así que no se recomienda ir solos.
 
 
 Después de  40 minutos caminando (desde que pasamos la vereda el guineo), nos encontramos con este puente.
@@ -72,21 +76,22 @@ width="2170"
 height="1411"
 %}
 
-Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 minutos, __se recomienda usar tenis de muy buen agarre ya que en el camino se encuentran unas piedras que pueden ser muy peligrosas.__
+Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 minutos, __se recomienda usar tenis de muy buen agarre ya que en el camino se encuentran con piedras que son muy resbalosas.__
+
 ⚠️ No es recomendable cruzar este río si ha llovido mucho en los últimos días.
 
-Por fin de una dura caminata nos encontraremos con esta cascada.
+Por fin de una dura caminata nos encontraremos con esta hermosa cascada.
 
 <amp-instagram
-   data-shortcode="BrRNBK4B4D5"
+   data-shortcode="BzLfgC7pTKD"
    data-captioned
-   width="480"
-   height="600"
+   width="481"
+   height="600.92"
    layout="responsive">
 </amp-instagram>
 
 ## ¿Cómo regresar 🚌🏡?
-Tomamos el mismo camino por el que llegamos, tener mucho cuidado con los perros que hay en algunas fincas, el jeep de regreso para manizales se toma en el puente que cruzamos para la vereda el guineo. los fines de semana solo hay transporte hasta las 4 pm el pasaje hasta manizales vale $5.000 pesos.
+Tomamos el mismo camino por el que llegamos, tener mucho cuidado con los perros que hay en algunas fincas, el jeep de regreso para manizales se toma en el puente que cruzamos para la vereda el guineo. los fines de semana solo hay transporte hasta las 4 pm (estos horarios varían dependiendo de  la cantidad que viaje para esta región), el pasaje hasta manizales vale $5.000 pesos.
 
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__

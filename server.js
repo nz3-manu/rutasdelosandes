@@ -67,7 +67,7 @@ webpush.setVapidDetails(
 //server side fetch polifyll
 import routes from './_javascript/routes';
 import { match, RouterContext } from 'react-router';
-import { write, read, push, sendToDevice, update, remove } from './chatbot/db';
+//import { write, read, push, sendToDevice, update, remove } from './chatbot/db';
 import { Promise } from 'firebase';
 import reducer from './_javascript/reducers';
 import { createStore } from 'redux';
