@@ -8,7 +8,7 @@ export default new Client(types, {
   url: 'https://randex.myshopify.com/api/graphql',
   fetcherOptions: {
     headers: {
-      'X-Shopify-Storefront-Access-Token': '11bf8bec9d7a1cb945e7ee6149433c49'
+      'X-Shopify-Storefront-Access-Token': 'e61c79b2a527a6255dd60c3233ef2a28'
     }
   }
 });
