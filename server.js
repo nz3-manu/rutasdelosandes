@@ -497,18 +497,20 @@ app.get('/getcart', async (req, res) => {
     let checkoutId = req.session.checkoutId;
     var shopifyCart = "";
     var lineItems = [];
+    let cartOpen = false;
     // Create a checkout if it doesn't exist yet
     if (!checkoutId) {
       lineItems = [];
     }
     else { 
       console.log("checkout ID on get cart", req.session.checkoutId)
+      cartOpen = true;
       shopifyCart = await fetchCheckout(checkoutId);
       lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
     }
-
+   
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-    res.json({ "number": lineItems.length, "items": lineItems, checkoutId });
+    res.json({ "number": lineItems.length, "items": lineItems, checkoutId, open: cartOpen });
   } catch (error) {
     console.log(error)
   }
