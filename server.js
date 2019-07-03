@@ -561,7 +561,7 @@ app.post('/addcart', upload.fields([]), async (req, res) => {
     let checkoutId = req.session.checkoutId;
    
     if (!checkoutId) {
-      result = await createCheckout();
+      let result = await createCheckout();
       checkoutId = result.model.checkoutCreate.checkout.id;
       req.session.checkoutId = checkoutId;
       console.log("checkout ID on add to cart", req.session.checkoutId)
