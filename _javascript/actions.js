@@ -121,7 +121,6 @@ export function getCart() {
                 'Content-Type': 'application/json'
             }
         }).then(function (response) { return response.json(); }).then((data) => {
-            console.log(data)
             dispatch(setCartItems(data))
         })
     }

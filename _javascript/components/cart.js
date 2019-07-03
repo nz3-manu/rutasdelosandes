@@ -14,7 +14,8 @@ class Cart extends React.Component {
     this.setState({cartIsOpen:!this.state.cartIsOpen})
   }
   render() {
-    const { cart , deleteItems } = this.props;
+    const { cart, deleteItems } = this.props;
+    console.log(this.state,cart)
     return (
       <div>
         <a className="wrap-cart"  onClick={this.toggleCart.bind(this)}> 
