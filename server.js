@@ -496,17 +496,17 @@ app.get('/getcart', async (req, res) => {
   try { 
     let checkoutId = req.session.checkoutId;
     var shopifyCart = "";
-    var result = "";
     var lineItems = [];
     // Create a checkout if it doesn't exist yet
     if (!checkoutId) {
-      result = await createCheckout();
-      checkoutId = result.model.checkoutCreate.checkout.id;
-      req.session.checkoutId = checkoutId;
-      console.log("checkout ID on get cart", req.session.checkoutId)
+      lineItems = [];
     }
-    shopifyCart = await fetchCheckout(checkoutId);
-    lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
+    else { 
+      console.log("checkout ID on get cart", req.session.checkoutId)
+      shopifyCart = await fetchCheckout(checkoutId);
+      lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
+    }
+
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
     res.json({ "number": lineItems.length, "items": lineItems, checkoutId });
   } catch (error) {
