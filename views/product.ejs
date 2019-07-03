@@ -334,6 +334,9 @@
     .rosa {
       background-color: pink;
     }
+    .morado, .morada {
+      background-color: purple;
+    } 
     .gris {
       background-color: gray;
     }
@@ -995,7 +998,7 @@
         <% product.children.forEach(function(child){ %>
                   <amp-carousel 
                       id="green-apple-carousel"
-                      width="1024" height="682"
+                      width="1024" height="1024"
                       layout="responsive"
                       type="slides"
                       on="slideChange: AMP.setState({product: { {{color.name}}Slide: event.index}})"
