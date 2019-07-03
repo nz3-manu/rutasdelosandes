@@ -82,9 +82,8 @@ if (process.env.NODE_ENV == 'production') {
 app.use(
   session({
     secret: 'keyboard cat',
-    resave: true,
-    rolling: true,
-    saveUninitialized: true,
+    resave: false,
+    saveUninitialized: false,
     cookie: { maxAge: 7200000 }
   })
 );
@@ -496,7 +495,6 @@ app.get('/confirmation', (req, res) => {
 app.get('/getcart', async (req, res) => {
   try { 
     let checkoutId = req.session.checkoutId;
-    let sessionId = req.session.id;
     var shopifyCart = "";
     var result = "";
     var lineItems = [];
@@ -507,7 +505,6 @@ app.get('/getcart', async (req, res) => {
       req.session.checkoutId = checkoutId;
       console.log("checkout ID on get cart", req.session.checkoutId)
     }
-    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
     shopifyCart = await fetchCheckout(checkoutId);
     lineItems = shopifyCart.data.node.lineItems.edges.map( item=>item.node );
     res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
@@ -555,7 +552,6 @@ app.post('/removecart', async (req, res) => {
 app.post('/addcart', upload.fields([]), async (req, res) => { 
   try {
     let productId = req.body.id;
-    let checkoutId = req.query.checkoutId;
     let productUrl = req.body.url;
     let quantity = Number(req.body.quantity);
     let action = req.body.action
@@ -563,15 +559,20 @@ app.post('/addcart', upload.fields([]), async (req, res) => {
     let source = req.query.__amp_source_origin
     let checkoutUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/checkout` : `http://localhost:8080/checkout`
     let EnvproductUrl = (process.env.NODE_ENV == 'production') ? `https://rutasdelosandes.com/${productUrl}` : `http://localhost:8080/${productUrl}`
+    let checkoutId = req.session.checkoutId;
    
-    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
-  
-
+    if (!checkoutId) {
+      result = await createCheckout();
+      checkoutId = result.model.checkoutCreate.checkout.id;
+      req.session.checkoutId = checkoutId;
+      console.log("checkout ID on add to cart", req.session.checkoutId)
+    }
     // Add the variant to our cart
     const input = {
       checkoutId,
       lineItems: [{variantId: productId, quantity}]
     };
+
     let lineItemId = await lineItemAdd(input);
     res.set('Access-Control-Allow-Origin', origin);
     res.set('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
