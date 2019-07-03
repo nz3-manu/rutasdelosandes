@@ -529,8 +529,7 @@ app.post('/removecart', async (req, res) => {
     let checkoutId = req.query.checkoutId;
     let itemId = req.body.id;
     let shopifyCart,lineItems;
-
-    checkoutId = "Z2lkOi8vc2hvcGlmeS9DaGVja291dC8xZmMwN2UxMWRlNjFlM2VkZDRhMTYzNjFlZGE5ODc5Mj9rZXk9ZTRiNzQwM2NiZDI4ZmVlNTAzZTQ0ZThjMGU1MDMwMTM=";
+    console.log("checkout id on remove from cart", checkoutId);
   
     const input = {
       checkoutId,
