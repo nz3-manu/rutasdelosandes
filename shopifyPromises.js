@@ -76,6 +76,7 @@ const productByHandle = handle => {
               src
             }
             price
+            priceV2
           }
         }
       }
