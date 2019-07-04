@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Camino Del Arriero
 categories: colombia 
