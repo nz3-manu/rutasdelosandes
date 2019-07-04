@@ -528,7 +528,7 @@ app.get('/getproducts', function (req, res) {
 
 app.post('/removecart', async (req, res) => { 
   try {
-    let checkoutId = req.query.checkoutId;
+    let checkoutId = req.session.checkoutId;
     let itemId = req.body.id;
     let shopifyCart,lineItems;
     console.log("checkout id on remove from cart", checkoutId);
