@@ -374,89 +374,6 @@ app.get('/amp/producto/:slug', async (req, res) => {
   });
 });
 
-
-const clearCart = (cartId) => { 
-    return Moltin.Cart(cartId)
-    .Delete()
-}
-
-app.post('/order', (req, res) => {
-  let { shipping, cart } = req.body;
-  
-  // some stupid browsers send trailing and leading spaces in the form
-  shipping = trimObjValues(shipping)
-  res.setHeader('Content-Type', 'application/json');
-
-  let MoltinShipping = {
-    first_name: shipping.name,
-    last_name: 'notset',
-    line_1: shipping.address,
-    line_2: '',
-    phone_number: shipping.phone,
-    county: shipping.deparment,
-    city: shipping.city,
-    postcode: 'CA94040',
-    instructions: shipping.instructions,
-    country: shipping.country
-  };
-
-  let customer = {
-    name: shipping.name,
-    email: shipping.email
-  };
-
-  Sentry.configureScope((scope) => {
-    scope.setTag("invalid-input", "wrong-order");
-    scope.setUser(shipping);
-
-    Moltin.Cart(cart.id)
-    .Checkout(customer, MoltinShipping)  
-    .then(order => {
-      res.status(200).send(JSON.stringify({order: order.data.id}));
-    }).catch(function (reason) {
-      Sentry.captureException(reason);
-      console.log(`order create failed for ${JSON.stringify(shipping)} reason ${reason} cart id: ${cart.id}`)
-      clearCart(cart.id)
-      // not enought stock
-      res.status(500).send(JSON.stringify(reason));
-    });
-  });
-})
-
-function trimObjValues(obj) {
-  return Object.keys(obj).reduce((acc, curr) => {
-    acc[curr] = obj[curr].trim()
-    return acc;
-  }, {});
-}
-
-
-
-app.get(`/orderslist`, (req, res) => { 
-  if (req.query.pass == "luna") {
-    Moltin.Orders.All().then(orders => {
-      mathRouter(req, res, { orders: orders.data, loading: false });
-    })
-  }
-  else { 
-    res.status(200).send(JSON.stringify({err:"no autorizado"}));
-  } 
-})
-
-app.post(`/updateorder`, (req,res) => { 
-  let orderId = req.query.orderid
-  let { values } = req.body;
-  console.log(orderId,values)
-  Moltin.Orders.Update(orderId, values).then(order => {
-    res.status(200).send({order})
-  }).catch(function (reason) {
-    console.log(reason)
-    res.status(500).send(JSON.stringify(reason));
-})
-})
-
-
-
 app.get('/sitemap.xml', function(req, res) {
   let allDocs = Object.values(global.__preloaded__.documents).reduce(
     (acu, prev) => acu.concat(prev),
@@ -479,17 +396,6 @@ app.get('/sitemap.xml', function(req, res) {
     res.header('Content-Type', 'application/xml');
     res.send(xml);
   });
-});
-
-app.get('/confirmation', (req, res) => {
-  let order = req.query.orderid;
-  Moltin.Orders.Get(order)
-    .then(order => {
-      mathRouter(req,res, { order: order.data, cart: {"number": 0, "items": []}});
-    })
-    .catch(function(reason) {
-      console.log('order', reason);
-    });
 });
 
 app.get('/getcart', async (req, res) => {
