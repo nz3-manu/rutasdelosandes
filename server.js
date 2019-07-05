@@ -330,14 +330,12 @@ app.get('/amp/producto/:slug', async (req, res) => {
   const variationsMatrix = deepmerge.all(variationsArray);
 
   let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
-  let price = shopifyProduct.data.productByHandle.variants.edges[0].node.price
-    
   .map((option) => ({ [option.name]: option.value }))
   .reduce((valorAnterior, valorActual, indice, vector) => { 
     return Object.assign(valorAnterior, valorActual)
   }, {});
 
-  let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node.id;
+  let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
 
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
     (valorAnterior, valorActual, indice, vector) => {
@@ -355,17 +353,16 @@ app.get('/amp/producto/:slug', async (req, res) => {
 
   let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
   let quantityExpression = 'product.quantity';
-  console.log(price)
+  
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
   //	let files = getFiles(products.included, product.relationships.files)
   let productDisplay = Object.assign(
     {},
-    { price },
     {shopifyVariations},
     shopifyProduct.data.productByHandle,
     { children },
     { variations: variationsMatrix },
-    { defaultChild },
+    { defaultChild: defaultChild.id, price: defaultChild.price },
     { defaultVariations: defaultVariations },
     { url: `producto/${slug}`}
   );
