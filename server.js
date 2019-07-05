@@ -353,7 +353,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
 
   let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
   let quantityExpression = 'product.quantity';
-
+  console.log(shopifyVariations)
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
   //	let files = getFiles(products.included, product.relationships.files)
   let productDisplay = Object.assign(
