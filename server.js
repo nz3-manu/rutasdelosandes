@@ -330,6 +330,8 @@ app.get('/amp/producto/:slug', async (req, res) => {
   const variationsMatrix = deepmerge.all(variationsArray);
 
   let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
+  let price = shopifyProduct.data.productByHandle.variants.edges[0].node.price
+    
   .map((option) => ({ [option.name]: option.value }))
   .reduce((valorAnterior, valorActual, indice, vector) => { 
     return Object.assign(valorAnterior, valorActual)
@@ -353,11 +355,12 @@ app.get('/amp/producto/:slug', async (req, res) => {
 
   let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
   let quantityExpression = 'product.quantity';
-  console.log(shopifyVariations)
+  console.log(price)
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
   //	let files = getFiles(products.included, product.relationships.files)
   let productDisplay = Object.assign(
     {},
+    { price },
     {shopifyVariations},
     shopifyProduct.data.productByHandle,
     { children },
