@@ -336,7 +336,8 @@ app.get('/amp/producto/:slug', async (req, res) => {
   }, {});
 
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
-
+  
+  console.log("default child params", defaultChild);
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
     (valorAnterior, valorActual, indice, vector) => {
       return (
