@@ -336,8 +336,11 @@ app.get('/amp/producto/:slug', async (req, res) => {
   }, {});
 
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
+  let price = new Intl.NumberFormat("es_CO", {
+                style: 'currency',
+                currency: defaultChild.priceV2.currencyCode
+  }).format(defaultChild.priceV2.amount);
   
-  console.log("default child params", defaultChild);
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
     (valorAnterior, valorActual, indice, vector) => {
       return (
@@ -363,7 +366,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
     shopifyProduct.data.productByHandle,
     { children },
     { variations: variationsMatrix },
-    { defaultChild: defaultChild.id, price: defaultChild.price },
+    { defaultChild: defaultChild.id, price },
     { defaultVariations: defaultVariations },
     { url: `producto/${slug}`}
   );
