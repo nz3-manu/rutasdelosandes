@@ -51,14 +51,20 @@ class Politicas extends React.Component {
 
                 <h3>Formas de envío y plazos de entrega</h3>
                 <p> rutasdelosandes.com sólo entregará pedidos en Colombia. El plazo de entrega es de 5 a 8 días hábiles a partir de la fecha de recepción del pedido. </p>
-                <p> Los pedidos serán enviados por el servicio de envíos de 472, el valor de éste será pagado por la persona. </p>
-                <p> En el caso de no haber un responsable para la recepción del paquete en la dirección indicada de entrega, el servicio de envíos de 472 deberá llamar para confirmar a qué hora pueden entregarle la mercancía, de no poder comunicarse, el servicio de envíos de 472 guardará su paquete en sus almacenes aproximadamente 5 días antes de proceder a la devolución a nuestras instalaciones.  </p>
-                <p> Si no recibe su compra en el tiempo estimado deberá ponerse en contacto a nuestro whatsapp 3113403572. Desde el momento en el que tengamos su notificación realizaremos las gestiones oportunas para averiguar por qué no lo ha recibido en el tiempo acordado. </p>
-                 
+               <p> Los pedidos serán entregados por el servicio de envíos  que el cliente escoja que serán: Servientrega(recomendado) o por el servicio de envíos de 472, el valor de éste será pagado por la persona. </p>
+               <p> En el caso de no haber un responsable para la recepción del paquete en la dirección indicada de entrega, el servicio de envíos deberá llamar para confirmar a qué hora pueden entregarle la mercancía, de no poder comunicarse, el servicio de envíos guardará su paquete en sus almacenes aproximadamente 5 días antes de proceder a la devolución a nuestras instalaciones.  </p>
+               <p> Si no recibe su compra en el tiempo estimado deberá ponerse en contacto a nuestro whatsapp 3113403572. Desde el momento en el que tengamos su notificación realizaremos las gestiones oportunas para averiguar por qué no lo ha recibido en el tiempo acordado. </p>
+
+                <h3>Devoluciones por parte de la agencia de envios</h3>
+
+                <p>Si el paquete es regresado a nosotros por la agencia de envios manifestando que los datos suministrados no eran correctos, faltaba información o no se encontraba la persona al momento de realizar la entrega. </p>
+                <p>
+                Si esto llegara a pasar y el producto es regresado de nuevo a nuestras instalaciones, la persona podrá solicitar la devolución del dinero si así lo desea o realizar un nuevo envió con la información correcta, los gastos de envío correrán por cuenta del cliente.
+                </p>
 
                 <h2 className={classes.tittle} id="politicasDevolucion">DEVOLUCIONES</h2>       
                 <p>
-                    Si en el pedido recibido encuentra algún producto defectuoso debe ponerse en contacto al 3113403572. <br></br> <br></br>
+                    Si en el pedido recibido encuentra algún producto defectuoso debe ponerse en contacto al 3113403572 o rutasdelosandes@gmail.com. <br></br> <br></br>
                     Podrá devolvernos la mercancía siempre que comunique su intención en el plazo de una semana después de recibido el pedido y siempre que mantenga en optimo estado su empaque y el producto no debe contar con uso previo, deberás enviarnos las fotos del producto  a través de rutasdelosandes@gmail.com o llamarnos al 3113403572. <br></br> <br></br>
                     Siempre que la devolución responda a defectos del producto, rutas de los andes asume los gastos de envío ocasionados por la devolución. Usted podrá reponerlo ó sustituirlo por otro artículo de los mismos. <br></br> <br></br>
                     Si las razones de devolución son ajenas a rutas de los andes, es decir, si la mercancía se encuentra en perfecto estado pero a pesar de ello quiere devolverla, deberá mandar el producto en su embalaje original y en perfecto estado. Los gastos ocasionados de la devolución, NO serán sufragados por rutas de los andes.
