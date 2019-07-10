@@ -339,7 +339,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   let price = new Intl.NumberFormat("de-DE", {
                 style: 'currency',
                 currency: defaultChild.priceV2.currencyCode,
-                maximumFractionDigits:0
+                maximumFractionDigits: 1
               }).format(defaultChild.priceV2.amount);
   
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
