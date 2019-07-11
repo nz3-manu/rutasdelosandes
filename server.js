@@ -376,8 +376,6 @@ app.get('/amp/producto/:slug', async (req, res) => {
     return child.node
   });
 
-
-  let priceExpression = `productAvailavility[${variationsParams}].meta.display_price.with_tax.formatted`;
   let quantityExpression = 'product.quantity';
   
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
@@ -395,7 +393,6 @@ app.get('/amp/producto/:slug', async (req, res) => {
   res.render('product', {
     product: productDisplay,
     variationsParams,
-    priceExpression,
     quantityExpression
   });
 });
