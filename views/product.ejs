@@ -1036,7 +1036,7 @@
                       on="select:AMP.setState({
                         product: {
                           variationSelected:{
-                            <%= variation.name %> : event.targetOption
+                            <%= encodeURIComponent(variation.name) %> : event.targetOption
                           }
                         }
                       })"
