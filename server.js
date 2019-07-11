@@ -342,12 +342,13 @@ app.get('/amp/producto/:slug', async (req, res) => {
   const variationsMatrix = deepmerge.all(variationsArray);
 
   let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
-  .map((option) => ({ [option.name]: option.value }))
-  .reduce((valorAnterior, valorActual, indice, vector) => { 
+  .map((option) => ({ [replaceAccents(option.name)]: option.value }))
+  .reduce((valorAnterior, valorActual) => { 
     return Object.assign(valorAnterior, valorActual)
   }, {});
 
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
+  
   let price = new Intl.NumberFormat("de-DE", {
                 style: 'currency',
                 currency: defaultChild.priceV2.currencyCode
