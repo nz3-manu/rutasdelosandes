@@ -383,6 +383,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   res.render('product', {
     product: productDisplay,
     variationsParams,
+    replaceAccents,
     quantityExpression
   });
 });
