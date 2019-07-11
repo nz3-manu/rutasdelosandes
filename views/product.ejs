@@ -1036,7 +1036,7 @@
                       on="select:AMP.setState({
                         product: {
                           variationSelected:{
-                            <%= variation.name.replace(expr,function(e){ var chars={'ñ':'n','Ñ':'N'}; return chars[e]}); %> : event.targetOption
+                            <%= variation.name.replace(/[áàéèíìóòúùñ]/ig,function(e){ var chars={'ñ':'n','Ñ':'N'}; return chars[e]}); %> : event.targetOption
                           }
                         }
                       })"
