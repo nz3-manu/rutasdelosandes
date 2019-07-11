@@ -353,6 +353,8 @@ app.get('/amp/producto/:slug', async (req, res) => {
   const children = shopifyProduct.data.productByHandle.variants.edges.map(child => { 
     return child.node
   });
+
+  let quantityExpression = 'product.quantity';
   
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
   //	let files = getFiles(products.included, product.relationships.files)
@@ -368,7 +370,8 @@ app.get('/amp/producto/:slug', async (req, res) => {
   );
   res.render('product', {
     product: productDisplay,
-    variationsParams
+    variationsParams,
+    quantityExpression
   });
 });
 
