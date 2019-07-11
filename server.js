@@ -297,6 +297,18 @@ app.set('view engine', 'ejs');
 
 const deepmerge = require('deepmerge');
 
+var replaceAccents = function (cadena)
+{
+	var chars={
+		"á":"a", "é":"e", "í":"i", "ó":"o", "ú":"u",
+		"à":"a", "è":"e", "ì":"i", "ò":"o", "ù":"u", "ñ":"n",
+		"Á":"A", "É":"E", "Í":"I", "Ó":"O", "Ú":"U",
+		"À":"A", "È":"E", "Ì":"I", "Ò":"O", "Ù":"U", "Ñ":"N"}
+	var expr=/[áàéèíìóòúùñ]/ig;
+	var res=cadena.replace(expr,function(e){return chars[e]});
+	return res;
+}
+
 app.get('/amp/producto/:slug', async (req, res) => {
   const slug = req.params.slug;
   let shopifyProduct = await productByHandle(slug).then((result) => {
@@ -307,7 +319,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   //TODO: build a recursive function that starts from the las item of the array and build a nested obj using all its values
   
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {
-    let lastValue = encodeURIComponent(values.shift());
+    let lastValue = replaceAccents(values.shift());
     if (values.length == 0) {
       ref[lastValue] = id;
       return obj
@@ -344,7 +356,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
     (valorAnterior, valorActual, indice, vector) => {
       return (
-        valorAnterior + `[product.variationSelected.${encodeURIComponent(valorActual)}]`
+        valorAnterior + `[product.variationSelected.${replaceAccents(valorActual)}]`
       );
     },
     `variationMatrix`
