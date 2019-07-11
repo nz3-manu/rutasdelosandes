@@ -319,7 +319,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   //TODO: build a recursive function that starts from the las item of the array and build a nested obj using all its values
   
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {
-    let lastValue = replaceAccents(values.shift());
+    let lastValue = values.shift();
     if (values.length == 0) {
       ref[lastValue] = id;
       return obj
