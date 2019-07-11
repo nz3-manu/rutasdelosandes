@@ -1030,8 +1030,8 @@
         <div class="variations">
           <% product.shopifyVariations.forEach(function(variation){ %>
             <div class="variation">
-              <label class="variation-label" for="<%= variation.name %>"><%= variation.name %></label>
-              <amp-selector name="<%= variation.name %>"
+              <label class="variation-label" for="<%= replaceAccents(variation.name) %>"><%= variation.name %></label>
+              <amp-selector name="<%= replaceAccents(variation.name) %>"
                       layout="container"
                       on="select:AMP.setState({
                         product: {
@@ -1040,7 +1040,7 @@
                           }
                         }
                       })"
-                      [selected]="product.variationSelected['<%= variation.name %>']">
+                      [selected]="product.variationSelected['<%= replaceAccents(variation.name) %>']">
                 <ul class="options">   
                     <% variation.values.forEach(function(option,index){ %>      
                       <li>
