@@ -348,12 +348,8 @@ app.get('/amp/producto/:slug', async (req, res) => {
   }, {});
 
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
-  console.log("price V2", parseInt(defaultChild.priceV2.amount))
   
-  let price = new Intl.NumberFormat("de-DE", {
-                style: 'currency',
-                currency: defaultChild.priceV2.currencyCode
-              }).format(defaultChild.priceV2.amount);
+  let price = parseInt(defaultChild.priceV2.amount);
   
   let variationsParams = shopifyVariations.map((variantObj) => variantObj.name).reduce(
     (valorAnterior, valorActual, indice, vector) => {
