@@ -86,6 +86,11 @@ class Shell extends React.Component {
                 <span>Blog</span>
               </Link> 
               </li>  
+              <li>
+                {<Link to="/tienda" key="3">
+                  <span className="tienda-title">Tienda</span>
+                </Link>}
+              </li> 
             </ul>
           </div>
             {
