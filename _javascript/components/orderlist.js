@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { withStyles } from '@material-ui/core/styles';
-import { connect } from 'react-redux';
-import { updateOrder } from '../actions';
+import {withStyles} from '@material-ui/core/styles';
+import {connect} from 'react-redux';
+import {updateOrder} from '../actions';
 
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -15,28 +15,28 @@ const styles = theme => ({
   container: {
     width: '900px',
     margin: 'auto',
-    padding: '30px 10px'
+    padding: '30px 10px',
   },
   tittle: {
-    textAlign: 'center'
+    textAlign: 'center',
   },
   bold: {
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
   root: {
     width: '100%',
     marginTop: theme.spacing.unit * 3,
-    overflowX: 'auto'
+    overflowX: 'auto',
   },
   table: {
-    minWidth: 700
-  }
+    minWidth: 700,
+  },
 });
 
 class OrdersList extends React.Component {
   render() {
-      const { classes, orders, updateOrder } = this.props;
-      console.log(orders[0])
+    const {classes, orders, updateOrder} = this.props;
+    console.log(orders[0]);
     return (
       <Paper className={classes.root}>
         <Table className={classes.table}>
@@ -103,14 +103,14 @@ const mapDispatchToProps = dispatch => ({
         }
       }
     };
-  }
+  },
 });
 
 const mapStateToProps = state => ({
-  orders: state.orders
+  orders: state.orders,
 });
 
 export default connect(
   mapStateToProps,
-  mapDispatchToProps
+  mapDispatchToProps,
 )(withStyles(styles)(OrdersList));
