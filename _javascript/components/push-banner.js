@@ -8,22 +8,22 @@ class pushBanner extends React.Component {
     super(props);
     this.state = {
       suscribed: true,
-      ready:false
+      ready: false,
     };
     this.isNotificationSupported =
       typeof window != 'undefined' &&
       ('PushManager' in window && 'serviceWorker' in navigator);
     if (this.isNotificationSupported) {
-      navigator.serviceWorker.ready.then((registration) => {
-        this.setState({ ...this.state, ready:true })
+      navigator.serviceWorker.ready.then(registration => {
+        this.setState({...this.state, ready: true});
         this.pushState().then(isSubscribed => {
-          this.setState({ ...this.state, suscribed: isSubscribed });
+          this.setState({...this.state, suscribed: isSubscribed});
           // show add to home screen only to users that has notifications allowed
           if (isSubscribed) {
             this.addTohome();
           }
         });
-      })
+      });
     }
   }
   urlBase64ToUint8Array(base64String) {
@@ -49,11 +49,11 @@ class pushBanner extends React.Component {
         console.log(choiceResult.outcome);
         if (choiceResult.outcome == 'dismissed') {
           gtag('event', 'addedtoHomeScreen', {
-            value: 'no'
+            value: 'no',
           });
         } else {
           gtag('event', 'addedtoHomeScreen', {
-            value: 'yes'
+            value: 'yes',
           });
         }
       });
@@ -82,34 +82,34 @@ class pushBanner extends React.Component {
           .subscribe({
             userVisibleOnly: true,
             applicationServerKey: this.urlBase64ToUint8Array(
-              'BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4'
-            )
+              'BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4',
+            ),
           })
           .then(subscription => {
             fetch('/api/save-subscription/', {
               method: 'POST',
               headers: {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
               },
-              body: JSON.stringify(subscription)
+              body: JSON.stringify(subscription),
             }).then(() => {
-              this.setState({ ...this.state, suscribed: true });
+              this.setState({...this.state, suscribed: true});
             });
-          })
+          }),
       );
   }
   subscribe() {
     return this.askPermission()
       .then(this.pushSubscribe.bind(this))
-      .then(() => { 
-        console.log(gtag)
+      .then(() => {
+        console.log(gtag);
         gtag('event', 'subscribedToPush', {
-          value: 'yes'
+          value: 'yes',
         });
       })
-      .catch(function (reason) {
+      .catch(function(reason) {
         gtag('event', 'subscribedToPush', {
-          value: 'no'
+          value: 'no',
         });
         console.log('permisions not granted', reason);
       });
@@ -135,7 +135,7 @@ class pushBanner extends React.Component {
       });
   }
   render() {
-    if (this.isNotificationSupported || this.state.ready ) {
+    if (this.isNotificationSupported || this.state.ready) {
       return (
         <div className="bottom-widget">
           <div className="push-widget">
@@ -143,7 +143,7 @@ class pushBanner extends React.Component {
               <div className="push-widget-content">
                 <Phone />
                 <span className="push-widget-text">
-                  No te pierdas nuestro contenido! suscríbete 
+                  No te pierdas nuestro contenido! suscríbete
                 </span>
                 <Switch
                   checked={this.state.suscribed}
@@ -159,7 +159,7 @@ class pushBanner extends React.Component {
     } else {
       return (
         <div className="push-widget">
-            <Social />
+          <Social />
         </div>
       );
     }

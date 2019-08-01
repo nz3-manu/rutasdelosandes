@@ -1,31 +1,30 @@
 import React from 'react';
-import { Link } from 'react-router';
-import { connect } from 'react-redux';
-import { withStyles } from '@material-ui/core/styles';
-import { getProducts } from '../actions';
-
+import {Link} from 'react-router';
+import {connect} from 'react-redux';
+import {withStyles} from '@material-ui/core/styles';
+import {getProducts} from '../actions';
 
 const styles = {
   container: {
-    flexGrow: 1
+    flexGrow: 1,
   },
   products: {
     listStyle: 'none',
-    padding: 0
+    padding: 0,
   },
   '@media (min-width: 768px)': {
     products: {
       display: 'flex',
-      flexWrap: 'wrap'
-    }
+      flexWrap: 'wrap',
+    },
   },
   product: {
     position: 'relative',
-    display: 'block'
+    display: 'block',
   },
   wrapper: {
     flexBasis: '50%',
-    border: 'solid white 2px'
+    border: 'solid white 2px',
   },
   producttitle: {
     position: 'absolute',
@@ -37,25 +36,41 @@ const styles = {
     top: '10%',
     left: '10%',
     zIndex: '2000',
-    color: 'white'
-  }
+    color: 'white',
+  },
 };
 
 class Products extends React.Component {
   constructor(props) {
     super(props);
   }
-  
+
   render() {
-    const { products, classes } = this.props;
+    const {products, classes} = this.props;
     return (
       <div>
         <ul className={classes.products}>
-          {products.length == 0 ? (<div className="loading"><img src="/images/loading.gif" /></div>) : ""}  
+          {products.length == 0 ? (
+            <div className="loading">
+              <img src="/images/loading.gif" />
+            </div>
+          ) : (
+            ''
+          )}
           {products.map((product, key) => (
             <li className={classes.wrapper} key={key}>
-              <Link className={classes.product} to={`/producto/${product.handle}`}>
-                <div className="article" style={{  backgroundImage: 'url('+(product.images.edges.length && product.images.edges[0].node.src)+')' }}>
+              <Link
+                className={classes.product}
+                to={`/producto/${product.handle}`}>
+                <div
+                  className="article"
+                  style={{
+                    backgroundImage:
+                      'url(' +
+                      (product.images.edges.length &&
+                        product.images.edges[0].node.src) +
+                      ')',
+                  }}>
                   <div className="scrim-top" />
                   <div className="scrim-bottom" />
                   <div className={classes.producttitle}>{product.title}</div>
@@ -67,18 +82,21 @@ class Products extends React.Component {
       </div>
     );
   }
-  componentDidMount() { 
+  componentDidMount() {
     this.props.getProducts();
   }
 }
 
 const mapStateToProps = state => ({
-  products: state.products
+  products: state.products,
 });
 const mapDispatchToProps = dispatch => ({
   getProducts: () => {
     dispatch(getProducts());
-  }
-})
+  },
+});
 
-export default connect(mapStateToProps,mapDispatchToProps)(withStyles(styles)(Products));
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps,
+)(withStyles(styles)(Products));
