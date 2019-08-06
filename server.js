@@ -734,7 +734,8 @@ function renderFullPage(
 		<head>
       ${amptag}
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <meta property="fb:pages" content="1078600055607267" />
+                        <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <meta name="google-site-verification" content="NI1CzFN9-ZqzNWWYGfh8a_28Ee4atbyWwDRuS9nwwm4" />
       <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
       <style id="jss-server-side">${customCSS}</style>
