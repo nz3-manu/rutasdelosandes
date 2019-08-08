@@ -71,7 +71,7 @@ webpush.setVapidDetails(
 //server side fetch polifyll
 import routes from "./_javascript/routes";
 import { match, RouterContext } from "react-router";
-import { write, read, push, sendToDevice, update, remove } from "./chatbot/db";
+//import { write, read, push, sendToDevice, update, remove } from "./chatbot/db";
 import { Promise } from "firebase";
 import reducer from "./_javascript/reducers";
 import { createStore } from "redux";
@@ -590,10 +590,10 @@ app.get(`*`, (req, res) => {
   try {
     let ampEquivalent = false;
 
-    if (req.originalUrl.match(/[a-z/].html/)) {
-      ampEquivalent = `${req.protocol}://${req.get("host")}/amp${
-        req.originalUrl
-      }`;
+    if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
+      ampEquivalent = `${req.protocol}://${req.get(
+        "host"
+      )}/amp${req.originalUrl.split("?").shift()}`;
     }
 
     let cartOpen = req.query.cartOpen;
