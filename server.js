@@ -667,7 +667,7 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
         "",
         css,
         ampEquivalent,
-        req.url
+        req.url.split("?").shift()
       );
       if (typeof fullPage != "number") {
         res.send(fullPage);
