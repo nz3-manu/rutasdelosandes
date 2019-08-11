@@ -1,5 +1,6 @@
 ---
 draft: true
+layout: trail
 title:  Nevado del Ruiz
 categories: colombia 
 tags: caldas
@@ -9,7 +10,10 @@ images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
-El volcán el Nevado del Ruiz es uno de los más activos de Colombia, cuenta con una altitud de 5.330 m.s.n.m, es conocido por los locales como el león dormido, pero todo esto cambió en el 3 de noviembre de 1985 que mostró todo su poder y con el afecto a los departamentos de Caldas y Tolima
+El volcán el Nevado del Ruiz  está ubicado el departamento de Caldas, cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud de 5.330 m.s.n.m. Por la importancia a lo largo de su historia ha recibido muchos nombre como: Mesa de Herveo, en la época precolombina, los nativos lo llamaban Tama, que significa “Padre mayor o grande” o Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
+
+Además de su bella es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
+
 
 ## ¿Qué encontrarás 🏞👀?
 
@@ -62,6 +66,12 @@ La otra opción si vas con 3 personas o más es reservar un carro que te brinde 
 
 El ingreso al parque de los nevados es de las 8 am hasta las 2 pm, se recomienda realizar el ingreso temprano, debido a que se debe de asistir a una charla que dura alrededor de 30 minutos.
 
+{% include iframe.html
+    type="custom"
+    mid="12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es"
+    caption="Ruta Manizales,laguna negra, entrada nevado del ruiz y recorrido"
+%}
+
 ## El camino 🚗🚎
 
 
@@ -92,9 +102,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     </section>
     <section>
       <h4>🎟 Entrada parque los nevados </h4>
-      <p> mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos. </p>
-         <p> mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos. </p>
-         <p> Seguro médico y de rescate ⛑: Es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.</p>
+      <p>mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos       extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑: $3.500 pesos.</p>
     </section>
     <section>
       <h4> 🧔Guía $13.000</h4>
@@ -103,6 +111,10 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     <section>
       <h4>🍲 Alimentación: $14.000</h4>
       <p> Los precios cambian dependiendo del lugar. </p>
+    </section>
+        <section>
+      <h4>🛏 Hospedaje</h4>
+      <p> El número de teléfono lo dejaremos anexo a la ruta gps.</p>
     </section>
      <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>

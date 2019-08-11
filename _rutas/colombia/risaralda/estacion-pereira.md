@@ -1,5 +1,6 @@
 ---
 draft: true
+layout: trail
 title:  Estación Pereira
 categories: colombia 
 tags: Risaralda
