@@ -10,9 +10,12 @@ images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
-El volcán el Nevado del Ruiz  está ubicado el departamento de Caldas, cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud de 5.330 m.s.n.m. Por la importancia a lo largo de su historia ha recibido muchos nombre como: Mesa de Herveo, en la época precolombina, los nativos lo llamaban Tama, que significa “Padre mayor o grande” o Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
+El volcán el Nevado del Ruiz  está ubicado el departamento de Caldas cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica con una altitud de aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los andes 🦅y de otras importantes especies.
+Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
+ 
+Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
 
-Además de su bella es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
+Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 
 
 ## ¿Qué encontrarás 🏞👀?
