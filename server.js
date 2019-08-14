@@ -765,8 +765,16 @@ function renderFullPage(
       //facebook pixel events needs to be declared in non amp pages therefore react pages
       <!-- Add Pixel Events to the button's click handler -->
       <script type="text/javascript">
-        var button = document.getElementsByClassName('buy');
-        button.addEventListener(
+        var gtagAction = document.getElementById('gpx');
+        gtagAction.addEventListener('click',function() {
+          gtag('event', 'descargaRutaGpx', {
+            value: 'yes',
+          }); 
+        },
+        false);
+
+        var pixelAction = document.getElementsByClassName('buy');
+        pixelAction.addEventListener(
           'click', 
           function() { 
             fbq('track', 'AddToCart', {
