@@ -33,7 +33,9 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Lo primero que tuvimos que hacer fue llegar a Manizales, una vez allí alquilamos un carro, ya que para esta zona no hay transporte público. 
 
-El alquiler de carro con chofer costó alrededor de $300.000 pesos para un cupo máximo de 6 personas, nos recogió en el terminal de manizales y al finalizar la ruta  nos dejo de nuevo en el terminal, estos costos pueden variar dependiendo de la empresa que consultes y de la temporada.
+El alquiler de carro con chofer costó alrededor de $300.000 pesos para un cupo máximo de 6 personas, recogiéndonos en el terminal de Manizales y al finalizar la ruta  nos dejo de nuevo en el terminal, estos costos pueden variar dependiendo de la empresa que consultes y de la temporada.
+
+__[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
 
 Con cada kilómetro más que recorríamos dejar atrás los edificios 🌆 para empezar a ver los hermosos frailejones 🍃⛰.
 
@@ -46,10 +48,12 @@ Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camin
 
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del nevado del ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).
 
-__Para hospedaje se recomienda realizar la reservación previa__
+__Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.__
 
 
 Después de esta última parada ya era hora de continuar por unos 15 minutos hasta llegar a la entrada del nevado del ruiz 🗻.
+
+⚠️ Dentro del parque no está permitido acampar. 
 
 __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
 <ol>
@@ -57,14 +61,15 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
   Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
   </li> 
   <li>
-    Seguro médico y de rescate ⛑: Es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
+    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
   </li> 
   <li>
   Guia 🧔 :  $13.000 pesos. 
   </li> 
 </ol>
 
-_⚠️Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos para realizar la ruta circular, los carros que brindan el servicio los podrán encontrar en la entrada al parque, estos carros saldrán hasta que llenen el cupo maximo._
+⚠️ _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos para realizar la ruta circular, los carros que brindan el servicio los podrán encontrar en la entrada al parque, estos carros saldrán hasta que llenen el cupo maximo._
+
 La otra opción si vas con 3 personas o más es reservar un carro que te brinde la ruta circular un dia antes, estos se encuentran en sector el arbolito. 
 
 El ingreso al parque de los nevados es de las 8 am hasta las 2 pm, se recomienda realizar el ingreso temprano, debido a que se debe de asistir a una charla que dura alrededor de 30 minutos.
@@ -125,6 +130,8 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     </section>
   </amp-accordion>
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 
 

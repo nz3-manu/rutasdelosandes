@@ -48,20 +48,35 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 ## ¿Cómo llegar 🛣🚌?
 Existen varias formas para llegar a esta hermosa Laguna; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
-La ruta que mostraremos en este post es llegando por Potosí. Lo que hicimos fue 🚙 __contratar un jeep__  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas. Ya que como a este sector no llega el transporte público, se puede llegar:
+La ruta que mostraremos en este post es llegando por Potosí. Ya que como a este sector no llega el transporte público,lo que hicimos fue 🚙 __contratar un jeep__  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
 
-__Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. El trayecto para ir y volver el mismo día cuesta alrededor de $300.000 pesos para máximo 8 personas. Es lo que recomiendan los conductores por el mal estado de la vía.
+__Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. El trayecto para ir y volver el mismo día cuesta alrededor de $350.000  pesos para máximo 8 personas. Es lo que recomiendan los conductores por el mal estado de la vía.
 
 
- __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $300.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
+ __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
+_Los precios varían dependiendo del chofer que contrates._
+
+Estas opciones son recomendables si vas con más de 4 personas, si este no es tu caso no te preocupes 🙂,  te mostraremos algunas opciones para que puedas visitar este lugar. Esta  información la podrás encontrar al final de la ruta.
 
 En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí,faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de hospedaje.
 
+__[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
+
+
 ## El camino 🚶🏼🏔
-Al llegar a la entrada del parque de los Nevados tuvimos que pagar la entrada, el valor de ésta varía dependiendo de: Si eres menor de 25 años ($8.500 pesos), mayor de 25 años($16.000 pesos) y si eres extranjero ($45.000 pesos). Todas las personas tendrán que llenar un registro de entrada y una de la persona del grupo tendrá que hacerse responsable de todos.
+__Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
+<ol>
+  <li>
+  Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
+  </li> 
+  <li>
+    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá. .
+  </li> 
+</ol>
+
 
 {% include iframe.html
     type="custom"
@@ -99,3 +114,5 @@ Laguna del Otún
 
 ## ¿Cómo regresar 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
+
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
