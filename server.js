@@ -129,7 +129,7 @@ function getSubscriptionsFromDatabase() {
       .catch(reject);
   });
 }
-
+//TODO check why the hardcoded url
 app.get("/api/actions/:action/:id", function(req, res) {
   console.log("push action", req.params.action, "push id", req.params.id);
   res.setHeader("Content-Type", "application/json");
@@ -759,11 +759,30 @@ function renderFullPage(
       <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
       /></noscript>
-      <!-- End Facebook Pixel Code -->
-
-			<!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
-			<script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
-		</head>
+      <!-- End Facebook Pixel Code --> 
+                        <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
+                        <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
+      //facebook pixel events needs to be declared in non amp pages therefore react pages
+      <!-- Add Pixel Events to the button's click handler -->
+      <script type="text/javascript">
+        var button = document.getElementsByClassName('buy');
+        button.addEventListener(
+          'click', 
+          function() { 
+            fbq('track', 'AddToCart', {
+              content_name: 'Really Fast Running Shoes', 
+              content_category: 'Apparel & Accessories > Shoes',
+              content_ids: ['1234'],
+              content_type: 'product',
+              value: 4.99,
+              currency: 'USD' 
+            });          
+          },
+          false
+        );
+      </script>
+      //ga events needs to be declared in react as well they only live in amp
+                      </head>
     <body>
     <script type="application/ld+json">
       ${structuredData}
