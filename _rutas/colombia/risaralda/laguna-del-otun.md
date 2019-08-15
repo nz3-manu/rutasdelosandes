@@ -48,20 +48,20 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 ## ¿Cómo llegar 🛣🚌?
 Existen varias formas para llegar a esta hermosa Laguna; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
-La ruta que mostraremos en este post es llegando por Potosí. Ya que como a este sector no llega el transporte público,lo que hicimos fue 🚙 __contratar un jeep__  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
+La ruta que mostraremos en este post es llegando por Potosí. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
 
 __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. El trayecto para ir y volver el mismo día cuesta alrededor de $350.000  pesos para máximo 8 personas. Es lo que recomiendan los conductores por el mal estado de la vía.
 
 
  __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
-_Los precios varían dependiendo del chofer que contrates._
+_Los precios varían dependiendo del chofer que contrates, Al final del documento te dejaremos la información de las empresas que prestan el servicio de transporte._
 
 Estas opciones son recomendables si vas con más de 4 personas, si este no es tu caso no te preocupes 🙂,  te mostraremos algunas opciones para que puedas visitar este lugar. Esta  información la podrás encontrar al final de la ruta.
 
 En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí,faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
 
-Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de hospedaje.
+Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de hospedaje 🛏.
 
 __[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
 
@@ -115,4 +115,38 @@ Laguna del Otún
 ## ¿Cómo regresar 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+
+# Presupuesto de la ruta por persona 🤔💰
+  <amp-accordion animate>
+    <section>
+      <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
+      <p> 
+         Dependerá de la empresa que consultes, podrás ver la información de contacto de algunas empresas de transporte ☎ anexa a la ruta gps, la podrás ver donde dice " ℹ️ Información adicional de la ruta".
+      </p>
+    </section>
+    <section>
+      <h4>🎟 Entrada parque los nevados </h4>
+      <p> mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos       extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑ por día: $3.500 pesos.</p>
+    </section>
+    <section>
+      <h4>🛏 Hospedaje</h4>
+      <p> El camping  en la Laguna del Otún no tiene ningún costo.</p>
+    </section>
+    <section>
+      <h4>🧔 Guia</h4>
+      <p>Podrás consultar la información de los guías en el documento anexado a la ruta, en " ℹ️ Información adicional de la ruta".</p>
+    </section>
+     <section>
+      <h4> 🚌💨🏃‍ Imprevistos</h4>
+      <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
+    </section>
+  </amp-accordion>
+<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+
+
+
+
+

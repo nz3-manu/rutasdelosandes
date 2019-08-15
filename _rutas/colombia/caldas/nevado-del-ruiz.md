@@ -43,6 +43,15 @@ Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un p
 
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra (ver mapa) al frente de esta laguna nos encontramos el restaurante Cumanday en el cual ofrecen; desayunos 🥟☕️ a $7.000 Pesos y almuerzos 🍛a $13.000 pesos.
 
+<amp-instagram
+    data-shortcode="B1MQ7YjpGRh"
+    data-captioned
+    width="481"
+    height="600.8"
+    layout="responsive">
+</amp-instagram>
+
+
 Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camino 🗻, después de algunos minutos  hicimos nuestra última parada en el sector llamado el arbolito. Desde este lugar cuando está despejado se puede ver el gigantesco nevado del ruiz 🏔.
 
 
@@ -77,7 +86,7 @@ El ingreso al parque de los nevados es de las 8 am hasta las 2 pm, se recomienda
 {% include iframe.html
     type="custom"
     mid="12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es"
-    caption="Ruta Manizales,laguna negra, entrada nevado del ruiz y recorrido"
+    caption="Ruta desde Manizales, laguna negra y recorrido nevado del ruiz "
 %}
 
 ## El camino 🚗🚎
@@ -100,12 +109,14 @@ _Recuerda que al ingresar al parque debes encender las luces de tu carro 🚗par
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
       <p> 
-         Dependerá de la empresa que consultes, podrás ver la información de contacto de algunas empresas de transporte ☎ anexa a la ruta gps que dejamos en la parte de abajo.
+         Dependerá de la empresa que consultes, podrás ver la información de contacto de algunas empresas de transporte ☎ anexa a la ruta gps, la podrás ver donde dice " ℹ️ Información adicional de la ruta".
       </p>
     </section>
     <section>
@@ -122,7 +133,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     </section>
         <section>
       <h4>🛏 Hospedaje</h4>
-      <p> El número de teléfono lo dejaremos anexo a la ruta gps.</p>
+      <p> La información necesaria para hacer la reserva, la podrás ver donde dice " ℹ️ Información adicional de la ruta"</p>
     </section>
      <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>
@@ -131,7 +142,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
   </amp-accordion>
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+
 
 
 
