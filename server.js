@@ -129,7 +129,7 @@ function getSubscriptionsFromDatabase() {
       .catch(reject);
   });
 }
-
+//TODO check why the hardcoded url
 app.get("/api/actions/:action/:id", function(req, res) {
   console.log("push action", req.params.action, "push id", req.params.id);
   res.setHeader("Content-Type", "application/json");
@@ -698,12 +698,12 @@ function renderFullPage(
 										navigator.serviceWorker.register('/service-worker.js');
 									}`;
     Analytics = `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
-									<script>
-									window.dataLayer = window.dataLayer || [];
-									function gtag(){dataLayer.push(arguments);}
-									gtag('js', new Date());
-									gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
-								</script>`;
+                  <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
+                  </script>`;
   }
 
   if (ampEquivalent) {
@@ -759,11 +759,39 @@ function renderFullPage(
       <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
       /></noscript>
-      <!-- End Facebook Pixel Code -->
+      <!-- End Facebook Pixel Code --> 
+                        <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
+                        <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
+      //facebook pixel events needs to be declared in non amp pages therefore react pages
+      <!-- Add Pixel Events to the button's click handler -->
+      <script type="text/javascript">
+        var gtagAction = document.getElementById('gpx');
+        gtagAction.addEventListener('click',function() {
+          gtag('event', 'descargaRutaGpx', {
+            'eventCategory': "Rutas",
+            'eventAction': "descargaRutaGpx",
+          }); 
+        },
+        false);
 
-			<!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
-			<script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
-		</head>
+        var pixelAction = document.getElementsByClassName('buy');
+        pixelAction.addEventListener(
+          'click', 
+          function() { 
+            fbq('track', 'AddToCart', {
+              content_name: 'Really Fast Running Shoes', 
+              content_category: 'Apparel & Accessories > Shoes',
+              content_ids: ['1234'],
+              content_type: 'product',
+              value: 4.99,
+              currency: 'USD' 
+            });          
+          },
+          false
+        );
+      </script>
+      //ga events needs to be declared in react as well they only live in amp
+                      </head>
     <body>
     <script type="application/ld+json">
       ${structuredData}
