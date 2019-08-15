@@ -32,7 +32,7 @@ __Recomendación:__ Realizar reservación con previa anticipación, nosotros las
 Al día siguiente tomamos un bus 🚌 con destino hacia Yarumal este pasa al frente del centro comercial victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. El valor del pasaje es aproximadamente $2.300 pesos. Una vez lleguemos a Yarumal podremos ver la entrada a el Sendero Yarumal lugar donde empieza la caminata.
 
 Nosotros hicimos una parada para almorzar antes de iniciar con la caminata. Almorzamos donde Doña Manuela ella vende comida casera muy rica 🍲😋, el almuerzo vale $5.000 pesos, un servicio muy tradicional que ofrece es el de empacar los almuerzos en hojas de plátano. 
-Ella recomienda llamarla con un dia de anticipación para tener los almuerzos listos Teléfono: <a href="tel:3113473438">3113473438</a>. 
+Ella recomienda llamarla con un dia de anticipación para tener los almuerzos listos. Teléfono: <a href="tel:3113473438">3113473438</a>. 
 
 __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí, el valor ya lo hablan directamente con ella.__
 
@@ -78,6 +78,9 @@ __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así
 
  _Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este._
 
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+
+
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
     <section>
@@ -89,8 +92,8 @@ __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así
       <p> En el camino van a encontrar algunas tiendas y restaurantes como lo menciona la ruta</p>
     </section>
     <section>
-      <h4> 🧔Guía $20.000</h4>
-      <p> minimo de personas 5 - máximo de personas por guía 10</p>
+      <h4> 🧔Guía </h4>
+      <p> Podrás consultar la información de los guías en el documento anexado a la ruta, en " ℹ️ Información adicional de la ruta".</p>
     </section>
     <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>
