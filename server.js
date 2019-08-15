@@ -698,12 +698,12 @@ function renderFullPage(
 										navigator.serviceWorker.register('/service-worker.js');
 									}`;
     Analytics = `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
-									<script>
-									window.dataLayer = window.dataLayer || [];
-									function gtag(){dataLayer.push(arguments);}
-									gtag('js', new Date());
-									gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
-								</script>`;
+                  <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
+                  </script>`;
   }
 
   if (ampEquivalent) {
@@ -768,7 +768,8 @@ function renderFullPage(
         var gtagAction = document.getElementById('gpx');
         gtagAction.addEventListener('click',function() {
           gtag('event', 'descargaRutaGpx', {
-            value: 'yes',
+            'eventCategory': "Rutas",
+            'eventAction': "descargaRutaGpx",
           }); 
         },
         false);
