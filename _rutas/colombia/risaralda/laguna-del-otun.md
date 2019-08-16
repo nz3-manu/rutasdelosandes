@@ -73,7 +73,7 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
   Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
   </li> 
   <li>
-    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá. .
+    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
   </li> 
 </ol>
 
