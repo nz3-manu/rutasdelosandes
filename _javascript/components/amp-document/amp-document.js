@@ -1,6 +1,6 @@
-import React from 'react';
-import { withRouter } from 'react-router';
-import PushBanner from '../push-banner';
+import React from "react";
+import { withRouter } from "react-router";
+import PushBanner from "../push-banner";
 
 //import {askPermission, subscribeUserToPush,registerTokenOnServer} from '../../messaging'
 
@@ -21,7 +21,7 @@ class AMPDocument extends React.Component {
      * @private
      */
     this.ampReadyPromise_ = new Promise(resolve => {
-      if (window) { 
+      if (window) {
         (window.AMP = window.AMP || []).push(resolve);
       }
     });
@@ -58,16 +58,17 @@ class AMPDocument extends React.Component {
     this.boundClickListener_ = this.clickListener_.bind(this);
   }
   componentDidMount() {
-    this.container_.addEventListener('click', this.boundClickListener_);
+    this.container_.addEventListener("click", this.boundClickListener_);
 
     this.fetchAndAttachAmpDoc_(this.props.src);
   }
 
   componentWillUnmount() {
-    if (!this.AmpDocClosed){ 
+    if (!this.AmpDocClosed) {
       this.closeShadowAmpDoc_();
     }
-    this.container_ && this.container_.removeEventListener('click', this.boundClickListener_);
+    this.container_ &&
+      this.container_.removeEventListener("click", this.boundClickListener_);
     if (this.xhr_) {
       this.xhr_.abort();
       this.xhr_ = null;
@@ -84,21 +85,31 @@ class AMPDocument extends React.Component {
       return (
         <div>
           <h2>Houston, tenemos problemas</h2>
-          <p>parece que estas sin Conexión a internet&mdash; por favor revisala</p>
+          <p>
+            parece que estas sin Conexión a internet&mdash; por favor revisala
+          </p>
+        </div>
+      );
+    } else {
+      return (
+        <div>
+          {this.state.loading ? (
+            <div className="loading">
+              <img src="/images/loading.gif" />
+            </div>
+          ) : (
+            ""
+          )}
+          <div
+            className={this.state.loading ? "amp-container-hide" : null}
+            ref={ref => (this.container_ = ref)}
+          ></div>
+          <PushBanner />
         </div>
       );
     }
-    else {
-      return (
-        <div>
-          {this.state.loading ? (<div className="loading"><img src="/images/loading.gif" /></div>) : ""}  
-          <div className={this.state.loading ? 'amp-container-hide' : null}  ref={ref => this.container_ = ref}>       
-          </div>
-          <PushBanner/>
-      </div>);
-    }
   }
-    /**
+  /**
    * Hides elements (e.g. banners) that would clash with the app shell.
    * @param {!Document} doc
    * @private
@@ -106,13 +117,13 @@ class AMPDocument extends React.Component {
   hideUnwantedElementsOnDocument_(doc) {
     // Eliminando todos los hijos de un elemento
     var analitycs = doc.getElementById("google-analitycs");
-    if (analitycs) { 
+    if (analitycs) {
       while (analitycs.firstChild) {
         analitycs.removeChild(analitycs.firstChild);
       }
     }
     var categories = doc.getElementById("categories");
-    if (categories) { 
+    if (categories) {
       while (categories.firstChild) {
         categories.removeChild(categories.firstChild);
       }
@@ -125,26 +136,28 @@ class AMPDocument extends React.Component {
    * @param {string} url
    */
   fetchAndAttachAmpDoc_(url) {
-    this.setState({'loading': true});
-    this.fetchDocument_(url).then(doc => {
-      this.hideUnwantedElementsOnDocument_(doc);
-      return this.ampReadyPromise_.then(amp => {
-        // Replace the old shadow root with a new div element.
-        const oldShadowRoot = this.shadowRoot_;
-        this.shadowRoot_ = document.createElement('div');
-        if (oldShadowRoot) {
-          this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
-        } else {
-          this.container_.appendChild(this.shadowRoot_);
-        }
-        // Attach the shadow document to the new shadow root.
-        this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
-        this.setState({'loading': false});
+    this.setState({ loading: true });
+    this.fetchDocument_(url)
+      .then(doc => {
+        this.hideUnwantedElementsOnDocument_(doc);
+        return this.ampReadyPromise_.then(amp => {
+          // Replace the old shadow root with a new div element.
+          const oldShadowRoot = this.shadowRoot_;
+          this.shadowRoot_ = document.createElement("div");
+          if (oldShadowRoot) {
+            this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
+          } else {
+            this.container_.appendChild(this.shadowRoot_);
+          }
+          // Attach the shadow document to the new shadow root.
+          this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
+          this.setState({ loading: false });
+        });
+      })
+      .catch(error => {
+        console.log("error in fetch of the document", error);
+        this.setState({ offline: true });
       });
-    }).catch(error => {
-      console.log("error in fetch of the document",error)
-      this.setState({'offline': true});
-    });
   }
 
   /**
@@ -152,8 +165,8 @@ class AMPDocument extends React.Component {
    * @private
    */
   closeShadowAmpDoc_() {
-    if (this.shadowAmp_ && typeof this.shadowAmp_.close === 'function') {
-       this.shadowAmp_.close();  
+    if (this.shadowAmp_ && typeof this.shadowAmp_.close === "function") {
+      this.shadowAmp_.close();
     }
   }
   /**
@@ -163,12 +176,12 @@ class AMPDocument extends React.Component {
    * @return {!Promise<!Document|!string>} If fetch succeeds, resolved with {!Document}.
    *         Otherwise, rejects with {!string} error description.
    */
-   fetchDocument_(url) {
+  fetchDocument_(url) {
     return new Promise((resolve, reject) => {
       this.xhr_ = new XMLHttpRequest();
-      this.xhr_.open('GET',url, true);
-      this.xhr_.responseType = 'document';
-      this.xhr_.setRequestHeader('Accept', 'text/html');
+      this.xhr_.open("GET", url, true);
+      this.xhr_.responseType = "document";
+      this.xhr_.setRequestHeader("Accept", "text/html");
       this.xhr_.onreadystatechange = () => {
         if (this.xhr_.readyState < /* STATUS_RECEIVED */ 2) {
           return;
@@ -183,15 +196,55 @@ class AMPDocument extends React.Component {
           if (this.xhr_.responseXML) {
             resolve(this.xhr_.responseXML);
           } else {
-            reject(new Error('No xhr.responseXML'));
+            reject(new Error("No xhr.responseXML"));
           }
           this.xhr_ = null;
         }
       };
-      this.xhr_.onerror = () => { reject(new Error('Network failure')); };
-      this.xhr_.onabort = () => { reject(new Error('Request aborted')); };
+      this.xhr_.onerror = () => {
+        reject(new Error("Network failure"));
+      };
+      this.xhr_.onabort = () => {
+        reject(new Error("Request aborted"));
+      };
       this.xhr_.send();
     });
+  }
+  // TODO: using an object for all events data id being the key of the properties, <20-08-19 gabo> //
+  trackEvents(elem) {
+    let GAeventsData = {
+      gpx: {
+        eventName: "descargaRutaGpx",
+        extraParams: {
+          eventCategory: "Rutas",
+          eventAction: "descargaRutaGpx"
+        }
+      }
+    };
+
+    if (Object.keys(GAeventsData).includes(elem.id)) {
+      let GAelementData = GAeventsData[elem.id];
+      gtag("event", GAelementData.eventName, GAelementData.extraParams);
+    }
+
+    let FBeventsData = {
+      buy: {
+        eventName: "AddToCart",
+        extraParams: {
+          content_name: "Really Fast Running Shoes",
+          content_category: "Apparel & Accessories > Shoes",
+          content_ids: ["1234"],
+          content_type: "product",
+          value: 4.99,
+          currency: "USD"
+        }
+      }
+    };
+
+    if (Object.keys(FBeventsData).includes(elem.id)) {
+      let GAelementData = GAeventsData[elem.id];
+      fbq("track", GAelementData.eventName, GAelementData.extraParams);
+    }
   }
 
   /**
@@ -213,7 +266,7 @@ class AMPDocument extends React.Component {
       // See http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/#toc-events
       for (let i = 0; i < e.path.length; i++) {
         const node = e.path[i];
-        if (node.tagName === 'A') {
+        if (node.tagName === "A") {
           a = node;
           break;
         }
@@ -221,13 +274,14 @@ class AMPDocument extends React.Component {
     } else {
       // Polyfill for `path`.
       let node = e.target;
-      while (node && node.tagName !== 'A') {
+      while (node && node.tagName !== "A") {
         node = node.parentNode;
       }
       a = node;
     }
-    if (a && a.href && (a.target != "_blank")) {
+    if (a && a.href && a.target != "_blank") {
       const url = new URL(a.href);
+      this.trackEvents(a);
       if (url.origin === window.location.origin) {
         // Perform router push instead of page navigation.
         e.preventDefault();
