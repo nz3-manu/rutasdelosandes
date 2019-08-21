@@ -57,12 +57,12 @@ Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camin
 
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del nevado del ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).
 
-__Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.__
+__Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad__
 
 
 Después de esta última parada ya era hora de continuar por unos 15 minutos hasta llegar a la entrada del nevado del ruiz 🗻.
 
-⚠️ Dentro del parque no está permitido acampar. 
+⚠️ Dentro del parque no está permitido acampar, ni el ingreso de mascotas 🚫🐶. 
 
 __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
 <ol>
@@ -79,7 +79,7 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
 
 ⚠️ _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos para realizar la ruta circular, los carros que brindan el servicio los podrán encontrar en la entrada al parque, estos carros saldrán hasta que llenen el cupo maximo._
 
-La otra opción si vas con 3 personas o más es reservar un carro que te brinde la ruta circular un dia antes, estos se encuentran en sector el arbolito. 
+La otra opción si vas con 3 personas o más es reservar un carro que te brinde la ruta circular un dia antes. 
 
 El ingreso al parque de los nevados es de las 8 am hasta las 2 pm, se recomienda realizar el ingreso temprano, debido a que se debe de asistir a una charla que dura alrededor de 30 minutos.
 
@@ -109,7 +109,7 @@ _Recuerda que al ingresar al parque debes encender las luces de tu carro 🚗par
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+ℹ️ __Información adicional de la ruta:  click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
