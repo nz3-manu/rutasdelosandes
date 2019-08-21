@@ -97,7 +97,7 @@ De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">aquí</a>__
 
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>

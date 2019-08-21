@@ -119,7 +119,7 @@ Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar 
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">aquí</a>__
 
 # Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
