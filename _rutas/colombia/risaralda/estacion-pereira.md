@@ -7,7 +7,7 @@ tags: Risaralda
 seo_title: ESTACIÓN PEREIRA EN MARSELLA | COMO LLEGAR
 excerpt: Estación Pereira esta ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en 'garrucha' y recorrerá unas antiguas vías de tren montando una 'marranita', ademas podras descubrir una linda cascada después de una caminata corta. La caminata se puede hacer con caninos 🐕, duración del trayecto 1 día.
 images_url: /images/rutas/risaralda/estacion
-viewranger: MTM4MjU4NA==
+viewranger: 
 author: manuel
 ---
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
@@ -24,7 +24,9 @@ Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Ri
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 ## ¿Cómo llegar 🛣🚌 ? 
-Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌 que pasa al frente del centro comercial victoria por la carrera 12. Los horarios de salida son los siguientes: de lunes a domingo en los siguientes horarios 12:30 pm y 4:00 pm y sale uno a las 5:15 am desde turín en la vía Pereira Marsella, el valor por trayecto es de $3.700 pesos, duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
+Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
+
+__Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
 
@@ -65,7 +67,11 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
    height="450"
 %} 
 
-Después de haber cruzado el río Cauca llegamos a la finca la Playita donde cuenta con: zona de camping 🏕 el costo es de $6.000 pesos por carpa, habitaciòn privada 2 personas $26.000 pesos, la finca tiene piscina de agua natural, cuenta con restaurante y con una hermosa vista del río cauca. 
+Después de haber cruzado el río Cauca llegamos a la finca a una finca que presta los servicios de: zona de camping 🏕, habitaciòn 🛌, desayuno 🥟, almuerzo 🍛, es aconsejable realizar la reserva previa.
+
+Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya que en invierno se podrán encontrar con que no hay entrada y tendrán que regresar.
+
+__[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
 
 ## El camino 🚶🏽🐕
 
@@ -91,23 +97,21 @@ De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">aquí</a>__
+
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Total: $10.000</h4>
-      <p> Pereira-EstaciónPereira; $3.700,
+      <p> Pereira-EstaciónPereira; $3.800,
           Marranita: $2.000,
           Garrucha: $1.000. 
           Total solo un trayecto: 4.900.
           </p>
     </section>
     <section>
-      <h4> 🧔Guía $20.000</h4>
-      <p> minimo de personas 5 - máximo de personas por guía 10</p>
-    </section>
-    <section>
-      <h4>🍲 Alimentación: $12.000</h4>
-      <p> Los precios cambian dependiendo del lugar. </p>
+      <h4>🍲 Alimentación</h4>
+      <p> Los precios cambian dependiendo del lugar, estos los dejaremos en la información anexa </p>
     </section>
      <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>

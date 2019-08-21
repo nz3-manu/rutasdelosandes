@@ -24,12 +24,12 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
     delay="2000">
 
     {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider1.jpg" 
+        file="rutas/risaralda/lagunadelotun/slider1.JPG" 
         height="674" 
         width="980"
     %} 
      {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider2.JPG" 
+        file="rutas/risaralda/lagunadelotun/slider2.jpg" 
         height="800" 
         width="1164"
     %} 
@@ -38,11 +38,6 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
         height="800" 
         width="1164"
     %} 
-         {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider4.jpg" 
-        height="800" 
-        width="1200"
-    %}
 </amp-carousel>
 
 ## ¿Cómo llegar 🛣🚌?
@@ -56,24 +51,31 @@ __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para lleg
  __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
 _Los precios varían dependiendo del chofer que contrates, Al final del documento te dejaremos la información de las empresas que prestan el servicio de transporte._
 
-Estas opciones son recomendables si vas con más de 4 personas, si este no es tu caso no te preocupes 🙂,  te mostraremos algunas opciones para que puedas visitar este lugar. Esta  información la podrás encontrar al final de la ruta.
+Estas opciones son recomendables si vas con más de 4 personas.
+
+__Si piensas ir con un operador turistico, asegurate que sea autorizado por PNN Los Nevados. En la información anexa te dejaremos algunos teléfonos de estos operadores.__
 
 En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí,faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
 
-Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de hospedaje 🛏.
+Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de: Hospedaje 🛏 $12.000 pesos, desayunos 🥟 $8.000 pesos y almuerzos $12.000 pesos. 
+__Solo se presta estos servicios con reserva, aconsejable hacerlo con 3 días de anticipación.__
 
-__[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
+En este lugar también podrás encontrar servicio de parqueadero 🅿️: moto 🏍 $5.000 pesos por dia  y carro 🚙 $10.000 pesos.
+
+__[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje, transporte, operadores turísticos autorizados por PNN Los Nevados y además descargar la traza gps, etc. al final de la ruta]__
 
 
 ## El camino 🚶🏼🏔
+⚠️ Recuerda que está prohibido el ingreso de mascotas 🚫🐶.
+
 __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
 <ol>
   <li>
   Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
   </li> 
   <li>
-    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá. .
+    Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
   </li> 
 </ol>
 
@@ -117,7 +119,7 @@ Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar 
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">aquí</a>__
 
 # Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>
@@ -137,7 +139,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     </section>
     <section>
       <h4>🧔 Guia</h4>
-      <p>Podrás consultar la información de los guías en el documento anexado a la ruta, en " ℹ️ Información adicional de la ruta".</p>
+      <p>Si vas con una agencia asegurate que sean con operadores turísticos autorizados por PNN Los Nevados, en la información anexa te dejaremos algunos teléfonos de estos operadores.</p>
     </section>
      <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>
