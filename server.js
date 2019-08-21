@@ -762,35 +762,6 @@ function renderFullPage(
       <!-- End Facebook Pixel Code --> 
                         <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
                         <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
-      //facebook pixel events needs to be declared in non amp pages therefore react pages
-      <!-- Add Pixel Events to the button's click handler -->
-      <script type="text/javascript">
-        var gtagAction = document.getElementById('gpx');
-        gtagAction.addEventListener('click',function() {
-          gtag('event', 'descargaRutaGpx', {
-            'eventCategory': "Rutas",
-            'eventAction': "descargaRutaGpx",
-          }); 
-        },
-        false);
-
-        var pixelAction = document.getElementsByClassName('buy');
-        pixelAction.addEventListener(
-          'click', 
-          function() { 
-            fbq('track', 'AddToCart', {
-              content_name: 'Really Fast Running Shoes', 
-              content_category: 'Apparel & Accessories > Shoes',
-              content_ids: ['1234'],
-              content_type: 'product',
-              value: 4.99,
-              currency: 'USD' 
-            });          
-          },
-          false
-        );
-      </script>
-      //ga events needs to be declared in react as well they only live in amp
                       </head>
     <body>
     <script type="application/ld+json">

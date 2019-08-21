@@ -1,26 +1,26 @@
-import * as Sentry from '@sentry/browser';
-import React from 'react';
-import ReactDOM from 'react-dom';
-import routes from './routes';
-import {Router, browserHistory} from 'react-router';
-import reducer from './reducers';
-import {Provider} from 'react-redux';
-import {createStore, applyMiddleware} from 'redux';
-import ReduxThunk from 'redux-thunk';
-import {MuiThemeProvider, createMuiTheme} from '@material-ui/core/styles';
+import * as Sentry from "@sentry/browser";
+import React from "react";
+import ReactDOM from "react-dom";
+import routes from "./routes";
+import { Router, browserHistory } from "react-router";
+import reducer from "./reducers";
+import { Provider } from "react-redux";
+import { createStore, applyMiddleware } from "redux";
+import ReduxThunk from "redux-thunk";
+import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
 
 // Create a theme instance.
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: '#212121',
-      contrastText: '#fff',
+      main: "#212121",
+      contrastText: "#fff"
     },
     secondary: {
-      main: '#FAFAFA',
-      contrastText: '#000',
-    },
-  },
+      main: "#FAFAFA",
+      contrastText: "#000"
+    }
+  }
 });
 
 // Grab the state from a global variable injected into the server-generated HTML
@@ -32,13 +32,13 @@ delete window.__preloaded__;
 const store = createStore(reducer, preloadedState, applyMiddleware(ReduxThunk));
 
 Sentry.init({
-  dsn: 'https://55b714e61c0847f8ac639fa047c77fa9@sentry.io/214818',
+  dsn: "https://55b714e61c0847f8ac639fa047c77fa9@sentry.io/214818",
   integrations: integrations => {
     // integrations will be all default integrations
     return integrations.filter(
-      integration => integration.name !== 'Breadcrumbs',
+      integration => integration.name !== "Breadcrumbs"
     );
-  },
+  }
 });
 
 ReactDOM.hydrate(
@@ -47,20 +47,24 @@ ReactDOM.hydrate(
       <Router
         routes={routes}
         onUpdate={() => window.scrollTo(0, 0)}
-        history={browserHistory}></Router>
+        history={browserHistory}
+      ></Router>
     </Provider>
   </MuiThemeProvider>,
-  document.getElementById('root'),
+  document.getElementById("root")
 );
 
 browserHistory.listen(location => {
-  console.log('page view', location.pathname);
+  console.log("page view", location.pathname);
   if (window.gtag) {
-    gtag('config', 'UA-100391485-2', {page_path: location.pathname});
+    gtag("config", "UA-100391485-2", { page_path: location.pathname });
+  }
+  if (window.fbq) {
+    fbq("track", "PageView");
   }
 });
 
-window.addEventListener('beforeinstallprompt', function(e) {
+window.addEventListener("beforeinstallprompt", function(e) {
   e.preventDefault();
   // Stash the event so it can be triggered later.
   window.deferredPrompt = e;
