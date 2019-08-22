@@ -56,6 +56,8 @@ Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camin
 
 
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del nevado del ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).
+ Telefono: <a href="tel:3218473144">
+3218473144 </a>
 
 __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad__
 
