@@ -210,7 +210,6 @@ class AMPDocument extends React.Component {
       this.xhr_.send();
     });
   }
-  // TODO: using an object for all events data id being the key of the properties, <20-08-19 gabo> //
   trackEvents(elem) {
     let GAeventsData = {
       gpx: {
@@ -219,10 +218,31 @@ class AMPDocument extends React.Component {
           eventCategory: "Rutas",
           eventAction: "descargaRutaGpx"
         }
+      },
+      android: {
+        eventName: "descargaAppAndroid",
+        extraParams: {
+          eventCategory: "Rutas",
+          eventAction: "descargaAppAndroid"
+        }
+      },
+      ios: {
+        eventName: "descargaAppIos",
+        extraParams: {
+          eventCategory: "Rutas",
+          eventAction: "descargaAppIos"
+        }
+      },
+      viewranger: {
+        eventName: "clickRutaOnline",
+        extraParams: {
+          eventCategory: "Rutas",
+          eventAction: "clickRutaOnline"
+        }
       }
     };
 
-    if (Object.keys(GAeventsData).includes(elem.id)) {
+    if (gtag && Object.keys(GAeventsData).includes(elem.id)) {
       let GAelementData = GAeventsData[elem.id];
       gtag("event", GAelementData.eventName, GAelementData.extraParams);
     }
@@ -241,7 +261,7 @@ class AMPDocument extends React.Component {
       }
     };
 
-    if (Object.keys(FBeventsData).includes(elem.id)) {
+    if (fbq && Object.keys(FBeventsData).includes(elem.id)) {
       let GAelementData = GAeventsData[elem.id];
       fbq("track", GAelementData.eventName, GAelementData.extraParams);
     }
