@@ -56,13 +56,15 @@ Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camin
 
 
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del nevado del ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).
+ Telefono: <a href="tel:3218473144">
+3218473144 </a>
 
 __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad__
 
 
 Después de esta última parada ya era hora de continuar por unos 15 minutos hasta llegar a la entrada del nevado del ruiz 🗻.
 
-⚠️ Dentro del parque no está permitido acampar, ni el ingreso de mascotas 🚫🐶. 
+⚠️ __Dentro del parque no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.__
 
 __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
 <ol>
@@ -96,7 +98,7 @@ El ingreso al parque de los nevados es de las 8 am hasta las 2 pm, se recomienda
 
 El recorrido tiene una dura aproximada de 3 horas, algunas paradas que realizamos fueron las siguientes: 
 
-__Sector de Aguaserales:__ Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación de se encuentra en la montaña.
+__Sector de Aguaserales:__ Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
 
 
 __Sector de Arenales:__ En este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
