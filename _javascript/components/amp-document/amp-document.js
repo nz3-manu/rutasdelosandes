@@ -210,7 +210,7 @@ class AMPDocument extends React.Component {
       this.xhr_.send();
     });
   }
-  rackEvents(elem) {
+  trackEvents(elem) {
     let GAeventsData = {
       gpx: {
         eventName: "descargaRutaGpx",
