@@ -242,9 +242,9 @@ class AMPDocument extends React.Component {
       }
     };
 
-    if (gtag && Object.keys(GAeventsData).includes(elem.id)) {
+    if (window.gtag && Object.keys(GAeventsData).includes(elem.id)) {
       let GAelementData = GAeventsData[elem.id];
-      gtag("event", GAelementData.eventName, GAelementData.extraParams);
+      window.gtag("event", GAelementData.eventName, GAelementData.extraParams);
     }
 
     let FBeventsData = {
@@ -261,9 +261,9 @@ class AMPDocument extends React.Component {
       }
     };
 
-    if (fbq && Object.keys(FBeventsData).includes(elem.id)) {
-      let GAelementData = GAeventsData[elem.id];
-      fbq("track", GAelementData.eventName, GAelementData.extraParams);
+    if (window.fbq && Object.keys(FBeventsData).includes(elem.id)) {
+      let FBelementData = FBeventsData[elem.id];
+      window.fbq("track", FBelementData.eventName, FBelementData.extraParams);
     }
   }
 
