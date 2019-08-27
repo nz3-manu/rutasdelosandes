@@ -58,9 +58,13 @@ class Products extends React.Component {
             ""
           )}
           {products
-            .filter(
-              product => typeof product.collections.edges[0] != "undefined"
-            )
+            .filter(product => {
+              let collectionsArray = product.collections.edges[0];
+              return (
+                typeof collectionsArray != "undefined" &&
+                collectionsArray.node.handle == "frontpage"
+              );
+            })
             .map((product, key) => (
               <li className={classes.wrapper} key={key}>
                 <Link
