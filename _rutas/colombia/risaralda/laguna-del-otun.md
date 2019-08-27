@@ -82,7 +82,7 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
 
 {% include iframe.html
     type="custom"
-    mid="1q5mqnDLUUr30t6uZEIlKO_O4nzI9SI0Y&hl=es"
+    mid="1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es"
     caption="Ruta entrada a Potosí hasta Laguna del Otún"
 %}
 
