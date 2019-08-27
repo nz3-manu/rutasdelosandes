@@ -1,43 +1,43 @@
-import React from 'react';
-import {Link} from 'react-router';
-import {connect} from 'react-redux';
-import {withStyles} from '@material-ui/core/styles';
-import {getProducts} from '../actions';
+import React from "react";
+import { Link } from "react-router";
+import { connect } from "react-redux";
+import { withStyles } from "@material-ui/core/styles";
+import { getProducts } from "../actions";
 
 const styles = {
   container: {
-    flexGrow: 1,
+    flexGrow: 1
   },
   products: {
-    listStyle: 'none',
-    padding: 0,
+    listStyle: "none",
+    padding: 0
   },
-  '@media (min-width: 768px)': {
+  "@media (min-width: 768px)": {
     products: {
-      display: 'flex',
-      flexWrap: 'wrap',
-    },
+      display: "flex",
+      flexWrap: "wrap"
+    }
   },
   product: {
-    position: 'relative',
-    display: 'block',
+    position: "relative",
+    display: "block"
   },
   wrapper: {
-    flexBasis: '50%',
-    border: 'solid white 2px',
+    flexBasis: "50%",
+    border: "solid white 2px"
   },
   producttitle: {
-    position: 'absolute',
+    position: "absolute",
     top: 0,
-    textAlign: 'center',
-    fontFamily: 'monospace',
-    fontSize: '25px',
-    fontWeight: 'bold',
-    top: '10%',
-    left: '10%',
-    zIndex: '2000',
-    color: 'white',
-  },
+    textAlign: "center",
+    fontFamily: "monospace",
+    fontSize: "25px",
+    fontWeight: "bold",
+    top: "10%",
+    left: "10%",
+    zIndex: "2000",
+    color: "white"
+  }
 };
 
 class Products extends React.Component {
@@ -46,7 +46,7 @@ class Products extends React.Component {
   }
 
   render() {
-    const {products, classes} = this.props;
+    const { products, classes } = this.props;
     return (
       <div>
         <ul className={classes.products}>
@@ -55,29 +55,35 @@ class Products extends React.Component {
               <img src="/images/loading.gif" />
             </div>
           ) : (
-            ''
+            ""
           )}
-          {products.map((product, key) => (
-            <li className={classes.wrapper} key={key}>
-              <Link
-                className={classes.product}
-                to={`/producto/${product.handle}`}>
-                <div
-                  className="article"
-                  style={{
-                    backgroundImage:
-                      'url(' +
-                      (product.images.edges.length &&
-                        product.images.edges[0].node.src) +
-                      ')',
-                  }}>
-                  <div className="scrim-top" />
-                  <div className="scrim-bottom" />
-                  <div className={classes.producttitle}>{product.title}</div>
-                </div>
-              </Link>
-            </li>
-          ))}
+          {products
+            .filter(
+              product => typeof product.collections.edges[0] != "undefined"
+            )
+            .map((product, key) => (
+              <li className={classes.wrapper} key={key}>
+                <Link
+                  className={classes.product}
+                  to={`/producto/${product.handle}`}
+                >
+                  <div
+                    className="article"
+                    style={{
+                      backgroundImage:
+                        "url(" +
+                        (product.images.edges.length &&
+                          product.images.edges[0].node.src) +
+                        ")"
+                    }}
+                  >
+                    <div className="scrim-top" />
+                    <div className="scrim-bottom" />
+                    <div className={classes.producttitle}>{product.title}</div>
+                  </div>
+                </Link>
+              </li>
+            ))}
         </ul>
       </div>
     );
@@ -88,15 +94,15 @@ class Products extends React.Component {
 }
 
 const mapStateToProps = state => ({
-  products: state.products,
+  products: state.products
 });
 const mapDispatchToProps = dispatch => ({
   getProducts: () => {
     dispatch(getProducts());
-  },
+  }
 });
 
 export default connect(
   mapStateToProps,
-  mapDispatchToProps,
+  mapDispatchToProps
 )(withStyles(styles)(Products));
