@@ -21,10 +21,10 @@ Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 ## ¿Qué encontrarás 🏞👀?
 
 {% include youtube.html
-    videoid="xrC-xdoVF8o"
+    videoid="liWin1bkpMY"
     width="480"
     height="270"
-    caption="Estacion Pereira"
+    caption="Nevado del Ruiz"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
