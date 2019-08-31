@@ -21,7 +21,7 @@ Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 ## ¿Qué encontrarás 🏞👀?
 
 {% include youtube.html
-    videoid="liWin1bkpMY"
+    videoid="1fVmDl0oiFE"
     width="480"
     height="270"
     caption="Nevado del Ruiz"
