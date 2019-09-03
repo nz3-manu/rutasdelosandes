@@ -37,7 +37,7 @@ El alquiler de carro con conductor costó alrededor de $300.000 pesos para un cu
 
 __[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
 
-Con cada kilómetro que avanzabamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
+Con cada kilómetro que avanzábamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
 
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶. 
 
@@ -77,13 +77,13 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
   </li> 
 </ol>
 
-⚠️ __Ya que el Nevado del Ruiz se encuentra en alerta amarilla solo se permite hacer el recorrido dentro del parque en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las persona.__
+⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla solo se permite hacer el recorrido dentro del parque en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
 
  _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al parque, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._ 
 
-los carros que brindan el servicio los podrán encontrar en la entrada al parque, estos carros saldrán hasta que llenen el cupo maximo.
+los carros que brindan el servicio los podrán encontrar en la entrada al parque. Estos carros saldrán hasta que llenen el cupo máximo.
 
-El ingreso al parque es desde 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
+El ingreso al parque es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
 
 {% include iframe.html
     type="custom"
@@ -94,20 +94,18 @@ El ingreso al parque es desde 8 am hasta las 2 pm. Se recomienda realizar el ing
 ## El camino 🚗🚎
 
 
-El recorrido tiene una dura aproximada de 3 horas, algunas paradas que realizamos fueron las siguientes: 
+El recorrido tiene una duración aproximadamente de 3 horas, algunas paradas que realizamos fueron las siguientes: 
 
-__Sector de Aguaserales:__ Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
-
-
-__Sector de Arenales:__ En este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
-
-__Sector de tumbas:__ Por motivos de prevención este es el último lugar que visitamos, en este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
+__Sector de Aguaserales:__ tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
 
 
-_Recuerda que al ingresar al parque debes encender las luces de tu carro 🚗._
+__Sector de Arenales:__ en este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
+
+__Sector de tumbas:__ también llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indigenas que habitaban las zonas bajas.
+En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este.__
 
 ℹ️ __Información adicional de la ruta:  click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
