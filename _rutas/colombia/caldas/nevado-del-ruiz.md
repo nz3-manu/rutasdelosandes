@@ -75,7 +75,7 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
   </li> 
 </ol>
 
-⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla solo se permite hacer el recorrido dentro del parque en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
+⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del parque en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
 
  _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al parque, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._ 
 
