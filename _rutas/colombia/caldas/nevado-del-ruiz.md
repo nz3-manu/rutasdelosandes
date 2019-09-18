@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Nevado del Ruiz
 categories: colombia 
@@ -35,7 +34,6 @@ Lo primero que tuvimos que hacer fue llegar a Manizales, una vez allí alquilamo
 
 El alquiler de carro con conductor costó alrededor de $300.000 pesos para un cupo máximo de 6 personas, recogiéndonos en el terminal de Manizales y al finalizar la ruta  nos dejo de nuevo en el terminal, estos costos pueden variar dependiendo de la empresa que consultes y de la temporada.
 
-__[Podrás ver toda la información  adicional como:  Teléfonos, Hospedaje, transporte, agencias, traza gps, etc. al final de la ruta]__
 
 Con cada kilómetro que avanzábamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
 
@@ -55,7 +53,7 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino 🗻. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz 🏔.
 
 
-En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).
+En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).  __Teléfono:<a href="tel: 3218473144"> 3218473144</a>__
 
 __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.__
 
