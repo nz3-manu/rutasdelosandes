@@ -33,7 +33,7 @@ class About extends React.Component {
         <div className={classes.container}>
           <h2 className={classes.tittle}> Nuestros productos </h2>
           <p>
-          Todos nuestros productos son hechos con la mejor calidad y tecnología disponibles en el mercado y han sido probados en las condiciones más difíciles  por nuestro equipo.
+          Todos nuestros productos son hechos con la mejor calidad y tecnología disponibles en el mercado, han sido probados en las condiciones más difíciles  por nuestro equipo.
           </p>
           <h2 className={classes.tittle}> Contactanos </h2>
           <p>

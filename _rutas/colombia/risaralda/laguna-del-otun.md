@@ -55,10 +55,12 @@ Estas opciones son recomendables si vas con más de 4 personas.
 
 __Si piensas ir con un operador turistico, asegurate que sea autorizado por PNN Los Nevados. En la información anexa te dejaremos algunos teléfonos de estos operadores.__
 
-En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí,faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
+En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí, faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de: Hospedaje 🛏 $12.000 pesos, desayunos 🥟 $8.000 pesos y almuerzos $12.000 pesos. 
+<a href="tel:3166397610">3166397610</a>. 
+
 __Solo se presta estos servicios con reserva, aconsejable hacerlo con 3 días de anticipación.__
 
 En este lugar también podrás encontrar servicio de parqueadero 🅿️: moto 🏍 $5.000 pesos por dia  y carro 🚙 $10.000 pesos.
@@ -85,7 +87,7 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
     caption="Ruta entrada a Potosí hasta Laguna del Otún"
 %}
 
-Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 4 horas caminando, el camino esta en muy buen estado y algunas veces los guardaparques suben en el carro verificando que todo ande bien.
+Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando.
 
 Foto desde la asomadera o mirador de Potosí.
 <amp-instagram
@@ -96,7 +98,7 @@ Foto desde la asomadera o mirador de Potosí.
     layout="responsive">
 </amp-instagram>
 
-Desde la asomadera hasta la casa del guardabosques que es el lugar en que se encuentra la zona de camping ⛺️ son aproximadamente 3 horas, el camino continúa por carretera bordeando la laguna del otún. Cada vez que nos acerquemos a la laguna del otún el camino comienza a volver más angosto. Si no conoces bien el camino será muy fácil que te pierdas! :(.
+Desde la asomadera hasta la casa del guardabosques que es el lugar en que se encuentra la zona de camping ⛺️ son aproximadamente 2 horas, el camino continúa por carretera bordeando la laguna del otún. Cada vez que nos acerquemos a la laguna del otún el camino comienza a volver más angosto. Si no conoces bien el camino será muy fácil que te pierdas! :(.
 
 En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰
 
@@ -113,10 +115,24 @@ Laguna del Otún
     layout="responsive">
 </amp-instagram>
 
+Al día siguiente nos levantamos temprano para ir a conocer un lugar que nos habían recomendado muchas personas la “La laguna del Silencio”, en el trayecto pudimos observar los hermosos paisajes de frailejones enmarcados con la vista al fondo del paramillo de Santa Rosa 🗻. Después de 2 horas por fin llegamos a nuestro destino final.  
+
+{% include image.html
+file="rutas/risaralda/lagunadelotun/silencio.JPG"
+caption="Laguna del Silencio"
+width="1800"
+height="1350"
+%}
+
+Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa laguna 🧘‍♂️, regresamos a la zona de Camping de la Laguna del Otún donde  nos quedamos el resto del día para descansar un poco.
+Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y regresar de nuevo a casa :).
+
+
 ## ¿Cómo regresar 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+
 
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">aquí</a>__
 
