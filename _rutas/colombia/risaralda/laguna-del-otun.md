@@ -63,7 +63,6 @@ __Solo se presta estos servicios con reserva, aconsejable hacerlo con 3 días de
 
 En este lugar también podrás encontrar servicio de parqueadero 🅿️: moto 🏍 $5.000 pesos por dia  y carro 🚙 $10.000 pesos.
 
-__[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje, transporte, operadores turísticos autorizados por PNN Los Nevados y además descargar la traza gps, etc. al final de la ruta]__
 
 
 ## El camino 🚶🏼🏔
