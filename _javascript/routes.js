@@ -11,7 +11,6 @@ import Politicas from "./components/politicas";
 import Blog from "./components/blog";
 import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
-import contactUs from "./components/contact-us";
 import OrderList from "./components/orderlist";
 
 /**
@@ -37,7 +36,6 @@ export default (
     <Route path="/tienda" component={Products} />
     <Route path="/contacto" component={About} />
     <Route path="/politicas" component={Politicas} />
-    <Route path="/contactenos" component={contactUs} />
     <Route path="/confirmation" component={Confirmation} />
     <Route path="/orderslist" component={OrderList} />
     <Route
