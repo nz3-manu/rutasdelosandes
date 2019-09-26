@@ -48,11 +48,13 @@ collections:
     permalink: /amp/:path:output_ext
 
 menu_pages:
+  - display: Tienda
+    url: /tienda
   - display: Rutas
     url: /
   - display: Blog
     url: /blog
-  - display: Acerca de nosotros
-    url: /acerca
+  - display: Contacto
+    url: /contacto
 
 

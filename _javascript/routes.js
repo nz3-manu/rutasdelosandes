@@ -35,7 +35,7 @@ export default (
     <Route path="/regiones" component={Regions} />
     <Route path="/blog" component={Blog} />
     <Route path="/tienda" component={Products} />
-    <Route path="/acerca" component={About} />
+    <Route path="/contacto" component={About} />
     <Route path="/politicas" component={Politicas} />
     <Route path="/contactenos" component={contactUs} />
     <Route path="/confirmation" component={Confirmation} />
