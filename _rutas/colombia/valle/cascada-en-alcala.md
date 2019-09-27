@@ -58,6 +58,6 @@ Después de una corta y agradable caminata llegamos por fin a nuestro destino
 
 Para regresar se toma el mismo trayecto que utilizamos para llegar, teniendo en cuenta que los últimos buses para pereira salen hasta las 7:20 pm. Estos horarios pueden variar dependiendo del día.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 

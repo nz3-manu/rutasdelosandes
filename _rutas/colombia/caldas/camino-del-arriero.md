@@ -93,4 +93,4 @@ Por fin de una dura caminata nos encontraremos con esta hermosa cascada.
 Tomamos el mismo camino por el que llegamos, tener mucho cuidado con los perros que hay en algunas fincas, el jeep de regreso para manizales se toma en el puente que cruzamos para la vereda el guineo. los fines de semana solo hay transporte hasta las 4 pm (estos horarios varían dependiendo de  la cantidad que viaje para esta región), el pasaje hasta manizales vale $5.000 pesos.
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
