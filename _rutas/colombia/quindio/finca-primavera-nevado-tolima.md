@@ -119,4 +119,4 @@ __Recomendación:__ No ir en épocas de lluvia ya que el ascenso sería difícil
 ## ¿Cómo regresar 🚌🏡?
 Para regresar se debe tomar el mismo camino, hay otras formas de llegar las cuales no se muestran ya que de no conocer bien el camino podríamos dañar el ecosistema.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

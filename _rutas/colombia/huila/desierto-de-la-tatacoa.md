@@ -198,8 +198,7 @@ Para ir a los Termales naturales se tienen que informar con la persona que traba
 ## ¿Cómo regresar 🚌🏡?
 Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
-
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 
 

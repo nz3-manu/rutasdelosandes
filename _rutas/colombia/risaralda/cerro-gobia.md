@@ -98,7 +98,8 @@ Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo 
    width="800"
    height="482"
 %} 
+
 ## ¿Cómo regresar 🚌🏡?
 Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Gobia sin preocupaciones.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

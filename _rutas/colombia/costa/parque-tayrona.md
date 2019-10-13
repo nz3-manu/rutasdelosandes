@@ -111,5 +111,5 @@ Una vez de haber visto las hermosas playas, pasar por bosques y ver el hermoso p
 ## ¿Cómo regresar 🚌🏡?
 Para regresar solo es necesario tomar los buses que pasan en la vía principal en dirección Santa Marta.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 

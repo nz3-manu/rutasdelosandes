@@ -15,30 +15,15 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
  La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y ahora es de vital importancia ya que alimenta el Río Otún, el cual abastece a la ciudad de Pereira.
 ## ¿Qué encontrarás 🏞👀?
 
-<amp-carousel 
-    width="800"
-    height="600"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
+{% include youtube.html
+    videoid="2Nt7mrwUT80"
+    width="480"
+    height="270"
+    caption="Laguna del Otún"
+%}
 
-    {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider1.JPG" 
-        height="674" 
-        width="980"
-    %} 
-     {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider2.jpg" 
-        height="800" 
-        width="1164"
-    %} 
-     {% include image.html 
-        file="rutas/risaralda/lagunadelotun/slider3.JPG" 
-        height="800" 
-        width="1164"
-    %} 
-</amp-carousel>
+Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
 
 ## ¿Cómo llegar 🛣🚌?
 Existen varias formas para llegar a esta hermosa Laguna; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.

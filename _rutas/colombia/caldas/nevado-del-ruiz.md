@@ -103,7 +103,7 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este.__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ℹ️ __Información adicional de la ruta:  click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
