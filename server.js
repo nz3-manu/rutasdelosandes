@@ -48,12 +48,12 @@ app.use(function onError(err, req, res, next) {
   // and optionally displayed to the user for support.
   res.statusCode = 500;
   res.end(res.sentry + "\n");
-});
+}); 
+
+app.get("/image/:name/thanks.jpg", main);
 
 app.set("views", "./views");
 app.set("view engine", "ejs");
-
-app.get("/image/:name/thanks.jpg", main);
 
 require("es6-promise").polyfill();
 require("isomorphic-fetch");
@@ -74,7 +74,14 @@ webpush.setVapidDetails(
 //server side fetch polifyll
 import routes from "./_javascript/routes";
 import { match, RouterContext } from "react-router";
-//import {write, read, push, sendToDevice, update, remove} from "./chatbot/db";
+import {
+  read,
+  write,
+  push,
+  sendToDevice,
+  update,
+  remove
+} from "./chatbot/db";
 import { Promise } from "firebase";
 import reducer from "./_javascript/reducers";
 import { createStore } from "redux";
@@ -117,6 +124,7 @@ function ensureSecure(req, res, next) {
     res.redirect(301, `https://${req.hostname}${req.url}`);
   }
 }
+
 
 //Push notifications actions
 function getSubscriptionsFromDatabase() {
@@ -169,21 +177,20 @@ app.post("/product-notify", upload.fields([]), function(req, res) {
 app.post("/api/trigger-push-msg/", function(req, res) {
   if (req.body.secret == "luna") {
     /*
-		be ready for actions
-		
-		let actions = { 
-			actions: [
-				{
-					action: 'buy',
-					title: 'comprar',
-					icon: '/images/demos/action-1-128x128.png'
-				},
-				{
-					action: 'dissmiss',
-					title: 'ignorar',
-					icon: '/images/demos/action-2-128x128.png'
-				}
-			]
+    be ready for actions
+    let actions = {
+            actions: [
+                    {
+                            action: 'buy',
+                            title: 'comprar',
+                            icon: '/images/demos/action-1-128x128.png'
+                    },
+                    {
+                            action: 'dissmiss',
+                            title: 'ignorar',
+                            icon: '/images/demos/action-2-128x128.png'
+                    }
+            ]
     } */
 
     let actions = {};
@@ -258,7 +265,8 @@ const triggerPushMsg = function(subscriptionRow, dataToSend) {
     });
 };
 
-app.get("/notify", function (res) {
+
+app.get("/notify", function (req, res) {
   getSubscriptionsFromDatabase()
     .then(function (subscriptionsRows) {
       res.render("push", {
