@@ -167,7 +167,6 @@ const shopNameAndProductsPromise = client
   `
   )
   .then(result => {
-    console.log(result,"result in shop and products")
     return result;
   })
   .catch(e => {

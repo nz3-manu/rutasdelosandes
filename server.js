@@ -50,6 +50,9 @@ app.use(function onError(err, req, res, next) {
   res.end(res.sentry + "\n");
 });
 
+app.set("views", "./views");
+app.set("view engine", "ejs");
+
 app.get("/image/:name/thanks.jpg", main);
 
 require("es6-promise").polyfill();
@@ -71,7 +74,7 @@ webpush.setVapidDetails(
 //server side fetch polifyll
 import routes from "./_javascript/routes";
 import { match, RouterContext } from "react-router";
-//import { write, read, push, sendToDevice, update, remove } from "./chatbot/db";
+//import {write, read, push, sendToDevice, update, remove} from "./chatbot/db";
 import { Promise } from "firebase";
 import reducer from "./_javascript/reducers";
 import { createStore } from "redux";
@@ -255,34 +258,14 @@ const triggerPushMsg = function(subscriptionRow, dataToSend) {
     });
 };
 
-app.get("/api/trigger-push-msg", function(req, res) {
-  res.status(200).send(`
-	  <!doctype html>
-	  <html>
-	  <head>
-		  <title> push notifications </title>
-	  </head>
-	  <body>
-	  <form action="/api/trigger-push-msg/" method="post">
-		  <label for="title"> title</label>
-		  <input type="text" id="title" name="title"><br>
-		  <label for="body"> body</label>
-		  <input type="text" id="body" name="body"><br>
-		  <label for="image"> image </label>
-		  <input type="text" id="image" name="image"><br>
-		  <label for="url"> url </label>
-      <input type="text" id="url" name="url"><br>
-      <label for="icon"> icon </label>
-      <input type="text" id="icon" name="icon"><br>
-		  <label for="id"> reference id</label>
-		  <input type="text" id="id" name="id"><br>
-		  <label for="secret"> secret </label>
-		  <input type="text" id="secret" name="secret"><br>
-		  <input type="submit" value="Submit">
-	  </form>
-	  </body>
-	  </html>
-	  `);
+app.get("/notify", function (res) {
+  getSubscriptionsFromDatabase()
+    .then(function (subscriptionsRows) {
+      res.render("push", {
+        userNumber: subscriptionsRows.length,
+        lastNumber: 0
+      });
+    });
 });
 
 app.post("/api/save-subscription/", function(req, res) {
@@ -314,10 +297,7 @@ app.get("/producto/availability/:slug", async (req, res) => {
   res.setHeader("Content-Type", "application/json");
   res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
   res.status(200).send(JSON.stringify({ items: items }));
-});
-
-app.set("views", "./views");
-app.set("view engine", "ejs");
+}); 
 
 const deepmerge = require("deepmerge");
 
