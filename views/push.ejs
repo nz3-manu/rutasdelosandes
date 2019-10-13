@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title> push notifications </title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Push notification</h2>
+          <form action="/api/trigger-push-msg/" method="post">
+            <label for="title"> notificaction title</label>
+            <input type="text" id="title" name="title"><br>
+            <label for="body"> body</label>
+            <input type="text" id="body" name="body"><br>
+            <label for="image"> image </label>
+            <input type="text" id="image" name="image"><br>
+            <label for="url"> url </label>
+            <input type="text" id="url" name="url"><br>
+            <label for="icon"> icon </label>
+            <input type="text" id="icon" name="icon"><br>
+            <label for="id"> reference id</label>
+            <input type="text" id="id" name="id"><br>
+            <label for="secret"> secret </label>
+            <input type="text" id="secret" name="secret"><br>
+            <input type="submit" value="Submit">
+          </form>
+        </div>
+        <div class="col-md-6">
+          <h2>Push notifications status</h2>
+          <p>
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
