@@ -14,7 +14,7 @@ La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandi
 __Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama río Barbas.”
 
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
 
 {% include youtube.html
     videoid="1anGUPtjsMs"
@@ -23,7 +23,7 @@ __Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy pa
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar a la Reserva Barbas Bremen 🛣🚌?
 
 Lo primero que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en un en la zona rosa de Pereira ver hostal __<a href="http://www.booking.com/hotel/co/kolibri-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-594819&nflt=review_score%253D90%253Breview_score%253D80%253Bht_id%253D201&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
 
@@ -46,7 +46,7 @@ __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí
 Una vez aquí ya estamos listos para empezar el camino por el sendero 😃.
 
 
-## El camino 🚶🏼
+## Ruta en la Reserva Barbas Bremen 🚶🏼
 
 Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos el recorrido en el Sendero Yarumal, a lo largo del trayecto podremos tomar baño en el río Barbas para los que quieran refrescarse un poco, además algunos puntos cuentan con casetas hechas en guadua donde podremos comer __por favor NO dejar basuras en estos sitios__, si contamos con suerte podremos escuchar los monos aulladores🐒.
 
@@ -72,7 +72,7 @@ Después de salir del Sendero Yarumal caminaremos al costado de la carretera que
 
 __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así que no se recomienda bañar en ese lugar y mucho menos tomar de estas aguas.
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de la Reserva Barbas Bremen 🚌🏡?
 
  Los horarios de salida desde la vereda Alegrias son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje es aproximadamente $2.000 pesos.
 
@@ -81,7 +81,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a Barbas Bremen por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Total $5.000</h4>

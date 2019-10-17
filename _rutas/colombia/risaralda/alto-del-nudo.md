@@ -13,7 +13,7 @@ El departamento de Risaralda como otros departamentos del Eje cafetero están co
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
-## ¿Qué encontrarás 🏞👀? 
+## ¿Qué encontrarás en el Alto Del Nudo 🏞👀? 
 
   {% include youtube.html
     videoid="bUSFb7xuXS0"
@@ -23,14 +23,14 @@ _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar al Alto Del Nudo 🛣🚌?
 
 Una vez en pereira, tomamos “la chiva” o bus escalera desde La plaza Victoria, los  horarios de salida son: De lunes a viernes 6:00 am, 12:00 pm y 4:30 pm, el sabado adicional a las 10 am y domingo adicional 8 am. El valor del pasaje es aproximado de $3.200 pesos, la duración del trayecto es en promedio de 1 hora y 20 minutos para llegar a la vereda la convención.
 
 En la vereda la convención ¡ya empieza nuestra ruta! 😎.
 
 
-## El camino 🚶🏽🚶🏽
+## Ruta en Alto Del Nudo 🚶🏽🚶🏽
 
 Desde la vereda la convención hasta la Casa de la CARDER (Lugar donde inicia la Reserva), son aproximadamente 20 minutos. El ingreso al sendero es totalmente gratis.
 
@@ -83,7 +83,7 @@ Al llegar a la parte mas alta de nuestro recorrido llegaremos a este hermoso mir
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2.000 metros sobre el nivel del mar. Es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella. Debido a su altura, desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar del Alto Del Nudo 🚌🏡?
 Tomamos  el jeep que pasa hasta las 5:00 pm el cual tiene un precio aproximado de $3.500 pesos, este se toma al frente de la casa del guardabosques. Este Jeep nos llevará directo a Pereira.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

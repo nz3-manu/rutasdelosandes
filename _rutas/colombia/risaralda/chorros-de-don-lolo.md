@@ -11,7 +11,7 @@ author: manuel
 ---
 Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia termales de San Vicente. Estan ubicados en una zona boscosa donde se aprecia la belleza de la naturaleza y la inmensidad de esta cascada, que sobresale por encima de los árboles, haciéndolos ver diminutos, a cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, hasta tal punto de solo escuchar el sonido del agua que cae al abismo mientras se convierte en pequeñas partículas que se asemejan a pequeñas nubes, para luego caer en los alrededores, convirtiéndose en tenue brisa.
  
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en los Chorros de Don Lolo 🏞👀?
 
 {% include youtube.html
     videoid="-dT3Vu_U5i4"
@@ -23,7 +23,7 @@ Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia te
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar a los Chorros de Don Lolo 🛣🚌?
 
 Desde El terminal de Pereira tomamos el bus 🚌 hasta el municipio de Santa Rosa, el cual sale desde las 4:30 am con una frecuencia de 15 minutos. El valor del pasaje es de $2.300 pesos. La duración del trayecto es de 40 minutos aproximadamente.
 
@@ -33,7 +33,7 @@ Al día siguiente tomamos el jeep o bus escalera 🚌(Chiva), que sale desde la 
 
 Si van en 🚙 carro o 🛵 moto podrían dejarlo en el “Restaurante-Mirador Don Lolo”, el cual es gratis para clientes o en alguna finca cercana.
 
-## El camino 🚶🏽🐕
+## Ruta en los Chorros de Don Lolo 🚶🏽🐕
 El jeep nos dejo en el “Restaurante-Mirador Don Lolo”, a partir de aquí descendimos por una carretera de piedra y un camino de herradura.
 
 {% include iframe.html
@@ -66,12 +66,12 @@ Caminamos por cerca de 30 minutos por este sendero para llegar a la famosa casca
 __Recomendaciones:__ En la cascada se forman algunos remolinos internos por la fuerza que cae al chocar con el agua. No se aconseja nadar en la parte honda y evitar entrar a esta si no saben nadar muy bien.
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de los Chorros de Don Lolo 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que llegamos. Tener en cuenta que el ultimo jeep pasa hasta las 5:00 pm. De lo contrario tendrán que llamar un taxi o jeep. 
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a los Chorros de Don Lolo por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Pereira-SantaRosa-Pereira $4.600 $10.200</h4>

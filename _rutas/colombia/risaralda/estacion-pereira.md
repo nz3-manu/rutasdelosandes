@@ -11,7 +11,7 @@ author: manuel
 ---
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Estación Pereira 🏞👀?
 
 {% include youtube.html
     videoid="xrC-xdoVF8o"
@@ -22,7 +22,7 @@ Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Ri
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌 ? 
+## ¿Cómo llegar a Estación Pereira 🛣🚌 ? 
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
 __Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
@@ -72,7 +72,7 @@ Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya 
 
 __[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
 
-## El camino 🚶🏽🐕
+## Ruta a Estación Pereira 🚶🏽🐕
 
 Una vez de haber cruzado el río cauca en la “garrucha” ya estamos preparados para iniciar  el recorrido a las cascadas las cuales están a 30 minutos caminando de la “finca la Playita”(donde nos deja la garrucha) por una camino muy señalizado.
 
@@ -91,14 +91,14 @@ Si estás pensando ir a acampar para escuchar el sonido de la naturaleza ⛺️�
 En la zona se van a encontrar muchos caracoles africano 🚨🐌, no se deben tocar si no es con guantes ya que te puede producir afectaciones en el sistema digestivo por las infecciones que transmite.
  
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Estación Pereira 🚌🏡?
 De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:40pm desde Estación Pereira.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">aquí</a>__
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a Estación Pereira por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Total: $10.000</h4>

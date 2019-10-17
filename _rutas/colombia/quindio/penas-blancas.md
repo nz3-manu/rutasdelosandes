@@ -12,7 +12,7 @@ author: manuel
 Esta majestuosa peña de 280 metros de altura se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Este lugar está lleno de leyendas Quimbayas ya que en este lugar era donde vivía el Cacique Calarcá hace más de 400 años, el era un hombre fuerte, de facciones duras que media casi 1,90 metros fue uno de los pocos a quien los españoles no pudieron dominar durante la Conquista. 
 En esta peña se encuentra una caverna de aproximadamente de 10 metros de profundidad cuenta la leyenda que era el lugar donde guardaba sus tesoros el Cacique Calarcá.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Peñas Blancas 🏞👀?
 
 {% include youtube.html
     videoid="g_wVae2-JxA"
@@ -42,7 +42,7 @@ __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que
     caption="Transporte hasta Peñas Blancas "
 %}
 
-## El camino 🚶🏼
+## Ruta a Peñas Blancas 🚶🏼
 Desde donde nos deja el jeep hasta la entrada 🛣 es aproximadamente 40 minutos, todo el trayecto es en subida. Aqui podrian dejar el automóvil si no quieres arriesgar a subirlo hasta el Hotel Ecoparque Peñas Blancas.
 
 _Este lugar no cuenta con seguridad 👮 para carros ni motos, si lo dejas aquí es bajo su responsabilidad._
@@ -84,13 +84,13 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
 
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Peñas Blancas 🚌🏡?
 
 Para nuestro regreso tenemos que tener en cuenta que hay transporte hasta las 7 pm de la vereda la Virginia hasta Calarcá  y de Calarcá para Armenia hasta las 9 pm.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a Peñas Blancas por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Armenia-Calarcá-Armenia $4.000</h4>

@@ -14,7 +14,7 @@ También conocida como estación biológica estrella de agua ubicada a 3170 m.s.
 Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el punto de entrada  para los páramos; páramo de frontino 2.8 km y páramo romerales 2.5 km. Además de esto es donde nace el río Quindío.
 
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Estrella de Agua 🏞👀?
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa de los colibríes.
 * Vista del valle del Cocora. 
@@ -47,7 +47,7 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
        %}   
 </amp-carousel>
 
-## ¿Cómo llegar 🛣🚌🚗🛵?
+## ¿Cómo llegar a Estrella de Agua 🛣🚌🚗🛵?
 Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $7.000 pesos.
 
 Estando en Salento un viajero nos recomendo un hostal a solo una cuadra del parque principal, el cual nos pareció una buena opción ver hostal __<a href="http://www.booking.com/hotel/co/hostal-estrella-de-agua-salento.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__ otra opción un poco mas económica pero no menos confortable fue un hostal cerca del parque principal ver hostal __<a href="http://www.booking.com/hotel/co/artvelez-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__. Despues de un descanso 😴, salimos a conocer un poco de este hermoso municipio 😍🌃.
@@ -57,7 +57,7 @@ Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que
 
 Una Vez en el Valle del Cocora, ya estamos listos para empezar nuestro camino 😎.
 
-## El camino 🚶🏼
+## Ruta en Estrella de Agua 🚶🏼
 
 Desde el valle del cocora hasta la Estrella de Agua hay alrededor de 9 kilómetros son aproximadamente 5 horas.
 
@@ -115,7 +115,7 @@ Aquí podremos comprar; aguapanela a $2.000 pesos y aguapanela con queso $5.000 
 En Estrella ya no se presta el servicio de camping, ya que en años anteriores unas personas que acampaban cerca de esta zona dejo una fogata prendida, lo que ocasionó un incendio de gran magnitud. Después de esto Estrella de Agua paso de ser una zona de camping a un puesto de control de la CRQ (Corporacion Autonoma Regional Del Quindio).
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Estrella de Agua 🚌🏡?
 Para nuestro regreso vamos a ir al mirador de las palmas. Es el camino que vimos aproximadamente a 4 kilómetros cuando íbamos para Acaime, este camino nos lleva de nuevo al Valle del Cocora.
 Recomendación: Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
 
