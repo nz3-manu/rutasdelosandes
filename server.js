@@ -774,7 +774,7 @@ if (process.env.NODE_ENV == "production") {
   https
     .createServer(
       {
-        key: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.key"),
+        key: fs.readFileSync("./ssl-rutas/private-key.pem"),
         cert: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.crt"),
         ca: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.ca-bundle"),
         passphrase: "asdfasdf"
