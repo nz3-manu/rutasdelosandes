@@ -12,7 +12,7 @@ author: manuel
 
 Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la pirámide natural más alta del mundo con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo, la cual produce destellos a causa de la refracción de los rayos solares. En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Cerro Tusa 🏞👀?
 
  {% include youtube.html
     videoid="VtuzI8j-dgk"
@@ -22,7 +22,7 @@ Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar a Cerro Tusa 🛣🚌?
 
 Una vez en Medellín, nos dirigimos hacia el terminal del sur donde tomamos el 🚌bus hacia Venecia, el cual sale cada hora desde las 6:15 am hasta las 6:15 pm, el valor del pasaje es de aproximadamente* $12.000 pesos.
 
@@ -37,7 +37,7 @@ Al día siguiente nos levantamos temprano 🐓🌄, era emocionante saber que ya
 __Nota:__ _Siempre exigir a los guías el respectivo pago del Seguro médico._
 
 
-## El camino 🚶🏼
+## Ruta a Cerro Tusa 🚶🏼
 
 __Recomendaciones:__ _Esta ruta tiene un grado de dificultad 5 en una escala del uno al 5. Así que si no tienes la experiencia haciendo senderismo, no les recomendamos esta ruta, ya que la podrías pasar muy mal y podrías no querer volver_ 😢.
 
@@ -75,7 +75,7 @@ Vista desde La cima de Cerro Tusa
 </amp-instagram>
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Cerro Tusa 🚌🏡?
 Habíamos escuchado que bajar de Cerro Tusa era un poco más complicado que la subida, a nuestro parecer no es tan exigente como la subida (lo que es un alivio 😅), pero sí hay que tener mucho cuidado; evitando bajar muy rápido y, pedir ayuda en algunos tramos de ser necesario.
 
 En cuanto al bus, tener en cuenta que los 🚌buses de Venecia para Medellín salen hasta las 6:30 pm.
@@ -84,7 +84,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
 
 <span class="advise"> Foto por:  <a href="https://www.instagram.com/wilber_gil_cortes/"  target="_blank"> @wilber_gil_cortes </a> </span>
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a Cerro Tusa por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Medellín-Venecia-Medellín $24.000</h4>

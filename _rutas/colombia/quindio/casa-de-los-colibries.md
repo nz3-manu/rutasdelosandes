@@ -3,8 +3,8 @@ layout: trail
 title:  Casa de los Colibríes en Salento
 categories: colombia 
 tags: Quindío
-seo_title: Cómo llegar al valle del cocora en salento
-excerpt: La Casa de los Colibríes o caime se encuentra en Salento, un recorrido que va por el valle del cocora en  salento subiendo por el valle de las palmas hasta llegar a la casa de los colibries, una bella ruta que en total recorre  12.39 kilometros
+seo_title: Que hacer en salento
+excerpt: Salento Hospedaje, donde queda salento, qué hacer en salento. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
 images_url: /images/rutas/quindio/acaime
 viewranger: MTYzNjI1OA==
 author: manuel
@@ -14,7 +14,7 @@ La casa de los colibríes se encuentra a 4.8 kilómetros del Valle del Cocora, S
 
 Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de Flora y fauna. Es conocida principalmente por albergar varias especies de colibríes que rondan está casa, algunos se pueden ver tan cerca que pareciera no les importara la presencia de los seres humanos.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Salento 🏞👀?
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa de los colibríes.
 * Vista del valle del Cocora. 
@@ -56,7 +56,7 @@ Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que
 
 Una Vez aquí ya estamos listos para empezar nuestro camino 😎.
 
-## El camino 🚶🏼
+## Ruta Valle del Cocora en salento🚶🏼
 Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kilómetros aproximadamente 3 horas caminando.
 
 {% include iframe.html
@@ -96,7 +96,7 @@ En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pes
 Este es final de nuestro recorrido.
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar Valle del Cocora en salento 🚌🏡?
 Para nuestro regreso vamos a ir al mirador de las palmas. Es el camino que vimos aproximadamente a 4 kilómetros cuando íbamos para Acaime, este camino nos lleva de nuevo al Valle del Cocora.
 Recomendación: Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
 

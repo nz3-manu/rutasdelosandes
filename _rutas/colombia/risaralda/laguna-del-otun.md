@@ -25,7 +25,7 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar a la Laguna del otún 🛣🚌?
 Existen varias formas para llegar a esta hermosa Laguna; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
 La ruta que mostraremos en este post es llegando por Potosí. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
@@ -52,13 +52,13 @@ En este lugar también podrás encontrar servicio de parqueadero 🅿️: moto �
 
 
 
-## El camino 🚶🏼🏔
+## El camino la Laguna del otún 🚶🏼🏔
 ⚠️ Recuerde que está prohibido el ingreso de mascotas 🚫🐶y la pesca.
 
-__Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
+__Para realizar el ingreso al parque los nevados tuvimos que pagar lo siguiente:__ 
 <ol>
   <li>
-  Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
+  Entrada al parque los nevados 2019🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
   </li> 
   <li>
     Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
@@ -113,7 +113,7 @@ Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa lagu
 Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y regresar de nuevo a casa :).
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de la Laguna del otún 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
@@ -121,7 +121,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
 
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">aquí</a>__
 
-# Presupuesto de la ruta por persona 🤔💰
+# Presupuesto a Laguna del otún por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
@@ -130,8 +130,8 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
       </p>
     </section>
     <section>
-      <h4>🎟 Entrada parque los nevados </h4>
-      <p> mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos       extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑ por día: $3.500 pesos.</p>
+      <h4>🎟 Entrada a la Laguna del otún </h4>
+      <p> mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos y      extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑ por día: $3.500 pesos.</p>
     </section>
     <section>
       <h4>🛏 Hospedaje</h4>

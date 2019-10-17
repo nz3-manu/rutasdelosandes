@@ -11,7 +11,7 @@ author: manuel
 ---
 El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en el Desierto de la Tatacoa 🏞👀?
 * Piscina en medio del desierto.
 * El segundo desierto más árido de Colombia.
 * Vista sin igual del desierto.
@@ -48,7 +48,7 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
     %} 
 </amp-carousel>
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?
 Lo primero que tenemos que hacer es ir a Neiva ubicado en el departamento del Huila:
 
  __Desde Bogotá:__ El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
@@ -70,7 +70,7 @@ Antes de ir al desierto se aconseja comprar las cosas que necesitemos como abund
 
 Ahora ya estamos listos para seguir nuestro camino al desierto 🛵🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
 
-## El camino 🚶🏼
+## Ruta al Desierto de la Tatacoa 🚶🏼
 Desde Villavieja tomamos un mototaxi(ya que es más económico), te puede cobrar $18.000 pesos hasta la región los hoyos la duración del trayecto 30 minutos, esta es la región más apartada del desierto y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼. No hay nada mejor que refrescarse en una piscina en un día soleado ☀️. 
 
 
@@ -181,7 +181,7 @@ __Si además necesitan transporte llamar con anticipación teléfono: <a href="t
 Una vez ya instalado en el hostal, no aguante las ganas de preguntarle a Don Ángel acerca del porqué la gente del desierto decían que “La vereda Doche era peligrosa”, así que me contó que anteriormente había presencia de guerrilla cruzando el río Cabrera región que pertenece al Tolima , Pero que ahora la gobernación del huila estaba fortaleciendo el turismo en esta zona.
 
 
-## El camino 🚶🏼
+## Ruta 🚶🏼
 Existen varios lugares para conocer, estos se deben hacer con las personas que brindan el servicio de guianza en esta zona.
 
 {% include iframe.html
@@ -195,7 +195,7 @@ Si piensan ir a la Laguna de Las Garzas se aconseja andar solo por donde el guí
 Para ir a los Termales naturales se tienen que informar con la persona que trabaja como guía en la zona para asi evitar contratiempos. 
 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar del Desierto de la Tatacoa 🚌🏡?
 Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
