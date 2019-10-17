@@ -17,7 +17,7 @@ __Cerros ubicados en Quinchía:__
 - <a href="https://rutasdelosandes.com/colombia/cerrobatero.html"> Cerro Batero(Altitud 2200 msnm)</a>
 - Cerro Ingrumá (Altitud 1783 msnm)
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Cerro Gobia 🏞👀?
 - Vista sin igual de 360º de Quinchía y de poblaciones cercanas.
 - Caminata ecológica.
 <amp-carousel 
@@ -39,7 +39,7 @@ __Cerros ubicados en Quinchía:__
     %} 
 </amp-carousel> 
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar a Cerro Gobia 🛣🚌?
 
 {% include iframe.html
     type="custom"
@@ -61,7 +61,7 @@ __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">
 Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
 
 
-## El camino 🚶🏽🚶🏽
+## Ruta a Cerro Gobia 🚶🏽🚶🏽
 
 {% include iframe.html
     type="custom"
@@ -99,7 +99,7 @@ Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo 
    height="482"
 %} 
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Cerro Gobia 🚌🏡?
 Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Gobia sin preocupaciones.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

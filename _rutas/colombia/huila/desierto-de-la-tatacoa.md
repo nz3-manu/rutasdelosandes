@@ -123,7 +123,7 @@ Después de ver las 2 zonas del desierto ya pensábamos en nuestro regreso🏡. 
 
 Esta vereda se encuentra ubicada a 20 kilómetros del desierto aproximadamente 40 minutos, se encuentra cerca del río Cabrera que separa al departamento del Huila del departamento del Tolima. Esta vereda cuenta con gran biodiversidad de  flora, fauna y rodeado de mitos y leyendas de los antiguos moradores del desierto como los grupos indígenas Doches y Yaporoes. Uno de los principales atractivos en Doche es la Piedra Pintada, la cual guarda secretos en sus gravado.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás Vereda Doche en el desierto la Tatacoa 🏞👀?
 * Lago de las garzas.
 * Gran biodiversidad flora y fauna.
 * Termales naturales (Tendrán que cruzar el río Cabrera).
@@ -163,7 +163,7 @@ Esta vereda se encuentra ubicada a 20 kilómetros del desierto aproximadamente 4
     %} 
 </amp-carousel>
 
-## ¿Cómo llegar 🛣🚌?
+## ¿Cómo llegar vereda Doche en el desierto la Tatacoa 🛣🚌?
 
 Desde el desierto es un poco complicado encontrar transporte ya que algunas personas no subirán hasta allá o te cobran demasiado, lo más recomendable si no cuentan con transporte propio es ponerse en contacto con el dueño del hostal para facilitarles transporte.
 
@@ -181,7 +181,7 @@ __Si además necesitan transporte llamar con anticipación teléfono: <a href="t
 Una vez ya instalado en el hostal, no aguante las ganas de preguntarle a Don Ángel acerca del porqué la gente del desierto decían que “La vereda Doche era peligrosa”, así que me contó que anteriormente había presencia de guerrilla cruzando el río Cabrera región que pertenece al Tolima , Pero que ahora la gobernación del huila estaba fortaleciendo el turismo en esta zona.
 
 
-## Ruta 🚶🏼
+## Ruta a la vereda Doche en el desierto la Tatacoa🚶🏼
 Existen varios lugares para conocer, estos se deben hacer con las personas que brindan el servicio de guianza en esta zona.
 
 {% include iframe.html

@@ -14,7 +14,7 @@ Los Chorros de San Rafael están ubicados en el municipio de Calarcá en el depa
 
 Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quindío, como muestra de esto su nombre hace honor al legendario guerrero cacique Calarcá que habitaba estas zonas e inmediaciones con Tolima.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en los Chorros San Rafael 🏞👀?
 
 {% include youtube.html
     videoid="eovLJqfrKhc"
@@ -25,11 +25,11 @@ Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quind�
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌🚗🛵🚵🏻?
+## ¿Cómo llegar a los Chorros San Rafael 🚌🚗🛵🚵🏻?
 
 Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con destino Calarcá, el valor del pasaje fue de $2.000 pesos, el bus se tardó en llegar aproximadamente 15 minutos. Una vez en Calarcá nos bajamos en la plaza de mercado, lugar donde aprovechamos para comprar comida 🍱.
 
-## El camino 🚶🏼🐕
+## Ruta a los Chorros San Rafael 🚶🏼🐕
 
 Desde la plaza de mercado hasta los chorros San Rafael son aproximadamente 5.5 kilómetros, de los cuales 3 kilómetros son para salir de Calarcá por el antiguo matadero viejo (vía puente rojo). 
 
@@ -52,13 +52,13 @@ width="1500"
 height="844"
 %}
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de los Chorros San Rafael 🚌🏡?
 
 Ya estaba atardeciendo así que decidimos regresar, tomamos el mismo camino por el que llegamos. Al pasar por el barrio que nos habían advertido que tuviéramos cuidado con las cámaras (cuando empezábamos la ruta), ya se podía ver que el ambiente era un poco más tenso 😬, como recomendación no dar papaya.
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto a los Chorros San Rafael por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Armenia-Calarcá-Armenia $4.000</h4>

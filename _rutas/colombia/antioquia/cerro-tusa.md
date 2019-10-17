@@ -82,7 +82,7 @@ En cuanto al bus, tener en cuenta que los 🚌buses de Venecia para Medellín sa
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-<span class="advise"> Foto por:  <a href="https://www.instagram.com/wilber_gil_cortes/"  target="_blank"> @wilber_gil_cortes </a> </span>
+<span class="advise"> Foto de cerro tusa por:  <a href="https://www.instagram.com/wilber_gil_cortes/"  target="_blank"> @wilber_gil_cortes </a> </span>
 
 ## Presupuesto a Cerro Tusa por persona 🤔💰
   <amp-accordion animate>
@@ -92,7 +92,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
     </section>
     <section>
       <h4> 🚌 Venecia-PiedraDelSacrificio-Venecia $24.000</h4>
-      <p> Venecia-PiedraDelSacrificio: $12.000. Cupo maximo 3 personas. </p>
+      <p> Venecia-PiedraDelSacrificio: $12.000. Este precio es independiente si va una persona o máximo 3 el cobrará $12.000 Pesos por trayecto. </p>
     </section>
     <section>
       <h4>🍲 Alimentación $20.000</h4>

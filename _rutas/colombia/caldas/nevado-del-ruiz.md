@@ -17,7 +17,7 @@ Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 
 Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en el Nevado del Ruiz 🏞👀?
 
 {% include youtube.html
     videoid="1fVmDl0oiFE"
@@ -28,7 +28,7 @@ Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌 ? 
+## ¿Cómo llegar al Nevado del Ruiz 🛣🚌 ? 
 
 Lo primero que tuvimos que hacer fue llegar a Manizales, una vez allí alquilamos un carro, ya que para esta zona no hay transporte público. 
 
@@ -89,7 +89,7 @@ El ingreso al parque es desde las 8 am hasta las 2 pm. Se recomienda realizar el
     caption="Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
 
-## El camino 🚗🚎
+## Ruta en el Nevado del Ruiz 🚗🚎
 
 
 El recorrido tiene una duración aproximadamente de 3 horas, algunas paradas que realizamos fueron las siguientes: 
@@ -107,7 +107,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
 
 ℹ️ __Información adicional de la ruta:  click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
-## Presupuesto de la ruta por persona 🤔💰
+## Presupuesto al Nevado del Ruiz por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
