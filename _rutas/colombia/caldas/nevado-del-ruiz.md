@@ -10,6 +10,7 @@ viewranger:
 author: manuel
 ---
 El volcán el Nevado del Ruiz  está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los andes 🦅y de otras importantes especies.
+
 Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
  
 Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
@@ -100,6 +101,7 @@ __Sector de Aguaserales:__ tiene este nombre ya que de la roca se desprende cons
 __Sector de Arenales:__ en este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
 
 __Sector de tumbas:__ también llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indigenas que habitaban las zonas bajas.
+
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
 

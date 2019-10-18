@@ -71,7 +71,7 @@ Para nuestro regreso tomamos el mismo camino por el que llegamos. Tener en cuent
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-## Presupuesto a los Chorros de Don Lolo por persona 🤔💰
+## Presupuesto a los Chorros de Don Lolo por persona 🤔💰.
   <amp-accordion animate>
     <section>
       <h4> 🚌 Pereira-SantaRosa-Pereira $4.600 $10.200</h4>

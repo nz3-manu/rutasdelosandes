@@ -90,9 +90,17 @@ El valor de la entrada es aproximadamente $5.000 pesos.
     layout="responsive">
 </amp-instagram>
 
-Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar. Nosotros nos hospedamos al frente del observatorio el hostal se llama “la tranquilidad” lo escogimos solo porque era el más económico, pero nos dimos cuenta que algunas personas se quejaban por lo poco organizado. En el hostal encontrarás zonas de camping 🏕 a $8.000 pesos por persona, zona de hamacas a $5.000 pesos, habitaciones compartidas $15.000 pesos por persona y habitaciones privadas $25.000 por persona. Comidas 🍛 desde $10.000 pesos hasta $25.000 pesos.__teléfonos: <a href="tel:3112433455">3112433455</a>Hostal la tranquilidad.__
+Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, te mostraremos algunas de la posibles opciones que encontramos.
 
-Existen otros hostales en la zona con un poco de mas comodidades uno de ellos es “Noches de Saturno;el cual cuenta con piscina 🏊  zona de camping 🏕 $10.000 pesos, habitaciones privada $30.000 pesos por persona, almuerzo 🍛 $12.000 pesos y desayunos $6.000 pesos  __Por favor confirmar disponibilidad <a href="tel:3133055898">3133055898</a> Hostal Noches de Saturno.__
+### Hospedaje en el Desierto de la Tatacoa 🛌:
+
+ __Hostal la tranquilidad:__ es un de los más económico, en el hostal encontrarás zonas de camping 🏕 a $9.000 pesos por persona, zona de hamacas a $6.000 pesos, habitaciones compartidas $17.000 pesos por persona y habitaciones privadas $25.000 por persona. Comidas 🍛 desde $10.000 pesos hasta $25.000 pesos.
+ 
+ __Por favor confirmar disponibilidad, teléfono: <a href="tel:3112433455"> 3112433455</a> hostal la tranquilidad.__
+
+__Hotal noches de Saturno:__ el cual cuenta con piscina 🏊  zona de camping 🏕 $10.000 pesos, habitaciones privada $30.000 pesos por persona, almuerzo 🍛 $12.000 pesos y desayunos $6.000 pesos.  
+
+__Por favor confirmar disponibilidad, teléfono:<a href="tel:3133055898"> 3133055898</a> hostal Noches de Saturno.__
 
 Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $10.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm  hasta las 9pm.
 

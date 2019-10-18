@@ -10,7 +10,9 @@ viewranger:
 author: manuel
 ---
 
-El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas. En el área del parque se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu kogui que son descendientes de los taironas.
+El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas. 
+
+En el área del parque se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu kogui que son descendientes de los taironas.
 
 ## ¿Qué encontrarás en el Parque Tayrona 🏞👀?
 * Gran biodiversidad flora y fauna.
@@ -82,7 +84,9 @@ Este es todo el trayecto que realizaremos; ruta entrando por el Zaino, pasando p
 
 ### Hospedaje en el Parque Tayrona 🛌:
 
-__Hospedaje Cabo San Juan:__ es una de las playas más conocidas del Parque Tayrona, cuentan con; zona de camping 🏕 $35.000 pesos (ellos te prestan la carpa y colchoneta), si tu llevas la carpa y colchoneta son $25.000 Pesos, almuerzos y comida 🍛 $35.000 Pesos. En este hospedaje se cuenta con buenas comodidades como; servicio de electricidad, baños y restaurantes. Además, este es uno de los poco lugares donde hay señal telefónica 📱 con claro. Te queda al frente de la playa 🌊⛺️.
+__Hospedaje Cabo San Juan:__ es una de las playas más conocidas del Parque Tayrona, cuentan con; zona de camping 🏕 $35.000 pesos (ellos te prestan la carpa y colchoneta), si tu llevas la carpa y colchoneta son $25.000 Pesos, almuerzos y comida 🍛 $35.000 Pesos. 
+
+En este hospedaje se cuenta con buenas comodidades como; servicio de electricidad, baños y restaurantes. Además, este es uno de los poco lugares donde hay señal telefónica 📱 con claro. Te queda al frente de la playa 🌊⛺️.
 
 En el camino hasta cabo san juan encontrarán varios hospedajes mencionamos aquí algunos: 
 
