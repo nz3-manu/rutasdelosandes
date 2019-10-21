@@ -34,7 +34,8 @@ __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para lleg
 
 
  __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
-_Los precios varían dependiendo del chofer que contrates, Al final del documento te dejaremos la información de las empresas que prestan el servicio de transporte._
+
+_Los precios varían dependiendo del chofer que contrates, en la información anexa al final del documento encontraras los telefonos de las empresas y locales que prestan el servicio de transporte._
 
 Estas opciones son recomendables si vas con más de 4 personas.
 
@@ -119,7 +120,7 @@ Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">aquí</a>__
+ℹ️ __Información adicional de la ruta: <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun"> click  aquí</a>__
 
 # Presupuesto a Laguna del otún por persona 🤔💰
   <amp-accordion animate>
