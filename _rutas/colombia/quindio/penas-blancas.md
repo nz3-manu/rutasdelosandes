@@ -88,7 +88,7 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
 
 Para nuestro regreso tenemos que tener en cuenta que hay transporte hasta las 7 pm de la vereda la Virginia hasta Calarcá  y de Calarcá para Armenia hasta las 9 pm.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a Peñas Blancas, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ## Presupuesto a Peñas Blancas por persona 🤔💰
   <amp-accordion animate>
@@ -101,7 +101,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
       <p> El transporte por cada trayecto es $2.000 pesos</p>
     </section>
       <section>
-      <h4> 🚪🍃 Entrada al sendero $7.000</h4>
+      <h4> 🚪🍃 Entrada al sendero en Peñas Blancas $7.000</h4>
       <p> Incluye una bebida 🍹</p>
     </section>
     <section>

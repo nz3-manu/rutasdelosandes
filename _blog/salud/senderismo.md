@@ -100,5 +100,5 @@ Incluso una carrera de cinco minutos en una zona boscosa es suficiente para __me
  Fuente:  <a target="_blank" href="https://lavozdelmuro.net/la-ciencia-explica-como-cambia-tu-cerebro-cuando-haces-senderismo-y-es-fascinante/">  lavozdelmuro.net </a>
  
 
-
+__Este es el fin del post diferencia entre Trekking y Hiking, no te olvides de seguirnos en nuestras redes sociales para conocer mas información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 

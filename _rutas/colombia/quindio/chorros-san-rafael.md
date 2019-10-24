@@ -56,7 +56,7 @@ height="844"
 
 Ya estaba atardeciendo así que decidimos regresar, tomamos el mismo camino por el que llegamos. Al pasar por el barrio que nos habían advertido que tuviéramos cuidado con las cámaras (cuando empezábamos la ruta), ya se podía ver que el ambiente era un poco más tenso 😬, como recomendación no dar papaya.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a los Chorros San Rafael, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ## Presupuesto a los Chorros San Rafael por persona 🤔💰
   <amp-accordion animate>

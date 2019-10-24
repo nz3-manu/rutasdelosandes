@@ -132,7 +132,7 @@ __Recomendación:__ La piscina es un poco pequeña, en los días festivos esta s
 ## ¿Cómo regresar de la Gruta 🚌🏡?
 Para regresar tenemos tomar el mismo camino por el que subimos. Si vamos a tomar bus, es bueno tener en cuenta que el último bus sale a las 8:00 pm de Gallinazo a Manizales.  Tenemos que planificar bien el  tiempo para que no nos coja la noche en el camino, ya que en la noche nos vamos a encontrar con algunas motos que bajan sin luces esto puede ser peligroso por ser la vía tan angosta.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a la Gruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 
 

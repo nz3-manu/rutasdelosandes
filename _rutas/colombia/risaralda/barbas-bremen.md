@@ -76,7 +76,7 @@ __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así
 
  Los horarios de salida desde la vereda Alegrias son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje es aproximadamente $2.000 pesos.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a la Reserva Natural Barbas Bremen, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 

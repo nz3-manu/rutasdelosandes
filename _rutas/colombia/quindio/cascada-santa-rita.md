@@ -66,7 +66,7 @@ height="1080"
 
 Después de bañarnos en el agua fría, decidimos regresar antes de las 4:00 pm para tomar el bus que pasa por Boquía y contar con la suerte de que nos pudieran llevar, ya que los fines de semana es casi imposible tomar un bus después de las 4:00 pm por el número de viajeros que vienen de salento. Después de esperar y no contar con suerte tuvimos que tomar un bus e irnos hasta salento y de allí tomar otro de regreso.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a Las cascadas de Santa Rita, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 ## Presupuesto a la Cascada Santa Rita por persona  🤔💰
   <amp-accordion animate>

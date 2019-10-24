@@ -52,3 +52,5 @@ Aunque el estudio no se realizó con una muestra muy grande, los resultados son 
 
 Fuente:  <a target="_blank" href="https://ecoosfera.com/2013/04/pasear-y-caminar-entre-los-arboles-alivia-el-cansancio-del-cerebro-y-mejora-la-concentracion/ ">  ecoosfera </a>
 
+
+__Este es el fin del post, no te olvides de seguirnos en nuestras redes sociales para conocer mas información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

@@ -12,12 +12,12 @@ author: manuel
 El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
 
 ## ¿Qué encontrarás en el Desierto de la Tatacoa 🏞👀?
-* Piscina en medio del desierto.
+* Piscina en medio del desierto de la Tatacoa.
 * El segundo desierto más árido de Colombia.
-* Vista sin igual del desierto.
-* Caminata en el desierto.
+* Vista sin igual del desierto de la Tatacoa.
+* Caminata en el desierto de la Tatacoa.
 * Observatorio Astronómico.
-* Gran biodiversidad flora y fauna a solo 40 minutos del desierto(Vereda Doche).
+* Gran biodiversidad flora y fauna a solo 40 minutos del desierto de la Tatacoa (Vereda Doche).
 
 <amp-carousel 
     width="800"
@@ -66,18 +66,18 @@ Una vez en Neiva tenemos que tomar otro bus 🚌 con destino al pueblo de Villav
 %}
 
 Una vez en Villavieja podrías visitar el museo paleontológico 🏛  los horarios son de lunes a domingo de: 8am a 12:00 pm y 2:00 pm a 6:00 pm. Valor de la entrada es $3.000 pesos.
-Antes de ir al desierto se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
+Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
 
-Ahora ya estamos listos para seguir nuestro camino al desierto 🛵🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
+Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🛵🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
 
 ## Ruta al Desierto de la Tatacoa 🚶🏼
-Desde Villavieja tomamos un mototaxi(ya que es más económico), te puede cobrar $18.000 pesos hasta la región los hoyos la duración del trayecto 30 minutos, esta es la región más apartada del desierto y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼. No hay nada mejor que refrescarse en una piscina en un día soleado ☀️. 
+Desde Villavieja tomamos un mototaxi(ya que es más económico), te puede cobrar alrededor de $20.000 pesos hasta la región los hoyos la duración del trayecto 30 minutos, esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼. No hay nada mejor que refrescarse en una piscina en un día soleado ☀️. 
 
 
 {% include iframe.html
     type="custom"
     mid="1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es"
-    caption="Mapa villavieja Desierto"
+    caption="Mapa villavieja hasta desierto de la Tatacoa "
 %}
 
 El valor de la entrada es aproximadamente $5.000 pesos.
@@ -112,7 +112,7 @@ Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronóm
     caption="Observatorio"
 %}
 
-Al siguiente dia salimos a recorrer la región del desierto que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $5.000 pesos. También alquilan caballos 🐴, valor 1 hora por $10.000 pesos.
+Al siguiente dia salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $5.000 pesos. También alquilan caballos 🐴, valor 1 hora por $10.000 pesos.
 
 __Todos los precios mencionados anteriormente pueden variar en temporada alta.__
 
@@ -120,16 +120,16 @@ __Todos los precios mencionados anteriormente pueden variar en temporada alta.__
     file="rutas/huila/desiertoTatacoa/thumbnail.jpg"
     height="555" 
     width="740"
-    caption="Region del desierto rojizo “Cuzco”"
+    caption="Region del desierto de la Tatacoa rojizo “Cuzco”"
 %}
-Una vez de haber recorrido parte del desierto en bicicleta nada más  refrescante para quitar la sed que tomar  “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
+Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más  refrescante para quitar la sed que tomar  “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
 
 
-Después de ver las 2 zonas del desierto ya pensábamos en nuestro regreso🏡. Pero al escuchar hablar sobre la vereda Doche sentimos curiosidad, así que le preguntamos a la gente del hostal acerca de esta región pero algunos decían que era peligroso y que no había nada, otros decían que era bonito. Ya que nos gusta conocer lugares poco conocidos decidimos ir a visitar esta región 🙂🎒.
+Después de ver las 2 zonas del desierto de la Tatacoa ya pensábamos en nuestro regreso🏡. Pero al escuchar hablar sobre la vereda Doche sentimos curiosidad, así que le preguntamos a la gente del hostal acerca de esta región pero algunos decían que era peligroso y que no había nada, otros decían que era bonito. Ya que nos gusta conocer lugares poco conocidos decidimos ir a visitar esta región 🙂🎒.
 
 ## Vereda Doche en el desierto la Tatacoa🌵
 
-Esta vereda se encuentra ubicada a 20 kilómetros del desierto aproximadamente 40 minutos, se encuentra cerca del río Cabrera que separa al departamento del Huila del departamento del Tolima. Esta vereda cuenta con gran biodiversidad de  flora, fauna y rodeado de mitos y leyendas de los antiguos moradores del desierto como los grupos indígenas Doches y Yaporoes. Uno de los principales atractivos en Doche es la Piedra Pintada, la cual guarda secretos en sus gravado.
+Esta vereda se encuentra ubicada a 20 kilómetros del desierto de la Tatacoa  aproximadamente 40 minutos, se encuentra cerca del río Cabrera que separa al departamento del Huila del departamento del Tolima. Esta vereda cuenta con gran biodiversidad de  flora, fauna y rodeado de mitos y leyendas de los antiguos moradores del desierto de la Tatacoa  como los grupos indígenas Doches y Yaporoes. Uno de los principales atractivos en Doche es la Piedra Pintada, la cual guarda secretos en sus gravado.
 
 ## ¿Qué encontrarás Vereda Doche en el desierto la Tatacoa 🏞👀?
 * Lago de las garzas.
@@ -173,7 +173,7 @@ Esta vereda se encuentra ubicada a 20 kilómetros del desierto aproximadamente 4
 
 ## ¿Cómo llegar vereda Doche en el desierto la Tatacoa 🛣🚌?
 
-Desde el desierto es un poco complicado encontrar transporte ya que algunas personas no subirán hasta allá o te cobran demasiado, lo más recomendable si no cuentan con transporte propio es ponerse en contacto con el dueño del hostal para facilitarles transporte.
+Desde el desierto de la Tatacoa es un poco complicado encontrar transporte ya que algunas personas no subirán hasta allá o te cobran demasiado, lo más recomendable si no cuentan con transporte propio es ponerse en contacto con el dueño del hostal para facilitarles transporte.
 
 {% include iframe.html
     type="custom"
@@ -186,7 +186,7 @@ Solo hay un hospedaje en esta zona y se llama “Hospedaje Doche Desierto la Tat
 Precios zona de camping 🏕 $6.000 Pesos por persona, habitación privada $35.000 pesos por personas (sin desayuno),  almuerzo y comida desde 🍛 $10.000 pesos.
 __Si además necesitan transporte llamar con anticipación teléfono: <a href="tel:3143933464">3143933464</a> Juan Manuel Ángel.__ 
 
-Una vez ya instalado en el hostal, no aguante las ganas de preguntarle a Don Ángel acerca del porqué la gente del desierto decían que “La vereda Doche era peligrosa”, así que me contó que anteriormente había presencia de guerrilla cruzando el río Cabrera región que pertenece al Tolima , Pero que ahora la gobernación del huila estaba fortaleciendo el turismo en esta zona.
+Una vez ya instalado en el hostal, no aguante las ganas de preguntarle a Don Ángel acerca del porqué la gente del desierto de la Tatacoa decían que “La vereda Doche era peligrosa”, así que me contó que anteriormente había presencia de guerrilla cruzando el río Cabrera región que pertenece al Tolima , Pero que ahora la gobernación del huila estaba fortaleciendo el turismo en esta zona.
 
 
 ## Ruta a la vereda Doche en el desierto la Tatacoa🚶🏼
@@ -206,7 +206,7 @@ Para ir a los Termales naturales se tienen que informar con la persona que traba
 ## ¿Cómo regresar del Desierto de la Tatacoa 🚌🏡?
 Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta al desierto de la Tatacoa, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 
 

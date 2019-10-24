@@ -2,14 +2,14 @@
 layout: trail
 title:  Nevado del Ruiz
 categories: colombia 
-tags: caldas
-seo_title: NEVADO DEL RUIZ, TRANSPORTE, HOSPEDAJE| COMO LLEGAR
+tags: Caldas
+seo_title: ▷ NEVADO DEL RUIZ, TRANSPORTE, HOSPEDAJE| COMO LLEGAR
 excerpt: Toda la información que necesita saber para ir al Nevado del Ruiz, hospedaje, transporte y precios. Esta es una ruta obligatoria que deberías hacer si vas a estar en la región cafetera. 
 images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
-El volcán el Nevado del Ruiz  está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los andes 🦅y de otras importantes especies.
+El Nevado del Ruiz o como es llamado tambien volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los andes 🦅y de otras importantes especies.
 
 Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
  
@@ -24,7 +24,7 @@ Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
     videoid="1fVmDl0oiFE"
     width="480"
     height="270"
-    caption="Nevado del Ruiz"
+    caption="Como llegar al Nevado del Ruiz"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -61,12 +61,12 @@ __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerz
 
 Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
 
-⚠️ __Dentro del parque no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.__
+⚠️ __Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.__
 
-__Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__ 
+__Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__ 
 <ol>
   <li>
-  Entrada al parque 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.
+  Entrada al Parque los Nevados 2019 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.
   </li> 
   <li>
     Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
@@ -76,13 +76,13 @@ __Para realizar el ingreso al parque tuvimos que pagar lo siguiente:__
   </li> 
 </ol>
 
-⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del parque en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
+⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
 
- _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al parque, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._ 
+ _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._ 
 
-los carros que brindan el servicio los podrán encontrar en la entrada al parque. Estos carros saldrán hasta que llenen el cupo máximo.
+Los carros que brindan el servicio los podrán encontrar en la entrada al Parque de los Nevados. Estos carros saldrán hasta que llenen el cupo máximo.
 
-El ingreso al parque es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
+El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
 
 {% include iframe.html
     type="custom"
@@ -105,20 +105,20 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta al Nevado del Ruiz, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-ℹ️ __Información adicional de la ruta:  click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz"> __Descargar información adicional de la ruta al Nevado del Ruiz__</a>
 
 ## Presupuesto al Nevado del Ruiz por persona 🤔💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
       <p> 
-         Dependerá de la empresa que consultes, podrás ver la información de contacto de algunas empresas de transporte ☎ anexa a la ruta gps, la podrás ver donde dice " ℹ️ Información adicional de la ruta".
+         Dependerá de la empresa que consultes, podrás ver la información de contacto de algunas empresas de transporte ☎ anexa a la ruta gps, la podrás ver donde dice "💾 Descargar información adicional de la ruta al Nevado del Ruiz".
       </p>
     </section>
     <section>
-      <h4>🎟 Entrada parque los nevados </h4>
+      <h4>🎟 Entrada Parque Los Nevados 2019 </h4>
       <p>Mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑: $3.500 pesos.</p>
     </section>
     <section>

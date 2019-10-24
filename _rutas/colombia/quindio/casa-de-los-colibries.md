@@ -3,8 +3,8 @@ layout: trail
 title:  Casa de los Colibríes en Salento
 categories: colombia 
 tags: Quindío
-seo_title: Que hacer en salento
-excerpt: Salento Hospedaje, donde queda salento, qué hacer en salento. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
+seo_title: Que hacer en Salento
+excerpt: Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
 images_url: /images/rutas/quindio/acaime
 viewranger: MTYzNjI1OA==
 author: manuel
@@ -42,8 +42,11 @@ Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de F
           height="721"
        %}   
 </amp-carousel>
-## ¿Cómo llegar 🛣🚌🚗🛵?
-Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $7.000 pesos.
+
+
+## ¿Cómo llegar a Salento 🚌?
+
+__Buses a Salento:__ Desde el terminal de Pereira se toma un bus con dirección a Salento 🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $7.000 pesos.
 
 Una vez en Salento nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal a solo una cuadra del parque principal ⛪️ ver hostal __<a href="http://www.booking.com/hotel/co/hostal-estrella-de-agua-salento.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-596981&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
 
@@ -56,7 +59,7 @@ Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que
 
 Una Vez aquí ya estamos listos para empezar nuestro camino 😎.
 
-## Ruta Valle del Cocora en salento🚶🏼
+## Ruta Valle del Cocora en Salento🚶🏼
 Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kilómetros aproximadamente 3 horas caminando.
 
 {% include iframe.html
@@ -96,8 +99,8 @@ En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pes
 Este es final de nuestro recorrido.
 
 
-## ¿Cómo regresar Valle del Cocora en salento 🚌🏡?
+## ¿Cómo regresar Valle del Cocora en Salento 🚌🏡?
 Para nuestro regreso vamos a ir al mirador de las palmas. Es el camino que vimos aproximadamente a 4 kilómetros cuando íbamos para Acaime, este camino nos lleva de nuevo al Valle del Cocora.
 Recomendación: Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta en Salento, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__

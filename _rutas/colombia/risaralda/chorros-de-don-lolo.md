@@ -17,7 +17,7 @@ Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia te
     videoid="-dT3Vu_U5i4"
      width="480"
      height="270"
-    caption="Chorro de don lolo"
+    caption="Como llegar a los Chorro de don lolo"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -33,8 +33,11 @@ Al día siguiente tomamos el jeep o bus escalera 🚌(Chiva), que sale desde la 
 
 Si van en 🚙 carro o 🛵 moto podrían dejarlo en el “Restaurante-Mirador Don Lolo”, el cual es gratis para clientes o en alguna finca cercana.
 
-## Ruta en los Chorros de Don Lolo 🚶🏽🐕
+## Ruta a los Chorros de Don Lolo 🚶🏽🐕
+
 El jeep nos dejo en el “Restaurante-Mirador Don Lolo”, a partir de aquí descendimos por una carretera de piedra y un camino de herradura.
+
+__Esta ruta se puede realizar con perros 🐕.__
 
 {% include iframe.html
    type="custom"

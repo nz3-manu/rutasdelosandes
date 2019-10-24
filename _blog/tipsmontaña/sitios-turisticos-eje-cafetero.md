@@ -1,18 +1,19 @@
 ---
 layout: article
-title:  3 sitios que no te podrás perder en tu paso por el eje cafetero
+title:  Los 3 lugares que no te puedes perder en tu paso por el eje cafetero.
 categories: blog
+seo_title: 🥇3 lugares que no te puedes perder en tu paso por el eje cafetero.
 excerpt: Conoce los 3 lugares que no te debes perder en tu visita por el eje cafetero,  podrás encontrar toda la información para que visites los mejores lugares naturales del eje cafetero.
 images_url: /images/blog/tipsmontana/3-rutas-eje-cafetero
 tags: TipsMontaña
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/3-rutas-eje-cafetero/featured.jpg
 ---
 
-# LOS 3 LUGARES QUE NO TE PUEDES PERDER EN TU PASO EN EL EJE CAFETERO.
+# LOS 3 LUGARES QUE NO TE PUEDES PERDER EN TU PASO POR EL EJE CAFETERO.
 
 El eje cafetero, o como también es llamado por muchos  “El triángulo del café”, es una región que está conformada por los departamentos de Quindío, Risaralda y Caldas. Este lugar es considerado como una de las regiones con mayor diversidad en flora y fauna de Colombia. 
 
-Además de su riqueza natural esta región está ubicada entre la 3 principales ciudades de Colombia; Bogotá, Medellín y Cali.
+Además de su riqueza natural esta región está ubicada entre la 3 principales ciudades de Colombia;Bogotá, Medellín y Cali.
 
 A Continuación te presentaremos los 3 lugares que no te debes perder en tu paso por el eje cafetero.
 
@@ -65,7 +66,7 @@ La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y a
 __Podrás ver como llegar a este hermoso lugar en el ejecafetero en el siguiente link: <a  target="_blank" href="https://rutasdelosandes.com/colombia/quindio/casa-de-los-colibries.html">Ruta a La Laguna del otún </a>__
 
 
-__Este es el fin de este post, no te olvides de seguirnos en nuestras redes sociales para conocer mas información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin del post los 3 lugares que no te puedes perder en tu paso por el eje cafetero, no te olvides de seguirnos en nuestras redes sociales para conocer mas información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 
 

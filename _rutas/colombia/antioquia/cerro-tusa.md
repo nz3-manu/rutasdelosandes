@@ -3,7 +3,7 @@ layout: trail
 title:  Cerro Tusa
 categories: colombia 
 tags: Antioquia
-seo_title: Cerro Tusa, piramide natural en colombia| comó llegar.
+seo_title: ▷ Cerro Tusa, piramide natural en colombia| comó llegar.
 excerpt: Cerro Tusa en antioquia, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.
 images_url: /images/rutas/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
@@ -12,17 +12,17 @@ author: manuel
 
 Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la pirámide natural más alta del mundo con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo, la cual produce destellos a causa de la refracción de los rayos solares. En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
 
-## ¿Qué encontrarás en Cerro Tusa 🏞👀?
+## ¿Qué encontrarás en Cerro Tusa ?
 
  {% include youtube.html
     videoid="VtuzI8j-dgk"
     width="480"
     height="270"
-    caption="Cerro Tusa"
+    caption="Video de ruta a Cerro Tusa"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar a Cerro Tusa 🛣🚌?
+## ¿Cómo llegar a Cerro Tusa ?
 
 Una vez en Medellín, nos dirigimos hacia el terminal del sur donde tomamos el 🚌bus hacia Venecia, el cual sale cada hora desde las 6:15 am hasta las 6:15 pm, el valor del pasaje es de aproximadamente* $12.000 pesos.
 
@@ -37,7 +37,7 @@ Al día siguiente nos levantamos temprano 🐓🌄, era emocionante saber que ya
 __Nota:__ _Siempre exigir a los guías el respectivo pago del Seguro médico._
 
 
-## Ruta a Cerro Tusa 🚶🏼
+## Ruta a Cerro Tusa 🧗‍
 
 __Recomendaciones:__ _Esta ruta tiene un grado de dificultad 5 en una escala del uno al 5. Así que si no tienes la experiencia haciendo senderismo, no les recomendamos esta ruta, ya que la podrías pasar muy mal y podrías no querer volver_ 😢.
 
@@ -80,7 +80,7 @@ Habíamos escuchado que bajar de Cerro Tusa era un poco más complicado que la s
 
 En cuanto al bus, tener en cuenta que los 🚌buses de Venecia para Medellín salen hasta las 6:30 pm.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta a Cerro Tusa, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
 <span class="advise"> Foto de cerro tusa por:  <a href="https://www.instagram.com/wilber_gil_cortes/"  target="_blank"> @wilber_gil_cortes </a> </span>
 
@@ -99,7 +99,7 @@ __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes social
       <p> Desayuno: $6.000, almuerzo: $10.000 y botella de agua. </p>
     </section>
     <section>
-      <h4> 🧔 guía </h4>
+      <h4> 🧔 guía a Cerro Tusa </h4>
       <p> El valor cambia dependiendo del numero de personas. </p>
     </section>
     <section>

@@ -12,7 +12,7 @@ author: manuel
 
 El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas. 
 
-En el área del parque se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu kogui que son descendientes de los taironas.
+En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu kogui que son descendientes de los taironas.
 
 ## ¿Qué encontrarás en el Parque Tayrona 🏞👀?
 * Gran biodiversidad flora y fauna.
@@ -49,36 +49,36 @@ Primero tenemos que llegar a Santa Marta. Una vez en Santa Marta tenemos que tom
 
 Si vas a comprar algunas cosas para comer en el Parque Tayrona, Recuerda hacerte responsable de tu basura. 
 
-Existen varias entradas para ingresar al parque Tayrona. La entrada más conocida es el Zaino. El bus va a pasar al frente de esta entrada. En la entrada del Zaino podrás encontrar un parqueadero 🅿️que pudes utlizar si vas en carro o moto. 
+Existen varias entradas para ingresar al Parque Tayrona. La entrada más conocida es el Zaino. El bus va a pasar al frente de esta entrada. En la entrada del Zaino podrás encontrar un Parqueadero 🅿️que pudes utlizar si vas en carro o moto. 
  
-Al llegar al Zaino tuvimos que comprar la entrada 🎟 para ingresar al parque Tayrona.
+Al llegar al Zaino tuvimos que comprar la entrada 🎟 para ingresar al Parque Tayrona.
 
-__Para ingresar al parque Tayrona tuvimos que pagar lo siguiente:__ 
-<ol>
+__Para ingresar al Parque Tayrona tuvimos que pagar lo siguiente:__ 
+<ul>
   <li>
-  Entrada al parque tayrona 2019 🎟: mayores de 5 años y menores de 25 años $18.000 pesos, mayores de 25 años $24.000 pesos extranjeros $53.000 pesos.
-  Estos precios mencionados son para temporada baja, en temporada alta se incrementan aproximadamente $10.000 pesos más.
+  Entrada al Parque Tayrona 2019 🎟: mayores de 5 años y menores de 25 años $18.000 pesos, mayores de 25 años $24.000 pesos extranjeros $53.000 pesos.
+  </li>  
+</ul>
+ Estos precios mencionados son para temporada baja, en temporada alta se incrementan aproximadamente $10.000 pesos más.
 
   Puedes comprar tu ingreso directamente en la taquilla o a través de la página web del Parque Tayrona <a href="http://www.parquetayrona.com.co/" target="_blank"> aquí.</a> 
-  </li>  
-</ol>
 
 
-Si vas en carro 🚗 el parqueadero tiene un valor de $13.000 pesos y las motos 🛵 $9.000 pesos (estas tarifas pueden haber cambiado), y recuerda, los cupos de los parqueadero son limitados.
+Si vas en carro 🚗 el parqueadero del Tayrona tiene un valor de $13.000 pesos y las motos 🛵 $9.000 pesos (estas tarifas pueden haber cambiado), y recuerda, los cupos de los parqueadero en el Tayrona son limitados.
 
-__Recomendaciones:__ _El parque abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se llena el parque éste cerrará sus puertas. 
-En la entrada te vas a encontrar con personas que te van a ofrecer los hospedajes dentro del parque, ten en cuenta que ellos son intermediarios y te van a cobrar un poco más._
+__Recomendaciones:__ _El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
+En la entrada te vas a encontrar con personas que te van a ofrecer los hospedajes dentro del Parque Tayrona, ten en cuenta que ellos son intermediarios y te van a cobrar un poco más._
 
 ## Ruta al Parque Tayrona 🚶🏼
 
-Una vez comprado el ingreso 🎟 ya estamos listos para empezar la caminata hasta Cabo San Juan. La duración del trayecto es aproximadamente 3 horas, si no deseas caminar puedes alquilar el servicio de caballos 🐴 que tiene un valor aproximado $50.000 pesos. La duración del trayecto es de 30 minutos.
+Una vez comprado el ingreso para el Parque Tayrona 🎟 ya estamos listos para empezar la caminata hasta Cabo San Juan. La duración del trayecto es aproximadamente 3 horas, si no deseas caminar puedes alquilar el servicio de caballos 🐴 que tiene un valor aproximado $50.000 pesos. La duración del trayecto es de 30 minutos.
 
-Este es todo el trayecto que realizaremos; ruta entrando por el Zaino, pasando por Cabo San Juan, pueblito kogui y por ultimo saliendo por calabazo.
+Este es todo el trayecto que realizaremos en el Parque Tayrona: ruta entrando por el Zaino, pasando por Cabo San Juan, pueblito kogui y por ultimo saliendo por calabazo.
 
 {% include iframe.html
     type="custom"
     mid="13OpqCoxV-YvPznmN79HLFTSe7FroJhxS&hl=es"
-    caption="Ruta entrada Zaino Cabo San Juan hasta entrada calabazo"
+    caption="Ruta en el Parque Tayrona"
 %}
 
 
@@ -125,5 +125,5 @@ Una vez de haber visto las hermosas playas, pasar por bosques y ver el hermoso p
 
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta al Parque Tayrona, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 

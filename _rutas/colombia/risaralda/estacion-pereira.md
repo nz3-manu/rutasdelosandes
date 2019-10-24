@@ -72,9 +72,11 @@ Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya 
 
 __[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
 
-## Ruta a Estación Pereira 🚶🏽🐕
+## Ruta a Estación Pereira 🚶🏽🐕.
 
 Una vez de haber cruzado el río cauca en la “garrucha” ya estamos preparados para iniciar  el recorrido a las cascadas las cuales están a 30 minutos caminando de la “finca la Playita”(donde nos deja la garrucha) por una camino muy señalizado.
+
+__Esta ruta se puede realizar con perros 🐕.__
 
 
 <amp-instagram
@@ -96,7 +98,7 @@ De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:
 
 __Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
 
-ℹ️ __Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">aquí</a>__
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional de la ruta a Estación Pereira.__</a>
 
 ## Presupuesto a Estación Pereira por persona 🤔💰
   <amp-accordion animate>
