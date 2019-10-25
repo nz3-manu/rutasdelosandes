@@ -2,7 +2,8 @@
 layout: article
 title:  Busque La Felicidad En El Dinero Y Esto Fue Lo Que Paso... 
 categories: blog
-excerpt: Me llamo Jin-O Yoon tengo 29 años soy de Seúl, Corea del sur.Tenia un buen trabajo ganaba buen dinero. Pero me di cuenta que el dinero no lo es todo, así que decidí viajar.
+seo_title: Historias de viajeros
+excerpt: Historias de viaje por llamo Jin-O alguien que dejo su trabajo para seguir su sueño. Tenia un buen trabajo ganaba buen dinero. Pero me di cuenta que el dinero no lo es todo, así que decidí viajar.
 tags: Historias
 images_url: /images/blog/senderismo/yoon
 featured: https://rutasdelosandes.com/images/blog/senderismo/yoon/yoon.jpg

@@ -1,7 +1,8 @@
 ---
 layout: article
-title:  Alimenta Tu Mente
+title:  La ciencia estudia los beneficios de caminar en la montaña.
 categories: blog
+seo_title: La ciencia estudia los beneficios de caminar en la montaña
 excerpt: Si sientes que tu mente ya no puede recordad cosas como antes y por mas que trates de concentrarte en algo en especifico terminas haciendo otras cosas, te invito a ver el siguiente estudio.
 tags: Salud
 images_url: /images/blog/salud/alimentamente

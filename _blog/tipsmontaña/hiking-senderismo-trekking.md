@@ -2,7 +2,8 @@
 layout: article
 title:  Te Has Preguntado La Diferencia Entre Trekking y Hiking 
 categories: blog
-excerpt: Muchas veces escuchamos a personas decir que se van de Trekking, Hikking o senderismo, ¿alguna vez te has preguntado cual es correcta? aquí te las explicaremos.
+seo_title: Diferencia entre Trekking y Hiking
+excerpt: ¿Sabes la diferencia entre Trekking, Hikking o senderismo? aquí te las explicaremos.
 images_url: /images/blog/tipsmontana/hiking&trekking
 tags: TipsMontaña
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/tarahumara.jpg

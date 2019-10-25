@@ -2,7 +2,8 @@
 layout: article
 title:  Así Cambia Tu Cerebro Cuando Haces Senderismo
 categories: blog
-excerpt: Ya vivas en la gran ciudad o en una pequeña aldea, dime ¿cuándo fue la última vez que saliste a caminar por el campo? El frenético ritmo de vida, el trabajo y la jungla de asfalto en la que vivimos nos están pasando factura. No es una cuestión puramente física, sino mental. La depresión es ya una...
+seo_title: Beneficios de senderismo o caminar
+excerpt: Descubre los Beneficios de senderismo o de salir a caminar por unos pocos minutos.
 tags: Salud Historias TipsMontaña
 images_url: /images/blog/salud/senderismo
 featured:  https://rutasdelosandes.com/images/blog/salud/senderismo/senderismo.jpg
