@@ -13,7 +13,7 @@ featured:  https://rutasdelosandes.com/images/blog/tipsmontana/3-rutas-eje-cafet
 
 El eje cafetero, o como también es llamado por muchos  “El triángulo del café”, es una región que está conformada por los departamentos de Quindío, Risaralda y Caldas. Este lugar es considerado como una de las regiones con mayor diversidad en flora y fauna de Colombia. 
 
-Además de su riqueza natural esta región está ubicada entre la 3 principales ciudades de Colombia;Bogotá, Medellín y Cali.
+Además de su riqueza natural esta región está ubicada entre las 3 principales ciudades de Colombia;Bogotá, Medellín y Cali.
 
 A Continuación te presentaremos los 3 lugares que no te debes perder en tu paso por el eje cafetero.
 

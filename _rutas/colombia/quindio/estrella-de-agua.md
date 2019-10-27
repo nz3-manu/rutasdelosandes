@@ -32,18 +32,18 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
 
        {% include image.html
           file="rutas/quindio/estrellaAgua/slider1.jpg"
-          width="921"
-          height="708"
+          width="800"
+          height="615"
        %}
        {% include image.html
           file="rutas/quindio/estrellaAgua/slider2.jpg"
-          width="1040"
-          height="800"
+          width="800"
+          height="615"
        %}
        {% include image.html
           file="rutas/quindio/estrellaAgua/slider3.jpg"
-          width="1200"
-          height="1125"
+          width="800"
+          height="750"
        %}   
 </amp-carousel>
 
@@ -75,9 +75,9 @@ El camino hasta Estrella de Agua se encuentra muy señalizado. Pasaremos por la 
 
 {% include image.html
  file="rutas/quindio/estrellaAgua/puente.jpg"
- caption="Puente colante"
- width="1800"
- height="1384"
+ caption="Puente colante en salento"
+ width="900"
+ height="692"
 %}
 
 Cerca de 4 kilómetros  nos vamos a encontrar con dos caminos en el mapa que pusimos anteriormente lo podremos ver con el signo de advertencia (⚠️) donde se ven 2 caminos:
@@ -90,8 +90,8 @@ Al llegar a la Casa de los Colibríes  tenemos que pagar  $5.000 Pesos de entrad
 {% include image.html
  file="rutas/quindio/estrellaAgua/casadecolibries.jpg"
  caption="Casa de los colibríes"
- width="1800"
- height="1384"
+ width="900"
+ height="692"
 %}
 
 En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pesos. Numero de telefono <a href="tel:3104240360">
@@ -104,8 +104,8 @@ Al llegar a Estrella de Agua nos encontraremos a 3100 msnm.
 {% include image.html
  file="rutas/quindio/estrellaAgua/estrellaAgua.jpg"
  caption="Estrella de Agua"
- width="960"
- height="539"
+ width="900"
+ height="505"
 %}
 
 Es también conocida como la estación biológica estrella de agua este lugar es el punto de entrada  para los páramos; de frontino 2.8 km y romerales 2.5 km. además de esto es donde nace el río Quindío.

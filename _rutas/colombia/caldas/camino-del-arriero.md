@@ -43,8 +43,8 @@ Desde donde nos dejó el bus, seguimos nuestro camino apreciando los hermosos pa
 {% include image.html
 file="rutas/caldas/luna/montaña.jpg"
 caption="Foto de las montañas"
-width="2500"
-height="1411"
+width="900"
+height="508"
 %}
 
 Después de ver estos hermosos paisajes seguimos con un descenso de aproximadamente 1 hora hasta bajar a nivel del río Guacaica.
@@ -54,8 +54,8 @@ Encontraremos 2 caminos en el cual debimos seguir  a la derecha en dirección a 
 {% include image.html
 file="rutas/caldas/luna/rioGuacaica.jpg"
 caption="río Guacaica"
-width="2500"
-height="1411"
+width="900"
+height="505"
 %}
 
 __Nota:__ Para llegar a la Cascada tuvimos que desviarnos de la conocida Ruta de los arrieros que sube a la Vereda Pueblo Rico. 
@@ -71,8 +71,8 @@ Después de  40 minutos caminando (desde que pasamos la vereda el guineo), nos e
 {% include image.html
 file="rutas/caldas/luna/puenteGuadua.jpg"
 caption="Puente de Guadua"
-width="2170"
-height="1411"
+width="900"
+height="585"
 %}
 
 Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 minutos, __se recomienda usar tenis de muy buen agarre ya que en el camino se encuentran con piedras que son muy resbalosas.__

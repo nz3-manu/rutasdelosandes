@@ -30,13 +30,13 @@ La Finca Primavera está ubicada en la región montañosa de la cordillera centr
 
     {% include image.html 
         file="rutas/quindio/primaveraTolima/slider1.JPG" 
-        width="1200"
-        height="675"
+        width="900"
+        height="506"
     %} 
     {% include image.html 
         file="rutas/quindio/primaveraTolima/slider2.jpg" 
-        width="1200"
-        height="675"
+        width="900"
+        height="506"
     %} 
 </amp-carousel>
 
@@ -80,8 +80,8 @@ Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 2.5 k
 {% include image.html
  file="rutas/quindio/primaveraTolima/valleDeLosPerdidos.JPG"
  caption="Foto paramo(valle de los perdidos)"
- width="1800"
- height="1012"
+ width="900"
+ height="506"
 %}
 
 El camino hasta la finca primavera se encuentra señalizado. Tendremos que pasar por el valle de los perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
@@ -90,8 +90,8 @@ Después de 3 horas caminando por este valle nos encontraremos con la finca prim
 {% include image.html
  file="rutas/quindio/primaveraTolima/FincaPrimavera.jpg"
  caption="Foto Finca Primavera"
- width="1200"
- height="675"
+ width="900"
+ height="506"
 %}
 
 En este lugar podremos encontrar; hospedaje en habitación compartida $20.000 pesos por persona, Zona de camping 🏕, Almuerzo y cena 🍛 $12.000 pesos desayuno $10.000 pesos. 

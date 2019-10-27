@@ -28,23 +28,23 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
     delay="2000">
     {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider1.jpg" 
-        height="900" 
-        width="1200"
+        width="800"
+        height="600" 
     %} 
      {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider12.jpg" 
-        height="1875" 
-        width="2500"
+        width="800"
+        height="600" 
     %} 
      {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider2.jpg" 
-        width="1000"
-        height="750"
+        width="800"
+        height="600" 
     %} 
        {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider3.JPG" 
-        width="1200"
-        height="900"
+        width="800"
+        height="600" 
     %} 
 </amp-carousel>
 
@@ -146,28 +146,28 @@ Esta vereda se encuentra ubicada a 20 kilómetros del desierto de la Tatacoa  ap
     delay="2000">
     {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider13.jpg" 
-        width="1875"
-        height="2500"
+        width="800"
+        height="600" 
     %} 
     {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider4.jpg" 
-        height="1200" 
-        width="900"
+        width="800"
+        height="600" 
     %} 
      {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider5.jpg" 
-        width="1200"
-        height="900"
+        width="800"
+        height="600" 
     %} 
        {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider6.JPG" 
-        width="1200"
-        height="900"
+        width="800"
+        height="600" 
     %} 
         {% include image.html 
         file="rutas/huila/desiertoTatacoa/slider7.jpg" 
-        width="1173"
-        height="977"
+        width="800"
+        height="600" 
     %} 
 </amp-carousel>
 

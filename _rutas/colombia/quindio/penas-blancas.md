@@ -50,9 +50,9 @@ _Este lugar no cuenta con seguridad 👮 para carros ni motos, si lo dejas aquí
 {% include image.html 
    file="rutas/quindio/blancas/primeraEntrada.jpg" 
    caption="Primera entrada a Peñas Blancas"
-   width="1000"
+   width="800"
+   height="600"
    zoom="13"
-   height="750"
 %} 
 Una vez en la primera entrada empezamos nuestra caminata hasta El Ecoparque Peñas Blancas(allí se encuentra la entrada al sendero).
 

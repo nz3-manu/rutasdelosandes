@@ -52,8 +52,8 @@ Una vez de haber dejado atrás la casa de Don Tulio, pasamos un pequeño río y 
 {% include image.html
  file="rutas/risaralda/donlolo/sendero.jpg"
  caption="sendero hacia los chorros de don lolo"
- width="1500"
- height="1125"
+ width="800"
+ height="600"
 %} 
 
 Caminamos por cerca de 30 minutos por este sendero para llegar a la famosa cascada de “Chorros De Don Lolo” 😍.
@@ -61,8 +61,8 @@ Caminamos por cerca de 30 minutos por este sendero para llegar a la famosa casca
 {% include image.html
  file="rutas/risaralda/donlolo/cascada.jpg"
  caption="cascada Chorros de Don Lolo"
- width="2500"
- height="1875"
+ width="800"
+ height="600"
 %} 
 
 

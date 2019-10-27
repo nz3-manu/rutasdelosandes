@@ -61,7 +61,7 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
 
 {% include image.html 
    file="rutas/risaralda/estacion/garrucha.jpg" 
-   caption="garrucha cruzando el rio cauca podemos ver en su interior alguien halando el cable para impulsarla "
+   caption="garrucha cruzando el rio cauca en estación pereira "
    width="800"
    height="450"
 %} 

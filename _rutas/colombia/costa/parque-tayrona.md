@@ -29,18 +29,19 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 
     {% include image.html 
         file="rutas/costa/tayrona/slider1.JPG" 
-        height="1031" 
-        width="1500"
+        width="800"
+        height="550" 
+        
     %} 
      {% include image.html 
         file="rutas/costa/tayrona/slider2.JPG" 
-        height="1031" 
-        width="1500"
+        width="800"
+        height="550" 
     %} 
      {% include image.html 
         file="rutas/costa/tayrona/slider3.JPG" 
-        height="1031" 
-        width="1500"
+        width="800"
+        height="550"
     %} 
 </amp-carousel>
 
@@ -113,9 +114,9 @@ Al llegar al Pueblo kogui encontramos una pequeña tienda 🏬, en la cual vende
 
 {% include image.html
 file="rutas/costa/tayrona/pueblito.JPG"
-caption="Pueblo kogui"
-width="1500"
-height="844"
+caption="Pueblo kogui en el Tayrona"
+width="900"
+height="507"
 %}
 
 Una vez de haber visto las hermosas playas, pasar por bosques y ver el hermoso pueblo kogui ya era tiempo de regresar de nuevo a casa 🏠, así que continuamos nuestro camino hasta la entrada  la otra entrada del Parque Tayrona Calabazo donde podremos tomar transporte para Santa Marta.

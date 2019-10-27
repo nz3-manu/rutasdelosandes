@@ -48,8 +48,8 @@ Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Past
 
 {% include image.html 
     file="rutas/risaralda/chorros/lapastora3.jpg" 
-    width="1024"
-    height="682"
+    width="900"
+    height="599"
     caption="Centro de visitantes la pastora"
 %} 
 

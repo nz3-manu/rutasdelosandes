@@ -47,7 +47,8 @@ __Para alquiler de habitación compartida y almuerzos se debe confirmar disponib
 
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
- {% include image.html 
+ 
+{% include image.html 
    file="rutas/risaralda/quimbaya/2017-05-21_10-02-20_o.jpg" 
    caption="Mapa del sendero cacique nona"
 %} 
@@ -65,8 +66,8 @@ En este punto se inicia el sendero del Cacique Nona el cual cruza la Reserva, de
 
 {% include image.html 
     file="rutas/risaralda/quimbaya/slide5.jpg" 
-    width="4032"
-    height="3024"
+    width="900"
+    height="675"
     fullscreen="true"
     caption="variadas plantas que puedes encontrar en el recorrido"
 %} 

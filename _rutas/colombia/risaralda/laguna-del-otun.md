@@ -105,9 +105,9 @@ Al día siguiente nos levantamos temprano para ir a conocer un lugar que nos hab
 
 {% include image.html
 file="rutas/risaralda/lagunadelotun/silencio.JPG"
-caption="Laguna del Silencio"
-width="1800"
-height="1350"
+caption="Laguna del Silencio en parque los nevados"
+width="900"
+height="675"
 %}
 
 Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa laguna 🧘‍♂️, regresamos a la zona de Camping de la Laguna del Otún donde  nos quedamos el resto del día para descansar un poco.
