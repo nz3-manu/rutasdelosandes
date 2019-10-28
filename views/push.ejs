@@ -2,6 +2,14 @@
   <head>
     <title> push notifications </title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style>
+label {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+</style>
   </head>
   <body>
     <div class="container">
@@ -12,16 +20,16 @@
             <label for="title"> notificaction title</label>
             <input type="text" id="title" style="width: 300px;" placeholder="nueva ruta nevado del ruiz!! " maxlength="20" name="title"><br>
             <label for="body"> body</label>
-            <input type="text" style="width: 450px;" id="body" placeholder="bella ruta que no te puedes perder en el eje cafetero has click para descubrirla" name="body"><br>
+            <textarea type="text" style="width: 500px;" id="body" placeholder="bella ruta que no te puedes perder en el eje cafetero has click para descubrirla" name="body"></textarea><br>
             <label for="image"> imagen </label>
-            <input type="text"  style="width: 450px;" id="image" placeholder="https://rutasdelosandes.com/images/rutas/caldas/ruiz/featured.jpg" name="image"><br>
+            <input type="text"  style="width: 500px;" id="image" placeholder="https://rutasdelosandes.com/images/rutas/caldas/ruiz/featured.jpg" name="image"><br>
             <label for="url"> url de la ruta </label>
-            <input type="text" style="width: 450px;" id="url" placeholder="https://rutasdelosandes.com/colombia/antioquia/cerro-tusa.html" name="url"><br>
+            <input type="text" style="width: 500px;" id="url" placeholder="https://rutasdelosandes.com/colombia/antioquia/cerro-tusa.html" name="url"><br>
             <label for="id"> id de referencia para google analitycs</label>
             <input type="text" id="id" placeholder="RutaNevadoRuiz" name="id"><br>
             <label for="secret"> password </label>
             <input type="text" id="secret" placeholder="*****" name="secret"><br>
-            <input type="submit" value="Submit">
+            <input type="submit" value="Enviar">
           </form>
         </div>
         <div class="col-md-5">
