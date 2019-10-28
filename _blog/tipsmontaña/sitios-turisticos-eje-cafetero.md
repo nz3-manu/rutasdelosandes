@@ -29,8 +29,8 @@ Además de su gran belleza es conocido por el acontecimiento que ocurrió el 3 d
 {% include image.html
  file="/blog/tipsmontana/3-rutas-eje-cafetero/nevado-del-ruiz.jpg"
  caption="rutas de montaña en Manizales"
- width="1800"
- height="1013"
+ width="800"
+ height="450"
 %}
 
 __Podrás ver como llegar a este hermoso lugar en el ejecafetero en el siguiente link: <a  target="_blank" href="https://rutasdelosandes.com/colombia/quindio/casa-de-los-colibries.html">Ruta al Nevado del Ruiz </a>__
@@ -44,8 +44,8 @@ Si eres amante de la naturaleza, encontraras infinidades de lugares en este sect
 {% include image.html
  file="/blog/tipsmontana/3-rutas-eje-cafetero/salento.jpg"
  caption="rutas de montaña en salento"
- width="2000"
- height="1126"
+ width="800"
+ height="450"
 %}
 
 __Podrás ver como llegar a este hermoso lugar en el ejecafetero en el siguiente link: <a  target="_blank" href="https://rutasdelosandes.com/colombia/quindio/casa-de-los-colibries.html">Ruta en salento Quindio </a>__
@@ -59,8 +59,8 @@ La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y a
 {% include image.html
  file="/blog/tipsmontana/3-rutas-eje-cafetero/laguna-del-otun.jpg"
  caption="rutas de montaña en Pereira"
- width="1080"
- height="607"
+ width="800"
+ height="405"
 %}
 
 __Podrás ver como llegar a este hermoso lugar en el ejecafetero en el siguiente link: <a  target="_blank" href="https://rutasdelosandes.com/colombia/quindio/casa-de-los-colibries.html">Ruta a La Laguna del otún </a>__

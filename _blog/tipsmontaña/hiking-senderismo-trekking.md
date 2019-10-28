@@ -18,8 +18,8 @@ El término trekking es de origen sudafricano, y hace referencia a un viaje larg
 
 {% include image.html
  file="/blog/tipsmontana/hiking&trekking/trekking.jpg"
- width="1200"
- height="674"
+ width="900"
+ height="533"
  alt="Diferencia entre Trekking y Hiking"
 %}
 
@@ -27,8 +27,8 @@ En el trekking encontraremos distintos grados de dificultad, estos dependen de l
 
 {% include image.html
  file="/blog/tipsmontana/hiking&trekking/camping.jpg"
- width="1200"
- height="800"
+ width="800"
+ height="449"
  alt="Diferencia entre Trekking y Hiking"
 %}
 
@@ -37,8 +37,8 @@ El senderismo es una actividad más relajante y aunque también existen diversas
 
 {% include image.html
  file="/blog/tipsmontana/hiking&trekking/hiking.jpg"
- width="1200"
- height="674"
+ width="900"
+ height="506"
  alt="Diferencia entre Trekking y Hiking"
 %}
 

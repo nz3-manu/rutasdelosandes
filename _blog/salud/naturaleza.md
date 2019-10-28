@@ -18,8 +18,9 @@ En Escocia se realizó un estudio que sugiere que __visitar áreas verdes y parq
 
 {% include image.html
  file="/blog/salud/alimentamente/mariposa.jpeg"
- width="1800"
- height="1012"
+ caption="Beneficios caminar en la montaña foto"
+ width="900"
+ height="600"
 %}
 
 Estudios han demostrado que quienes viven cerca de parques y otras concentraciones de árboles tienen niveles más bajos de hidrocortisona –hormona relacionada con el estrés–  que los habitantes de edificios rodeados sólo por concreto; y que los niños con déficit de atención suelen tener mejores resultados en exámenes cognitivos después de haber caminado por zonas arbóreas.
@@ -38,8 +39,9 @@ No se había podido examinar la actividad cerebral de las personas mientras cami
 
 {% include image.html
  file="/blog/salud/alimentamente/naturaleza.jpeg"
- width="1800"
- height="1012"
+ caption="Beneficios caminar en la montaña"
+ width="800"
+ height="533"
 %}
 
 Los resultados del estudio con base en los patrones de ondas cerebrales registrados en las computadoras de cada voluntario, revelaron que éstos tuvieron una actividad cerebral calmada durante su caminata por la zona arbórea.
