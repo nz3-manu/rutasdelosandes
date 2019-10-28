@@ -96,8 +96,8 @@ if (process.env.NODE_ENV == "production") {
   app.all("*", ensureSecure);
 }
 
-// const bot = require('./chatbot/bot.js');
-// app.use(bot);
+const bot = require('./chatbot/bot.js');
+app.use(bot);
 
 // Use the session middleware
 app.use(
