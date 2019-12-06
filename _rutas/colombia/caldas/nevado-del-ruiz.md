@@ -54,7 +54,7 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino 🗻. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz 🏔.
 
 
-En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).  __Teléfono:<a href="tel: 3218473144"> 3218473144</a>__
+En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).  
 
 __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.__
 
