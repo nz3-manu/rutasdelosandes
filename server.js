@@ -155,14 +155,12 @@ app.post("/product-notify", upload.fields([]), function(req, res) {
   let { id, whatsapp, correo, nombre } = req.body;
   let origin = req.header("origin").toLowerCase();
   let source = req.query.__amp_source_origin;
-  Moltin.Products.Get(id).then(product => {
-    push(`notify-user`, { nombre, whatsapp, correo, sku: product.data.sku });
-    console.log(req.body, "user data sent from form");
+
+    push(`notify-user`, { nombre, whatsapp, correo, sku: id });
+
     res.set("Access-Control-Allow-Origin", origin);
-    res.set(
-      "Access-Control-Allow-Headers",
-      "Origin, X-Requested-With, Content-Type, Accept"
-    );
+    res.set( "Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
     res.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS, HEAD, PUT");
     res.set("Access-Control-Allow-Credentials", "true");
     res.set(
@@ -171,7 +169,6 @@ app.post("/product-notify", upload.fields([]), function(req, res) {
     );
     res.set("AMP-Access-Control-Allow-Source-Origin", source);
     res.json({ status: "ok", celular: "3113403572" });
-  });
 });
 
 app.post("/api/trigger-push-msg/", function(req, res) {
