@@ -27,7 +27,6 @@ Está  zona se caracteriza por ser uno de los lugares donde más llueve de colom
     caption="Como llegar a la Laguna del Otún"
 %}
 
-Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
 ## ¿Cómo llegar  🛣🚌?
@@ -57,7 +56,6 @@ Desde Santa Cecilia hasta las Brisas de Gito son aproximadamente 10 minutos en m
 Si el bus que tomas Desde Pereira o Pueblo rico va hasta Quibdó este pasará cerca de la entrada a Brisas de Gito, tendrán que hablar con el conductor para que les informe donde es tendrán que bajar o puedes descargar la ruta gps que dejamos anexa a la ruta.
 
 Si vas en moto o carro 🅿️ lo podrás dejar  en la entrada al sendero del Ecotel Brisas de Gito.  El valor de parqueadero es alrededor de $4.000 pesos.
-
 
 
 ## El camino 🚶🏼🏔
