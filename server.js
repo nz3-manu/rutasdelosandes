@@ -1,21 +1,21 @@
-const express = require("express"),
+const express = require('express'),
   app = express(),
-  fs = require("fs"),
-  https = require("https"),
-  React = require("react"),
-  ReactDOMServer = require("react-dom/server"),
-  bodyParser = require("body-parser"),
-  webpush = require("web-push"),
-  path = require("path"),
-  md5 = require("md5"),
-  multer = require("multer"),
-  session = require("express-session"),
-  request = require("request"),
-  sm = require("sitemap"),
-  Sentry = require("@sentry/node"),
-  cheerio = require("cheerio");
+  fs = require('fs'),
+  https = require('https'),
+  React = require('react'),
+  ReactDOMServer = require('react-dom/server'),
+  bodyParser = require('body-parser'),
+  webpush = require('web-push'),
+  path = require('path'),
+  md5 = require('md5'),
+  multer = require('multer'),
+  session = require('express-session'),
+  request = require('request'),
+  sm = require('sitemap'),
+  Sentry = require('@sentry/node'),
+  cheerio = require('cheerio');
 
-import { SheetsRegistry } from "react-jss/lib/jss";
+import {SheetsRegistry} from 'react-jss/lib/jss';
 import {
   lineItemAdd,
   lineItemRemove,
@@ -24,21 +24,21 @@ import {
   cartPromise,
   productByHandle,
   createCheckout,
-  fetchCheckout
-} from "./shopifyPromises.js";
-import JssProvider from "react-jss/lib/JssProvider";
+  fetchCheckout,
+} from './shopifyPromises.js';
+import JssProvider from 'react-jss/lib/JssProvider';
 import {
   MuiThemeProvider,
   createMuiTheme,
-  createGenerateClassName
-} from "@material-ui/core/styles";
-import recipe from "./recipe";
-import main from "./imageProcess/custom-image";
-import blueGrey from "@material-ui/core/colors/blueGrey";
+  createGenerateClassName,
+} from '@material-ui/core/styles';
+import recipe from './recipe';
+import main from './imageProcess/custom-image';
+import blueGrey from '@material-ui/core/colors/blueGrey';
 
 let upload = multer();
 Sentry.init({
-  dsn: "https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109"
+  dsn: 'https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109',
 });
 app.use(Sentry.Handlers.requestHandler());
 app.use(Sentry.Handlers.errorHandler());
@@ -47,53 +47,46 @@ app.use(function onError(err, req, res, next) {
   // The error id is attached to `res.sentry` to be returned
   // and optionally displayed to the user for support.
   res.statusCode = 500;
-  res.end(res.sentry + "\n");
-}); 
+  res.end(res.sentry + '\n');
+});
 
-app.get("/image/:name/thanks.jpg", main);
+app.get('/image/:name/thanks.jpg', main);
 
-app.set("views", "./views");
-app.set("view engine", "ejs");
+app.set('views', './views');
+app.set('view engine', 'ejs');
 
-require("es6-promise").polyfill();
-require("isomorphic-fetch");
+require('es6-promise').polyfill();
+require('isomorphic-fetch');
 
 // push notifications
 const vapidKeys = {
   publicKey:
-    "BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4",
-  privateKey: "z6scVphnKP7WPgjVeJZFgvGdMlrFT8V2hVEg08mnoms"
+    'BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4',
+  privateKey: 'z6scVphnKP7WPgjVeJZFgvGdMlrFT8V2hVEg08mnoms',
 };
 
 webpush.setVapidDetails(
-  "mailto:rutasdelosandes@gmail.com",
+  'mailto:rutasdelosandes@gmail.com',
   vapidKeys.publicKey,
-  vapidKeys.privateKey
+  vapidKeys.privateKey,
 );
 
 //server side fetch polifyll
-import routes from "./_javascript/routes";
-import { match, RouterContext } from "react-router";
-import {
-  read,
-  write,
-  push,
-  sendToDevice,
-  update,
-  remove
-} from "./chatbot/db";
-import { Promise } from "firebase";
-import reducer from "./_javascript/reducers";
-import { createStore } from "redux";
-import { Provider } from "react-redux";
+import routes from './_javascript/routes';
+import {match, RouterContext} from 'react-router';
+import {read, write, push, sendToDevice, update, remove} from './chatbot/db';
+import {Promise} from 'firebase';
+import reducer from './_javascript/reducers';
+import {createStore} from 'redux';
+import {Provider} from 'react-redux';
 // set this var for react inner components
 global.__preloaded__ = JSON.parse(
-  fs.readFileSync("./_site/documents.json", "utf8")
+  fs.readFileSync('./_site/documents.json', 'utf8'),
 );
 
 /* not secure yet */
-if (process.env.NODE_ENV == "production") {
-  app.all("*", ensureSecure);
+if (process.env.NODE_ENV == 'production') {
+  app.all('*', ensureSecure);
 }
 
 const bot = require('./chatbot/bot.js');
@@ -102,19 +95,19 @@ app.use(bot);
 // Use the session middleware
 app.use(
   session({
-    secret: "keyboard cat",
+    secret: 'keyboard cat',
     resave: false,
     saveUninitialized: false,
-    cookie: { maxAge: 7200000 }
-  })
+    cookie: {maxAge: 7200000},
+  }),
 );
 
 app.use(bodyParser.json());
 app.use(
   bodyParser.urlencoded({
     // to support URL-encoded bodies
-    extended: true
-  })
+    extended: true,
+  }),
 );
 // ensure secure middleware
 function ensureSecure(req, res, next) {
@@ -125,15 +118,14 @@ function ensureSecure(req, res, next) {
   }
 }
 
-
 //Push notifications actions
 function getSubscriptionsFromDatabase() {
   return new Promise((resolve, reject) => {
-    read("endpoints")
+    read('endpoints')
       .then(function(snapshot) {
         let subscriptionsRows = [];
         snapshot.forEach(function(childSnapshot) {
-          subscriptionsRows.push({ [childSnapshot.key]: childSnapshot.val() });
+          subscriptionsRows.push({[childSnapshot.key]: childSnapshot.val()});
         });
         resolve(subscriptionsRows);
       })
@@ -141,38 +133,41 @@ function getSubscriptionsFromDatabase() {
   });
 }
 //TODO check why the hardcoded url
-app.get("/api/actions/:action/:id", function(req, res) {
-  console.log("push action", req.params.action, "push id", req.params.id);
-  res.setHeader("Content-Type", "application/json");
+app.get('/api/actions/:action/:id', function(req, res) {
+  console.log('push action', req.params.action, 'push id', req.params.id);
+  res.setHeader('Content-Type', 'application/json');
   res.status(200).send(
     JSON.stringify({
-      url: "https://rutasdelosandes.com/colombia/acaime.html"
-    })
+      url: 'https://rutasdelosandes.com/colombia/acaime.html',
+    }),
   );
 });
 
-app.post("/product-notify", upload.fields([]), function(req, res) {
-  let { id, whatsapp, correo, nombre } = req.body;
-  let origin = req.header("origin").toLowerCase();
+app.post('/product-notify', upload.fields([]), function(req, res) {
+  let {id, whatsapp, correo, nombre} = req.body;
+  let origin = req.header('origin').toLowerCase();
   let source = req.query.__amp_source_origin;
 
-    push(`notify-user`, { nombre, whatsapp, correo, sku: id });
+  push(`notify-user`, {nombre, whatsapp, correo, sku: id});
 
-    res.set("Access-Control-Allow-Origin", origin);
-    res.set( "Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.set('Access-Control-Allow-Origin', origin);
+  res.set(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept',
+  );
 
-    res.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS, HEAD, PUT");
-    res.set("Access-Control-Allow-Credentials", "true");
-    res.set(
-      "Access-Control-Expose-Headers",
-      "AMP-Access-Control-Allow-Source-Origin"
-    );
-    res.set("AMP-Access-Control-Allow-Source-Origin", source);
-    res.json({ status: "ok", celular: "3113403572" });
+  res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, HEAD, PUT');
+  res.set('Access-Control-Allow-Credentials', 'true');
+  res.set(
+    'Access-Control-Expose-Headers',
+    'AMP-Access-Control-Allow-Source-Origin',
+  );
+  res.set('AMP-Access-Control-Allow-Source-Origin', source);
+  res.json({status: 'ok', celular: '3113403572'});
 });
 
-app.post("/api/trigger-push-msg/", function(req, res) {
-  if (req.body.secret == "luna") {
+app.post('/api/trigger-push-msg/', function(req, res) {
+  if (req.body.secret == 'luna') {
     /*
     be ready for actions
     let actions = {
@@ -193,14 +188,12 @@ app.post("/api/trigger-push-msg/", function(req, res) {
     let actions = {};
 
     let dataToSendObject = Object.assign({}, req.body, actions);
-    if (dataToSendObject.icon.length == 0) {
-      dataToSendObject.icon = "/images/launcher-icon-4x.png";
-    }
+    dataToSendObject.icon = '/images/launcher-icon-4x.png';
     if (dataToSendObject.image.length == 0) {
-      dataToSendObject.image = "/images/notifications/image.jpg";
+      dataToSendObject.image = '/images/notifications/image.jpg';
     }
 
-    dataToSendObject.badge = "/images/launcher-icon-3x.png";
+    dataToSendObject.badge = '/images/launcher-icon-3x.png';
 
     dataToSendObject.vibrate = [500, 100, 500];
     let dataToSend = JSON.stringify(dataToSendObject);
@@ -208,18 +201,21 @@ app.post("/api/trigger-push-msg/", function(req, res) {
     getSubscriptionsFromDatabase()
       .then(function(subscriptionsRows) {
         let promiseChain = Promise.resolve();
-        /* subscriptionsRows = [
-					{
-            "-LOjHGNqHoKw5YRUYNOb" : {
-            endpoint: 'https://fcm.googleapis.com/fcm/send/dTnFD5ANZzY:APA91bE-iXvkBDyDy4ro6n5PUNrs9fSGHbOITupcFdawOxBKYZXSVrbvYFIdUWxN_bbCkbUHgGs6gqWF3lpBdgDhmv4DfqCcp4hwbCyhQ0wRWbojoIuAnLCaE8B2-B3C8eWNWdgB1br_',
-            expirationTime: null,
-            keys:
-                { p256dh: 'BOLXAWZGM31z6g0P2W38kCoPmu2Rk8ljVZTI9p4NLcUNPO2v_BI4D5Ula1V4bhCBSYTxZyyaFAVhxP-Oxx470Z0',
-                  auth: 'EGluh2nmkM02BXUub2jszA' 
-                } 
-            }
-          }
-        ] */
+        /*       subscriptionsRows = [
+          {
+            '-LOjHGNqHoKw5YRUYNOb': {
+              endpoint:
+                'https://fcm.googleapis.com/fcm/send/f4JWhvJXEwo:APA91bFyANSjt0e3qYb14lUBwDEdamdO20Nocv_pECrNDNI0X0d_lKtZLIEukS9sk5x71Mo25u9mX2-eio0CsuRWSEgx64jEPULNjDh58gziRNwWHJezqJZrCvfkJ6h22Orw-Ed9vMWy',
+              expirationTime: null,
+              keys: {
+                p256dh:
+                  'BPxzN87bV9N1d0TZ1YMMuB7gaEMDglPMtqCo2wHEGV36KQG5vcaAUNi__Dod6jE4yzzkAHqpw7TnQTTlj8B15-I',
+                auth: '1sCuS5ZZlrekvxvQv_yVKA',
+              },
+            },
+          },
+        ]; */
+
         for (let i = 0; i < subscriptionsRows.length; i++) {
           const subscriptionRow = subscriptionsRows[i];
           promiseChain = promiseChain.then(() => {
@@ -229,10 +225,14 @@ app.post("/api/trigger-push-msg/", function(req, res) {
         return promiseChain;
       })
       .then(function() {
-        res.status(200).send("ok");
+        res.render('pushStatus', {
+          successSent: SuccesUserCount,
+          failedSent: FailedUserCount,
+        });
+        res.status(200).send('ok');
       });
   } else {
-    res.send("invalid secret");
+    res.send('invalid secret');
   }
 });
 
@@ -247,40 +247,38 @@ const triggerPushMsg = function(subscriptionRow, dataToSend) {
   return webpush
     .sendNotification(Object.values(subscriptionRow)[0], dataToSend)
     .then(obj => {
-      console.log("message sent succesfully number", ++SuccesUserCount);
+      console.log('message sent succesfully number', ++SuccesUserCount);
     })
     .catch(err => {
       if (err.statusCode === 410 || err.statusCode === 404) {
         console.log(
-          "i will delete a subscription from the db",
-          ++FailedUserCount
+          'i will delete a subscription from the db',
+          ++FailedUserCount,
         );
         return deleteSubscriptionFromDatabase(Object.keys(subscriptionRow)[0]);
       } else {
-        console.log("Subscription is no longer valid: ", err);
+        console.log('Subscription is no longer valid: ', err);
       }
     });
 };
 
-
-app.get("/notify", function (req, res) {
-  getSubscriptionsFromDatabase()
-    .then(function (subscriptionsRows) {
-      res.render("push", {
-        userNumber: subscriptionsRows.length,
-        lastNumber: 0
-      });
+app.get('/notify', function(req, res) {
+  getSubscriptionsFromDatabase().then(function(subscriptionsRows) {
+    res.render('push', {
+      userNumber: subscriptionsRows.length,
+      lastNumber: 0,
     });
+  });
 });
 
-app.post("/api/save-subscription/", function(req, res) {
+app.post('/api/save-subscription/', function(req, res) {
   var data = req.body;
-  console.log("body of the subscribe ajax call", data);
+  console.log('body of the subscribe ajax call', data);
   push(`endpoints`, data);
-  res.status(200).send("ok");
+  res.status(200).send('ok');
 });
 
-app.get("/producto/availability/:slug", async (req, res) => {
+app.get('/producto/availability/:slug', async (req, res) => {
   const slug = req.params.slug;
   const product = await productByHandle(slug).then(res => {
     return res.data;
@@ -289,47 +287,47 @@ app.get("/producto/availability/:slug", async (req, res) => {
   const items = product.productByHandle.variants.edges.map(variant => {
     let variantObj = variant.node;
     let options = [
-      { selected: "selected", label: 1 },
-      { selected: "", label: 2 }
+      {selected: 'selected', label: 1},
+      {selected: '', label: 2},
     ];
     return {
       ...variantObj,
       total: variantObj.availableForSale ? 2 : 0,
-      options: options
+      options: options,
     };
   });
 
-  res.setHeader("Content-Type", "application/json");
-  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
-  res.status(200).send(JSON.stringify({ items: items }));
-}); 
+  res.setHeader('Content-Type', 'application/json');
+  res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+  res.status(200).send(JSON.stringify({items: items}));
+});
 
-const deepmerge = require("deepmerge");
+const deepmerge = require('deepmerge');
 
 var replaceAccents = function(cadena) {
   var chars = {
-    á: "a",
-    é: "e",
-    í: "i",
-    ó: "o",
-    ú: "u",
-    à: "a",
-    è: "e",
-    ì: "i",
-    ò: "o",
-    ù: "u",
-    ñ: "n",
-    Á: "A",
-    É: "E",
-    Í: "I",
-    Ó: "O",
-    Ú: "U",
-    À: "A",
-    È: "E",
-    Ì: "I",
-    Ò: "O",
-    Ù: "U",
-    Ñ: "N"
+    á: 'a',
+    é: 'e',
+    í: 'i',
+    ó: 'o',
+    ú: 'u',
+    à: 'a',
+    è: 'e',
+    ì: 'i',
+    ò: 'o',
+    ù: 'u',
+    ñ: 'n',
+    Á: 'A',
+    É: 'E',
+    Í: 'I',
+    Ó: 'O',
+    Ú: 'U',
+    À: 'A',
+    È: 'E',
+    Ì: 'I',
+    Ò: 'O',
+    Ù: 'U',
+    Ñ: 'N',
   };
   var expr = /[áàéèíìóòúùñ]/gi;
   var res = cadena.replace(expr, function(e) {
@@ -338,7 +336,7 @@ var replaceAccents = function(cadena) {
   return res;
 };
 
-app.get("/amp/producto/:slug", async (req, res) => {
+app.get('/amp/producto/:slug', async (req, res) => {
   const slug = req.params.slug;
   let shopifyProduct = await productByHandle(slug).then(result => {
     return result;
@@ -361,18 +359,18 @@ app.get("/amp/producto/:slug", async (req, res) => {
   let variationsArray = shopifyProduct.data.productByHandle.variants.edges.map(
     variant => {
       let variationsValues = variant.node.selectedOptions.map(
-        variantObj => variantObj.value
+        variantObj => variantObj.value,
       );
       let obj = {};
       buildNestedObj(variationsValues, variant.node.id, obj);
       return obj;
-    }
+    },
   );
 
   const variationsMatrix = deepmerge.all(variationsArray);
 
   let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
-    .map(option => ({ [replaceAccents(option.name)]: option.value }))
+    .map(option => ({[replaceAccents(option.name)]: option.value}))
     .reduce((valorAnterior, valorActual) => {
       return Object.assign(valorAnterior, valorActual);
     }, {});
@@ -393,129 +391,129 @@ app.get("/amp/producto/:slug", async (req, res) => {
   const children = shopifyProduct.data.productByHandle.variants.edges.map(
     child => {
       return child.node;
-    }
+    },
   );
 
-  let quantityExpression = "product.quantity";
+  let quantityExpression = 'product.quantity';
 
   //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
   //	let files = getFiles(products.included, product.relationships.files)
   let productDisplay = Object.assign(
     {},
-    { shopifyVariations },
+    {shopifyVariations},
     shopifyProduct.data.productByHandle,
-    { children },
-    { variations: variationsMatrix },
-    { defaultChild: defaultChild.id, price },
-    { defaultVariations: defaultVariations },
-    { url: `producto/${slug}` }
+    {children},
+    {variations: variationsMatrix},
+    {defaultChild: defaultChild.id, price},
+    {defaultVariations: defaultVariations},
+    {url: `producto/${slug}`},
   );
-  res.render("product", {
+  res.render('product', {
     product: productDisplay,
     variationsParams,
     replaceAccents,
-    quantityExpression
+    quantityExpression,
   });
 });
 
-app.get("/sitemap.xml", function(req, res) {
+app.get('/sitemap.xml', function(req, res) {
   let allDocs = Object.values(global.__preloaded__.documents).reduce(
     (acu, prev) => acu.concat(prev),
-    []
+    [],
   );
   //TODO set all the sitemap parameters properly
   let sitemap = sm.createSitemap({
-    hostname: "https://rutasdelosandes.com/",
+    hostname: 'https://rutasdelosandes.com/',
     cacheTime: 600000, // 600 sec - cache purge period
     urls: allDocs.map(doc => ({
       url: doc.url,
-      changefreq: "daily",
-      priority: 0.3
-    }))
+      changefreq: 'daily',
+      priority: 0.3,
+    })),
   });
   sitemap.toXML(function(err, xml) {
     if (err) {
       return res.status(500).end();
     }
-    res.header("Content-Type", "application/xml");
+    res.header('Content-Type', 'application/xml');
     res.send(xml);
   });
 });
 
-app.get("/getcart", async (req, res) => {
+app.get('/getcart', async (req, res) => {
   try {
     let checkoutId = req.session.checkoutId;
-    var shopifyCart = "";
+    var shopifyCart = '';
     var lineItems = [];
     let cartOpen = false;
     // Create a checkout if it doesn't exist yet
     if (!checkoutId) {
       lineItems = [];
     } else {
-      console.log("checkout ID on get cart", req.session.checkoutId);
+      console.log('checkout ID on get cart', req.session.checkoutId);
       cartOpen = true;
       shopifyCart = await fetchCheckout(checkoutId);
       lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
     }
 
-    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
     res.json({
       number: lineItems.length,
       items: lineItems,
       checkoutId,
-      open: cartOpen
+      open: cartOpen,
     });
   } catch (error) {
     console.log(error);
   }
 });
 
-app.get("/getproducts", function(req, res) {
+app.get('/getproducts', function(req, res) {
   return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
     // Do something
     let products = result.data.shop.products.edges.map(product => product.node);
-    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
     res.json(products);
   });
 });
 
-app.post("/removecart", async (req, res) => {
+app.post('/removecart', async (req, res) => {
   try {
     let checkoutId = req.session.checkoutId;
     let itemId = req.body.id;
     let shopifyCart, lineItems;
-    console.log("checkout id on remove from cart", checkoutId);
+    console.log('checkout id on remove from cart', checkoutId);
 
     const input = {
       checkoutId,
-      lineItemIds: [itemId]
+      lineItemIds: [itemId],
     };
 
     await lineItemRemove(input);
     shopifyCart = await fetchCheckout(checkoutId);
     lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
 
-    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
-    res.json({ number: lineItems.length, items: lineItems });
+    res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+    res.json({number: lineItems.length, items: lineItems});
   } catch (error) {
     console.log(error);
   }
 });
 
-app.post("/addcart", upload.fields([]), async (req, res) => {
+app.post('/addcart', upload.fields([]), async (req, res) => {
   try {
     let productId = req.body.id;
     let productUrl = req.body.url;
     let quantity = Number(req.body.quantity);
     let action = req.body.action;
-    let origin = req.header("origin").toLowerCase();
+    let origin = req.header('origin').toLowerCase();
     let source = req.query.__amp_source_origin;
     let checkoutUrl =
-      process.env.NODE_ENV == "production"
+      process.env.NODE_ENV == 'production'
         ? `https://rutasdelosandes.com/checkout`
         : `http://localhost:8080/checkout`;
     let EnvproductUrl =
-      process.env.NODE_ENV == "production"
+      process.env.NODE_ENV == 'production'
         ? `https://rutasdelosandes.com/${productUrl}`
         : `http://localhost:8080/${productUrl}`;
     let checkoutId = req.session.checkoutId;
@@ -524,43 +522,43 @@ app.post("/addcart", upload.fields([]), async (req, res) => {
       let result = await createCheckout();
       checkoutId = result.model.checkoutCreate.checkout.id;
       req.session.checkoutId = checkoutId;
-      console.log("checkout ID on add to cart", req.session.checkoutId);
+      console.log('checkout ID on add to cart', req.session.checkoutId);
     }
     // Add the variant to our cart
     const input = {
       checkoutId,
-      lineItems: [{ variantId: productId, quantity }]
+      lineItems: [{variantId: productId, quantity}],
     };
 
     let lineItemId = await lineItemAdd(input);
-    res.set("Access-Control-Allow-Origin", origin);
+    res.set('Access-Control-Allow-Origin', origin);
     res.set(
-      "Access-Control-Allow-Headers",
-      "Origin, X-Requested-With, Content-Type, Accept"
+      'Access-Control-Allow-Headers',
+      'Origin, X-Requested-With, Content-Type, Accept',
     );
-    res.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS, HEAD, PUT");
-    res.set("Access-Control-Allow-Credentials", "true");
+    res.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, HEAD, PUT');
+    res.set('Access-Control-Allow-Credentials', 'true');
     res.set(
-      "Access-Control-Expose-Headers",
-      "AMP-Access-Control-Allow-Source-Origin,AMP-Redirect-To"
+      'Access-Control-Expose-Headers',
+      'AMP-Access-Control-Allow-Source-Origin,AMP-Redirect-To',
     );
 
-    if (action == "checkout") {
+    if (action == 'checkout') {
       res.set(
-        "amp-redirect-to",
-        `${checkoutUrl}?checkoutId=${lineItemId.data.checkoutLineItemsAdd.checkout.id}`
+        'amp-redirect-to',
+        `${checkoutUrl}?checkoutId=${lineItemId.data.checkoutLineItemsAdd.checkout.id}`,
       );
     } else {
-      res.set("amp-redirect-to", `${EnvproductUrl}?cartOpen=true`);
+      res.set('amp-redirect-to', `${EnvproductUrl}?cartOpen=true`);
     }
-    res.set("AMP-Access-Control-Allow-Source-Origin", source);
-    res.json({ status: "ok" });
+    res.set('AMP-Access-Control-Allow-Source-Origin', source);
+    res.json({status: 'ok'});
   } catch (error) {
     console.log(error);
   }
 });
 
-app.get("/checkout", async (req, res, next) => {
+app.get('/checkout', async (req, res, next) => {
   const checkoutId = req.query.checkoutId;
   let checkoutObj = await fetchCheckout(checkoutId);
   let webUrl = checkoutObj.data.node.webUrl;
@@ -568,7 +566,7 @@ app.get("/checkout", async (req, res, next) => {
 });
 
 //amp static pages
-app.use(express.static("./_site"));
+app.use(express.static('./_site'));
 
 // if not a static file come to react router
 app.get(`*`, (req, res) => {
@@ -577,8 +575,8 @@ app.get(`*`, (req, res) => {
 
     if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
       ampEquivalent = `${req.protocol}://${req.get(
-        "host"
-      )}/amp${req.originalUrl.split("?").shift()}`;
+        'host',
+      )}/amp${req.originalUrl.split('?').shift()}`;
     }
 
     let cartOpen = req.query.cartOpen;
@@ -586,8 +584,8 @@ app.get(`*`, (req, res) => {
     mathRouter(
       req,
       res,
-      { products: [], cart: { number: 0, items: [], open: cartOpen } },
-      ampEquivalent
+      {products: [], cart: {number: 0, items: [], open: cartOpen}},
+      ampEquivalent,
     );
   } catch (error) {
     console.log(error);
@@ -596,7 +594,7 @@ app.get(`*`, (req, res) => {
 
 //Not found
 app.use(function(req, res) {
-  res.status(404).sendFile(__dirname + "/_site/404.html");
+  res.status(404).sendFile(__dirname + '/_site/404.html');
 });
 
 //express will handle the 404 and ['/', '/tienda','/blog','/regiones']
@@ -609,18 +607,18 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
   const theme = createMuiTheme({
     palette: {
       primary: blueGrey,
-      type: "light"
-    }
+      type: 'light',
+    },
   });
   const generateClassName = createGenerateClassName();
   // end of material ui server stylesheet
   let store = createStore(
     reducer,
-    Object.assign({}, global.__preloaded__, state)
+    Object.assign({}, global.__preloaded__, state),
   );
 
   const preloadedState = store.getState();
-  match({ routes: routes, location: req.url }, (err, redirect, props) => {
+  match({routes: routes, location: req.url}, (err, redirect, props) => {
     // in here we can make some decisions all at once
     if (err) {
       // there was an error somewhere during route matching
@@ -635,33 +633,32 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
       content = ReactDOMServer.renderToString(
         <JssProvider
           registry={sheetsRegistry}
-          generateClassName={generateClassName}
-        >
+          generateClassName={generateClassName}>
           <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
             <Provider store={store}>
               <RouterContext {...props} />
             </Provider>
           </MuiThemeProvider>
-        </JssProvider>
+        </JssProvider>,
       );
       // Grab the CSS from our sheetsRegistry.
       const css = sheetsRegistry.toString();
       const fullPage = renderFullPage(
         content,
         preloadedState,
-        "",
+        '',
         css,
         ampEquivalent,
-        req.url.split("?").shift()
+        req.url.split('?').shift(),
       );
-      if (typeof fullPage != "number") {
+      if (typeof fullPage != 'number') {
         res.send(fullPage);
       } else {
-        res.status(fullPage).sendFile(__dirname + "/_site/404.html");
+        res.status(fullPage).sendFile(__dirname + '/_site/404.html');
       }
     } else {
       // no errors, no redirect, we just didn't match anything
-      res.status(404).send("Ruta no encontrada ");
+      res.status(404).send('Ruta no encontrada ');
     }
   });
 }
@@ -669,16 +666,16 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
 function renderFullPage(
   html,
   preloadedState,
-  customHtml = "",
-  customCSS = "",
+  customHtml = '',
+  customCSS = '',
   ampEquivalent = false,
-  reqUrl
+  reqUrl,
 ) {
   let Analytics = ``;
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
-  if (process.env.NODE_ENV == "production") {
+  if (process.env.NODE_ENV == 'production') {
     RegisterSW = `if ('serviceWorker' in navigator) {
 										navigator.serviceWorker.register('/service-worker.js');
 									}`;
@@ -694,21 +691,21 @@ function renderFullPage(
   if (ampEquivalent) {
     var ampDoc;
     try {
-      ampDoc = fs.readFileSync(`./_site/amp${decodeURI(reqUrl)}`, "utf8");
+      ampDoc = fs.readFileSync(`./_site/amp${decodeURI(reqUrl)}`, 'utf8');
     } catch (err) {
       return 404;
     }
 
     const $ = cheerio.load(ampDoc);
     structuredData = $('script[type="application/ld+json"]').html();
-    $("link[rel=canonical]").remove();
-    $("style").remove();
-    $("script").remove();
-    $("noscript").remove();
-    $("amp-analytics").remove();
+    $('link[rel=canonical]').remove();
+    $('style').remove();
+    $('script').remove();
+    $('noscript').remove();
+    $('amp-analytics').remove();
 
     amptag = `
-      ${$("head").html()}
+      ${$('head').html()}
       <link rel="amphtml" href="${ampEquivalent}">
     `;
   }
@@ -726,7 +723,7 @@ function renderFullPage(
       <style id="jss-server-side">${customCSS}</style>
 			${Analytics}
 			<style>
-			${fs.readFileSync("./_includes/styles.html", "utf8")}
+			${fs.readFileSync('./_includes/styles.html', 'utf8')}
       </style>
       <!-- Facebook Pixel Code -->
       <script>
@@ -767,16 +764,16 @@ function renderFullPage(
 app.listen(8080);
 // secure server
 
-if (process.env.NODE_ENV == "production") {
+if (process.env.NODE_ENV == 'production') {
   https
     .createServer(
       {
-        key: fs.readFileSync("./ssl-rutas/private-key.pem"),
-        cert: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.crt"),
-        ca: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.ca-bundle"),
-        passphrase: "asdfasdf"
+        key: fs.readFileSync('./ssl-rutas/private-key.pem'),
+        cert: fs.readFileSync('./ssl-rutas/rutasdelosandes_com.crt'),
+        ca: fs.readFileSync('./ssl-rutas/rutasdelosandes_com.ca-bundle'),
+        passphrase: 'asdfasdf',
       },
-      app
+      app,
     )
     .listen(8443);
 }

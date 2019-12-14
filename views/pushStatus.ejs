@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title> push notifications  status</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+label {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5">
+          <h2>Push notifications status</h2>
+          <p style="text-align: center;">
+            se envio exitosamente a <b class="text-success"><%= successSent %></b> desafortunadamente no se pudo enviar <b class="text-danger"><%= failedSent %></b> numero de usuario asi que se eliminaron 
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
