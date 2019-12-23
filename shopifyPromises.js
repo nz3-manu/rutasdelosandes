@@ -1,10 +1,10 @@
 import client from './graphql-js-client';
-import { gql } from 'babel-plugin-graphql-js-client-transform';
+import {gql} from 'babel-plugin-graphql-js-client-transform';
 var checkoutId = '1232321';
 
 const productByHandle = handle => {
   const input = {
-    handle
+    handle,
   };
 
   return client
@@ -68,6 +68,7 @@ const productByHandle = handle => {
             title
             sku
             availableForSale
+            compareAtPriceV2
             selectedOptions {
               name
               value
@@ -85,7 +86,7 @@ const productByHandle = handle => {
       }
     }
   }`,
-      input
+      input,
     )
     .then(result => {
       return result;
@@ -110,7 +111,7 @@ function createCheckout() {
       }
     }
   }
-`
+`,
     )
     .then(result => {
       return result;
@@ -164,7 +165,7 @@ const shopNameAndProductsPromise = client
         }
       }
     }
-  `
+  `,
   )
   .then(result => {
     return result;
@@ -189,7 +190,7 @@ const lineItemRemove = input =>
    }
  }
 `,
-      input
+      input,
     )
     .then(result => {
       return result;
@@ -214,7 +215,7 @@ const lineItemAdd = input =>
     }
   }
 `,
-      input
+      input,
     )
     .then(result => {
       return result;
@@ -257,7 +258,7 @@ const fetchCheckout = checkoutId =>
       }
     }
   `,
-      { checkoutId }
+      {checkoutId},
     )
     .then(result => {
       return result;
@@ -269,7 +270,7 @@ const fetchCheckout = checkoutId =>
 function updateLineItem(checkoutId, quantity, id) {
   const input = {
     checkoutId,
-    lineItems: [{ id, quantity }]
+    lineItems: [{id, quantity}],
   };
 
   return client.send(
@@ -286,7 +287,7 @@ function updateLineItem(checkoutId, quantity, id) {
         }
       }
     `,
-    input
+    input,
   );
 }
 
@@ -297,5 +298,5 @@ export {
   shopNameAndProductsPromise,
   productByHandle,
   createCheckout,
-  fetchCheckout
+  fetchCheckout,
 };

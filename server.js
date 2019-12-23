@@ -343,8 +343,6 @@ app.get('/amp/producto/:slug', async (req, res) => {
   });
 
   const shopifyVariations = shopifyProduct.data.productByHandle.options;
-  //TODO: build a recursive function that starts from the las item of the array and build a nested obj using all its values
-
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {
     let lastValue = values.shift();
     if (values.length == 0) {
@@ -378,6 +376,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
 
   let price = parseInt(defaultChild.priceV2.amount);
+  let compareAtPrice = parseInt(defaultChild.compareAtPriceV2.amount);
 
   let variationsParams = shopifyVariations
     .map(variantObj => variantObj.name)
@@ -404,7 +403,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
     shopifyProduct.data.productByHandle,
     {children},
     {variations: variationsMatrix},
-    {defaultChild: defaultChild.id, price},
+    {defaultChild: defaultChild.id, price, compareAtPrice},
     {defaultVariations: defaultVariations},
     {url: `producto/${slug}`},
   );
