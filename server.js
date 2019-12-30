@@ -33,24 +33,24 @@ import {
   createGenerateClassName,
 } from '@material-ui/core/styles';
 import recipe from './recipe';
-import main from './imageProcess/custom-image';
 import blueGrey from '@material-ui/core/colors/blueGrey';
 
 let upload = multer();
+
 Sentry.init({
   dsn: 'https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109',
 });
-app.use(Sentry.Handlers.requestHandler());
-app.use(Sentry.Handlers.errorHandler());
-// Optional fallthrough error handler
-app.use(function onError(err, req, res, next) {
-  // The error id is attached to `res.sentry` to be returned
-  // and optionally displayed to the user for support.
-  res.statusCode = 500;
-  res.end(res.sentry + '\n');
-});
 
-app.get('/image/:name/thanks.jpg', main);
+// i think this is cousing the errors
+//app.use(Sentry.Handlers.requestHandler());
+//app.use(Sentry.Handlers.errorHandler());
+//// Optional fallthrough error handler
+//app.use(function onError(err, req, res, next) {
+  //// The error id is attached to `res.sentry` to be returned
+  //// and optionally displayed to the user for support.
+  //res.statusCode = 500;
+  //res.end(res.sentry + '\n');
+//}); 
 
 app.set('views', './views');
 app.set('view engine', 'ejs');
@@ -376,7 +376,7 @@ app.get('/amp/producto/:slug', async (req, res) => {
   let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
 
   let price = parseInt(defaultChild.priceV2.amount);
-  let compareAtPrice = parseInt(defaultChild.compareAtPriceV2.amount);
+  let compareAtPrice = defaultChild.compareAtPriceV2 != null ? parseInt(defaultChild.compareAtPriceV2.amount) : '';
 
   let variationsParams = shopifyVariations
     .map(variantObj => variantObj.name)
@@ -449,7 +449,6 @@ app.get('/getcart', async (req, res) => {
     if (!checkoutId) {
       lineItems = [];
     } else {
-      console.log('checkout ID on get cart', req.session.checkoutId);
       cartOpen = true;
       shopifyCart = await fetchCheckout(checkoutId);
       lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
@@ -481,7 +480,6 @@ app.post('/removecart', async (req, res) => {
     let checkoutId = req.session.checkoutId;
     let itemId = req.body.id;
     let shopifyCart, lineItems;
-    console.log('checkout id on remove from cart', checkoutId);
 
     const input = {
       checkoutId,

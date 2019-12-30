@@ -68,7 +68,10 @@ const productByHandle = handle => {
             title
             sku
             availableForSale
-            compareAtPriceV2
+            compareAtPriceV2 {
+              amount
+              currencyCode
+            }
             selectedOptions {
               name
               value
