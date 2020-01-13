@@ -13,8 +13,10 @@ author: manuel
 
 Bahía Málaga es una bahía que está localizado en el valle del cauca, aproximadamente a  una hora en lancha desde buenaventura. 
 Esta bahía está rodeada de densa selva húmeda, lo  que hace de este un clima Cálido con lluvia permanente todo el año. Este lugar es reconocido  por ser el destino migratorio de las ballenas jorobadas el cual arriban en julio, agosto y septiembre.
-Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga.
 
+Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión". 
+
+Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejos comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
 
 ## ¿Qué encontrarás 🏞👀?
  
@@ -38,17 +40,17 @@ Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea 
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
 
-### Hospedaje en Chuchero Yaneisy 
+### Hospedaje en Chucheros Yaneisy 
 
-Este se encuentra en un lugar conocido como la loma de Chuchero, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
-Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona, en este lugar te sentirás como en familia y te compartirán historias.
+Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
+Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
 
 
-#### Precio de hospedaje en la loma de Chuchero
+#### Precio de hospedaje en la loma de Chucheros
 
-__Transporte 🚤:__ Transporte de muelle turístico(Buenaventura) a Chuchero ida y regreso en $85.000, duración aproximada del trayecto 1 hora y 20 minutos.
+__Transporte 🚤:__ Transporte de muelle turístico(Buenaventura) a Chucheros ida y regreso en $85.000, duración aproximada del trayecto 1 hora y 20 minutos.
 
-__Precios de hospedaje en la loma de Chuchero 🛌:__  Habitaciones 🛏 $40.000 por personas, Camping 🏕$30.0000 pesos.
+__Precios de hospedaje en la loma de Chucheros 🛌:__  Habitaciones 🛏 $40.000 por personas, Camping 🏕$30.0000 pesos.
 
 __Alimentación 🍛:__ Desayunos $9.000 Pesos, almuerzos 🍛 $18.000 Pesos y comida $13.000 pesos.
 
@@ -74,12 +76,12 @@ Podrás ver la localización de estos hospedaje en el mapa que se encuentra un p
 
 
 
-## Sendero a: la Loma de Chuchero, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
+## Sendero a: la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
 
 Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un poco para después ver la hermosa vista de playa y selva que nos brindaba este lugar.
 Existe un sendero de aproximadamente 4 kilómetros que comunica a Cucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
 
-__La Loma de Cuchero:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chuchero donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
+__La Loma de Cuchero:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
 
 __Playa Juan de Dios:__ esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
@@ -92,7 +94,7 @@ __Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en esta p
   caption="ruta a Bahía Málaga"
 %}
 
-En el mapa podrán ver una cascada que  se llama “Cascada de Chuchero”, para llegar a esta desde la loma de chuchero son aproximadamente 40 minutos caminando por el borde de la playa. Nosotros no pudimos llegar hasta ese punto ya que estaba empezando a subir la marea 😢así que regresamos.
+En el mapa podrán ver una cascada que  se llama “Cascada de Chucheros”, para llegar a esta desde la loma de chucheros son aproximadamente 40 minutos caminando por el borde de la playa. Nosotros no pudimos llegar hasta ese punto ya que estaba empezando a subir la marea 😢así que regresamos.
 
 Después de un dia lleno de aventura ya era tiempo de un merecido descanso 😴.
 
