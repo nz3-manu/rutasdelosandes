@@ -18,7 +18,7 @@ Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de
 
 Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejos comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
 
-## ¿Qué encontrarás 🏞👀?
+## ¿Qué encontrarás en Bahía Málaga 🏞👀?
  
  {% include youtube.html
    videoid="TrnK0AXwhB4"
@@ -30,7 +30,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-## ¿Cómo llegar a Bahía Málaga 🛣🚌?
+## ¿Cómo llegar a Bahía Málaga 🛣🚌🚤?
 
 Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este queda a pocas cuadras de la terminal ), allí encontramos diferentes empresas y paquetes de turismo, si vas a comprar un paquete turístico recuerda siempre consultarlo directamente en las agencias, no con intermediarios.
 
@@ -40,13 +40,10 @@ Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea 
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
 
-### Hospedaje en Chucheros Yaneisy 
+### 🛏 Hospedaje en Chucheros Yaneisy 
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
 Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
-
-
-#### Precio de hospedaje en la loma de Chucheros
 
 __Transporte 🚤:__ Transporte de muelle turístico(Buenaventura) a Chucheros ida y regreso en $85.000, duración aproximada del trayecto 1 hora y 20 minutos.
 
@@ -57,31 +54,31 @@ __Alimentación 🍛:__ Desayunos $9.000 Pesos, almuerzos 🍛 $18.000 Pesos y c
 __Para hospedarse aquí solo es con reserva previa al teléfono  <a href="tel:  3173539258 "> 3173539258 </a> Yanensy.__
 
 
-### Hospedaje en playa Juan de Dios
+### 🛏 Hospedaje en playa Juan de Dios
 
 El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la  playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
-#### Precios de hospedaje en playa Juan de Dios
-
-__Hospedaje playa Juan de Dios 🛌:__  una Cama en habitación compartida  2 noches valor 🛏 $315.000 pesos,  Camping 🏕$250.000 peso por personas y Habitación privada para 2 personas  🏠$650.000 pesos, todos los precios mencionados anteriormente incluyen: transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
+__Precios hospedaje en playa Juan de Dios 🛌:__  una Cama en habitación compartida  2 noches valor 🛏 $315.000 pesos,  Camping 🏕$250.000 peso por personas y Habitación privada para 2 personas  🏠$650.000 pesos, todos los precios mencionados anteriormente incluyen: transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
 
 __Para este hospedaje solo es con reserva previa al teléfono <a href="tel:  3148881280"> 3148881280</a> y <a href="tel: 3163608492"> 3163608492</a>__
 
 Más información de tarifas en playa Juan de Dios o programas de voluntariados en playa Juan de Dios __<a target="_blank" href="https://playajuandedios.com/tarifas-y-reservas/">Aquí</a>__
 
-
 ⚠️ En el Hospedaje playa Juan de Dios no se presta la cocina ni sus alrededores para hacer de comer, por los que se tendrá que comprarla, el lema de ellos es dejate atender.
 
 Podrás ver la localización de estos hospedaje en el mapa que se encuentra un poco más abajo.
 
+### 🛏 Otros hospedajes en Bahía Málaga
+
+ Encontraras mas hospedajes en Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe.
 
 
-## Sendero a: la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
+## Sendero a la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
 
 Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un poco para después ver la hermosa vista de playa y selva que nos brindaba este lugar.
 Existe un sendero de aproximadamente 4 kilómetros que comunica a Cucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
 
-__La Loma de Cuchero:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
+__La Loma de Cucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
 
 __Playa Juan de Dios:__ esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
@@ -108,9 +105,9 @@ Si te vas a quedar en algun hostal cerca de Bahía málaga puedes consultar los 
 Otra opción es hacer estos recorridos en un mismo día desde el muelle turístico de buenaventura (podrás encontrar el número del muelle en internet).
 
 
-__Cascada la Sierpe:__ es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
+__Cascada la Sierpe en Bahía Málaga:__ es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
 
-__Cascadas las 3 marías:__  son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía. 
+__Cascadas las 3 marías en Bahía Málaga:__  son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía. 
 
 Cuando no es temporada de avistamiento de ballenas 🐳, suelen cambiar ese recorrido por una cascada que se llama __Cascada Ostional__ está cascada queda un poco más lejos que las otras que visitamos, en nuestro caso no la decidimos visitar.
 
@@ -120,9 +117,9 @@ _Recuerda llevar repelente para mosquitos o incluso también venden algunos jabo
 
 __Todos los precios mencionados en el blog dependen de la temporada en que se viaje.__
 
-## ¿Cómo regresar 🚌🏡?
+## ¿Cómo regresar de Bahía Málaga 🚌🏡?
 
-Es recomendable salir en la horas de la maña, ya que en la tarde es más probable que el mar se piqué 🌊 (se ponga turbulento) y suspendan el tránsito de las lanchas. 
+Es recomendable salir en la horas de la mañana, ya que en la tarde es más probable que el mar se piqué 🌊 (se ponga turbulento) y suspendan el tránsito de las lanchas. 
 
 Debes tener en cuenta que los horarios de buses del terminal de buenaventura para algunos destinos del país solo saldrán hasta las 4 pm.
 
