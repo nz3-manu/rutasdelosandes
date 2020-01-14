@@ -72,7 +72,7 @@ __Recomendaciones:__ En la cascada se forman algunos remolinos internos por la f
 ## ¿Cómo regresar de los Chorros de Don Lolo 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que llegamos. Tener en cuenta que el ultimo jeep pasa hasta las 5:00 pm. De lo contrario tendrán que llamar un taxi o jeep. 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
 
 ## Presupuesto a los Chorros de Don Lolo por persona 🤔💰.
   <amp-accordion animate>

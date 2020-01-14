@@ -60,9 +60,9 @@ El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus
 
 __Precios hospedaje en playa Juan de Dios 🛌:__  una Cama en habitación compartida  2 noches valor 🛏 $315.000 pesos,  Camping 🏕$250.000 peso por personas y Habitación privada para 2 personas  🏠$650.000 pesos, todos los precios mencionados anteriormente incluyen: transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
 
-__Para este hospedaje solo es con reserva previa al teléfono <a href="tel:  3148881280"> 3148881280</a> y <a href="tel: 3163608492"> 3163608492</a>__
+__Para este hospedaje solo es con reserva previa al teléfono <a href="tel:  3148881280"> 3148881280</a> y <a href="tel: 3163608492"> 3163608492</a>.__
 
-Más información de tarifas en playa Juan de Dios o programas de voluntariados en playa Juan de Dios __<a target="_blank" href="https://playajuandedios.com/tarifas-y-reservas/">Aquí</a>__
+Más información de tarifas en playa Juan de Dios o programas de voluntariados en playa Juan de Dios __<a target="_blank" href="https://playajuandedios.com/tarifas-y-reservas/">Aquí</a>.__
 
 ⚠️ En el Hospedaje playa Juan de Dios no se presta la cocina ni sus alrededores para hacer de comer, por los que se tendrá que comprarla, el lema de ellos es dejate atender.
 
@@ -126,6 +126,6 @@ Debes tener en cuenta que los horarios de buses del terminal de buenaventura par
 
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
 
 
