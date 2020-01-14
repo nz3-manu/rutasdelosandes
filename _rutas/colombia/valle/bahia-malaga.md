@@ -76,13 +76,13 @@ Podrás ver la localización de estos hospedaje en el mapa que se encuentra un p
 ## Sendero a la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
 
 Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un poco para después ver la hermosa vista de playa y selva que nos brindaba este lugar.
-Existe un sendero de aproximadamente 4 kilómetros que comunica a Cucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
+Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
 
-__La Loma de Cucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
+__La Loma de Chucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
 
 __Playa Juan de Dios:__ esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
-__Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en esta playa hay mucha basura 😢
+__Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en esta playa hay mucha basura 😢.
 
 
 {% include iframe.html
@@ -113,7 +113,7 @@ Cuando no es temporada de avistamiento de ballenas 🐳, suelen cambiar ese reco
 
 El recorrido por persona a cada una de estas cascadas  dependerá del número de persona que vayan y la temporada del año. 
 
-_Recuerda llevar repelente para mosquitos o incluso también venden algunos jabones 🧼 repelentes de mosquitos que funcionan muy bien._
+⚠️_Recuerda llevar repelente para mosquitos o incluso también venden algunos jabones 🧼 repelentes de mosquitos que funcionan muy bien._
 
 __Todos los precios mencionados en el blog dependen de la temporada en que se viaje.__
 
