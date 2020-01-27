@@ -25,6 +25,12 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 ## ¿Cómo llegar a Estación Pereira 🛣🚌 ? 
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
+⚠️ Decidimos dejar la información de transporte y hospedaje privada, ya que tanto viajeros y comunidad estaban estaban teniendo malas experiencias por el flujo de personas que estaban llegando a este lugar, y esto es lo menos que queremos  que suceda en estas comunidades y en los viajeros.  
+
+La información para llegar a este lugar la podrán descargar  al final de la ruta pagando la suma mínima que nos dejó poner la plataforma que nos presta el servicio.
+
+Ten en cuenta que allí no entra muy buena señal de teléfono lo que se dificultará más comunicarte para hacer reservación.
+
 __Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
@@ -69,6 +75,7 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
 Después de haber cruzado el río Cauca llegamos a la finca a una finca que presta los servicios de: zona de camping 🏕, habitaciòn 🛌, desayuno 🥟, almuerzo 🍛, es aconsejable realizar la reserva previa.
 
 Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya que en invierno se podrán encontrar con que no hay entrada y tendrán que regresar.
+
 
 __[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
 

@@ -31,24 +31,19 @@ class About extends React.Component {
       <div>
         <img src="/images/acerca/featured.jpg" />
         <div className={classes.container}>
-          <h2 className={classes.tittle}> Nuestros productos </h2>
+          <h2 className={classes.tittle}> ¿Quienes somos ? </h2>
           <p>
-          Todos nuestros productos son hechos con la mejor calidad y tecnología disponibles en el mercado, han sido probados en las condiciones más difíciles  por nuestro equipo.
+          Rutas de los andes  es una comunidad de viajes que busca mostrar los mejores lugares de Colombia  a medida que muestra los productos de senderismo comercializados por su marca Randes. Todos los productos son hechos con la mejor calidad y tecnología disponibles en el mercado y son  probados en las condiciones más difíciles por todo su equipo de trabajo.
           </p>
-          <h2 className={classes.tittle}> Contactanos </h2>
-          <p>
+          <h2 className={classes.tittle}> Trabajemos juntos 🤝</h2>
             {' '}
-            Si quieres comercializar nuestros productos puedes comunicarte con nosotros por los siguientes medios:
-          </p>
-          <ul>
+            <ul>
             <li>
-              {' '}
-              📪{' '}
-              <a href="mailto:rutasdelosandes@gmail.com">
-                correo electronico
-              </a>{' '}
+              📢 Quieres potenciar tu negocio; Hotel, Hostal o Agencia de turismo escribenos.
             </li>
+            <li>🏬 Tienes una tienda deportiva y quieres vender nuestros productos escribenos.</li>
           </ul>
+             <p>{' '} {' '} {' '}📪 Correo electrónico: rutasdelosandes@gmail.com</p>
         </div>
       </div>
     );
