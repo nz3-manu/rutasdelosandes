@@ -48,20 +48,6 @@ class About extends React.Component {
                 correo electronico
               </a>{' '}
             </li>
-            <li>
-              {' '}
-              📱{' '}
-              <a href="https://api.whatsapp.com/send?phone=3113403572&text=Quiero%20vender%20sus%20productos">
-                Whatsappp
-              </a>{' '}
-            </li>
-            <li>
-              {' '}
-              📞 {' '}
-              <a  href="tel: 3113403572">
-                Telefono: 3113403572
-              </a>{' '}
-            </li>
           </ul>
         </div>
       </div>
