@@ -25,11 +25,11 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 ## ¿Cómo llegar a Estación Pereira 🛣🚌 ? 
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
-⚠️ Decidimos dejar la información de transporte y hospedaje privada, ya que tanto viajeros y comunidad estaban estaban teniendo malas experiencias por el flujo de personas que estaban llegando a este lugar, y esto es lo menos que queremos  que suceda en estas comunidades y en los viajeros.  
+⚠️ Decidimos dejar la información de transporte y hospedaje privada, ya que tanto viajeros y comunidad estaban teniendo malas experiencias por el flujo de personas que estaban llegando a este lugar y esto es lo menos que queremos  que suceda cuando mostramos un lugar.  
 
 La información para llegar a este lugar la podrán descargar  al final de la ruta pagando la suma mínima que nos dejó poner la plataforma que nos presta el servicio.
 
-Ten en cuenta que allí no entra muy buena señal de teléfono lo que se dificultará más comunicarte para hacer reservación.
+Ten en cuenta que allí no entra muy buena señal de teléfono, lo que se dificultará más comunicarte para hacer reservación.
 
 __Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
 
