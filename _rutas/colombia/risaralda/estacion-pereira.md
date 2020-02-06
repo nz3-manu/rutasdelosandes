@@ -25,6 +25,12 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 ## ¿Cómo llegar a Estación Pereira 🛣🚌 ? 
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
+⚠️ Decidimos dejar la información de transporte y hospedaje privada, ya que tanto viajeros y comunidad estaban teniendo malas experiencias por el flujo de personas que estaban llegando a este lugar y esto es lo menos que queremos  que suceda cuando mostramos un lugar.  
+
+La información para llegar a este lugar la podrán descargar  al final de la ruta pagando la suma mínima que nos dejó poner la plataforma que nos presta el servicio.
+
+Ten en cuenta que allí no entra muy buena señal de teléfono, lo que se dificultará más comunicarte para hacer reservación.
+
 __Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
@@ -70,6 +76,7 @@ Después de haber cruzado el río Cauca llegamos a la finca a una finca que pres
 
 Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya que en invierno se podrán encontrar con que no hay entrada y tendrán que regresar.
 
+
 __[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
 
 ## Ruta a Estación Pereira 🚶🏽🐕.
@@ -96,9 +103,9 @@ En la zona se van a encontrar muchos caracoles africano 🚨🐌, no se deben to
 ## ¿Cómo regresar de Estación Pereira 🚌🏡?
 De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:40pm desde Estación Pereira.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
 
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional de la ruta a Estación Pereira.__</a>
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Comprar información adicional de la ruta a Estación Pereira.__</a>
 
 ## Presupuesto a Estación Pereira por persona 🤔💰
   <amp-accordion animate>
