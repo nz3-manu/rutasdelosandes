@@ -53,6 +53,8 @@ Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos
 __Recomendación:__ El rió barbas se caracteriza por ser impredecible, así que se recomienda no estar en el cuando esta lloviendo.
 
 
+{% include related-rutas.html %}
+
 Después de salir del Sendero Yarumal caminaremos al costado de la carretera que lleva a la Vereda Alegrias(pintoresco nombre 🤗) después de unos 45 minutos caminando podremos adentrarnos la cascada Alegrias. Una vez vista esta regresamos a la carretera y en unos aproximadamente  15 minutos llegaremos a la vereda Alegrias.
 
 
@@ -71,6 +73,7 @@ Después de salir del Sendero Yarumal caminaremos al costado de la carretera que
 </amp-instagram>
 
 __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así que no se recomienda bañar en ese lugar y mucho menos tomar de estas aguas.
+
 
 ## ¿Cómo regresar de la Reserva Barbas Bremen 🚌🏡?
 
