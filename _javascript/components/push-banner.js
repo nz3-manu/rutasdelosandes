@@ -143,7 +143,7 @@ class pushBanner extends React.Component {
               <div className="push-widget-content">
                 <Phone />
                 <span className="push-widget-text">
-                  No te pierdas nuestro contenido! suscríbete
+                  Recibe Notificaciones cada vez que publiquemos contenido
                 </span>
                 <Switch
                   checked={this.state.suscribed}
