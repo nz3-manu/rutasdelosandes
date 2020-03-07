@@ -44,6 +44,8 @@ __Si piensas ir con un operador turistico, asegurate que sea autorizado por PNN 
 En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí, faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
 
+{% include related-rutas.html %}
+
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados 🏔se encuentra un sitio que presta servicio de: Hospedaje 🛏 $12.000 pesos, desayunos 🥟 $8.000 pesos y almuerzos $12.000 pesos.
 
 __Solo se presta estos servicios con reserva, aconsejable hacerlo con 3 días de anticipación.__

@@ -79,6 +79,7 @@ Mapa desde Gallinazo hasta La Gruta.
 %}
 En el mapa que subimos pueden ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda. Estos 2 caminos los van a encontrar un poco después de pasar por el Eco-Hotel Camino del Ruiz.
 
+{% include related-rutas.html %}
 
 __Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la carretera esta en buen estado.
 

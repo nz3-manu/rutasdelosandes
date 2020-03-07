@@ -1,0 +1,40 @@
+<div class="related-inline">
+<h3> Tambien te pueden interesar estas rutas 🗻</h3>
+<ul class="related-list">
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %} 
+  {% for collection in site.collections %}
+  {% if collection.label == site.main_collection %} 
+
+  {% for relatedPost in collection.docs %}
+
+    {% unless relatedPost.draft  %}                                       
+      {% assign sameTagCount = 0 %}
+      {% assign commonTags = '' %}
+        {% for tag in relatedPost.tags %}
+            {% if relatedPost.url != page.url %}
+                {% if page.tags contains tag %}
+                    {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+      {% if sameTagCount >= minCommonTags %}
+          <li>
+              <a class="link"  href="{{ site.url }}{{ relatedPost.url | remove: '/amp' }} ">
+               <span class="title">{{ relatedPost.title }}</span> 
+              </a>
+          </li>
+          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+          {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+          {% endif %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
