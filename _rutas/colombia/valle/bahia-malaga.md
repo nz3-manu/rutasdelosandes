@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Bahía Málaga
 categories: colombia 
@@ -21,7 +20,7 @@ Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededo
 ## ¿Qué encontrarás en Bahía Málaga 🏞👀?
  
  {% include youtube.html
-   videoid="TrnK0AXwhB4"
+   videoid="6U9bYSD1EAk"
    width="480"
    height="270"
    caption="Cascada en Alcala"
