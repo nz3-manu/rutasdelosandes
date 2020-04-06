@@ -340,9 +340,18 @@ var replaceAccents = function(cadena) {
 
 app.get("/amp/producto/:slug", async (req, res) => {
   const slug = req.params.slug;
-  let shopifyProduct = await productByHandle(slug).then(result => {
-    return result;
-  });
+  let shopifyProduct;
+  if (global.__mocking__) {
+    shopifyProduct = JSON.parse(
+      fs.readFileSync(`./mockdata/${slug}.json`, "utf8")
+    );
+  } else {
+    shopifyProduct = await productByHandle(slug).then(result => {
+      let data = JSON.stringify(result, null, 2);
+      fs.writeFileSync(`./mockdata/${slug}.json`, data);
+      return result;
+    });
+  }
 
   const shopifyVariations = shopifyProduct.data.productByHandle.options;
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {

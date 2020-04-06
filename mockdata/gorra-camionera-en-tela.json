@@ -1,0 +1,812 @@
+{
+  "data": {
+    "productByHandle": {
+      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ0MDM0MDY5MzAwMjk=",
+      "title": "Gorra camionera en tela",
+      "description": "Gorra camionera unisex en tela al frente. Bordado al frente y en la parte de atrás.",
+      "descriptionHtml": "<p>Gorra <span>camionera unisex  </span>en tela al frente.</p>\n<p>Bordado al frente y en la parte de atrás.</p>",
+      "productType": "",
+      "handle": "gorra-camionera-en-tela",
+      "tags": [],
+      "vendor": "randes.store",
+      "options": [
+        {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzU3Mjc5NTk3MTE4NTM=",
+          "name": "Color",
+          "values": [
+            "Negro",
+            "Verde"
+          ]
+        }
+      ],
+      "images": {
+        "pageInfo": {
+          "hasNextPage": false,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174.jpg?v=1581464264"
+            }
+          },
+          {
+            "node": {
+              "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera.png?v=1581464264"
+            }
+          },
+          {
+            "node": {
+              "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera_atras.png?v=1581464264"
+            }
+          },
+          {
+            "node": {
+              "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174_2.jpg?v=1582494883"
+            }
+          }
+        ]
+      },
+      "metafield": null,
+      "metafields": {
+        "pageInfo": {
+          "hasNextPage": false,
+          "hasPreviousPage": false
+        },
+        "edges": []
+      },
+      "priceRange": {
+        "maxVariantPrice": {
+          "amount": "45000.0"
+        },
+        "minVariantPrice": {
+          "amount": "45000.0"
+        }
+      },
+      "variants": {
+        "pageInfo": {
+          "hasNextPage": false,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMTU2Nzc5NTM4ODUyNQ==",
+              "title": "Negro",
+              "sku": "45000",
+              "availableForSale": false,
+              "compareAtPriceV2": {
+                "amount": "45000.0",
+                "currencyCode": "COP"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Negro"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera.png?v=1581464264"
+              },
+              "price": "45000.00",
+              "priceV2": {
+                "amount": "45000.0",
+                "currencyCode": "COP"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMTU2Nzc5NTQyMTI5Mw==",
+              "title": "Verde",
+              "sku": "45000",
+              "availableForSale": true,
+              "compareAtPriceV2": {
+                "amount": "45000.0",
+                "currencyCode": "COP"
+              },
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Verde"
+                }
+              ],
+              "image": {
+                "src": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174_2.jpg?v=1582494883"
+              },
+              "price": "45000.00",
+              "priceV2": {
+                "amount": "45000.0",
+                "currencyCode": "COP"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "model": {
+    "attrs": {
+      "productByHandle": {
+        "attrs": {
+          "id": {
+            "value": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ0MDM0MDY5MzAwMjk=",
+            "type": {
+              "name": "ID",
+              "kind": "SCALAR"
+            }
+          },
+          "title": {
+            "value": "Gorra camionera en tela",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "description": {
+            "value": "Gorra camionera unisex en tela al frente. Bordado al frente y en la parte de atrás.",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "descriptionHtml": {
+            "value": "<p>Gorra <span>camionera unisex  </span>en tela al frente.</p>\n<p>Bordado al frente y en la parte de atrás.</p>",
+            "type": {
+              "name": "HTML",
+              "kind": "SCALAR"
+            }
+          },
+          "productType": {
+            "value": "",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "handle": {
+            "value": "gorra-camionera-en-tela",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "tags": {
+            "value": [],
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "vendor": {
+            "value": "randes.store",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          },
+          "options": [
+            {
+              "attrs": {
+                "id": {
+                  "value": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzU3Mjc5NTk3MTE4NTM=",
+                  "type": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                },
+                "name": {
+                  "value": "Color",
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "values": {
+                  "value": [
+                    {
+                      "value": "Negro",
+                      "type": {
+                        "name": "String",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    {
+                      "value": "Verde",
+                      "type": {
+                        "name": "String",
+                        "kind": "SCALAR"
+                      }
+                    }
+                  ],
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "type": {
+                  "name": "ProductOption",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "id": "ID",
+                    "name": "String",
+                    "values": "String"
+                  },
+                  "implementsNode": true
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "attrs": {
+                "src": {
+                  "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174.jpg?v=1581464264",
+                  "type": {
+                    "name": "URL",
+                    "kind": "SCALAR"
+                  }
+                },
+                "type": {
+                  "name": "Image",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "altText": "String",
+                    "id": "ID",
+                    "originalSrc": "URL",
+                    "src": "URL",
+                    "transformedSrc": "URL"
+                  },
+                  "implementsNode": false
+                }
+              },
+              "hasNextPage": {
+                "value": true
+              },
+              "hasPreviousPage": false
+            },
+            {
+              "attrs": {
+                "src": {
+                  "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera.png?v=1581464264",
+                  "type": {
+                    "name": "URL",
+                    "kind": "SCALAR"
+                  }
+                },
+                "type": {
+                  "name": "Image",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "altText": "String",
+                    "id": "ID",
+                    "originalSrc": "URL",
+                    "src": "URL",
+                    "transformedSrc": "URL"
+                  },
+                  "implementsNode": false
+                }
+              },
+              "hasNextPage": {
+                "value": true
+              },
+              "hasPreviousPage": {
+                "value": true
+              }
+            },
+            {
+              "attrs": {
+                "src": {
+                  "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera_atras.png?v=1581464264",
+                  "type": {
+                    "name": "URL",
+                    "kind": "SCALAR"
+                  }
+                },
+                "type": {
+                  "name": "Image",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "altText": "String",
+                    "id": "ID",
+                    "originalSrc": "URL",
+                    "src": "URL",
+                    "transformedSrc": "URL"
+                  },
+                  "implementsNode": false
+                }
+              },
+              "hasNextPage": {
+                "value": true
+              },
+              "hasPreviousPage": {
+                "value": true
+              }
+            },
+            {
+              "attrs": {
+                "src": {
+                  "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174_2.jpg?v=1582494883",
+                  "type": {
+                    "name": "URL",
+                    "kind": "SCALAR"
+                  }
+                },
+                "type": {
+                  "name": "Image",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "altText": "String",
+                    "id": "ID",
+                    "originalSrc": "URL",
+                    "src": "URL",
+                    "transformedSrc": "URL"
+                  },
+                  "implementsNode": false
+                }
+              },
+              "hasNextPage": false,
+              "hasPreviousPage": {
+                "value": true
+              }
+            }
+          ],
+          "metafield": null,
+          "metafields": [],
+          "priceRange": {
+            "attrs": {
+              "maxVariantPrice": {
+                "attrs": {
+                  "amount": {
+                    "value": "45000.0",
+                    "type": {
+                      "name": "Decimal",
+                      "kind": "SCALAR"
+                    }
+                  },
+                  "type": {
+                    "name": "MoneyV2",
+                    "kind": "OBJECT",
+                    "fieldBaseTypes": {
+                      "amount": "Decimal",
+                      "currencyCode": "CurrencyCode"
+                    },
+                    "implementsNode": false
+                  }
+                }
+              },
+              "minVariantPrice": {
+                "attrs": {
+                  "amount": {
+                    "value": "45000.0",
+                    "type": {
+                      "name": "Decimal",
+                      "kind": "SCALAR"
+                    }
+                  },
+                  "type": {
+                    "name": "MoneyV2",
+                    "kind": "OBJECT",
+                    "fieldBaseTypes": {
+                      "amount": "Decimal",
+                      "currencyCode": "CurrencyCode"
+                    },
+                    "implementsNode": false
+                  }
+                }
+              },
+              "type": {
+                "name": "ProductPriceRange",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "maxVariantPrice": "MoneyV2",
+                  "minVariantPrice": "MoneyV2"
+                },
+                "implementsNode": false
+              }
+            }
+          },
+          "variants": [
+            {
+              "attrs": {
+                "id": {
+                  "value": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMTU2Nzc5NTM4ODUyNQ==",
+                  "type": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                },
+                "title": {
+                  "value": "Negro",
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "sku": {
+                  "value": "45000",
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "availableForSale": {
+                  "value": false,
+                  "type": {
+                    "name": "Boolean",
+                    "kind": "SCALAR"
+                  }
+                },
+                "compareAtPriceV2": {
+                  "attrs": {
+                    "amount": {
+                      "value": "45000.0",
+                      "type": {
+                        "name": "Decimal",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "currencyCode": {
+                      "key": "COP",
+                      "type": {
+                        "name": "CurrencyCode",
+                        "kind": "ENUM"
+                      }
+                    },
+                    "type": {
+                      "name": "MoneyV2",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "amount": "Decimal",
+                        "currencyCode": "CurrencyCode"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "selectedOptions": [
+                  {
+                    "attrs": {
+                      "name": {
+                        "value": "Color",
+                        "type": {
+                          "name": "String",
+                          "kind": "SCALAR"
+                        }
+                      },
+                      "value": {
+                        "value": "Negro",
+                        "type": {
+                          "name": "String",
+                          "kind": "SCALAR"
+                        }
+                      },
+                      "type": {
+                        "name": "SelectedOption",
+                        "kind": "OBJECT",
+                        "fieldBaseTypes": {
+                          "name": "String",
+                          "value": "String"
+                        },
+                        "implementsNode": false
+                      }
+                    }
+                  }
+                ],
+                "image": {
+                  "attrs": {
+                    "src": {
+                      "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/camionera.png?v=1581464264",
+                      "type": {
+                        "name": "URL",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "type": {
+                      "name": "Image",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "altText": "String",
+                        "id": "ID",
+                        "originalSrc": "URL",
+                        "src": "URL",
+                        "transformedSrc": "URL"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "price": {
+                  "value": "45000.00",
+                  "type": {
+                    "name": "Money",
+                    "kind": "SCALAR"
+                  }
+                },
+                "priceV2": {
+                  "attrs": {
+                    "amount": {
+                      "value": "45000.0",
+                      "type": {
+                        "name": "Decimal",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "currencyCode": {
+                      "key": "COP",
+                      "type": {
+                        "name": "CurrencyCode",
+                        "kind": "ENUM"
+                      }
+                    },
+                    "type": {
+                      "name": "MoneyV2",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "amount": "Decimal",
+                        "currencyCode": "CurrencyCode"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "type": {
+                  "name": "ProductVariant",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "available": "Boolean",
+                    "availableForSale": "Boolean",
+                    "compareAtPrice": "Money",
+                    "compareAtPriceV2": "MoneyV2",
+                    "id": "ID",
+                    "image": "Image",
+                    "metafield": "Metafield",
+                    "metafields": "MetafieldConnection",
+                    "presentmentPrices": "ProductVariantPricePairConnection",
+                    "price": "Money",
+                    "priceV2": "MoneyV2",
+                    "product": "Product",
+                    "selectedOptions": "SelectedOption",
+                    "sku": "String",
+                    "title": "String",
+                    "weight": "Float",
+                    "weightUnit": "WeightUnit"
+                  },
+                  "implementsNode": true
+                }
+              },
+              "hasNextPage": {
+                "value": true
+              },
+              "hasPreviousPage": false
+            },
+            {
+              "attrs": {
+                "id": {
+                  "value": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMTU2Nzc5NTQyMTI5Mw==",
+                  "type": {
+                    "name": "ID",
+                    "kind": "SCALAR"
+                  }
+                },
+                "title": {
+                  "value": "Verde",
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "sku": {
+                  "value": "45000",
+                  "type": {
+                    "name": "String",
+                    "kind": "SCALAR"
+                  }
+                },
+                "availableForSale": {
+                  "value": true,
+                  "type": {
+                    "name": "Boolean",
+                    "kind": "SCALAR"
+                  }
+                },
+                "compareAtPriceV2": {
+                  "attrs": {
+                    "amount": {
+                      "value": "45000.0",
+                      "type": {
+                        "name": "Decimal",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "currencyCode": {
+                      "key": "COP",
+                      "type": {
+                        "name": "CurrencyCode",
+                        "kind": "ENUM"
+                      }
+                    },
+                    "type": {
+                      "name": "MoneyV2",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "amount": "Decimal",
+                        "currencyCode": "CurrencyCode"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "selectedOptions": [
+                  {
+                    "attrs": {
+                      "name": {
+                        "value": "Color",
+                        "type": {
+                          "name": "String",
+                          "kind": "SCALAR"
+                        }
+                      },
+                      "value": {
+                        "value": "Verde",
+                        "type": {
+                          "name": "String",
+                          "kind": "SCALAR"
+                        }
+                      },
+                      "type": {
+                        "name": "SelectedOption",
+                        "kind": "OBJECT",
+                        "fieldBaseTypes": {
+                          "name": "String",
+                          "value": "String"
+                        },
+                        "implementsNode": false
+                      }
+                    }
+                  }
+                ],
+                "image": {
+                  "attrs": {
+                    "src": {
+                      "value": "https://cdn.shopify.com/s/files/1/0073/8961/0093/products/Copia_de_IMG_7174_2.jpg?v=1582494883",
+                      "type": {
+                        "name": "URL",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "type": {
+                      "name": "Image",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "altText": "String",
+                        "id": "ID",
+                        "originalSrc": "URL",
+                        "src": "URL",
+                        "transformedSrc": "URL"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "price": {
+                  "value": "45000.00",
+                  "type": {
+                    "name": "Money",
+                    "kind": "SCALAR"
+                  }
+                },
+                "priceV2": {
+                  "attrs": {
+                    "amount": {
+                      "value": "45000.0",
+                      "type": {
+                        "name": "Decimal",
+                        "kind": "SCALAR"
+                      }
+                    },
+                    "currencyCode": {
+                      "key": "COP",
+                      "type": {
+                        "name": "CurrencyCode",
+                        "kind": "ENUM"
+                      }
+                    },
+                    "type": {
+                      "name": "MoneyV2",
+                      "kind": "OBJECT",
+                      "fieldBaseTypes": {
+                        "amount": "Decimal",
+                        "currencyCode": "CurrencyCode"
+                      },
+                      "implementsNode": false
+                    }
+                  }
+                },
+                "type": {
+                  "name": "ProductVariant",
+                  "kind": "OBJECT",
+                  "fieldBaseTypes": {
+                    "available": "Boolean",
+                    "availableForSale": "Boolean",
+                    "compareAtPrice": "Money",
+                    "compareAtPriceV2": "MoneyV2",
+                    "id": "ID",
+                    "image": "Image",
+                    "metafield": "Metafield",
+                    "metafields": "MetafieldConnection",
+                    "presentmentPrices": "ProductVariantPricePairConnection",
+                    "price": "Money",
+                    "priceV2": "MoneyV2",
+                    "product": "Product",
+                    "selectedOptions": "SelectedOption",
+                    "sku": "String",
+                    "title": "String",
+                    "weight": "Float",
+                    "weightUnit": "WeightUnit"
+                  },
+                  "implementsNode": true
+                }
+              },
+              "hasNextPage": false,
+              "hasPreviousPage": {
+                "value": true
+              }
+            }
+          ],
+          "type": {
+            "name": "Product",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "availableForSale": "Boolean",
+              "collections": "CollectionConnection",
+              "createdAt": "DateTime",
+              "description": "String",
+              "descriptionHtml": "HTML",
+              "handle": "String",
+              "id": "ID",
+              "images": "ImageConnection",
+              "metafield": "Metafield",
+              "metafields": "MetafieldConnection",
+              "onlineStoreUrl": "URL",
+              "options": "ProductOption",
+              "priceRange": "ProductPriceRange",
+              "productType": "String",
+              "publishedAt": "DateTime",
+              "tags": "String",
+              "title": "String",
+              "updatedAt": "DateTime",
+              "variantBySelectedOptions": "ProductVariant",
+              "variants": "ProductVariantConnection",
+              "vendor": "String"
+            },
+            "implementsNode": true
+          }
+        }
+      },
+      "type": {
+        "name": "QueryRoot",
+        "kind": "OBJECT",
+        "fieldBaseTypes": {
+          "articles": "ArticleConnection",
+          "blogByHandle": "Blog",
+          "blogs": "BlogConnection",
+          "collectionByHandle": "Collection",
+          "collections": "CollectionConnection",
+          "customer": "Customer",
+          "node": "Node",
+          "nodes": "Node",
+          "pageByHandle": "Page",
+          "pages": "PageConnection",
+          "productByHandle": "Product",
+          "productRecommendations": "Product",
+          "productTags": "StringConnection",
+          "productTypes": "StringConnection",
+          "products": "ProductConnection",
+          "shop": "Shop"
+        },
+        "implementsNode": false
+      }
+    }
+  }
+}
