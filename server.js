@@ -82,7 +82,7 @@ import { createStore } from "redux";
 import { Provider } from "react-redux";
 // set this var for react inner components
 global.__preloaded__ = JSON.parse(
-  fs.readFileSync("./_site/documents.json", "utf8")
+  fs.readFileSync("../_site/documents.json", "utf8")
 );
 // mocking shopify responses
 global.__mocking__ = true;
