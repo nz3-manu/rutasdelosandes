@@ -1,7 +1,7 @@
 const express = require("express"),
   app = express(),
+  router = express.Router(),
   fs = require("fs"),
-  https = require("https"),
   React = require("react"),
   ReactDOMServer = require("react-dom/server"),
   bodyParser = require("body-parser"),
@@ -13,6 +13,7 @@ const express = require("express"),
   request = require("request"),
   sm = require("sitemap"),
   Sentry = require("@sentry/node"),
+  serverless = require("serverless-http"),
   cheerio = require("cheerio");
 
 import { SheetsRegistry } from "react-jss/lib/jss";
@@ -57,7 +58,7 @@ app.set("view engine", "ejs");
 
 require("es6-promise").polyfill();
 require("isomorphic-fetch");
-
+console.log("server is actually running");
 // push notifications
 const vapidKeys = {
   publicKey:
@@ -168,7 +169,7 @@ app.post("/product-notify", upload.fields([]), function(req, res) {
   res.json({ status: "ok", celular: "3113403572" });
 });
 
-app.post("/api/trigger-push-msg/", function(req, res) {
+router.post("/api/trigger-push-msg/", function(req, res) {
   if (req.body.secret == "luna") {
     /*
     be ready for actions
@@ -280,7 +281,7 @@ app.post("/api/save-subscription/", function(req, res) {
   res.status(200).send("ok");
 });
 
-app.get("/producto/availability/:slug", async (req, res) => {
+router.get("/producto/availability/:slug", async (req, res) => {
   const slug = req.params.slug;
   const product = await productByHandle(slug).then(res => {
     return res.data;
@@ -338,7 +339,7 @@ var replaceAccents = function(cadena) {
   return res;
 };
 
-app.get("/amp/producto/:slug", async (req, res) => {
+router.get("/amp/producto/:slug", async (req, res) => {
   const slug = req.params.slug;
   let shopifyProduct;
   if (global.__mocking__) {
@@ -429,7 +430,7 @@ app.get("/amp/producto/:slug", async (req, res) => {
   });
 });
 
-app.get("/sitemap.xml", function(req, res) {
+router.get("/sitemap.xml", function(req, res) {
   let allDocs = Object.values(global.__preloaded__.documents).reduce(
     (acu, prev) => acu.concat(prev),
     []
@@ -453,7 +454,7 @@ app.get("/sitemap.xml", function(req, res) {
   });
 });
 
-app.get("/getcart", async (req, res) => {
+router.get("/getcart", async (req, res) => {
   try {
     let checkoutId = req.session.checkoutId;
     var shopifyCart = "";
@@ -480,7 +481,7 @@ app.get("/getcart", async (req, res) => {
   }
 });
 
-app.get("/getproducts", function(req, res) {
+router.get("/getproducts", function(req, res) {
   if (global.__mocking__) {
     res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
     res.json(
@@ -585,10 +586,10 @@ app.get("/checkout", async (req, res, next) => {
 });
 
 //amp static pages
-app.use(express.static("./_site"));
+router.use(express.static("./_site"));
 
 // if not a static file come to react router
-app.get(`*`, (req, res) => {
+router.get(`*`, (req, res) => {
   try {
     let ampEquivalent = false;
 
@@ -761,7 +762,7 @@ function renderFullPage(
       <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
       /></noscript>
-      <!-- End Facebook Pixel Code --> 
+      <!-- End Facebook Pixel Code -->
                         <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
                         <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
                       </head>
@@ -771,7 +772,7 @@ function renderFullPage(
     </script>
     <script>
       window.__preloaded__ = ${JSON.stringify(preloadedState)}
-      ${RegisterSW}		   
+      ${RegisterSW}
     </script>
 		  ${customHtml}
 		  <div id="root">${html}</div>
@@ -780,20 +781,11 @@ function renderFullPage(
 	  </html>
 	  `;
 }
-// http server
-app.listen(8080);
-// secure server
 
-if (process.env.NODE_ENV == "production") {
-  https
-    .createServer(
-      {
-        key: fs.readFileSync("./ssl-rutas/private-key.pem"),
-        cert: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.crt"),
-        ca: fs.readFileSync("./ssl-rutas/rutasdelosandes_com.ca-bundle"),
-        passphrase: "asdfasdf"
-      },
-      app
-    )
-    .listen(8443);
-}
+var functionName = "server";
+// Set router base path for local dev
+const routerBasePath = `/.netlify/functions/${functionName}/`;
+
+// Setup routes
+app.use(routerBasePath, router);
+exports.handler = serverless(app);

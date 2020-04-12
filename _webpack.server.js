@@ -1,30 +1,30 @@
-const webpack = require('webpack');
-const nodeExternals = require('webpack-node-externals');
-const path = require('path');
+const webpack = require("webpack");
+const nodeExternals = require("webpack-node-externals");
+const path = require("path");
 
 module.exports = {
-  entry: './server.js',
+  entry: "./server.js",
   output: {
-    path: path.resolve(__dirname, ''),
-    filename: 'builtserver.js',
-    publicPath: '/'
+    path: path.resolve(__dirname, "functions"),
+    filename: "server.js",
+    publicPath: "/"
   },
-  target: 'node',
+  target: "node",
   node: {
     __dirname: false,
-    __filename: false,
+    __filename: false
   },
   externals: nodeExternals(),
   plugins: [
     new webpack.DefinePlugin({
-      'process.env.NODE_ENV': '"production"'
+      "process.env.NODE_ENV": '"production"'
     })
   ],
   module: {
     loaders: [
       {
         test: /\.js$/,
-        loader: 'babel-loader'
+        loader: "babel-loader"
       }
     ]
   }
