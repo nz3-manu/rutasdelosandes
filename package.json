@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run build && babel-node server.js",
-    "build": "webpack --env.NODE_ENV=local --config _webpack.config.js &&  JEKYLL_ENV=development bundle exec  jekyll build && npm run build-prod",
+    "build": "webpack --env.NODE_ENV=local --config _webpack.config.js &&  JEKYLL_ENV=development bundle exec  jekyll build && npm run build:functions",
+    "build:functions": "netlify-lambda build lambda",
     "build-prod": "webpack --env.NODE_ENV=production --config _webpack.server.js && webpack --env.NODE_ENV=production --config _webpack.config.js && JEKYLL_ENV=prod  bundle exec jekyll build",
     "serve": "node builtserver.js",
     "dev": "DEBUG=express:*  babel-node server.js --plugins transform-es2015-destructuring,transform-object-rest-spread --presets es2015,react "

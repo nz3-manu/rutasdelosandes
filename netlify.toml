@@ -4,7 +4,12 @@
   # This is the directory is publishing to netlify's CDN
   publish = "_site/"
   # functions build directory
-  functions = "functions"
+  functions = "functions/" # path to your functions directory
+[[redirects]]
+  from = "/"
+  to = "/.netlify/functions/server"
+  status = 200
+  force = true
 [[redirects]]
   from = "/*"
   to = "/.netlify/functions/server/:splat"
