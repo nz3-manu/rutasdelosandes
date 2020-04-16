@@ -84,17 +84,7 @@ app.use(
 
 router.get(`*`, (req, res) => {
   console.log("visitando", req.url);
-  var netlifyPath = path.resolve(__dirname, "_site/documents.json");
-  res.json({
-    users: [
-      {
-        name: netlifyPath
-      },
-      {
-        name: "joe"
-      }
-    ]
-  });
+  res.json(documents);
 });
 
 var functionName = "server";
