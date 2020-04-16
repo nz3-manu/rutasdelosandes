@@ -40,7 +40,7 @@ let upload = multer();
 Sentry.init({
   dsn: "https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109"
 });
-const documents = require("./documents.json");
+const documents = require("../_site/documents.json");
 // i think this is cousing the errors
 //app.use(Sentry.Handlers.requestHandler());
 //app.use(Sentry.Handlers.errorHandler());
