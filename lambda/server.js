@@ -40,7 +40,7 @@ let upload = multer();
 Sentry.init({
   dsn: "https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109"
 });
-
+const documents = require("./documents.json");
 // i think this is cousing the errors
 //app.use(Sentry.Handlers.requestHandler());
 //app.use(Sentry.Handlers.errorHandler());
@@ -70,9 +70,7 @@ import { Provider } from "react-redux";
 import { log } from "util";
 // set this var for react inner components
 //console.log(fs.readFileSync("./func/documents.json", "utf8"));
-global.__preloaded__ = JSON.parse(
-  fs.readFileSync(path.resolve(__dirname, "_site/documents.json"), "utf8")
-);
+global.__preloaded__ = documents;
 // mocking shopify responses
 global.__mocking__ = true;
 
