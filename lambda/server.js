@@ -76,26 +76,22 @@ app.use(
 
 // if not a static file come to react router
 router.get(`*`, (req, res) => {
-  try {
-    let ampEquivalent = false;
+  let ampEquivalent = false;
 
-    if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
-      ampEquivalent = `${req.protocol}://${req.get(
-        "host"
-      )}/amp${req.originalUrl.split("?").shift()}`;
-    }
-
-    let cartOpen = req.query.cartOpen;
-
-    mathRouter(
-      req,
-      res,
-      { products: [], cart: { number: 0, items: [], open: cartOpen } },
-      ampEquivalent
-    );
-  } catch (error) {
-    console.log(error);
+  if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
+    ampEquivalent = `${req.protocol}://${req.get(
+      "host"
+    )}/amp${req.originalUrl.split("?").shift()}`;
   }
+
+  let cartOpen = req.query.cartOpen;
+
+  mathRouter(
+    req,
+    res,
+    { products: [], cart: { number: 0, items: [], open: cartOpen } },
+    ampEquivalent
+  );
 });
 function mathRouter(req, res, state = {}, ampEquivalent) {
   // material ui stylesheet server
