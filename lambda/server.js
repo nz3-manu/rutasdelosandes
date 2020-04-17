@@ -38,8 +38,12 @@ import blueGrey from "@material-ui/core/colors/blueGrey";
 let upload = multer();
 
 Sentry.init({
-  dsn: "https://85af5db342274936a7088e5e00f3eb33@sentry.io/1225109"
+  dsn:
+    "https://2ff395a5fa134476b6467e4164a514be@o98027.ingest.sentry.io/5204380"
 });
+// The request handler must be the first middleware on the app
+app.use(Sentry.Handlers.requestHandler());
+
 const documents = require("../_site/documents.json");
 // i think this is cousing the errors
 app.set("views", "../views");
@@ -93,7 +97,6 @@ router.get(`*`, (req, res) => {
     console.log(error);
   }
 });
-
 function mathRouter(req, res, state = {}, ampEquivalent) {
   // material ui stylesheet server
   // Create a sheetsRegistry instance.
@@ -266,4 +269,6 @@ const routerBasePath =
 console.log(routerBasePath);
 // Setup routes
 app.use(router);
+// The error handler must be before any other error middleware and after all controllers
+app.use(Sentry.Handlers.errorHandler());
 exports.handler = serverless(app);
