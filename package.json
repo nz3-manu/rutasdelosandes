@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run build && babel-node server.js",
     "build": "webpack --env.NODE_ENV=local --config _webpack.config.js &&  JEKYLL_ENV=development bundle exec  jekyll build && npm run build:functions",
-    "build:functions": "netlify-lambda build lambda",
+    "build:functions": "netlify-lambda build --config ./webpack.functions.js  lambda",
     "build-prod": "webpack --env.NODE_ENV=production --config _webpack.server.js && webpack --env.NODE_ENV=production --config _webpack.config.js && JEKYLL_ENV=prod  bundle exec jekyll build",
     "serve": "node builtserver.js",
     "dev": "DEBUG=express:*  babel-node server.js --plugins transform-es2015-destructuring,transform-object-rest-spread --presets es2015,react "
@@ -88,6 +88,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-react": "^7.17.0",
     "file-loader": "^0.11.2",
+    "html-loader": "^1.1.0",
     "style-loader": "^0.18.2",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "url-loader": "^0.5.9",
