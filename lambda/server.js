@@ -188,7 +188,7 @@ function renderFullPage(
   if (ampEquivalent) {
     var ampDoc;
     try {
-      ampDoc = fs.readFileSync(`./_site/amp${decodeURI(reqUrl)}`, "utf8");
+      ampDoc = fs.readFileSync(`../_site/amp${decodeURI(reqUrl)}`, "utf8");
     } catch (err) {
       return 404;
     }

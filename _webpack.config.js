@@ -1,21 +1,20 @@
 var path = require("path");
-const webpack = require('webpack');
-const UglifyJSPlugin = require('uglifyjs-webpack-plugin')
-
+const webpack = require("webpack");
+const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
 
 module.exports = env => {
-  console.log('NODE_ENV: ', env.NODE_ENV) // 'local'
-  let plugins = []
-  let devtool = 'cheap-module-source-map'
-  if (env.NODE_ENV != 'local') {
-  devtool='source-map'
-  plugins = [
-    new webpack.DefinePlugin({
-      'process.env.NODE_ENV': '"production"'
-   }), 
-   new UglifyJSPlugin()
-  ]      
-}
+  console.log("NODE_ENV: ", env.NODE_ENV); // 'local'
+  let plugins = [];
+  let devtool = "cheap-module-source-map";
+  if (env.NODE_ENV != "local") {
+    devtool = "source-map";
+    plugins = [
+      new webpack.DefinePlugin({
+        "process.env.NODE_ENV": '"production"'
+      }),
+      new UglifyJSPlugin()
+    ];
+  }
   return {
     entry: {
       index: "./_javascript/index.js"
@@ -40,7 +39,6 @@ module.exports = env => {
             {
               loader: "css-loader",
               options: {
-                
                 importLoaders: 1,
                 sourceMap: true
               }
@@ -51,13 +49,12 @@ module.exports = env => {
           test: /\.(png|woff|woff2|eot|ttf|svg)$/,
           use: [
             {
-              loader: 'url-loader?limit=100000'
+              loader: "url-loader?limit=100000"
             }
           ]
         }
-  
       ]
     },
-    plugins : plugins
-  }
+    plugins: plugins
+  };
 };
