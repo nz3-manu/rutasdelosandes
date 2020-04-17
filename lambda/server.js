@@ -219,7 +219,7 @@ function renderFullPage(
       <style id="jss-server-side">${customCSS}</style>
 			${Analytics}
 			<style>
-			${fs.readFileSync("./_includes/styles.html", "utf8")}
+			${fs.readFileSync("../_includes/styles.html", "utf8")}
       </style>
       <!-- Facebook Pixel Code -->
       <script>
