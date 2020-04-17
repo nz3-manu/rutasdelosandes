@@ -187,7 +187,7 @@ function renderFullPage(
   if (ampEquivalent) {
     var ampDoc;
     try {
-      ampDoc = fs.readFileSync(`../_site/amp${decodeURI(reqUrl)}`, "utf8");
+      //ampDoc = fs.readFileSync(`../_site/amp${decodeURI(reqUrl)}`, "utf8");
     } catch (err) {
       return 404;
     }
@@ -206,6 +206,7 @@ function renderFullPage(
     `;
   }
 
+  //${fs.readFileSync("../_includes/styles.html", "utf8")}
   return `
 	  <!doctype html>
 	  <html>
@@ -219,7 +220,6 @@ function renderFullPage(
       <style id="jss-server-side">${customCSS}</style>
 			${Analytics}
 			<style>
-			${fs.readFileSync("../_includes/styles.html", "utf8")}
       </style>
       <!-- Facebook Pixel Code -->
       <script>
