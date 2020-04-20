@@ -7,7 +7,7 @@ seo_title: Que llevar al hacer senderismo
 excerpt: Creo que alguna vez hemos tenido esa sensación de ver la mochila o maletín y no saber qué empacar, está es una pregunta que siempre ha estado presente al momento de preparar nuestra mochila, aquí te la resolveremos.
 images_url: /images/blog/tipsmontana/que-llevar-al-hacer-senderismo 
 tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/tarahumara.jpg
+featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/featured.jpg
 ---
 
 # ¿ QUÉ LLEVAR AL HACER SENDERISMO?
@@ -71,21 +71,23 @@ El buff es un artículo muy  simple pero  juega un papel muy importante al momen
 Recomendación: al comprarlo cerciórate que sea de un material de secado rápido y con protección solar,  ideal también que cuente con antibacterial, ya que la gran mayoría del tiempo cubriremos nuestra boca.
 
 
-### Rain cover o Cubre Maletín 🎒
+### Rain cover o Cubre Bolso 🎒
 
 Esto es una funda que se coloca al maletín, evitará que al llover se mojen tus cosas, al comprarlo fíjate que sea de un material impermeable y grueso, ya que en muchos casos al descargar el maletín sobre algunas rocas o ramas tienden a  rompersen.
 
 Recomendación: Así lleves el cubre maletín,  mete tus cosas en una bolsa plástica para mantenerlas secas.
 
 ## Otros elementos que también son sumamente importantes  a llevar contigo:
-
-Gorra
-Bloqueador solar 
-Botella de agua, ideal que no sea de plástico de un solo uso, ya que así protegeremos el medio ambiente 😉.
-Gafas de sol (esto por si eres sensible a la luz del sol).
-Comida: frutas como manzana, bananos.etc. Si vas a caminar todo el día recomendable llevar almuerzo liviano.
-Ropa de baño, si en la caminata que vas hacer hay ríos, cascadas, esto es súper recomendadísimo.
-Otro par de medias para que al finalizar tu caminata puedas estar más cómodo.
+<ul>
+    <li>Gorra. </li>
+    <li> Bloqueador solar. </li>
+    <li> Botella de agua. </li>
+    <li> Botella de agua, ideal que no sea de plástico de un solo uso, ya que así protegeremos el medio ambiente 😉.  </li>
+    <li> Gafas de sol (esto por si eres sensible a la luz del sol).  </li>
+    <li> Comida: frutas como manzana, bananos.etc. Si vas a caminar todo el día recomendable llevar almuerzo liviano. </li>
+    <li>  Ropa de baño, si en la caminata que vas hacer hay ríos, cascadas, esto es súper recomendadísimo. </li>
+    <li> Otro par de medias para que al finalizar tu caminata puedas estar más cómodo.</li>
+</ul>
 
 Algo adicional que aparentemente muchos olvidamos es llevar curas adhesivas o como son llamadas vendas adhesivas, para usarlos de llegar a lastimarnos con alguna rama o si los tenis nos sacarán ampollas.
 
