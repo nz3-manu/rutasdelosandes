@@ -11,6 +11,11 @@
   status = 200
   force = true
 [[redirects]]
+  from = "/images/*"
+  to = "/images/:splat"
+  status = 200
+  force = true
+[[redirects]]
   from = "/*"
   to = "/.netlify/functions/server/:splat"
   force = false
