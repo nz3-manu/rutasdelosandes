@@ -21,9 +21,9 @@ class AMPDocument extends React.Component {
      * @private
      */
     this.ampReadyPromise_ = new Promise(resolve => {
-      if (window) {
-        (window.AMP = window.AMP || []).push(resolve);
-      }
+      //if (window) {
+        //(window.AMP = window.AMP || []).push(resolve);
+      //}
     });
     /**
      * Child element that will wrap the AMP shadow root.
@@ -242,7 +242,7 @@ class AMPDocument extends React.Component {
       }
     };
 
-    if (window.gtag && Object.keys(GAeventsData).includes(elem.id)) {
+    if (window && window.gtag && Object.keys(GAeventsData).includes(elem.id)) {
       let GAelementData = GAeventsData[elem.id];
       window.gtag("event", GAelementData.eventName, GAelementData.extraParams);
     }
@@ -261,7 +261,7 @@ class AMPDocument extends React.Component {
       }
     };
 
-    if (window.fbq && Object.keys(FBeventsData).includes(elem.id)) {
+    if (window && window.fbq && Object.keys(FBeventsData).includes(elem.id)) {
       let FBelementData = FBeventsData[elem.id];
       window.fbq("track", FBelementData.eventName, FBelementData.extraParams);
     }

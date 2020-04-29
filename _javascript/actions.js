@@ -120,7 +120,9 @@ export function getCart() {
                 'Accept': 'application/json, text/plain, */*',
                 'Content-Type': 'application/json'
             }
-        }).then(function (response) { return response.json(); }).then((data) => {
+        }).then(function (response) {
+          debugger;
+          return response.json(); }).then((data) => {
             dispatch(setCartItems(data))
         })
     }

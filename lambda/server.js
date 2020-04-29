@@ -53,7 +53,6 @@ app.set("view engine", "ejs");
 
 require("es6-promise").polyfill();
 require("isomorphic-fetch");
-console.log("server is actually running");
 
 //server side fetch polifyll
 import routes from "../_javascript/routes";
@@ -76,10 +75,46 @@ app.use(
   })
 );
 
+// Use the session middleware
+app.use(
+  session({
+    secret: "keyboard cat",
+    resave: false,
+    saveUninitialized: false,
+    cookie: { maxAge: 7200000 }
+  })
+);
+
+router.get("/getcart", async (req, res, next) => {
+  try {
+    let checkoutId = req.session.checkoutId;
+    var shopifyCart = "";
+    var lineItems = [];
+    let cartOpen = false;
+    // Create a checkout if it doesn't exist yet
+    if (!checkoutId) {
+      lineItems = [];
+    } else {
+      cartOpen = true;
+      shopifyCart = await fetchCheckout(checkoutId);
+      lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
+    }
+
+    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.json({
+      number: lineItems.length,
+      items: lineItems,
+      checkoutId,
+      open: cartOpen
+    });
+  } catch (error) {
+    return next(error)
+  }
+});
 // if not a static file come to react router
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
-
+  console.log(`req url been send to react ${req.url}`)
   if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
     ampEquivalent = `${req.protocol}://${req.get(
       "host"
@@ -173,10 +208,11 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
+  console.log(`html comming from the server` ,html)
   if (process.env.NODE_ENV == "production") {
     RegisterSW = `if ('serviceWorker' in navigator) {
-										navigator.serviceWorker.register('/service-worker.js');
-									}`;
+                  navigator.serviceWorker.register('/service-worker.js');
+                }`;
     Analytics = `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
                   <script>
                   window.dataLayer = window.dataLayer || [];
@@ -187,9 +223,9 @@ function renderFullPage(
   }
 
   if (ampEquivalent) {
-    var ampDoc;
+    var ampDoc = ``;
     try {
-      //ampDoc = fs.readFileSync(`../_site/amp${decodeURI(reqUrl)}`, "utf8");
+      //ampDoc = import(`../_site/amp${decodeURI(reqUrl)}`)
     } catch (err) {
       return 404;
     }
@@ -201,7 +237,7 @@ function renderFullPage(
     $("script").remove();
     $("noscript").remove();
     $("amp-analytics").remove();
-
+    console.log(`html comming from the server ${html}`)
     amptag = `
       ${$("head").html()}
       <link rel="amphtml" href="${ampEquivalent}">
@@ -209,9 +245,9 @@ function renderFullPage(
   }
 
   return `
-	  <!doctype html>
-	  <html>
-		<head>
+      <!doctype html>
+      <html>
+      <head>
       ${amptag}
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta property="fb:pages" content="1078600055607267" />
@@ -242,22 +278,22 @@ function renderFullPage(
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
       /></noscript>
       <!-- End Facebook Pixel Code -->
-                        <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
-                        <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
-                      </head>
-    <body>
-    <script type="application/ld+json">
-      ${structuredData}
-    </script>
-    <script>
-      window.__preloaded__ = ${JSON.stringify(preloadedState)}
-      ${RegisterSW}
-    </script>
-		  ${customHtml}
-		  <div id="root">${html}</div>
-		  <script src="/javascript/index.bundle.js"></script>
-		</body>
-	  </html>
+      <!-- Asynchronously load the AMP-with-Shadow-DOM runtime library. -->
+      <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
+      </head>
+      <body>
+      <script type="application/ld+json">
+        ${structuredData}
+      </script>
+      <script>
+        window.__preloaded__ = ${JSON.stringify(preloadedState)}
+        ${RegisterSW}
+      </script>
+        ${customHtml}
+        <div id="root">${html}</div>
+        <script src="/javascript/index.bundle.js"></script>
+      </body>
+      </html>
 	  `;
 }
 var functionName = "server";
