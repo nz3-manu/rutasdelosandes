@@ -11,6 +11,21 @@
   status = 200
   force = true
 [[redirects]]
+  from = "/analytics-helper.js"
+  to = "/analytics-helper.js"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/service-worker.js"
+  to = "/service-worker.js"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/favicon.ico"
+  to = "/favicon.ico"
+  status = 200
+  force = true
+[[redirects]]
   from = "/javascript/*"
   to = "/javascript/:splat"
   status = 200

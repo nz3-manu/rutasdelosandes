@@ -14,7 +14,8 @@ const express = require("express"),
   sm = require("sitemap"),
   Sentry = require("@sentry/node"),
   serverless = require("serverless-http"),
-  cheerio = require("cheerio");
+  cheerio = require("cheerio"),
+  cors = require("cors");
 
 import { SheetsRegistry } from "react-jss/lib/jss";
 //import {
@@ -67,13 +68,6 @@ global.__preloaded__ = documents;
 // mocking shopify responses
 global.__mocking__ = true;
 
-app.use(bodyParser.json());
-app.use(
-  bodyParser.urlencoded({
-    // to support URL-encoded bodies
-    extended: true
-  })
-);
 
 // Use the session middleware
 app.use(
@@ -108,13 +102,13 @@ router.get("/getcart", async (req, res, next) => {
       open: cartOpen
     });
   } catch (error) {
-    return next(error)
+    return next(error);
   }
 });
 // if not a static file come to react router
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
-  console.log(`req url been send to react ${req.url}`)
+  console.log(`req url been send to react ${req.url}`);
   if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
     ampEquivalent = `${req.protocol}://${req.get(
       "host"
@@ -208,7 +202,7 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
-  console.log(`html comming from the server` ,html)
+  console.log(`html comming from the server`, html);
   if (process.env.NODE_ENV == "production") {
     RegisterSW = `if ('serviceWorker' in navigator) {
                   navigator.serviceWorker.register('/service-worker.js');
@@ -237,7 +231,7 @@ function renderFullPage(
     $("script").remove();
     $("noscript").remove();
     $("amp-analytics").remove();
-    console.log(`html comming from the server ${html}`)
+    console.log(`html comming from the server ${html}`);
     amptag = `
       ${$("head").html()}
       <link rel="amphtml" href="${ampEquivalent}">
@@ -303,8 +297,20 @@ const routerBasePath =
     ? `/${functionName}`
     : `/.netlify/functions/${functionName}/`;
 console.log(routerBasePath);
+
 // Setup routes
 app.use(router);
+
+router.use(bodyParser.json());
+
+router.use(
+  bodyParser.urlencoded({
+    // to support URL-encoded bodies
+    extended: true
+  })
+);
+
+router.use(cors())
 // The error handler must be before any other error middleware and after all controllers
 app.use(Sentry.Handlers.errorHandler());
 exports.handler = serverless(app);
