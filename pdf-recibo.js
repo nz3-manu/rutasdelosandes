@@ -19,7 +19,7 @@ function formatMoney(n, c, d, t) {
         s = n < 0 ? "-" : "",
         i = String(parseInt(n = Math.abs(Number(n) || 0).toFixed(c))),
         j = (j = i.length) > 3 ? j % 3 : 0;
-    
+
     return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
     };
 /* Información texto del email */
@@ -35,21 +35,21 @@ function emailInformation(order){
     return emailInformationObject
 };
 
-function generatePdfObject(order, items) { 
+function generatePdfObject(order, items) {
 
-    var tableProduc = [ 
-        { text: 'Producto', style: 'itemsHeader'}, 
-        { text: 'Catidad', style: [ 'itemsHeader', 'center']}, 
-        { text: 'Precio', style: [ 'itemsHeader', 'center']}, 
-        { text: 'Descuento', style: [ 'itemsHeader', 'center']}, 
-        { text: 'Total', style: [ 'itemsHeader', 'center']} 
+    var tableProduc = [
+        { text: 'Producto', style: 'itemsHeader'},
+        { text: 'Catidad', style: [ 'itemsHeader', 'center']},
+        { text: 'Precio', style: [ 'itemsHeader', 'center']},
+        { text: 'Descuento', style: [ 'itemsHeader', 'center']},
+        { text: 'Total', style: [ 'itemsHeader', 'center']}
     ]
-    
+
     let orderData = order.data;
 
     var fechaIso8601 = orderData.meta.timestamps.created_at;
     var reciboNumero = fechaIso8601;
-    
+
       var fechaEmision = timeConverter(fechaIso8601);
 
         /*Capitalized text*/
@@ -62,19 +62,19 @@ function generatePdfObject(order, items) {
         var direccion = capitalize_Words(orderData.shipping_address.line_1) + capitalize_Words(orderData.shipping_address.line_2);
         var ciudad = capitalize_Words(orderData.shipping_address.city);
         var region =  capitalize_Words(orderData.shipping_address.county);
-    
+
         /* Capturando Valor de Envío  */
         try {
             var arrayEnvio = items.data.filter((product)=> product.sku == "envio");
-          
+
             if(arrayEnvio.length > 0){
                 console.log("Array envio", arrayEnvio[0]);
                 var vlrEnvio = arrayEnvio[0].unit_price.amount;
-            } 
+            }
             else {
                 console.log("else");
                 vlrEnvio = 0;
-            }  
+            }
         } catch (error) {
             console.log("error envio", error)
         }
@@ -83,32 +83,32 @@ function generatePdfObject(order, items) {
         var subTotal = `$${formatMoney((parseInt(orderData.meta.display_price.with_tax.amount)- vlrEnvio),0,0)}`;
         var envio = `$${formatMoney(vlrEnvio,0,0)}`;
         var totalFactura= `$${formatMoney(orderData.meta.display_price.with_tax.amount,0,0)}`;
-        
-        /* Generando items Map*/ 
-        var itemsProducts = items.data.filter((product)=>product.sku != "envio").map((product) => { 
+
+        /* Generando items Map*/
+        var itemsProducts = items.data.filter((product)=>product.sku != "envio").map((product) => {
         var producto= product.name;
         var descripcion = product.sku;
         var cantidad = product.quantity;
         var precioUnitario = ` $${formatMoney(product.unit_price.amount,0,0)}`;
         var precioTotalProduc = ` $${formatMoney(product.value.amount,0,0)}`;
-        
+
         /* Precio Total Productos */
-         return (       
-                        [ 
+         return (
+                        [
                             [
                                 { text: producto, style:'itemTitle'},
                                 { text: descripcion, style:'itemSubTitle'}
-                            ], 
-                            {  text: cantidad, style:'itemNumber'}, 
-                            { text: precioUnitario, style:'itemNumber'}, 
-                            { text: "$0", style:'itemNumber'}, 
-                            { text: precioTotalProduc, style:'itemTotal'} 
+                            ],
+                            {  text: cantidad, style:'itemNumber'},
+                            { text: precioUnitario, style:'itemNumber'},
+                            { text: "$0", style:'itemNumber'},
+                            { text: precioTotalProduc, style:'itemTotal'}
                         ]
                 )
         })
-        
+
         let bodyItems = [tableProduc].concat(itemsProducts);
-                         
+
     var docDefinition = {
         header: {
          columns: [
@@ -132,10 +132,10 @@ function generatePdfObject(order, items) {
                          image: images.logoRecibo,
                          width: 100
                    },
-                       
+
                    [
                        {
-                           text: 'RECIBO', 
+                           text: 'RECIBO',
                            style: 'invoiceTitle',
                            width: '*'
                        },
@@ -144,16 +144,16 @@ function generatePdfObject(order, items) {
                               {
                                   columns: [
                                        {
-                                           text: 'Recibo Nº', 
+                                           text: 'Recibo Nº',
                                            style:'invoiceSubTitle',
                                            width: '*'
-                                           
-                                       }, 
+
+                                       },
                                        {
                                            text: reciboNumero,
                                            style:'invoiceSubValue',
                                            width: 100
-                                           
+
                                        }
                                        ]
                               },
@@ -163,7 +163,7 @@ function generatePdfObject(order, items) {
                                           text:'Fecha de Emisión',
                                           style:'invoiceSubTitle',
                                           width: '*'
-                                      }, 
+                                      },
                                       {
                                           text: fechaEmision,
                                           style:'invoiceSubValue',
@@ -177,7 +177,7 @@ function generatePdfObject(order, items) {
                                           text:'',
                                           style:'invoiceSubTitle',
                                           width: '*'
-                                      }, 
+                                      },
                                       {
                                           text:'',
                                           style:'invoiceSubValue',
@@ -193,33 +193,33 @@ function generatePdfObject(order, items) {
                    {
                        text: ' Rutas De Los Andes  \n rutasdelosandes@gmail.com \n  3137932231 \n  ',
                        style:'invoiceBillingTitleLogo',
-                       
+
                    },
                    '\n\n',
                    {
                        text: ' Datos Del Cliente',
                        style:'header',
-                       
+
                    },
            // Billing Headers
            {
                columns: [
-                  
+
                    {
                        text: ' Datos del destinatario',
                        style:'invoiceBillingTitle',
-                       
+
                    },  {
                        text: 'Dirección de envío',
                        style:'invoiceBillingTitle',
-                       
+
                    }
                ]
            },
            // Billing Details
            {
                columns: [
-                   
+
                    {
                        text:  `Nombre: ${nombreCompleto} \n Telefono: ${telefono}` ,
                        style: 'invoiceBillingDetails'
@@ -227,7 +227,7 @@ function generatePdfObject(order, items) {
                        text: `${direccion} \n  ${ciudad}, ${region} `,
                        style: 'invoiceBillingDetails'
                    }
-                   
+
                ]
            },
            '\n\n',
@@ -235,9 +235,9 @@ function generatePdfObject(order, items) {
             {
                        text: 'RESUMEN DE LA COMPRA',
                        style:'header',
-                       
+
                    },
-    
+
              // Line breaks
            '\n\n',
            // Items
@@ -247,7 +247,7 @@ function generatePdfObject(order, items) {
                  // you can declare how many rows should be treated as headers
                  headerRows: 1,
                  widths: [ '*', 50, 'auto', 'auto', 100 ],
-         
+
                  body: bodyItems
                }, // table
              //  layout: 'lightHorizontalLines'
@@ -259,20 +259,20 @@ function generatePdfObject(order, items) {
                  // you can declare how many rows should be treated as headers
                  headerRows: 0,
                  widths: [ '*', 80 ],
-         
+
                  body: [
                    // Total
-                   [ 
+                   [
                        {
                            text:'Subtotal',
                            style:'itemsFooterSubTitle'
-                       }, 
-                       { 
+                       },
+                       {
                            text: subTotal,
                            style:'itemsFooterSubValue'
                        }
                    ],
-                   [ 
+                   [
                        {
                            text:'Envío',
                            style:'itemsFooterSubTitle'
@@ -282,11 +282,11 @@ function generatePdfObject(order, items) {
                            style:'itemsFooterSubValue'
                        }
                    ],
-                   [ 
+                   [
                        {
                            text:'TOTAL',
                            style:'itemsFooterTotalTitle'
-                       }, 
+                       },
                        {
                            text: totalFactura,
                            style:'itemsFooterTotalValue'
@@ -304,30 +304,30 @@ function generatePdfObject(order, items) {
                    },
                    {
                        stack: [
-                           { 
+                           {
                                text: '',
                                style:'signaturePlaceholder'
                            },
-                           { 
+                           {
                                text: '',
                                style:'signatureName'
-                               
+
                            },
-                           { 
+                           {
                                text: '',
                                style:'signatureJobTitle'
-                               
+
                            }
                            ],
                       width: 180
                    },
                ]
            },
-             { 
+             {
                  text: 'NOTA',
                  style:'notesTitle'
              },
-             { 
+             {
                  text: 'Esta información es la que se suministrara para el envío de los productos. Si la información no corresponde a los datos de envío, le pedimos por favor comunicarse lo mas pronto con nosotros.',
                  style:'notesText'
              }
@@ -398,14 +398,14 @@ function generatePdfObject(order, items) {
          // Billing Details
          invoiceBillingDetails: {
            alignment:'left'
-     
+
          },
          invoiceBillingAddressTitle: {
              margin: [0,7,0,3],
              bold: true
          },
          invoiceBillingAddress: {
-             
+
          },
          // Items Header
          itemsHeader: {
@@ -434,7 +434,7 @@ function generatePdfObject(order, items) {
            italics: true,
            bold: true
        },
-     
+
          // Items Footer (Subtotal, Total, Tax, etc)
          itemsFooterSubTitle: {
              margin: [0,5,0,5],
@@ -457,7 +457,7 @@ function generatePdfObject(order, items) {
              alignment:'center',
          },
          signaturePlaceholder: {
-             margin: [0,70,0,0],   
+             margin: [0,70,0,0],
          },
          signatureName: {
              bold: true,
@@ -470,7 +470,7 @@ function generatePdfObject(order, items) {
          },
          notesTitle: {
            fontSize: 10,
-           bold: true,  
+           bold: true,
            margin: [0,50,0,3],
          },
          notesText: {
@@ -487,4 +487,4 @@ function generatePdfObject(order, items) {
       return  docDefinition
   }
   export default {generatePdfObject, emailInformation, formatMoney}
-  
+

@@ -10,7 +10,38 @@
   to = "/.netlify/functions/server"
   status = 200
   force = true
-#[[redirects]]
-  #from = "/*"
-  #to = "/.netlify/functions/server/:splat"
-  #status = 200
+[[redirects]]
+  from = "/analytics-helper.js"
+  to = "/analytics-helper.js"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/service-worker.js"
+  to = "/service-worker.js"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/favicon.ico"
+  to = "/favicon.ico"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/javascript/*"
+  to = "/javascript/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/images/*"
+  to = "/images/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/amp/*"
+  to = "/amp/:splat"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/server/:splat"
+  force = false
+  status = 200

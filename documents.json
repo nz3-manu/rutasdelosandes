@@ -2,7 +2,7 @@
 layout: null
 ---
 
-{ 
+{
   "expanded": "",
   "activeStep": 0,
   "product": "",
@@ -13,7 +13,7 @@ layout: null
      "{{collection.label}}":[
       {% for post in collection.docs  %}
       {% unless post.draft  %}
-          {% assign authorInfo = site.data.authors[post.author] %}  
+          {% assign authorInfo = site.data.authors[post.author] %}
             { "url" : "{{ post.url | relative_url | remove: '/amp'}}",
               "title": "{{ post.title | escape }}",
               "excerpt":"{{post.excerpt}}",
@@ -28,9 +28,9 @@ layout: null
       {% endfor %}
     ]
     {% if forloop.last != true %}
-    , 
+    ,
     {% endif %}
-  {% endfor %} 
+  {% endfor %}
 },
 "jekyll":{
   "logo" : "{{ site.logo | escape }}",
