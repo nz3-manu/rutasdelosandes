@@ -21,7 +21,7 @@ class AMPDocument extends React.Component {
      * @private
      */
     this.ampReadyPromise_ = new Promise(resolve => {
-      if (window) {
+      if (typeof window !== 'undefined') {
         (window.AMP = window.AMP || []).push(resolve);
       }
     });
