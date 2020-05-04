@@ -21,9 +21,9 @@ class AMPDocument extends React.Component {
      * @private
      */
     this.ampReadyPromise_ = new Promise(resolve => {
-      //if (window) {
-        //(window.AMP = window.AMP || []).push(resolve);
-      //}
+      if (window) {
+        (window.AMP = window.AMP || []).push(resolve);
+      }
     });
     /**
      * Child element that will wrap the AMP shadow root.
