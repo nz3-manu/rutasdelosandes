@@ -1,10 +1,10 @@
 ---
 layout: trail
-title:  Nevado del Ruiz
+title:  Cómo llegar al Nevado del Ruiz
 categories: colombia 
 tags: Caldas
-seo_title: ▷ NEVADO DEL RUIZ, TRANSPORTE, HOSPEDAJE| COMO LLEGAR
-excerpt: Toda la información que necesita saber para ir al Nevado del Ruiz, hospedaje, transporte y precios. Esta es una ruta obligatoria que deberías hacer si vas a estar en la región cafetera. 
+seo_title: ▷ COMO LLEGAR AL NEVADO DEL RUIZ DESDE BOGOTA,MEDELLIN,CALI
+excerpt: Pensado ir al Nevado del Ruiz? entra aquí y conoce todo lo que necesitas saber para no perderte este hermoso nevado en el eje cafetero. 
 images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
