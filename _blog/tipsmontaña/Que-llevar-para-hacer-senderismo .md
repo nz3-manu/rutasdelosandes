@@ -12,7 +12,7 @@ featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hac
 # ¿QUÉ LLEVAR PARA HACER SENDERISMO?
 
 
-Creo que alguna vez hemos tenido esa sensación de ver la mochila o maletín y no saber qué empacar, está es una pregunta que siempre ha estado presente al momento de preparar nuestra mochila, aquí te la resolveremos 🙂.
+Creo que alguna vez hemos tenido esa sensación de ver la mochila o maletín y no saber qué empacar, está es una pregunta que siempre ha estado presente al momento de preparar nuestro equipaje, aquí te la resolveremos 🙂.
 
 Lo primero que debes saber es que este post está enfocado a caminatas de categoría mediana en climas tropicales, si quieres saber cómo preparar tu maletin para ir a páramos o nevados 🗻, próximamente publicaremos esta información en nuestro blog.
 
@@ -28,7 +28,7 @@ Una buena opción son las prendas con repelencia de sudor o secado rápido.
 
 ### Busos manga larga  
 
-Esta es una muy buena opción para protegernos de los mosquitos, ramas y del sol. Sí estos cuentan con factor de protección solar (UV) será mucho mejor.
+Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos pueden lacerar y del sol. Sí estos cuentan con factor de protección solar (UV) será mucho mejor.
 
 
  __[podrás consultar algunas camisetas y busos para senderismo hacer senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
@@ -59,7 +59,8 @@ __Nota:__ Cualquiera de las 2 chaquetas que escojas, es importante que cuente co
 Para climas tropicales ⛰:
 Si piensas hacer caminatas en bosques o climas tropicales lo ideal es un pantalón fresco, de tela no muy gruesa y que sea de secado rápido, ya que no hay nada peor que caminar y sentir que la ropa que llevamos nos estuviera cocinando vivos 😅 o que al mojarse por más que pasen las horas sigamos mojados 🙁.  
 
-__Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con piedras, ramas etc… Asegúrate que la tela sea resistente y no se rompa con facilidad.
+__Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con piedras, ramas etc… Asegúrate que la tela sea resistente y no se rompa con facilidad. Usualmente esta tecnología es llamada “Antiscratch”
+
 
  __[podrás consultar diferentes tipos de pantalones de senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
 
@@ -72,6 +73,8 @@ Lo que solemos usar para caminatas, son tenis que tengan una suela dura con buen
 Queremos aclarar que este punto de vista es de acuerdo a algunos relatos de viajeros y vivencias propias.
 
 __Recomendación:__  Recuerda un día antes revisar el estado de tus tenis, cerciorándote que la suela esté en buen estado y no tengas riesgos de que se despeguen.
+
+Puedes escoger igualmente botas de caña media o caña alta, ya que esto te permitirá tener más confianza en la pisada y te ayudará a evitar posibles lesiones en los ligamentos del tobillo, pues lo mantendrá estabilizado.
 
 ### Buff 
 
