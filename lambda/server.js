@@ -245,7 +245,6 @@ function renderFullPage(
     $("script").remove();
     $("noscript").remove();
     $("amp-analytics").remove();
-    console.log(`html comming from the server ${html}`);
     amptag = ` ${$("head").html()} <link rel="amphtml" href="${ampEquivalent}"> `;
   }
 
