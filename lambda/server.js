@@ -79,6 +79,31 @@ app.use(
   })
 );
 
+// Sitemap route
+router.get("/sitemap.xml", function(req, res) {
+  let allDocs = Object.values(global.__preloaded__.documents).reduce(
+    (acu, prev) => acu.concat(prev),
+    []
+  );
+  //TODO set all the sitemap parameters properly
+  let sitemap = sm.createSitemap({
+    hostname: "https://rutasdelosandes.com/",
+    cacheTime: 600000, // 600 sec - cache purge period
+    urls: allDocs.map(doc => ({
+      url: doc.url,
+      changefreq: "daily",
+      priority: 0.3
+    }))
+  });
+  sitemap.toXML(function(err, xml) {
+    if (err) {
+      return res.status(500).end();
+    }
+    res.header("Content-Type", "application/xml");
+    res.send(xml);
+  });
+});
+
 router.get("/getcart", async (req, res, next) => {
   try {
     let checkoutId = req.session.checkoutId;
