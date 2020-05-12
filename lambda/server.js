@@ -226,18 +226,8 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
-  console.log(`html comming from the server`, html);
   if (process.env.NODE_ENV == "production") {
-    RegisterSW = `if ('serviceWorker' in navigator) {
-                  navigator.serviceWorker.register('/service-worker.js');
-                }`;
-    Analytics = `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
-                  <script>
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
-                  </script>`;
+    RegisterSW = ``;
   }
 
   if (ampEquivalent) {
@@ -256,10 +246,7 @@ function renderFullPage(
     $("noscript").remove();
     $("amp-analytics").remove();
     console.log(`html comming from the server ${html}`);
-    amptag = `
-      ${$("head").html()}
-      <link rel="amphtml" href="${ampEquivalent}">
-    `;
+    amptag = ` ${$("head").html()} <link rel="amphtml" href="${ampEquivalent}"> `;
   }
 
   return `
@@ -275,7 +262,6 @@ function renderFullPage(
       <style id="jss-server-side">
       ${customCSS}
       </style>
-      ${Analytics}
       <style>
         ${globalStyles}
       </style>
@@ -292,6 +278,13 @@ function renderFullPage(
         fbq('init', '171238663763950');
         fbq('track', 'PageView');
       </script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
+      </script>
       <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
       /></noscript>
@@ -305,7 +298,9 @@ function renderFullPage(
       </script>
       <script>
         window.__preloaded__ = ${JSON.stringify(preloadedState)}
-        ${RegisterSW}
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('/service-worker.js');
+        }
       </script>
         ${customHtml}
         <div id="root">${html}</div>
