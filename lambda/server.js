@@ -134,9 +134,7 @@ router.get("/getcart", async (req, res, next) => {
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
   if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
-    ampEquivalent = `${req.protocol}://${req.get(
-      "host"
-    )}/amp${req.originalUrl.split("?").shift()}`;
+    ampEquivalent = `${req.protocol}://${req.hostname}/amp${req.originalUrl.split("?").shift()}`;
   }
 
   let cartOpen = req.query.cartOpen;
