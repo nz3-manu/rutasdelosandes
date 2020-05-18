@@ -79,12 +79,12 @@ app.use(
   })
 );
 
+let allDocs = Object.values(global.__preloaded__.documents).reduce(
+  (acu, prev) => acu.concat(prev),
+  []
+);
 // Sitemap route
 router.get("/sitemap.xml", function(req, res) {
-  let allDocs = Object.values(global.__preloaded__.documents).reduce(
-    (acu, prev) => acu.concat(prev),
-    []
-  );
   //TODO set all the sitemap parameters properly
   let sitemap = sm.createSitemap({
     hostname: "https://rutasdelosandes.com/",
@@ -224,17 +224,15 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
+
+  const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
+  const  docMetaData = metaDataArray.length && metaDataArray[0];
   if (process.env.NODE_ENV == "production") {
     RegisterSW = ``;
   }
 
   if (ampEquivalent) {
     var ampDoc = ``;
-    try {
-      //ampDoc = import(`../_site/amp${decodeURI(reqUrl)}`)
-    } catch (err) {
-      return 404;
-    }
 
     const $ = cheerio.load(ampDoc);
     structuredData = $('script[type="application/ld+json"]').html();
@@ -250,6 +248,8 @@ function renderFullPage(
       <!doctype html>
       <html>
       <head>
+      <title> ${docMetaData.seotitle}</title>
+      <meta name="description" content="${docMetaData.excerpt}">
       ${amptag}
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta property="fb:pages" content="1078600055607267" />
@@ -262,6 +262,28 @@ function renderFullPage(
       <style>
         ${globalStyles}
       </style>
+
+      <meta property="article:publisher" content="{{site.url}}">
+      <!-- facebook metadata -->
+      <meta property="og:title"       content=" ${docMetaData.title}">
+      <meta property="og:url"         content="{{site.url}}{{page.url}}">
+      <meta property="og:type"        content="article">
+      <meta property="og:image"       content="{{site.url}}{{page.images_url}}/featured.jpg">
+      <meta property="article:author" content="${docMetaData.author_facebook}">
+      <meta property="fb:app_id"      content="{{site.fb_app_id}}">
+      <meta property="og:site_name"   content="{{site.title}}">
+      <meta property="og:description" content="${docMetaData.excerpt}">
+      <meta property="fb:pages"       content="{{ site.instant_pages }}">
+      <meta property="og:updated_time" content="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">
+      <meta property="og:rich_attachment" content="true">
+
+      <!-- twitter metadata for summary_large_image -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@{{site.twitter}}">
+      <meta name="twitter:creator" content="@${docMetaData.author_twitter}">
+      <meta name="twitter:title" content="${docMetaData.title}">
+      <meta name="twitter:description" content="${docMetaData.excerpt}">
+      <meta name="twitter:image" content="{{site.url}}{{page.images_url}}/featured.jpg">
       <!-- Facebook Pixel Code -->
       <script>
         !function(f,b,e,v,n,t,s)
@@ -312,7 +334,6 @@ const routerBasePath =
   process.env.NODE_ENV === "dev"
     ? `/${functionName}`
     : `/.netlify/functions/${functionName}/`;
-console.log(routerBasePath);
 
 // Setup routes
 app.use(router);
