@@ -36,8 +36,8 @@ layout: null
   {% endfor %}
 },
 "site":{
-  "title":"{{site.title}}",
-  "description":"{{site.description}}"
+  "seotitle":"{{site.title}}",
+  "excerpt":"{{site.description}}"
 },
 "jekyll":{
   "logo" : "{{ site.logo | escape }}",

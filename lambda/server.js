@@ -83,6 +83,7 @@ let allDocs = Object.values(global.__preloaded__.documents).reduce(
   (acu, prev) => acu.concat(prev),
   []
 );
+const siteMeta = global.__preloaded__.site;
 // Sitemap route
 router.get("/sitemap.xml", function(req, res) {
   //TODO set all the sitemap parameters properly
@@ -226,7 +227,7 @@ function renderFullPage(
   let structuredData = ``;
 
   const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
-  const  docMetaData = metaDataArray.length ? metaDataArray[0] : documents.site;
+  const  docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
 
   if (process.env.NODE_ENV == "production") {
     RegisterSW = ``;
