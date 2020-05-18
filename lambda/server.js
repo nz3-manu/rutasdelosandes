@@ -226,7 +226,8 @@ function renderFullPage(
   let structuredData = ``;
 
   const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
-  const  docMetaData = metaDataArray.length && metaDataArray[0];
+  const  docMetaData = metaDataArray.length ? metaDataArray[0] : documents.site;
+
   if (process.env.NODE_ENV == "production") {
     RegisterSW = ``;
   }

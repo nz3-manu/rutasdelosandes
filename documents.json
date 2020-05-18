@@ -35,6 +35,10 @@ layout: null
     {% endif %}
   {% endfor %}
 },
+"site":{
+  "title":"{{site.title}}",
+  "description":"{{site.description}}"
+},
 "jekyll":{
   "logo" : "{{ site.logo | escape }}",
   "brandColor": "{{ site.brand_color }}",
