@@ -33,6 +33,8 @@ Al día siguiente tomamos el jeep o bus escalera 🚌(Chiva), que sale desde la 
 
 Si van en 🚙 carro o 🛵 moto podrían dejarlo en el “Restaurante-Mirador Don Lolo”, el cual es gratis para clientes o en alguna finca cercana.
 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__ 
+
 ## Ruta a los Chorros de Don Lolo 🚶🏽🐕
 
 El jeep nos dejo en el “Restaurante-Mirador Don Lolo”, a partir de aquí descendimos por una carretera de piedra y un camino de herradura.

@@ -26,7 +26,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 ## ¿Cómo llegar a la Laguna del otún 🛣🚌?
-Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado <a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/que-es-el-mal-de-altura-como-evitarlo.html">"Que es el mal de altura y como evitarlo"</a>, sabemos que te ayudará mucho para hacer esta ruta.
+Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado <a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/que-es-el-mal-de-altura-como-evitarlo.htmlSeguro médico y de rescate">"Que es el mal de altura y como evitarlo"</a>, sabemos que te ayudará mucho para hacer esta ruta.
 
 Existen varias formas para llegar a la Laguna del Otún; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
@@ -68,6 +68,9 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
     Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
   </li> 
 </ol>
+
+
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__ 
 
 
 {% include iframe.html

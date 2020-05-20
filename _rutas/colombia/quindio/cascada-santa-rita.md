@@ -33,6 +33,7 @@ También puedes tomar el bus desde Armenia hasta Salento.
 
 Después de tomar el bus nos tardamos aproximadamente 40 minutos para llegar a Boquía, una vez allí empezamos nuestra ruta.
 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__ 
 
 ## El camino a la Cascada Santa Rita 🚶🏼🐕
 

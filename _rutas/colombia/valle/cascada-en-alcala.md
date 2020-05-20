@@ -52,7 +52,8 @@ Después de una corta y agradable caminata llegamos por fin a nuestro destino
     height="600"
     layout="responsive">
 </amp-instagram>
-  
+
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__ 
 
 ## ¿Cómo regresar 🚌🏡?
 
