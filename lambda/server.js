@@ -79,6 +79,32 @@ app.use(
   })
 );
 
+let allDocs = Object.values(global.__preloaded__.documents).reduce(
+  (acu, prev) => acu.concat(prev),
+  []
+);
+const siteMeta = global.__preloaded__.site;
+// Sitemap route
+router.get("/sitemap.xml", function(req, res) {
+  //TODO set all the sitemap parameters properly
+  let sitemap = sm.createSitemap({
+    hostname: "https://rutasdelosandes.com/",
+    cacheTime: 600000, // 600 sec - cache purge period
+    urls: allDocs.map(doc => ({
+      url: doc.url,
+      changefreq: "daily",
+      priority: 0.3
+    }))
+  });
+  sitemap.toXML(function(err, xml) {
+    if (err) {
+      return res.status(500).end();
+    }
+    res.header("Content-Type", "application/xml");
+    res.send(xml);
+  });
+});
+
 router.get("/getcart", async (req, res, next) => {
   try {
     let checkoutId = req.session.checkoutId;
@@ -109,9 +135,7 @@ router.get("/getcart", async (req, res, next) => {
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
   if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
-    ampEquivalent = `${req.protocol}://${req.get(
-      "host"
-    )}/amp${req.originalUrl.split("?").shift()}`;
+    ampEquivalent = `${req.protocol}://rutasdelosandes.com/amp${req.originalUrl.split("?").shift()}`;
   }
 
   let cartOpen = req.query.cartOpen;
@@ -201,27 +225,16 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
   let structuredData = ``;
-  console.log(`html comming from the server`, html);
+
+  const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
+  const  docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
+
   if (process.env.NODE_ENV == "production") {
-    RegisterSW = `if ('serviceWorker' in navigator) {
-                  navigator.serviceWorker.register('/service-worker.js');
-                }`;
-    Analytics = `<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
-                  <script>
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
-                  </script>`;
+    RegisterSW = ``;
   }
 
   if (ampEquivalent) {
     var ampDoc = ``;
-    try {
-      //ampDoc = import(`../_site/amp${decodeURI(reqUrl)}`)
-    } catch (err) {
-      return 404;
-    }
 
     const $ = cheerio.load(ampDoc);
     structuredData = $('script[type="application/ld+json"]').html();
@@ -230,17 +243,15 @@ function renderFullPage(
     $("script").remove();
     $("noscript").remove();
     $("amp-analytics").remove();
-    console.log(`html comming from the server ${html}`);
-    amptag = `
-      ${$("head").html()}
-      <link rel="amphtml" href="${ampEquivalent}">
-    `;
+    amptag = ` ${$("head").html()} <link rel="amphtml" href="${ampEquivalent}"> `;
   }
 
   return `
       <!doctype html>
       <html>
       <head>
+      <title> ${docMetaData.seotitle}</title>
+      <meta name="description" content="${docMetaData.excerpt}">
       ${amptag}
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta property="fb:pages" content="1078600055607267" />
@@ -250,10 +261,31 @@ function renderFullPage(
       <style id="jss-server-side">
       ${customCSS}
       </style>
-      ${Analytics}
       <style>
         ${globalStyles}
       </style>
+
+      <meta property="article:publisher" content="{{site.url}}">
+      <!-- facebook metadata -->
+      <meta property="og:title"       content=" ${docMetaData.title}">
+      <meta property="og:url"         content="{{site.url}}{{page.url}}">
+      <meta property="og:type"        content="article">
+      <meta property="og:image"       content="{{site.url}}{{page.images_url}}/featured.jpg">
+      <meta property="article:author" content="${docMetaData.author_facebook}">
+      <meta property="fb:app_id"      content="{{site.fb_app_id}}">
+      <meta property="og:site_name"   content="{{site.title}}">
+      <meta property="og:description" content="${docMetaData.excerpt}">
+      <meta property="fb:pages"       content="{{ site.instant_pages }}">
+      <meta property="og:updated_time" content="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">
+      <meta property="og:rich_attachment" content="true">
+
+      <!-- twitter metadata for summary_large_image -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@{{site.twitter}}">
+      <meta name="twitter:creator" content="@${docMetaData.author_twitter}">
+      <meta name="twitter:title" content="${docMetaData.title}">
+      <meta name="twitter:description" content="${docMetaData.excerpt}">
+      <meta name="twitter:image" content="{{site.url}}{{page.images_url}}/featured.jpg">
       <!-- Facebook Pixel Code -->
       <script>
         !function(f,b,e,v,n,t,s)
@@ -266,6 +298,13 @@ function renderFullPage(
         'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '171238663763950');
         fbq('track', 'PageView');
+      </script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100391485-2"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-100391485-2', { 'dataSource': 'REACT', 'use_amp_client_id': true });
       </script>
       <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=171238663763950&ev=PageView&noscript=1"
@@ -280,7 +319,9 @@ function renderFullPage(
       </script>
       <script>
         window.__preloaded__ = ${JSON.stringify(preloadedState)}
-        ${RegisterSW}
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('/service-worker.js');
+        }
       </script>
         ${customHtml}
         <div id="root">${html}</div>
@@ -295,7 +336,6 @@ const routerBasePath =
   process.env.NODE_ENV === "dev"
     ? `/${functionName}`
     : `/.netlify/functions/${functionName}/`;
-console.log(routerBasePath);
 
 // Setup routes
 app.use(router);

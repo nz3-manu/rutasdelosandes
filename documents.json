@@ -16,8 +16,11 @@ layout: null
           {% assign authorInfo = site.data.authors[post.author] %}
             { "url" : "{{ post.url | relative_url | remove: '/amp'}}",
               "title": "{{ post.title | escape }}",
+              "seotitle": "{{ post.seo_title }}",
               "excerpt":"{{post.excerpt}}",
               "author": "{{ authorInfo.name }}",
+              "author_facebook": "{{ authorInfo.facebook }}",
+              "author_twitter": "{{ authorInfo.twitter }}",
               "date": "{{post.date | date: '%b %d' }}",
               "image": "{{post.images_url}}/thumbnail.jpg"
             }
@@ -31,6 +34,10 @@ layout: null
     ,
     {% endif %}
   {% endfor %}
+},
+"site":{
+  "seotitle":"{{site.title}}",
+  "excerpt":"{{site.description}}"
 },
 "jekyll":{
   "logo" : "{{ site.logo | escape }}",
