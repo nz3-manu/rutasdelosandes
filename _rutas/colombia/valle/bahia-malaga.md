@@ -3,7 +3,7 @@ layout: trail
 title:  Bahía Málaga
 categories: colombia 
 tags: Valle
-seo_title: Bahía Málaga| ¿Que hacer y Donde Hospedarse?
+seo_title: 🏅Bahía Málaga| ¿Que hacer y Donde Hospedarse?
 excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia málaga, descubre cómo llegar a la playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
