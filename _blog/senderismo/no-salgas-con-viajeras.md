@@ -17,18 +17,13 @@ Te explicaremos porqué no salir con una chica que viaja, si en algún momento d
 
 Es esa que va despeinada y que tiene el pelo un poco quemado por el sol. Su piel no está como al principio. Pero tampoco bronceada. Su piel tiene marcas de quemaduras, de heridas y picaduras. Pero cada una de esas cicatrices tiene detrás una interesante historia que contar.
 
-{% include image.html
- file="/blog/senderismo/nomujerviajera/no-salgas-con-viajera-1.jpg"
- width="800"
- height="720"
-%}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tatianabch/"  target="_blank"> @tatianabch </a> </span>__
-
  __1º Razon por las cual no salir con una chica que viaje.__
   __No es fácil tenerla contenta,__ las típicas noches de cena y pelicula en un centro comercial la ponen incómoda 😥. Lo que busca su alma son nuevas experiencias y aventuras. No le impresionará tu coche nuevo ni tu reloj caro. Preferiría estar escalando una nueva montaña o saltando de un paracaídas antes que escuchar cómo presumes de tus nuevas adquisiciones.
 
+  __[Te invitamos que conozcas nuestra tienda virtual 👉 <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a> encontras los mejores artículos para esos aventurer@s]__
+
 __2º Razon por las cual no salir con una chica que viaje.__
-  __No te dejará tranquilo hasta que no la lleves a ese lugar que vio en el instagram de rutas de los andes 🍃.__ No se irá de fiesta a las mejores discotecas y nunca pagará más de $300.000 pesos por un concierto, porque sabe que un fin de semana de fiesta equivale a una semana mucho más emocionante en cualquier lugar lejano ⛰.
+  __No te dejará tranquilo hasta que no la lleves a ese lugar que vio en la pagina de rutas de los andes 😅.__ No se irá de fiesta a las mejores discotecas y nunca pagará más de $300.000 pesos por un concierto, porque sabe que un fin de semana de fiesta equivale a una semana mucho más emocionante en cualquier lugar lejano ⛰.
 
   {% include image.html
  file="/blog/senderismo/nomujerviajera/no-salgas-con-viajera-2.jpg"
@@ -67,6 +62,7 @@ Por tanto, nunca salgas con una chica que viaje a menos que puedas seguirle el r
  
 
 Fuente:  <a target="_blank" href="http://lovethesearch.com/dont-date-a-girl-who-travels/ ">  lovethesearch.com </a> Traducción y modificación por rutas de los andes.
+
 
 
 __Este es el fin del post, no te olvides de seguirnos en nuestras redes sociales para conocer mas información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
