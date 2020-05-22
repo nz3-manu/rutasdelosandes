@@ -51,11 +51,11 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 ## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?
 Lo primero que tenemos que hacer es ir a Neiva ubicado en el departamento del Huila:
 
- __Desde Bogotá:__ El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
+ __Como llegar al desierto desde Bogotá:__ El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
 
-__Desde Medellín:__ El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas. 
+__Como llegar al desierto desde Medellín:__ El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas. 
 
-__Desde Cali:__ El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de  10 horas. 
+__Como llegar al desierto desde Cali:__ El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de  10 horas. 
 
 Una vez en Neiva tenemos que tomar otro bus 🚌 con destino al pueblo de Villavieja, la duración del trayecto es de 90 minutos. Valor del pasaje es de $7.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
 
@@ -77,7 +77,7 @@ Desde Villavieja tomamos un mototaxi(ya que es más económico), te puede cobrar
 {% include iframe.html
     type="custom"
     mid="1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es"
-    caption="Mapa villavieja hasta desierto de la Tatacoa "
+    caption="Mapa desierto de la Tatacoa "
 %}
 
 El valor de la entrada es aproximadamente $5.000 pesos.

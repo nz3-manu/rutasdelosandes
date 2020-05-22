@@ -31,10 +31,11 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## ¿Cómo llegar al Nevado del Ruiz 🛣🚌 ? 
 
-Lo primero que tuvimos que hacer fue llegar a Manizales, una vez allí alquilamos un carro, ya que para esta zona no hay transporte público. 
+Para ir al Nevado del Ruiz lo primero que tuvimos que hacer fue llegar a Manizales, una vez allí alquilamos un carro, ya que para esta zona no hay transporte público. 
 
 El alquiler de carro con conductor costó alrededor de $300.000 pesos para un cupo máximo de 6 personas, recogiéndonos en el terminal de Manizales y al finalizar la ruta  nos dejo de nuevo en el terminal, estos costos pueden variar dependiendo de la empresa que consultes y de la temporada.
 
+__[Te recomendamos leer para hacer esta ruta <a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/que-es-el-mal-de-altura-como-evitarlo.htmlSeguro médico y de rescate">"Que es el mal de altura y como evitarlo"</a>.]__
 
 Con cada kilómetro que avanzábamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
 
@@ -60,6 +61,8 @@ __Para hospedarse en este lugar o contratar los servicios de desayunos y almuerz
 
 
 Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
+
+## Entrada al Nevado del Ruiz 🎟
 
 ⚠️ __Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.__
 

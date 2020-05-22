@@ -4,7 +4,7 @@ title:  Bahía Málaga
 categories: colombia 
 tags: Valle
 seo_title: 🏅Bahía Málaga| ¿Que hacer y Donde Hospedarse?
-excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia málaga, descubre cómo llegar a la playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga
+excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia malaga, descubre cómo llegar a la playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
@@ -23,23 +23,24 @@ Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededo
    videoid="6U9bYSD1EAk"
    width="480"
    height="270"
-   caption="Cascada en Alcala"
+   caption=" video de bahia malaga"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
 
-## ¿Cómo llegar a Bahía Málaga 🛣🚌🚤?
+## ¿Cómo llegar a Bahía Málaga?
 
 Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este queda a pocas cuadras de la terminal ), allí encontramos diferentes empresas y paquetes de turismo, si vas a comprar un paquete turístico recuerda siempre consultarlo directamente en las agencias, no con intermediarios.
 
 Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea Juanchaco y Ladrilleros, el hostal llamara a la empresa de transporte fluvial con la que opera para que los desembarquen cerca de sus instalaciones, esto fue un acuerdo que se hizo entre las comunidades que viven en esta zona y las empresas de transporte fluvial para permitir que los turistas pudieran llegar a hospedajes de locales y así ayudar a la economía de estas.
 
 
+### 🛏 hospedajes en Bahía Málaga
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
 
-### 🛏 Hospedaje en Chucheros Yaneisy 
+#### 🛏 Hospedaje en Chucheros Yaneisy 
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
 Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
@@ -53,7 +54,7 @@ __Alimentación 🍛:__ Desayunos $9.000 Pesos, almuerzos 🍛 $18.000 Pesos y c
 __Para hospedarse aquí solo es con reserva previa al teléfono  <a href="tel:  3173539258 "> 3173539258 </a> Yanensy.__
 
 
-### 🛏 Hospedaje en playa Juan de Dios
+#### 🛏 Hospedaje en playa Juan de Dios
 
 El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la  playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
@@ -69,7 +70,7 @@ Podrás ver la localización de estos hospedaje en el mapa que se encuentra un p
 
 ### 🛏 Otros hospedajes en Bahía Málaga
 
- Encontraras mas hospedajes en Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe.
+También podrás encontrar otras  alternativas de hospedajes dentro de bahía málaga en:   Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares ya que se haría muy extenso el articulo, estos hospedajes los podrás encontrar en google. Si llegaras a tener problemas al encontrarlos puedes escribirnos a nuestras redes sociales y con gusto te ayudaremos :).
 
 
 ## Sendero a la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
@@ -87,7 +88,7 @@ __Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en esta p
 {% include iframe.html
   type="custom"
   mid="1FyUNYn0REPJyyWRY2wrBfXGsmakFHVFr&hl=es"
-  caption="ruta a Bahía Málaga"
+  caption="mapa de Bahia malaga"
 %}
 
 En el mapa podrán ver una cascada que  se llama “Cascada de Chucheros”, para llegar a esta desde la loma de chucheros son aproximadamente 40 minutos caminando por el borde de la playa. Nosotros no pudimos llegar hasta ese punto ya que estaba empezando a subir la marea 😢así que regresamos.
@@ -128,6 +129,6 @@ Debes tener en cuenta que los horarios de buses del terminal de buenaventura par
 
 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
+__Este es el fin de la ruta a Bahía Málaga, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
 
 
