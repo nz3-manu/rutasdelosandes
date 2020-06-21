@@ -84,7 +84,7 @@ __[Recuerda llevar  las prendas adecuadas para ir a la montaña, puedes visitar 
 En la siguiente gráfica te resumimos la recomendaciones que hacen algunos expertos en este tema.
 
 {% include image.html
- file="/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontaña.png"
+ file="/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontana.png"
  caption="Gráfica ascenso a montaña"
  width="1552"
  height="950"
