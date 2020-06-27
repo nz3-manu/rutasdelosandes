@@ -28,10 +28,10 @@ Estudios han demostrado que quienes viven cerca de parques y otras concentracion
 Científicos observaron la actividad cerebral de voluntarios a quienes se les pusieron electrodos en la cabeza y les fueron mostradas imágenes de árboles o de escenas urbanas. Las ondas cerebrales de quienes vieron árboles registraron mayor calma.
 
 <amp-instagram
-    data-shortcode="BcV3J5fHaVk"
+    data-shortcode="CAbng2AAJ0E"
     data-captioned
-    width="1600"
-    height="900"
+    width="365"
+    height="457"
     layout="responsive">
 </amp-instagram>
 
