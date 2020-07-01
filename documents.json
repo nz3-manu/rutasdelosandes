@@ -22,7 +22,8 @@ layout: null
               "author_facebook": "{{ authorInfo.facebook }}",
               "author_twitter": "{{ authorInfo.twitter }}",
               "date": "{{post.date | date: '%b %d' }}",
-              "image": "{{post.images_url}}/thumbnail.jpg"
+              "image": "{{post.images_url}}/thumbnail.jpg",
+              "featured": "{{site.url}}{{page.images_url}}/featured.jpg"
             }
             {% if forloop.last != true %}
             ,
