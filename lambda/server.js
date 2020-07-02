@@ -264,13 +264,12 @@ function renderFullPage(
       <style>
         ${globalStyles}
       </style>
-
       <meta property="article:publisher" content="{{site.url}}">
       <!-- facebook metadata -->
-      <meta property="og:title"       content=" ${docMetaData.title}">
+      <meta property="og:title"       content="${docMetaData.title}">
       <meta property="og:url"         content="{{site.url}}{{page.url}}">
       <meta property="og:type"        content="article">
-      <meta property="og:image"       content="{{site.url}}{{page.images_url}}/featured.jpg">
+      <meta property="og:image"       content="${docMetaData.featured}">
       <meta property="article:author" content="${docMetaData.author_facebook}">
       <meta property="fb:app_id"      content="{{site.fb_app_id}}">
       <meta property="og:site_name"   content="{{site.title}}">
@@ -278,14 +277,13 @@ function renderFullPage(
       <meta property="fb:pages"       content="{{ site.instant_pages }}">
       <meta property="og:updated_time" content="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">
       <meta property="og:rich_attachment" content="true">
-
       <!-- twitter metadata for summary_large_image -->
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:site" content="@{{site.twitter}}">
       <meta name="twitter:creator" content="@${docMetaData.author_twitter}">
       <meta name="twitter:title" content="${docMetaData.title}">
       <meta name="twitter:description" content="${docMetaData.excerpt}">
-      <meta name="twitter:image" content="{{site.url}}{{page.images_url}}/featured.jpg">
+      <meta name="twitter:image" content="${docMetaData.featured}">
       <!-- Facebook Pixel Code -->
       <script>
         !function(f,b,e,v,n,t,s)
