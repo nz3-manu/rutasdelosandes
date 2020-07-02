@@ -30,6 +30,12 @@ Una buena opción son las prendas con repelencia de sudor o secado rápido.
 
 Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos pueden lacerar y del sol. Sí estos cuentan con factor de protección solar (UV) será mucho mejor.
 
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta-manga-larga-senderismo.jpg"
+ caption="camiseta manga larga para senderismo con protección solar.jpg"
+ width="1200"
+ height="800"
+%}
 
  __[podrás consultar algunas camisetas y busos para senderismo hacer senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
 
@@ -50,6 +56,13 @@ Existen algunas chaquetas que son impermeables y al mismo tiempo permite la tran
 
 __Consejo para comprar una chaqueta impermeable:__ revisa que la tela no sea muy delgada porque se rompería con alguna rama en la montaña ⛰.
 
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/chaqueta_impermeable.jpg"
+ caption="Chaqueta impermeable con protección solar y anti rasgado"
+ width="1200"
+ height="800"
+%}
+
 __Nota:__ Cualquiera de las 2 chaquetas que escojas, es importante que cuente con una capota y una visera rígida, así evitarás que al llover el agua llegue a tu rostro.
 
  __[podrás consultar chaquetas rompevientos y chaquetas impermeables en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
@@ -61,6 +74,12 @@ Si piensas hacer caminatas en bosques o climas tropicales lo ideal es un pantal�
 
 __Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con piedras, ramas etc… Asegúrate que la tela sea resistente y no se rompa con facilidad. Usualmente esta tecnología es llamada “Antiscratch”
 
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/chaqueta_impermeable.jpg"
+ caption="Chaqueta impermeable con protección solar y anti rasgado"
+ width="1200"
+ height="800"
+%}
 
  __[podrás consultar diferentes tipos de pantalones de senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
 
