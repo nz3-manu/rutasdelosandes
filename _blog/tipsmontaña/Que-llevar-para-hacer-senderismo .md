@@ -75,8 +75,8 @@ Si piensas hacer caminatas en bosques o climas tropicales lo ideal es un pantal�
 __Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con piedras, ramas etc… Asegúrate que la tela sea resistente y no se rompa con facilidad. Usualmente esta tecnología es llamada “Antiscratch”
 
 {% include image.html
- file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/chaqueta_impermeable.jpg"
- caption="Chaqueta impermeable con protección solar y anti rasgado"
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/pantalon_senderismo.JPG"
+ caption="Pantalon de senderismo"
  width="1200"
  height="800"
 %}
@@ -98,6 +98,13 @@ Puedes escoger igualmente botas de caña media o caña alta, ya que esto te perm
 ### Buff 
 
 El buff es un artículo muy  simple pero  juega un papel muy importante al momento de hacer senderismo, ya que este al ser un elemento tan fácil de llevar y de diferente aplicabilidad, lo podemos colocar en nuestro cuello lo que evitará protegernos del sol, si hay mucho viento o polvo nos podríamos cubrir la nariz y boca; puedes cubrir tu cabello de las altas temperaturas etc.
+
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/bufff.jpg"
+ caption="Buff para senderismo"
+ width="1200"
+ height="674"
+%}
 
 __Recomendación:__ al comprarlo cerciórate que sea de un material de secado rápido y con protección solar,  ideal también que cuente con antibacterial, ya que la gran mayoría del tiempo cubriremos nuestra boca.
 
