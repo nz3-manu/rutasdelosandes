@@ -19,7 +19,7 @@ Lo primero que debes saber es que este post está enfocado a caminatas de catego
 
 ## ¿Qué tipo de ropa llevar para hacer senderismo?
 
-Lo primero que tenemos que saber es que la ropa que normalmente usamos para salir como Jeans, tenis  o camisetas de algodón  no son las mejores opción para hacer senderismo, a continuación te explicaremos qué tipo de ropa es la más adecuada .
+Lo primero que se tiene que saber es que la ropa que normalmente usamos para salir como Jeans, tenis  o camisetas de algodón  no son las mejores opción para hacer senderismo, a continuación te explicaremos qué tipo de ropa es la más adecuada .
 
 ### ¿Qué tipo de camiseta es la más adecuada?
 
@@ -112,6 +112,13 @@ __Recomendación:__ al comprarlo cerciórate que sea de un material de secado r�
 ### Rain cover o Cubre Bolso 🎒
 
 Esto es una funda que se coloca al maletín, evitará que al llover se mojen tus cosas, al comprarlo fíjate que sea de un material impermeable y grueso, ya que en muchos casos al descargar el maletín sobre algunas rocas o ramas tienden a  rompersen.
+
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/bufff.jpg"
+ caption="Rain cover o Cubre Bolso para senderismo"
+ width="1200"
+ height="674"
+%}
 
 __Recomendación:__ Así lleves el cubre maletín,  mete tus cosas en una bolsa plástica para mantenerlas secas.
 
