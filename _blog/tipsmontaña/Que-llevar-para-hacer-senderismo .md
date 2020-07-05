@@ -87,9 +87,16 @@ __Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con pie
 
 Sin duda alguna, los tenis o botas juegan un papel importante cuando salimos a caminar, la mala elección de éstos podrían convertir tu viaje en algo no muy agradable.
 
-Lo que solemos usar para caminatas, son tenis que tengan una suela dura con buen agarre y que no sean impermeables, ya que al usarlos impermeables esto no permitirá dejar pasar el agua y tampoco dejará que nuestro pies transpiren 🥵, lo cual hará que se nos cocinen los pies, y es allí donde aparecen las ampollas.
+Lo que solemos usar para caminatas, __son tenis que tengan una suela dura con buen agarre y que no sean impermeables__, ya que al usarlos impermeables esto no permitirá dejar pasar el agua y tampoco dejará que nuestro pies transpiren 🥵, lo cual hará que se nos cocinen los pies, y es allí donde aparecen las ampollas.
 
 Queremos aclarar que este punto de vista es de acuerdo a algunos relatos de viajeros y vivencias propias.
+
+{% include image.html
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/tenis-senderismo.JPG"
+ caption="Tenis para senderismo con suela de buen agarre"
+ width="1200"
+ height="800"
+%}
 
 __Recomendación:__  Recuerda un día antes revisar el estado de tus tenis, cerciorándote que la suela esté en buen estado y no tengas riesgos de que se despeguen.
 
@@ -100,10 +107,10 @@ Puedes escoger igualmente botas de caña media o caña alta, ya que esto te perm
 El buff es un artículo muy  simple pero  juega un papel muy importante al momento de hacer senderismo, ya que este al ser un elemento tan fácil de llevar y de diferente aplicabilidad, lo podemos colocar en nuestro cuello lo que evitará protegernos del sol, si hay mucho viento o polvo nos podríamos cubrir la nariz y boca; puedes cubrir tu cabello de las altas temperaturas etc.
 
 {% include image.html
- file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/bufff.jpg"
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/buff.jpg"
  caption="Buff para senderismo"
  width="1200"
- height="674"
+ height="800"
 %}
 
 __Recomendación:__ al comprarlo cerciórate que sea de un material de secado rápido y con protección solar,  ideal también que cuente con antibacterial, ya que la gran mayoría del tiempo cubriremos nuestra boca.
@@ -114,10 +121,10 @@ __Recomendación:__ al comprarlo cerciórate que sea de un material de secado r�
 Esto es una funda que se coloca al maletín, evitará que al llover se mojen tus cosas, al comprarlo fíjate que sea de un material impermeable y grueso, ya que en muchos casos al descargar el maletín sobre algunas rocas o ramas tienden a  rompersen.
 
 {% include image.html
- file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/bufff.jpg"
- caption="Rain cover o Cubre Bolso para senderismo"
+ file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/rain-cover.jpg"
+ caption="Rain cover o Cubre Bolso para senderismo impermeable"
  width="1200"
- height="674"
+ height="800"
 %}
 
 __Recomendación:__ Así lleves el cubre maletín,  mete tus cosas en una bolsa plástica para mantenerlas secas.
