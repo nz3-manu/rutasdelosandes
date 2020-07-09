@@ -4,7 +4,7 @@ title: Qué llevar para hacer senderismo
 categories: blog
 seo_title: Qué llevar para hacer senderismo 
 excerpt: Creo que alguna vez hemos tenido esa sensación de ver la mochila o maletín y no saber qué empacar al momento de salir a hacer senderismo, aquí que mostraremos que llevar para hacer senderismo.
-images_url: /images/blog/tipsmontana/que-llevar-al-hacer-senderismo 
+images_url: /images/blog/tipsmontana/que-llevar-al-hacer-senderismo
 tags: TipsMontaña
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/featured.jpg
 ---
@@ -19,7 +19,7 @@ Lo primero que debes saber es que este post está enfocado a caminatas de catego
 
 ## ¿Qué tipo de ropa llevar para hacer senderismo?
 
-Lo primero que se tiene que saber es que la ropa que normalmente usamos para salir como Jeans, tenis  o camisetas de algodón  no son las mejores opción para hacer senderismo, a continuación te explicaremos qué tipo de ropa es la más adecuada .
+Lo primero que se tiene que saber es que la ropa que normalmente usamos para salir como Jeans, tenis  o camisetas de algodón no son las mejores opciones para hacer senderismo, a continuación te explicaremos qué tipo de ropa es la más adecuada .
 
 ### ¿Qué tipo de camiseta es la más adecuada?
 
@@ -32,7 +32,7 @@ Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos p
 
 {% include image.html
  file="/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta-manga-larga-senderismo.jpg"
- caption="camiseta manga larga para senderismo con protección solar.jpg"
+ caption="Camiseta manga larga para senderismo con protección solar"
  width="1200"
  height="800"
 %}
