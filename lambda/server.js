@@ -60,7 +60,7 @@ app.use(Sentry.Handlers.requestHandler());
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
 
-import { read, write, push, sendToDevice, update, remove } from "./db";
+//import { read, write, push, sendToDevice, update, remove } from "./db";
 
 // i think this is cousing the errors
 app.set("views", "../views");
