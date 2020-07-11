@@ -36,6 +36,18 @@ import {
 } from "@material-ui/core/styles";
 import blueGrey from "@material-ui/core/colors/blueGrey";
 
+const vapidKeys = {
+  publicKey:
+    "BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4",
+  privateKey: "z6scVphnKP7WPgjVeJZFgvGdMlrFT8V2hVEg08mnoms"
+};
+
+webpush.setVapidDetails(
+  "mailto:rutasdelosandes@gmail.com",
+  vapidKeys.publicKey,
+  vapidKeys.privateKey
+);
+
 let upload = multer();
 
 Sentry.init({
@@ -47,6 +59,8 @@ app.use(Sentry.Handlers.requestHandler());
 
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
+
+import { read, write, push, sendToDevice, update, remove } from "./db";
 
 // i think this is cousing the errors
 app.set("views", "../views");
@@ -103,6 +117,13 @@ router.get("/sitemap.xml", function(req, res) {
     res.header("Content-Type", "application/xml");
     res.send(xml);
   });
+});
+
+app.post("/api/save-subscription/", function(req, res) {
+  var data = req.body;
+  console.log("body of the subscribe ajax call", data);
+  push(`endpoints`, data);
+  res.status(200).send("ok");
 });
 
 router.get("/getcart", async (req, res, next) => {
