@@ -1,7 +1,7 @@
 ---
 draft: true
 layout: article
-title: Que es el mal de altura y como evitarlo 
+title: Coronavirus:cuidados para salir a camina
 categories: blog
 seo_title: Coronavirus:cuidados para salir a caminar 
 excerpt: Cuidados para salir a caminar en tiempo de covid, encuentra información que te ayudara a cuidarte al aire libre de covid.
