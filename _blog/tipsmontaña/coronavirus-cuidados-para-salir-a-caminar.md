@@ -14,9 +14,9 @@ featured:  https://rutasdelosandes.com/images/blog/tipsmontana/coronavirus-cuida
 
 Durante varios meses la mayoría de la población hemos estado confinados en nuestras casas, pero ya algunas regiones han permitido algunos senderos ecológicos, ya que es importante para nuestra salud mental estar en contacto con la naturaleza, pero debemos hacerlo con responsabilidad, por eso, en rutas de los andes queremos darte algunas indicaciones para aprovechar al máximo la experiencia del senderismo con el menor riesgo posible ya que el Covid-19 es una enfermedad muy contagiosa, pero con la medidas necesarias podemos mitigar el riesgo de adquirirla, por lo cual queremos ayudarte a estar más preparado.
 
-__Antes de empezar con el post queremos enfatizar que si presentas algún síntoma de gripe 🤧 así sea muy leve , evitemos salir a hacer actividades al aire libre ya que de esta forma nos estaremos cuidando nosotros y a los demás.__
+__Antes de empezar con el post queremos enfatizar que si presentas algún síntoma de gripe 🤧 así sea muy leve , evitemos salir a hacer actividades al aire libre ya que de esta forma nos estaremos cuidando nosotros y cuidando a los demás.__
 
-Hemos realizado una serie de preguntas que tal vez te has hecho o tal vez no, que te darán una idea de que es lo debemos tener en cuenta, una guia rapida para salir de casa:
+Hemos realizado una serie de preguntas que tal vez te has hecho o tal vez no, que te darán una idea de que es lo debemos tener en cuenta al momento de  salir a hacer actividades al aire libre, esta información fue realizada de diferentes fuentes  las cuales podrás consultar al final de post.
 
 ## ¿Qué llevar a una caminata? Preparación mental y de equipos de aseo.
 
