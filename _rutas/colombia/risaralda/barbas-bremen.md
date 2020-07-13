@@ -45,6 +45,7 @@ __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí
     
 Una vez aquí ya estamos listos para empezar el camino por el sendero 😃.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 
 ## Ruta en la Reserva Barbas Bremen 🚶🏼
 Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado <a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/Que-llevar-para-hacer-senderismo%20.html">"Qué llevar para hacer senderismo"</a>, sabemos que te ayudará mucho para hacer esta ruta.
@@ -58,7 +59,7 @@ __Recomendación:__ El rió barbas se caracteriza por ser impredecible, así que
 
 Después de salir del Sendero Yarumal caminaremos al costado de la carretera que lleva a la Vereda Alegrias(pintoresco nombre 🤗) después de unos 45 minutos caminando podremos adentrarnos la cascada Alegrias. Una vez vista esta regresamos a la carretera y en unos aproximadamente  15 minutos llegaremos a la vereda Alegrias.
 
-__[Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 {% include iframe.html
     type="custom"

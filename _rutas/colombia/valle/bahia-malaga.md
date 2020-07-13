@@ -95,8 +95,9 @@ En el mapa podrán ver una cascada que  se llama “Cascada de Chucheros”, par
 
 Después de un dia lleno de aventura ya era tiempo de un merecido descanso 😴.
 
-__Recuerda llevar para esta ruta una buena chaqueta ya que en este lugar llueve gran parte del tiempo, puedes visitar nuestra tienda en línea en la cual encontrarás muy buenas opciones <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__
+Recuerda llevar para esta ruta una buena chaqueta ya que en este lugar llueve gran parte del tiempo.
 
+__<a target="_blank" href="https://www.instagram.com/randes.store/"> Puedes visitar nuestra tienda en línea en la cual encontrarás muy buenas opciones de chaquetas clic aquí</a>.__
 
 Al día siguiente la emoción de todos nosotros era evidente 🥳 ya que ese dia salimos a conocer la cascada la Sierpe y las 3 Marias.
 

@@ -79,7 +79,7 @@ Si no se toman las medidas adecuadas podría llegar a convertirse en un edema pu
 
 Después de leer varios artículos y analizarlos, todos concuerdan en lo siguiente, __hacer ascenso gradual__, no importa que tan experimentado seas en la montaña, si has estado en lugares con muy baja altitud como la costa y subes en muy corto tiempo a un lugar con mucha altitud sin previa aclimatación tendrás muchas probabilidades de sufrir mal de altura. 
 
-__[Recuerda llevar  las prendas adecuadas para ir a la montaña, puedes visitar nuestra tienda en línea  para encontrar algunas opciones <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Recuerda llevar  las prendas adecuadas para ir a la montaña, puedes visitar nuestra tienda en línea  para encontrar algunas opciones clic aquí</a>.]__
 
 En la siguiente gráfica te resumimos la recomendaciones que hacen algunos expertos en este tema.
 
@@ -94,6 +94,8 @@ Se recomienda dormir de 2 a 3 días en una altura entre 2.000-2.500 metros de al
 Somos conscientes de que al ir a la montaña no contaremos con todos estos días para hacer un ascenso gradual como le recomiendan muchos especialistas en el tema, así que si vas seguir subiendo algunos metros más de lo aconsejable, esté alerta si los síntomas de mal de altura aparecen en ti o en tus compañeros, para prestar la adecuada atención.
 
 Evita consumir alcohol y fumar cigarrillo. El alcohol ayuda a deshidratar tu cuerpo, por lo que aumentará la probabilidad de que contraigas el mal de altura. Si tienes dificultades al respirar, imagina cómo se sentirá tu cuerpo luego de un cigarro.
+
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 
 ## ¿Qué hacer si me da mal de altura en la montaña?
 

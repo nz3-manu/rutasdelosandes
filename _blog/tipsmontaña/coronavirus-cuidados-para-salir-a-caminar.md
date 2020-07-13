@@ -20,7 +20,7 @@ Hemos realizado una serie de preguntas que tal vez te has hecho o tal vez no, qu
 
 ## ¿Qué llevar a una caminata? Preparación mental y de equipos de aseo.
 
-Específicamente en estos casos la preparación mental en un factor muy importante ya que sin ella es posible que desfallezcamos en la tarea de de estar pendientes y de cumplir todas las indicaciones, ya que a lo largo del día vamos a tener que realizar pasos puntuales, como el lavado de manos y mantener el distanciamiento social o la higiene con el tapabocas.
+Específicamente en estos casos la preparación mental en un factor muy importante ya que sin ella es posible que desfallezcamos en la tarea de estar pendientes y de cumplir todas las indicaciones, ya que a lo largo del día vamos a tener que realizar pasos puntuales, como el lavado de manos y mantener el distanciamiento social o la higiene con el tapabocas.
 
 En cuestión de equipos de aseo tomaremos en cuenta lo que ha dicho el ministerio de salud además de lo que ya hemos dicho en anteriores post para salir a hacer senderismo.
 
@@ -59,6 +59,8 @@ Como ultima recomendación no hagas actividades extremas en donde pueda salir le
 
 No deje rastros de basura en el piso, recordemo que para estar en contacto con la naturaleza también tenemos que cuidarla.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
+
 ## ¿Qué hacer en el caso de encontrarse con más gente en el sendero? 
 
 Evite acercarse. Los saludos también pueden realizarse desde lejos. No tenga ningún tipo de contacto físico. Recordemos que estamos en época de aislamiento y por lo tanto la distancia social y física es la prioridad.
@@ -93,6 +95,8 @@ __recuerda que para salir de caminata hay que llevar bolsa de basura. No dejemos
  width="626"
  height="469"
 %}
+
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que visites nuestra tienda en linea donde encontraras productos para senderismo clic aquí</a>]__.
 
 ## ¿Qué hacer de vuelta en casa?
 

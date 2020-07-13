@@ -37,7 +37,7 @@ Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos p
  height="800"
 %}
 
- __[podrás consultar algunas camisetas y busos para senderismo hacer senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
+ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Ver camisetas y busos para hacer senderismo en nuestra tienda en línea clic aquí</a>]__.
 
 ### ¿Qué chaqueta llevar para hacer senderismo?
 
@@ -65,7 +65,7 @@ __Consejo para comprar una chaqueta impermeable:__ revisa que la tela no sea muy
 
 __Nota:__ Cualquiera de las 2 chaquetas que escojas, es importante que cuente con una capota y una visera rígida, así evitarás que al llover el agua llegue a tu rostro.
 
- __[podrás consultar chaquetas rompevientos y chaquetas impermeables en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
+ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Podrás consultar chaquetas rompevientos y chaquetas impermeables en nuestra tienda en línea clic aquí</a>]__.
 
 ### Pantalón de senderismo 👖
 
@@ -81,7 +81,7 @@ __Recomendación:__ al salir a la montaña siempre nos vamos a encontrar con pie
  height="800"
 %}
 
- __[podrás consultar diferentes tipos de pantalones de senderismo en nuestra tienda en línea <a target="_blank" href="https://rutasdelosandes.com/tienda">aquí</a>]__.
+ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Podrás consultar diferentes tipos de pantalones de senderismo en nuestra tienda en línea clic aquí</a>]__.
 
 ### Tenis o Botas para senderismo 👟🥾
 
