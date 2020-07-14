@@ -26,7 +26,7 @@ class Home extends React.Component {
     return (
       <div>
         <div className="articles" ref={ref => (this.articles_ = ref)}>
-          {this.props.documents.rutas.filter((doc)=>!doc.draft).map(doc => (
+          {this.props.documents.rutas.map(doc => (
             <Link className="article-link" to={doc.url} key={doc.url}>
               <Article
                 title={doc.title}
