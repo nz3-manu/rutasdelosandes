@@ -5,7 +5,7 @@ categories: blog
 seo_title: Qué llevar para hacer senderismo 
 excerpt: Creo que alguna vez hemos tenido esa sensación de ver la mochila o maletín y no saber qué empacar al momento de salir a hacer senderismo, aquí que mostraremos que llevar para hacer senderismo.
 images_url: /images/blog/tipsmontana/que-llevar-al-hacer-senderismo
-tags: TipsMontaña
+tags: Tips
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/featured.jpg
 ---
 
