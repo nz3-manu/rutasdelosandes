@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Peñas Blancas
 categories: colombia 
@@ -43,6 +42,8 @@ __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que
     caption="Transporte hasta Peñas Blancas "
 %}
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 ## Ruta a Peñas Blancas 🚶🏼
 Desde donde nos deja el jeep hasta la entrada 🛣 es aproximadamente 40 minutos, todo el trayecto es en subida. Aqui podrian dejar el automóvil si no quieres arriesgar a subirlo hasta el Hotel Ecoparque Peñas Blancas.
 
@@ -82,8 +83,6 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
     height="600"
     layout="responsive">
 </amp-instagram>
-
-
 
 ## ¿Cómo regresar de Peñas Blancas 🚌🏡?
 

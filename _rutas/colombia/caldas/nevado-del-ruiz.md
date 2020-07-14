@@ -92,6 +92,7 @@ El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde la
     mid="12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es"
     caption="Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 ## Ruta en el Nevado del Ruiz 🚗🚎
 

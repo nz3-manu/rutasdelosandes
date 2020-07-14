@@ -60,6 +60,7 @@ __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">
 
 Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 ## Ruta a Cerro Gobia 🚶🏽🚶🏽
 

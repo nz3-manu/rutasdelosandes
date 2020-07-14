@@ -59,6 +59,8 @@ Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que
 
 Una Vez aquí ya estamos listos para empezar nuestro camino 😎.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 ## Ruta Valle del Cocora en Salento🚶🏼
 Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kilómetros aproximadamente 3 horas caminando.
 

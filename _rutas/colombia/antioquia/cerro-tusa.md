@@ -36,6 +36,7 @@ Al día siguiente nos levantamos temprano 🐓🌄, era emocionante saber que ya
 
 __Nota:__ _Siempre exigir a los guías el respectivo pago del Seguro médico._
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 ## Ruta a Cerro Tusa 🧗‍
 

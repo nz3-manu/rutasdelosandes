@@ -70,6 +70,8 @@ Si vas en carro 🚗 el parqueadero del Tayrona tiene un valor de $13.000 pesos 
 __Recomendaciones:__ _El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
 En la entrada te vas a encontrar con personas que te van a ofrecer los hospedajes dentro del Parque Tayrona, ten en cuenta que ellos son intermediarios y te van a cobrar un poco más._
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 ## Ruta al Parque Tayrona 🚶🏼
 
 Una vez comprado el ingreso para el Parque Tayrona 🎟 ya estamos listos para empezar la caminata hasta Cabo San Juan. La duración del trayecto es aproximadamente 3 horas, si no deseas caminar puedes alquilar el servicio de caballos 🐴 que tiene un valor aproximado $50.000 pesos. La duración del trayecto es de 30 minutos.

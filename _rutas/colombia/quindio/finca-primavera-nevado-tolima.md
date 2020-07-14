@@ -100,6 +100,8 @@ _Estos precios mencionados anterior mente son aproximados._
 
 Después de haberme comido algo 😋, salimos a  contemplar el atardecer, viendo ese gigante colosal que sobresalía entre los valles 🏔, aquel que con su belleza sin igual habia quitado tantas vidas de aquellos que trataron de conquistar la cima y contemplar desde sus 5.200 metros la hermosura de su paisaje rodeado de montañas y paramos al rededor. 
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 <amp-instagram
     data-shortcode="Be_wcEOH-pK"
     data-captioned

@@ -57,6 +57,7 @@ Si el bus que tomas Desde Pereira o Pueblo rico va hasta Quibdó este pasará ce
 
 Si vas en moto o carro 🅿️ lo podrás dejar  en la entrada al sendero del Ecotel Brisas de Gito.  El valor de parqueadero es alrededor de $4.000 pesos.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 ## El camino 🚶🏼🏔
 

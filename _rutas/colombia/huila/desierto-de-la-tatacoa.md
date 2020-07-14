@@ -70,6 +70,8 @@ Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesite
 
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🛵🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 ## Ruta al Desierto de la Tatacoa 🚶🏼
 Desde Villavieja tomamos un mototaxi(ya que es más económico), te puede cobrar alrededor de $20.000 pesos hasta la región los hoyos la duración del trayecto 30 minutos, esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼. No hay nada mejor que refrescarse en una piscina en un día soleado ☀️. 
 

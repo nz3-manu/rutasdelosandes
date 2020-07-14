@@ -60,7 +60,7 @@ Si vas en 🚗 carro, moto 🛵 o bicicleta🚵🏻 puedes descargar nuestra rut
     caption="Bus Villamaría vereda Gallinazo"
 %}
 
-## ruta a la Gruta 🚶🏼🚵🏻
+## Ruta a la Gruta 🚶🏼🚵🏻
 Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 horas caminando, en total estaríamos caminando 24 kilómetros(ida y regreso)😋, el camino no es sendero además de esto te encontrarás con algunos carros 🚗, motos 🛵 y bicicletas 🚵🏻, lo que dificulta un poco la caminata 🚶🏼.
 
 {% include image.html
@@ -104,6 +104,8 @@ Al llegar a La Gruta, nos encontraremos con una casa que es propiedad de la Chec
 
 Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tributo a los 11 Scouts que murieron. Tenemos que tomar el camino hacia la izquierda a partir de aquí solo son 3 minutos caminando 🚶🏼 para llegar a La Gruta donde nuestra recompensa es este paisaje con estas maravillosas aguas termales.
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 <amp-instagram
     data-shortcode="BjXYe_dBC2p"
     data-captioned
@@ -111,8 +113,6 @@ Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tribut
     height="900"
     layout="responsive">
 </amp-instagram>
-
-
 
 __En épocas de lluvias evitar:__ Estar en La Gruta ya que se puede presentar deslizamientos o crecidas  de la quebrada Termales y evitar subir en automóviles ya que la carretera se puede poner algo difícil por el pantano.
 

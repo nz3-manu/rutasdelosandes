@@ -51,6 +51,8 @@ Si vas en moto o carro lo podrás dejar en este punto y pagar el costo de parque
     caption="Ruta Boquía Cascada Santa Rita"
 %}
 
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
 Desde la finca Santa Rita hasta las cascadas hay aproximadamente 1 kilómetro, el camino se encuentra en muy buen estado. En le camino nos encontraremos con los túneles de lo que iba a hacer el Ferrocarril que comunicaría a Armenia con Ibagué.
 
 Después de una agradable caminata por un pequeño bosque por fin llegamos a la cascada de Santa Rita.
