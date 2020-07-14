@@ -9,46 +9,45 @@ layout: null
   "shipping": "",
   "payment": "",
   "documents" :{
-  {% for collection in site.collections %}
-     "{{collection.label}}":[
+    {% for collection in site.collections %}
+    "{{collection.label}}":[
       {% for post in collection.docs  %}
-      {% unless post.draft  %}
-          {% assign authorInfo = site.data.authors[post.author] %}
-            { "url" : "{{ post.url | relative_url | remove: '/amp'}}",
-              "title": "{{ post.title | escape }}",
-              "seotitle": "{{ post.seo_title }}",
-              "excerpt":"{{post.excerpt}}",
-              "author": "{{ authorInfo.name }}",
-              "author_facebook": "{{ authorInfo.facebook }}",
-              "author_twitter": "{{ authorInfo.twitter }}",
-              "date": "{{post.date | date: '%b %d' }}",
-              "image": "{{post.images_url}}/thumbnail.jpg",
-              "featured": "{{site.url}}{{page.images_url}}/featured.jpg"
-            }
-            {% if forloop.last != true %}
-            ,
-            {% endif %}
-        {% endunless %}
+      {% assign authorInfo = site.data.authors[post.author] %}
+      { "url" : "{{ post.url | relative_url | remove: '/amp'}}",
+        "title": "{{ post.title | escape }}",
+        "seotitle": "{{ post.seo_title }}",
+        "excerpt":"{{post.excerpt}}",
+        "draft" : "{{ post.draft }}",
+        "author": "{{ authorInfo.name }}",
+        "author_facebook": "{{ authorInfo.facebook }}",
+        "author_twitter": "{{ authorInfo.twitter }}",
+        "date": "{{post.date | date: '%b %d' }}",
+        "image": "{{post.images_url}}/thumbnail.jpg",
+        "featured": "{{site.url}}{{page.images_url}}/featured.jpg"
+      }
+      {% if forloop.last != true %}
+      ,
+      {% endif %}
       {% endfor %}
     ]
     {% if forloop.last != true %}
     ,
     {% endif %}
-  {% endfor %}
-},
-"site":{
-  "seotitle":"{{site.title}}",
-  "excerpt":"{{site.description}}"
-},
-"jekyll":{
-  "logo" : "{{ site.logo | escape }}",
-  "brandColor": "{{ site.brand_color }}",
-  "pages" : [
-    {% for page in site.menu_pages %}
+    {% endfor %}
+  },
+  "site":{
+    "seotitle":"{{site.title}}",
+    "excerpt":"{{site.description}}"
+  },
+  "jekyll":{
+    "logo" : "{{ site.logo | escape }}",
+    "brandColor": "{{ site.brand_color }}",
+    "pages" : [
+      {% for page in site.menu_pages %}
       {"url":"{{page.url}}", "title" :"{{page.display}}"}
       {% if forloop.last != true %}
-       ,
+      ,
       {% endif %}
-    {% endfor %}
-  ]
-}}
+      {% endfor %}
+    ]
+  }}
