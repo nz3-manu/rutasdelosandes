@@ -9,7 +9,7 @@ class Blog extends React.Component {
     return (
       <div>
         <div className="articles" ref={ref => (this.articles_ = ref)}>
-          {this.props.documents.blog.map(doc => (
+          {this.props.documents.blog.filter((doc)=>!doc.draft).map(doc => (
             <Link className="article-link" to={doc.url} key={doc.url}>
               <Article
                 title={doc.title}
