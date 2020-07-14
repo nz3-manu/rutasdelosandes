@@ -17,7 +17,7 @@ layout: null
         "title": "{{ post.title | escape }}",
         "seotitle": "{{ post.seo_title }}",
         "excerpt":"{{post.excerpt}}",
-        "draft" : "{{ post.draft }}",
+        "draft" : {{ post.draft }},
         "author": "{{ authorInfo.name }}",
         "author_facebook": "{{ authorInfo.facebook }}",
         "author_twitter": "{{ authorInfo.twitter }}",
