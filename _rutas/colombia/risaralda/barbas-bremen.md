@@ -48,7 +48,7 @@ Una vez aquí ya estamos listos para empezar el camino por el sendero 😃.
 __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 
 ## Ruta en la Reserva Barbas Bremen 🚶🏼
-Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado <a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo%20.html">"Qué llevar para hacer senderismo"</a>, sabemos que te ayudará mucho para hacer esta ruta.
+Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado __<a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo.html">"Qué llevar para hacer senderismo"</a>__, sabemos que te ayudará mucho para hacer esta ruta.
 
 Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos el recorrido en el Sendero Yarumal, a lo largo del trayecto podremos tomar baño en el río Barbas para los que quieran refrescarse un poco, además algunos puntos cuentan con casetas hechas en guadua donde podremos comer __por favor NO dejar basuras en estos sitios__, si contamos con suerte podremos escuchar los monos aulladores🐒.
 

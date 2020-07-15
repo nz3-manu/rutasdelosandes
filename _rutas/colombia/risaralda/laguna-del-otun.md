@@ -29,7 +29,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Existen varias formas para llegar a la Laguna del Otún; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
-__[Te recomendamos leer para hacer esta ruta <a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.htmlSeguro médico y de rescate">"Que es el mal de altura y como evitarlo"</a>.]__
+__[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta "Que es el mal de altura y como evitarlo"</a>.]__
 
 La ruta que mostraremos en este post es llegando por Potosí, lugar donde se encuentra la entrada a Laguna del Otún. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
 
