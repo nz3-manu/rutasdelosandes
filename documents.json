@@ -23,7 +23,7 @@ layout: null
         "author_twitter": "{{ authorInfo.twitter }}",
         "date": "{{post.date | date: '%b %d' }}",
         "image": "{{post.images_url}}/thumbnail.jpg",
-        "featured": "{{site.url}}{{page.images_url}}/featured.jpg"
+        "featured": "{{site.url}}{{post.images_url}}/featured.jpg"
       }
       {% if forloop.last != true %}
       ,
