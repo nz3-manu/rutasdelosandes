@@ -35,7 +35,7 @@ Para ir al Nevado del Ruiz lo primero que tuvimos que hacer fue llegar a Manizal
 
 El alquiler de carro con conductor costó alrededor de $300.000 pesos para un cupo máximo de 6 personas, recogiéndonos en el terminal de Manizales y al finalizar la ruta  nos dejo de nuevo en el terminal, estos costos pueden variar dependiendo de la empresa que consultes y de la temporada.
 
-__[Te recomendamos leer para hacer esta ruta <a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/que-es-el-mal-de-altura-como-evitarlo.htmlSeguro médico y de rescate">"Que es el mal de altura y como evitarlo"</a>.]__
+__[Te recomendamos leer para hacer esta ruta <a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.htmlSeguro médico y de rescate">"Que es el mal de altura y como evitarlo"</a>.]__
 
 Con cada kilómetro que avanzábamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
 

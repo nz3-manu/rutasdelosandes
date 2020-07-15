@@ -25,7 +25,7 @@ Específicamente en estos casos la preparación mental en un factor muy importan
 En cuestión de equipos de aseo tomaremos en cuenta lo que ha dicho el ministerio de salud además de lo que ya hemos dicho en anteriores post para salir a hacer senderismo.
 
 
-__<a target="_blank" href="https://rutasdelosandes.com/tipsmonta%C3%B1a/Que-llevar-para-hacer-senderismo%20.html">Véase en: "Qué llevar para hacer senderismo"</a>__
+__<a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo%20.html">Véase en: "Qué llevar para hacer senderismo"</a>__
 
 
 __Ropa deportiva:__ Es importante el uso de ropa adecuada para el deporte, además en estos casos y si no se cuenta con ella es indispensable que elija un conjunto de prendas apta para el ejercicio y que sean las que únicamente vaya a usar, ya que es fundamental que elija siempre este mismo conjunto para sus posteriores salidas para evitar que toda tu ropa esté en riesgo de portar la enfermedad.
