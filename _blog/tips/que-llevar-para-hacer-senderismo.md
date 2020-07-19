@@ -37,7 +37,7 @@ Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos p
  height="800"
 %}
 
- __[<a target="_blank" href="https://bit.ly/3fPERVa">Ver camisetas y busos para hacer senderismo en nuestra tienda en línea clic aquí</a>]__.
+ __[<a target="_blank" href="https://bit.ly/39fORnV">Ver camisetas y busos para hacer senderismo en nuestra tienda en línea clic aquí</a>]__.
 
 ### ¿Qué chaqueta llevar para hacer senderismo?
 

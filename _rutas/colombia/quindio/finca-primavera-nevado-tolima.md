@@ -57,7 +57,7 @@ __Recomendación: Para hacer este recorrido estar como mínimo a las 6 am.__
 La finca Primavera se encuentra a 17 kilómetros, de los cuales 4 kilómetros son en un ascenso con una inclinación de 60% 🏔😥, asi que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, el cual tiene un valor de $120.000 Pesos por mula 🐴 y  se permite subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca Primavera. 
 _Para contratar este servicio se necesita llamar con 2 dias de anticipación, ya que la persona tendrá que bajar desde la finca primavera con las mulas de carga. Teléfono:<a href="tel:3136751059">3136751059</a> German._
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/2DZMudt">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
 
 {% include iframe.html
    type="custom"

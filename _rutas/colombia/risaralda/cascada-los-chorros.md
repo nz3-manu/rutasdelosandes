@@ -46,7 +46,7 @@ Desde el cedral hasta la pastora son aproximadamente 4 kilómetros, el camino es
 
 Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Pastora, allí podrán encontrar lo siguiente: desayunos a $8.000 pesos, almuerzos y comidas a $12.000 pesos. Si su idea es pasar la noche aquí, podrán encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. Para alquiler de cabaña __se debe confirmar disponibilidad Teléfono:  <a href="tel:0363144162">(036)3144162</a>.__
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/2DZMudt">clic aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.__ 
 
 {% include image.html 
     file="rutas/risaralda/chorros/lapastora3.jpg" 

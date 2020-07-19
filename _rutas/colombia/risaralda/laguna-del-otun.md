@@ -71,7 +71,7 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
 </ol>
 
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/2DZMudt">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
 
 
 {% include iframe.html
