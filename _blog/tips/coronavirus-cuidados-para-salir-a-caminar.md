@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: article
 title: Cuidados para salir a caminar en tiempo de Coronavirus
 categories: blog
