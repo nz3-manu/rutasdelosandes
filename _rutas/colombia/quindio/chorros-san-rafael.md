@@ -29,7 +29,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con destino Calarcá, el valor del pasaje fue de $2.000 pesos, el bus se tardó en llegar aproximadamente 15 minutos. Una vez en Calarcá nos bajamos en la plaza de mercado, lugar donde aprovechamos para comprar comida 🍱.
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://www.instagram.com/randes.store/">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/2DZMudt">aquí</a>.__ 
 
 ## Ruta a los Chorros San Rafael 🚶🏼🐕
 
