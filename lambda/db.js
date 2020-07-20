@@ -1,4 +1,4 @@
-import * as admin from 'firebase-admin';
+var admin = require("firebase-admin");
 
 var serviceAccount = require("./rutasdelosandes-174002-firebase-adminsdk-dj251-2aec64faa5.json");
 
