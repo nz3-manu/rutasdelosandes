@@ -28,9 +28,14 @@ module.exports = env => {
     module: {
       rules: [
         {
-          test: /\.js$/,
-          use: ["babel-loader"],
-          include: [path.join(__dirname, "_javascript")]
+          test: /\.m?js$/,
+          include: [path.join(__dirname, "_javascript")],
+          use: {
+            loader: 'babel-loader',
+            options: {
+              presets: ['@babel/preset-env', '@babel/preset-react']
+            }
+          }
         },
         {
           test: /\.css$/,

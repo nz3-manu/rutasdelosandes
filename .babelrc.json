@@ -5,13 +5,12 @@
       "@babel/preset-env",
       {
         "targets": {
-          "node":"10.10"
+          "node": "10.10"
         }
       }
     ]
   ],
   "plugins": [
-    "@babel/plugin-proposal-object-rest-spread",
     "@babel/plugin-transform-object-assign",
     "@babel/plugin-proposal-class-properties",
     "graphql-js-client-transform"
