@@ -18,16 +18,6 @@ const express = require("express"),
   cors = require("cors");
 
 import { SheetsRegistry } from "react-jss/lib/jss";
-//import {
-//lineItemAdd,
-//lineItemRemove,
-//updateLineItem,
-//shopNameAndProductsPromise,
-//cartPromise,
-//productByHandle,
-//createCheckout,
-//fetchCheckout
-//} from "../shopifyPromises.js";
 import JssProvider from "react-jss/lib/JssProvider";
 import {
   MuiThemeProvider,
@@ -60,7 +50,7 @@ app.use(Sentry.Handlers.requestHandler());
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
 
-//import { read, write, push, sendToDevice, update, remove } from "./db";
+import { read, write, push, sendToDevice, update, remove } from "./utils/db";
 
 // i think this is cousing the errors
 app.set("views", "../views");
