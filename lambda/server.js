@@ -83,6 +83,7 @@ app.use(
   })
 );
 
+app.use(bodyParser.json());
 let allDocs = Object.values(global.__preloaded__.documents).reduce(
   (acu, prev) => acu.concat(prev),
   []
@@ -351,7 +352,6 @@ const routerBasePath =
 // Setup routes
 app.use(router);
 
-router.use(bodyParser.json());
 
 router.use(
   bodyParser.urlencoded({
