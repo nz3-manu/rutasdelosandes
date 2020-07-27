@@ -22,7 +22,7 @@ function write(path, data) {
 }
 
 function push(path, data) {
-  return defaultDatabase.ref(path).push({autor: "gabo"})
+  return defaultDatabase.ref(path).push(JSON.stringify(data, null, 2))
 }
 
 function read(path){
