@@ -111,9 +111,12 @@ router.get("/sitemap.xml", function(req, res) {
 
 app.post("/api/save-subscription/", function(req, res) {
   var data = req.body;
-  console.log("body of the subscribe ajax call", data);
-  push(`endpoints`, data);
-  res.status(200).send("ok");
+
+  push(`endpoints`, data).then(function(req, res){
+    return res.status(200).send("ok");
+  }).catch(function(error){
+    return res.status(500).json({ error: error.toString() });
+  });
 });
 
 router.get("/getcart", async (req, res, next) => {
