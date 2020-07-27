@@ -14,8 +14,7 @@ const express = require("express"),
   sm = require("sitemap"),
   Sentry = require("@sentry/node"),
   serverless = require("serverless-http"),
-  cheerio = require("cheerio"),
-  cors = require("cors");
+  cheerio = require("cheerio");
 
 import { SheetsRegistry } from "react-jss/lib/jss";
 import JssProvider from "react-jss/lib/JssProvider";
@@ -353,14 +352,6 @@ const routerBasePath =
 app.use(router);
 
 
-router.use(
-  bodyParser.urlencoded({
-    // to support URL-encoded bodies
-    extended: true
-  })
-);
-
-router.use(cors())
 // The error handler must be before any other error middleware and after all controllers
 app.use(Sentry.Handlers.errorHandler());
 exports.handler = serverless(app);
