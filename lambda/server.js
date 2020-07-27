@@ -111,8 +111,7 @@ router.get("/sitemap.xml", function(req, res) {
 
 app.post("/api/save-subscription/", function(req, res) {
   var data = req.body;
-
-  push(`endpoints`, data).then(function(req, res){
+  push(`endpoints`, data).then(function(){
     return res.status(200).send("ok");
   }).catch(function(error){
     return res.status(500).json({ error: error.toString() });
