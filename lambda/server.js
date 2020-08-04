@@ -237,7 +237,6 @@ function renderFullPage(
   let Analytics = ``;
   let RegisterSW = ``;
   let amptag = ``;
-  let structuredData = ``;
 
   const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
   const  docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
@@ -250,7 +249,6 @@ function renderFullPage(
     var ampDoc = ``;
 
     const $ = cheerio.load(ampDoc);
-    structuredData = $('script[type="application/ld+json"]').html();
     $("link[rel=canonical]").remove();
     $("style").remove();
     $("script").remove();
@@ -325,9 +323,6 @@ function renderFullPage(
       <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
       </head>
       <body>
-      <script type="application/ld+json">
-        ${structuredData}
-      </script>
       <script>
         window.__preloaded__ = ${JSON.stringify(preloadedState)}
         if ('serviceWorker' in navigator) {
