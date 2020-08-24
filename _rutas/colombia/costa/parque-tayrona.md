@@ -10,11 +10,24 @@ viewranger:
 author: manuel
 ---
 
-El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas. 
+Hoy te queremos presentar uno de los lugares que no debe faltar en tu lista de viajes por  Colombia el __Parque Tayrona__, en este post encontrarás:
+
+<ul>
+<li>Datos curiosos del Parque Nacional Natural Tayrona</li>
+<li>Que encontrarás en el Parque Tayrona</li>
+<li>Cómo llegar al Parque Tayrona</li>
+<li>Tarifas para ingreso al Parque Tayrona</li>
+<li>Hospedaje en el Parque Tayrona</li>
+</ul>
+
+
+
+## Datos curiosos del Parque Nacional Natural Tayrona
+El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas, todo esto muy cerca de Santa Marta. 
 
 En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu kogui que son descendientes de los taironas.
 
-## ¿Qué encontrarás en el Parque Tayrona 🏞👀?
+## ¿Qué encontrarás en el Parque Tayrona?
 * Gran biodiversidad flora y fauna.
 * Pueblo de la tribu kogui.
 * Hermosas playas y avistamientos de corales.
@@ -45,27 +58,37 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
     %} 
 </amp-carousel>
 
-## ¿Cómo llegar al Parque Tayrona 🛣🚌?
-Primero tenemos que llegar a Santa Marta. Una vez en Santa Marta tenemos que tomar un bus 🚌 en el terminal hacia el tayrona, el pasaje vale aproximadamente $15.000 pesos, la duración del trayecto es de 1 hora con 40 minutos. Los almuerzos 🍛 en el terminal los encontramos desde $7.000 pesos. 
+## ¿Cómo llegar al Parque Tayrona?
 
-Si vas a comprar algunas cosas para comer en el Parque Tayrona, Recuerda hacerte responsable de tu basura. 
+Primero tenemos que llegar a Santa Marta. Una vez en Santa Marta tenemos que tomar un bus 🚌 en el terminal hacia el parque Tayrona, el pasaje cuesta aproximadamente $15.000 pesos, la duración del trayecto es de 1 hora con 40 minutos. 
 
-Existen varias entradas para ingresar al Parque Tayrona. La entrada más conocida es el Zaino. El bus va a pasar al frente de esta entrada. En la entrada del Zaino podrás encontrar un Parqueadero 🅿️que pudes utlizar si vas en carro o moto. 
+En el terminal de transporte podrás encontrar almuerzos 🍛 desde $8.000 pesos hasta $40.000.  
+Si vas a comprar algunas cosas para comer, cerca del terminal encontrarás un supermercado, __recuerda hacerte responsable de tu basura y no dejarla dentro del parque__
+
+Existen varias entradas para ingresar al Parque Tayrona, pero la más conocida es la entrada del Zaino (el bus que tomamos nos dejó al frente de esta entrada), en esta podrás encontrar un Parqueadero 🅿️que pudes utlizar si vas en carro o moto.
+
+__Tarifas de parqueadero dentro del parque 🅿️__
+<ul>
+    <li>Tarifa para carro 🚗: aproximadamente $13.000 pesos.</li>
+    <li> Tarifa para motos 🛵: aproximadamente $9.000 pesos. </li>
+</ul>
+
+_Estos precios pueden variar dependiendo de la temporada_
+__Recuerda que los cupos de los parqueadero en el Tayrona son limitados.__
  
 Al llegar al Zaino tuvimos que comprar la entrada 🎟 para ingresar al Parque Tayrona.
 
-__Para ingresar al Parque Tayrona tuvimos que pagar lo siguiente:__ 
+### Tarifas para ingreso al Parque Tayrona
 <ul>
   <li>
   Entrada al Parque Tayrona 2019 🎟: mayores de 5 años y menores de 25 años $18.000 pesos, mayores de 25 años $24.000 pesos extranjeros $53.000 pesos.
-  </li>  
+  </li> 
+   <li>
+      Puedes comprar tu ingreso directamente en la taquilla o a través de la página web del Parque Tayrona <a href="http://www.parquetayrona.com.co/" target="_blank">aquí.</a>
+   </li> 
 </ul>
  Estos precios mencionados son para temporada baja, en temporada alta se incrementan aproximadamente $10.000 pesos más.
 
-  Puedes comprar tu ingreso directamente en la taquilla o a través de la página web del Parque Tayrona <a href="http://www.parquetayrona.com.co/" target="_blank"> aquí.</a> 
-
-
-Si vas en carro 🚗 el parqueadero del Tayrona tiene un valor de $13.000 pesos y las motos 🛵 $9.000 pesos (estas tarifas pueden haber cambiado), y recuerda, los cupos de los parqueadero en el Tayrona son limitados.
 
 __Recomendaciones:__ _El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
 En la entrada te vas a encontrar con personas que te van a ofrecer los hospedajes dentro del Parque Tayrona, ten en cuenta que ellos son intermediarios y te van a cobrar un poco más._
@@ -85,11 +108,11 @@ Este es todo el trayecto que realizaremos en el Parque Tayrona: ruta entrando po
 %}
 
 
-### Hospedaje en el Parque Tayrona 🛌:
+### Hospedaje en el Parque Tayrona:
 
 __Hospedaje Cabo San Juan:__ es una de las playas más conocidas del Parque Tayrona, cuentan con; zona de camping 🏕 $35.000 pesos (ellos te prestan la carpa y colchoneta), si tu llevas la carpa y colchoneta son $25.000 Pesos, almuerzos y comida 🍛 $35.000 Pesos. 
 
-En este hospedaje se cuenta con buenas comodidades como; servicio de electricidad, baños y restaurantes. Además, este es uno de los poco lugares donde hay señal telefónica 📱 con claro. Te queda al frente de la playa 🌊⛺️.
+En este hospedaje se cuenta con buenas comodidades como; servicio de electricidad, baños y restaurantes. Además, este es uno de los pocos lugares donde hay señal telefónica 📱 con claro. Al armar tu carpa tendrás vista al mar 🌊⛺️.
 
 En el camino hasta cabo san juan encontrarán varios hospedajes mencionamos aquí algunos: 
 
@@ -110,9 +133,9 @@ Vista de Cabo San juan
     layout="responsive">
 </amp-instagram>
 
-Después de una noche maravillosa escuchando el sonido del mar 🌊🐚 , nos levantamos temprano para seguir nuestro recorrido con dirección al Pueblo Kogui, caminamos por borde de la playa y nos encontraremos con la última Playa, las cuales son playas nudistas , de estas playas hasta el pueblo kogui son aproximadamente 3 horas el trayecto todo es en subida.
+Después de una noche maravillosa escuchando el sonido del mar 🌊, nos levantamos temprano para seguir nuestro recorrido con dirección al Pueblo Kogui, caminamos por borde de la playa y nos encontraremos con la última Playa, las cuales son playas nudistas , de estas playas hasta el pueblo kogui son aproximadamente 3 horas el trayecto todo es en subida.
 
-Al llegar al Pueblo kogui encontramos una pequeña tienda 🏬, en la cual venden gaseosas y algunas cosas de dulce. En la tienda nos atendió un Kogui, y para nuestra fortuna algunos hablan español.
+Al llegar al Pueblo kogui encontramos una pequeña tienda, en la cual venden gaseosas y algunas cosas de dulce. En la tienda nos atendió un Kogui, y para nuestra fortuna algunos hablan español.
 
 {% include image.html
 file="rutas/costa/tayrona/pueblito.JPG"
@@ -121,10 +144,10 @@ width="900"
 height="507"
 %}
 
-Una vez de haber visto las hermosas playas, pasar por bosques y ver el hermoso pueblo kogui ya era tiempo de regresar de nuevo a casa 🏠, así que continuamos nuestro camino hasta la entrada  la otra entrada del Parque Tayrona Calabazo donde podremos tomar transporte para Santa Marta.
+Una vez de haber visto las hermosas playas,escuchar el hermoso sonido de las ola, pasar por bosques y ver el hermoso pueblo kogui ya era tiempo de regresar de nuevo a casa 🏠, así que continuamos nuestro camino hasta la segunda entrada del Parque Tayrona llamado Calabazo, donde podremos tomar transporte para Santa Marta.
 
 
-⚠️ __Procura no caminar  por senderos que no conozcas en la noche  ya que es muy fácil perderse 😥 y además de esto en la noche es cuando también aprovechan para salir algunos animales 🐍🕷.__
+⚠️ __En la noche procura no caminar por senderos que no conozcas, ya que es muy fácil perderse, además a esa hora es cuando también aprovechan para salir algunos animales 🐍🕷.__
 
 
 
