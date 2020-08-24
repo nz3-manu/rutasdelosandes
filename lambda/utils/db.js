@@ -1,4 +1,4 @@
-import * as admin from 'firebase-admin';
+var admin = require("firebase-admin");
 
 var serviceAccount = require("./rutasdelosandes-174002-firebase-adminsdk-dj251-2aec64faa5.json");
 
@@ -22,7 +22,7 @@ function write(path, data) {
 }
 
 function push(path, data) {
-  return defaultDatabase.ref(path).push().set(data)
+  return defaultDatabase.ref(path).push(data)
 }
 
 function read(path){
@@ -45,4 +45,4 @@ function update(path,data){
 }
 
 
-module.exports = {defaultAuth, defaultDatabase, write, push, read, update, remove}
+module.exports = { defaultAuth, defaultDatabase, write, push, read, update, remove }

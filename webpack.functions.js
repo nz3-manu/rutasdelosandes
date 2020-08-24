@@ -1,3 +1,6 @@
+
+const nodeExternals = require("webpack-node-externals");
+
 // webpack.functions.js
 module.exports = {
   module: {
@@ -7,5 +10,6 @@ module.exports = {
         loader: "html-loader"
       }
     ]
-  }
+  },
+  externals: nodeExternals()
 };

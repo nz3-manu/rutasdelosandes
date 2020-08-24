@@ -14,20 +14,9 @@ const express = require("express"),
   sm = require("sitemap"),
   Sentry = require("@sentry/node"),
   serverless = require("serverless-http"),
-  cheerio = require("cheerio"),
-  cors = require("cors");
+  cheerio = require("cheerio");
 
 import { SheetsRegistry } from "react-jss/lib/jss";
-//import {
-//lineItemAdd,
-//lineItemRemove,
-//updateLineItem,
-//shopNameAndProductsPromise,
-//cartPromise,
-//productByHandle,
-//createCheckout,
-//fetchCheckout
-//} from "../shopifyPromises.js";
 import JssProvider from "react-jss/lib/JssProvider";
 import {
   MuiThemeProvider,
@@ -60,7 +49,7 @@ app.use(Sentry.Handlers.requestHandler());
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
 
-//import { read, write, push, sendToDevice, update, remove } from "./db";
+import { read, write, push, sendToDevice, update, remove } from "./utils/db";
 
 // i think this is cousing the errors
 app.set("views", "../views");
@@ -93,6 +82,7 @@ app.use(
   })
 );
 
+app.use(bodyParser.json());
 let allDocs = Object.values(global.__preloaded__.documents).reduce(
   (acu, prev) => acu.concat(prev),
   []
@@ -121,9 +111,11 @@ router.get("/sitemap.xml", function(req, res) {
 
 app.post("/api/save-subscription/", function(req, res) {
   var data = req.body;
-  console.log("body of the subscribe ajax call", data);
-  push(`endpoints`, data);
-  res.status(200).send("ok");
+  push(`endpoints`, data).then(function(){
+    return res.status(200).send("ok");
+  }).catch(function(error){
+    return res.status(500).json({ error: error.toString() });
+  });
 });
 
 router.get("/getcart", async (req, res, next) => {
@@ -245,7 +237,6 @@ function renderFullPage(
   let Analytics = ``;
   let RegisterSW = ``;
   let amptag = ``;
-  let structuredData = ``;
 
   const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
   const  docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
@@ -258,7 +249,6 @@ function renderFullPage(
     var ampDoc = ``;
 
     const $ = cheerio.load(ampDoc);
-    structuredData = $('script[type="application/ld+json"]').html();
     $("link[rel=canonical]").remove();
     $("style").remove();
     $("script").remove();
@@ -333,9 +323,6 @@ function renderFullPage(
       <script async src="https://cdn.ampproject.org/shadow-v0.js"></script>
       </head>
       <body>
-      <script type="application/ld+json">
-        ${structuredData}
-      </script>
       <script>
         window.__preloaded__ = ${JSON.stringify(preloadedState)}
         if ('serviceWorker' in navigator) {
@@ -359,16 +346,7 @@ const routerBasePath =
 // Setup routes
 app.use(router);
 
-router.use(bodyParser.json());
 
-router.use(
-  bodyParser.urlencoded({
-    // to support URL-encoded bodies
-    extended: true
-  })
-);
-
-router.use(cors())
 // The error handler must be before any other error middleware and after all controllers
 app.use(Sentry.Handlers.errorHandler());
 exports.handler = serverless(app);

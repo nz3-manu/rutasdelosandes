@@ -28,9 +28,11 @@ module.exports = env => {
     module: {
       rules: [
         {
-          test: /\.js$/,
-          use: ["babel-loader"],
-          include: [path.join(__dirname, "_javascript")]
+          test: /\.m?js$/,
+          include: [path.join(__dirname, "_javascript")],
+          use: {
+            loader: 'babel-loader'
+          }
         },
         {
           test: /\.css$/,
