@@ -9,7 +9,7 @@ images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
-Quizás te estás preguntando, ¿cómo llegar hasta el nevado del Ruiz?, ¿hay transporte público hasta allá?, ¿donde me puedo hospedar?, ¿puedo ir en carro o moto?, ¿cuanto cuesta la entrada al parque?
+Quizás te estás preguntando: ¿cómo llegar hasta el nevado del Ruiz?, ¿hay transporte público hasta el nevado del Ruiz?, ¿donde me puedo hospedar?, ¿puedo ir en carro o moto?, ¿cuanto cuesta la entrada al parque?
 
 
 Todas estas dudas te las solucionaremos a continuación.
