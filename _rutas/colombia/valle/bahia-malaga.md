@@ -42,11 +42,11 @@ Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este q
 Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea Juanchaco y Ladrilleros, el hostal llamara a la empresa de transporte fluvial con la que opera para que los desembarquen cerca de sus instalaciones, esto fue un acuerdo que se hizo entre las comunidades que viven en esta zona y las empresas de transporte fluvial para permitir que los turistas pudieran llegar a hospedajes de locales y así ayudar a la economía de estas.
 
 
-### hospedajes en Bahía Málaga
+## Hospedajes en Bahía Málaga
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
 
-#### Hospedaje en Chucheros Yaneisy 
+### Hospedaje en Chucheros Yaneisy 
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
 Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
@@ -60,7 +60,7 @@ __Alimentación 🍛:__ Desayunos $9.000 Pesos, almuerzos 🍛 $18.000 Pesos y c
 __Para hospedarse aquí solo es con reserva previa al teléfono  <a href="tel:  3173539258 "> 3173539258 </a> Yanensy.__
 
 
-#### Hospedaje en playa Juan de Dios
+### Hospedaje en playa Juan de Dios
 
 El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la  playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
@@ -76,13 +76,13 @@ Podrás ver la localización de estos hospedaje en el mapa que se encuentra un p
 
 ### Otros hospedajes en Bahía Málaga
 
-También podrás encontrar otras  alternativas de hospedajes dentro de bahía málaga en:   Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares ya que se haría muy extenso el articulo, estos hospedajes los podrás encontrar en google. Si llegaras a tener problemas al encontrarlos puedes escribirnos a nuestras redes sociales y con gusto te ayudaremos :).
-
+También podrás encontrar otras  alternativas de hospedajes dentro de bahía málaga en:   Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares ya que se haría muy extenso el articulo, estos hospedajes los podrás encontrar en google.
 
 
 ## Sendero a la Loma de Chucheros, Playa Juan de Dios y playa Dorada 🚶‍♂️🏖.
 
 Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un poco para después ver la hermosa vista de playa y selva que nos brindaba este lugar.
+
 Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
 
 
@@ -105,16 +105,16 @@ __Playa Juan de Dios:__ esta playa es conocida por su limpieza ya que constantem
 
 {% include image.html
   file="rutas/valle/bahia-malaga/juanDeDios.jpg"
-  caption="Foto de Playa Juan de Dios"
+  caption="Foto cueva en playa Juan de Dios"
   width="1200"
   height="800"
 %}
 
-__Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en esta playa hay mucha basura 😢.
+__Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
 
 {% include image.html
   file="rutas/valle/bahia-malaga/dorada.jpg"
-  caption="Foto de Playa Juan de Dios"
+  caption="Foto Playa dorada"
   width="1200"
   height="800"
 %}
@@ -125,11 +125,11 @@ Después de un dia lleno de aventura ya era tiempo de un merecido descanso 😴.
 
 Recuerda llevar para esta ruta chaqueta rompevientos ya que en este lugar a pesar de que hace calor las lluvias nunca faltan, también te recomendamos usar buzo manga larga para protegerte del sol y los mosquitos. 
 
-__<a target="_blank" href="https://www.instagram.com/randes.store/"> Puedes visitar nuestra tienda en línea en la cual encontrarás muy buenas opciones de chaquetas y buzos clic aquí</a>.__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Puedes visitar nuestra tienda en línea en la cual encontrarás muy buenas opciones de chaquetas y buzos clic aquí</a>.]__
 
 Al día siguiente la emoción de todos nosotros era evidente 🥳 ya que ese dia salimos a conocer la cascada la Sierpe y las 3 Marias.
 
-⚠️ Al momento de hacer el tour en lancha recuerda llevar todo lo de valor en en bolsas impermeables, si no tienes una puedes visitar nuestra tienda para ver algunos de nuestros modelos disponibles __<a target="_blank" href="https://rutasdelosandes.com/tienda">Aquí</a>__.
+⚠️ Al momento de hacer el tour en lancha recuerda llevar todo lo de valor en en bolsas impermeables.
 
 ### Tours en lancha por Bahía Málaga 🚤:
 Si te vas a quedar en algun hostal cerca de Bahía málaga puedes consultar los precios de tours directamente con ellos. 
@@ -140,19 +140,19 @@ Otra opción es hacer estos recorridos en un mismo día desde el muelle turísti
 __Cascada la Sierpe en Bahía Málaga:__ es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
 
 {% include image.html
-  file="rutas/caldas/ruiz/aguaserales.jpg"
-  caption="Foto de Aguaserales en el Nevado del ruiz"
-  width="1200"
-  height="674"
+  file="rutas/valle/bahia-malaga/la-sierpe.JPG"
+  caption="Foto cascada la Sierpe"
+  width="759"
+  height="792"
 %}
 
 __Cascadas las 3 marías en Bahía Málaga:__  son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía. 
 
 {% include image.html
-  file="rutas/caldas/ruiz/aguaserales.jpg"
-  caption="Foto de Aguaserales en el Nevado del ruiz"
+  file="rutas/valle/bahia-malaga/las-3-Marias.jpg"
+  caption="Foto de las 3 marias"
   width="1200"
-  height="674"
+  height="800"
 %}
 
 Cuando no es temporada de avistamiento de ballenas 🐳, suelen cambiar ese recorrido por una cascada que se llama __Cascada Ostional__ está cascada queda un poco más lejos que las otras que visitamos, en nuestro caso no la decidimos visitar.
