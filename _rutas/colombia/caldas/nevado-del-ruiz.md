@@ -9,6 +9,13 @@ images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
+Quizás te estás preguntando, ¿cómo llegar hasta el nevado del Ruiz?, ¿hay transporte público hasta allá?, ¿donde me puedo hospedar?, ¿puedo ir en carro o moto?, ¿cuanto cuesta la entrada al parque?
+
+
+Todas estas dudas te las solucionaremos a continuación.
+
+## Datos curiosos del Nevado del Ruiz 
+
 El Nevado del Ruiz o como es llamado tambien volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. Este hermoso volcán es considerado como uno de los más alto de sudamérica, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los andes 🦅y de otras importantes especies.
 
 Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
@@ -101,10 +108,30 @@ El recorrido tiene una duración aproximadamente de 3 horas, algunas paradas que
 
 __Sector de Aguaserales:__ tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
 
+{% include image.html
+  file="rutas/caldas/ruiz/aguaserales.jpg"
+  caption="Foto de Aguaserales en el Nevado del ruiz"
+  width="1200"
+  height="674"
+%}
 
 __Sector de Arenales:__ en este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
 
+{% include image.html
+   file="rutas/caldas/ruiz/arenales.jpg"
+  caption="Foto de Arenales en el Nevado del ruiz"
+  width="1200"
+  height="674"
+%}
+
 __Sector de tumbas:__ también llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indigenas que habitaban las zonas bajas.
+
+{% include image.html
+  file="rutas/caldas/ruiz/tumbas-ruiz.jpg"
+  caption="Foto de sector tumbas en el Nevado del ruiz"
+  width="1200"
+  height="674"
+%}
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
