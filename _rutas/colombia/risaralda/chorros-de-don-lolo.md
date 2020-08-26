@@ -9,7 +9,9 @@ images_url: /images/rutas/risaralda/donlolo
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
-Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia termales de San Vicente. Estan ubicados en una zona boscosa donde se aprecia la belleza de la naturaleza y la inmensidad de esta cascada, que sobresale por encima de los árboles, haciéndolos ver diminutos, a cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, hasta tal punto de solo escuchar el sonido del agua que cae al abismo mientras se convierte en pequeñas partículas que se asemejan a pequeñas nubes, para luego caer en los alrededores, convirtiéndose en tenue brisa.
+Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia termales de San Vicente. Estan ubicados en una zona boscosa donde se aprecia la belleza de la naturaleza y la inmensidad de esta cascada, que sobresale por encima de los árboles, haciéndolos ver diminutos. 
+
+A cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, hasta tal punto de solo escuchar el sonido del agua que cae al abismo mientras se convierte en pequeñas partículas que se asemejan a pequeñas nubes, para luego caer en los alrededores, convirtiéndose en tenue brisa.
  
 ## ¿Qué encontrarás en los Chorros de Don Lolo 🏞👀?
 

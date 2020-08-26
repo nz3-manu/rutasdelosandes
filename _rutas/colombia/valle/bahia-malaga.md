@@ -10,9 +10,9 @@ viewranger: MjA5NTkzMg==
 author: manuel
 ---
 
-Quizás te estás preguntando: ¿cómo llegar hasta Bahía Málaga?, ¿donde me puedo hospedar?, ¿que puedo hacer si voy en carro o moto?, ¿cuanto cuesta la entrada al parque?, ¿que lugares no me deberia perder de visitar?
+Bahía málaga es sin duda un lugar mágico que te va a encantar, en este post te mostraremos  todo lo que necesitas saber para que disfrutes al máximo de este lugar, te mostraremos; cómo llegar, opciones de hospedajes (con sus numero teléfono) y los lugares que no te puedes perder.
 
-Todas estas dudas te las solucionaremos a continuación.
+Una vez dicho esto ¡empecemos con la aventura  ⛰!
 
 ## Datos curiosos de Bahía Málaga
 
@@ -42,18 +42,20 @@ Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este q
 Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea Juanchaco y Ladrilleros, el hostal llamara a la empresa de transporte fluvial con la que opera para que los desembarquen cerca de sus instalaciones, esto fue un acuerdo que se hizo entre las comunidades que viven en esta zona y las empresas de transporte fluvial para permitir que los turistas pudieran llegar a hospedajes de locales y así ayudar a la economía de estas.
 
 
-## Hospedajes en Bahía Málaga
+## Dónde hospedarte en en Bahía Málaga
+
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
 
 ### Hospedaje en Chucheros Yaneisy 
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
+
 Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
 
 __Transporte 🚤:__ Transporte de muelle turístico(Buenaventura) a Chucheros ida y regreso en $85.000, duración aproximada del trayecto 1 hora y 20 minutos.
 
-__Precios de hospedaje en la loma de Chucheros 🛌:__  Habitaciones 🛏 $40.000 por personas, Camping 🏕$30.0000 pesos.
+__Precios de hospedaje en la loma de Chucheros 🛌:__  Habitaciones $40.000 por personas, Camping $30.0000 pesos.
 
 __Alimentación 🍛:__ Desayunos $9.000 Pesos, almuerzos 🍛 $18.000 Pesos y comida $13.000 pesos.
 
@@ -62,9 +64,11 @@ __Para hospedarse aquí solo es con reserva previa al teléfono  <a href="tel:  
 
 ### Hospedaje en playa Juan de Dios
 
-El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la  playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
+El hostal Juan de Dios esta ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la  playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas.
 
-__Precios hospedaje en playa Juan de Dios:__  una Cama en habitación compartida  2 noches valor 🛏 $315.000 pesos,  Camping 🏕$250.000 peso por personas y Habitación privada para 2 personas  🏠$650.000 pesos, todos los precios mencionados anteriormente incluyen: transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
+Al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
+
+__Precios hospedaje en playa Juan de Dios:__  una Cama en habitación compartida  2 noches valor $315.000 pesos,  Camping $250.000 peso por personas y Habitación privada para 2 personas  🏠$650.000 pesos, todos los precios mencionados anteriormente incluyen: transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
 
 __Para este hospedaje solo es con reserva previa al teléfono <a href="tel:  3148881280"> 3148881280</a> y <a href="tel: 3163608492"> 3163608492</a>.__
 
@@ -92,7 +96,9 @@ Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa
   caption="mapa de Bahia malaga"
 %}
 
-__La Loma de Chucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga, si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
+__La Loma de Chucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga.
+
+Si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
 
 {% include image.html
   file="rutas/valle/bahia-malaga/lomaChucheros.jpg"

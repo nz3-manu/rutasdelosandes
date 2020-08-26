@@ -90,8 +90,7 @@ Al llegar al Zaino tuvimos que comprar la entrada 🎟 para ingresar al Parque T
  Estos precios mencionados son para temporada baja, en temporada alta se incrementan aproximadamente $10.000 pesos más.
 
 
-__Recomendaciones:__ _El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
-En la entrada te vas a encontrar con personas que te van a ofrecer los hospedajes dentro del Parque Tayrona, ten en cuenta que ellos son intermediarios y te van a cobrar un poco más._
+__Recomendación:__ El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
