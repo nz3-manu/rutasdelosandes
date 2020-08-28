@@ -49,7 +49,7 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 ## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?
 Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
 
-Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades
+Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
 
  * __Bogotá hasta Neiva:__ El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
 

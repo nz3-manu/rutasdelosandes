@@ -14,6 +14,7 @@ featured:  https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/tara
 Muchas veces escuchamos a personas decir que se van de  Trekking, Hikking o senderismo, ¿alguna vez te has preguntado cual es correcta? aquí te las explicaremos la diferencia entre Trekking, Hikking o senderismo.
 
 ## Trekking
+
 El término trekking es de origen sudafricano, y hace referencia a un viaje largo y complicado. La palabra empezó a ser utilizada por los montañeros que viajaban al Himalaya para definir las rutas de aproximación a las cimas que tenían por objetivo escalar; la ubicación de estas montañas, en zonas muy alejadas de los núcleos de población, obligaban a los miembros de la expedición a llevar consigo toda clase de utensilios para ser autosuficientes. 
 
 {% include image.html
