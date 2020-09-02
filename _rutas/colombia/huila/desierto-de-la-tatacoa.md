@@ -9,6 +9,16 @@ images_url : /images/rutas/huila/desiertoTatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
+# Cómo llegar al desierto de la Tatacoa
+
+En este post encontrarás toda la información que necesitas saber para viajar al desierto de la Tatacoa.
+
+Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer el desierto de la Tatacoa.
+Ten en cuenta que estos precios pueden haber cambiado, igual te dejaremos algunos teléfonos de hospedajes a los podrás consultar esta información.
+
+Empecemos con la aventura ⛰.
+
+## Dato curioso del desierto de la Tatacoa
 El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
 
 ## Cosas que no te puedes perder en el Desierto de la Tatacoa
@@ -124,6 +134,17 @@ Este hostal cuenta con un poco más de comodidades y entre esas está que cuenta
 * Almuerzo 🍛 $12.000 pesos y desayunos $6.000 pesos.  
 
 __Por favor confirmar disponibilidad, teléfono:<a href="tel:3133055898"> 3133055898</a> hostal Noches de Saturno.__
+
+Si quieres algo con mucha más comodidad y tranquilidad te tenemos la siguiente opción.
+
+### Hotel Sueño Real Tatacoa 
+Están ubicados a 7 minutos en moto o carro del desierto de la Tatacoa.
+
+Este hotel cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina para niños y para adultos,  veamos algunos precios que se manejan allí:
+
+* Habitaciones privada para 2 personas con aire acondicionado, baño privado, televisión y desayuno incluido por $130.000 pesos.
+
+__Por favor confirmar disponibilidad, teléfono:<a href="tel:3202634216"> 3202634216</a> hostal Sueño Real Tatacoa .__
 
 Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $10.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm  hasta las 9pm.
 
