@@ -55,7 +55,7 @@ __Recomendación:__ realizar reservación con previa anticipación, nosotros las
 
 Al siguiente día llegamos al parque principal ⛪️ donde tomamos un Jeep hasta el Valle del Cocora los horarios de salida son los siguientes; Lunes a Viernes a partir de las 6 am. Salen aproximadamente cada hora y los fines de semana  salen cada 30 minutos  vale aproximadamente $4.000 pesos.
 
-Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que están en  Valle del Cocora,estos funcionan de 6:00 am hasta las 6 pm. El valor 🅿️ para carros es de $10.000 y motos $5.000 pesos.
+Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que están en  Valle del Cocora,estos funcionan de 6:00 am hasta las 6 pm. El valor para carros es de $10.000 y motos $5.000 pesos.
 
 Una Vez aquí ya estamos listos para empezar nuestro camino 😎.
 
@@ -72,7 +72,9 @@ Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kiló
 
 Si no se siente capaz de caminar esta distancia también encontrarán alquiler de caballo 🐴 por $25.000 1 hora. 
 
-El camino hasta la casa de los colibríes (Acaime) se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $2.000 pesos y nos darán una pulsera(manilla)con la cual ya podremos  ingresar al parque. Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
+El camino hasta la casa de los colibríes (Acaime) se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $2.000 pesos y nos darán una pulsera(manilla)con la cual ya podremos  ingresar al parque. 
+
+Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
 {% include image.html
  file="rutas/quindio/acaime/puente.jpg"
@@ -95,7 +97,13 @@ Al llegar a la Casa de los Colibríes  tenemos que pagar  $5.000 Pesos de entrad
  height="1384"
 %}
 
-En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pesos, habitación privada $30.000 Pesos (por persona) disponibilidad máxima para 20 personas. Numero 📱 <a href="tel:3104240360">3104240360 </a> Paula o <a href="tel:3206959214">
+### Casa de los colibríes
+
+En este lugar podremos encontrar: 
+* 🍛Desayuno, almuerzo y comida a  $10.000 Pesos. 
+* 🛌Cama por $30.000 Pesos (por persona) disponibilidad máxima para 20 personas. 
+
+Teléfonos: <a href="tel:3104240360">3104240360 </a> Paula o <a href="tel:3206959214">
 3206959214 </a> Oscar, __llamar con anterioridad para confirmar disponibilidad__.
 
 Este es final de nuestro recorrido.
@@ -103,6 +111,7 @@ Este es final de nuestro recorrido.
 
 ## ¿Cómo regresar Valle del Cocora en Salento 🚌🏡?
 Para nuestro regreso vamos a ir al mirador de las palmas. Es el camino que vimos aproximadamente a 4 kilómetros cuando íbamos para Acaime, este camino nos lleva de nuevo al Valle del Cocora.
-Recomendación: Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
+
+__Recomendación:__ Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
 
 Este es el fin de la ruta a la Casa de los Colibríes, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

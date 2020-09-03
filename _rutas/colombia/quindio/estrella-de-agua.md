@@ -11,6 +11,7 @@ author: manuel
 ---
 
 También conocida como estación biológica estrella de agua ubicada a 3170 m.s.n.m  y a 9 kilómetros del Valle del Cocora en Salento Quindío, hogar del árbol nacional de Colombia la palma de cera🌴 y de muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción.
+
 Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el punto de entrada  para los páramos; páramo de frontino 2.8 km y páramo romerales 2.5 km. Además de esto es donde nace el río Quindío.
 
 
@@ -53,7 +54,7 @@ Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir
 Estando en Salento un viajero nos recomendo un hostal a solo una cuadra del parque principal, el cual nos pareció una buena opción ver hostal __<a href="http://www.booking.com/hotel/co/hostal-estrella-de-agua-salento.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__ otra opción un poco mas económica pero no menos confortable fue un hostal cerca del parque principal ver hostal __<a href="http://www.booking.com/hotel/co/artvelez-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__. Despues de un descanso 😴, salimos a conocer un poco de este hermoso municipio 😍🌃.
 
 Al siguiente día llegamos al parque principal ⛪️ donde tomamos un Jeep hasta el Valle del Cocora los horarios de salida son los siguientes; Lunes a Viernes a partir de las 6 am. Salen aproximadamente cada hora y los fines de semana  salen cada 30 minutos  vale aproximadamente $4.000 pesos.
-Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que están en  Valle del Cocora, estos funcionan de 6:00 am hasta las 6 pm. El valor 🅿️ para carros es de $10.000 y motos $5.000 pesos.
+Si van en Carro o moto los pueden dejar en los parqueaderos 🅿️🚗🛵  que están en  Valle del Cocora, estos funcionan de 6:00 am hasta las 6 pm. El valor para carros es de $10.000 y motos $5.000 pesos.
 
 Una Vez en el Valle del Cocora, ya estamos listos para empezar nuestro camino 😎.
 
@@ -71,7 +72,9 @@ __Recomendación:__ Para hacer este recorrido se aconseja estar como mínimo a l
 %}
 
 
-El camino hasta Estrella de Agua se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $2.000 pesos y nos darán una pulsera(manilla) con la cual ya podremos  ingresar al parque. Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
+El camino hasta Estrella de Agua se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $2.000 pesos y nos darán una pulsera(manilla) con la cual ya podremos  ingresar al parque. 
+
+Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
 {% include image.html
  file="rutas/quindio/estrellaAgua/puente.jpg"

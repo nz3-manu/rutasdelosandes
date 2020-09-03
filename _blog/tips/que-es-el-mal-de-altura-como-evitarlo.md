@@ -26,7 +26,9 @@ __Componentes en el aire atmosférico en los primeros 100 kilómetros de la atm�
 <li> El otro 2% está compuesto de otros elementos.</li>
 </ul>
 
-Te estarás preguntando si el oxígeno permanece constante, ¿porque cuando voy al nevado siento que no puedo respirar bien 🤔?, muy buena pregunta. Solucionemos esta pregunta con la siguiente imagen.
+Te estarás preguntando si el oxígeno permanece constante, __¿porque cuando voy al nevado siento que no puedo respirar bien 🤔?__,Muy buena pregunta. 
+
+Solucionemos esta pregunta con la siguiente imagen.
 
 {% include image.html
  file="/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/PresionAtmosferica.png"
@@ -42,7 +44,9 @@ En esta imagen podemos apreciar que a mayor altura  hay una disminución de la p
 Según el Dr. Pablo Aranda, Responsable de la Unidad de Medicina Deportiva de IMQ Zorrotzaurre, cita los siguiente en su artículo
 
 “El llamado comunmente mal de montaña o mal de altura es la falta de adaptación del organismo a la falta de oxígeno (hipoxia) de la altitud. 
-La incidencia del mal de altura varía mucho de una persona a otra porque algunas soportan mejor que otras las ascensiones rápidas. Aparece a partir de las 6 o 10 horas, es más frecuente en menores de cincuenta años y en sujetos que residen habitualmente a menos de 900 m de altitud. El estado de forma o la preparación física –por excelentes que sean, no lo previenen– ya que puede afectar incluso a los atletas más experimentados.”
+La incidencia del mal de altura varía mucho de una persona a otra porque algunas soportan mejor que otras las ascensiones rápidas. 
+
+Aparece a partir de las 6 o 10 horas, es más frecuente en menores de cincuenta años y en sujetos que residen habitualmente a menos de 900 m de altitud. El estado de forma o la preparación física –por excelentes que sean, no lo previenen– ya que puede afectar incluso a los atletas más experimentados.”
 
 ## Causas del mal de altura  
 Entre las principales causas del mal de altura se encuentran:
@@ -53,7 +57,7 @@ Entre las principales causas del mal de altura se encuentran:
 <li>Si has tenido enfermedades como: cardiacas y pulmonares aunque éstas hayan sido tratadas con éxito. </li>
 </ul>
 
-__Perfiles de personas con riesgo de mal de altura__
+### Perfiles de personas con riesgo de mal de altura
 <ul>
 <li>Si tienes problemas médicos como: enfermedades cardíacas, sistema nervioso o pulmones</li>
 <li>Mujeres embarazadas, niños, personas con hipertensión arterial, tendencia a la apnea durante el sueño y aquellas que han tenido mal de altura con anterioridad.</li>
@@ -91,9 +95,10 @@ En la siguiente gráfica te resumimos la recomendaciones que hacen algunos exper
 %}
 
 Se recomienda dormir de 2 a 3 días en una altura entre 2.000-2.500 metros de altura para aclimatar nuestro cuerpo, Después de los 2.000 metros hasta los 5.000 metros se recomienda subir un máximo de 340-400 metros por día, después de 5.000 metros subir un máximo de 200-250 metros por día y después de 6.000 metros  subir un máximo de 150-200 metros por día.
+
 Somos conscientes de que al ir a la montaña no contaremos con todos estos días para hacer un ascenso gradual como le recomiendan muchos especialistas en el tema, así que si vas seguir subiendo algunos metros más de lo aconsejable, esté alerta si los síntomas de mal de altura aparecen en ti o en tus compañeros, para prestar la adecuada atención.
 
-Evita consumir alcohol y fumar cigarrillo. El alcohol ayuda a deshidratar tu cuerpo, por lo que aumentará la probabilidad de que contraigas el mal de altura. Si tienes dificultades al respirar, imagina cómo se sentirá tu cuerpo luego de un cigarro.
+__Evita consumir alcohol y fumar cigarrillo__. El alcohol ayuda a deshidratar tu cuerpo, por lo que aumentará la probabilidad de que contraigas el mal de altura. Si tienes dificultades al respirar, imagina cómo se sentirá tu cuerpo luego de un cigarro.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 

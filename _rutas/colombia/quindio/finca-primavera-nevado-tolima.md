@@ -11,6 +11,7 @@ author: manuel
 ---
 
 La Finca Primavera está ubicada a 17 kilómetros del Valle del Cocora, Salento Quindío hogar del árbol nacional de Colombia la palma de cera🌴, el condor de los andes 🦅 y muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción. 
+
 La Finca Primavera está ubicada en la región montañosa de la cordillera central de los andes Colombianos, en la zona  que pertenece al Parque Nacional Natural de los Nevados. Un lugar con riqueza sin igual donde puedes ver en una ecológica caminata; el nevado Santa Isabel, Paramillo del Quindío y el majestuoso Nevado del Tolima.
 
 ## ¿Qué encontrarás 🏞👀?
@@ -52,10 +53,11 @@ Al siguiente día llegamos muy temprano al parque principal ⛪️ donde tomamos
 Una Vez Valle del Cocora, ya estamos listos para empezar nuestro camino 😎.
 
 ## El camino 🚶🏼
-__Recomendación: Para hacer este recorrido estar como mínimo a las 6 am.__
+__Recomendación:__ Para hacer este recorrido estar como mínimo a las 6 am.
 
 La finca Primavera se encuentra a 17 kilómetros, de los cuales 4 kilómetros son en un ascenso con una inclinación de 60% 🏔😥, asi que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, el cual tiene un valor de $120.000 Pesos por mula 🐴 y  se permite subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca Primavera. 
-_Para contratar este servicio se necesita llamar con 2 dias de anticipación, ya que la persona tendrá que bajar desde la finca primavera con las mulas de carga. Teléfono:<a href="tel:3136751059">3136751059</a> German._
+
+_Para contratar este servicio se necesita llamar con 2 dias de anticipación, ya que la persona tendrá que bajar desde la finca primavera con las mulas de carga. Teléfono:<a href="tel:3136751059"> 3136751059</a> German._
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
@@ -67,6 +69,7 @@ __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que much
   
 
 El valor para ingresar al sendero es de aproximadamente $2.000 pesos, nos darán una pulsera(manilla) con la cual ya podremos  ingresar al parque, nos preguntaran cual va a ser el recorrido que vamos a hacer y quien es nuestro guia.
+
 En el recorrido tendremos que pasar por la Casa de los colibríes ubicada a 4.8 kilómetros del Valle del Cocora,podrán ver la ruta <a href="https://rutasdelosandes.com/colombia/quindio/acaime.html"> __aquí__</a>. En este lugar encontraran; habitación compartida y comida 🍛. Si vienen de lugares con altitud muy baja lo aconsejable es quedarse para adecuarse un poco a la altura antes de seguir el ascenso. 
 
 De la Casa De los Colibríes hasta Estrella de Agua  son aproximadamente 4.5 kilómetros, el trayecto es totalmente en ascenso por un camino de herradura que se encuentra señalizado.
@@ -74,7 +77,14 @@ Ver ruta Estrella de Agua <a href="https://rutasdelosandes.com/colombia/quindio/
 
 En Estrella de agua ya no se presta el servicio de camping, ya que en años anteriores unas personas que acampaban cerca de esta zona dejo una fogata prendida, lo que ocasionó un incendio de gran magnitud. Después de esto Estrella de Agua paso de ser una zona de camping a un puesto de control de la CRQ (Corporacion Autonoma Regional Del Quindio).
 
-__Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino(guia). Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación de 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana que es la  finca Primavera._ 
+{% include image.html
+ file="rutas/quindio/primaveraTolima/estrellaAgua.jpg"
+ caption="Estrella de Agua"
+ width="900"
+ height="505"
+%}
+
+__Recomendación:__ _Si no se cuenta con la experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino(guia). Te recomendamos solo hacer la ruta hasta este punto (Estrella de agua), ya que a partir de aquí el ascenso es con una inclinación de 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana que es la  finca Primavera._ 
 
 Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 2.5 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramos que se funden con la vegetación  del bosque 😍🏔.
 
@@ -95,7 +105,12 @@ Después de 3 horas caminando por este valle nos encontraremos con la finca prim
  height="506"
 %}
 
-En este lugar podremos encontrar; hospedaje en habitación compartida $20.000 pesos por persona, Zona de camping 🏕, Almuerzo y cena 🍛 $12.000 pesos desayuno $10.000 pesos. 
+### Finca Primavera
+En este lugar podremos encontrar: 
+* Hospedaje en habitación compartida $20.000 pesos por persona
+* Zona de camping 🏕
+* Almuerzo y cena 🍛 $12.000 pesos desayuno $10.000 pesos. 
+
 _Estos precios mencionados anterior mente son aproximados._
 
 Después de haberme comido algo 😋, salimos a  contemplar el atardecer, viendo ese gigante colosal que sobresalía entre los valles 🏔, aquel que con su belleza sin igual habia quitado tantas vidas de aquellos que trataron de conquistar la cima y contemplar desde sus 5.200 metros la hermosura de su paisaje rodeado de montañas y paramos al rededor. 
