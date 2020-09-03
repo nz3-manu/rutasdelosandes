@@ -57,7 +57,7 @@ __Recomendación: Para hacer este recorrido estar como mínimo a las 6 am.__
 La finca Primavera se encuentra a 17 kilómetros, de los cuales 4 kilómetros son en un ascenso con una inclinación de 60% 🏔😥, asi que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, el cual tiene un valor de $120.000 Pesos por mula 🐴 y  se permite subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca Primavera. 
 _Para contratar este servicio se necesita llamar con 2 dias de anticipación, ya que la persona tendrá que bajar desde la finca primavera con las mulas de carga. Teléfono:<a href="tel:3136751059">3136751059</a> German._
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
 {% include iframe.html
    type="custom"
@@ -122,4 +122,4 @@ __Recomendación:__ No ir en épocas de lluvia ya que el ascenso sería difícil
 ## ¿Cómo regresar 🚌🏡?
 Para regresar se debe tomar el mismo camino, hay otras formas de llegar las cuales no se muestran ya que de no conocer bien el camino podríamos dañar el ecosistema.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a la Finca Primavera, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

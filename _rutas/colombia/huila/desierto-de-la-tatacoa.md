@@ -176,7 +176,7 @@ Este es el final de esta aventura cabe aclarar que los precios mencionados anter
 ## ¿Cómo regresar del Desierto de la Tatacoa 🚌🏡?
 Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
 
-__Este es el fin de la ruta al desierto de la Tatacoa, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta al desierto de la Tatacoa, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 
 

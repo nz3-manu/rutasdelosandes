@@ -64,7 +64,7 @@ Ahora ya estamos preparados para empezar el sendero.
 
 En este punto se inicia el sendero del Cacique Nona el cual cruza la Reserva, dentro de ésta existen varios puntos de referencia: La Bocatoma y Palosanto. El camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos.
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>. 
 
 
 {% include image.html 
@@ -92,7 +92,7 @@ El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más 
 ## ¿Cómo regresar del Alto Del Nudo 🚌🏡?
 Tomamos  el jeep que pasa hasta las 5:00 pm el cual tiene un precio aproximado de $3.500 pesos, este se toma al frente de la casa del guardabosques. Este Jeep nos llevará directo a Pereira.
 
-__Este es el fin de la ruta al Alto Del Nudo, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta al Alto Del Nudo, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 [quimbaya-wikipedia]: https://en.wikipedia.org/wiki/Quimbaya_civilization
 

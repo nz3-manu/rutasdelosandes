@@ -35,7 +35,7 @@ Al día siguiente tomamos el jeep o bus escalera 🚌(Chiva), que sale desde la 
 
 Si van en 🚙 carro o 🛵 moto podrían dejarlo en el “Restaurante-Mirador Don Lolo”, el cual es gratis para clientes o en alguna finca cercana.
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.
 
 ## Ruta a los Chorros de Don Lolo 🚶🏽🐕
 
@@ -64,7 +64,7 @@ Caminamos por cerca de 30 minutos por este sendero para llegar a la famosa casca
 
 {% include image.html
  file="rutas/risaralda/donlolo/cascada.jpg"
- caption="cascada Chorros de Don Lolo"
+ caption="Cascada de Chorros de Don Lolo"
  width="800"
  height="600"
 %} 
@@ -76,7 +76,7 @@ __Recomendaciones:__ En la cascada se forman algunos remolinos internos por la f
 ## ¿Cómo regresar de los Chorros de Don Lolo 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que llegamos. Tener en cuenta que el ultimo jeep pasa hasta las 5:00 pm. De lo contrario tendrán que llamar un taxi o jeep. 
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
+Este es el fin de la ruta a los Chorros de Don Lolo, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 ## Presupuesto a los Chorros de Don Lolo por persona 🤔💰.
   <amp-accordion animate>

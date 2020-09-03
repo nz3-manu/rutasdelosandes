@@ -10,7 +10,9 @@ viewranger: MjA5NTkzMg==
 author: manuel
 ---
 
-Alcalá está ubicado en el Nororiente del Valle del Cauca, limita al suroriente con el departamento de Quindío. Este es uno de los muchos lugares del norte del valle que tiene arraigada la cultura Caldense y Antioqueña debido a su colonización. Al llegar al parque se puede ver un gigantesco árbol, un Samán que cubre de sombra a todo el parque. Se dice que sus raíces cubren gran parte de los alrededores del parque llegando incluso hasta debajo de la alcaldía. Este árbol fue sembrado el 14 de noviembre de 1917 por Rosana Mazuela, fecha en la cual se celebraba el centenario de la heroína nacional Policarpa Salavarrieta, este  árbol se convirtió en el símbolo icónico entre sus habitantes.
+Alcalá está ubicado en el Nororiente del Valle del Cauca, limita al suroriente con el departamento de Quindío. Este es uno de los muchos lugares del norte del valle que tiene arraigada la cultura Caldense y Antioqueña debido a su colonización. 
+
+Al llegar al parque se puede ver un gigantesco árbol, un Samán que cubre de sombra a todo el parque. Se dice que sus raíces cubren gran parte de los alrededores del parque llegando incluso hasta debajo de la alcaldía. Este árbol fue sembrado el 14 de noviembre de 1917 por Rosana Mazuela, fecha en la cual se celebraba el centenario de la heroína nacional Policarpa Salavarrieta, este  árbol se convirtió en el símbolo icónico entre sus habitantes.
 
 ## ¿Qué encontrarás 🏞👀?
 
@@ -27,9 +29,9 @@ La entrada a las cascadas se encuentra sobre la vía que comunica a Cartago con 
 
 __Formas de llegar:__
 
-_Desde Cartago:_ Tomar el bus Cartago-Alcalá, valor: $2.000  Pesos, se deben bajar en la vereda El Higuerón ubicada aproximadamente a 3 kilómetros de Alcalá, ver mapa.
+* _Desde Cartago:_ Tomar el bus Cartago-Alcalá, valor: $2.000  Pesos, se deben bajar en la vereda El Higuerón ubicada aproximadamente a 3 kilómetros de Alcalá, ver mapa.
 
-_Desde pereira:_ Tomar un bus hasta Alcalá valor: $5.500 Pesos, una vez allí se toma otro con dirección a Cartago valor $2.000 Pesos, se deben bajar en la vereda  El Higuerón ubicada aproximadamente a 3 kilómetros de Alcalá. Descargar ruta o ver el mapa para más información.
+* _Desde pereira:_ Tomar un bus hasta Alcalá valor: $5.500 Pesos, una vez allí se toma otro con dirección a Cartago valor $2.000 Pesos, se deben bajar en la vereda  El Higuerón ubicada aproximadamente a 3 kilómetros de Alcalá. Descargar ruta o ver el mapa para más información.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
@@ -55,12 +57,12 @@ Después de una corta y agradable caminata llegamos por fin a nuestro destino
     layout="responsive">
 </amp-instagram>
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
 ## ¿Cómo regresar 🚌🏡?
 
 Para regresar se toma el mismo trayecto que utilizamos para llegar, teniendo en cuenta que los últimos buses para pereira salen hasta las 7:20 pm. Estos horarios pueden variar dependiendo del día.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
+Este es el fin de la ruta a la Cascada en Alcala, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 

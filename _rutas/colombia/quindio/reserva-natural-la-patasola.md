@@ -171,7 +171,7 @@ Este es el punto final de nuestro recorrido.
 ## ¿Cómo regresar 🚌🏡?
 Para nuestro regresos tomamos el mismo camino por el que subimos hasta llegar a la Vereda Boquia, aquí podremos tomaremos el bus de Alcalá que pasa cada 15 minutos este nos  llevará hasta el terminal de Armenia.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este.__
+Este es el fin de la ruta a la Reserva Natural La Patasola, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 ## Presupuesto de la ruta por persona 🤔💰
   <amp-accordion animate>

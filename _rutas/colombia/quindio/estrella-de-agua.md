@@ -121,4 +121,4 @@ En Estrella ya no se presta el servicio de camping, ya que en años anteriores u
 Para nuestro regreso vamos a ir al mirador de las palmas. Es el camino que vimos aproximadamente a 4 kilómetros cuando íbamos para Acaime, este camino nos lleva de nuevo al Valle del Cocora.
 Recomendación: Realizar este trayecto  con buen tiempo para disfrutar al máximo la vista de la palma de Cera 🌴.
 
-__Este es el fin de la ruta a Estrella de Agua, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a Estrella de Agua, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

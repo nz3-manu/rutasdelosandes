@@ -81,9 +81,9 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda ll
 
  Los horarios de salida desde la vereda Alegrias son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje es aproximadamente $2.000 pesos.
 
-__Este es el fin de la ruta a la Reserva Natural Barbas Bremen, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a Barbas Bremen, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
-ℹ️ __Comprar Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
+ℹ️ __Descargar Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 
 ## Presupuesto a Barbas Bremen por persona 🤔💰

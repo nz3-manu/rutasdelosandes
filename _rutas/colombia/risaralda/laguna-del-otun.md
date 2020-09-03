@@ -71,7 +71,7 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
 </ol>
 
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
 
 {% include iframe.html
@@ -126,7 +126,7 @@ Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y
 ## ¿Cómo regresar de la Laguna del otún 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
-__Este es el fin de la ruta a la Laguna del otún, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
+Este es el fin de la ruta a la Laguna Del Otún, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 
 💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">__Comprar información adicional de la ruta a Laguna del Otún.__</a>

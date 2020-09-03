@@ -33,7 +33,7 @@ También puedes tomar el bus desde Armenia hasta Salento.
 
 Después de tomar el bus nos tardamos aproximadamente 40 minutos para llegar a Boquía, una vez allí empezamos nuestra ruta.
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.__ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
 ## El camino a la Cascada Santa Rita 🚶🏼🐕
 
@@ -69,7 +69,7 @@ height="1080"
 
 Después de bañarnos en el agua fría, decidimos regresar antes de las 4:00 pm para tomar el bus que pasa por Boquía y contar con la suerte de que nos pudieran llevar, ya que los fines de semana es casi imposible tomar un bus después de las 4:00 pm por el número de viajeros que vienen de salento. Después de esperar y no contar con suerte tuvimos que tomar un bus e irnos hasta salento y de allí tomar otro de regreso.
 
-__Este es el fin de la ruta a Las cascadas de Santa Rita, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a la Cascada Santa Rita, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 ## Presupuesto a la Cascada Santa Rita por persona  🤔💰
   <amp-accordion animate>

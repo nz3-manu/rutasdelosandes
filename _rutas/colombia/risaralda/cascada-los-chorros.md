@@ -44,9 +44,11 @@ Desde el cedral hasta la pastora son aproximadamente 4 kilómetros, el camino es
     caption="Ruta a pie desde el cedral hasta la cascada los chorros pasando por la pastora, aproximadamente dos horas de caminata"
 %}
 
-Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Pastora, allí podrán encontrar lo siguiente: desayunos a $8.000 pesos, almuerzos y comidas a $12.000 pesos. Si su idea es pasar la noche aquí, podrán encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. Para alquiler de cabaña __se debe confirmar disponibilidad Teléfono:  <a href="tel:0363144162">(036)3144162</a>.__
+Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Pastora, allí podrán encontrar lo siguiente: desayunos a $8.000 pesos, almuerzos y comidas a $12.000 pesos. Si su idea es pasar la noche aquí, podrán encontrar zona de camping 🏕 valor $8.000 pesos o cabañas $28.000 pesos. 
 
-__Recuerda minimizar el uso de plástico cuando vas a la montaña, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.__ 
+Para alquiler de cabaña se debe confirmar disponibilidad Teléfono:<a href="tel:0363144162">    (036)3144162</a>.
+
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.
 
 {% include image.html 
     file="rutas/risaralda/chorros/lapastora3.jpg" 
@@ -72,7 +74,7 @@ De regreso tomamos el mismo camino. Tener en cuenta que la última “chiva” o
 
 {% include related-rutas.html %}
 
-__Este es el fin de la ruta a la Cascada los Chorros en la pastora, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a la Cascada los Chorros en la pastora, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 ## Presupuesto a la pastora por persona 🤔💰
   <amp-accordion animate>

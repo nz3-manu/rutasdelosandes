@@ -103,9 +103,9 @@ En la zona se van a encontrar muchos caracoles africano 🚨🐌, no se deben to
 ## ¿Cómo regresar de Estación Pereira 🚌🏡?
 De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:40pm desde Estación Pereira.
 
-__Este es el fin de la ruta, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a>, <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.__
+Este es el fin de la ruta a Estación Pereira, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Comprar información adicional de la ruta a Estación Pereira.__</a>
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional de la ruta a Estación Pereira.__</a>
 
 ## Presupuesto a Estación Pereira por persona 🤔💰
   <amp-accordion animate>

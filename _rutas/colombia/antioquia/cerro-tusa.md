@@ -94,7 +94,7 @@ Habíamos escuchado que bajar de Cerro Tusa era un poco más complicado que la s
 
 En cuanto al bus, tener en cuenta que los 🚌buses de Venecia para Medellín salen hasta las 6:30 pm.
 
-__Este es el fin de la ruta a Cerro Tusa, no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+Este es el fin de la ruta a Cerro Tusa, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 __<span class="advise"> Foto de cerro tusa por:  <a href="https://www.instagram.com/wilber_gil_cortes/"  target="_blank"> @wilber_gil_cortes </a> </span>__
 
