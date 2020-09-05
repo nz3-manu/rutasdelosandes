@@ -9,6 +9,8 @@ images_url: /images/rutas/costa/tayrona
 viewranger: 
 author: manuel
 ---
+# Parque Nacional Natural Tayrona
+
 
 Hoy te queremos presentar uno de los lugares que no debe faltar en tu lista de viajes por  Colombia el __Parque Tayrona__, en este post encontrarás:
 
@@ -19,8 +21,6 @@ Hoy te queremos presentar uno de los lugares que no debe faltar en tu lista de v
 <li>Tarifas para ingreso al Parque Tayrona</li>
 <li>Hospedaje en el Parque Tayrona</li>
 </ul>
-
-
 
 ## Datos curiosos del Parque Nacional Natural Tayrona
 El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa Marta. Es la montaña costera más alta del mundo. Este Parque se caracteriza por su paisaje tropical, formaciones coralinas, blancas playas, litoral rocoso, manglares y lagunas, todo esto muy cerca de Santa Marta. 

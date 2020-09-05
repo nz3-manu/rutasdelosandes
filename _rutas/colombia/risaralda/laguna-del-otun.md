@@ -3,16 +3,29 @@ layout: trail
 title:  Laguna Del Otún
 categories: colombia 
 tags: Risaralda
-seo_title: LAGUNA DEL OTÚN en PEREIRA, RISARALDA| Como llegar.
-excerpt: La laguna del otún, es un embalse natural que se encuentra en el departamento de Risaralda, en el área perteneciente al Parque Nacional Natural Los Nevados.
+seo_title: Laguna del Otún - Como llegar|Rutas
+excerpt: Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde las tarifas para la entrada al parque, transporte y hospedaje.
 images_url: /images/rutas/risaralda/lagunadelotun
 viewranger: 
 author: manuel
 ---
+# la Laguna Del Otún
+
+En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún.
+
+Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
+Ten en cuenta que estos precios pueden haber cambiado.
+
+Empecemos con la aventura ⛰.
+
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> Ver ruta a la Laguna Del Otún en ingles</a>.]__
+
+## Dato Cuioso de la Laguna Del Otún
 
 La Laguna del otún es un embalse natural que se encuentra en el departamento de Risaralda, en el área perteneciente al Parque Nacional Natural Los Nevados. La Laguna del otún cuenta con una extensión aproximada de 1.5 km² y una profundidad más o menos de 70 metros. Está formada por la acción volcánica y glaciar alimentada principalmente por el deshielo del Nevado de Santa Isabel.
 
  La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y ahora es de vital importancia ya que alimenta el Río Otún, el cual abastece a la ciudad de Pereira.
+ 
 ## ¿Qué encontrarás en Laguna Del Otún 🏞👀?
 
 {% include youtube.html

@@ -13,8 +13,8 @@ author: manuel
 
 En este post encontrarás toda la información que necesitas saber para viajar al desierto de la Tatacoa.
 
-Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer el desierto de la Tatacoa.
-Ten en cuenta que estos precios pueden haber cambiado, igual te dejaremos algunos teléfonos de hospedajes a los podrás consultar esta información.
+Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
+Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
 
 Empecemos con la aventura ⛰.
 

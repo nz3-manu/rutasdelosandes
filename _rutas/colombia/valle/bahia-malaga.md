@@ -9,10 +9,13 @@ images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
 ---
+# Bahía Málaga
 
 Bahía málaga es sin duda un lugar mágico que te va a encantar, en este post te mostraremos  todo lo que necesitas saber para que disfrutes al máximo de este lugar, te mostraremos; cómo llegar, opciones de hospedajes (con sus numero teléfono) y los lugares que no te puedes perder.
 
 Una vez dicho esto ¡empecemos con la aventura  ⛰!
+
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> Ver ruta a Bahía Málaga en ingles</a>.]__
 
 ## Datos curiosos de Bahía Málaga
 

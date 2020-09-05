@@ -3,16 +3,20 @@ layout: trail
 title:  Cómo llegar al Nevado del Ruiz
 categories: colombia 
 tags: Caldas
-seo_title: ▷ COMO LLEGAR AL NEVADO DEL RUIZ DESDE BOGOTA,MEDELLIN,CALI
-excerpt: Pensado ir al Nevado del Ruiz? entra aquí y conoce todo lo que necesitas saber para no perderte este hermoso nevado en el eje cafetero. 
+seo_title: ▷ Nevado del Ruiz-Guia Completa|Rutas
+excerpt: Conoce todo lo que necesitas saber para visitar el Nevado del Ruiz, Este nevado es uno de los mas importantes de colombina y se encuentra muy cerca a Manizales y hace parte del parque nacional natural los nevados. 
 images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
 ---
+
+# Nevado del Ruiz
+
 Quizás te estás preguntando: ¿cómo llegar hasta el nevado del Ruiz?, ¿hay transporte público hasta el nevado del Ruiz?, ¿donde me puedo hospedar?, ¿puedo ir en carro o moto?, ¿cuanto cuesta la entrada al parque?
 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles</a>.]__
 
-Todas estas dudas te las solucionaremos a continuación.
+Todas estas dudas te las solucionaremos a continuación ⛰.
 
 ## Datos curiosos del Nevado del Ruiz 
 
@@ -48,7 +52,9 @@ Con cada kilómetro que avanzábamos 🚙 dejábamos  atrás los edificios 🌆 
 
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶. 
 
-En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra (ver mapa) al frente de esta laguna nos encontramos el restaurante Cumanday en el cual ofrecen; desayunos 🥟☕️ a $7.000 Pesos y almuerzos 🍛a $13.000 pesos.
+En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra (ver mapa) al frente de esta laguna nos encontramos el __restaurante Cumanday__ en el cual ofrecen: 
+* Desayunos ☕️ a $7.000 Pesos. 
+* Almuerzos 🍛a $13.000 pesos.
 
 <amp-instagram
     data-shortcode="B1MQ7YjpGRh"
@@ -61,17 +67,22 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino 🗻. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz 🏔.
 
+### Hospedaje el Arbolito
 
-En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios; desayunos 🥟☕️ a $8.000 Pesos, almuerzos desde 🍛a $14.000 pesos,  hospedaje 🛏 $40.000 pesos por persona (incluye desayuno), glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).  
+En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios: 
+* Desayunos 🥟☕️ a $8.000 Pesos. 
+* Almuerzos desde 🍛a $14.000 pesos.  
+* Hospedaje 🛏 $40.000 pesos por persona (incluye desayuno). 
+* Glamping 🏕$300.000 para 4 personas (incluye una botella de vino y desayuno).  
 
-__Para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.__
+__Recomendación:__ para hospedarse en este lugar o contratar los servicios de desayunos y almuerzos, es aconsejable realizar la reservación previa, ya que te podrías encontrar que ya no haya disponibilidad.
 
 
 Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
 
 ## Entrada al Nevado del Ruiz 🎟
 
-⚠️ __Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.__
+⚠️ Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.
 
 __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__ 
 <ol>
@@ -86,7 +97,7 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
   </li> 
 </ol>
 
-⚠️ __El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.__
+__Importante:__ El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.
 
  _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._ 
 

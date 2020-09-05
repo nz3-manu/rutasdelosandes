@@ -3,12 +3,23 @@ layout: trail
 title:  Alto Del Nudo 
 categories: colombia 
 tags: Risaralda
-seo_title: ALTO DEL NUDO, SERRANÍA ALTO DEL NUDO | COMO LLEGAR
-excerpt: Ruta de turismo ecológico en el eje cafetero, el alto del nudo o cerro del nudo, esta ubicada cerca de pereira, rodeado de una gran variedad de fauna y flora, aquí encontraras todo lo que tienes que saber para conocer esta maravilla natural en Pereira.
+seo_title: Alto Del Nudo-SerraníA Alto Del Nudo | Rutas
+excerpt: Guía completa para visitar el Alto del Nudo o Cerro del Nudo, este hermoso lugar esta ubicado muy cerca de Pereira y Dosquebradas, aquí encontraras todo lo que tienes que saber para conocer esta maravilla natural.
 images_url: /images/rutas/risaralda/quimbaya
 viewranger: MTM4MjU4NA==
 author: daniel
 ---
+# Alto Del Nudo 
+
+En este post encontrarás toda la información que necesitas saber para conocer el Alto del Nudo.
+
+Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
+Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
+
+Empecemos con la aventura ⛰.
+
+# Datos curiosos del Alto Del Nudo 
+
 El departamento de Risaralda como otros departamentos del Eje cafetero están constituidos como antiguos asentamientos de la cultura Quimbaya, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, que es allí donde inicia esta ruta.
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
@@ -42,9 +53,8 @@ Desde la vereda la convención hasta la Casa de la CARDER (Lugar donde inicia la
     caption="Casa de la CARDER"
 %} 
 
-En esta casa se brinda servicio de alojamiento en habitación compartida de $25.000 pesos por persona, además cuenta con cocina y utensilios (platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es cocinar no te preocupes 😃 también se venden desayunos a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial característica del ¡paisaje cultural cafetero!
+En esta casa se brinda los siguientes servicio de alojamiento en habitación compartida de $25.000 pesos por persona, además cuenta con cocina y utensilios (platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es cocinar no te preocupes 😃 también se venden desayunos a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial característica del ¡paisaje cultural cafetero!
 
-__Para alquiler de habitación compartida y almuerzos se debe confirmar disponibilidad, teléfono: <a href="tel:3184017976">3184017976</a> Edilia__.
 
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
