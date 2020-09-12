@@ -1,28 +1,34 @@
- <figure
-    {% if include.fullscreen %}
-        data-mode="fullscreen"
-    {% endif %}
-    >
-    <amp-img 
-        {% if include.absolute %}
-            src="{{include.file}}"
-        {% else %}
-            src="/images/{{ include.file }}"
-        {% endif %}
-        {% if include.fullscreen %}
-            data-mode="fullscreen"
-        {% endif %}
-        layout="responsive" 
-        alt="{{ include.caption }}" 
-        width="{{ include.width | default: 1028 }}px"
-        height="{{ include.height | default: 771 }}px" 
-        >
-    </amp-img>
-    {% if include.caption %}
-        <figcaption 
-        {% if include.fullscreen %}
-            class="op-extra-large"
-        {% endif %}>{{ include.caption }}</figcaption>
-    {% endif %}
+<figure {% if fullscreen %} data-mode="fullscreen" {% endif %}>
+  <amp-img
+    {%
+    if
+    absolute
+    %}
+    src="{{file}}"
+    {%
+    else
+    %}
+    src="/images/{{ file }}"
+    {%
+    endif
+    %}
+    {%
+    if
+    fullscreen
+    %}
+    data-mode="fullscreen"
+    {%
+    endif
+    %}
+    layout="responsive"
+    alt="{{ caption }}"
+    width="{{ width | default: 1028 }}px"
+    height="{{ height | default: 771 }}px"
+  >
+  </amp-img>
+  {% if caption %}
+  <figcaption {% if fullscreen %} class="op-extra-large" {% endif %}>
+    {{ caption }}
+  </figcaption>
+  {% endif %}
 </figure>
-
