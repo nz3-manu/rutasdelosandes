@@ -1,0 +1,5 @@
+{
+  "layout": "article",
+  "tag": "blog",
+  "permalink": "/amp/{{ page.filePathStem }}.html"
+}

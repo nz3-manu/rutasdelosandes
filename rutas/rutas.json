@@ -1,0 +1,5 @@
+{
+  "layout": "trail",
+  "tag": "rutas",
+  "permalink": "/amp/{{ page.filePathStem }}.html"
+}

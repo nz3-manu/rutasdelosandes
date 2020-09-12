@@ -9,17 +9,20 @@ module.exports = function (eleventyConfig) {
     root: ["_includes", "."],
   });
   eleventyConfig.addCollection("rutas", (collection) => {
-    return collection.getFilteredByGlob("_rutas/*.md");
+    return collection.getFilteredByGlob("rutas/*.md");
   });
 
   eleventyConfig.addCollection("blog", (collection) => {
-    return collection.getFilteredByGlob("_blog/*.md");
+    return collection.getFilteredByGlob("blog/*.md");
   });
+
+  eleventyConfig.addPassthroughCopy("images");
 
   return {
     dir: {
       input: "./", // Equivalent to Jekyll's source property
       output: "./_site", // Equivalent to Jekyll's destination property
     },
+    passthroughFileCopy: true,
   };
 };
