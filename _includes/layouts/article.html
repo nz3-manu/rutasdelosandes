@@ -7,9 +7,9 @@ layout: default
         "@type": "Article",
         "dateModified":"2018-03-05",
         "datePublished":"2018-03-01",
-        "description":"{{ page.excerpt | escape }}",
-        "headline":"{{ page.title | escape }}",
-        "image": "{{site.url}}{{page.images_url}}/featured.jpg",
+        "description":"{{ excerpt | escape }}",
+        "headline":"{{ title | escape }}",
+        "image": "{{site.url}}{{images_url}}/featured.jpg",
         "mainEntityOfPage":"{{ page.url | replace:'index.html','' | absolute_url }}",
         "author": {
           "@type":"Organization",
@@ -35,18 +35,18 @@ layout: default
                   width="1600"
                   height="900"
                   layout="responsive"
-                  src="{{page.images_url}}/featured.jpg"
+                  src="{{images_url}}/featured.jpg"
                   alt="Picture of an elephant"></amp-img>
         </div>
-        <div class="post-title">{{ page.title | escape }}</div>
+        <div class="post-title">{{ title | escape }}</div>
         <div class="scrim-bottom"></div>
 </div>
 <div class="wrapper">
 <article class="post">
   <header class="post-header">
         <div class="post-meta">
-            {% if page.author %}
-            {% assign authorInfo = site.data.authors[page.author] %}  
+            {% if author %}
+            {% assign authorInfo = authors[author] %}  
             <div class="author_avatar">
                 <div>
                 <amp-img class="author_avatar-img"
@@ -105,7 +105,7 @@ layout: default
   </header>
   <div class="post-content" itemprop="articleBody">
     <ul class="tags">
-            {% for tag in page.tags %}
+            {% for tag in tags %}
                 <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
             {% endfor %}
             </ul>
@@ -133,7 +133,7 @@ layout: default
       {% assign commonTags = '' %}
         {% for tag in relatedPost.tags %}
             {% if relatedPost.url != page.url %}
-                {% if page.tags contains tag %}
+                {% if tags contains tag %}
                     {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% endif %}
             {% endif %}
