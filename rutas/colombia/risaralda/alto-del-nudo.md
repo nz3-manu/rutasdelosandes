@@ -26,11 +26,11 @@ _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas
 
 ## ¿Qué encontrarás en el Alto Del Nudo 🏞👀? 
 
-  {% include youtube.html
-    videoid="bUSFb7xuXS0"
-    width="480"
-    height="270"
-    caption="Mirador Alto del Nudo"
+  {% include youtube.html,
+    videoid:"bUSFb7xuXS0",
+    width:"480",
+    height:"270",
+    caption:"Mirador Alto del Nudo"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
@@ -46,11 +46,11 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitam
 
 Desde la vereda la convención hasta la Casa de la CARDER (Lugar donde inicia la Reserva), son aproximadamente 20 minutos. El ingreso al sendero es totalmente gratis.
 
-{% include image.html 
-    file="rutas/risaralda/quimbaya/Camping.jpg"
-    height="533" 
-    width="800"
-    caption="Casa de la CARDER"
+{% include image.html,
+    file:"rutas/risaralda/quimbaya/Camping.jpg",
+    height:"533",
+    width:"800",
+    caption:"Casa de la CARDER"
 %} 
 
 En esta casa se brinda los siguientes servicio de alojamiento en habitación compartida de $25.000 pesos por persona, además cuenta con cocina y utensilios (platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es cocinar no te preocupes 😃 también se venden desayunos a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial característica del ¡paisaje cultural cafetero!
@@ -59,16 +59,17 @@ En esta casa se brinda los siguientes servicio de alojamiento en habitación com
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
  
-{% include image.html 
-   file="rutas/risaralda/quimbaya/2017-05-21_10-02-20_o.jpg" 
-   caption="Mapa del sendero cacique nona"
+{% include image.html,
+   file:"rutas/risaralda/quimbaya/2017-05-21_10-02-20_o.jpg",
+   caption:"Mapa del sendero cacique nona"
 %} 
+
 Ahora ya estamos preparados para empezar el sendero.
 
-{% include iframe.html
-    type="custom"
-    mid="1I_o-CFZOUXBs8gCdaPFN4RYaa5E&hl=es-419"
-    caption="el camino"
+{% include iframe.html,
+    type:"custom",
+    mid:"1I_o-CFZOUXBs8gCdaPFN4RYaa5E&hl=es-419",
+    caption:"el camino"
 %}
 
 
@@ -77,12 +78,12 @@ En este punto se inicia el sendero del Cacique Nona el cual cruza la Reserva, de
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>. 
 
 
-{% include image.html 
-    file="rutas/risaralda/quimbaya/slide5.jpg" 
-    width="900"
-    height="675"
-    fullscreen="true"
-    caption="variadas plantas que puedes encontrar en el recorrido"
+{% include image.html,
+    file:"rutas/risaralda/quimbaya/slide5.jpg",
+    width:"900",
+    height:"675",
+    fullscreen:"true",
+    caption:"variadas plantas que puedes encontrar en el recorrido"
 %} 
 
 Al llegar a la parte mas alta de nuestro recorrido llegaremos a este hermoso mirador.
