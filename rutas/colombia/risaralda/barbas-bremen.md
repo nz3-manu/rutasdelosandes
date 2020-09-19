@@ -16,9 +16,9 @@ __Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy pa
 
 ## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
 
-{% include youtube.html
-    videoid="1anGUPtjsMs"
-    caption="barbas bremem"
+{% include youtube.html,
+    videoid:"1anGUPtjsMs"
+    caption:"barbas bremem"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -37,10 +37,10 @@ Ella recomienda llamarla con un dia de anticipación para tener los almuerzos li
 __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí, el valor ya lo hablan directamente con ella.__
 
 
-{% include iframe.html
-    type="custom"
-    mid="1BwwH1DiJlTsLsckTYKRpoZB0aFE&hl=es-419"
-    caption="Ruta desde el centro comercial victoria hasta Yarumal (casa de doña Manuela)"
+{% include iframe.html,
+    type:"custom"
+    mid:"1BwwH1DiJlTsLsckTYKRpoZB0aFE&hl=es-419"
+    caption:"Ruta desde el centro comercial victoria hasta Yarumal (casa de doña Manuela)"
 %}
     
 Una vez aquí ya estamos listos para empezar el camino por el sendero 😃.
@@ -50,10 +50,10 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitam
 ## Ruta en la Reserva Barbas Bremen 🚶🏼
 Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado __<a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo.html">"Qué llevar para hacer senderismo"</a>__, sabemos que te ayudará mucho para hacer esta ruta.
 
-{% include iframe.html
-    type="custom"
-    mid="1qEgE7goD6j21-U1hP2syrWail-M&hl=es-419"
-    caption="camino desde el sendero yarumal en parque barvas bremen pasando por la cascada alegrias, llegando a la vereda alegrias"
+{% include iframe.html,
+    type:"custom"
+    mid:"1qEgE7goD6j21-U1hP2syrWail-M&hl=es-419"
+    caption:"camino desde el sendero yarumal en parque barvas bremen pasando por la cascada alegrias, llegando a la vereda alegrias"
 %}
 
 Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos el recorrido en el Sendero Yarumal, a lo largo del trayecto podremos tomar baño en el río Barbas para los que quieran refrescarse un poco, además algunos puntos cuentan con casetas hechas en guadua donde podremos comer __por favor NO dejar basuras en estos sitios__, si contamos con suerte podremos escuchar los monos aulladores🐒.
