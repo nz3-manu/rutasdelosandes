@@ -17,34 +17,12 @@ Es  un lugar con gran belleza natural donde se funden montañas con páramos que
 * Cascadas.
 * Aguas termales en medio de la naturaleza(Gratis).
 * Hermosos paisajes de las montañas.
-<amp-carousel 
-    width="2500"
-    height="1406"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
-      
-      {% include image.html
-          file="rutas/caldas/gruta/slider1.jpg"
-          width="800"
-          height="450"
-      %}
-      {% include image.html
-          file="rutas/caldas/gruta/slider2.jpg"
-          width="800"
-          height="450"
-      %}
-      {% include image.html
-          file="rutas/caldas/gruta/slider3.jpg"
-          width="800"
-          height="450"
-      %}
-      {% include image.html
-          file="rutas/caldas/gruta/slider4.jpg"
-          width="800"
-          height="450"
-      %}
+
+<amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+      {% include image.html, file:"rutas/caldas/gruta/slider1.jpg", width:"800", height:"450"%}
+      {% include image.html, file:"rutas/caldas/gruta/slider2.jpg", width:"800", height:"450"%}
+      {% include image.html, file:"rutas/caldas/gruta/slider3.jpg", width:"800", height:"450"%}
+      {% include image.html, file:"rutas/caldas/gruta/slider4.jpg", width:"800", height:"450"%}
 </amp-carousel>
 
 ## ¿Cómo llegar a la La Gruta 🚌🚗🛵🚵🏻?
@@ -54,28 +32,28 @@ Al día siguiente nosotros llegamos al parque del municipio de Villamaría donde
 
 Si vas en 🚗 carro, moto 🛵 o bicicleta🚵🏻 puedes descargar nuestra ruta GPS y seguir la ruta desde la vereda Gallinazo perteneciente al municipio de Villamaría. 
 
-{% include iframe.html
-    type="custom"
-    mid="1Ylx0fdRLd-jmM6Y4sTHNV1X0Q_c&hl=es"
-    caption="Bus Villamaría vereda Gallinazo"
+{% include iframe.html,
+    type:"custom",
+    mid:"1Ylx0fdRLd-jmM6Y4sTHNV1X0Q_c&hl=es",
+    caption:"Bus Villamaría vereda Gallinazo"
 %}
 
 ## Ruta a la Gruta 🚶🏼🚵🏻
 Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 horas caminando, en total estaríamos caminando 24 kilómetros(ida y regreso)😋, el camino no es sendero además de esto te encontrarás con algunos carros 🚗, motos 🛵 y bicicletas 🚵🏻, lo que dificulta un poco la caminata 🚶🏼.
 
-{% include image.html
-  file="rutas/caldas/gruta/caminogruta.jpg"
-  caption="Foto del camino hasta La Gruta"
-  width="900"
-  height="600"
+{% include image.html,
+  file:"rutas/caldas/gruta/caminogruta.jpg",
+  caption:"Foto del camino hasta La Gruta",
+  width:"900",
+  height:"600"
 %}
 
 Mapa desde Gallinazo hasta La Gruta. 
 
-{% include iframe.html
-    type="custom"
-    mid="1hA2hozzfqMiN6c7EISa_eVrO-qY&hl=es"
-    caption="Ruta desde Gallinazo hasta La Gruta "
+{% include iframe.html,
+    type:"custom",
+    mid:"1hA2hozzfqMiN6c7EISa_eVrO-qY&hl=es",
+    caption:"Ruta desde Gallinazo hasta La Gruta "
 %}
 En el mapa que subimos pueden ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda. Estos 2 caminos los van a encontrar un poco después de pasar por el Eco-Hotel Camino del Ruiz.
 
@@ -85,20 +63,20 @@ __Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la 
 
 Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramos con esta cascada que está localizada a un costado izquierdo de  la carretera (en la ruta GPS se encuentra señalizado).
 
-{% include image.html
-  file="rutas/caldas/gruta/FotoCascada-1.jpg"
-  caption="Foto de la cascada de camino para La Gruta"
-  width="900"
-  height="671"
+{% include image.html,
+  file:"rutas/caldas/gruta/FotoCascada-1.jpg",
+  caption:"Foto de la cascada de camino para La Gruta",
+  width:"900",
+  height:"671"
 %}
 
 Al llegar a La Gruta, nos encontraremos con una casa que es propiedad de la Chec(Central Hidroeléctrica de Caldas) en la cual venden aguapanela ☕️ con queso valor aproximado  $4.000 pesos. En este lugar podemos dejar los carros,motos y bicicletas parqueados 🅿️🚘🚲 a un costado de la carretera. 
 
-{% include image.html
-  file="rutas/caldas/gruta/FotoCasaCercaGruta.jpg"
-  caption="Foto casa Cerca de La Gruta"
-  width="800"
-  height="600"
+{% include image.html,
+  file:"rutas/caldas/gruta/FotoCasaCercaGruta.jpg",
+  caption:"Foto casa Cerca de La Gruta",
+  width:"800",
+  height:"600"
 %}
 
 
@@ -118,11 +96,11 @@ __En épocas de lluvias evitar:__ Estar en La Gruta ya que se puede presentar de
 
 Continuamos nuestro recorrido aproximadamente 200 metros  y nos vamos a encontrar con Termales la Gruta. 
 
-{% include image.html
-  file="rutas/caldas/gruta/hostal-termales-Gruta.jpeg"
-  caption="Hostal Termales La Gruta"
-  width="800"
-  height="533"
+{% include image.html,
+  file:"rutas/caldas/gruta/hostal-termales-Gruta.jpeg",
+  caption:"Hostal Termales La Gruta",
+  width:"800",
+  height:"533"
 %}
 
 Allí vamos a encontrar: Arepa con queso y aguapanela☕️ a $4.000 pesos, zona de camping🏕 a $17.000 pesos por persona incluye; Entrada a piscina de aguas termales parqueadero 🅿️🚘 para moto, carro o bicicleta. Además de esto cuenta con fogón de leña que lo pueden usar para cocinar, la leña se vende por aparte tiene un costo aproximado de $5.000 pesos. No cuenta con habitación Privada. Para hacer reservación se debe llamar con 2 dias anticipacion si es puente festivo. Teléfono:<a href="tel:317 7238878">

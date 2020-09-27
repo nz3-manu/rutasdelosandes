@@ -32,10 +32,10 @@ Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
 ## ¿Qué encontrarás en el Nevado del Ruiz 🏞👀?
 
 {% include youtube.html
-    videoid="1fVmDl0oiFE"
-    width="480"
-    height="270"
-    caption="Como llegar al Nevado del Ruiz"
+    videoid:"1fVmDl0oiFE",
+    width:"480",
+    height:"270",
+    caption:"Como llegar al Nevado del Ruiz"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -119,29 +119,29 @@ El recorrido tiene una duración aproximadamente de 3 horas, algunas paradas que
 
 __Sector de Aguaserales:__ tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
 
-{% include image.html
-  file="rutas/caldas/ruiz/aguaserales.jpg"
-  caption="Foto de Aguaserales en el Nevado del ruiz"
-  width="1200"
-  height="674"
+{% include image.html,
+  file:"rutas/caldas/ruiz/aguaserales.jpg",
+  caption:"Foto de Aguaserales en el Nevado del ruiz",
+  width:"1200",
+  height:"674"
 %}
 
 __Sector de Arenales:__ en este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️🍞.
 
-{% include image.html
-   file="rutas/caldas/ruiz/arenales.jpg"
-  caption="Foto de Arenales en el Nevado del ruiz"
-  width="1200"
-  height="674"
+{% include image.html,
+   file:"rutas/caldas/ruiz/arenales.jpg",
+  caption:"Foto de Arenales en el Nevado del ruiz",
+  width:"1200",
+  height:"674"
 %}
 
 __Sector de tumbas:__ también llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indigenas que habitaban las zonas bajas.
 
-{% include image.html
-  file="rutas/caldas/ruiz/tumbas-ruiz.jpg"
-  caption="Foto de sector tumbas en el Nevado del ruiz"
-  width="1200"
-  height="674"
+{% include image.html,
+  file:"rutas/caldas/ruiz/tumbas-ruiz.jpg",
+  caption:"Foto de sector tumbas en el Nevado del ruiz",
+  width:"1200",
+  height:"674"
 %}
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.

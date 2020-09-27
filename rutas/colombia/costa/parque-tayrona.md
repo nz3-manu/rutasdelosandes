@@ -32,30 +32,10 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 * Pueblo de la tribu kogui.
 * Hermosas playas y avistamientos de corales.
 
-<amp-carousel 
-    width="800"
-    height="600"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
-
-    {% include image.html 
-        file="rutas/costa/tayrona/slider1.JPG" 
-        width="800"
-        height="550" 
-        
-    %} 
-     {% include image.html 
-        file="rutas/costa/tayrona/slider2.JPG" 
-        width="800"
-        height="550" 
-    %} 
-     {% include image.html 
-        file="rutas/costa/tayrona/slider3.JPG" 
-        width="800"
-        height="550"
-    %} 
+<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+    {% include image.html, file:"rutas/costa/tayrona/slider1.JPG", width:"800", height:"550" %} 
+    {% include image.html, file:"rutas/costa/tayrona/slider2.JPG", width:"800", height:"550" %} 
+    {% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar al Parque Tayrona?
@@ -100,10 +80,10 @@ Una vez comprado el ingreso para el Parque Tayrona 🎟 ya estamos listos para e
 
 Este es todo el trayecto que realizaremos en el Parque Tayrona: ruta entrando por el Zaino, pasando por Cabo San Juan, pueblito kogui y por ultimo saliendo por calabazo.
 
-{% include iframe.html
-    type="custom"
-    mid="13OpqCoxV-YvPznmN79HLFTSe7FroJhxS&hl=es"
-    caption="Ruta en el Parque Tayrona"
+{% include iframe.html,
+    type:"custom",
+    mid:"13OpqCoxV-YvPznmN79HLFTSe7FroJhxS&hl=es",
+    caption:"Ruta en el Parque Tayrona"
 %}
 
 
@@ -136,11 +116,11 @@ Después de una noche maravillosa escuchando el sonido del mar 🌊, nos levanta
 
 Al llegar al Pueblo kogui encontramos una pequeña tienda, en la cual venden gaseosas y algunas cosas de dulce. En la tienda nos atendió un Kogui, y para nuestra fortuna algunos hablan español.
 
-{% include image.html
-file="rutas/costa/tayrona/pueblito.JPG"
-caption="Pueblo kogui en el Tayrona"
-width="900"
-height="507"
+{% include image.html,
+file:"rutas/costa/tayrona/pueblito.JPG",
+caption:"Pueblo kogui en el Tayrona",
+width:"900",
+height:"507"
 %}
 
 Una vez de haber visto las hermosas playas,escuchar el hermoso sonido de las ola, pasar por bosques y ver el hermoso pueblo kogui ya era tiempo de regresar de nuevo a casa 🏠, así que continuamos nuestro camino hasta la segunda entrada del Parque Tayrona llamado Calabazo, donde podremos tomar transporte para Santa Marta.

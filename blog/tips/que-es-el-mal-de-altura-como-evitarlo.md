@@ -30,11 +30,11 @@ Te estarás preguntando si el oxígeno permanece constante, __¿porque cuando vo
 
 Solucionemos esta pregunta con la siguiente imagen.
 
-{% include image.html
- file="/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/PresionAtmosferica.png"
- caption="Gráfica mal de altura"
- width="2048"
- height="1102"
+{% include image.html,
+ file:"/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/PresionAtmosferica.png",
+ caption:"Gráfica mal de altura",
+ width:"2048",
+ height:"1102"
 %}
 
 En esta imagen podemos apreciar que a mayor altura  hay una disminución de la presión atmosférica, lo que ocasiona que las partículas oxígeno presentes en la atmósfera se dispersen, así que al tomar una bocanada de aire en un nevado (o un lugar con considerable altitud) recibirás menos oxígeno  que si tomaras la misma bocanada de aire en la costa, esto es debido a la presión atmosférica, una vez explicado esto ahora si veamos que es el mal de altura y como evitarlo.
@@ -87,11 +87,11 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Recuerda l
 
 En la siguiente gráfica te resumimos la recomendaciones que hacen algunos expertos en este tema.
 
-{% include image.html
- file="/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontana.png"
- caption="Gráfica ascenso a montaña"
- width="1552"
- height="950"
+{% include image.html,
+ file:"/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontana.png",
+ caption:"Gráfica ascenso a montaña",
+ width:"1552",
+ height:"950"
 %}
 
 Se recomienda dormir de 2 a 3 días en una altura entre 2.000-2.500 metros de altura para aclimatar nuestro cuerpo, Después de los 2.000 metros hasta los 5.000 metros se recomienda subir un máximo de 340-400 metros por día, después de 5.000 metros subir un máximo de 200-250 metros por día y después de 6.000 metros  subir un máximo de 150-200 metros por día.

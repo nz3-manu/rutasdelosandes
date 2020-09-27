@@ -25,10 +25,10 @@ Es esa que va despeinada y que tiene el pelo un poco quemado por el sol. Su piel
 __2º Razon por las cual no salir con una chica que viaje.__
   __No te dejará tranquilo hasta que no la lleves a ese lugar que vio en la pagina de rutas de los andes 😅.__ No se irá de fiesta a las mejores discotecas y nunca pagará más de $300.000 pesos por un concierto, porque sabe que un fin de semana de fiesta equivale a una semana mucho más emocionante en cualquier lugar lejano ⛰.
 
-  {% include image.html
- file="/blog/senderismo/nomujerviajera/no-salgas-con-viajera-2.jpg"
- width="800"
- height="669"
+{% include image.html,
+ file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-2.jpg",
+ width:"800",
+ height:"669"
 %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @tamyyfranco </a> </span>__
 
@@ -38,10 +38,10 @@ __3º Razon por las cual no salir con una chica que viaje.__
 __4º Razon por las cual no salir con una chica que viaje.__
 No salgas con una chica que viaje, porque ha elegido una vida de incertidumbre. No tiene un plan seguro ni una dirección permanente. Se deja llevar, y sigue el instinto de su corazón. Baila al ritmo de su propia música 🎶. No lleva reloj, sus días los marca el sol y la luna. Cuando escucha el llamado de la montaña, la vida se detiene y ella deja todo lo demás para otro momento, pero __sabe que lo más importante en la vida es seguir avanzando y disfrutar del camino.__
 
-{% include image.html
- file="/blog/senderismo/nomujerviajera/no-salgas-con-viajera-4.jpg"
- width="798"
- height="709"
+{% include image.html,
+ file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-4.jpg",
+ width:"798",
+ height:"709"
 %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487 </a> </span>__
 
@@ -51,10 +51,10 @@ __5º Razon por las cual no salir con una chica que viaje.__
 __6º Razon por las cual no salir con una chica que viaje.__
  Es recursiva, sabe cómo armar una tienda de camping y cómo poner un tornillo sin ayuda. Cocina bien y no necesita que tú le pagues la cena, vive el presente con ajetreo. Es activa, que no te quepa duda de que no te aburrirás con ella porque siempre tiene algo en mente para hacer. La palabra “rutina” no entra en su vocabulario! 
 
-{% include image.html
- file="/blog/senderismo/nomujerviajera/no-salgas-con-viajera-6.jpg"
- width="800"
- height="710"
+{% include image.html,
+ file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-6.jpg",
+ width:"800",
+ height:"710"
 %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @catalina_la_oo </a> </span>__
 

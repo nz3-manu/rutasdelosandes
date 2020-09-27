@@ -15,11 +15,11 @@ La arriería formó parte importante del desarrollo económico de nuestro país 
 Todos estos expedicionarios debieron cruzar; Neira, Pueblo Rico, El guineo, la Cuchilla del Salado y finalmente el cementerio viejo.
 
 ## ¿Qué encontrarás 🏞👀?
-{% include youtube.html
-    videoid="fOQ3_a_8EpM"
-    width="480"
-    height="270"
-    caption="Cascada la cristalina"
+{% include youtube.html,
+    videoid:"fOQ3_a_8EpM",
+    width:"480",
+    height:"270",
+    caption:"Cascada la cristalina"
 %}
 
 
@@ -32,30 +32,30 @@ La última parada del bus es un poco más allá de la  vereda que se llama la Cu
 
 ## El camino🚶🏼🐕
 
-{% include iframe.html
-   type="custom"
-   mid="19__hrPNn3z6ZXwARkxlYCkwoJRpe9LZ4&hl=es"
-   caption="Ruta de la Cuchilla del salado hasta la cascada"
+{% include iframe.html,
+   type:"custom",
+   mid:"19__hrPNn3z6ZXwARkxlYCkwoJRpe9LZ4&hl=es",
+   caption:"Ruta de la Cuchilla del salado hasta la cascada"
 %}
 
 Desde donde nos dejó el bus, seguimos nuestro camino apreciando los hermosos paisajes llenos de montañas cafeteras que nos brindo esta hermosa región.
 
-{% include image.html
-file="rutas/caldas/luna/montaña.jpg"
-caption="Foto de las montañas"
-width="900"
-height="508"
+{% include image.html,
+file:"rutas/caldas/luna/montaña.jpg",
+caption:"Foto de las montañas",
+width:"900",
+height:"508"
 %}
 
 Después de ver estos hermosos paisajes seguimos con un descenso de aproximadamente 1 hora hasta bajar a nivel del río Guacaica.
 
 Encontraremos 2 caminos en el cual debimos seguir  a la derecha en dirección a Neira Caldas, mas adelante pasamos por un pequeño puente que cruza el río Guacaica para llegar a la vereda El Guineo, a partir de aquí estaremos aproximadamente a  90 minutos para llegar a la Cascada llamada la cristalina o la estufa.
 
-{% include image.html
-file="rutas/caldas/luna/rioGuacaica.jpg"
-caption="río Guacaica"
-width="900"
-height="505"
+{% include image.html,
+file:"rutas/caldas/luna/rioGuacaica.jpg",
+caption:"río Guacaica",
+width:"900",
+height:"505"
 %}
 
 __Nota:__ Para llegar a la Cascada tuvimos que desviarnos de la conocida Ruta de los arrieros que sube a la Vereda Pueblo Rico. 
@@ -68,11 +68,11 @@ Lo aconsejable es ir con alguien que conozca la ruta, ya que hay muchos caminos 
 
 Después de  40 minutos caminando (desde que pasamos la vereda el guineo), nos encontramos con este puente.
 
-{% include image.html
-file="rutas/caldas/luna/puenteGuadua.jpg"
-caption="Puente de Guadua"
-width="900"
-height="585"
+{% include image.html,
+file:"rutas/caldas/luna/puenteGuadua.jpg",
+caption:"Puente de Guadua",
+width:"900",
+height:"585"
 %}
 
 Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 minutos, __se recomienda usar tenis de muy buen agarre ya que en el camino se encuentran con piedras que son muy resbalosas.__

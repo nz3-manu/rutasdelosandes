@@ -16,11 +16,11 @@ __Estudio científico comprueba, a través de monitoreo de la actividad cerebral
 El exceso de trabajo, el estrés y el ruido son algunos de los factores que causan fatiga cerebral  y a su vez provocan falta de concentración.                              
 En Escocia se realizó un estudio que sugiere que __visitar áreas verdes y parques puede relajar nuestra mente.__ Caminar en un lugar lleno de árboles tiene un efecto calmante y no requiere atención mental dirigida por lo que pasar tiempo en estos lugares “resetea” el cerebro.
 
-{% include image.html
- file="/blog/salud/alimentamente/mariposa.jpeg"
- caption="Beneficios caminar en la montaña foto"
- width="900"
- height="600"
+{% include image.html,
+ file:"/blog/salud/alimentamente/mariposa.jpeg",
+ caption:"Beneficios caminar en la montaña foto",
+ width:"900",
+ height:"600"
 %}
 
 Estudios han demostrado que quienes viven cerca de parques y otras concentraciones de árboles tienen niveles más bajos de hidrocortisona –hormona relacionada con el estrés–  que los habitantes de edificios rodeados sólo por concreto; y que los niños con déficit de atención suelen tener mejores resultados en exámenes cognitivos después de haber caminado por zonas arbóreas.
@@ -37,11 +37,11 @@ Científicos observaron la actividad cerebral de voluntarios a quienes se les pu
 
 No se había podido examinar la actividad cerebral de las personas mientras caminaban por parques o por zonas agitadas. Pero en el último estudio, publicado en The British Journal of Sports Medicine, los investigadores de la Universidad Heriot-Watt de Edimburgo pusieron electrodos en el cuero cabelludo de los voluntarios, conectados a lap tops que cargaban ellos mismos y los llevaron a caminar la misma distancia en un parque, en una calle con construcciones antiguas y tráfico ligero y por último en un distrito comercial con un tráfico pesado y edificios de concreto.
 
-{% include image.html
- file="/blog/salud/alimentamente/naturaleza.jpeg"
- caption="Beneficios caminar en la montaña"
- width="800"
- height="533"
+{% include image.html,
+ file:"/blog/salud/alimentamente/naturaleza.jpeg",
+ caption:"Beneficios caminar en la montaña",
+ width:"800",
+ height:"533"
 %}
 
 Los resultados del estudio con base en los patrones de ondas cerebrales registrados en las computadoras de cada voluntario, revelaron que éstos tuvieron una actividad cerebral calmada durante su caminata por la zona arbórea.

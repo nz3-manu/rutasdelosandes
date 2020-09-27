@@ -16,11 +16,11 @@ Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quind�
 
 ## ¿Qué encontrarás en los Chorros San Rafael 🏞👀?
 
-{% include youtube.html
-    videoid="eovLJqfrKhc"
-    width="480"
-    height="270"
-    caption="Chorros San Rafael"
+{% include youtube.html,
+    videoid:"eovLJqfrKhc",
+    width:"480",
+    height:"270",
+    caption:"Chorros San Rafael"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -35,10 +35,10 @@ __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que much
 
 Desde la plaza de mercado hasta los chorros San Rafael son aproximadamente 5.5 kilómetros, de los cuales 3 kilómetros son para salir de Calarcá por el antiguo matadero viejo (vía puente rojo). 
 
-{% include iframe.html
-    type="custom"
-    mid="1eF1polz1VXZxAMlqM5HrvdxcjmSqDV9v&hl=es"
-    caption="Calarcá-Chorros San Rafael"
+{% include iframe.html,
+    type:"custom",
+    mid:"1eF1polz1VXZxAMlqM5HrvdxcjmSqDV9v&hl=es",
+    caption:"Calarcá-Chorros San Rafael"
 %}
 
 En nuestro recorrido tuvimos que cruzar la vía la línea, la cual es transitada por camiones que pasan a gran velocidad  🚛. Al cruzar llegamos cerca del barrio manantial, alguien se acerco y nos sugirió que guardaramos las cámaras 😥 por precaución, un poco mas adelante encontramos 2 vias, tomamos la del lado izquierdo (ver mapa) y continuamos por una carretera. Con cada paso quedabamos dejábamos atrás el paisaje urbano 🌆, y empezamos a ver algunas fincas 🐮🍃.
@@ -47,11 +47,11 @@ __Nota:__ _En una parte del trayecto vimos que la carretera había desaparecido 
 
 Seguimos caminando por la carretera, después nos internamos a un sendero donde se podían ver los ductos de agua que alimentan al municipio, esta era la señal de que nos estábamos acercando cada vez más a nuestro destino 💦⛰😍.
 
-{% include image.html
-file="rutas/quindio/chorrossanrafael/featured.jpg"
-caption="Chorros San Rafael"
-width="1500"
-height="844"
+{% include image.html,
+file:"rutas/quindio/chorrossanrafael/featured.jpg",
+caption:"Chorros San Rafael",
+width:"1500",
+height:"844"
 %}
 
 ## ¿Cómo regresar de los Chorros San Rafael 🚌🏡?

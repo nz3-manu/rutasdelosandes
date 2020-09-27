@@ -20,11 +20,11 @@ Está  zona se caracteriza por ser uno de los lugares donde más llueve de colom
 
 ## ¿Qué encontrarás en Laguna Del Otún 🏞👀?
 
-{% include youtube.html
-    videoid="2Nt7mrwUT80"
-    width="480"
-    height="270"
-    caption="Como llegar a la Laguna del Otún"
+{% include youtube.html,
+    videoid:"2Nt7mrwUT80",
+    width:"480",
+    height:"270",
+    caption:"Como llegar a la Laguna del Otún"
 %}
 
 
@@ -45,10 +45,10 @@ Horarios de salida:
 
 Desde Santa Cecilia hasta las Brisas de Gito son aproximadamente 10 minutos en mototaxi este te cobrará en promedio $4.000 Pesos por persona. 
 
-{% include iframe.html
-    type="custom"
-    mid="1DaufJqnz7-GUqLZyZ1-GhjDcpAAJajua&hl=es"
-    caption="Pueblo rico a rio en Santa Cecilia"
+{% include iframe.html,
+    type:"custom",
+    mid:"1DaufJqnz7-GUqLZyZ1-GhjDcpAAJajua&hl=es",
+    caption:"Pueblo rico a rio en Santa Cecilia"
 %}
 
 

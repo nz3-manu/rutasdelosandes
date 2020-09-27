@@ -14,11 +14,11 @@ En esta peña se encuentra una caverna de aproximadamente de 10 metros de profun
 
 ## ¿Qué encontrarás en Peñas Blancas 🏞👀?
 
-{% include youtube.html
-    videoid="g_wVae2-JxA"
-    width="480"
-    height="270"
-    caption="Peñas Blancas"
+{% include youtube.html,
+    videoid:"g_wVae2-JxA",
+    width:"480",
+    height:"270",
+    caption:"Peñas Blancas"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -36,10 +36,10 @@ Si vas en carro 🚙 o moto 🛵 puedes dejarlo estacionado en la base de la Pe�
 
 __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que la carretera es algo difícil para un automóvil._
 
-{% include iframe.html
-    type="custom"
-    mid="1tsVO-Mtt6J78AQCq44H9qi9AQaw&hl=es"
-    caption="Transporte hasta Peñas Blancas "
+{% include iframe.html,
+    type:"custom",
+    mid:"1tsVO-Mtt6J78AQCq44H9qi9AQaw&hl=es",
+    caption:"Transporte hasta Peñas Blancas "
 %}
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
@@ -49,12 +49,12 @@ Desde donde nos deja el jeep hasta la entrada 🛣 es aproximadamente 40 minutos
 
 _Este lugar no cuenta con seguridad 👮 para carros ni motos, si lo dejas aquí es bajo su responsabilidad._
 
-{% include image.html 
-   file="rutas/quindio/blancas/primeraEntrada.jpg" 
-   caption="Primera entrada a Peñas Blancas"
-   width="800"
-   height="600"
-   zoom="13"
+{% include image.html,
+   file:"rutas/quindio/blancas/primeraEntrada.jpg",
+   caption:"Primera entrada a Peñas Blancas",
+   width:"800",
+   height:"600",
+   zoom:"13"
 %} 
 Una vez en la primera entrada empezamos nuestra caminata hasta El Ecoparque Peñas Blancas(allí se encuentra la entrada al sendero).
 
@@ -68,10 +68,10 @@ La ruta del sendero es aproximadamente 6 horas (3 horas subiendo y 3 horas bajan
 
 Ruta desde la vereda la Virgina hasta la cima de Peñas Blancas.
 
-{% include iframe.html
-    type="custom"
-    mid="1L6jE1fQuvo3Ftgs51aRDiHPcsAE&hl=es"
-    caption="Desde vereda la Virginia hasta cima Peñas Blancas"
+{% include iframe.html,
+    type:"custom",
+    mid:"1L6jE1fQuvo3Ftgs51aRDiHPcsAE&hl=es",
+    caption:"Desde vereda la Virginia hasta cima Peñas Blancas"
 %}
 
 Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del departemanto Quindío.

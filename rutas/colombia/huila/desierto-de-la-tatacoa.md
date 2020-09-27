@@ -27,33 +27,11 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 * Caminata en el desierto de la Tatacoa.
 * Beber jugo de cactus.
 
-<amp-carousel 
-    width="800"
-    height="600"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
-    {% include image.html 
-        file="rutas/huila/desiertoTatacoa/slider1.jpg" 
-        width="800"
-        height="600" 
-    %} 
-     {% include image.html 
-        file="rutas/huila/desiertoTatacoa/slider12.jpg" 
-        width="800"
-        height="600" 
-    %} 
-     {% include image.html 
-        file="rutas/huila/desiertoTatacoa/slider2.jpg" 
-        width="800"
-        height="600" 
-    %} 
-       {% include image.html 
-        file="rutas/huila/desiertoTatacoa/slider3.JPG" 
-        width="800"
-        height="600" 
-    %} 
+<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %} 
+    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %} 
+    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %} 
+    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?
@@ -70,10 +48,10 @@ Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproxi
 Una vez en Neiva tuvimos que tomar un bus con destino al pueblo de Villavieja, la duración del trayecto es de 90 minutos, el valor del pasaje es de $7.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
 
 __Te  mostramos el mapa del recorrido de Neiva a Villavieja por si vas en moto o carro:__
-{% include iframe.html
-    type="custom"
-    mid="17_j3onCljRXLzCgYw_cdZNus-zYvlZzU&hl=es"
-    caption="Mapa de Neiva a Villavieja"
+{% include iframe.html,
+    type:"custom",
+    mid:"17_j3onCljRXLzCgYw_cdZNus-zYvlZzU&hl=es",
+    caption:"Mapa de Neiva a Villavieja"
 %} 
 
 Una vez en Villavieja aprovechamos para visitar el __museo paleontológico 🏛__,  los horarios de funcionamiento son de lunes a domingo de: 8am a 12:00 pm y 2:00 pm a 6:00 pm. Valor de la entrada es $3.000 pesos.
@@ -89,10 +67,10 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda ll
 
 Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los hospedajes disponibles.
 
-{% include iframe.html
-    type="custom"
-    mid="1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es"
-    caption="Mapa desierto de la Tatacoa "
+{% include iframe.html,
+    type:"custom",
+    mid:"1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es",
+    caption:"Mapa desierto de la Tatacoa "
 %}
 
 ### DIA #1
@@ -149,22 +127,22 @@ __Por favor confirmar disponibilidad, teléfono:<a href="tel:3202634216"> 320263
 Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $10.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm  hasta las 9pm.
 
 
-{% include image.html 
-    file="rutas/huila/desiertoTatacoa/Observatorio.jpg"
-    height="900" 
-    width="1200"
-    caption="Observatorio"
+{% include image.html,
+    file:"rutas/huila/desiertoTatacoa/Observatorio.jpg",
+    height:"900", 
+    width:"1200",
+    caption:"Observatorio"
 %}
 ### DIA #2
 Al siguiente dia salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $5.000 pesos. También alquilan caballos 🐴, valor 1 hora por $10.000 pesos.
 
 __Todos los precios mencionados anteriormente pueden variar en temporada alta.__
 
-{% include image.html 
-    file="rutas/huila/desiertoTatacoa/thumbnail.jpg"
-    height="555" 
-    width="740"
-    caption="Region del desierto de la Tatacoa rojizo “Cuzco”"
+{% include image.html, 
+    file:"rutas/huila/desiertoTatacoa/thumbnail.jpg",
+    height:"555", 
+    width:"740",
+    caption:"Region del desierto de la Tatacoa rojizo “Cuzco”"
 %}
 
 Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más  refrescante para quitar la sed que tomar  __“jugo de cactus🍹😋”__; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.

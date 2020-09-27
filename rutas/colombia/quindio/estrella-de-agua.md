@@ -23,29 +23,10 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
 * Nacimiento del Río Quindío.
 * Vista sin igual de las palmas de cera.
 
-<amp-carousel 
-    width="2500"
-    height="1406"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
-
-       {% include image.html
-          file="rutas/quindio/estrellaAgua/slider1.jpg"
-          width="800"
-          height="615"
-       %}
-       {% include image.html
-          file="rutas/quindio/estrellaAgua/slider2.jpg"
-          width="800"
-          height="615"
-       %}
-       {% include image.html
-          file="rutas/quindio/estrellaAgua/slider3.jpg"
-          width="800"
-          height="750"
-       %}   
+<amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+       {% include image.html, file:"rutas/quindio/estrellaAgua/slider1.jpg", width:"800", height:"615" %}
+       {% include image.html, file:"rutas/quindio/estrellaAgua/slider2.jpg", width:"800", height:"615" %}
+       {% include image.html, file:"rutas/quindio/estrellaAgua/slider3.jpg", width:"800", height:"750"%}   
 </amp-carousel>
 
 ## ¿Cómo llegar a Estrella de Agua 🛣🚌🚗🛵?
@@ -65,10 +46,10 @@ Desde el valle del cocora hasta la Estrella de Agua hay alrededor de 9 kilómetr
 __Recomendación:__ Para hacer este recorrido se aconseja estar como mínimo a las 6 am para disfrutarlo y no estar con prisa 🚌💨💨🏃.
 
 
-{% include iframe.html
-   type="custom"
-   mid="17WSX9ZzdjvSvVq6naVi2SGaX0LNDkf1Y&hl=es"
-   caption="Mapa Valle del Cocora Acaime"
+{% include iframe.html,
+   type:"custom",
+   mid:"17WSX9ZzdjvSvVq6naVi2SGaX0LNDkf1Y&hl=es",
+   caption:"Mapa Valle del Cocora Acaime"
 %}
 
 
@@ -76,11 +57,11 @@ El camino hasta Estrella de Agua se encuentra muy señalizado. Pasaremos por la 
 
 Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
-{% include image.html
- file="rutas/quindio/estrellaAgua/puente.jpg"
- caption="Puente colante en salento"
- width="900"
- height="692"
+{% include image.html,
+ file:"rutas/quindio/estrellaAgua/puente.jpg",
+ caption:"Puente colante en salento",
+ width:"900",
+ height:"692"
 %}
 
 Cerca de 4 kilómetros  nos vamos a encontrar con dos caminos en el mapa que pusimos anteriormente lo podremos ver con el signo de advertencia (⚠️) donde se ven 2 caminos:
@@ -90,11 +71,11 @@ __Camino de la izquierda:__ Va hacia el mirador de las palmas recorrido que dura
 __Camino de la derecha:__ Va hasta la casa de los colibríes este es el que debemos seguir.
 Al llegar a la Casa de los Colibríes  tenemos que pagar  $5.000 Pesos de entrada y nos obsequiaran una bebida fría o aguapanela con queso.
 
-{% include image.html
- file="rutas/quindio/estrellaAgua/casadecolibries.jpg"
- caption="Casa de los colibríes"
- width="900"
- height="692"
+{% include image.html,
+ file:"rutas/quindio/estrellaAgua/casadecolibries.jpg",
+ caption:"Casa de los colibríes",
+ width:"900",
+ height:"692"
 %}
 
 En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pesos. Numero de telefono <a href="tel:3104240360">
@@ -106,11 +87,11 @@ Al llegar a Estrella de Agua nos encontraremos a 3100 msnm.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
-{% include image.html
- file="rutas/quindio/estrellaAgua/estrellaAgua.jpg"
- caption="Estrella de Agua"
- width="900"
- height="505"
+{% include image.html,
+ file:"rutas/quindio/estrellaAgua/estrellaAgua.jpg",
+ caption:"Estrella de Agua",
+ width:"900",
+ height:"505"
 %}
 
 Es también conocida como la estación biológica estrella de agua este lugar es el punto de entrada  para los páramos; de frontino 2.8 km y romerales 2.5 km. además de esto es donde nace el río Quindío.

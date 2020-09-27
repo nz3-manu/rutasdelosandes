@@ -21,24 +21,9 @@ La Finca Primavera está ubicada en la región montañosa de la cordillera centr
 * Frailejones.
 * Vista nevado del tolima y paramillo del Quindio. 
 
-<amp-carousel 
-    width="2048"
-    height="1366"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
-
-    {% include image.html 
-        file="rutas/quindio/primaveraTolima/slider1.JPG" 
-        width="900"
-        height="506"
-    %} 
-    {% include image.html 
-        file="rutas/quindio/primaveraTolima/slider2.jpg" 
-        width="900"
-        height="506"
-    %} 
+<amp-carousel width="2048" height="1366" layout="responsive" type="slides" autoplay delay="2000">
+    {% include image.html, file:"rutas/quindio/primaveraTolima/slider1.JPG", width:"900", height:"506" %} 
+    {% include image.html, file:"rutas/quindio/primaveraTolima/slider2.jpg", width:"900", height:"506" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar 🛣🚌?
@@ -61,10 +46,10 @@ _Para contratar este servicio se necesita llamar con 2 dias de anticipación, ya
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
-{% include iframe.html
-   type="custom"
-   mid="190oHo4wKADfGPQ4Tlk7HbFp2ewdNzChu&hl=es"
-   caption="Ruta Valle del Cocora Primavera"
+{% include iframe.html,
+   type:"custom",
+   mid:"190oHo4wKADfGPQ4Tlk7HbFp2ewdNzChu&hl=es",
+   caption:"Ruta Valle del Cocora Primavera"
 %}
   
 
@@ -77,32 +62,32 @@ Ver ruta Estrella de Agua <a href="https://rutasdelosandes.com/colombia/quindio/
 
 En Estrella de agua ya no se presta el servicio de camping, ya que en años anteriores unas personas que acampaban cerca de esta zona dejo una fogata prendida, lo que ocasionó un incendio de gran magnitud. Después de esto Estrella de Agua paso de ser una zona de camping a un puesto de control de la CRQ (Corporacion Autonoma Regional Del Quindio).
 
-{% include image.html
- file="rutas/quindio/primaveraTolima/estrellaAgua.jpg"
- caption="Estrella de Agua"
- width="900"
- height="505"
+{% include image.html,
+ file:"rutas/quindio/primaveraTolima/estrellaAgua.jpg",
+ caption:"Estrella de Agua",
+ width:"900",
+ height:"505"
 %}
 
 __Recomendación:__ _Si no se cuenta con la experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino(guia). Te recomendamos solo hacer la ruta hasta este punto (Estrella de agua), ya que a partir de aquí el ascenso es con una inclinación de 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana que es la  finca Primavera._ 
 
 Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 2.5 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramos que se funden con la vegetación  del bosque 😍🏔.
 
-{% include image.html
- file="rutas/quindio/primaveraTolima/valleDeLosPerdidos.JPG"
- caption="Foto paramo(valle de los perdidos)"
- width="900"
- height="506"
+{% include image.html,
+ file:"rutas/quindio/primaveraTolima/valleDeLosPerdidos.JPG",
+ caption:"Foto paramo(valle de los perdidos)",
+ width:"900",
+ height:"506"
 %}
 
 El camino hasta la finca primavera se encuentra señalizado. Tendremos que pasar por el valle de los perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
 Después de 3 horas caminando por este valle nos encontraremos con la finca primavera. 
 
-{% include image.html
- file="rutas/quindio/primaveraTolima/FincaPrimavera.jpg"
- caption="Foto Finca Primavera"
- width="900"
- height="506"
+{% include image.html,
+ file:"rutas/quindio/primaveraTolima/FincaPrimavera.jpg",
+ caption:"Foto Finca Primavera",
+ width:"900",
+ height:"506"
 %}
 
 ### Finca Primavera

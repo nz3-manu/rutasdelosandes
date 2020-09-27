@@ -16,11 +16,11 @@ Al llegar al parque se puede ver un gigantesco árbol, un Samán que cubre de so
 
 ## ¿Qué encontrarás 🏞👀?
 
-  {% include youtube.html
-    videoid="TrnK0AXwhB4"
-    width="480"
-    height="270"
-    caption="Cascada en Alcala"
+  {% include youtube.html,
+    videoid:"TrnK0AXwhB4",
+    width:"480",
+    height:"270",
+    caption:"Cascada en Alcala"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
@@ -42,10 +42,10 @@ El bus nos dejó en la vía Alcalá-Cartago 🛣, comenzamos a caminar por una c
 Aproximadamente a un 1 kilómetro nos encontramos con una portada que estaba cerrada; tuvimos que pasar por encima (algunas veces el dueño de esta finca sale a cobra 2 mil pesos por permitir el paso), los que iban en moto las dejaron en ese lugar, si vas a dejarla allí 🛵 ten en cuenta que en ese lugar NO HAY ALGUIEN QUE LAS CUIDE.
 
 
-{% include iframe.html
-   type="custom"
-   mid="1RqYRky2G4cL1J3K76FGAaIk583K_ZM0Z&hl=es"
-   caption="Ruta Alcalá hasta cascada"
+{% include iframe.html,
+   type:"custom",
+   mid:"1RqYRky2G4cL1J3K76FGAaIk583K_ZM0Z&hl=es",
+   caption:"Ruta Alcalá hasta cascada"
 %}
 
 Después de una corta y agradable caminata llegamos por fin a nuestro destino

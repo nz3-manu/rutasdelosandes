@@ -21,39 +21,13 @@ El nombre de la reserva La Patasola tiene una historia particular que es contada
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa antigua rodeada de misticismo y leyendas urbanas.
 
-<amp-carousel 
-    width="2048"
-    height="1366"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
+<amp-carousel  width="2048" height="1366" layout="responsive" type="slides" autoplay delay="2000">
 
-    {% include image.html 
-        file="rutas/quindio/patasola/slider1.jpg" 
-        width="2500"
-        height="1407"
-    %} 
-    {% include image.html 
-        file="rutas/quindio/patasola/slider2.jpg" 
-        width="2500"
-        height="1406"
-    %} 
-    {% include image.html 
-        file="rutas/quindio/patasola/slider3.jpg" 
-        width="2500"
-        height="1407"
-    %} 
-     {% include image.html 
-        file="rutas/quindio/patasola/slider3.jpg" 
-        width="2500"
-        height="1407"
-    %} 
-    {% include image.html 
-        file="rutas/quindio/patasola/slider4.jpg" 
-        width="2500"
-        height="1407"
-    %} 
+    {% include image.html, file:"rutas/quindio/patasola/slider1.jpg", width:"2500", height:"1407" %} 
+    {% include image.html, file:"rutas/quindio/patasola/slider2.jpg", width:"2500", height:"1406" %} 
+    {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
+    {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
+    {% include image.html, file:"rutas/quindio/patasola/slider4.jpg", width:"2500", height:"1407" %} 
 
 </amp-carousel>
 
@@ -66,10 +40,10 @@ __Recomendación:__ realizar reservación con previa anticipación, nosotros las
 
 una vez aquí estamos listos para empezar nuestro recorrido a la Reserva Natural la Patasola 👻.
 
-{% include iframe.html
-    type="custom"
-    mid="1uw-5XtUfFSiTQNv69fSeX5CrZa8&hl=es"
-    caption="Mapa Ruta Pereira-Boquia"
+{% include iframe.html,
+    type:"custom",
+    mid:"1uw-5XtUfFSiTQNv69fSeX5CrZa8&hl=es",
+    caption:"Mapa Ruta Pereira-Boquia"
 %}
 
 ## El camino 🚙🛵🚴🏼🚶 
@@ -80,29 +54,29 @@ Esta reserva no cuenta con zona de camping 🚫🏕 .
 Desde la Vereda Boquia a la Reserva Natural la Patasola hay 10 kilómetros el trayecto es todo en subida, encontrarán alquiler de bicicleta🚲 a $8.000 pesos la hora o alquiler de caballo🐴 $20.000 pesos la hora.  
 Una vez dicho esto podremos empezar nuestro recorrido. La ruta que vamos a seguir es la siguiente:
 
-{% include iframe.html
-    type="custom"
-    mid="1wfbhsCsvMYlPCfdhpV1zEtqxG2w&hl=es"
-    caption="Mapa Ruta Boquia-Patasola"
+{% include iframe.html,
+    type:"custom",
+    mid:"1wfbhsCsvMYlPCfdhpV1zEtqxG2w&hl=es",
+    caption:"Mapa Ruta Boquia-Patasola"
 %}
 
 ⚠️ __Advertencia:__ A 1 kilómetro aproximadamente nos vamos a encontrar con esta entrada, la cual estará cerrada los domingos para el ingreso a carros, las motos podrán ingresar por un costado de esta entrada. Esto se hizo con el fin de evitar accidentes con los ciclistas🚴🏼 que transitan este dia.
 
 
-{% include image.html
- file="rutas/quindio/patasola/entradaDomingo.jpg"
- caption="Entrada que cierran los domingos"
- width="2145"
- height="1430"
+{% include image.html,
+ file:"rutas/quindio/patasola/entradaDomingo.jpg",
+ caption:"Entrada que cierran los domingos",
+ width:"2145",
+ height:"1430"
 %}
 
 Al pasar la entrada entraremos a los terrenos que pertenecen a Carton Colombia. Aproximadamente a 8 kilómetros llegaremos a este letrero.
 
-{% include image.html
- file="rutas/quindio/patasola/entradaReserva.jpg"
- caption="Letrero entrada casa del guardabosques y sendero"
- width="2124"
- height="1416"
+{% include image.html,
+ file:"rutas/quindio/patasola/entradaReserva.jpg",
+ caption:"Letrero entrada casa del guardabosques y sendero",
+ width:"2124",
+ height:"1416"
 %}
 
 __Nos encontraremos con 2 caminos:__
@@ -111,11 +85,11 @@ _Primer camino:_ Uno a mano izquierda es hacia la casa del guardabosques que se 
 
 _Segundo camino:_ Se encuentra a mano derecha, este va hacia el sendero donde se encuentran las cascadas y despues de 15 minuto caminando nos encontraremos con esta entrada ubicada a mano izquierda de la vía:
 
-{% include image.html
- file="rutas/quindio/patasola/entradasendero.jpg"
- caption="Porton entrada al sendero"
- width="2145"
- height="1430"
+{% include image.html,
+ file:"rutas/quindio/patasola/entradasendero.jpg",
+ caption:"Porton entrada al sendero",
+ width:"2145",
+ height:"1430"
 %}
 
 Si la encuentran cerrada pueden abrirla y al momento de salir dejarla como la encontraron.
@@ -124,31 +98,31 @@ El sendero normal cuenta con solo 1 cascada, así que nos tendremos que desviar 
 Después de tomar el sendero vamos a escuchar el sonido de una cascada esta será la segunda que vamos a ver al regreso. Unos pocos metros más adelante nos encontraremos un pequeño río deberemos seguir su cauce por 1 minuto y  encontraremos la primera cascada.
 
             
-{% include image.html
- file="rutas/quindio/patasola/cascada1.jpg"
- caption="cascada#1"
- width="2500"
- height="1407"
+{% include image.html,
+ file:"rutas/quindio/patasola/cascada1.jpg",
+ caption:"cascada#1",
+ width:"2500",
+ height:"1407"
 %}
 
 Una vez vista esta cascada iremos a la segunda cascada, tendremos que tomar el mismo camino por el que vinimos y descender aproximadamente 4 metros para llegar a la base de la cascada. 
 
-{% include image.html
- file="rutas/quindio/patasola/cascada2.jpg"
- caption="cascada#2"
- width="2500"
- height="1407"
+{% include image.html,
+ file:"rutas/quindio/patasola/cascada2.jpg",
+ caption:"cascada#2",
+ width:"2500",
+ height:"1407"
 %}
 
 __Recomendación: En la zona se encuentran más cascadas, si no se cuenta con el equipamiento adecuado evite bajar hasta estas.__
 
 Una vez vista esta cascada volvemos al sendero. Seguiremos el sendero para ver nuestra tercera y última cascada. Esta se encuentra a 3 minutos. 
-{% include image.html
-  file="rutas/quindio/patasola/cascada3.jpg"
-  caption="Cascada #3"
-  fullscreen="true"
-  width="1080"
-  height="1919"
+{% include image.html,
+  file:"rutas/quindio/patasola/cascada3.jpg",
+  caption:"Cascada #3",
+  fullscreen:"true",
+  width:"1080",
+  height:"1919",
 %}
 
 Continuaremos nuestro recorrido aproximadamente 10 minutos hasta encontrar 2 caminos:
@@ -157,11 +131,11 @@ _Camino a mano derecha:_ Este hará un recorrido de 30 minutos por sendero y reg
 
 _Camino a mano Izquierda:_ Este va hacia la casa de la Patasola que se encuentra a 10 minutos caminando.
 
-{% include image.html
- file="rutas/quindio/patasola/casaPatasola.jpg"
- caption="Casa de la Patasola"
- width="2500"
- height="1407"
+{% include image.html,
+ file:"rutas/quindio/patasola/casaPatasola.jpg",
+ caption:"Casa de la Patasola",
+ width:"2500",
+ height:"1407",
 %}
 
 Aquí en esta casa es el lugar donde se avistan más animales y aves así que si la idea tuya es fotografiar alguno, se aconseja no hacer mucho ruido al llegar allí 🤐.

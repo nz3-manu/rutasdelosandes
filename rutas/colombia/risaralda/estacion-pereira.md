@@ -13,11 +13,11 @@ Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Ri
 
 ## ¿Qué encontrarás en Estación Pereira 🏞👀?
 
-{% include youtube.html
-    videoid="xrC-xdoVF8o"
-    width="480"
-    height="270"
-    caption="Estacion Pereira"
+{% include youtube.html,
+    videoid:"xrC-xdoVF8o",
+    width:"480",
+    height:"270",
+    caption:"Estacion Pereira"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -38,10 +38,10 @@ Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ q
 Recomendación: Solo se recomienda para vehículos todo terreno ya que la carretera es algo difícil para un automóvil.
 
 
-{% include iframe.html
-    type="custom"
-    mid="1xIfVdC_1I1EJML11_h-HFFD7Va0&hl=es-419"
-    caption="en chiva a estacion pereira, en marrana y despues en garrucha cruzando el cauca"
+{% include iframe.html,
+    type:"custom",
+    mid:"1xIfVdC_1I1EJML11_h-HFFD7Va0&hl=es-419",
+    caption:"en chiva a estacion pereira, en marrana y despues en garrucha cruzando el cauca"
 %}
 
 __Transporte en “marranitas”__🛵
@@ -50,12 +50,12 @@ La "marranita" es un medio de transporte que consiste en una moto que va por las
 
 **Por favor Aclarar al conductor que nos dirigimos a la “garrucha” que va a la finca la playita.**
 
-{% include image.html 
-   file="rutas/risaralda/estacion/marrana.jpg" 
-   caption="aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa"
-   width="800"
-   zoom="13"
-   height="704"
+{% include image.html,
+   file:"rutas/risaralda/estacion/marrana.jpg",
+   caption:"aqui podemos ver una marrana con sus pasajeros en la parte de atras se puede ver la 🛵 motocicleta la cual impulsa",
+   width:"800",
+   zoom:"13",
+   height:"704"
 %} 
 
 
@@ -65,11 +65,11 @@ __Cruzar el río cauca en "garrucha"__🚡
 
 La “garrucha” es un medio de transporte que consiste en un cable grueso que cruza el río de ambas orillas al cual se adapta una polea y una caja grande de madera y acero en donde caben de 5 a 6 personas, se desliza el canasto hasta la mitad del río y las personas que van dentro de él por sus propios medios deben llegar al otro lado de la orilla impulsandose del cable grueso; está  “garrucha”.
 
-{% include image.html 
-   file="rutas/risaralda/estacion/garrucha.jpg" 
-   caption="garrucha cruzando el rio cauca en estación pereira "
-   width="800"
-   height="450"
+{% include image.html,
+   file:"rutas/risaralda/estacion/garrucha.jpg",
+   caption:"garrucha cruzando el rio cauca en estación pereira ",
+   width:"800",
+   height:"450"
 %} 
 
 Después de haber cruzado el río Cauca llegamos a la finca a una finca que presta los servicios de: zona de camping 🏕, habitaciòn 🛌, desayuno 🥟, almuerzo 🍛, es aconsejable realizar la reserva previa.

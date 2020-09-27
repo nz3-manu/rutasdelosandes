@@ -17,30 +17,30 @@ Muchas veces escuchamos a personas decir que se van de  Trekking, Hikking o send
 
 El término trekking es de origen sudafricano, y hace referencia a un viaje largo y complicado. La palabra empezó a ser utilizada por los montañeros que viajaban al Himalaya para definir las rutas de aproximación a las cimas que tenían por objetivo escalar; la ubicación de estas montañas, en zonas muy alejadas de los núcleos de población, obligaban a los miembros de la expedición a llevar consigo toda clase de utensilios para ser autosuficientes. 
 
-{% include image.html
- file="/blog/tipsmontana/hiking&trekking/trekking.jpg"
- width="900"
- height="533"
- alt="Diferencia entre Trekking y Hiking"
+{% include image.html,
+ file:"/blog/tipsmontana/hiking&trekking/trekking.jpg",
+ width:"900",
+ height:"533",
+ alt:"Diferencia entre Trekking y Hiking"
 %}
 
 En el trekking encontraremos distintos grados de dificultad, estos dependen de la duración del trayecto y lo complejo del terreno, por lo general son  caminos que no se encuentran; refugios o alojamiento hotelero , así que es imprescindible llevar un equipo completo que incluye entre otras muchas cosas, carpa, saco de dormir, calentadores, abundante cantidad de alimentos, hipercalóricos y si es posible y si no se conoce el terreno, poder contar con un guía experimentado en la zona.
 
-{% include image.html
- file="/blog/tipsmontana/hiking&trekking/camping.jpg"
- width="800"
- height="449"
- alt="Diferencia entre Trekking y Hiking"
+{% include image.html,
+ file:"/blog/tipsmontana/hiking&trekking/camping.jpg",
+ width:"800",
+ height:"449",
+ alt:"Diferencia entre Trekking y Hiking"
 %}
 
 ## Hiking o en español Senderismo
 El senderismo es una actividad más relajante y aunque también existen diversas dificultades, se suelen realizar las rutas por senderos bien señalizados, o por caminos de uso rural que además pueden contar con paradas, refugios o alojamiento hotelero a lo largo del camino.
 
-{% include image.html
- file="/blog/tipsmontana/hiking&trekking/hiking.jpg"
- width="900"
- height="506"
- alt="Diferencia entre Trekking y Hiking"
+{% include image.html,
+ file:"/blog/tipsmontana/hiking&trekking/hiking.jpg",
+ width:"900",
+ height:"506",
+ alt:"Diferencia entre Trekking y Hiking"
 %}
 
  El principal objetivo del senderismo es conectar a la gente con el medio natural y las zonas y culturas rurales. El equipamiento necesario para realizar senderismo es variado y dependerá de la dificultad del sendero. Los elementos principales son, botella de agua, suficiente líquido en función de la caminata, protección solar, gorra, gafas y crema solar. Zapatillas y ropa cómoda de fácil secado, repelente para insectos, ropa de abrigo en función de la época del año y un clásico, el bastón de aluminio o madera ligera.

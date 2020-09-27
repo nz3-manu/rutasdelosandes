@@ -28,11 +28,11 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
  
 ## ¿Qué encontrarás en Laguna Del Otún 🏞👀?
 
-{% include youtube.html
-    videoid="2Nt7mrwUT80"
-    width="480"
-    height="270"
-    caption="Como llegar a la Laguna del Otún"
+{% include youtube.html,
+    videoid:"2Nt7mrwUT80",
+    width:"480",
+    height:"270",
+    caption:"Como llegar a la Laguna del Otún"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -87,10 +87,10 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
 
-{% include iframe.html
-    type="custom"
-    mid="1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es"
-    caption="Ruta entrada a Potosí hasta Laguna del Otún"
+{% include iframe.html,
+    type:"custom",
+    mid:"1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es",
+    caption:"Ruta entrada a Potosí hasta Laguna del Otún"
 %}
 
 Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando.
@@ -125,11 +125,11 @@ Laguna del Otún
 
 Al día siguiente nos levantamos temprano para ir a conocer un lugar que nos habían recomendado muchas personas la “La laguna del Silencio”, en el trayecto pudimos observar los hermosos paisajes de frailejones enmarcados con la vista al fondo del paramillo de Santa Rosa 🗻. Después de 2 horas por fin llegamos a nuestro destino final.  
 
-{% include image.html
-file="rutas/risaralda/lagunadelotun/silencio.JPG"
-caption="Laguna del Silencio en parque los nevados"
-width="900"
-height="675"
+{% include image.html,
+file:"rutas/risaralda/lagunadelotun/silencio.JPG",
+caption:"Laguna del Silencio en parque los nevados",
+width:"900",
+height:"675"
 %}
 
 Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa laguna 🧘‍♂️, regresamos a la zona de Camping de la Laguna del Otún donde  nos quedamos el resto del día para descansar un poco.

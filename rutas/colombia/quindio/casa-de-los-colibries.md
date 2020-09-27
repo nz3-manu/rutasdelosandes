@@ -18,29 +18,11 @@ Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de F
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa de los colibríes.
 * Vista del valle del Cocora. 
-<amp-carousel 
-    width="2500"
-    height="1406"
-    layout="responsive"
-    type="slides"
-    autoplay
-    delay="2000">
 
-       {% include image.html
-          file="rutas/quindio/acaime/slider1.jpg"
-          width="921"
-          height="708"
-       %}
-       {% include image.html
-          file="rutas/quindio/acaime/slider2.jpg"
-          width="1040"
-          height="800"
-       %}
-       {% include image.html
-          file="rutas/quindio/acaime/slider3.jpg"
-          width="938"
-          height="721"
-       %}   
+<amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+       {% include image.html, file:"rutas/quindio/acaime/slider1.jpg", width:"921", height:"708" %}
+       {% include image.html, file:"rutas/quindio/acaime/slider2.jpg", width:"1040", height:"800" %}
+       {% include image.html, file:"rutas/quindio/acaime/slider3.jpg", width:"938", height:"721" %}   
 </amp-carousel>
 
 
@@ -64,10 +46,10 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda ll
 ## Ruta Valle del Cocora en Salento🚶🏼
 Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kilómetros aproximadamente 3 horas caminando.
 
-{% include iframe.html
-    type="custom"
-    mid="1wnxudE2P5T07GrgeJGagTpNsEic&hl=es"
-    caption="Mapa Valle del Cocora Acaime"
+{% include iframe.html,
+    type:"custom",
+    mid:"1wnxudE2P5T07GrgeJGagTpNsEic&hl=es",
+    caption:"Mapa Valle del Cocora Acaime"
 %}
 
 Si no se siente capaz de caminar esta distancia también encontrarán alquiler de caballo 🐴 por $25.000 1 hora. 
@@ -76,11 +58,11 @@ El camino hasta la casa de los colibríes (Acaime) se encuentra muy señalizado.
 
 Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
-{% include image.html
- file="rutas/quindio/acaime/puente.jpg"
- caption="Puente colante"
- width="1800"
- height="1384"
+{% include image.html,
+ file:"rutas/quindio/acaime/puente.jpg",
+ caption:"Puente colante",
+ width:"1800",
+ height:"1384"
 %}
 
 Cerca de 4 kilómetros  nos vamos a encontrar con dos caminos en el mapa que pusimos anteriormente lo podremos ver con el signo de advertencia (⚠️) donde se ven 2 caminos:
@@ -90,11 +72,11 @@ __Camino de la izquierda:__ Va hacia el mirador de las palmas recorrido que dura
 __Camino de la derecha:__ Va hasta la casa de los colibríes este es el que debemos seguir.
 Al llegar a la Casa de los Colibríes  tenemos que pagar  $5.000 Pesos de entrada y nos obsequiaran una bebida fría o aguapanela con queso.
 
-{% include image.html
- file="rutas/quindio/acaime/casadecolibries.jpg"
- caption="Casa de los colibríes"
- width="1800"
- height="1384"
+{% include image.html,
+ file:"rutas/quindio/acaime/casadecolibries.jpg",
+ caption:"Casa de los colibríes",
+ width:"1800",
+ height:"1384"
 %}
 
 ### Casa de los colibríes

@@ -28,11 +28,11 @@ Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededo
 
 ## ¿Qué encontrarás en Bahía Málaga 🏞👀?
  
- {% include youtube.html
-   videoid="6U9bYSD1EAk"
-   width="480"
-   height="270"
-   caption=" video de bahia malaga"
+ {% include youtube.html,
+   videoid:"6U9bYSD1EAk",
+   width:"480",
+   height:"270",
+   caption:"Video de bahia malaga"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
@@ -93,39 +93,39 @@ Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un po
 Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
 
 
-{% include iframe.html
-  type="custom"
-  mid="1FyUNYn0REPJyyWRY2wrBfXGsmakFHVFr&hl=es"
-  caption="mapa de Bahia malaga"
+{% include iframe.html,
+  type:"custom",
+  mid:"1FyUNYn0REPJyyWRY2wrBfXGsmakFHVFr&hl=es",
+  caption:"mapa de Bahia malaga"
 %}
 
 __La Loma de Chucheros:__ este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga.
 
 Si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona ya que al subir la marea ya sera peligroso regresar por el bordo de la playa. 
 
-{% include image.html
-  file="rutas/valle/bahia-malaga/lomaChucheros.jpg"
-  caption="Foto de La Loma de Chucheros"
-  width="1200"
-  height="800"
+{% include image.html,
+  file:"rutas/valle/bahia-malaga/lomaChucheros.jpg",
+  caption:"Foto de La Loma de Chucheros",
+  width:"1200",
+  height:"800"
 %}
 
 __Playa Juan de Dios:__ esta playa es conocida por su limpieza ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
-{% include image.html
-  file="rutas/valle/bahia-malaga/juanDeDios.jpg"
-  caption="Foto cueva en playa Juan de Dios"
-  width="1200"
-  height="800"
+{% include image.html,
+  file:"rutas/valle/bahia-malaga/juanDeDios.jpg",
+  caption:"Foto cueva en playa Juan de Dios",
+  width:"1200",
+  height:"800"
 %}
 
 __Playa Dorada:__ es conocida por su arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
 
-{% include image.html
-  file="rutas/valle/bahia-malaga/dorada.jpg"
-  caption="Foto Playa dorada"
-  width="1200"
-  height="800"
+{% include image.html,
+  file:"rutas/valle/bahia-malaga/dorada.jpg",
+  caption:"Foto Playa dorada",
+  width:"1200",
+  height:"800"
 %}
 
 En el mapa mostrado anteriormente podrán ver una cascada que  se llama “Cascada de Chucheros”, para llegar a esta desde la loma de chucheros son aproximadamente 40 minutos caminando por el borde de la playa. Nosotros no pudimos llegar hasta ese punto ya que estaba empezando a subir la marea 😢así que regresamos.
@@ -148,20 +148,20 @@ Otra opción es hacer estos recorridos en un mismo día desde el muelle turísti
 
 __Cascada la Sierpe en Bahía Málaga:__ es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
 
-{% include image.html
-  file="rutas/valle/bahia-malaga/la-sierpe.JPG"
-  caption="Foto cascada la Sierpe"
-  width="759"
-  height="792"
+{% include image.html,
+  file:"rutas/valle/bahia-malaga/la-sierpe.JPG",
+  caption:"Foto cascada la Sierpe",
+  width:"759",
+  height:"792"
 %}
 
 __Cascadas las 3 marías en Bahía Málaga:__  son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía. 
 
-{% include image.html
-  file="rutas/valle/bahia-malaga/las-3-Marias.jpg"
-  caption="Foto de las 3 marias"
-  width="1200"
-  height="800"
+{% include image.html,
+  file:"rutas/valle/bahia-malaga/las-3-Marias.jpg",
+  caption:"Foto de las 3 marias",
+  width:"1200",
+  height:"800"
 %}
 
 Cuando no es temporada de avistamiento de ballenas 🐳, suelen cambiar ese recorrido por una cascada que se llama __Cascada Ostional__ está cascada queda un poco más lejos que las otras que visitamos, en nuestro caso no la decidimos visitar.

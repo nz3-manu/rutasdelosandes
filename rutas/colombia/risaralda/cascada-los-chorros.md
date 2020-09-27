@@ -15,9 +15,9 @@ Duración del trayecto 1 día.
 ## ¿Qué encontrarás en la pastora 🏞👀?
 
 {% include youtube.html,
-    videoid:"oMPNSh9A1qU"
-    width:"480"
-    height:"270"
+    videoid:"oMPNSh9A1qU",
+    width:"480",
+    height:"270",
     caption:"Los Chorros"
 %}
 
@@ -39,8 +39,8 @@ Una vez de haber pasado por estos hermosos paisajes llegamos al cedral, lugar do
 Desde el cedral hasta la pastora son aproximadamente 4 kilómetros, el camino está lleno de rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. 
 
 {% include iframe.html,
-    type:"custom"
-    mid:"146J0KNrfp9XDhrHjIFxKqc9av9CXElMP&hl=es"
+    type:"custom",
+    mid:"146J0KNrfp9XDhrHjIFxKqc9av9CXElMP&hl=es",
     caption:"Ruta a pie desde el cedral hasta la cascada los chorros pasando por la pastora, aproximadamente dos horas de caminata"
 %}
 
@@ -51,9 +51,9 @@ Para alquiler de cabaña se debe confirmar disponibilidad Teléfono:<a href="tel
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.
 
 {% include image.html 
-    file:"rutas/risaralda/chorros/lapastora3.jpg" 
-    width:"900"
-    height:"599"
+    file:"rutas/risaralda/chorros/lapastora3.jpg", 
+    width:"900",
+    height:"599",
     caption:"Centro de visitantes la pastora"
 %} 
 

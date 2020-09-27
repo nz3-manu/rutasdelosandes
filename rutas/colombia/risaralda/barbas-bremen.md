@@ -17,7 +17,7 @@ __Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy pa
 ## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
 
 {% include youtube.html,
-    videoid:"1anGUPtjsMs"
+    videoid:"1anGUPtjsMs",
     caption:"barbas bremem"
 %}
 
@@ -38,8 +38,8 @@ __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí
 
 
 {% include iframe.html,
-    type:"custom"
-    mid:"1BwwH1DiJlTsLsckTYKRpoZB0aFE&hl=es-419"
+    type:"custom",
+    mid:"1BwwH1DiJlTsLsckTYKRpoZB0aFE&hl=es-419",
     caption:"Ruta desde el centro comercial victoria hasta Yarumal (casa de doña Manuela)"
 %}
     
@@ -51,8 +51,8 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitam
 Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado __<a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo.html">"Qué llevar para hacer senderismo"</a>__, sabemos que te ayudará mucho para hacer esta ruta.
 
 {% include iframe.html,
-    type:"custom"
-    mid:"1qEgE7goD6j21-U1hP2syrWail-M&hl=es-419"
+    type:"custom",
+    mid:"1qEgE7goD6j21-U1hP2syrWail-M&hl=es-419",
     caption:"camino desde el sendero yarumal en parque barvas bremen pasando por la cascada alegrias, llegando a la vereda alegrias"
 %}
 

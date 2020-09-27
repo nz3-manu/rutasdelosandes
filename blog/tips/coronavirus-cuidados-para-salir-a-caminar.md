@@ -36,11 +36,11 @@ __Kit de autocuidado:__ toallas desechables y una bolsa para depositarlas y la b
 
 Algo que queremos adicionar para llevar al momento de ir a caminar es las gafas con protección solar, ya que de esta forma protegerás tus ojos.  
 
-{% include image.html
- file="/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/kit-de-autocuidado.png"
- caption="kit de autocuidado"
- width="626"
- height="469"
+{% include image.html,
+ file:"/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/kit-de-autocuidado.png",
+ caption:"kit de autocuidado",
+ width:"626",
+ height:"469"
 %}
 
 
@@ -64,22 +64,22 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitam
 
 Evite acercarse. Los saludos también pueden realizarse desde lejos. No tenga ningún tipo de contacto físico. Recordemos que estamos en época de aislamiento y por lo tanto la distancia social y física es la prioridad.
 
-{% include image.html
- file="/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/recomendaciones-en-senderos.png"
- caption="Recomendaciones en senderos"
- width="626"
- height="469"
+{% include image.html,
+ file:"/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/recomendaciones-en-senderos.png",
+ caption:"Recomendaciones en senderos",
+ width:"626",
+ height:"469"
 %}
 
 ## ¿Qué hacer en el caso de estornudar con o sin gente alrededor?
 
 Estornudar es un acto involuntario y/o reflejo, pero que en últimas no podemos controlar, por lo cual es de suma importancia el distanciamiento físico aprovechando, por supuesto, el espacio al aire libre para evitar dispersar nuestros fluidos a otras personas. En caso de un estornudo apártese lo más posible del grupo de acompañantes, __aunque estés usando tapabocas no olvides cubrirte con tu brazo__.
 
-{% include image.html
- file="/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/buenas practicas para estornudar.jpg"
- caption="Buenas practicas para estornudar"
- width="626"
- height="469"
+{% include image.html,
+ file:"/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/buenas practicas para estornudar.jpg",
+ caption:"Buenas practicas para estornudar",
+ width:"626",
+ height:"469"
 %}
 
 ## ¿Cómo proceder si se llega a una comunidad local y qué hacer con la basura?
@@ -88,11 +88,11 @@ Evite tener al máximo interacción con los lugareños, en caso de tener que hac
 
 __recuerda que para salir de caminata hay que llevar bolsa de basura. No dejemos residuos que podrían contener el virus y ayudemos a las comunidades a estar un poco más limpias.__
 
-{% include image.html
- file="/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/comunidad.png"
- caption="Buenas practicas para hablar con personas"
- width="626"
- height="469"
+{% include image.html,
+ file:"/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/comunidad.png",
+ caption:"Buenas practicas para hablar con personas",
+ width:"626",
+ height:"469"
 %}
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que visites nuestra tienda en linea donde encontraras productos para senderismo clic aquí</a>]__.

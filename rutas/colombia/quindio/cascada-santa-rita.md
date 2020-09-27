@@ -17,11 +17,11 @@ Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferr
 
 ## ¿Qué encontrarás en la Cascada Santa Rita 🏞👀?
 
-{% include youtube.html
-    videoid="wsWmrXU8xFo"
-    width="480"
-    height="270"
-    caption="Cascada Santa Rita"
+{% include youtube.html,
+    videoid:"wsWmrXU8xFo",
+    width:"480",
+    height:"270",
+    caption:"Cascada Santa Rita"
 %}
 
 Suscríbete a nuestro canal de youtube dando click <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -45,10 +45,10 @@ Para seguir nuestro camino a las cascadas tuvimos que pagar $5.000 Pesos. Nos di
 
 Si vas en moto o carro lo podrás dejar en este punto y pagar el costo de parqueadero.
 
-{% include iframe.html
-    type="custom"
-    mid="1-8UAZ_9XAV7pFIjispNZatDFTgPmqpIi&hl=es"
-    caption="Ruta Boquía Cascada Santa Rita"
+{% include iframe.html,
+    type:"custom",
+    mid:"1-8UAZ_9XAV7pFIjispNZatDFTgPmqpIi&hl=es",
+    caption:"Ruta Boquía Cascada Santa Rita"
 %}
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
@@ -58,11 +58,11 @@ Desde la finca Santa Rita hasta las cascadas hay aproximadamente 1 kilómetro, e
 Después de una agradable caminata por un pequeño bosque por fin llegamos a la cascada de Santa Rita.
 
 
-{% include image.html
-file="rutas/quindio/cascadasantarita/featured.jpg"
-caption="Cascada Santa Rita"
-width="1920"
-height="1080"
+{% include image.html,
+file:"rutas/quindio/cascadasantarita/featured.jpg",
+caption:"Cascada Santa Rita",
+width:"1920",
+height:"1080"
 %}
 
 ## ¿Cómo regresar de la Cascada Santa Rita 🚌🏡?

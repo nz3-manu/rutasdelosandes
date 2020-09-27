@@ -24,11 +24,11 @@ Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que
 
 ## ¿QUÉ ENCONTRARÁS EN CERRO TUSA ?
 
- {% include youtube.html
-    videoid="VtuzI8j-dgk"
-    width="480"
-    height="270"
-    caption="Caminata a Cerro Tusa"
+ {% include youtube.html,
+    videoid:"VtuzI8j-dgk",
+    width:"480",
+    height:"270",
+    caption:"Caminata a Cerro Tusa"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
@@ -60,10 +60,10 @@ Una vez dicho esto ¡empecemos! ⛰.
 
 Desde el comienzo del sendero hasta la cima de Cerro Tusa son aproximadamente 2.5 kilómetros, de los cuales 1 kilómetro es en ascenso vertical con inclinación hasta de 70 grados, prácticamente estaremos escalando. 
 
-{% include iframe.html
-   type="custom"
-   mid="1uyJCYiKdY9kO-HlqgOKX9ow1pU7-hqkJ&hl=es"
-   caption="Ruta Municipio de Venecia hasta Cerro Tusa"
+{% include iframe.html,
+   type:"custom",
+   mid:"1uyJCYiKdY9kO-HlqgOKX9ow1pU7-hqkJ&hl=es",
+   caption:"Ruta Municipio de Venecia hasta Cerro Tusa"
 %}
 
 ### EL CAMINO CONSTA DE 3 PARTES:

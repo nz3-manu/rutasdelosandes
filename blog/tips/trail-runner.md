@@ -19,9 +19,9 @@ Los indígenas de latinoamérica se han caracterizado por caminar distancias lar
 
 Una familia descendiente de estos sorprendentes atletas, Ha participado en numerosas carreras de trail running, algunos de ellos corriendo con sus sandalias y trajes típicos, no siendo impedimento para ganar múltiples carreras de alto rendimiento.
 
-{% include youtube.html
-    videoid="VFRFvD57fn8"
-    caption="primera corredora tarahumara"
+{% include youtube.html,
+    videoid:"VFRFvD57fn8",
+    caption:"primera corredora tarahumara"
 %}
 
 
