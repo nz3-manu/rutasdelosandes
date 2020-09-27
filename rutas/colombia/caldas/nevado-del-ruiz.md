@@ -105,10 +105,10 @@ Los carros que brindan el servicio los podrán encontrar en la entrada al Parque
 
 El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
 
-{% include iframe.html
-    type="custom"
-    mid="12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es"
-    caption="Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
+{% include iframe.html,
+    type:"custom",
+    mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
+    caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
