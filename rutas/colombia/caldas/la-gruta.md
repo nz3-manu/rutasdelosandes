@@ -19,10 +19,10 @@ Es  un lugar con gran belleza natural donde se funden montañas con páramos que
 * Hermosos paisajes de las montañas.
 
 <amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
-      {% include image.html, file:"rutas/caldas/gruta/slider1.jpg", width:"800", height:"450"%}
-      {% include image.html, file:"rutas/caldas/gruta/slider2.jpg", width:"800", height:"450"%}
-      {% include image.html, file:"rutas/caldas/gruta/slider3.jpg", width:"800", height:"450"%}
-      {% include image.html, file:"rutas/caldas/gruta/slider4.jpg", width:"800", height:"450"%}
+{% include image.html, file:"rutas/caldas/gruta/slider1.jpg", width:"800", height:"450"%}
+{% include image.html, file:"rutas/caldas/gruta/slider2.jpg", width:"800", height:"450"%}
+{% include image.html, file:"rutas/caldas/gruta/slider3.jpg", width:"800", height:"450"%}
+{% include image.html, file:"rutas/caldas/gruta/slider4.jpg", width:"800", height:"450"%}
 </amp-carousel>
 
 ## ¿Cómo llegar a la La Gruta 🚌🚗🛵🚵🏻?

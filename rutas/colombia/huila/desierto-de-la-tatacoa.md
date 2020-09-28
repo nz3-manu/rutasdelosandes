@@ -28,10 +28,10 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 * Beber jugo de cactus.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %} 
-    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %} 
-    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %} 
-    {% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %} 
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %} 
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %} 
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %} 
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?

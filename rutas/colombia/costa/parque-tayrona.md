@@ -33,9 +33,9 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 * Hermosas playas y avistamientos de corales.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-    {% include image.html, file:"rutas/costa/tayrona/slider1.JPG", width:"800", height:"550" %} 
-    {% include image.html, file:"rutas/costa/tayrona/slider2.JPG", width:"800", height:"550" %} 
-    {% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %} 
+{% include image.html, file:"rutas/costa/tayrona/slider1.JPG", width:"800", height:"550" %} 
+{% include image.html, file:"rutas/costa/tayrona/slider2.JPG", width:"800", height:"550" %} 
+{% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar al Parque Tayrona?

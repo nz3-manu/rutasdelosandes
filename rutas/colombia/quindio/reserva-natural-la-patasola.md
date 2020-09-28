@@ -22,13 +22,10 @@ El nombre de la reserva La Patasola tiene una historia particular que es contada
 * Casa antigua rodeada de misticismo y leyendas urbanas.
 
 <amp-carousel  width="2048" height="1366" layout="responsive" type="slides" autoplay delay="2000">
-
-    {% include image.html, file:"rutas/quindio/patasola/slider1.jpg", width:"2500", height:"1407" %} 
-    {% include image.html, file:"rutas/quindio/patasola/slider2.jpg", width:"2500", height:"1406" %} 
-    {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
-    {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
-    {% include image.html, file:"rutas/quindio/patasola/slider4.jpg", width:"2500", height:"1407" %} 
-
+  {% include image.html, file:"rutas/quindio/patasola/slider1.jpg", width:"2500", height:"1407" %} 
+  {% include image.html, file:"rutas/quindio/patasola/slider2.jpg", width:"2500", height:"1406" %} 
+  {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
+  {% include image.html, file:"rutas/quindio/patasola/slider4.jpg", width:"2500", height:"1407" %} 
 </amp-carousel>
 
 ## ¿Cómo llegar 🛣🚌🚗🛵🚵🏻?
