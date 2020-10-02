@@ -2,7 +2,6 @@
 layout: trail
 title:  Cómo llegar al Nevado del Ruiz
 categories: colombia 
-tags: Caldas
 seo_title: ▷ Nevado del Ruiz-Guia Completa|Rutas
 excerpt: Conoce todo lo que necesitas saber para visitar el Nevado del Ruiz, Este nevado es uno de los mas importantes de colombina y se encuentra muy cerca a Manizales y hace parte del parque nacional natural los nevados. 
 images_url: /images/rutas/caldas/ruiz

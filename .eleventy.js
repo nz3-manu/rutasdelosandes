@@ -9,11 +9,11 @@ module.exports = function (eleventyConfig) {
     root: ["_includes", "."],
   });
   eleventyConfig.addCollection("rutas", (collection) => {
-    return collection.getFilteredByGlob("rutas/*.md");
+    return collection.getFilteredByGlob("rutas/**/*.md");
   });
 
   eleventyConfig.addCollection("blog", (collection) => {
-    return collection.getFilteredByGlob("blog/*.md");
+    return collection.getFilteredByGlob("blog/**/*.md");
   });
 
   eleventyConfig.addPassthroughCopy("images");

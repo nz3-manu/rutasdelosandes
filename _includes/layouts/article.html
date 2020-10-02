@@ -119,6 +119,29 @@ layout: default
 </div>    
 <h2 class="related-title"> Articulos relacionados </h2>
 <ul class="related-articles">
+{%- for post in collections.blog -%}
+  <li>
+    <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
+                  <div class="article">
+                    <div class="scrim-top">
+                    </div>
+                    <div class="scrim-bottom">
+                    </div>
+                    <h3 class="article-title">{{ post.data.title }}</h3>
+                    <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}, Jun 28</h4>
+                    <amp-img
+                    layout="responsive"
+                    width="581"
+                    height="304"
+                    src="{{post.data.images_url}}/featured.jpg">
+                  </div>
+              </a>
+  </li>
+{%- endfor -%}
+</ul>
+
+
+<ul class="related-articles">
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}

@@ -3,7 +3,6 @@ draft: true
 layout: trail
 title:  Pueblo Rico
 categories: colombia 
-tags: Risaralda
 seo_title: Rio en Santa Cecilia.
 excerpt: Santa Cecilia es un corregimiento del municipio de pueblo rico risaralda.
 images_url: /images/rutas/risaralda/puebloRico

@@ -2,7 +2,6 @@
 layout: trail
 title: Chorros de Don Lolo
 categories: colombia
-tags: Risaralda
 seo_title: CHORROS DE DON LOLO en Santa Rosa Risaralda | Como llegar.
 excerpt: Caminata Ecológica en Pereira, por un hermoso sendero ubicado en Santa Rosa de Cabal que nos llevara a una majestuosa Cascada de nombre LOS CHORROS DE DON LOLO. Esta ruta ecologica tiene una duración de 1 día, La caminata se puede hacer con caninos 🐕.
 images_url: /images/rutas/risaralda/donlolo

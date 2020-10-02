@@ -2,7 +2,6 @@
 layout: trail
 title:  Estrella de Agua
 categories: colombia 
-tags: Quindío
 seo_title: Rutas naturales ocultas en el Valle del cocora en salento quindío| Estrella de Agua.
 excerpt: Estrella de Agua o estación biológica estrella de agua esta ubicado a 9 kilometros del Valle de Cocora en este lugar es donde nace el rió Quindio, una ruta más para conocer en salento Quindio.
 images_url: /images/rutas/quindio/estrellaAgua

@@ -2,7 +2,6 @@
 layout: trail
 title:  Laguna Del Otún
 categories: colombia 
-tags: Risaralda
 seo_title: Laguna del Otún - Como llegar|Rutas
 excerpt: Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde las tarifas para la entrada al parque, transporte y hospedaje.
 images_url: /images/rutas/risaralda/lagunadelotun

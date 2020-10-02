@@ -3,7 +3,6 @@ draft: true
 layout: trail
 title:  Cerro Batero
 categories: colombia 
-tags: Risaralda
 excerpt: Cerro Batero, este cerro esta ubicado en el municipio de Quinchía Risaralda, en esta caminata  ecológica nos encontraremos con un sendero para después subir a la cima de este majestuoso cerro. Duración del trayecto 1 día
 images_url : /images/rutas/risaralda/batero
 viewranger: 

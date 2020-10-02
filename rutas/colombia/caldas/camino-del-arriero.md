@@ -2,7 +2,6 @@
 layout: trail
 title:  Camino Del Arriero
 categories: colombia 
-tags: Caldas
 seo_title: Caminatas ecológicas cerca de Manizales, caldas.
 excerpt: Este definitivamente es un destino natural poco conocido en Manizales. Esta es una ruta ecológica en el  eje cafetero  que cuenta con una hermosa cascada.
 images_url: /images/rutas/caldas/luna

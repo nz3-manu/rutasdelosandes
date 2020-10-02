@@ -2,7 +2,6 @@
 layout: trail
 title:  Chorros San Rafael
 categories: colombia 
-tags: Quindío
 seo_title: Chorros de San Rafael en calarcá quindío.
 excerpt: Los chorros de San Rafael están ubicados en el municipio de Calarcá en el departamento de Quindío aproximadamente a unos 10 kilómetros de Armenia. La duración del trayecto es de 1 día. Se puede hacer acompañado de mascotas como perros 🐕.
 images_url: /images/rutas/quindio/chorrossanrafael

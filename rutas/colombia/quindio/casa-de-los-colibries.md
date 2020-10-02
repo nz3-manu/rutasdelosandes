@@ -2,7 +2,6 @@
 layout: trail
 title:  Casa de los Colibríes en Salento
 categories: colombia 
-tags: Quindío
 seo_title: Que hacer en Salento
 excerpt: Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
 images_url: /images/rutas/quindio/acaime

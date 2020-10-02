@@ -2,7 +2,6 @@
 layout: trail
 title:  Cascada Santa Rita
 categories: colombia 
-tags: Quindío
 seo_title: cascadas de Santa Rita o cascada santa Rita en boquia
 excerpt: Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al municipio de Salento en el departamento del Quindío, este es un lugar para visitar cerca de Armenia. 
 images_url: /images/rutas/quindio/cascadasantarita

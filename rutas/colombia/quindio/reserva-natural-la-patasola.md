@@ -3,7 +3,6 @@ draft: true
 layout: trail
 title:  Reserva Natural La Patasola
 categories: colombia 
-tags: Quindío
 excerpt:  La Reserva Natural La Patasola es la segunda reserva natural con mayor avistamiento de aves entre ellas varias especies en vía de extinción. Duración del trayecto 1 día.
 images_url: /images/rutas/quindio/patasola
 viewranger: MTYzNTUwMw==

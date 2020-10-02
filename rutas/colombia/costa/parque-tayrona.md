@@ -2,7 +2,6 @@
 layout: trail
 title:  Parque Nacional Natural Tayrona
 categories: colombia 
-tags: Costa
 seo_title: Cómo llegar al Parque Tayrona.
 excerpt: Descubre hoteles en el Parque Tayrona, playas, entradas al parque tayrona y muchas mas entrando aquí.
 images_url: /images/rutas/costa/tayrona

@@ -2,7 +2,6 @@
 layout: trail
 title:  Peñas Blancas
 categories: colombia 
-tags: Quindío
 seo_title: Peñas Blancas en calarcá quindío.
 excerpt: Caminata Ecológica en Peñas Blancas, por un hermoso sendero que nos llevará a una majestuosa peña de 280 metros de altura. Esta se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Duración del trayecto 1 día.
 images_url: /images/rutas/quindio/blancas

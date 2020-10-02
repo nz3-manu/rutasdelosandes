@@ -2,7 +2,6 @@
 layout: trail
 title:  Reserva Natural Barbas Bremen
 categories: colombia
-tags: Risaralda
 seo_title: Reserva Barbas Bremen en Pereira Risaralda.
 excerpt: La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia y Salento (Quindío) y Pereira (Risaralda). Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día.
 images_url : /images/rutas/risaralda/barbasBremen
