@@ -9,7 +9,7 @@ layout: null
   "shipping": "",
   "payment": "",
   "documents" :{
-    {% for collection in site.collections %}
+    {% for collection in collections.all %}
     "{{collection.label}}":[
       {% for post in collection.docs  %}
       {% assign authorInfo = site.data.authors[post.author] %}

@@ -141,24 +141,29 @@ layout: default
 
 <ul class="related-articles">
 {%- for post in collections.rutas -%}
-  <li>
-    <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
-                  <div class="article">
-                    <div class="scrim-top">
-                    </div>
-                    <div class="scrim-bottom">
-                    </div>
-                    <h3 class="article-title">{{ post.data.title }}</h3>
-                    <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}, Jun 28</h4>
-                    <amp-img
-                    layout="responsive"
-                    width="581"
-                    height="304"
-                    src="{{post.data.images_url}}/featured.jpg">
+{% if post.data.trending %}
+{% if post.url != page.url %}
+<li>
+  <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
+                <div class="article">
+                  <div class="scrim-top">
                   </div>
-              </a>
-  </li>
+                  <div class="scrim-bottom">
+                  </div>
+                  <h3 class="article-title">{{ post.data.title }}</h3>
+                  <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}, Jun 28</h4>
+                  <amp-img
+                  layout="responsive"
+                  width="581"
+                  height="304"
+                  src="{{post.data.images_url}}/featured.jpg">
+                </div>
+            </a>
+</li>
+{% endif %}
+{% endif %}
 {%- endfor -%}
 </ul>
+
 
 

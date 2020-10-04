@@ -7,6 +7,7 @@ excerpt: Cerro Tusa en antioquia, es la pirámide natural más alta del mundo co
 images_url: /images/rutas/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel
+trending: true
 ---
 
 # CERRO TUSA
