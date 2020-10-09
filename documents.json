@@ -1,0 +1,631 @@
+{
+  "expanded": "",
+  "activeStep": 0,
+  "product": "",
+  "shipping": "",
+  "payment": "",
+  "documents" :{
+
+    "blog":[
+
+
+      { "url" : "/salud/naturaleza.html",
+        "title": "La ciencia estudia los beneficios de caminar en la montaña.",
+        "seotitle": "La ciencia estudia los beneficios de caminar en la montaña",
+        "excerpt":"Si sientes que tu mente ya no puede recordad cosas como antes y por mas que trates de concentrarte en algo en especifico terminas haciendo otras cosas, te invito a ver el siguiente estudio.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/salud/alimentamente/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/salud/alimentamente/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/salud/senderismo.html",
+        "title": "Así Cambia Tu Cerebro Cuando Haces Senderismo",
+        "seotitle": "Beneficios de senderismo o caminar",
+        "excerpt":"Descubre los Beneficios de senderismo o de salir a caminar por unos pocos minutos.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/salud/senderismo/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/salud/senderismo/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/senderismo/historias-de-viajeros.html",
+        "title": "Busque La Felicidad En El Dinero Y Esto Fue Lo Que Paso...",
+        "seotitle": "Historias de viajeros",
+        "excerpt":"Historias de viaje por llamo Jin-O alguien que dejo su trabajo para seguir su sueño. Tenia un buen trabajo ganaba buen dinero. Pero me di cuenta que el dinero no lo es todo, así que decidí viajar.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/senderismo/yoon/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/senderismo/yoon/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/senderismo/no-salgas-con-viajeras.html",
+        "title": "6 Razones Por Las Cuales No Salir Con Una Chica Que Viaje",
+        "seotitle": "🚫 Nunca salgas con una viajera",
+        "excerpt":"Te explicaremos porqué no salir con una chica que viaja, si en algún momento de cruzas con una de estas chicas no le hables sal inmediatamente antes de que te logre ver o de lo contrario tu vida cambiara.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/senderismo/nomujerviajera/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/senderismo/nomujerviajera/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/coronavirus-cuidados-para-salir-a-caminar.html",
+        "title": "Cuidados para salir a caminar en tiempo de Coronavirus",
+        "seotitle": "Cuidados para salir a caminar en tiempo de Coronavirus",
+        "excerpt":"Cuidados para salir a caminar en tiempo de Coronavirus, la información que presentamos en este post es información recolectada de varias fuentes, podrás consultar las fuentes al final del post.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/coronavirus-cuidados-para-salir-a-caminar/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/hiking-senderismo-trekking.html",
+        "title": "Te Has Preguntado La Diferencia Entre Trekking y Hiking",
+        "seotitle": "Diferencia entre Trekking y Hiking",
+        "excerpt":"¿Sabes la diferencia entre Trekking, Hikking o senderismo? aquí te las explicaremos.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/hiking&trekking/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/hiking&trekking/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/que-es-el-mal-de-altura-como-evitarlo.html",
+        "title": "Que es el mal de altura y como evitarlo",
+        "seotitle": "Que es el mal de altura y como evitarlo",
+        "excerpt":"¿Que es el mal de altura y como evitarlo?, conoce algunos consejos que te ayudarán al momento de ir a la montaña.  .",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/que-llevar-para-hacer-senderismo.html",
+        "title": "Qué llevar para hacer senderismo",
+        "seotitle": "Ropa adecuada para senderismo|rutas",
+        "excerpt":"Clic aquí para conocer cual es la ropa adecuada para hacer senderismo o caminatas.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/sitios-turisticos-eje-cafetero.html",
+        "title": "Los 3 lugares que no te puedes perder en tu paso por el eje cafetero.",
+        "seotitle": "🥇3 lugares que no te puedes perder en tu paso por el eje cafetero.",
+        "excerpt":"Conoce los 3 lugares que no te debes perder en tu visita por el eje cafetero,  podrás encontrar toda la información para que visites los mejores lugares naturales del eje cafetero.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/3-rutas-eje-cafetero/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/3-rutas-eje-cafetero/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/tips/trail-runner.html",
+        "title": "La primera Trail Running Tarahumara",
+        "seotitle": "¿Que es Trail Running?",
+        "excerpt":"Conozca el nuevos deporte de montaña que se está volviendo cada vez más popular en latinoamérica conocido como “Trail Running” (Carrera de montaña). Conozca la historia de  la familia indígena descendiente de los Raramuri que han ganado múltiples competiciones.",
+        "draft" : false,
+        "author": "",
+        "author_facebook": "",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/blog/tipsmontana/trailrunning/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/featured.jpg"
+      }
+
+
+    ]
+
+    ,
+
+
+    "posts":[
+
+    ]
+
+    ,
+
+
+    "rutas":[
+
+
+      { "url" : "/colombia/quindio/reserva-natural-la-patasola.html",
+        "title": "Reserva Natural La Patasola",
+        "seotitle": "",
+        "excerpt":"La Reserva Natural La Patasola es la segunda reserva natural con mayor avistamiento de aves entre ellas varias especies en vía de extinción. Duración del trayecto 1 día.",
+        "draft" : true,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/patasola/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/patasola/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/cerro-batero.html",
+        "title": "Cerro Batero",
+        "seotitle": "",
+        "excerpt":"Cerro Batero, este cerro esta ubicado en el municipio de Quinchía Risaralda, en esta caminata  ecológica nos encontraremos con un sendero para después subir a la cima de este majestuoso cerro. Duración del trayecto 1 día",
+        "draft" : true,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/batero/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/batero/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/pueblo-rico-risaralda.html",
+        "title": "Pueblo Rico",
+        "seotitle": "Rio en Santa Cecilia.",
+        "excerpt":"Santa Cecilia es un corregimiento del municipio de pueblo rico risaralda.",
+        "draft" : true,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/puebloRico/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/puebloRico/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/antioquia/cerro-tusa.html",
+        "title": "Cerro Tusa",
+        "seotitle": "▷ Cerro Tusa, Pirámide Natural | ¿Comó llegar?.",
+        "excerpt":"Cerro Tusa en antioquia, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/antioquia/cerro-tusa/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/antioquia/cerro-tusa/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/caldas/camino-del-arriero.html",
+        "title": "Camino Del Arriero",
+        "seotitle": "Caminatas ecológicas cerca de Manizales, caldas.",
+        "excerpt":"Este definitivamente es un destino natural poco conocido en Manizales. Esta es una ruta ecológica en el  eje cafetero  que cuenta con una hermosa cascada.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/caldas/luna/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/caldas/luna/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/caldas/la-gruta.html",
+        "title": "La Gruta",
+        "seotitle": "Como llegar a la gruta o Santuario Scout la Gruta en manizales caldas.",
+        "excerpt":"La Gruta Ruta o Santuario Scout la Gruta, este lugar encuentra a 27 kilómetros desde el parque de Villamaría Caldas por la  Vía a Gallinazo también es la vía que va para el nevado del Ruiz.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/caldas/gruta/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/caldas/gruta/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/caldas/nevado-del-ruiz.html",
+        "title": "Cómo llegar al Nevado del Ruiz",
+        "seotitle": "▷ Nevado del Ruiz-Guia Completa|Rutas",
+        "excerpt":"Conoce todo lo que necesitas saber para visitar el Nevado del Ruiz, Este nevado es uno de los mas importantes de colombina y se encuentra muy cerca a Manizales y hace parte del parque nacional natural los nevados.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/caldas/ruiz/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/caldas/ruiz/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/costa/parque-tayrona.html",
+        "title": "Parque Nacional Natural Tayrona",
+        "seotitle": "Cómo llegar al Parque Tayrona.",
+        "excerpt":"Descubre hoteles en el Parque Tayrona, playas, entradas al parque tayrona y muchas mas entrando aquí.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/costa/tayrona/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/costa/tayrona/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/huila/desierto-de-la-tatacoa.html",
+        "title": "Cómo llegar al desierto de la Tatacoa",
+        "seotitle": "Guía completa para ir al Desierto de la Tatacoa.",
+        "excerpt":"El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre como llegar, donde hospedarse y mucho mas.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/huila/desiertoTatacoa/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/huila/desiertoTatacoa/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/casa-de-los-colibries.html",
+        "title": "Casa de los Colibríes en Salento",
+        "seotitle": "Que hacer en Salento",
+        "excerpt":"Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/acaime/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/acaime/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/cascada-santa-rita.html",
+        "title": "Cascada Santa Rita",
+        "seotitle": "cascadas de Santa Rita o cascada santa Rita en boquia",
+        "excerpt":"Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al municipio de Salento en el departamento del Quindío, este es un lugar para visitar cerca de Armenia.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/cascadasantarita/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/cascadasantarita/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/chorros-san-rafael.html",
+        "title": "Chorros San Rafael",
+        "seotitle": "Chorros de San Rafael en calarcá quindío.",
+        "excerpt":"Los chorros de San Rafael están ubicados en el municipio de Calarcá en el departamento de Quindío aproximadamente a unos 10 kilómetros de Armenia. La duración del trayecto es de 1 día. Se puede hacer acompañado de mascotas como perros 🐕.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/chorrossanrafael/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/chorrossanrafael/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/estrella-de-agua.html",
+        "title": "Estrella de Agua",
+        "seotitle": "Rutas naturales ocultas en el Valle del cocora en salento quindío| Estrella de Agua.",
+        "excerpt":"Estrella de Agua o estación biológica estrella de agua esta ubicado a 9 kilometros del Valle de Cocora en este lugar es donde nace el rió Quindio, una ruta más para conocer en salento Quindio.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/estrellaAgua/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/estrellaAgua/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/finca-primavera-nevado-tolima.html",
+        "title": "Finca Primavera",
+        "seotitle": "Ruta al Nevado del Tolima por salento.",
+        "excerpt":"La Finca Primavera está ubicada a 17 kilómetros del Valle del Cocora, esta es la puerta para ir al Nevado del Tolima. Lo complicado de esta ruta es el cambio de altitud, pasaran de 1.800 msnm a 3.900 msnm lo que puede dar mal de altura.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/primaveraTolima/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/primaveraTolima/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/quindio/penas-blancas.html",
+        "title": "Peñas Blancas",
+        "seotitle": "Peñas Blancas en calarcá quindío.",
+        "excerpt":"Caminata Ecológica en Peñas Blancas, por un hermoso sendero que nos llevará a una majestuosa peña de 280 metros de altura. Esta se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Duración del trayecto 1 día.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/quindio/blancas/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/quindio/blancas/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/alto-del-nudo.html",
+        "title": "Alto Del Nudo",
+        "seotitle": "Alto Del Nudo-SerraníA Alto Del Nudo | Rutas",
+        "excerpt":"Guía completa para visitar el Alto del Nudo o Cerro del Nudo, este hermoso lugar esta ubicado muy cerca de Pereira y Dosquebradas, aquí encontraras todo lo que tienes que saber para conocer esta maravilla natural.",
+        "draft" : false,
+        "author": "Daniel López ",
+        "author_facebook": "https://www.facebook.com/ellions",
+        "author_twitter": "",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/quimbaya/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/quimbaya/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/barbas-bremen.html",
+        "title": "Reserva Natural Barbas Bremen",
+        "seotitle": "Reserva Barbas Bremen en Pereira Risaralda.",
+        "excerpt":"La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia y Salento (Quindío) y Pereira (Risaralda). Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/barbasBremen/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/barbasBremen/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/cascada-los-chorros.html",
+        "title": "Cascada los Chorros en la pastora",
+        "seotitle": "Cascada los chorros en la pastora,los chorros en el cedral cerca a Pereira Risaralda.",
+        "excerpt":"Cascada los chorros o los chorros esta ubicada en la pastora risaralda es una hermosa cascada de 20 metros de altura, este tesoro  se encuentra oculto en el Santuario de Fauna y Flora Otún Quimbaya. Vale la pena visitarla!!. Duración del trayecto 1 día.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/chorros/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/chorros/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/cerro-gobia.html",
+        "title": "Cerro Gobia",
+        "seotitle": "Cerro Gobia en quinchia risaralda, como llegar.",
+        "excerpt":"Cerro Gobia esta ubicado en el municipio de Quinchía a tan solo 1.5 kilómetros de su parque principal. Es una caminata ecológica ideal para personas que están iniciando en el senderismo. Duración del trayecto 1 día.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/gobia/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/gobia/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/chorros-de-don-lolo.html",
+        "title": "Chorros de Don Lolo",
+        "seotitle": "CHORROS DE DON LOLO en Santa Rosa Risaralda | Como llegar.",
+        "excerpt":"Caminata Ecológica en Pereira, por un hermoso sendero ubicado en Santa Rosa de Cabal que nos llevara a una majestuosa Cascada de nombre LOS CHORROS DE DON LOLO. Esta ruta ecologica tiene una duración de 1 día, La caminata se puede hacer con caninos 🐕.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/donlolo/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/donlolo/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/estacion-pereira.html",
+        "title": "Estación Pereira",
+        "seotitle": "ESTACIÓN PEREIRA EN MARSELLA | COMO LLEGAR",
+        "excerpt":"Estación Pereira esta ubicado entre Marsella y Pereira, en esta ruta cruzarás el río cauca en 'garrucha' y recorrerá unas antiguas vías de tren montando una 'marranita', ademas podras descubrir una linda cascada después de una caminata corta. La caminata se puede hacer con caninos 🐕, duración del trayecto 1 día.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/estacion/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/estacion/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/risaralda/laguna-del-otun.html",
+        "title": "Laguna Del Otún",
+        "seotitle": "Laguna del Otún - Como llegar|Rutas",
+        "excerpt":"Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde las tarifas para la entrada al parque, transporte y hospedaje.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/risaralda/lagunadelotun/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/risaralda/lagunadelotun/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/valle/bahia-malaga.html",
+        "title": "Bahía Málaga",
+        "seotitle": "🏅Bahía Málaga| ¿Que hacer y Donde Hospedarse?",
+        "excerpt":"Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia malaga, descubre cómo llegar a la playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/valle/bahia-malaga/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/valle/bahia-malaga/featured.jpg"
+      }
+
+      ,
+
+
+
+      { "url" : "/colombia/valle/cascada-en-alcala.html",
+        "title": "Cascada en Alcala",
+        "seotitle": "CASCADA EN  ALCALÁ VALLE| Como llegar.",
+        "excerpt":"Ruta ecológica en Alcalá, valle del Cauca, cascada con el nombre La Andrea o cascada la cristalina es una hermosa cascada en medio de la naturaleza. Duración del trayecto 1 día, nivel dificultad, fácil. Este recorrido se puede hacer con mascotas 🐕.",
+        "draft" : false,
+        "author": "Alejandro Ramirez",
+        "author_facebook": "https://www.facebook.com/Manuel-Ramirez-1955523454660905/",
+        "author_twitter": "nz3_manu",
+        "date": "Sep 05",
+        "image": "/images/rutas/valle/alcala/thumbnail.jpg",
+        "featured": "https://rutasdelosandes.com/images/rutas/valle/alcala/featured.jpg"
+      }
+
+
+    ]
+
+
+  },
+  "site":{
+    "seotitle":"Senderos y rutas escritas por locales de los Andes colombianos",
+    "excerpt":"Descubre hermosas y poco conocidas rutas de los Andes colombianos, evade mutitudes en el camino y observa las más bellas especies y paisajes en tus rutas de senderismo. Una experiencia única y maravillosa te espera!"
+  },
+  "jekyll":{
+    "logo" : "/images/logo.png",
+    "brandColor": "white",
+    "pages" : [
+
+      {"url":"/tienda", "title" :"Tienda"}
+
+      ,
+
+
+      {"url":"/", "title" :"Rutas"}
+
+      ,
+
+
+      {"url":"/blog", "title" :"Blog"}
+
+      ,
+
+
+      {"url":"/contacto", "title" :"Contacto"}
+
+
+    ]
+  }}

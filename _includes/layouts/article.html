@@ -140,59 +140,31 @@ layout: default
 {%- endfor -%}
 </ul>
 
-
 <ul class="related-articles">
-  {% assign maxRelated = 4 %}
-  {% assign minCommonTags =  1 %}
-  {% assign maxRelatedCounter = 0 %}
-  
-  {% for collection in site.collections %}
-  {% if collection.label == 'blog' %} 
-
-  {% for relatedPost in collection.docs %}
-
-    {% unless relatedPost.draft  %}                                       
-      {% assign sameTagCount = 0 %}
-      {% assign commonTags = '' %}
-        {% for tag in relatedPost.tags %}
-            {% if relatedPost.url != page.url %}
-                {% if tags contains tag %}
-                    {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-
-      {% if sameTagCount >= minCommonTags %}
-          <li>
-              <a class="article-link" href="{{ site.url }}{{ relatedPost.url | remove: '/amp'}} ">
-                  <div class="article">
-                        <div class="scrim-top">
-                        </div>
-                        <div class="scrim-bottom">
-                        </div>
-                        <h3 class="article-title">{{ relatedPost.title }}</h3>
-                        <h4 class="article-subtitle">Por {{ site.data.authors[relatedPost.author].name}}, Jun 28</h4>
-                        <amp-img 
-                        layout="responsive" 
-                        width="581"
-                        height="304"
-                        src="{{relatedPost.images_url}}/featured.jpg"> 
+{%- for post in collections.blog -%}
+{% if post.data.trending %}
+{% if post.url != page.url %}
+<li>
+  <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
+                <div class="article">
+                  <div class="scrim-top">
                   </div>
-                  
-              </a>
-          </li>
-          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-          {% if maxRelatedCounter >= maxRelated %}
-              {% break %}
-          {% endif %}
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
-  {% endif %}
-  {% endfor %}
+                  <div class="scrim-bottom">
+                  </div>
+                  <h3 class="article-title">{{ post.data.title }}</h3>
+                  <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}, Jun 28</h4>
+                  <amp-img
+                  layout="responsive"
+                  width="581"
+                  height="304"
+                  src="{{post.data.images_url}}/featured.jpg">
+                </div>
+            </a>
+</li>
+{% endif %}
+{% endif %}
+{%- endfor -%}
 </ul>
-
-
 
 
 
