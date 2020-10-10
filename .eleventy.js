@@ -17,6 +17,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("javascript");
   eleventyConfig.addPassthroughCopy("documents.json");
 
   return {
