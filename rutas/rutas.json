@@ -1,5 +1,5 @@
 {
   "layout": "trail",
   "tag": "rutas",
-  "permalink": "/amp/{{ page.filePathStem }}.html"
+  "permalink": "/amp/{{ page.filePathStem | remove_first: '/rutas'}}.html"
 }
