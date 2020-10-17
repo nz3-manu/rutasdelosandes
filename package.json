@@ -5,9 +5,9 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run build && babel-node server.js",
-    "build": "webpack --env.NODE_ENV=local --config _webpack.config.js &&  JEKYLL_ENV=development bundle exec  jekyll build && npm run build:functions",
+    "build": "webpack --env.NODE_ENV=local --config _webpack.config.js && eleventy && npm run build:functions",
     "build:functions": "netlify-lambda build --config ./webpack.functions.js  lambda",
-    "build-prod": "webpack --env.NODE_ENV=production --config _webpack.server.js && webpack --env.NODE_ENV=production --config _webpack.config.js && JEKYLL_ENV=prod  bundle exec jekyll build",
+    "build-prod": "webpack --env.NODE_ENV=production --config _webpack.server.js && webpack --env.NODE_ENV=production --config _webpack.config.js && eleventy",
     "serve": "node builtserver.js",
     "dev": "DEBUG=express:*  babel-node server.js --plugins transform-es2015-destructuring,transform-object-rest-spread --presets es2015,react "
   },
@@ -76,7 +76,9 @@
     "xoauth2": "^1.2.0"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
     "@babel/core": "^7.10.4",
+    "@babel/node": "^7.10.5",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.4",
     "@babel/plugin-syntax-jsx": "^7.10.4",

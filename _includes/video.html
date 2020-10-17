@@ -1,14 +1,15 @@
 <figure>
-    <amp-video 
-        width="{{include.width |default: 480}}"
-        height="{{include.height|default: 270}}"
-        layout="responsive"
-        autoplay
-        controls
-        loop>
-        <source type="video/mp4" src="/images/{{ include.file }}">
-    </amp-video>
-    {% if include.caption %}
-        <figcaption>{{include.caption}}</figcaption>
-    {% endif %}
+  <amp-video
+    width="{{width |default: 480}}"
+    height="{{height|default: 270}}"
+    layout="responsive"
+    autoplay
+    controls
+    loop
+  >
+    <source type="video/mp4" src="/images/{{ file }}" />
+  </amp-video>
+  {% if caption %}
+  <figcaption>{{caption}}</figcaption>
+  {% endif %}
 </figure>

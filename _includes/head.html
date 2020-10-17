@@ -13,7 +13,7 @@
   <script async custom-element="amp-fx-collection" src="https://cdn.ampproject.org/v0/amp-fx-collection-0.1.js"></script>
   <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
   <!-- seo title -->
-  {% if page.seo_title %} {% assign title =  page.seo_title %} {% else %} {% assign title =  page.title %}{% endif %}
+  {% if seo_title %} {% assign title =  seo_title %} {% else %} {% assign title =  title %}{% endif %}
   <meta name="amp-google-client-id-api" content="googleanalytics">
   <meta name="p:domain_verify" content="60a94ce360c86ef7f44098a262472bd4"/>
   <meta name="B-verify" content="845495a2973743e68864405bbd7e35abb9cf42e9" />
@@ -21,27 +21,27 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="manifest" href="/manifest.json">
   <title>{{title | escape}}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 300 | escape }}">
+  <meta name="description" content="{{ excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 300 | escape }}">
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ " /feed.xml
     " | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url | remove: '/amp'}}">
   <link rel="alternate" hreflang="{{site.lang}}" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  {% if page.alt_url %}
-  <link rel="alternate" hreflang="{{site.alternative_lang}}" href="{{ site.alternative_url }}{{page.alt_url | default: page.url}}">
+  {% if alt_url %}
+  <link rel="alternate" hreflang="{{site.alternative_lang}}" href="{{ site.alternative_url }}{{alt_url | default: page.url}}">
   {% endif %}
   <meta property="article:publisher" content="{{site.url}}">
   <!-- facebook metadata -->
-  {% if page.author %} {% assign authorInfo = site.data.authors[page.author] %} {% endif %}
+  {% if author %} {% assign authorInfo = authors[author] %} {% endif %}
   <meta property="og:title"       content="{{title | escape}}">
   <meta property="og:url"         content="{{site.url}}{{page.url}}"> 
   <meta property="og:type"        content="article">
-  <meta property="og:image"       content="{{site.url}}{{page.images_url}}/featured.jpg">
+  <meta property="og:image"       content="{{site.url}}{{images_url}}/featured.jpg">
   <meta property="article:author" content="{{authorInfo.facebook}}">
   <meta property="fb:app_id"      content="{{site.fb_app_id}}">
   <meta property="og:site_name"   content="{{site.title}}">
-  <meta property="og:description" content="{{page.excerpt}}">
+  <meta property="og:description" content="{{excerpt}}">
   <meta property="fb:pages"       content="{{ site.instant_pages }}">
   <meta property="og:updated_time" content="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">
   <meta property="og:rich_attachment" content="true">
@@ -51,8 +51,8 @@
   <meta name="twitter:site" content="@{{site.twitter}}">
   <meta name="twitter:creator" content="@{{authorInfo.twitter}}">
   <meta name="twitter:title" content="{{title | escape}}">
-  <meta name="twitter:description" content="{{page.excerpt}}">
-  <meta name="twitter:image" content="{{site.url}}{{page.images_url}}/featured.jpg">
+  <meta name="twitter:description" content="{{excerpt}}">
+  <meta name="twitter:image" content="{{site.url}}{{images_url}}/featured.jpg">
   <!-- common styles -->
   <style amp-custom>
   {% include styles.html  %}
