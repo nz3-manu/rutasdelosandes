@@ -20,7 +20,7 @@ permalink: "documents.json"
                 "author":"<%- post.data.author ? authors[post.data.author].name: "" -%>",
                 "author_facebook":"<%-  post.data.author ? authors[post.data.author].facebook: "" -%>",
                 "author_twitter":"<%- post.data.author ? authors[post.data.author].twitter: "" -%>",
-                "date": "<%- post.date -%>",
+                "date": "<%- post.date.getDate() -%>/<%- post.date.getMonth() + 1 -%>/<%- post.date.getFullYear() -%>",
                 "image": "<%- post.data.images_url -%>/featured.jpg"
                }
                <%- index === array.length -1 ? "":"," -%>
