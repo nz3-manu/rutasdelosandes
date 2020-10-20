@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  La Gruta
 categories: colombia 

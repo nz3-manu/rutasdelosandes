@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  Finca Primavera
 categories: colombia 
