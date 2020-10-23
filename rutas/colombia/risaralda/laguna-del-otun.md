@@ -7,6 +7,7 @@ excerpt: Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde
 images_url: /images/rutas/risaralda/lagunadelotun
 viewranger: 
 author: manuel
+trending: true
 ---
 # la Laguna Del Otún
 

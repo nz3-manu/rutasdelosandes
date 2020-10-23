@@ -7,6 +7,7 @@ excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disp
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
+trending: true
 ---
 # Bahía Málaga
 

@@ -7,6 +7,7 @@ excerpt: Conoce todo lo que necesitas saber para visitar el Nevado del Ruiz, Est
 images_url: /images/rutas/caldas/ruiz
 viewranger: 
 author: manuel
+trending: true
 ---
 
 # Nevado del Ruiz

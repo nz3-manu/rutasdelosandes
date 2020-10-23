@@ -7,6 +7,7 @@ excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Co
 images_url : /images/rutas/huila/desiertoTatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
+trending: true
 ---
 # Cómo llegar al desierto de la Tatacoa
 

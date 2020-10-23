@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title: Chorros de Don Lolo
 categories: colombia

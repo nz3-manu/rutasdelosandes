@@ -7,6 +7,7 @@ excerpt: Descubre hoteles en el Parque Tayrona, playas, entradas al parque tayro
 images_url: /images/rutas/costa/tayrona
 viewranger: 
 author: manuel
+trending: true
 ---
 # Parque Nacional Natural Tayrona
 
