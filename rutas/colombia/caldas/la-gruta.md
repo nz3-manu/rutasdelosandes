@@ -41,6 +41,8 @@ Si vas en 🚗 carro, moto 🛵 o bicicleta🚵🏻 puedes descargar nuestra rut
 ## Ruta a la Gruta 🚶🏼🚵🏻
 Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 horas caminando, en total estaríamos caminando 24 kilómetros(ida y regreso)😋, el camino no es sendero además de esto te encontrarás con algunos carros 🚗, motos 🛵 y bicicletas 🚵🏻, lo que dificulta un poco la caminata 🚶🏼.
 
+__Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la carretera esta en buen estado(verano).
+
 {% include image.html,
   file:"rutas/caldas/gruta/caminogruta.jpg",
   caption:"Foto del camino hasta La Gruta",
@@ -48,20 +50,12 @@ Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 
   height:"600"
 %}
 
-Mapa desde Gallinazo hasta La Gruta. 
-
-{% include iframe.html,
-    type:"custom",
-    mid:"1hA2hozzfqMiN6c7EISa_eVrO-qY&hl=es",
-    caption:"Ruta desde Gallinazo hasta La Gruta "
-%}
-En el mapa que subimos pueden ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda. Estos 2 caminos los van a encontrar un poco después de pasar por el Eco-Hotel Camino del Ruiz.
+En el mapa que subimos en la información anexa podrás ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda. 
 
 {% include related-rutas.html %}
 
-__Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la carretera esta en buen estado.
 
-Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramos con esta cascada que está localizada a un costado izquierdo de  la carretera (en la ruta GPS se encuentra señalizado).
+Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramos con esta cascada que está localizada a un costado izquierdo de  la carretera (la podrás encontrar señalado en el mapa).
 
 {% include image.html,
   file:"rutas/caldas/gruta/FotoCascada-1.jpg",
@@ -70,7 +64,7 @@ Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramo
   height:"671"
 %}
 
-Al llegar a La Gruta, nos encontraremos con una casa que es propiedad de la Chec(Central Hidroeléctrica de Caldas) en la cual venden aguapanela ☕️ con queso valor aproximado  $4.000 pesos. En este lugar podemos dejar los carros,motos y bicicletas parqueados 🅿️🚘🚲 a un costado de la carretera. 
+Al llegar a La Gruta, nos encontraremos con una casa La cual es señal de que ya llegamos 😎.
 
 {% include image.html,
   file:"rutas/caldas/gruta/FotoCasaCercaGruta.jpg",
@@ -94,24 +88,27 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda ll
 
 __En épocas de lluvias evitar:__ Estar en La Gruta ya que se puede presentar deslizamientos o crecidas  de la quebrada Termales y evitar subir en automóviles ya que la carretera se puede poner algo difícil por el pantano.
 
-Continuamos nuestro recorrido aproximadamente 200 metros  y nos vamos a encontrar con Termales la Gruta. 
+### Lugar cercano para acampar 🏕
 
 {% include image.html,
   file:"rutas/caldas/gruta/hostal-termales-Gruta.jpeg",
-  caption:"Hostal Termales La Gruta",
+  caption:"Camping cuenta con 3 piscinas",
   width:"800",
   height:"533"
 %}
 
-Allí vamos a encontrar: Arepa con queso y aguapanela☕️ a $4.000 pesos, zona de camping🏕 a $17.000 pesos por persona incluye; Entrada a piscina de aguas termales parqueadero 🅿️🚘 para moto, carro o bicicleta. Además de esto cuenta con fogón de leña que lo pueden usar para cocinar, la leña se vende por aparte tiene un costo aproximado de $5.000 pesos. No cuenta con habitación Privada. Para hacer reservación se debe llamar con 2 dias anticipacion si es puente festivo. Teléfono:<a href="tel:317 7238878">
-317 7238878 </a> Don Elgar. 
+Para ir a acampar 🏕 a este lugar o simplemente ir por pasadia es recomendable llamar 2 días antes y a hacer la reserva ya que de lo contrario podrás perder la ida y no te dejen ingresar a este lugar, __podrás encontrar el numero de telefono en la información anexa que dejamos con la ruta.__
 
-__Recomendación:__ La piscina es un poco pequeña, en los días festivos esta se puede llenar. Además no cuentan con areas respectivas para fumadores 🚬🌿, así que si no cuentas con suerte te podrías encontrar con personas fumando en la piscina.
+
+__Recomendación:__ Además no cuentan con areas respectivas para fumadores 🚬🌿, así que si no cuentas con suerte te podrías encontrar con personas fumando en la piscina.
 
 ## ¿Cómo regresar de la Gruta 🚌🏡?
-Para regresar tenemos tomar el mismo camino por el que subimos. Si vamos a tomar bus, es bueno tener en cuenta que el último bus sale a las 8:00 pm de Gallinazo a Manizales.  Tenemos que planificar bien el  tiempo para que no nos coja la noche en el camino, ya que en la noche nos vamos a encontrar con algunas motos que bajan sin luces esto puede ser peligroso por ser la vía tan angosta.
+Para regresar tenemos tomar el mismo camino por el que subimos, si vas a tomar es bus, es bueno tener en cuenta que el último bus que sale para manizales.  Tenemos que planificar bien el  tiempo para que no nos coja la noche en el camino, ya que en la noche nos vamos a encontrar con algunas motos que bajan sin luces esto puede ser peligroso por ser la vía tan angosta.
+
 
 Este es el fin de la ruta a La Gruta, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional de la ruta a la gruta.__</a>
 
 
 
