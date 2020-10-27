@@ -47,7 +47,7 @@ El jeep nos dejo en el “Restaurante-Mirador Don Lolo”, a partir de aquí des
 En la información anexa al final de la ruta te dejamos la ruta GPS, el mapa de la ruta y numeros de contacto.
 
 
-En el recorrido nos encontramos con varias fincas, en una de estas encontramos; una pequeña tienda, donde además prestan el servicio de camping 🏕. 
+En el recorrido nos encontramos con varias fincas.
 
 Una vez de haber dejado atrás las fincas, pasamos un pequeño río y nos encontraremos con un sendero rodeado de una hermosa vegetación 🍃.
 
