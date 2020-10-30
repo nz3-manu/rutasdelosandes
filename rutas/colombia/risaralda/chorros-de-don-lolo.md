@@ -75,7 +75,7 @@ Para nuestro regreso tomamos el mismo camino por el que llegamos. Tener en cuent
 
 Este es el fin de la ruta a los Chorros de Don Lolo, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional de la ruta a los Chorros de don Lolo.__</a>
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/chorros-de-don-lolo">__Descargar información adicional de la ruta a los Chorros de don Lolo.__</a>
 
 ## Presupuesto a los Chorros de Don Lolo por persona 🤔💰.
 

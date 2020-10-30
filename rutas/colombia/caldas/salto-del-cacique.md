@@ -28,7 +28,7 @@ Si vas en carro o moto lo podrás dejar cerca a la entrada a la cascada y solo t
     caption:"Video salto del cacique"
 %}
 
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-estacion-pereira">__Descargar información adicional del salto del cacique.__</a>
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-al-salto-del-cacique">__Descargar información adicional del salto del cacique.__</a>
 
 
 
