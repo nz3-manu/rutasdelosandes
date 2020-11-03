@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  Casa de los Colibríes en Salento
 categories: colombia 
@@ -12,6 +13,8 @@ author: manuel
 La casa de los colibríes se encuentra a 4.8 kilómetros del Valle del Cocora, Salento Quindío hogar del árbol nacional de Colombia la palma de cera🌴 y de muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción. 
 
 Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de Flora y fauna. Es conocida principalmente por albergar varias especies de colibríes que rondan está casa, algunos se pueden ver tan cerca que pareciera no les importara la presencia de los seres humanos.
+
+Actulmente el ingreso a este lugar se encuentra cerrado
 
 ## ¿Qué encontrarás en Salento 🏞👀?
 * Un sendero acompañado de gran biodiversidad flora y fauna.
