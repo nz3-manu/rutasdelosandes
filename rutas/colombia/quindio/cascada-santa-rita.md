@@ -26,6 +26,8 @@ Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferr
 
 Suscríbete a nuestro canal de youtube dando click <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+[<a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/cacada-el-mico.html">Quizás también te pueda interesar conocer algunas rutas ocultas en el eje cafetero</a>]
+
 ## ¿Cómo llegar a la Cascada Santa Rita 🛣🚌🚗🛵🚵🏻?
 
 Para llegar a las cascadas de Santa Rita tuvimos que tomar un bus con destino Salento y nos bajamos en la vereda Boquía. El valor del pasaje es de $7.000 Pesos desde el terminal de Pereira, el bus sale a partir de las 6:30 am con una frecuencia de 1 hora.

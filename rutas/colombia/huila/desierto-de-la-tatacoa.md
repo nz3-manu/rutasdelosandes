@@ -34,6 +34,10 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %} 
 </amp-carousel>
 
+
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/FwBVipBLQgS21DmEA">__Clic aquí para llenar formulario.__</a>
+
+
 ## ¿Cómo llegar al Desierto de la Tatacoa 🛣🚌?
 Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
 

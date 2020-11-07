@@ -32,6 +32,8 @@ Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/8XdmnyRVytvDNdsC6">__Clic aquí para llenar formulario.__</a>
+
 ## ¿CÓMO LLEGAR A CERRO TUSA ?
 
 Una vez en Medellín, nos dirigimos hacia el terminal del sur donde tomamos el 🚌bus hacia Venecia, el cual sale cada hora desde las 6:15 am hasta las 6:15 pm, el valor del pasaje es de aproximadamente $14.000 pesos.
