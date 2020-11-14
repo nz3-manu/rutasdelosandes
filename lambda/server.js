@@ -6,29 +6,38 @@ const express = require("express"),
   ReactDOMServer = require("react-dom/server"),
   bodyParser = require("body-parser"),
   webpush = require("web-push"),
-  path = require("path"),
-  md5 = require("md5"),
   multer = require("multer"),
   session = require("express-session"),
-  request = require("request"),
   sm = require("sitemap"),
   Sentry = require("@sentry/node"),
   serverless = require("serverless-http"),
-  cheerio = require("cheerio");
+  cheerio = require("cheerio"),
+  deepmerge = require("deepmerge");
 
-import { SheetsRegistry } from "react-jss/lib/jss";
-import JssProvider from "react-jss/lib/JssProvider";
+import { SheetsRegistry, JssProvider } from "react-jss";
 import {
   MuiThemeProvider,
   createMuiTheme,
-  createGenerateClassName
+  createGenerateClassName,
 } from "@material-ui/core/styles";
 import blueGrey from "@material-ui/core/colors/blueGrey";
+import {
+  lineItemAdd,
+  lineItemRemove,
+  updateLineItem,
+  shopNameAndProductsPromise,
+  cartPromise,
+  productByHandle,
+  createCheckout,
+  fetchCheckout,
+} from "./shopify/shopifyPromises.js";
+
+//import productTemplate from "./views/product.ejs";
 
 const vapidKeys = {
   publicKey:
     "BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4",
-  privateKey: "z6scVphnKP7WPgjVeJZFgvGdMlrFT8V2hVEg08mnoms"
+  privateKey: "z6scVphnKP7WPgjVeJZFgvGdMlrFT8V2hVEg08mnoms",
 };
 
 webpush.setVapidDetails(
@@ -41,7 +50,7 @@ let upload = multer();
 
 Sentry.init({
   dsn:
-    "https://2ff395a5fa134476b6467e4164a514be@o98027.ingest.sentry.io/5204380"
+    "https://2ff395a5fa134476b6467e4164a514be@o98027.ingest.sentry.io/5204380",
 });
 // The request handler must be the first middleware on the app
 app.use(Sentry.Handlers.requestHandler());
@@ -50,10 +59,6 @@ const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
 
 import { read, write, push, sendToDevice, update, remove } from "./utils/db";
-
-// i think this is cousing the errors
-app.set("views", "../views");
-app.set("view engine", "ejs");
 
 require("es6-promise").polyfill();
 require("isomorphic-fetch");
@@ -69,8 +74,7 @@ global.__preloaded__ = documents;
 //import { read, write, push, sendToDevice, update, remove } from "./chatbot/db";
 //import { Promise } from "firebase";
 // mocking shopify responses
-global.__mocking__ = true;
-
+global.__mocking__ = false;
 
 // Use the session middleware
 app.use(
@@ -78,7 +82,7 @@ app.use(
     secret: "keyboard cat",
     resave: false,
     saveUninitialized: false,
-    cookie: { maxAge: 7200000 }
+    cookie: { maxAge: 7200000 },
   })
 );
 
@@ -89,18 +93,18 @@ let allDocs = Object.values(global.__preloaded__.documents).reduce(
 );
 const siteMeta = global.__preloaded__.site;
 // Sitemap route
-router.get("/sitemap.xml", function(req, res) {
+router.get("/sitemap.xml", function (req, res) {
   //TODO set all the sitemap parameters properly
   let sitemap = sm.createSitemap({
     hostname: "https://rutasdelosandes.com/",
     cacheTime: 600000, // 600 sec - cache purge period
-    urls: allDocs.map(doc => ({
+    urls: allDocs.map((doc) => ({
       url: doc.url,
       changefreq: "daily",
-      priority: 0.3
-    }))
+      priority: 0.3,
+    })),
   });
-  sitemap.toXML(function(err, xml) {
+  sitemap.toXML(function (err, xml) {
     if (err) {
       return res.status(500).end();
     }
@@ -109,13 +113,162 @@ router.get("/sitemap.xml", function(req, res) {
   });
 });
 
-app.post("/api/save-subscription/", function(req, res) {
+app.post("/api/save-subscription/", function (req, res) {
   var data = req.body;
-  push(`endpoints`, data).then(function(){
-    return res.status(200).send("ok");
-  }).catch(function(error){
-    return res.status(500).json({ error: error.toString() });
+  push(`endpoints`, data)
+    .then(function () {
+      return res.status(200).send("ok");
+    })
+    .catch(function (error) {
+      return res.status(500).json({ error: error.toString() });
+    });
+});
+
+router.get("/getproducts", function (req, res) {
+  if (global.__mocking__) {
+    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.json(
+      JSON.parse(fs.readFileSync("./mockdata/getproducts.json", "utf8"))
+    );
+  } else {
+    return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
+      if (result.errors) {
+        console.log(`result coming from shopify promese`, result);
+        res.json(result);
+      } else {
+        let products = result.data.shop.products.edges.map(
+          (product) => product.node
+        );
+        res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+        res.json(products);
+      }
+    });
+  }
+});
+
+var replaceAccents = function (cadena) {
+  var chars = {
+    á: "a",
+    é: "e",
+    í: "i",
+    ó: "o",
+    ú: "u",
+    à: "a",
+    è: "e",
+    ì: "i",
+    ò: "o",
+    ù: "u",
+    ñ: "n",
+    Á: "A",
+    É: "E",
+    Í: "I",
+    Ó: "O",
+    Ú: "U",
+    À: "A",
+    È: "E",
+    Ì: "I",
+    Ò: "O",
+    Ù: "U",
+    Ñ: "N",
+  };
+  var expr = /[áàéèíìóòúùñ]/gi;
+  var res = cadena.replace(expr, function (e) {
+    return chars[e];
   });
+  return res;
+};
+
+router.get("/amp/producto/:slug", async (req, res) => {
+  const slug = req.params.slug;
+  let shopifyProduct;
+  if (global.__mocking__) {
+    shopifyProduct = JSON.parse(
+      fs.readFileSync(`./mockdata/${slug}.json`, "utf8")
+    );
+  } else {
+    shopifyProduct = await productByHandle(slug).then((result) => {
+      let data = JSON.stringify(result, null, 2);
+      fs.writeFileSync(`./mockdata/${slug}.json`, data);
+      return result;
+    });
+  }
+
+  const shopifyVariations = shopifyProduct.data.productByHandle.options;
+  const buildNestedObj = (values, id, obj = {}, ref = obj) => {
+    let lastValue = values.shift();
+    if (values.length == 0) {
+      ref[lastValue] = id;
+      return obj;
+    } else {
+      ref[lastValue] = {};
+      buildNestedObj(values, id, obj, ref[lastValue]);
+    }
+  };
+
+  let variationsArray = shopifyProduct.data.productByHandle.variants.edges.map(
+    (variant) => {
+      let variationsValues = variant.node.selectedOptions.map(
+        (variantObj) => variantObj.value
+      );
+      let obj = {};
+      buildNestedObj(variationsValues, variant.node.id, obj);
+      return obj;
+    }
+  );
+
+  const variationsMatrix = deepmerge.all(variationsArray);
+
+  let defaultVariations = shopifyProduct.data.productByHandle.variants.edges[0].node.selectedOptions
+    .map((option) => ({ [replaceAccents(option.name)]: option.value }))
+    .reduce((valorAnterior, valorActual) => {
+      return Object.assign(valorAnterior, valorActual);
+    }, {});
+
+  let defaultChild = shopifyProduct.data.productByHandle.variants.edges[0].node;
+
+  let price = parseInt(defaultChild.priceV2.amount);
+  let compareAtPrice =
+    defaultChild.compareAtPriceV2 != null
+      ? parseInt(defaultChild.compareAtPriceV2.amount)
+      : "";
+
+  let variationsParams = shopifyVariations
+    .map((variantObj) => variantObj.name)
+    .reduce((valorAnterior, valorActual, indice, vector) => {
+      return (
+        valorAnterior +
+        `[product.variationSelected.${replaceAccents(valorActual)}]`
+      );
+    }, `variationMatrix`);
+
+  const children = shopifyProduct.data.productByHandle.variants.edges.map(
+    (child) => {
+      return child.node;
+    }
+  );
+
+  let quantityExpression = "product.quantity";
+
+  //	let main_image = getMainImage(products.included, product.relationships.main_image.data.id)
+  //	let files = getFiles(products.included, product.relationships.files)
+  let productDisplay = Object.assign(
+    {},
+    { shopifyVariations },
+    shopifyProduct.data.productByHandle,
+    { children },
+    { variations: variationsMatrix },
+    { defaultChild: defaultChild.id, price, compareAtPrice },
+    { defaultVariations: defaultVariations },
+    { url: `producto/${slug}` }
+  );
+  const data = {
+    product: productDisplay,
+    variationsParams,
+    replaceAccents,
+    quantityExpression,
+  };
+
+  res.status(200).send(productTemplate(data));
 });
 
 router.get("/getcart", async (req, res, next) => {
@@ -130,7 +283,9 @@ router.get("/getcart", async (req, res, next) => {
     } else {
       cartOpen = true;
       shopifyCart = await fetchCheckout(checkoutId);
-      lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
+      lineItems = shopifyCart.data.node.lineItems.edges.map(
+        (item) => item.node
+      );
     }
 
     res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
@@ -138,7 +293,7 @@ router.get("/getcart", async (req, res, next) => {
       number: lineItems.length,
       items: lineItems,
       checkoutId,
-      open: cartOpen
+      open: cartOpen,
     });
   } catch (error) {
     return next(error);
@@ -148,7 +303,9 @@ router.get("/getcart", async (req, res, next) => {
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
   if (req.originalUrl.match(/[a-z/].html[-a-zA-Z0-9()@:%_\+.~#?&//=]*/)) {
-    ampEquivalent = `${req.protocol}://rutasdelosandes.com/amp${req.originalUrl.split("?").shift()}`;
+    ampEquivalent = `${
+      req.protocol
+    }://rutasdelosandes.com/amp${req.originalUrl.split("?").shift()}`;
   }
 
   let cartOpen = req.query.cartOpen;
@@ -169,8 +326,8 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
   const theme = createMuiTheme({
     palette: {
       primary: blueGrey,
-      type: "light"
-    }
+      type: "light",
+    },
   });
   const generateClassName = createGenerateClassName();
   // end of material ui server stylesheet
@@ -238,8 +395,8 @@ function renderFullPage(
   let RegisterSW = ``;
   let amptag = ``;
 
-  const metaDataArray = allDocs.filter(doc => (doc.url == reqUrl));
-  const  docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
+  const metaDataArray = allDocs.filter((doc) => doc.url == reqUrl);
+  const docMetaData = metaDataArray.length ? metaDataArray[0] : siteMeta;
 
   if (process.env.NODE_ENV == "production") {
     RegisterSW = ``;
@@ -254,7 +411,9 @@ function renderFullPage(
     $("script").remove();
     $("noscript").remove();
     $("amp-analytics").remove();
-    amptag = ` ${$("head").html()} <link rel="amphtml" href="${ampEquivalent}"> `;
+    amptag = ` ${$(
+      "head"
+    ).html()} <link rel="amphtml" href="${ampEquivalent}"> `;
   }
 
   return `
@@ -345,7 +504,6 @@ const routerBasePath =
 
 // Setup routes
 app.use(router);
-
 
 // The error handler must be before any other error middleware and after all controllers
 app.use(Sentry.Handlers.errorHandler());

@@ -17,3 +17,6 @@ ssl*
 localStorage
 builtserver.js
 functions
+
+# Local Netlify folder
+.netlify
