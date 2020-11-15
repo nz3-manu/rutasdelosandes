@@ -12,7 +12,8 @@ const express = require("express"),
   Sentry = require("@sentry/node"),
   serverless = require("serverless-http"),
   cheerio = require("cheerio"),
-  deepmerge = require("deepmerge");
+  deepmerge = require("deepmerge"),
+  ejs = require('ejs');
 
 import { SheetsRegistry, JssProvider } from "react-jss";
 import {
@@ -33,7 +34,6 @@ import {
 } from "./shopify/shopifyPromises.js";
 
 import productTemplate from "./views/product.html";
-
 const vapidKeys = {
   publicKey:
     "BMYgIYpw8jtC_61DQFh9k0rJP-5XUrWIwsUAOOnJmJQOfdS94jSlk0C2q86F1ebI2Yln5yz6v-cTJ2h10GM-vd4",
@@ -268,7 +268,7 @@ router.get("/amp/producto/:slug", async (req, res) => {
     quantityExpression,
   };
 
-  res.status(200).send(productTemplate(data));
+  res.status(200).send(ejs.render(productTemplate,data));
 });
 
 router.get("/getcart", async (req, res, next) => {
