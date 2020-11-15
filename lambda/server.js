@@ -32,7 +32,7 @@ import {
   fetchCheckout,
 } from "./shopify/shopifyPromises.js";
 
-import productTemplate from "!!ejs-webpack-loader!./views/product.ejs";
+import productTemplate from "./views/product.html";
 
 const vapidKeys = {
   publicKey:
