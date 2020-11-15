@@ -73,8 +73,6 @@ import { log } from "util";
 global.__preloaded__ = documents;
 //import { read, write, push, sendToDevice, update, remove } from "./chatbot/db";
 //import { Promise } from "firebase";
-// mocking shopify responses
-global.__mocking__ = false;
 
 // Use the session middleware
 app.use(
@@ -125,12 +123,6 @@ app.post("/api/save-subscription/", function (req, res) {
 });
 
 router.get("/getproducts", function (req, res) {
-  if (global.__mocking__) {
-    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
-    res.json(
-      JSON.parse(fs.readFileSync("./mockdata/getproducts.json", "utf8"))
-    );
-  } else {
     return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
       if (result.errors) {
         console.log(`result coming from shopify promese`, result);
@@ -143,7 +135,6 @@ router.get("/getproducts", function (req, res) {
         res.json(products);
       }
     });
-  }
 });
 
 var replaceAccents = function (cadena) {
@@ -181,17 +172,9 @@ var replaceAccents = function (cadena) {
 router.get("/amp/producto/:slug", async (req, res) => {
   const slug = req.params.slug;
   let shopifyProduct;
-  if (global.__mocking__) {
-    shopifyProduct = JSON.parse(
-      fs.readFileSync(`./mockdata/${slug}.json`, "utf8")
-    );
-  } else {
     shopifyProduct = await productByHandle(slug).then((result) => {
-      let data = JSON.stringify(result, null, 2);
-      fs.writeFileSync(`./mockdata/${slug}.json`, data);
       return result;
     });
-  }
 
   const shopifyVariations = shopifyProduct.data.productByHandle.options;
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {
