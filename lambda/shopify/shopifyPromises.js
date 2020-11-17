@@ -1,4 +1,4 @@
-import client from './graphql-js-client';
+import client from './graphql-js-client.js';
 import {gql} from 'babel-plugin-graphql-js-client-transform';
 var checkoutId = '1232321';
 

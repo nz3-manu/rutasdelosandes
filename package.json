@@ -36,6 +36,7 @@
     "dotenv": "^4.0.0",
     "downshift": "^1.28.0",
     "ejs": "^2.5.7",
+    "ejs-webpack-loader": "^2.2.2",
     "es6-promise": "^4.1.1",
     "express-session": "^1.15.6",
     "firebase-admin": "^9.0.0",
