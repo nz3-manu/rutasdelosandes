@@ -25,18 +25,13 @@ Para llegar hasta este lugar lo podrás hacer de 2 formas:
 
 __Forma 1:__
 
-Este lugar se encuentra a 1 hora y 50 minutos de Pereira, en la cual vas a tener que tomar:
-* Bus hasta un pueblo ubicado a aproximadamente a 35 kilómetros de pereira (1 hora).
-* Jeep desde el pueblo hasta una vereda cerca al río cauca (40 minutos).
-* Brujita o marranita hasta este lugar (10 minutos).
+Tardarás en promedio 1 hora y 50 minutos, vas a tener que tomar: bus, jeep para despues una Brujita o marranita.
 
 __Forma 2:__
 
-En esta opción vas a tener que tomar los siguientes transportes:
-* Jeep por 40 minutos. 
-* Marranita o brujita por 30 minutos.
+Tardarás en promedio 1 hora y 10 minutos, vas a tener que tomar: Jeep y Marranita o brujita
 
-Tienes que tener en cuenta que cualquiera de las 2 opciones que tomes es importante que vayas con un grupo de amigos para que el viaje en la marranita no te salga tan costoso.
+Tienes que tener en cuenta que cualquiera de las 2 opciones que tomes es importante que vayas con un grupo de amigos para que el viaje en la marranita no te salga tan costoso, en invierno es muy probable que las vías estén cerradas por deslizamientos.
 
 
 Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7">__Clic aquí para llenar formulario.__</a>

@@ -20,7 +20,7 @@ De hacer un turismo masivo en estos lugares podríamos ocasionar problemas a est
 ## Como llegar al salto del Cacique
 
 El salto del cacique, es una hermosa cascada de aproximadamente 12 metros de altura.
-Está ubicada aproximadamente a 36 kilómetros de Manizales cerca del municipio de palestina caldas, para llegar allí tendrás que llegar a un lugar conocido como la rochela y después por un camino destapado por cerca de 2 kilometros, para después cruzar por unos potreros.
+Está ubicada aproximadamente a 36 kilómetros de Manizales cerca del municipio de palestina caldas.
 
 En la información adjunta podrás ver el mapa de la ruta realizada con algunas indicaciones que te ayudaran a llegar mas fácilmente. 
 

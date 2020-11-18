@@ -41,6 +41,6 @@ Si quieres ir bajo tu propia responsabilidad te dejamos la información necesari
 _Si has comprado alguno de nuestro productos en la tienda randes store, recibiste un código con el cual podrás descargar esta información totalmente gratis, igualmente recuerda tomar todas las recomendaciones y precauciones anteriormente mencionadas._
 
 
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-al-salto-del-cacique">__Descargar información adicional Chorros San Rafael.__</a>
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional">__Descargar información adicional Chorros San Rafael.__</a>
 
 

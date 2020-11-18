@@ -11,7 +11,7 @@ featured:  https://rutasdelosandes.com/images/blog/tipsmontana/rutas-senderismo-
 
 # Rutas naturales ocultas en el eje cafetero para hacer senderismo 
 
-En este post encontrarás algunas rutas naturales ocultas cerca de las principales ciudades del eje cafetero, Manizales, Pereira y Armenia.
+En este post encontrarás algunas rutas naturales ocultas cerca de las principales ciudades del Eje Cafetero, Manizales, Pereira y Armenia.
 
 Encontrarás la información para ir por tu propia cuenta o si deseas ir con un guía local, encontrarás el registro para dejarnos tus datos y una vez se complete el número mínimo de personas para hacer el recorrido pasaremos esta información al guía local, el cual se comunicará con ustedes.
 
@@ -74,4 +74,5 @@ Los Chorros de San Rafael están ubicados en el municipio de Calarcá en el depa
 Podrás ver el link de esta ruta <a target="_blank" href="https://rutasdelosandes.com/colombia/quindio/chorros-san-rafael.html">__Aquí__</a>
 
 
-Próximamente estaremos publicando más rutas de este estilo en este post
+Próximamente estaremos publicando más rutas en este post.
+
