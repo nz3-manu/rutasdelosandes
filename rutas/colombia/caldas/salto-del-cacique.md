@@ -12,7 +12,6 @@ author: manuel
 
 # Cascada Salto del Cacique en palestin caldas
 
-
 __Esta ruta pertenece a nuestras rutas ocultas en el eje cafetero__
 ¿Que diferencia una ruta oculta de las otras rutas? las rutas ocultas no cuentan con senderos demarcados, personas que protejan estos lugares naturales y muchas veces se tendrá que pasar por fincas de privados. 
 
@@ -32,7 +31,7 @@ En la información adjunta podrás ver el mapa de la ruta realizada con algunas 
 * Llevar tenis de buen agarre y tener cuidado con las piedras que pueden estar muy resbalosas.
 * No sobra decir que donde cae el chorro el agua baja con mucha presión así que si te llegaras a meter debajo de este te podría llevar hasta el fondo y golpearte con rocas o algo peor.
 
-Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/8MTJD6K2i5YY5kbx8">__Clic aquí para llenar formulario.__</a>
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7">__Clic aquí para llenar formulario.__</a>
 
 ## ¿Qué encontrarás en el salto del cacique 🏞👀?
 
