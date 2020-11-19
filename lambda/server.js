@@ -137,6 +137,30 @@ router.get("/getproducts", function (req, res) {
     });
 });
 
+router.get("/producto/availability/:slug", async (req, res) => {
+  const slug = req.params.slug;
+  const product = await productByHandle(slug).then(res => {
+    return res.data;
+  });
+
+  const items = product.productByHandle.variants.edges.map(variant => {
+    let variantObj = variant.node;
+    let options = [
+      { selected: "selected", label: 1 },
+      { selected: "", label: 2 }
+    ];
+    return {
+      ...variantObj,
+      total: variantObj.availableForSale ? 2 : 0,
+      options: options
+    };
+  });
+
+  res.setHeader("Content-Type", "application/json");
+  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+  res.status(200).send(JSON.stringify({ items: items }));
+});
+
 var replaceAccents = function (cadena) {
   var chars = {
     á: "a",
