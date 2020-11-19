@@ -306,6 +306,94 @@ router.get("/getcart", async (req, res, next) => {
     return next(error);
   }
 });
+
+app.post("/removecart", async (req, res) => {
+  try {
+    let checkoutId = req.session.checkoutId;
+    let itemId = req.body.id;
+    let shopifyCart, lineItems;
+
+    const input = {
+      checkoutId,
+      lineItemIds: [itemId]
+    };
+
+    await lineItemRemove(input);
+    shopifyCart = await fetchCheckout(checkoutId);
+    lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
+
+    res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.json({ number: lineItems.length, items: lineItems });
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+app.post("/addcart", upload.fields([]), async (req, res) => {
+  try {
+    let productId = req.body.id;
+    let productUrl = req.body.url;
+    let quantity = Number(req.body.quantity);
+    let action = req.body.action;
+    let origin = req.header("origin").toLowerCase();
+    let source = req.query.__amp_source_origin;
+    let checkoutUrl =
+      process.env.NODE_ENV == "production"
+        ? `https://rutasdelosandes.com/checkout`
+        : `http://localhost:8080/checkout`;
+    let EnvproductUrl =
+      process.env.NODE_ENV == "production"
+        ? `https://rutasdelosandes.com/${productUrl}`
+        : `http://localhost:8080/${productUrl}`;
+    let checkoutId = req.session.checkoutId;
+
+    if (!checkoutId) {
+      let result = await createCheckout();
+      checkoutId = result.model.checkoutCreate.checkout.id;
+      req.session.checkoutId = checkoutId;
+      console.log("checkout ID on add to cart", req.session.checkoutId);
+    }
+    // Add the variant to our cart
+    const input = {
+      checkoutId,
+      lineItems: [{ variantId: productId, quantity }]
+    };
+
+    let lineItemId = await lineItemAdd(input);
+    res.set("Access-Control-Allow-Origin", origin);
+    res.set(
+      "Access-Control-Allow-Headers",
+      "Origin, X-Requested-With, Content-Type, Accept"
+    );
+    res.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS, HEAD, PUT");
+    res.set("Access-Control-Allow-Credentials", "true");
+    res.set(
+      "Access-Control-Expose-Headers",
+      "AMP-Access-Control-Allow-Source-Origin,AMP-Redirect-To"
+    );
+
+    if (action == "checkout") {
+      res.set(
+        "amp-redirect-to",
+        `${checkoutUrl}?checkoutId=${lineItemId.data.checkoutLineItemsAdd.checkout.id}`
+      );
+    } else {
+      res.set("amp-redirect-to", `${EnvproductUrl}?cartOpen=true`);
+    }
+    res.set("AMP-Access-Control-Allow-Source-Origin", source);
+    res.json({ status: "ok" });
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+app.get("/checkout", async (req, res, next) => {
+  const checkoutId = req.query.checkoutId;
+  let checkoutObj = await fetchCheckout(checkoutId);
+  let webUrl = checkoutObj.data.node.webUrl;
+  res.redirect(webUrl);
+});
+
 // if not a static file come to react router
 router.get(`*`, (req, res) => {
   let ampEquivalent = false;
