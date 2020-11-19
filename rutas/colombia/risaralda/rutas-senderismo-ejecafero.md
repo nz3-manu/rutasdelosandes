@@ -1,26 +1,23 @@
 ---
-layout: article
-title:  Rutas naturales ocultas en el eje cafetero.
-categories: blog
-seo_title: Rutas de senderismo ocultas en el eje cafetero.
-excerpt: Descubre lugares naturales ocultos para hacer senderismo o caminar cerca de las principales ciudades del eje cafetero; Pereira, Manizales, Armenia.
-images_url: /images/blog/tipsmontana/rutas-senderismo-ejecafero
-tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/rutas-senderismo-ejecafero/featured.jpg
+layout: trail
+title:  Rutas de sendrismo ocultas en el Eje Cafetero.
+categories: colombia 
+seo_title: Rutas de senderismo ocultas en el Eje Cafetero.
+excerpt: Descubre lugares naturales para hacer senderismo o caminar, cerca de las principales ciudades del eje cafetero; Pereira, Manizales, Armenia.
+images_url: /images/rutas/risaralda/rutas-senderismo-ejecafero
+viewranger: MTM4MjU4NA==
+author: manuel
 ---
+# Rutas de senderismo ocultas en el Eje Cafetero 
 
-# Rutas naturales ocultas en el eje cafetero para hacer senderismo 
+En este post encontrarás algunas rutas naturales ocultas cerca de las principales ciudades del Eje Cafetero; Manizales, Pereira y Armenia.
 
-En este post encontrarás algunas rutas naturales ocultas cerca de las principales ciudades del Eje Cafetero, Manizales, Pereira y Armenia.
-
-Hallarás la información para ir por tu propia cuenta o si deseas ir con un guía local, encontrarás un formulario para dejarnos tus datos, una vez se complete el número mínimo de personas para hacer el recorrido pasaremos esta información al guía local, el cual se comunicará con ustedes.
-
-Queremos aclarar que la información de estas rutas no las compartimos tan detalladas como otras que ya tenemos en nuestro blog, esto lo hacemos por varias razones, una de esta es la fragilidad de estos ecosistemas para un turismo de masas.
+Hallarás la información para ir por tu propia cuenta o si deseas ir con un guía local, encontrarás un formulario para deajar tus datos, una vez se complete el número mínimo de personas para hacer el recorrido pasaremos esta información al guía local, el cual se comunicará con ustedes.
 
 
 Una vez dicho esto empecemos.
 
-## Rutas naturales cerca de Manizales
+## Ruta de senderismo cerca de Manizales
 
 ###  Salto del Cacique
 
@@ -38,10 +35,10 @@ Podrás ver el link de esta ruta
  <a target="_blank" href="https://rutasdelosandes.com/colombia/caldas/salto-del-cacique.html">__Aquí__</a>
 
 
-## Rutas naturales cerca de Pereira
+## Ruta de senderismo cerca de Pereira
 
 
-### Cascada el mico
+### Cascada del Mico
 
 Este lugar se encuentra cerca de las antiguas vías férreas que comunicaban al eje cafetero entres sí. En este lugar se puede apreciar cómo la naturaleza empieza a sobresalir por encima de esta construcción,  Muy cerca de este lugar también se puede observar el río cauca.
 
@@ -57,7 +54,7 @@ Podrás ver el link de esta ruta
  <a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/cacada-el-mico.html">__Aquí__</a>
 
 
-## Rutas naturales cerca de Armenia
+## Ruta de senderismo cerca de Armenia
 
 ### Chorros de San Rafael
 
@@ -75,4 +72,3 @@ Podrás ver el link de esta ruta <a target="_blank" href="https://rutasdelosande
 
 
 Próximamente estaremos publicando más rutas en este post.
-

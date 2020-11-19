@@ -1,15 +1,15 @@
 ---
 draft: true
 layout: trail
-title:  Cascada el mico
+title:  Cascada del Mico
 categories: colombia 
-seo_title: Rio en Santa Cecilia.
+seo_title: Cascada del Mico.
 excerpt: Este lugar se encuentra cerca de las antiguas vías férreas que comunicaban al eje cafetero entres sí. En este lugar se puede apreciar cómo la naturaleza empieza a sobresalir por encima de esta construcción,  Muy cerca de este lugar también se puede observar el río cauca.
 images_url: /images/rutas/risaralda/cascada-el-mico
 viewranger: 
 author: manuel
 ---
-# Cascada el mico
+# Cascada del Mico
 
 __Esta ruta pertenece a nuestras rutas ocultas en el eje cafetero__
 ¿Que diferencia una ruta oculta de las otras rutas? las rutas ocultas no cuentan con senderos demarcados, personas que protejan estos lugares naturales y muchas veces se tendrá que pasar por fincas de privados. 
