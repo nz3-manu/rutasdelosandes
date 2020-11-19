@@ -135,6 +135,8 @@ height:"675"
 Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa laguna 🧘‍♂️, regresamos a la zona de Camping de la Laguna del Otún donde  nos quedamos el resto del día para descansar un poco.
 Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y regresar de nuevo a casa :).
 
+¿Necesitas ayuda para planear tu viaje?, déjanos tu información de contactos para comunicarte con una agencia de viajes <a target="_blank" href="https://forms.gle/7wsYhioCSLcXdban7">__Clic aquí para llenar formulario.__</a>
+
 
 ## ¿Cómo regresar de la Laguna del otún 🚌🏡?
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.

@@ -14,9 +14,10 @@ trending: true
 
 Quizás te estás preguntando: ¿cómo llegar hasta el nevado del Ruiz?, ¿hay transporte público hasta el nevado del Ruiz?, ¿donde me puedo hospedar?, ¿puedo ir en carro o moto?, ¿cuanto cuesta la entrada al parque?
 
+Todas estas dudas te las solucionaremos a continuación ⛰.
+
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles</a>.]__
 
-Todas estas dudas te las solucionaremos a continuación ⛰.
 
 ## Datos curiosos del Nevado del Ruiz 
 
@@ -27,7 +28,6 @@ Por la importancia a lo largo de su historia ha recibido muchos nombres como; Me
 Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
 
 Actualmente el volcán el Nevado del Ruiz se encuentra en alerta amarilla.
-
 
 ## ¿Qué encontrarás en el Nevado del Ruiz 🏞👀?
 
@@ -145,6 +145,8 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 %}
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
+
+¿Necesitas ayuda para planear tu viaje?, déjanos tu información de contactos para comunicarte con una agencia de viajes <a target="_blank" href="https://forms.gle/7wsYhioCSLcXdban7">__Clic aquí para llenar formulario.__</a>
 
 
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
