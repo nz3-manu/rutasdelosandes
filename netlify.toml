@@ -36,6 +36,11 @@
   status = 200
   force = true
 [[redirects]]
+  from = "/amp/producto/*"
+  to = "/.netlify/functions/server/amp/producto/:splat"
+  status = 200
+  force = true
+[[redirects]]
   from = "/amp/*"
   to = "/amp/:splat"
   status = 200
