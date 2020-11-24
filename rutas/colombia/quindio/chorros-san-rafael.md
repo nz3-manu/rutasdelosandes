@@ -26,7 +26,7 @@ De hacer un turismo masivo en estos lugares podríamos ocasionar problemas a est
     caption:"Chorros San Rafael"
 %}
 
-Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7">__Clic aquí para llenar formulario.__</a>
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7" onclick="ga('send', 'event', 'form', 'clic', 'clic-link') >__Clic aquí para llenar formulario.__</a>
 
 
 ## ¿Cómo llegar a los Chorros San Rafael 🚌🚗🛵🚵🏻?
