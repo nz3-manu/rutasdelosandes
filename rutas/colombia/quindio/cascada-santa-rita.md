@@ -33,6 +33,8 @@ Suscríbete a nuestro canal de youtube dando click <a target="_blank" href="http
 Para llegar a las cascadas de Santa Rita tuvimos que tomar un bus con destino Salento y nos bajamos en la vereda Boquía. El valor del pasaje es de $7.000 Pesos desde el terminal de Pereira, el bus sale a partir de las 6:30 am con una frecuencia de 1 hora.
 También puedes tomar el bus desde Armenia hasta Salento.
 
+__[<a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/rutas-senderismo-ejecafero.html"> Si quieres conocer rutas de senderismo ocultas en el Eje Cafetero te invitamos a hacer clic aquí</a>]__.
+
 Después de tomar el bus nos tardamos aproximadamente 40 minutos para llegar a Boquía, una vez allí empezamos nuestra ruta.
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.

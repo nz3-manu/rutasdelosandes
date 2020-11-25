@@ -26,7 +26,10 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Lo primero que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en un en la zona rosa de Pereira ver hostal __<a href="http://www.booking.com/hotel/co/kolibri-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-594819&nflt=review_score%253D90%253Breview_score%253D80%253Bht_id%253D201&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
 
+__[<a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/rutas-senderismo-ejecafero.html"> Si quieres conocer rutas de senderismo ocultas en el Eje Cafetero te invitamos a hacer clic aquí</a>]__.
+
 __Recomendación:__ Realizar reservación con previa anticipación, nosotros las realizamos a través de Booking ya que permite hacer reserva totalmente gratis 😋, de esta forma nos evitamos estar corriendo de un lado para el otro buscando hospedaje 🏨💨🏃‍ como ya nos ha pasado 😅.
+
 
 Al día siguiente tomamos un bus 🚌 con destino hacia Yarumal este pasa al frente del centro comercial victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. El valor del pasaje es aproximadamente $2.300 pesos. Una vez lleguemos a Yarumal podremos ver la entrada a el Sendero Yarumal lugar donde empieza la caminata.
 
@@ -34,6 +37,8 @@ Nosotros hicimos una parada para almorzar antes de iniciar con la caminata. Almo
 Ella recomienda llamarla con un dia de anticipación para tener los almuerzos listos. Teléfono: <a href="tel:3113473438">3113473438</a>. 
 
 __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí, el valor ya lo hablan directamente con ella.__
+
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7"  onclick="ga(‘send’, ‘event’, ‘FORM’, ‘Clic’, ‘Form-rutas-ocultas’);" >__Clic aquí para llenar formulario.__</a>
 
 
 {% include iframe.html,
@@ -43,8 +48,6 @@ __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí
 %}
     
 Una vez aquí ya estamos listos para empezar el camino por el sendero 😃.
-
-__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 
 ## Ruta en la Reserva Barbas Bremen 🚶🏼
 Antes de comenzar la ruta te queremos invitar a ver uno de nuestro post llamado __<a target="_blank" href="https://rutasdelosandes.com/tips/Que-llevar-para-hacer-senderismo.html">"Qué llevar para hacer senderismo"</a>__, sabemos que te ayudará mucho para hacer esta ruta.
