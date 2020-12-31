@@ -115,9 +115,9 @@ class Shell extends React.Component {
               </li>
               <li>
                 {
-                  <Link to="/tienda" key="3">
+                  <a target='_blank' href="https://randes-store.myshopify.com/" key="3">
                     <span className="tienda-title">Tienda</span>
-                  </Link>
+                  </a>
                 }
               </li>
             </ul>
