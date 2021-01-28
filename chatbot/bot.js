@@ -1,30 +1,34 @@
-'use strict';
-
-const express = require('express'),
+"use strict";
+const express = require("express"),
   router = express.Router(),
-  bodyParser = require('body-parser'),
-  fs = require('fs'),
-  https = require('https'),
-  path = require('path'),
-  webhookResponse = require('./webhook.js').webhookResponse,
-  notify = require('./notify.js').notify
+  bodyParser = require("body-parser"),
+  fs = require("fs"),
+  https = require("https"),
+  path = require("path"),
+  webhookResponse = require("./webhook.js").webhookResponse,
+  notify = require("./notify.js").notify;
 
-
-router.use(bodyParser.urlencoded({extended: false}));
-router.use(bodyParser.json())
-router.post('/webhook', webhookResponse)
+router.use(bodyParser.urlencoded({ extended: false }));
+router.use(bodyParser.json());
+router.post("/webhook", webhookResponse);
 
 // Webhook validation
-router.get('/webhook', function(req, res) {
-  console.log(process.env.VERIFY_TOKEN, req.query['hub.mode'] === 'subscribe', req.query['hub.verify_token'])
-  if (req.query['hub.mode'] === 'subscribe' &&
-    req.query['hub.verify_token'] === "SILENCEISGOLDEN") {
-    res.status(200).send(req.query['hub.challenge']);
+router.get("/webhook", function (req, res) {
+  console.log(
+    process.env.VERIFY_TOKEN,
+    req.query["hub.mode"] === "subscribe",
+    req.query["hub.verify_token"]
+  );
+  if (
+    req.query["hub.mode"] === "subscribe" &&
+    req.query["hub.verify_token"] === "SILENCEISGOLDEN"
+  ) {
+    res.status(200).send(req.query["hub.challenge"]);
   } else {
     res.sendStatus(403);
   }
 });
-router.get('/fbnotify', (req, res) => {
+router.get("/fbnotify", (req, res) => {
   res.status(200).send(`
         <!doctype html>
         <html>
@@ -48,8 +52,7 @@ router.get('/fbnotify', (req, res) => {
                 </body>
                 </html>
         `);
-})
-router.post('/fbnotify', notify)
+});
+router.post("/fbnotify", notify);
 
-
-module.exports = router
+module.exports = router;
