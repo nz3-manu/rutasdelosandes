@@ -35,8 +35,12 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## ¿QUÉ ENCONTRARÁS 🏞👀?
 
---Video--
-
+{% include youtube.html,
+    videoid:"k2pBfRDnHjU",
+    width:"480",
+    height:"270",
+    caption:"Nevado del Tolima"
+%}
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA 🛣🚌?
 
