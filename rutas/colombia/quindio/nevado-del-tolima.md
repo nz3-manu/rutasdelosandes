@@ -5,7 +5,7 @@ title:  Nevado del Tolima
 categories: colombia 
 seo_title: Ruta al Nevado del Tolima por salento.
 excerpt: El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes con 5.215 msnm.
-images_url: /images/rutas/quindio/primaveraTolima
+images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
 ---
@@ -86,7 +86,7 @@ Continuamos nuestro camino y con cada paso que dábamos dejamos atrás las palma
 ### ESTRELLA DE AGUA
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/estrellaAgua.jpg", 
+file:"rutas/quindio/nevado-del-tolima/estrellaAgua.jpg", 
 caption:"Estrella de Agua", 
 width:"900", 
 height:"505" %}
@@ -106,7 +106,7 @@ Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kil
 
 
 {% include image.html, 
- file:"rutas/quindio/primaveraTolima/valleDeLosPerdidos.JPG", 
+ file:"rutas/quindio/nevado-del-tolima/valleDeLosPerdidos.JPG", 
  caption:"Foto paramo(valle de los perdidos)",
  width:"900", 
  height:"506" 
@@ -129,7 +129,7 @@ Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un 
 📞 __Teléfono: <a href="tel: 3136751059"> 3136751059</a> German.__
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/FincaPrimavera.jpg", 
+file:"rutas/quindio/nevado-del-tolima/FincaPrimavera.jpg", 
 caption:"Foto Finca Primavera", 
 width:"900", 
 height:"506" %}
@@ -140,7 +140,7 @@ height:"506" %}
 Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca donde no llega tanto extranjero como en la finca primavera y creo que por eso cada vez que llega un visitante lo hacen sentir como si estuviera en casa 🏡, esto fue algo que realmente me gustó de este lugar.
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/finca-la-playa.jpeg", 
+file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 
 caption:"Foto Finca la playa, por @travelling_the_happiness", 
 width:"900", 
 height:"506" %}
@@ -205,7 +205,7 @@ Nos levantamos un poco más temprano para hacer el desayuno,  y empezar a ponern
 Primero subimos por arena, cada vez que se ascendía más se empezaba a ver escarcha, al llegar a un sector llamado el helipuerto aprovechamos para sacar un poco de agua de un pequeño arroyo.
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/arena.jpg", 
+file:"rutas/quindio/nevado-del-tolima/arena.jpg", 
 caption:"Tramo arena", 
 width:"1200", 
 height:"800" %}
@@ -219,7 +219,7 @@ __Tramo de Rocas__
 Después pasamos a subir por unas rocas  las cuales por las lluvias estaban resbaladizas así que el guia ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/rocas.JPG", 
+file:"rutas/quindio/nevado-del-tolima/rocas.JPG", 
 caption:"Tramo rocas", 
 width:"1280", 
 height:"960" %}
@@ -234,7 +234,7 @@ __Tramo de Nieve__
 Después de haber pasado este tramo de rocas, seguimos con el tramos de nieve, aquí nos pusimos  los crampones y todos nos sujetamos  a la cuerda para comenzar el ascenso,  este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso. 
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/nieve.JPG", 
+file:"rutas/quindio/nevado-del-tolima/nieve.JPG", 
 caption:"Tramo nieve", 
 width:"1152", 
 height:"804" %}
@@ -253,7 +253,7 @@ Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nu
 A este lugar nos demoramos en llegar aproximadamente 3 horas  contando de que íbamos con nuestras mochilas.
 
 {% include image.html, 
-file:"rutas/quindio/primaveraTolima/termales-cañon.jpeg", 
+file:"rutas/quindio/nevado-del-tolima/termales-cañon.jpeg", 
 caption:"Termales del Cañón", 
 width:"1200", 
 height:"900" %}
