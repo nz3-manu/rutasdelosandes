@@ -133,10 +133,12 @@ Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un 
 📞 __Teléfono: <a href="tel: 3136751059"> 3136751059</a> German.__
 
 {% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/FincaPrimavera.jpg", 
+file:"rutas/quindio/nevado-del-tolima/FincaPrimavera.jpeg", 
 caption:"Foto Finca Primavera", 
-width:"900", 
-height:"506" %}
+width:"1200", 
+height:"583" %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @jorge_leyton79 </a> </span>__
  
  
 ### FINCA LA PLAYA
@@ -146,8 +148,8 @@ Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca d
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 
 caption:"Foto Finca la playa, por @travelling_the_happiness", 
-width:"900", 
-height:"506" %}
+width:"1200", 
+height:"583" %}
 
 #### Los servicios que prestan en la finca la playa son los siguientes:
 * Habitación compartida 🛌:$23.000 pesos por persona.
@@ -246,6 +248,15 @@ height:"804" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @piri487 </a> </span>__
 
 Después de caminar cerca de 40 minutos por la nieve a nuestro amigo se le daño el crampón 😰, como pudo lo arreglaron y continuamos adelante, después de todos estos inconvenientes logramos  subir a la cumbre. 
+
+{% include image.html, 
+file:"rutas/quindio/nevado-del-tolima/cumbre.jpg", 
+caption:"Cumbre Tolima", 
+width:"1152", 
+height:"804" %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @jorge_leyton79 </a> </span>__
+
 
 __Recuerda:__ 
 * Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
