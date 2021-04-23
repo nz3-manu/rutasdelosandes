@@ -25,7 +25,7 @@ Si contratas servicios con guías locales es bajo tu propia responsabilidad ya q
 
 ## DATOS CURIOSOS DEL NEVADO DEL TOLIMA
 
-El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes con 5.215 msnm.
+El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
 
 Su nombre Dulima, se remonta hace más de 400 años (durante la conquista española) había una sacerdotisa llamada Ibanasca, ella era la líder de la tribu de los Dulima, la cual defendió ferozmente su tribu y territorio tras la llegada de los españoles, los cuales la acusaron de brujería y la condenaron a morir en la hoguera. 
 
@@ -257,7 +257,7 @@ Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nu
 A este lugar nos demoramos en llegar aproximadamente 3 horas  contando de que íbamos con nuestras mochilas.
 
 {% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/termales-cañon.jpeg", 
+file:"rutas/quindio/nevado-del-tolima/termales-canon.jpeg", 
 caption:"Termales del Cañón", 
 width:"1200", 
 height:"900" %}
