@@ -50,7 +50,7 @@ Aquí en este post explicaremos como hacerlo por Salento Quindio,
 
 
 __Desde Pereira a Salento:__
-Salen cada  hora a partir de las 6:30 am (fines de semana) y entre semana a las 7:30 am, el valor del pasaje es aproximadamente $7.000 pesos, Empresa de Buses: Expreso Alcalá.
+Salen cada  hora a partir de las 6:30 am (fines de semana) y entre semana a las 7:30 am, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
   
 📞 __Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o  <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.__
 
@@ -59,7 +59,7 @@ Salen cada  30 minutos a partir de las 5:30 am, el valor del pasaje es aproximad
 
 📞 __Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
 
-Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar un jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 6 am salen aproximadamente cada hora y los fines de semana  salen cada 30 minutos,  vale aproximadamente $4.000 pesos.
+Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar un jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
 
 
 Una vez aquí ya estamos listos para empezar nuestro camino 😎⛰.
@@ -99,7 +99,7 @@ height:"505" %}
 Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua, el ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano. 
 En este lugar posiblemente les puedan vender almuerzo si llaman con anticipación. 
 
-📞 __Teléfono: <a href="tel: 3137921845"> 3137921845</a> Eliberto.__
+📞 __Teléfono: <a href="tel: 3137921845"> 3137921845</a> Heriberto.__
 
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
 Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
@@ -220,7 +220,7 @@ En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que
 
 __Tramo de Rocas__
 
-Después pasamos a subir por unas rocas  las cuales por las lluvias estaban resbaladizas así que el guia ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
+Después pasamos a subir por unas rocas,  las cuales por la lluvia estaban resbaladizas así que el guia ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/rocas.JPG", 
@@ -235,7 +235,7 @@ Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piole
 __Recomendación:__ antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien.
 
 __Tramo de Nieve__
-Después de haber pasado este tramo de rocas, seguimos con el tramos de nieve, aquí nos pusimos  los crampones y todos nos sujetamos  a la cuerda para comenzar el ascenso,  este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso. 
+Después de haber pasado este tramo de rocas, seguimos con el tramo de nieve, aquí nos pusimos  los crampones y todos nos sujetamos  a la cuerda para comenzar el ascenso,  este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso. 
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/nieve.JPG", 
