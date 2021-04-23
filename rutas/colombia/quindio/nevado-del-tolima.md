@@ -147,9 +147,10 @@ Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca d
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 
-caption:"Foto Finca la playa, por @travelling_the_happiness", 
+caption:"Foto Finca la playa", 
 width:"1200", 
 height:"583" %}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
 
 #### Los servicios que prestan en la finca la playa son los siguientes:
 * Habitación compartida 🛌:$23.000 pesos por persona.
