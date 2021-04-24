@@ -1,7 +1,6 @@
-import { Router, Route, browserHistory } from "react-router";
+import { Switch, Route } from "react-router-dom";
 import AMPDocument from "./components/amp-document/amp-document";
 import React from "react";
-import ReactDOM from "react-dom";
 import Shell from "./components/shell";
 import Checkout from "./components/checkout";
 import Confirmation from "./components/order-confirmation";
@@ -16,7 +15,7 @@ import OrderList from "./components/orderlist";
 /**
  * @see https://github.com/ampproject/amphtml/blob/master/extensions/amp-install-serviceworker/amp-install-serviceworker.md#shell-url-rewrite
  */
-function redirectSWFallbackURL(nextState, replace) {
+function redirectSWFallbackURL(_nextState, replace) {
   var hash = typeof window !== "undefined" && window.location.hash;
   if (hash && hash.indexOf("#href=") === 0) {
     var href = decodeURIComponent(hash.substr(6));
@@ -25,12 +24,9 @@ function redirectSWFallbackURL(nextState, replace) {
 }
 
 //TODO allow query params in the router url
-export default (
-  <Route path="/" component={Shell} onEnter={redirectSWFallbackURL}>
-    <Route
-      path="/checkout"
-      component={props => <Checkout query={props.location.query} />}
-    />
+export default () => (
+  <Switch>
+    <Route path="/" component={Shell} onEnter={redirectSWFallbackURL}></Route>
     <Route path="/regiones" component={Regions} />
     <Route path="/blog" component={Blog} />
     <Route path="/tienda" component={Products} />
@@ -39,8 +35,12 @@ export default (
     <Route path="/confirmation" component={Confirmation} />
     <Route path="/orderslist" component={OrderList} />
     <Route
+      path="/checkout"
+      component={(props) => <Checkout query={props.location.query} />}
+    />
+    <Route
       path=":category/:document"
-      component={props => (
+      component={(props) => (
         <AMPDocument
           src={`/amp/${props.params.category}/${props.params.document}`}
         />
@@ -48,12 +48,12 @@ export default (
     />
     <Route
       path=":category/:deparment/:document"
-      component={props => (
+      component={(props) => (
         <AMPDocument
           src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
         />
       )}
     />
     <Route path="*" exact={true} component={GenericNotFound} />
-  </Route>
+  </Switch>
 );

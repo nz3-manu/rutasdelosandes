@@ -12,7 +12,7 @@ class AMPDocument extends React.Component {
     super(props);
     this.state = {
       offline: false,
-      loading: false
+      loading: false,
     };
 
     /**
@@ -20,8 +20,8 @@ class AMPDocument extends React.Component {
      * @const
      * @private
      */
-    this.ampReadyPromise_ = new Promise(resolve => {
-      if (typeof window !== 'undefined') {
+    this.ampReadyPromise_ = new Promise((resolve) => {
+      if (typeof window !== "undefined") {
         (window.AMP = window.AMP || []).push(resolve);
       }
     });
@@ -102,7 +102,7 @@ class AMPDocument extends React.Component {
           )}
           <div
             className={this.state.loading ? "amp-container-hide" : null}
-            ref={ref => (this.container_ = ref)}
+            ref={(ref) => (this.container_ = ref)}
           ></div>
           <PushBanner />
         </div>
@@ -137,10 +137,11 @@ class AMPDocument extends React.Component {
    */
   fetchAndAttachAmpDoc_(url) {
     this.setState({ loading: true });
+    console.log("JG url to fetch", url);
     this.fetchDocument_(url)
-      .then(doc => {
+      .then((doc) => {
         this.hideUnwantedElementsOnDocument_(doc);
-        return this.ampReadyPromise_.then(amp => {
+        return this.ampReadyPromise_.then((amp) => {
           // Replace the old shadow root with a new div element.
           const oldShadowRoot = this.shadowRoot_;
           this.shadowRoot_ = document.createElement("div");
@@ -154,9 +155,13 @@ class AMPDocument extends React.Component {
           this.setState({ loading: false });
         });
       })
-      .catch(error => {
+      .catch((error) => {
+        if (typeof window !== "undefined") {
+          global.notfound();
+        }
         console.log("error in fetch of the document", error);
         this.setState({ offline: true });
+        throw error;
       });
   }
 
@@ -216,30 +221,30 @@ class AMPDocument extends React.Component {
         eventName: "descargaRutaGpx",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaRutaGpx"
-        }
+          eventAction: "descargaRutaGpx",
+        },
       },
       android: {
         eventName: "descargaAppAndroid",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaAppAndroid"
-        }
+          eventAction: "descargaAppAndroid",
+        },
       },
       ios: {
         eventName: "descargaAppIos",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaAppIos"
-        }
+          eventAction: "descargaAppIos",
+        },
       },
       viewranger: {
         eventName: "clickRutaOnline",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "clickRutaOnline"
-        }
-      }
+          eventAction: "clickRutaOnline",
+        },
+      },
     };
 
     if (window && window.gtag && Object.keys(GAeventsData).includes(elem.id)) {
@@ -256,9 +261,9 @@ class AMPDocument extends React.Component {
           content_ids: ["1234"],
           content_type: "product",
           value: 4.99,
-          currency: "USD"
-        }
-      }
+          currency: "USD",
+        },
+      },
     };
 
     if (window && window.fbq && Object.keys(FBeventsData).includes(elem.id)) {

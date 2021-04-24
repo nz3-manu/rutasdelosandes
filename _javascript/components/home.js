@@ -1,9 +1,9 @@
-import {Link} from 'react-router';
-import {TimelineLite, TweenLite, Power2} from 'gsap';
-import Article from './article';
-import React from 'react';
-import {connect} from 'react-redux';
-import PushBanner from './push-banner';
+import { Link } from "react-router-dom";
+import { TimelineLite, TweenLite, Power2 } from "gsap";
+import Article from "./article";
+import React from "react";
+import { connect } from "react-redux";
+import PushBanner from "./push-banner";
 
 /**
  * The app's home page, modulo the navigation bar.
@@ -25,17 +25,19 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <div className="articles" ref={ref => (this.articles_ = ref)}>
-          {this.props.documents.rutas.filter((doc)=>!doc.draft).map(doc => (
-            <Link className="article-link" to={doc.url} key={doc.url}>
-              <Article
-                title={doc.title}
-                subtitle={'Por ' + doc.author + ', ' + doc.date}
-                image={doc.image}
-                src={doc.url}
-              />
-            </Link>
-          ))}
+        <div className="articles" ref={(ref) => (this.articles_ = ref)}>
+          {this.props.documents.rutas
+            .filter((doc) => !doc.draft)
+            .map((doc) => (
+              <Link className="article-link" to={doc.url} key={doc.url}>
+                <Article
+                  title={doc.title}
+                  subtitle={"Por " + doc.author + ", " + doc.date}
+                  image={doc.image}
+                  src={doc.url}
+                />
+              </Link>
+            ))}
         </div>
         <PushBanner />
       </div>
@@ -43,7 +45,7 @@ class Home extends React.Component {
   }
 }
 
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   documents: state.documents,
 });
 
