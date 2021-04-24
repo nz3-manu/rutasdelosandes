@@ -1,4 +1,5 @@
 import React from "react";
+import "isomorphic-fetch";
 import { withRouter } from "react-router";
 import PushBanner from "../push-banner";
 
@@ -81,6 +82,7 @@ class AMPDocument extends React.Component {
   }
 
   render() {
+    const { staticContext } = this.props;
     if (this.state.offline) {
       return (
         <div>
@@ -137,7 +139,6 @@ class AMPDocument extends React.Component {
    */
   fetchAndAttachAmpDoc_(url) {
     this.setState({ loading: true });
-    console.log("JG url to fetch", url);
     this.fetchDocument_(url)
       .then((doc) => {
         this.hideUnwantedElementsOnDocument_(doc);
@@ -181,39 +182,51 @@ class AMPDocument extends React.Component {
    * @return {!Promise<!Document|!string>} If fetch succeeds, resolved with {!Document}.
    *         Otherwise, rejects with {!string} error description.
    */
-  fetchDocument_(url) {
-    return new Promise((resolve, reject) => {
-      this.xhr_ = new XMLHttpRequest();
-      this.xhr_.open("GET", url, true);
-      this.xhr_.responseType = "document";
-      this.xhr_.setRequestHeader("Accept", "text/html");
-      this.xhr_.onreadystatechange = () => {
-        if (this.xhr_.readyState < /* STATUS_RECEIVED */ 2) {
-          return;
-        }
-        if (this.xhr_.status < 100 || this.xhr_.status > 599) {
-          this.xhr_.onreadystatechange = null;
-          reject(new Error(`Unknown HTTP status ${this.xhr_.status}`));
-          this.xhr_ = null;
-          return;
-        }
-        if (this.xhr_.readyState === /* COMPLETE */ 4) {
-          if (this.xhr_.responseXML) {
-            resolve(this.xhr_.responseXML);
-          } else {
-            reject(new Error("No xhr.responseXML"));
-          }
-          this.xhr_ = null;
-        }
-      };
-      this.xhr_.onerror = () => {
-        reject(new Error("Network failure"));
-      };
-      this.xhr_.onabort = () => {
-        reject(new Error("Request aborted"));
-      };
-      this.xhr_.send();
-    });
+  async fetchDocument_(url) {
+    let response;
+    let html;
+    try {
+      response = await fetch(url);
+      html = await response.text();
+    } catch (e) {
+      /* handle error */
+    } finally {
+      /* be executed regardless of the try / catch result*/
+    }
+    return html;
+
+    //new Promise((resolve, reject) => {
+    //this.xhr_ = new XMLHttpRequest();
+    //this.xhr_.open("GET", url, true);
+    //this.xhr_.responseType = "document";
+    //this.xhr_.setRequestHeader("Accept", "text/html");
+    //this.xhr_.onreadystatechange = () => {
+    //if (this.xhr_.readyState < [> STATUS_RECEIVED <] 2) {
+    //return;
+    //}
+    //if (this.xhr_.status < 100 || this.xhr_.status > 599) {
+    //this.xhr_.onreadystatechange = null;
+    //reject(new Error(`Unknown HTTP status ${this.xhr_.status}`));
+    //this.xhr_ = null;
+    //return;
+    //}
+    //if (this.xhr_.readyState === [> COMPLETE <] 4) {
+    //if (this.xhr_.responseXML) {
+    //resolve(this.xhr_.responseXML);
+    //} else {
+    //reject(new Error("No xhr.responseXML"));
+    //}
+    //this.xhr_ = null;
+    //}
+    //};
+    //this.xhr_.onerror = () => {
+    //reject(new Error("Network failure"));
+    //};
+    //this.xhr_.onabort = () => {
+    //reject(new Error("Request aborted"));
+    //};
+    //this.xhr_.send();
+    //});
   }
   trackEvents(elem) {
     let GAeventsData = {
