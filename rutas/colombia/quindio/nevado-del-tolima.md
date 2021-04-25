@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Nevado del Tolima
 categories: colombia 
