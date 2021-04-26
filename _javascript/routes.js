@@ -11,8 +11,17 @@ import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
 import OrderList from "./components/orderlist";
 
-import loadData from "./helpers/loadData";
-
+function loadData(match) {
+  console.log(match.params);
+  return fetch(`https://jsonplaceholder.typicode.com/${resourceType}`)
+    .then((res) => {
+      return res.json();
+    })
+    .then((data) => {
+      // only keep 10 first results
+      return data.filter((_, idx) => idx < 10);
+    });
+}
 //<Route path="/blog" component={Blog} />
 //<Route path="/tienda" component={Products} />
 //<Route path="/contacto" component={About} />
@@ -56,6 +65,7 @@ const Routes = [
         src={`/amp/${props.params.category}/${props.params.document}`}
       />
     ),
+    loadData: loadData,
   },
   {
     path: ":category/:deparment/:document",
@@ -64,10 +74,13 @@ const Routes = [
         src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
       />
     ),
+    loadData: loadData,
   },
   {
     path: "/checkout",
-    component: (props) => <Checkout query={props.location.query} />,
+    component: (props) => {
+      return <Checkout query={props.location.query} />;
+    },
   },
   {
     component: GenericNotFound,

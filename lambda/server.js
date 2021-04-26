@@ -63,8 +63,6 @@ require("es6-promise").polyfill();
 require("isomorphic-fetch");
 
 //server side fetch polifyll
-import App from "../_javascript/app";
-import { StaticRouter } from "react-router";
 import reducer from "../_javascript/reducers";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
@@ -410,7 +408,30 @@ router.get(`*`, (req, res) => {
     ampEquivalent
   );
 });
+
+import routes from "../_javascript/routes";
+import App from "../_javascript/app";
+import { matchPath } from "react-router-dom";
+import { StaticRouter } from "react-router";
+
 function mathRouter(req, res, state = {}, ampEquivalent) {
+  // inside a request
+  const promises = [];
+  // use `some` to imitate `<Switch>` behavior of selecting only
+  // the first to match
+  routes.some((route) => {
+    // use `matchPath` here
+    const match = matchPath(req.path, route);
+    if (match) {
+      if (route.loadData) {
+        promises.push(route.loadData(match));
+      } else {
+        promises.push(Promise.resolve(null));
+      }
+    }
+    return match;
+  });
+
   // material ui stylesheet server
   // Create a sheetsRegistry instance.
   const sheetsRegistry = new SheetsRegistry();
@@ -431,23 +452,29 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
 
   const preloadedState = store.getState();
   let content;
-  // This context object contains the results of the render
-  const context = {};
-  // if we got props then we matched a route and can render
-  content = ReactDOMServer.renderToString(
-    <StaticRouter location={req.url} context={context}>
-      <JssProvider
-        registry={sheetsRegistry}
-        generateClassName={generateClassName}
-      >
-        <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
-          <Provider store={store}>
-            <App />
-          </Provider>
-        </MuiThemeProvider>
-      </JssProvider>
-    </StaticRouter>
-  );
+
+  Promise.all(promises).then((data) => {
+    // Let's add the data to the context
+    const context = { data };
+    // do something w/ the data so the client
+    // can access it then render the app
+    // if we got props then we matched a route and can render
+    content = ReactDOMServer.renderToString(
+      <StaticRouter location={req.url} context={context}>
+        <JssProvider
+          registry={sheetsRegistry}
+          generateClassName={generateClassName}
+        >
+          <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
+            <Provider store={store}>
+              <App />
+            </Provider>
+          </MuiThemeProvider>
+        </JssProvider>
+      </StaticRouter>
+    );
+    console.log(content);
+  });
 
   // Grab the CSS from our sheetsRegistry.
   const css = sheetsRegistry.toString();
