@@ -56,7 +56,9 @@ Desde el Valle del Cocora hasta la Casa de los Colibríes (Acaime) son 4.8 kiló
 
 Si no se siente capaz de caminar esta distancia también encontrarán alquiler de caballo 🐴 por $25.000 1 hora. 
 
-El camino hasta la casa de los colibríes (Acaime) se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $2.000 pesos y nos darán una pulsera(manilla)con la cual ya podremos  ingresar al parque. 
+El camino hasta la casa de los colibríes (Acaime) se encuentra muy señalizado. Pasaremos por la entrada en la cual tendremos que pagar aproximadamente $5.000 pesos y nos darán un tiquete para ingresar al parque. 
+
+__Antes de pagar la entrada preguntar: si la casa de los colibríes ta abierta y si esta habilitado para hacer el recorrido circular por la finca la montaña.__
 
 Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
