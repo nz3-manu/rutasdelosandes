@@ -421,8 +421,11 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
   // the first to match
   routes.some((route) => {
     // use `matchPath` here
+    console.log(req.path);
     const match = matchPath(req.path, route);
+    console.log(`match value here`, match);
     if (match) {
+      console.log(`does load data exist`, route.loadData);
       if (route.loadData) {
         promises.push(route.loadData(match));
       } else {
@@ -473,7 +476,6 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
         </JssProvider>
       </StaticRouter>
     );
-    console.log(content);
   });
 
   // Grab the CSS from our sheetsRegistry.
@@ -605,6 +607,7 @@ function renderFullPage(
       </html>
 	  `;
 }
+
 var functionName = "server";
 // Set router base path for local dev
 const routerBasePath =

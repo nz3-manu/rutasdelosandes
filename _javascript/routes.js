@@ -6,21 +6,16 @@ import Confirmation from "./components/order-confirmation";
 import Products from "./components/products";
 import About from "./components/about";
 import Politicas from "./components/politicas";
+import OrderList from "./components/orderlist";
 import Blog from "./components/blog";
 import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
-import OrderList from "./components/orderlist";
 
 function loadData(match) {
-  console.log(match.params);
-  return fetch(`https://jsonplaceholder.typicode.com/${resourceType}`)
-    .then((res) => {
-      return res.json();
-    })
-    .then((data) => {
-      // only keep 10 first results
-      return data.filter((_, idx) => idx < 10);
-    });
+  console.log(`match params from router`, match.params);
+  return fetch(`https://jsonplaceholder.typicode.com/todos/1`).then((res) => {
+    return res.json();
+  });
 }
 //<Route path="/blog" component={Blog} />
 //<Route path="/tienda" component={Products} />
@@ -42,7 +37,17 @@ function redirectSWFallbackURL(_nextState, replace) {
 
 const Routes = [
   {
+    path: ":category/:deparment/:document",
+    component: (props) => (
+      <AMPDocument
+        src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
+      />
+    ),
+    loadData: loadData,
+  },
+  {
     path: "/",
+    exact: true,
     component: Shell,
     onEnter: redirectSWFallbackURL,
   },
@@ -63,15 +68,6 @@ const Routes = [
     component: (props) => (
       <AMPDocument
         src={`/amp/${props.params.category}/${props.params.document}`}
-      />
-    ),
-    loadData: loadData,
-  },
-  {
-    path: ":category/:deparment/:document",
-    component: (props) => (
-      <AMPDocument
-        src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
       />
     ),
     loadData: loadData,
