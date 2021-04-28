@@ -414,14 +414,17 @@ import App from "../_javascript/app";
 import { matchPath } from "react-router-dom";
 import { StaticRouter } from "react-router";
 
-function mathRouter(req, res, state = {}, ampEquivalent) {
+async function mathRouter(req, res, state = {}, ampEquivalent) {
   // inside a request
   const promises = [];
+  console.log(routes);
+  console.log(req.url);
   // use `some` to imitate `<Switch>` behavior of selecting only
   // the first to match
   routes.some((route) => {
     // use `matchPath` here
     console.log(req.path);
+    console.log(`current route being evaluated`, route);
     const match = matchPath(req.path, route);
     console.log(`match value here`, match);
     if (match) {
@@ -454,15 +457,14 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
   );
 
   const preloadedState = store.getState();
-  let content;
 
-  Promise.all(promises).then((data) => {
+  const content = await Promise.all(promises).then((data) => {
     // Let's add the data to the context
     const context = { data };
     // do something w/ the data so the client
     // can access it then render the app
     // if we got props then we matched a route and can render
-    content = ReactDOMServer.renderToString(
+    return ReactDOMServer.renderToString(
       <StaticRouter location={req.url} context={context}>
         <JssProvider
           registry={sheetsRegistry}

@@ -37,7 +37,7 @@ function redirectSWFallbackURL(_nextState, replace) {
 
 const Routes = [
   {
-    path: ":category/:deparment/:document",
+    path: "/:category/:deparment/:document",
     component: (props) => (
       <AMPDocument
         src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
@@ -64,7 +64,7 @@ const Routes = [
     component: Blog,
   },
   {
-    path: ":category/:document",
+    path: "/:category/:document",
     component: (props) => (
       <AMPDocument
         src={`/amp/${props.params.category}/${props.params.document}`}
