@@ -14,9 +14,9 @@ author: manuel
 
 En este post encontrarás la siguiente información: 
 
-* Cómo llegar al nevado del Tolima.
-* Ruta al nevado del Tolima. 
-* Hospedajes Cercanos al nevado del Tolima con numeros de telefonos. 
+* <a href="#comollegar"> Cómo llegar al nevado del Tolima. </a>
+* <a href="#rutanevadotolima"> Ruta al nevado del Tolima. </a> 
+*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al nevado del Tolima con numeros de telefonos.</a> 
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
@@ -40,6 +40,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
     height:"270",
     caption:"Nevado del Tolima"
 %}
+<p id="comollegar"></p>
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA 🛣🚌?
 
@@ -63,6 +64,7 @@ Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar
 
 Una vez aquí ya estamos listos para empezar nuestro camino 😎⛰.
 
+<p id="rutanevadotolima"></p>
 
 ## RUTA AL NEVADO DEL TOLIMA 🚶🏼
 
@@ -117,6 +119,9 @@ Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kil
 
 Después de dejar el bosque atrás cruzamos por el valle de los perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
 Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje. 
+
+
+<p id="hospedajesnevadotolima"></p>
 
 ## HOSPEDAJES CERCANOS AL NEVADO DEL TOLIMA.
 
