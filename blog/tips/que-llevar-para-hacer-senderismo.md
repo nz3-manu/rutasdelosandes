@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: article
 title: Qué llevar para hacer senderismo  
 categories: blog

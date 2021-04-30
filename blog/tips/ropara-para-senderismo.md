@@ -17,10 +17,10 @@ En este post te mostraremos la ropa más indicada para hacer diferentes activida
 
 A Continuación te mostraremos las prendas de las cuales hablaremos:
 
-<a href="#camisetas"> Camisetas. </a>
-<a href="#buzos"> Buzos. </a>
-<a href="#pantalones"> Pantalones . </a>
-<a href="#chaquetas"> Chaquetas . </a>
+* <a href="#camisetas"> Camisetas. </a>
+* <a href="#buzos"> Buzos. </a>
+* <a href="#pantalones"> Pantalones . </a>
+* <a href="#chaquetas"> Chaquetas . </a>
 
 <p id="camisetas"></p>
 
@@ -34,18 +34,18 @@ Al momento de salir a caminar procura no llevar camisetas o buzos que sean de al
 
 Procura que tu camiseta o buzos contengan más polyester que algodón y así evitaras estos inconvenientes, si además la camiseta  cuente con la tecnología Dry-fit será mucho mejor, ya que al contacto con nuestra piel  absorberá el sudor como si fuera una esponja y lo expulse hacia el exterior, y así siempre estaremos secos.
 
-__En nuestra tienda en línea podrás encontrar: __
+{% include image.html,
+ file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta.jpg",
+ caption:"Camiseta tela deportiva",
+ width:"1200",
+ height:"805"
+%}
 
-### Camisetas Basic: 
-las cuales son de secado rápido.
+__En nuestra tienda en línea podrás encontrar:__
 
+* __Camisetas Basic:__ las cuales son de secado rápido.
 
-
-### Camisetas Pro: 
-las cuales cuentan con la propiedades: 
-* Dry-fit, 
-* Protección solar. 
-* Resistente a manchas de sudor.
+* __Camisetas Pro:__ las cuales cuentan con: Dry-fit, protección solar y resistente a manchas de sudor.
 
 <p id="buzos"></p>
 
@@ -54,9 +54,16 @@ las cuales cuentan con la propiedades:
 
 Ahora pasemos a los buzos manga larga, estos buzos nos ayudan a protegernos de: la vegetación, del sol, del frío etc. 
 
+{% include image.html,
+ file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta-manga-larga-senderismo.jpg",
+ caption:"Buzo manga larga",
+ width:"1200",
+ height:"800"
+%}
+
 Lo que debes de tener en cuenta al momento de comprar un buzo es para qué tipo de caminata lo vas a usar, no es lo mismo caminar por: playas,bosques o páramos.
 
-En nuestra tienda en línea podrás encontrar: 
+__En nuestra tienda en línea podrás encontrar:__
   
 
 ### Buzo Basic
@@ -138,7 +145,8 @@ Pasemos a nuestro último pantalón.
  ## Pantalon Impermeable.
 
 Este pantalón es hecho de tela impermeable, lo hace ideal para actividades como páramos, nevados etc.
-Alguna de las propiedades de este pantalón son:
+
+__Algunas propiedades del pantalón impermeable son:__
 
 * Color: Al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Protección Solar: Uv +30  norma aatcc 183
@@ -151,19 +159,29 @@ Todos nuestros pantalones: basic, secado rápido e impermeable, vienen en los si
 
 Diseño del pantalón de hombre: tiene bolsillos a los costados con tapa y en la parte de atrás también 2 bolsillos y al lado derecho un bolsillo con cremallera, en la bota cuenta con resorte para ajustarlo.
 
---Foto--
+{% include image.html,
+ file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/pantalon_senderismo.JPG",
+ caption:"Pantalon de senderismo",
+ width:"1200",
+ height:"800"
+%}
 
 Diseño del pantalón de mujer: este lo tenemos en 2 estilos camuflados y el otro diseño del pantalón es un poco más ajustado, bolsillos internos en la parte de atrás y bolsillo en el muslo derecho con cremallera.
 
 --Foto--
-
-
 
 <p id="chaquetas"></p>
 
 ## CHAQUETAS
 
 En nuestra tienda podrán encontrar 3 tipos de chaquetas las cuales 2 de ellas son rompevientos y una tercera que es impermeable, quiero aclarar que cuando decimos rompevientos no son chaquetas 100% impermeables, son chaquetas que nos protegerán del viento también te protegerán un de la lluvia mas no de tormentas.
+
+{% include image.html,
+ file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/chaqueta_rompevientos.jpg",
+ caption:"",
+ width:"1200",
+ height:"801"
+%}
 
 Antes de mostrar cada una de las chaquetas te quiero decir que todas nuestras chaquetas no vienen forradas en la parte de adentro, ya que nos interesa que sean lo más livianas posibles. 
 
@@ -178,7 +196,7 @@ Por lo general yo uso esta chaqueta para caminatas cortas .
 Esta chaqueta cuenta con un poco más de propiedades  que la hacen ideal para el senderismo y su impermeabilidad es un poco más que la chaqueta basic. 
 
 
-Alguna de las propiedades de esta chaqueta son:
+__Alguna propiedades de la chaqueta Pro son:__
 
 * Color: al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Anti Rasgado: tejido en cuadrícula que da mayor resistencia a la tela, y así evitará que se rasgue fácilmente con el contacto con ramas  etc.. 
@@ -200,24 +218,27 @@ Te explicaremos los siguientes conceptos:
 
  
 __Impermeabilidad__ 
+
 La tasa de impermeabilidad se expresa en mm de agua o columnas de agua, el cual se obtiene sometiendo el textil  a una prueba de presión hidrostática, la cual consiste en poner la tela en la base en tubo y se empieza a llenar de agua, hasta que presión de esta haga filtrar el agua a través de la tela, esta altura que alcance el agua en el tubo se expresa en mm y se conoce como  columnas de agua.
 
 {% include image.html, 
-file:"/blog/tipsmontana/hiking&trekking/test-impermeabilidad.jpg", 
-caption:"prueba de presión hidrostática", 
-width:"1100", 
-height:"698" %}
+    file:"/blog/tipsmontana/ropara-para-senderismo/test-impermeabilidad.jpg", 
+    caption:"prueba de presión hidrostática", 
+    width:"1100", 
+    height:"698",
+%}
 
-__Se habla de que una tela es impermeable si su cuenta con un valor superior a 10.000 mm__
+__Se habla de que una tela es impermeable si cuenta con un valor superior a 10.000 mm__
 
 
 Te comparto una tabla en la cual podrás ver para qué actividad la podrías usar:
 
 {% include image.html, 
-file:"/blog/tipsmontana/hiking&trekking/indice-impermeabilidad.jpg", 
-caption:"indice de impermeabilidad", 
-width:"1100", 
-height:"698" %}
+    file:"/blog/tipsmontana/ropara-para-senderismo/indice-impermeabilidad.jpg", 
+    caption:"indice de impermeabilidad", 
+    width:"1100", 
+    height:"698",
+%}
 
 
 A Continuación entraremos a ver otro factor muy importante al elegir una chaqueta impermeable y es la transpirabilidad.
@@ -230,10 +251,11 @@ Este valor está dado en g/m²/día, _lo que indica la cantidad de vapor de agua
 Te comparto una tabla en la cual podrás ver para qué actividad la podrías usar:
 
 {% include image.html, 
-file:"/blog/tipsmontana/hiking&trekking/indice-respirabilidad.jpg", 
-caption:"indice de respirabilidad", 
-width:"1100", 
-height:"698" %}
+    file:"/blog/tipsmontana/ropara-para-senderismo/indice-respirabilidad.jpg", 
+    caption:"indice de respirabilidad", 
+    width:"1100", 
+    height:"529",
+%}
 
 __Resistencia al viento__
 
@@ -246,7 +268,42 @@ __Se dice que una prenda te protegerá del viento cuando este valor se encuentra
 
 
 {% include image.html, 
-file:"/blog/tipsmontana/hiking&trekking/indice-rompeviento.jpg", 
-caption:"Indice de Rompeviento", 
-width:"1100", 
-height:"698" %}
+    file:"/blog/tipsmontana/ropara-para-senderismo/indice-rompeviento.jpg", 
+    caption:"Indice de Rompeviento", 
+    width:"1100", 
+    height:"535",
+%}
+
+### Conclusión para elegir una chaqueta impermeable
+
+__Debes elegir una chaqueta:__
+* Con una impermeabilidad mayor a 10.000 mm de agua.
+* La transpirabilidad por encima de los 10.000 g/m2/día.
+* Resistencia al viento por debajo de debajo de ≤ 5 m²/seg.
+
+
+__La chaqueta Extreme que tenemos en nuestra tienda cuenta con:__ 
+* Impermeabilidad de 15.000 mm de agua.
+* Transpirabilidad de 18.000 g/m2/día.
+* Resistencia al viento 5 m²/seg.
+
+Además de esto nuestra chaqueta Extreme cuenta con una membrana interna, que permite un mayor desempeño en cuanto a impermeabilidad y transpirabilidad.
+
+__Las costuras de la chaqueta extreme vienen selladas en la parte de los hombros__
+
+
+Si tienes alguna duda o sugerencia puedes escribirnos a través de nuestras redes sociales.
+
+
+__Fuentes:__
+
+* <a target="_blank" href="https://adventurebagging.co.uk/technical-clothing-metrics-ratings/"> Clothing metrics ratings. </a>
+
+* <a target="_blank" href="https://blog.ministryofsupply.com/blog/2019/10/3/waterproof-breathable-testing-explained?sscid=41k5_4f4yz&utm_source=742098&utm_medium=affiliate&utm_campaign=sasaff&promocode="> waterproof breathable testing explained </a>
+
+
+* <a target="_blank" href="https://www.evo.com/guides/outerwear-waterproof-ratings-and-breathability"> waterproof ratings and breathability </a>
+
+
+
+
