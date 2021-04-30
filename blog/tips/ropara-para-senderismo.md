@@ -19,8 +19,8 @@ A Continuación te mostraremos las prendas de las cuales hablaremos:
 
 * <a href="#camisetas"> Camisetas. </a>
 * <a href="#buzos"> Buzos. </a>
-* <a href="#pantalones"> Pantalones . </a>
-* <a href="#chaquetas"> Chaquetas . </a>
+* <a href="#pantalones"> Pantalones. </a>
+* <a href="#chaquetas"> Chaquetas. </a>
 
 <p id="camisetas"></p>
 
@@ -45,7 +45,7 @@ __En nuestra tienda en línea podrás encontrar:__
 
 * __Camisetas Basic:__ las cuales son de secado rápido.
 
-* __Camisetas Pro:__ las cuales cuentan con: Dry-fit, protección solar y resistente a manchas de sudor.
+* __Camisetas Pro:__ las cuales cuentan con Dry-fit, protección solar y resistente a manchas de sudor.
 
 <p id="buzos"></p>
 
@@ -63,7 +63,7 @@ Ahora pasemos a los buzos manga larga, estos buzos nos ayudan a protegernos de: 
 
 Lo que debes de tener en cuenta al momento de comprar un buzo es para qué tipo de caminata lo vas a usar, no es lo mismo caminar por: playas,bosques o páramos.
 
-__En nuestra tienda en línea podrás encontrar:__
+En nuestra tienda en línea podrás encontrar diferente calidades de buzos, empecemos hablando del buzo Basic.
   
 
 ### Buzo Basic
@@ -72,15 +72,16 @@ Este buzo es perfecto para climas , algunas de las propiedades de este buz son: 
 
 Este buzo aparte de protegernos de la vegetación también nos mantiene abrigado en caminatas con un clima un poco frío,  ya que su tela es un poco compacta no cuenta con mucha elongación
 
-__Las propiedades del buzo Basic:__
+#### propiedades del buzo Basic:
 
 * Tela de secado rápido.
+* Tela compacta.
 
 ### Buzo Pro
 
 Este buzo es ideal para caminatas largas, donde el clima es más cálido, ya que por ser un material muy delgado no va a dar sensación de calor ni tampoco te abrigara mucho del frío. 
 
-__Propiedades del  buzo Pro:__ 
+#### Propiedades del buzo Pro:
 * Protección solar: Uv +30  norma aatcc 183.
 * Antibacterial: es algo que me parece muy bueno, ya que algunas veces pasamos mucho tiempo en caminatas largas y esto evitará que se produzcan esos malos olores por el sudor en esta prenda.
 * No se mancha con el sudor: cuantos no hemos tenido que votar ropa que no le hemos podido sacar este tipo de manchas.
@@ -94,7 +95,7 @@ Recomendación por ser este buzo de tela tan liviana y ser tan elástica no lo r
 
 Este buzo fue pensado para actividades como: surf, buceo, o para ir a nieve, este material es un poco más grueso y compacto que el Pro, además de esto es hecho con microfibras que te ayudará a mantener tu calor corporal al momento de hacer estas actividades.
 
-__Algunas de las propiedades de este buzo Extreme son:__ 
+#### Propiedades del buzo Extreme:
 
 * Protección solar: Uv +30  norma aatcc 183.
 * No se mancha con el sudor: cuantos no hemos tenido que votar ropa que no le hemos podido sacar este tipo de manchas.
@@ -110,9 +111,7 @@ Algo muy importante que deben tener en cuenta al comprar un pantalón para sende
 
 En nuestra tienda online encontrarás pantalones: Basic, de secado rápido  e impermeables.
 
-Cada uno de estos pantalones tiene un uso diferente 
-
-Empecemos por el pantalón Basic.
+Cada uno de estos pantalones tiene un uso diferente, empecemos por el pantalón Basic.
 
 
 ## Pantalon Basic 
@@ -122,12 +121,14 @@ Este pantalón está hecho de tela elástica, lo que lo hace muy cómodo para ca
 __Peso seco:__ 456 gramos.
 __Peso mojado:__ 886 gramos.
 
-Uso: En caminatas cortas donde no vayamos a acampar.
+__Uso:__ Recomendado para caminatas cortas donde no vayan a acampar.
 
 
 ## Pantalon Secado Rápido
 
-La tela de este pantalón se ajusta mucho más a las necesidades de un pantalón de senderismo, ya que la tela cuenta con muchas más propiedades, pasemos a enumerarlas:
+La tela de este pantalón se ajusta mucho más a las necesidades de un pantalón de senderismo, ya que la tela cuenta con muchas más propiedades.
+
+#### Propiedades del pantalon de secado rápido:
 
 * Color: Al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Anti Rasgado: tejido en cuadrícula que da mayor resistencia a la tela, y así evitará que se rasgue fácilmente con el contacto con ramas o chamizas etc.. 
@@ -140,24 +141,26 @@ Algo que me gusta mucho de este pantalón es que no ocupa mucho espacio y es sup
 __Peso seco:__ 246 gramos (200 gramos menos que el pantalón Basic).
 __Peso mojado:__ 482 gramos.
 
+__Uso:__ Recomendado para caminatas cortas y de camping, ya que si se llegara a mojar se secaría muy rápido.
+
 Pasemos a nuestro último pantalón.
 
  ## Pantalon Impermeable.
 
 Este pantalón es hecho de tela impermeable, lo hace ideal para actividades como páramos, nevados etc.
 
-__Algunas propiedades del pantalón impermeable son:__
+#### Propiedades del pantalon impermeable:
 
 * Color: Al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Protección Solar: Uv +30  norma aatcc 183
 * No se mancha con el sudor:
 * Impermeabilidad: te mantendrá seco incluso en las lluvias más fuertes.
 
-
+__Uso:__ Recomendado para caminatas donde haya mucha humedad, paramos o nevados etc.
 
 Todos nuestros pantalones: basic, secado rápido e impermeable, vienen en los siguientes diseños: 
 
-Diseño del pantalón de hombre: tiene bolsillos a los costados con tapa y en la parte de atrás también 2 bolsillos y al lado derecho un bolsillo con cremallera, en la bota cuenta con resorte para ajustarlo.
+__Diseño del pantalón de hombre:__ tiene bolsillos a los costados con tapa y en la parte de atrás también 2 bolsillos y al lado derecho un bolsillo con cremallera, en la bota cuenta con resorte para ajustarlo.
 
 {% include image.html,
  file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/pantalon_senderismo.JPG",
@@ -166,7 +169,11 @@ Diseño del pantalón de hombre: tiene bolsillos a los costados con tapa y en la
  height:"800"
 %}
 
-Diseño del pantalón de mujer: este lo tenemos en 2 estilos camuflados y el otro diseño del pantalón es un poco más ajustado, bolsillos internos en la parte de atrás y bolsillo en el muslo derecho con cremallera.
+El diseño del pantalón de mujer lo tenemos en 2 estilos: 
+
+* Camuflado: cuenta con bolsillos camuflados en la parte de atrás y bolsillo de parche en el muslo.
+
+* Pantalón ajustado: cuenta con bolsillos internos en la parte de atrás y bolsillo en el muslo derecho con cremallera.
 
 --Foto--
 
@@ -196,7 +203,7 @@ Por lo general yo uso esta chaqueta para caminatas cortas .
 Esta chaqueta cuenta con un poco más de propiedades  que la hacen ideal para el senderismo y su impermeabilidad es un poco más que la chaqueta basic. 
 
 
-__Alguna propiedades de la chaqueta Pro son:__
+__Propiedades de la chaqueta Pro:__
 
 * Color: al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Anti Rasgado: tejido en cuadrícula que da mayor resistencia a la tela, y así evitará que se rasgue fácilmente con el contacto con ramas  etc.. 
@@ -223,7 +230,7 @@ La tasa de impermeabilidad se expresa en mm de agua o columnas de agua, el cual 
 
 {% include image.html, 
     file:"/blog/tipsmontana/ropara-para-senderismo/test-impermeabilidad.jpg", 
-    caption:"prueba de presión hidrostática", 
+    caption:"Prueba de presión hidrostática", 
     width:"1100", 
     height:"698",
 %}
@@ -235,7 +242,7 @@ Te comparto una tabla en la cual podrás ver para qué actividad la podrías usa
 
 {% include image.html, 
     file:"/blog/tipsmontana/ropara-para-senderismo/indice-impermeabilidad.jpg", 
-    caption:"indice de impermeabilidad", 
+    caption:"Indice de impermeabilidad", 
     width:"1100", 
     height:"698",
 %}
@@ -252,7 +259,7 @@ Te comparto una tabla en la cual podrás ver para qué actividad la podrías usa
 
 {% include image.html, 
     file:"/blog/tipsmontana/ropara-para-senderismo/indice-respirabilidad.jpg", 
-    caption:"indice de respirabilidad", 
+    caption:"Indice de respirabilidad", 
     width:"1100", 
     height:"529",
 %}
@@ -287,9 +294,7 @@ __La chaqueta Extreme que tenemos en nuestra tienda cuenta con:__
 * Transpirabilidad de 18.000 g/m2/día.
 * Resistencia al viento 5 m²/seg.
 
-Además de esto nuestra chaqueta Extreme cuenta con una membrana interna, que permite un mayor desempeño en cuanto a impermeabilidad y transpirabilidad.
-
-__Las costuras de la chaqueta extreme vienen selladas en la parte de los hombros__
+Además de esto nuestra chaqueta Extreme cuenta con una membrana interna, que permite un mayor desempeño en cuanto a impermeabilidad y transpirabilidad, ademas las costuras de la chaqueta vienen selladas en la parte de los hombros.
 
 
 Si tienes alguna duda o sugerencia puedes escribirnos a través de nuestras redes sociales.
