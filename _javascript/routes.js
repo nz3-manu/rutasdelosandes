@@ -10,13 +10,8 @@ import OrderList from "./components/orderlist";
 import Blog from "./components/blog";
 import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
+import { loadAmpDocument } from "./helpers/loadData";
 
-function loadData(match) {
-  console.log(`match params from router`, match.params);
-  return fetch(`https://jsonplaceholder.typicode.com/todos/1`).then((res) => {
-    return res.json();
-  });
-}
 //<Route path="/blog" component={Blog} />
 //<Route path="/tienda" component={Products} />
 //<Route path="/contacto" component={About} />
@@ -43,7 +38,10 @@ const Routes = [
         src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
       />
     ),
-    loadData: loadData,
+    loadData: (match) => {
+      const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.deparment}/${match.params.document}`;
+      return loadAmpDocument(documentUrl);
+    },
   },
   {
     path: "/",
@@ -70,7 +68,10 @@ const Routes = [
         src={`/amp/${props.params.category}/${props.params.document}`}
       />
     ),
-    loadData: loadData,
+    loadData: (match) => {
+      const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.document}`;
+      return loadAmpDocument(documentUrl);
+    },
   },
   {
     path: "/checkout",

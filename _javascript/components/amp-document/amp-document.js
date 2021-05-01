@@ -2,6 +2,7 @@ import React from "react";
 import "isomorphic-fetch";
 import { withRouter } from "react-router";
 import PushBanner from "../push-banner";
+import { loadAmpDocument } from "../../helpers/loadData";
 
 //import {askPermission, subscribeUserToPush,registerTokenOnServer} from '../../messaging'
 
@@ -11,6 +12,15 @@ import PushBanner from "../push-banner";
 class AMPDocument extends React.Component {
   constructor(props) {
     super(props);
+    if (props.staticContext && props.staticContext.data) {
+      this.state = {
+        data: props.staticContext.data,
+      };
+    } else {
+      this.state = {
+        data: [],
+      };
+    }
     this.state = {
       offline: false,
       loading: false,
@@ -60,8 +70,16 @@ class AMPDocument extends React.Component {
   }
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
-
-    this.fetchAndAttachAmpDoc_(this.props.src);
+    setTimeout(() => {
+      if (window.__ROUTE_DATA__) {
+        this.attachAmpDoc_(window.__ROUTE_DATA__);
+        delete window.__ROUTE_DATA__;
+      } else {
+        loadAmpDocument(this.props.src).then((data) => {
+          this.attachAmpDoc_(data);
+        });
+      }
+    }, 0);
   }
 
   componentWillUnmount() {
@@ -78,7 +96,7 @@ class AMPDocument extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     this.AmpDocClosed = false;
-    this.fetchAndAttachAmpDoc_(nextProps.src);
+    this.attachAmpDoc_(nextProps.src);
   }
 
   render() {
@@ -137,33 +155,22 @@ class AMPDocument extends React.Component {
    * @private
    * @param {string} url
    */
-  fetchAndAttachAmpDoc_(url) {
+  attachAmpDoc_(url, doc) {
     this.setState({ loading: true });
-    this.fetchDocument_(url)
-      .then((doc) => {
-        this.hideUnwantedElementsOnDocument_(doc);
-        return this.ampReadyPromise_.then((amp) => {
-          // Replace the old shadow root with a new div element.
-          const oldShadowRoot = this.shadowRoot_;
-          this.shadowRoot_ = document.createElement("div");
-          if (oldShadowRoot) {
-            this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
-          } else {
-            this.container_.appendChild(this.shadowRoot_);
-          }
-          // Attach the shadow document to the new shadow root.
-          this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
-          this.setState({ loading: false });
-        });
-      })
-      .catch((error) => {
-        if (typeof window !== "undefined") {
-          global.notfound();
-        }
-        console.log("error in fetch of the document", error);
-        this.setState({ offline: true });
-        throw error;
-      });
+    this.hideUnwantedElementsOnDocument_(doc);
+    return this.ampReadyPromise_.then((amp) => {
+      // Replace the old shadow root with a new div element.
+      const oldShadowRoot = this.shadowRoot_;
+      this.shadowRoot_ = document.createElement("div");
+      if (oldShadowRoot) {
+        this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
+      } else {
+        this.container_.appendChild(this.shadowRoot_);
+      }
+      // Attach the shadow document to the new shadow root.
+      this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
+      this.setState({ loading: false });
+    });
   }
 
   /**

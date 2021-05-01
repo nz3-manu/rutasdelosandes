@@ -413,22 +413,17 @@ import routes from "../_javascript/routes";
 import App from "../_javascript/app";
 import { matchPath } from "react-router-dom";
 import { StaticRouter } from "react-router";
+import serialize from "serialize-javascript";
 
 async function mathRouter(req, res, state = {}, ampEquivalent) {
   // inside a request
   const promises = [];
-  console.log(routes);
-  console.log(req.url);
   // use `some` to imitate `<Switch>` behavior of selecting only
   // the first to match
   routes.some((route) => {
     // use `matchPath` here
-    console.log(req.path);
-    console.log(`current route being evaluated`, route);
     const match = matchPath(req.path, route);
-    console.log(`match value here`, match);
     if (match) {
-      console.log(`does load data exist`, route.loadData);
       if (route.loadData) {
         promises.push(route.loadData(match));
       } else {
@@ -461,6 +456,7 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
   const content = await Promise.all(promises).then((data) => {
     // Let's add the data to the context
     const context = { data };
+    console.log(`data commig async`, data);
     // do something w/ the data so the client
     // can access it then render the app
     // if we got props then we matched a route and can render
@@ -485,6 +481,7 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
   const fullPage = renderFullPage(
     content,
     preloadedState,
+    data,
     "",
     css,
     ampEquivalent,
@@ -500,6 +497,7 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
 function renderFullPage(
   html,
   preloadedState,
+  data,
   customHtml = "",
   customCSS = "",
   ampEquivalent = false,
@@ -568,6 +566,7 @@ function renderFullPage(
       <meta name="twitter:title" content="${docMetaData.title}">
       <meta name="twitter:description" content="${docMetaData.excerpt}">
       <meta name="twitter:image" content="${docMetaData.featured}">
+      <script>window.__ROUTE_DATA__ = ${serialize(data)}</script>
       <!-- Facebook Pixel Code -->
       <script>
         !function(f,b,e,v,n,t,s)
