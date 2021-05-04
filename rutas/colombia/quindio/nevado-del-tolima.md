@@ -128,7 +128,7 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 ### FINCA PRIMAVERA
 Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un poco ocupados atendiendo la gente y no habrá muchas charlas y pláticas con los dueños de esta finca.
  
-#### Los servicios que prestan en la finca primavera son los siguientes:
+#### Los servicios que prestan en la Finca Primavera son los siguientes:
 * Habitación compartida 🛌: $30.000  pesos por persona.
 * Zona de camping 🏕:$8.000.
 * Almuerzo y cena 🍛: $12.000 pesos. 
@@ -147,7 +147,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranc
  
 ### FINCA LA PLAYA
 
-Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca donde no llega tanto extranjero como en la finca primavera y creo que por eso cada vez que llega un visitante lo hacen sentir como si estuviera en casa 🏡, esto fue algo que realmente me gustó de este lugar.
+Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca donde no llega tanto extranjero como en la Finca Primavera y creo que por eso cada vez que llega un visitante lo hacen sentir como si estuviera en casa 🏡, esto fue algo que realmente me gustó de este lugar.
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 

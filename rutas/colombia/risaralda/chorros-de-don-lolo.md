@@ -14,8 +14,6 @@ Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia te
 
 A cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, hasta tal punto de solo escuchar el sonido del agua que cae al abismo mientras se convierte en pequeñas partículas que se asemejan a pequeñas nubes, para luego caer en los alrededores, convirtiéndose en tenue brisa.
 
-¿Quieres hacer esta ruta con un guía local? <a target="_blank" href="https://api.whatsapp.com/send?phone=3113403572&text=Chorros%20de%20don%20Lolo" >__Clic aquí.__</a>
-
 
 ## ¿Qué encontrarás en los Chorros de Don Lolo 🏞👀?
 
@@ -91,14 +89,6 @@ Este es el fin de la ruta a los Chorros de Don Lolo, **no te olvides de seguirno
     <section>
       <h4> 🚙 SantaRosa-ChorrosDonLolo-SantaRosa $5.600 </h4>
       <p> transporte desde Santa Rosa hasta entrada ChorrosDonLolo $2.800 </p>
-    </section>
-    <section>
-      <h4>🍲 Alimentación $12.000</h4>
-      <p> En el camino van a encontrar algunas tiendas como lo menciona la ruta</p>
-    </section>
-    <section>
-      <h4> 🧔Guía $20.000</h4>
-      <p> minimo de personas 5 - máximo de personas por guía 10</p>
     </section>
     <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>

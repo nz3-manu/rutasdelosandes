@@ -12,7 +12,6 @@ La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandi
 
 __Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama río Barbas.”
 
-¿Quieres hacer esta ruta con un guía local? <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7"  onclick="ga(‘send’, ‘event’, ‘FORM’, ‘Clic’, ‘Form-rutas-ocultas’);" >__Clic aquí.__</a>
 
 ## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
 
@@ -97,10 +96,6 @@ Este es el fin de la ruta a Barbas Bremen, __no te olvides de seguirnos en nuest
     <section>
       <h4>🍲 Alimentación $7.000</h4>
       <p> En el camino van a encontrar algunas tiendas y restaurantes como lo menciona la ruta</p>
-    </section>
-    <section>
-      <h4> 🧔Guía </h4>
-      <p> Podrás consultar la información de los guías en el documento anexado a la ruta, en " ℹ️ Información adicional de la ruta".</p>
     </section>
     <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>
