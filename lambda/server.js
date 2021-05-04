@@ -453,14 +453,13 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
 
   const preloadedState = store.getState();
 
-  const content = await Promise.all(promises).then((data) => {
+  return await Promise.all(promises).then((data) => {
     // Let's add the data to the context
     const context = { data };
-    console.log(`data commig async`, data);
     // do something w/ the data so the client
     // can access it then render the app
     // if we got props then we matched a route and can render
-    return ReactDOMServer.renderToString(
+    const content = ReactDOMServer.renderToString(
       <StaticRouter location={req.url} context={context}>
         <JssProvider
           registry={sheetsRegistry}
@@ -474,24 +473,23 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
         </JssProvider>
       </StaticRouter>
     );
+    // Grab the CSS from our sheetsRegistry.
+    const css = sheetsRegistry.toString();
+    const fullPage = renderFullPage(
+      content,
+      preloadedState,
+      data,
+      "",
+      css,
+      ampEquivalent,
+      req.url.split("?").shift()
+    );
+    if (typeof fullPage != "number") {
+      res.send(fullPage);
+    } else {
+      res.status(fullPage).sendFile(__dirname + "/_site/405.html");
+    }
   });
-
-  // Grab the CSS from our sheetsRegistry.
-  const css = sheetsRegistry.toString();
-  const fullPage = renderFullPage(
-    content,
-    preloadedState,
-    data,
-    "",
-    css,
-    ampEquivalent,
-    req.url.split("?").shift()
-  );
-  if (typeof fullPage != "number") {
-    res.send(fullPage);
-  } else {
-    res.status(fullPage).sendFile(__dirname + "/_site/405.html");
-  }
 }
 
 function renderFullPage(

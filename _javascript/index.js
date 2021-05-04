@@ -52,6 +52,7 @@ ReactDOM.hydrate(
   document.getElementById("root")
 );
 
+/* TODO: Fix this  Analytics
 browserHistory.listen((location) => {
   console.log("page view", location.pathname);
   if (window.gtag) {
@@ -61,7 +62,7 @@ browserHistory.listen((location) => {
     fbq("track", "PageView");
   }
 });
-
+*/
 window.addEventListener("beforeinstallprompt", function (e) {
   e.preventDefault();
   // Stash the event so it can be triggered later.

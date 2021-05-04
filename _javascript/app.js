@@ -118,7 +118,6 @@ const App = ({ jekyll }) => {
           ))}
         </Switch>
       </div>
-      <footer></footer>
     </div>
   );
 };

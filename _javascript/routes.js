@@ -33,11 +33,13 @@ function redirectSWFallbackURL(_nextState, replace) {
 const Routes = [
   {
     path: "/:category/:deparment/:document",
-    component: (props) => (
-      <AMPDocument
-        src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
-      />
-    ),
+    component: (props) => {
+      return (
+        <AMPDocument
+          src={`/amp/${props.match.params.category}/${props.match.params.deparment}/${props.match.params.document}`}
+        />
+      );
+    },
     loadData: (match) => {
       const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.deparment}/${match.params.document}`;
       return loadAmpDocument(documentUrl);
@@ -65,7 +67,7 @@ const Routes = [
     path: "/:category/:document",
     component: (props) => (
       <AMPDocument
-        src={`/amp/${props.params.category}/${props.params.document}`}
+        src={`/amp/${props.match.params.category}/${props.match.params.document}`}
       />
     ),
     loadData: (match) => {
