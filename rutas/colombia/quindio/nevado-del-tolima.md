@@ -14,9 +14,9 @@ author: manuel
 
 En este post encontrarás la siguiente información: 
 
-* <a href="#comollegar"> Cómo llegar al nevado del Tolima. </a>
-* <a href="#rutanevadotolima"> Ruta al nevado del Tolima. </a> 
-*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al nevado del Tolima con numeros de telefonos.</a> 
+* <a href="#comollegar"> Cómo llegar al Nevado del Tolima. </a>
+* <a href="#rutanevadotolima"> Ruta al Nevado del Tolima. </a> 
+*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima con numeros de telefonos.</a> 
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
@@ -44,7 +44,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA 🛣🚌?
 
-Para llegar al nevado del tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación posteriormente la documentarémos también . 
+Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación posteriormente la documentarémos también . 
 
 Aquí en este post explicaremos como hacerlo por Salento Quindio, 
 
@@ -74,12 +74,12 @@ Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 k
 
 Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación, ya que la persona tendrá que bajar desde la finca que te vas a hospedar.
 
-__En la sección de los hospedajes disponibles en el nevado del tolima dejaremos  los contactos para el servicio de arriería__
+__En la sección de los hospedajes disponibles en el Nevado del Tolima dejaremos  los contactos para el servicio de arriería__
 
 {% include iframe.html
    type:"custom"
    mid:"1emw98lE7EKmocsRnxuyEoKlOs6Bc3XAc&hl=en"
-   caption:"Mapa valle del cocora, arenales y termales el cañón"
+   caption:"Mapa valle del cocora, Arenales y Termales del Cañón"
 %}
 
 ### DÍA #1
@@ -151,22 +151,22 @@ Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca d
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 
-caption:"Foto Finca la playa", 
+caption:"Foto Finca la Playa", 
 width:"1200", 
 height:"583" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
 
-#### Los servicios que prestan en la finca la playa son los siguientes:
+#### Los servicios que prestan en la Finca la Playa son los siguientes:
 * Habitación compartida 🛌:$23.000 pesos por persona.
 * Zona de camping 🏕:$12.000.
 * Almuerzo y cena 🍛: $14.000 pesos.
 * Desayuno 🥟:$12.000 pesos.
-* Servicio de guia valle del cocora a finca la playa 🧔: $120.000 máximo 3 personas.
-* Préstamo de equipos para subir el nevado del tolima (Piolet, casco, crampones arnés):  $80.000.
+* Servicio de guia valle del cocora a Finca la Playa 🧔: $120.000 máximo 3 personas.
+* Préstamo de equipos para subir el Nevado del Tolima (Piolet, casco, crampones arnés):  $80.000.
 
 __Servicio de arriería 🐴:__
-* Cocora a la finca la playa: $120.000 Pesos máximo 3 maletas.
-* Finca la playa a arenales: $80.000 Pesos
+* Cocora a la Finca la Playa: $120.000 Pesos máximo 3 maletas.
+* Finca la playa a Arenales: $80.000 Pesos
 La señal puede ser un poco mala en esta zona así que pueden enviarle un mensaje especificando el día que vas y los servicios que necesitas, él cuando pueda te devolverá la llamada.
 
 📞 __Teléfono:<a href="tel: 3106314674"> 3106314674</a> o <a href="tel: 3106305329"> 3106305329</a> Carlos__
@@ -186,13 +186,13 @@ Después de ese delicioso café aproveche para cambiarme las botas que a pesar d
 
 ### DÍA #2
 
-Al siguiente día salimos a acampar en arenales , por fortuna mis botas estaban un poco más secas así que las guarde para subir a la cumbre y use otros tenis que llevaba para subir a arenales.
+Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban un poco más secas así que las guarde para subir a la cumbre y use otros tenis que llevaba para subir a Arenales.
 
-Desde la finca la playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginaran las lomitas que toca subir 😅.
+Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginaran las lomitas que toca subir 😅.
 
-Al llegar a arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado 🥶, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
+Al llegar a Arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado 🥶, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
 
-Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al nevado del Tolima 🗻.
+Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
 
 ### DÍA #3
 
@@ -205,10 +205,10 @@ __Formas para hacer cumbre:__
 
 * Saliendo directamente de la finca que nos estamos hospedando a las 12 am, cada uno tendrá que llevar el equipo de montaña: casco, piolet, crampones, arnés.
 
-* Acampando en la base del nevado del tolima (Arenales) la cual está a 4.500 msnm 🥶, si eliges esta opción tienes que tener en cuenta que debes de tener: __carpa y sleeping que resista bajas temperaturas__  además debes de tener en cuenta que allí no hay ríos cerca así que deberás llevar agua para cocinar.
+* Acampando en la base del Nevado del Tolima (Arenales) la cual está a 4.500 msnm 🥶, si eliges esta opción tienes que tener en cuenta que debes de tener: __carpa y sleeping que resista bajas temperaturas__  además debes de tener en cuenta que allí no hay ríos cerca así que deberás llevar agua para cocinar.
  
  
-Para hacer cumbre al nevado del tolima desde arenales tuvimos que pasar por diferentes tramos, aquí te los explicare:
+Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicare:
 
 __Tramo de arena__
 Nos levantamos un poco más temprano para hacer el desayuno,  y empezar a ponernos nuestro equipo, arnés, casco y  frontoluz, esperamos un poco para que calmará la lluvia para posteriormente empezar el ascenso.
@@ -280,32 +280,32 @@ height:"900" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
  
-Aquí encontrarán servicio de:
-*  ⛺️ camping a $10.000 pesos por persona con derecho a la piscina de aguas termales, 
+#### Los servicios que prestan en Termales del Cañón son los siguientes:
+*  ⛺️ camping a $10.000 pesos por persona con derecho a la piscina de aguas termales. 
 * 🧇 Arepa con queso a $2.000 pesos.
 * 🍛 Comida $10.000 pesos, se debe de llamar con anticipación, ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
 
 📞 __Teléfono: <a href="tel: 3227615934"> 3227615934</a> Edil__
 
-__Servicio de arriería termales el cañón 🐴 máximo 3 maletas:__
-* Termales el cañón hasta los arenales : $70.000 Pesos.
-* Termales el cañón  hasta palomar en Anzoátegui Tolima: $100.000 Pesos.
+__Servicio de arriería en Termales del Cañón 🐴 máximo 3 maletas:__
+* Termales del Cañón hasta Arenales: $70.000 Pesos.
+* Termales del Cañón hasta Palomar en Anzoátegui Tolima: $100.000 Pesos.
 
 📞 __Teléfono: <a href="tel: 3208978913"> 3208978913</a> o <a href="tel: 3227333453"> 32089732273334538913</a> Don Benjamín__
 
-Si te piensas quedar más tiempo en termales en cañón podrías visitar algunos lugares como: laguna corazón y la cascada el salto.
+Si te piensas quedar más tiempo en Termales del Cañón podrías visitar algunos lugares como: Laguna Corazón y la Cascada el Salto.
 
-Este es el final de la ruta, solo te queremos decir que si te sobra comida puedes dejarla en algunas fincas que más lo necesitan como: Termales el cañón, La playa o estrella de agua. recuerda bajar toda la basura que generes.
+Este es el final de la ruta, solo te queremos decir que si te sobra comida puedes dejarla en algunas fincas que más lo necesitan como: Termales el Cañón, Finca la Playa o Estrella de Agua. recuerda bajar toda la basura que generes.
  
 ## ¿CÓMO REGRESAR DEL NEVADO DEL TOLIMA?
 
 ### DÍA #4
-Al siguiente día enviamos nuestro equipaje en mula para subir un poco más livianos, subimos hasta arenales y después hasta la finca la playa donde nos quedamos a dormir.
+Al siguiente día enviamos nuestro equipaje en mula para subir un poco más livianos, subimos hasta Arenales y después hasta la Finca la Playa donde nos quedamos a dormir.
 
 ### DÍA #5
-Al siguiente día regresando de nuevo al valle del Cocora.
+Al siguiente día regresando de nuevo al Valle del Cocora.
 La otra opción que puedes contemplar para regresar sería por  Palomar en Anzoátegui Tolima, te tomaría un día más no como a nosotros que se nos llevo 2 días.
 
-Tambien podras salir por juntas tolima aunque es mucho más lejos.
+Tambien podrás salir por Juntas en Tolima aunque es mucho más lejos.
 
 __Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones.
