@@ -12,15 +12,18 @@ import { loadAmpDocument } from "../../helpers/loadData";
 class AMPDocument extends React.Component {
   constructor(props) {
     super(props);
-    if (props.staticContext && props.staticContext.data) {
-      this.state = {
-        data: props.staticContext.data,
-      };
-    } else {
-      this.state = {
-        data: [],
-      };
-    }
+
+    //TODO: we can SSR AMP Docs from server from now, but i will look into it
+    //if (props.staticContext && props.staticContext.data) {
+    //this.state = {
+    //data: props.staticContext.data,
+    //};
+    //} else {
+    //this.state = {
+    //data: [],
+    //};
+    //}
+
     this.state = {
       offline: false,
       loading: false,
@@ -71,13 +74,18 @@ class AMPDocument extends React.Component {
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
     setTimeout(() => {
-      if (window.__ROUTE_DATA__) {
-        this.attachAmpDoc_(window.__ROUTE_DATA__);
+      if (window.__ROUTE_DATA__[0]) {
+        this.attachAmpDoc_(
+          new DOMParser().parseFromString(window.__ROUTE_DATA__[0], "text/html")
+        );
         delete window.__ROUTE_DATA__;
       } else {
-        loadAmpDocument(this.props.src).then((data) => {
-          this.attachAmpDoc_(data);
-        });
+        loadAmpDocument(this.props.src)
+          .then((text) => new DOMParser().parseFromString(text, "text/html"))
+          .then((data) => {
+            console.log(`data after calling loadDocument`, data);
+            this.attachAmpDoc_(data);
+          });
       }
     }, 0);
   }
@@ -100,7 +108,6 @@ class AMPDocument extends React.Component {
   }
 
   render() {
-    const { staticContext } = this.props;
     if (this.state.offline) {
       return (
         <div>
@@ -123,7 +130,9 @@ class AMPDocument extends React.Component {
           <div
             className={this.state.loading ? "amp-container-hide" : null}
             ref={(ref) => (this.container_ = ref)}
-          ></div>
+          >
+            {}
+          </div>
           <PushBanner />
         </div>
       );
@@ -155,9 +164,9 @@ class AMPDocument extends React.Component {
    * @private
    * @param {string} url
    */
-  attachAmpDoc_(url, doc) {
+  attachAmpDoc_(doc) {
     this.setState({ loading: true });
-    this.hideUnwantedElementsOnDocument_(doc);
+    //this.hideUnwantedElementsOnDocument_(doc);
     return this.ampReadyPromise_.then((amp) => {
       // Replace the old shadow root with a new div element.
       const oldShadowRoot = this.shadowRoot_;
@@ -168,7 +177,11 @@ class AMPDocument extends React.Component {
         this.container_.appendChild(this.shadowRoot_);
       }
       // Attach the shadow document to the new shadow root.
-      this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
+      this.shadowAmp_ = amp.attachShadowDoc(
+        this.shadowRoot_,
+        doc,
+        this.props.src
+      );
       this.setState({ loading: false });
     });
   }
