@@ -22,6 +22,10 @@ Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a lo
 
 Si contratas servicios con guías locales es bajo tu propia responsabilidad ya que estos no pagarán los seguros médicos que pagaría una agencia.
 
+El precio de la ruta con agencia es de $1'200.000 Pesos por persona, saliendo desde Pereira o Manizales, __<a target="_blank" href="https://forms.gle/vDqwaKLq6RdrELTz8"> más información aquí</a>__.
+
+
+
 ## DATOS CURIOSOS DEL NEVADO DEL TOLIMA
 
 El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
@@ -105,7 +109,7 @@ En este lugar posiblemente les puedan vender almuerzo si llaman con anticipació
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
 Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
 
-__Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana. _
+__Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
 
 Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramo que se funden con la vegetación  del bosque 😍🏔.
 
@@ -161,12 +165,11 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranc
 * Zona de camping 🏕:$12.000.
 * Almuerzo y cena 🍛: $14.000 pesos.
 * Desayuno 🥟:$12.000 pesos.
-* Servicio de guia valle del cocora a Finca la Playa 🧔: $120.000 máximo 3 personas.
-* Préstamo de equipos para subir el Nevado del Tolima (Piolet, casco, crampones arnés):  $80.000.
 
 __Servicio de arriería 🐴:__
 * Cocora a la Finca la Playa: $120.000 Pesos máximo 3 maletas.
-* Finca la playa a Arenales: $80.000 Pesos
+* Finca la playa a Arenales: $80.000 Pesos.
+
 La señal puede ser un poco mala en esta zona así que pueden enviarle un mensaje especificando el día que vas y los servicios que necesitas, él cuando pueda te devolverá la llamada.
 
 📞 __Teléfono:<a href="tel: 3106314674"> 3106314674</a> o <a href="tel: 3106305329"> 3106305329</a> Carlos__
@@ -182,7 +185,7 @@ Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente �
 
 Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
 
-[Te recomiendo ver cual es la  ropa más adecuada para ir a nevados ]
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>.]__
 
 ### DÍA #2
 
@@ -198,7 +201,7 @@ Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empe
 
 ### CAMINO A LA CUMBRE  DEL NEVADO DEL TOLIMA
 
-Queremos hacer claridad en algo, algunas fincas te podrían ofrecer el servicio de guianza al nevado del tolima, nuestra recomendación es que busquen alguien que cuente con la experiencia adecuada y el entrenamiento <a  target="_blank"  href="https://drive.google.com/file/d/1imeuK-w_Dle4dK_KsoIFJlogeS0UHYBH/view?usp=sharing"> __aquí__</a>  puedes ver algunos guías certificados por parques nacionales o llamando al Telefono (036) 8871611 para verificar la información.
+Nuestra recomendación para hacer cumbre al Nevado del Tolima es que vayas con alguien que cuente con la experiencia y el entrenamiento adecuado, ya como veras más adelante en el post algunos tramos son muy peligrosos para subir sin tener los equipos adecuados.
 
 __Formas para hacer cumbre:__
 
@@ -227,7 +230,7 @@ En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que
 
 __Tramo de Rocas__
 
-Después pasamos a subir por unas rocas,  las cuales por la lluvia estaban resbaladizas así que el guia ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
+Después pasamos a subir por unas rocas,  las cuales por la lluvia estaban resbaladizas así que el guía ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/rocas.JPG", 
