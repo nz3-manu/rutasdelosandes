@@ -85,6 +85,9 @@ class AMPDocument extends React.Component {
           .then((data) => {
             console.log(`data after calling loadDocument`, data);
             this.attachAmpDoc_(data);
+          })
+          .catch((e) => {
+            this.setState({ offline: true });
           });
       }
     }, 0);
