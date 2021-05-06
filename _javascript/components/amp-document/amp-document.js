@@ -166,7 +166,7 @@ class AMPDocument extends React.Component {
    */
   attachAmpDoc_(doc) {
     this.setState({ loading: true });
-    //this.hideUnwantedElementsOnDocument_(doc);
+    this.hideUnwantedElementsOnDocument_(doc);
     return this.ampReadyPromise_.then((amp) => {
       // Replace the old shadow root with a new div element.
       const oldShadowRoot = this.shadowRoot_;

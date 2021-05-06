@@ -8,6 +8,7 @@ import About from "./components/about";
 import Politicas from "./components/politicas";
 import OrderList from "./components/orderlist";
 import Blog from "./components/blog";
+import Home from "./components/home";
 import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
 import { loadAmpDocument } from "./helpers/loadData";
@@ -48,7 +49,7 @@ const Routes = [
   {
     path: "/",
     exact: true,
-    component: Shell,
+    component: Home,
     onEnter: redirectSWFallbackURL,
   },
   {
