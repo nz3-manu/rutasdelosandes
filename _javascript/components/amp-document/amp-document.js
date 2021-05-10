@@ -12,7 +12,6 @@ import { loadAmpDocument } from "../../helpers/loadData";
 class AMPDocument extends React.Component {
   constructor(props) {
     super(props);
-
     //TODO: we can SSR AMP Docs from server from now, but i will look into it
     //if (props.staticContext && props.staticContext.data) {
     //this.state = {
@@ -73,21 +72,29 @@ class AMPDocument extends React.Component {
   }
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
+    debugger;
     setTimeout(() => {
       if (window.__ROUTE_DATA__[0]) {
+        console.log("loading from __ROUTE_DATA__");
         this.attachAmpDoc_(
           new DOMParser().parseFromString(window.__ROUTE_DATA__[0], "text/html")
-        );
+        ).then(() => {
+          this.setState({ loading: false });
+        });
         delete window.__ROUTE_DATA__;
       } else {
+        this.setState({ loading: true });
         loadAmpDocument(this.props.src)
           .then((text) => new DOMParser().parseFromString(text, "text/html"))
           .then((data) => {
             console.log(`data after calling loadDocument`, data);
-            this.attachAmpDoc_(data);
+            return this.attachAmpDoc_(data);
           })
           .catch((e) => {
             this.setState({ offline: true });
+          })
+          .finally(() => {
+            this.setState({ loading: false });
           });
       }
     }, 0);
@@ -168,7 +175,6 @@ class AMPDocument extends React.Component {
    * @param {string} url
    */
   attachAmpDoc_(doc) {
-    this.setState({ loading: true });
     this.hideUnwantedElementsOnDocument_(doc);
     return this.ampReadyPromise_.then((amp) => {
       // Replace the old shadow root with a new div element.
@@ -185,7 +191,6 @@ class AMPDocument extends React.Component {
         doc,
         this.props.src
       );
-      this.setState({ loading: false });
     });
   }
 

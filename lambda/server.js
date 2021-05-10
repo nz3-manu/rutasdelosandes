@@ -424,6 +424,7 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
     // use `matchPath` here
     const match = matchPath(req.path, route);
     if (match) {
+      console.log(`matching route in BE`, match);
       if (route.loadData) {
         promises.push(route.loadData(match));
       } else {
