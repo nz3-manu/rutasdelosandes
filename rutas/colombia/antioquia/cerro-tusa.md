@@ -32,7 +32,7 @@ Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/8XdmnyRVytvDNdsC6">__Clic aquí para llenar formulario.__</a>
+Un guía local te cobrará $250.000 Pesos para ir con 8 personas como máximo, si van menos personas el valor se incrementaría para cada uno. El transporte, la alimentación, el pago de seguros corren por cuenta de la persona, <a target="_blank" href="https://forms.gle/8XdmnyRVytvDNdsC6">__más información aquí.__</a>
 
 ## ¿CÓMO LLEGAR A CERRO TUSA ?
 
@@ -47,7 +47,7 @@ Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco
 
 
 Al llegar al altar de sacrificios nos encontramos con nuestra guía local Paula 
- (__teléfono:<a href="tel: 3218183862"> 3218183862</a>__) cerca del altar de sacrificio, allí nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el camino a Cerro Tusa.
+cerca del altar de sacrificio, allí nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el camino a Cerro Tusa.
 
 
 __Nota:__ _Siempre exigir a los guías el respectivo pago del Seguro médico._

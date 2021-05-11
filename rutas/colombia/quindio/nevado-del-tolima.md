@@ -125,7 +125,7 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 <p id="hospedajesnevadotolima"></p>
 
-## HOSPEDAJES CERCANOS AL NEVADO DEL TOLIMA.
+## HOSPEDAJES CERCANOS EN EL NEVADO DEL TOLIMA 🛏
 
 ### FINCA PRIMAVERA
 Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un poco ocupados atendiendo la gente y no habrá muchas charlas y pláticas con los dueños de esta finca.

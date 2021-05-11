@@ -57,7 +57,7 @@ El alquiler de carro con conductor costó alrededor de $300.000 pesos para un cu
  
 __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta  "Que es el mal de altura y como evitarlo"</a>.]__
  
-Con cada kilómetro que avanzabamos 🚙 dejábamos  atrás los edificios 🌆 y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃⛰.
+Con cada kilómetro que avanzabamos dejábamos  atrás los edificios y la emoción se hacía más fuerte al ver los hermosos frailejones.
  
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶.
  
@@ -74,11 +74,11 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 </amp-instagram>
  
  
-Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino 🗻. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz 🏔.
+Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
  
 <p id="hospedajesnevadoruiz"></p>
  
-## HOSPEDAJE CERCA AL NEVADO DEL RUIZ 🛌
+## Hospedaje cerca al Nevado del Ruiz 🛌
  
 ### Hospedaje el Arbolito
  
@@ -93,7 +93,7 @@ Después de esta última parada nos subimos de nuevo al carro y continuamos por 
  
 <p id="costoentradaruiz"></p>
  
-## COSTO DE ENTRADA AL NEVADO DEL RUIZ 🎟
+## Costo de entrada al Nevado del Ruiz 🎟
  
 ⚠️ Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.
  
@@ -160,8 +160,6 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 %}
  
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
- 
-¿Necesitas ayuda para planear tu viaje?, déjanos tu información de contactos para comunicarte con una agencia de viajes <a target="_blank" href="https://forms.gle/7wsYhioCSLcXdban7">__Clic aquí para llenar formulario.__</a>
  
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
