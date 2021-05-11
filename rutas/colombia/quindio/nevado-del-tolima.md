@@ -20,9 +20,7 @@ En este post encontrarás la siguiente información:
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
-Si contratas servicios con guías locales es bajo tu propia responsabilidad ya que estos no pagarán los seguros médicos que pagaría una agencia.
-
-El precio de la ruta con agencia es de $1'200.000 Pesos por persona, saliendo desde Pereira o Manizales, __<a target="_blank" href="https://forms.gle/vDqwaKLq6RdrELTz8"> más información aquí</a>__.
+El precio para hacer la ruta con agencia es de  aproximadamente $1'200.000 Pesos por persona, saliendo desde Pereira o Armenia, __<a target="_blank" href="https://forms.gle/vDqwaKLq6RdrELTz8"> más información aquí</a>__.
 
 
 
@@ -121,7 +119,7 @@ Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kil
  height:"506" 
  %}
 
-Después de dejar el bosque atrás cruzamos por el valle de los perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
+Después de dejar el bosque atrás cruzamos por el Valle de los Perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
 Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje. 
 
 
@@ -203,7 +201,7 @@ Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empe
 
 Nuestra recomendación para hacer cumbre al Nevado del Tolima es que vayas con alguien que cuente con la experiencia y el entrenamiento adecuado, ya como veras más adelante en el post algunos tramos son muy peligrosos para subir sin tener los equipos adecuados.
 
-__Formas para hacer cumbre:__
+#### Formas para hacer cumbre en el Nevado del Tolima:
 
 
 * Saliendo directamente de la finca que nos estamos hospedando a las 12 am, cada uno tendrá que llevar el equipo de montaña: casco, piolet, crampones, arnés.
@@ -216,7 +214,7 @@ Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por dife
 __Tramo de arena__
 Nos levantamos un poco más temprano para hacer el desayuno,  y empezar a ponernos nuestro equipo, arnés, casco y  frontoluz, esperamos un poco para que calmará la lluvia para posteriormente empezar el ascenso.
 
-Primero subimos por arena, cada vez que se ascendía más se empezaba a ver escarcha, al llegar a un sector llamado el helipuerto aprovechamos para sacar un poco de agua de un pequeño arroyo.
+Primero subimos por arena, cada vez que se ascendía más se empezaba a ver escarcha, al llegar a un sector llamado el Helipuerto aprovechamos para sacar un poco de agua de un pequeño arroyo.
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/arena.jpg", 
