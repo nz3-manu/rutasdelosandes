@@ -34,7 +34,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 [Fuente: <a target="_blank" href="https://ibanasca.wordpress.com/2012/11/21/ibanasca-la-diosa-de-las-nieves/"> ibanasca </a>]
 
-## ¿QUÉ ENCONTRARÁS 🏞👀?
+## ¿QUÉ ENCONTRARÁS?
 
 {% include youtube.html,
     videoid:"k2pBfRDnHjU",
@@ -44,7 +44,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 %}
 <p id="comollegar"></p>
 
-## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA 🛣🚌?
+## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
 Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación posteriormente la documentarémos también . 
 
@@ -64,15 +64,15 @@ Salen cada  30 minutos a partir de las 5:30 am, el valor del pasaje es aproximad
 Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar un jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
 
 
-Una vez aquí ya estamos listos para empezar nuestro camino 😎⛰.
+Una vez aquí ya estamos listos para empezar nuestro camino ⛰.
 
 <p id="rutanevadotolima"></p>
 
-## RUTA AL NEVADO DEL TOLIMA 🚶🏼
+## RUTA AL NEVADO DEL TOLIMA
 
 __Recomendación: Para hacer esta ruta debes estar como mínimo a las 6:30 am__
 
-Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60% 🏔😥, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
+Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
 
 Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación, ya que la persona tendrá que bajar desde la finca que te vas a hospedar.
 
@@ -109,7 +109,7 @@ Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir s
 
 __Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
 
-Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramo que se funden con la vegetación  del bosque 😍🏔.
+Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramo que se funden con la vegetación  del bosque.
 
 
 {% include image.html, 
@@ -125,14 +125,14 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 <p id="hospedajesnevadotolima"></p>
 
-## HOSPEDAJES CERCANOS EN EL NEVADO DEL TOLIMA 🛏
+## HOSPEDAJES CERCANOS EN EL NEVADO DEL TOLIMA
 
 ### FINCA PRIMAVERA
 Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un poco ocupados atendiendo la gente y no habrá muchas charlas y pláticas con los dueños de esta finca.
  
 #### Los servicios que prestan en la Finca Primavera son los siguientes:
 * Habitación compartida 🛌: $30.000  pesos por persona.
-* Zona de camping 🏕:$8.000.
+* Zona de camping 🏕:$8.000 pesos por persona.
 * Almuerzo y cena 🍛: $12.000 pesos. 
 * Desayuno 🥟: $10.000 pesos. 
 
@@ -160,7 +160,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranc
 
 #### Los servicios que prestan en la Finca la Playa son los siguientes:
 * Habitación compartida 🛌:$23.000 pesos por persona.
-* Zona de camping 🏕:$12.000.
+* Zona de camping 🏕:$12.000 pesos por persona.
 * Almuerzo y cena 🍛: $14.000 pesos.
 * Desayuno 🥟:$12.000 pesos.
 
@@ -189,9 +189,9 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuent
 
 Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban un poco más secas así que las guarde para subir a la cumbre y use otros tenis que llevaba para subir a Arenales.
 
-Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginaran las lomitas que toca subir 😅.
+Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginarán las lomitas que toca subir 😅.
 
-Al llegar a Arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado 🥶, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
+Al llegar a Arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
 
 Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
 
@@ -282,9 +282,9 @@ height:"900" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
  
 #### Los servicios que prestan en Termales del Cañón son los siguientes:
-*  ⛺️ camping a $10.000 pesos por persona con derecho a la piscina de aguas termales. 
-* 🧇 Arepa con queso a $2.000 pesos.
-* 🍛 Comida $10.000 pesos, se debe de llamar con anticipación, ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
+* Camping ⛺️ : $10.000 pesos por persona con derecho a la piscina de aguas termales. 
+* Arepa con queso 🧇: $2.000 pesos.
+* Almuerzo y cena 🍛 : $10.000 pesos, se debe de llamar con anticipación, ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
 
 📞 __Teléfono: <a href="tel: 3227615934"> 3227615934</a> Edil__
 
