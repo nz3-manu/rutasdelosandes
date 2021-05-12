@@ -107,6 +107,13 @@ En este lugar posiblemente les puedan vender almuerzo si llaman con anticipació
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
 Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
 
+{% include image.html, 
+file:"rutas/quindio/nevado-del-tolima/ropa.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+
+
 __Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
 
 Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramo que se funden con la vegetación  del bosque.
