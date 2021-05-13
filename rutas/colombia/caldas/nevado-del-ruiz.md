@@ -83,6 +83,7 @@ Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más 
 ### Hospedaje el Arbolito
  
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios:
+
 * Desayunos 🥟: $8.000 Pesos.
 * Almuerzos desde 🍛: $14.000 pesos. 
 * Hospedaje 🛏: $40.000 pesos por persona (incluye desayuno).
