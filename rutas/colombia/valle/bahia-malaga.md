@@ -190,12 +190,11 @@ El recorrido por persona a cada una de estas cascadas  dependerá del número de
 
 __Todos los precios mencionados en el blog dependen de la temporada en que se viaje.__
 
-## ¿Cómo regresar de Bahía Málaga?
+## ¿CÓMO REGRESAR DE BAHÍA MÁLAGA?
 
 Es recomendable salir en la horas de la mañana, ya que en la tarde es más probable que el mar se piqué 🌊 (se ponga turbulento) y suspendan el tránsito de las lanchas. 
 
 Debes tener en cuenta que los horarios de buses del terminal de buenaventura para algunos destinos del país solo saldrán hasta las 4 pm.
-
 
 Este es el fin de la ruta a Bahía Málaga, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
