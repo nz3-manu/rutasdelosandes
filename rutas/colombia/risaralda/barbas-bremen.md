@@ -8,9 +8,15 @@ images_url : /images/rutas/risaralda/barbasBremen
 viewranger: MTYzNjQxOQ==
 author: manuel
 ---
+
+# Reserva Barbas Bremen
+
 La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). Entre los atractivos de la reserva estan la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
-__Como dato curioso:__ El nombre del “río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama río Barbas.”
+
+## Dato Curioso de la reserva Barbas Bremen
+
+El nombre del “río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama río Barbas.”
 
 
 ## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
@@ -26,15 +32,21 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Lo primero que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en un en la zona rosa de Pereira ver hostal __<a href="http://www.booking.com/hotel/co/kolibri-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-594819&nflt=review_score%253D90%253Breview_score%253D80%253Bht_id%253D201&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
 
-__[<a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/rutas-senderismo-ejecafero.html"> Si quieres conocer rutas de senderismo ocultas en el Eje Cafetero te invitamos a hacer clic aquí</a>]__.
 
 __Recomendación:__ Realizar reservación con previa anticipación, nosotros las realizamos a través de Booking ya que permite hacer reserva totalmente gratis 😋, de esta forma nos evitamos estar corriendo de un lado para el otro buscando hospedaje 🏨💨🏃‍ como ya nos ha pasado 😅.
 
 
 Al día siguiente tomamos un bus 🚌 con destino hacia Yarumal este pasa al frente del centro comercial victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. El valor del pasaje es aproximadamente $2.300 pesos. Una vez lleguemos a Yarumal podremos ver la entrada a el Sendero Yarumal lugar donde empieza la caminata.
 
-Nosotros hicimos una parada para almorzar antes de iniciar con la caminata. Almorzamos donde Doña Manuela ella vende comida casera muy rica 🍲😋, el almuerzo vale $5.000 pesos, un servicio muy tradicional que ofrece es el de empacar los almuerzos en hojas de plátano. 
-Ella recomienda llamarla con un dia de anticipación para tener los almuerzos listos. Teléfono: <a href="tel:3113473438">3113473438</a>. 
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% include image.html,
+file:"rutas/quindio/nevado-del-tolima/ropa.gif",
+caption:"",
+width:"480",
+height:"200" %}
+</a>
+
+Nosotros hicimos una parada para almorzar antes de iniciar con la caminata. Almorzamos cerca a la entrada al parque donde venden comida casera muy rica 🍲😋, el almuerzo vale $8.000 pesos, un servicio muy tradicional que ofrece es el de empacar los almuerzos en hojas de plátano.
 
 __Si vas en moto 🛵, carro 🚗 o bicicleta 🚲 puedes dejarlo guardado aquí, el valor ya lo hablan directamente con ella.__
 
@@ -60,8 +72,6 @@ Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos
 __Recomendación:__ El rió barbas se caracteriza por ser impredecible, así que se recomienda no estar en el cuando esta lloviendo.
 
 
-{% include related-rutas.html %}
-
 Después de salir del Sendero Yarumal caminaremos al costado de la carretera que lleva a la Vereda Alegrias(pintoresco nombre 🤗) después de unos 45 minutos caminando podremos adentrarnos la cascada Alegrias. 
     
 <amp-instagram
@@ -76,7 +86,6 @@ Una vez vista esta cascada regresamos a la carretera y en unos aproximadamente  
 
 __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así que no se recomienda bañar en ese lugar y mucho menos tomar de estas aguas.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
 
 ## ¿Cómo regresar de la Reserva Barbas Bremen 🚌🏡?
 

@@ -71,7 +71,6 @@ Después de un pequeño descanso en la Pastora, continuamos nuestra ruta hacia l
 
 De regreso tomamos el mismo camino. Tener en cuenta que la última “chiva” o bus escalera 🚌 sale a las 5 pm desde el Cedral, si los deja 🚌💨💨🏃‍♂️ tendrán que caminar hasta la florida, son aproximadamente 3 horas.
 
-{% include related-rutas.html %}
 
 Este es el fin de la ruta a la Cascada los Chorros en la pastora, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 

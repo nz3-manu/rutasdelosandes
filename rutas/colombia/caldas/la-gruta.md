@@ -52,8 +52,6 @@ __Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la 
 
 En el mapa que subimos en la información anexa podrás ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda. 
 
-{% include related-rutas.html %}
-
 
 Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramos con esta cascada que está localizada a un costado izquierdo de  la carretera (la podrás encontrar señalado en el mapa).
 

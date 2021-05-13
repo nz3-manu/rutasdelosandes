@@ -15,7 +15,7 @@ Bahía málaga es sin duda un lugar mágico que te va a encantar, en este post t
 
 Una vez dicho esto ¡empecemos con la aventura  ⛰!
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> Ver ruta a Bahía Málaga en ingles</a>.]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> Ver ruta a Bahía Málaga en ingles 🇬🇧 </a>.]__
 
 ## Datos curiosos de Bahía Málaga
 
@@ -172,7 +172,7 @@ El recorrido por persona a cada una de estas cascadas  dependerá del número de
 
 __Todos los precios mencionados en el blog dependen de la temporada en que se viaje.__
 
-## ¿Cómo regresar de Bahía Málaga 🚌🏡?
+## ¿Cómo regresar de Bahía Málaga?
 
 Es recomendable salir en la horas de la mañana, ya que en la tarde es más probable que el mar se piqué 🌊 (se ponga turbulento) y suspendan el tránsito de las lanchas. 
 

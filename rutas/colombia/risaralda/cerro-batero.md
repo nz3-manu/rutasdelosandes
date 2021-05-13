@@ -66,7 +66,6 @@ En el ascenso hay que tener precaución ya que tienes que subir por escaleras de
    width:"897"
 %} 
 
-{% include related-rutas.html %}
 
 Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero ⛰.
 

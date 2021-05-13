@@ -65,10 +65,18 @@ Una vez en Villavieja aprovechamos para visitar el __museo paleontológico 🏛_
  
  
 Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"rutas/quindio/nevado-del-tolima/ropa.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
  
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
  
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+
  
 ## Ruta al Desierto de la Tatacoa 🚶🏼
  
@@ -102,11 +110,11 @@ Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a
  
 Este es uno de los más económicos que se encuentran en esta zona, los servicios que ofrecen son los siguientes:
  
-* Zonas de camping: $9.000 pesos por persona.
+* Zonas de camping 🏕: $9.000 pesos por persona.
 * Zona de hamacas: $6.000 pesos.
-* Habitaciones compartidas: $17.000 pesos por persona.
-* Habitaciones privadas: $25.000 por persona.
-* Comidas desde $10.000 pesos hasta $25.000 pesos.
+* Habitaciones compartidas 🛏: $17.000 pesos por persona.
+* Habitaciones privadas 🛏: $25.000 por persona.
+* Comidas desde 🍛: $10.000 pesos.
  
 __Por favor confirmar disponibilidad, teléfono: <a href="tel:3112433455"> 3112433455</a> hostal la tranquilidad.__
  

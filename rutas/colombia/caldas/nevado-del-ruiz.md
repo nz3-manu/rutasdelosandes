@@ -13,6 +13,7 @@ trending: true
 # Nevado del Ruiz
  
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
+
 __En este post encontrarás la siguiente información:__
 * <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz. </a>
 *  <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
@@ -22,8 +23,7 @@ __En este post encontrarás la siguiente información:__
 El precio para ir con agencia de viajes es de aproximadamente $ 250.000 pesos por persona, saliendo de Pereira o $ 210.000 pesos por persona desde Manizales,__<a target="_blank" href="https://forms.gle/vDqwaKLq6RdrELTz8"> más información aquí</a>__.
  
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles</a>.]__
- 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles 🇬🇧</a>.]__
  
  
  
@@ -98,19 +98,24 @@ Después de esta última parada nos subimos de nuevo al carro y continuamos por 
 ⚠️ Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas 🚫🐶.
  
 __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__
-<ol>
- <li>
- Entrada al Parque los Nevados 2019 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.
- </li>
- <li>
-   Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
- </li>
- <li>
- Guia 🧔 :  $13.000 pesos.
- </li>
-</ol>
+
+* Entrada al Parque los Nevados 2019 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.
+
+* Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
+
+* Guia 🧔 :  $13.000 pesos.
+
  
 __Importante:__ El Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro 🚙, esto se hace con el fin de poder evacuar más rápidamente a las personas.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% include image.html,
+file:"rutas/quindio/nevado-del-tolima/ropa.gif",
+caption:"",
+width:"480",
+height:"200" %}
+</a>
+
  
 _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._
  
@@ -123,7 +128,6 @@ El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde la
    mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
    caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
  
 <p id="rutanevadoruiz"></p>
  
@@ -180,7 +184,7 @@ Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nu
    </section>
    <section>
      <h4> 🧔Guía $13.000 pesos</h4>
-     <p> Es obligatorio</p>
+     <p> Es obligatorio, este valor puede cambiar dependiendo de la temporada</p>
    </section>
    <section>
      <h4>🍲 Alimentación: $14.000 pesos</h4>

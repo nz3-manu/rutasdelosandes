@@ -97,7 +97,6 @@ Al llegar a la parte mas alta de nuestro recorrido llegaremos a este hermoso mir
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2.000 metros sobre el nivel del mar. Es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella. Debido a su altura, desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
-{% include related-rutas.html %}
 
 ## ¿Cómo regresar del Alto Del Nudo 🚌🏡?
 Tomamos  el jeep que pasa hasta las 5:00 pm el cual tiene un precio aproximado de $3.500 pesos, este se toma al frente de la casa del guardabosques. Este Jeep nos llevará directo a Pereira.

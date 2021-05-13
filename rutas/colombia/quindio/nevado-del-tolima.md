@@ -107,11 +107,13 @@ En este lugar posiblemente les puedan vender almuerzo si llaman con anticipació
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
 Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/ropa.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
+</a>
 
 
 __Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
@@ -163,6 +165,7 @@ file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg",
 caption:"Foto Finca la Playa", 
 width:"1200", 
 height:"583" %}
+
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
 
 #### Los servicios que prestan en la Finca la Playa son los siguientes:
