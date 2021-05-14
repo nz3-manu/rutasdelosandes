@@ -14,9 +14,9 @@ author: manuel
 
 En este post encontrarás la siguiente información: 
 
-* <a href="#comollegar"> Cómo llegar al Nevado del Tolima. </a>
-* <a href="#rutanevadotolima"> Ruta al Nevado del Tolima. </a> 
-*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima con numeros de telefonos.</a> 
+* <a href="#comollegar"> Cómo llegar al Nevado del Tolima </a>
+* <a href="#rutanevadotolima"> Ruta al Nevado del Tolima </a> 
+*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima con numeros de telefonos</a> 
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
@@ -48,15 +48,14 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación posteriormente la documentarémos también . 
 
-Aquí en este post explicaremos como hacerlo por Salento Quindio, 
+Aquí en este post explicaremos como hacerlo por Salento Quindio. 
 
-
-__Desde Pereira a Salento:__
+* __Desde Pereira a Salento:__
 Salen cada  hora a partir de las 6:30 am (fines de semana) y entre semana a las 7:30 am, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
   
 📞 __Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o  <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.__
 
-__Desde Armenia a Salento:__
+* __Desde Armenia a Salento:__
 Salen cada  30 minutos a partir de las 5:30 am, el valor del pasaje es aproximadamente de $5.300 pesos el último sale a las 8:00 pm.  Empresa de Buses: Expreso Alcalá.
 
 📞 __Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
@@ -74,9 +73,10 @@ __Recomendación: Para hacer esta ruta debes estar como mínimo a las 6:30 am__
 
 Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
 
-Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación, ya que la persona tendrá que bajar desde la finca que te vas a hospedar.
+Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación.
+En la sección de los hospedajes disponibles en el Nevado del Tolima dejaremos  los contactos para el servicio de arriería.
 
-__En la sección de los hospedajes disponibles en el Nevado del Tolima dejaremos  los contactos para el servicio de arriería__
+__Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañón__
 
 {% include iframe.html
    type:"custom"
@@ -182,12 +182,9 @@ La señal puede ser un poco mala en esta zona así que pueden enviarle un mensaj
 
 📞 __Teléfono:<a href="tel: 3106314674"> 3106314674</a> o <a href="tel: 3106305329"> 3106305329</a> Carlos__
  
-__Te dejamos los contactos de estas fincas, con el fin de ayudar a todos estos campesinos que por medio del turismo han encontrado una fuente de ingresos adicional__ 
+Te dejamos los contactos de estas fincas con el fin de ayudarlos, ya que por medio del turismo han encontrado una fuente de ingresos adicional, si crees que nos faltó una finca nos puedes enviarnos la información para publicarla.
 
-Si crees que nos faltó una finca nos puedes enviarnos la información para publicarla.
-
-Solo le hemos pedido a cada de una de estas fincas el buen trato a cada viajero de nuestra página, así que les puedes decir que viste la información en la página de rutas de los andes y quizás te sirvan un poco más de café al llegar 😄.
-
+Solo le hemos pedido a cada de una de estas fincas el buen trato a cada viajeros de nuestra página, así que les puedes decir que viste la información en la página de rutas de los andes y quizás te sirvan un poco más de café al llegar 😄.
 
 Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula :(. 
 
@@ -222,6 +219,7 @@ Nuestra recomendación para hacer cumbre al Nevado del Tolima es que vayas con a
 Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicare:
 
 __Tramo de arena__
+
 Nos levantamos un poco más temprano para hacer el desayuno,  y empezar a ponernos nuestro equipo, arnés, casco y  frontoluz, esperamos un poco para que calmará la lluvia para posteriormente empezar el ascenso.
 
 Primero subimos por arena, cada vez que se ascendía más se empezaba a ver escarcha, al llegar a un sector llamado el Helipuerto aprovechamos para sacar un poco de agua de un pequeño arroyo.
@@ -253,6 +251,7 @@ Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piole
 __Recomendación:__ antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien.
 
 __Tramo de Nieve__
+
 Después de haber pasado este tramo de rocas, seguimos con el tramo de nieve, aquí nos pusimos  los crampones y todos nos sujetamos  a la cuerda para comenzar el ascenso,  este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso. 
 
 {% include image.html, 
