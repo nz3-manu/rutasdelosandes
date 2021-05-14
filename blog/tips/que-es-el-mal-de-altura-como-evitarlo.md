@@ -83,7 +83,7 @@ Si no se toman las medidas adecuadas podría llegar a convertirse en un edema pu
 
 Después de leer varios artículos y analizarlos, todos concuerdan en lo siguiente, __hacer ascenso gradual__, no importa que tan experimentado seas en la montaña, si has estado en lugares con muy baja altitud como la costa y subes en muy corto tiempo a un lugar con mucha altitud sin previa aclimatación tendrás muchas probabilidades de sufrir mal de altura. 
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Recuerda llevar  las prendas adecuadas para ir a la montaña, puedes visitar nuestra tienda en línea  para encontrar algunas opciones clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/"> Recuerda llevar  las prendas adecuadas para ir a la montaña, puedes visitar nuestra tienda en línea  para encontrar algunas opciones clic aquí</a>]__
 
 En la siguiente gráfica te resumimos la recomendaciones que hacen algunos expertos en este tema.
 

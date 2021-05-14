@@ -74,7 +74,7 @@ Al llegar a La Gruta, nos encontraremos con una casa La cual es señal de que ya
 
 Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tributo a los 11 Scouts que murieron. Tenemos que tomar el camino hacia la izquierda a partir de aquí solo son 3 minutos caminando 🚶🏼 para llegar a La Gruta donde nuestra recompensa es este paisaje con estas maravillosas aguas termales.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
 <amp-instagram
     data-shortcode="BjXYe_dBC2p"

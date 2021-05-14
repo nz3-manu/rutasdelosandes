@@ -72,7 +72,7 @@ Al llegar al Zaino tuvimos que comprar la entrada 🎟 para ingresar al Parque T
 
 __Recomendación:__ El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se lleno el Tayrona éste cerrará sus puertas. 
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
 ## Ruta al Parque Tayrona 🚶🏼
 

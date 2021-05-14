@@ -47,11 +47,11 @@ Después de conocer un poco del pueblo, tomamos un mototaxi el cual tiene cupo m
  
 Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco más largo y no lo documentamos).
  
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/ropa.gif",
-caption:"",
-width:"480",
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
 height:"200" %}
 </a>
  
@@ -60,7 +60,7 @@ cerca del altar de sacrificio, allí nos contó algunas historias y misterios de
  
  
  
-## Ruta a Cerro Tusa 🧗‍
+## RUTA A CERRO TUSA 🧗‍
  
 __Recomendaciones:__ _Esta ruta tiene un grado de dificultad 5 en una escala del uno al 5. Así que si no tienes la experiencia haciendo senderismo, no les recomendamos esta ruta, ya que la podrías pasar muy mal y podrías no querer volver_ 😢.
  
@@ -74,7 +74,7 @@ Desde el comienzo del sendero hasta la cima de Cerro Tusa son aproximadamente 2.
   caption:"Ruta Municipio de Venecia hasta Cerro Tusa"
 %}
  
-### EL CAMINO CONSTA DE 3 PARTES:
+### EL CAMINO CONSTA DE 3 PARTES
  
 * La primera parte del camino son potreros, allí tuvimos que pasar por portillos o broches para el ganado🐮 ¡Es muy importante dejar cerrados los broches! En este punto es muy fácil perderse ya que no hay un sendero demarcado. Una vez pasamos por los potreros empezamos un ascenso el cual fue exigente, donde no había mucha vegetación y era muy fácil deslizarse.
  
@@ -97,10 +97,10 @@ Vista desde La cima de Cerro Tusa
 </amp-instagram>
  
  
-## ¿CÓMO REGRESAR DE CERRO TUSA 🚌🏡?
+## ¿CÓMO REGRESAR DE CERRO TUSA?
 Habíamos escuchado que bajar de Cerro Tusa era un poco más complicado que la subida, a nuestro parecer no es tan exigente como la subida (lo que es un alivio 😅), pero sí hay que tener mucho cuidado; evitando bajar muy rápido y, pedir ayuda en algunos tramos de ser necesario.
  
-En cuanto al bus, tener en cuenta que los 🚌buses de Venecia para Medellín salen hasta las 6:30 pm.
+En cuanto al bus, tener en cuenta que los buses de Venecia para Medellín salen hasta las 6:30 pm.
  
 Este es el fin de la ruta a Cerro Tusa, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
  

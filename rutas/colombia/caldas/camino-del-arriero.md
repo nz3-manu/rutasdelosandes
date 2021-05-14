@@ -81,7 +81,7 @@ Al ver este Río tendremos que seguir su cauce río arriba aproximadamente 15 mi
 
 Por fin de una dura caminata nos encontraremos con esta hermosa cascada.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
 <amp-instagram
    data-shortcode="BzLfgC7pTKD"

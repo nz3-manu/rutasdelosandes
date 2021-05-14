@@ -49,11 +49,11 @@ Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea 
 
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/ropa.gif",
-caption:"",
-width:"480",
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
 height:"200" %}
 </a>
 

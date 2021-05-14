@@ -9,7 +9,7 @@ viewranger:
 author: manuel
 trending: true
 ---
-# Laguna Del Otún
+# LAGUNA DEL OTÚN
 
 En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
@@ -19,13 +19,13 @@ Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> Ver ruta a la Laguna Del Otún en ingles 🇬🇧</a>]__
 
-## Dato Curioso de la Laguna Del Otún
+## DATO CURIOSO DE LA LAGUNA DEL OTÚN
 
 La Laguna del otún es un embalse natural que se encuentra en el departamento de Risaralda, en el área perteneciente al Parque Nacional Natural Los Nevados. La Laguna del otún cuenta con una extensión aproximada de 1.5 km² y una profundidad más o menos de 70 metros. Está formada por la acción volcánica y glaciar alimentada principalmente por el deshielo del Nevado de Santa Isabel.
 
  La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y ahora es de vital importancia ya que alimenta el Río Otún, el cual abastece a la ciudad de Pereira.
  
-## ¿Qué encontrarás en Laguna Del Otún?
+## ¿QUÉ ENCONTRARÁS EN LAGUNA DEL OTÚN?
 
 {% include youtube.html,
     videoid:"2Nt7mrwUT80",
@@ -37,7 +37,7 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
-## ¿Cómo llegar a la Laguna del otún?
+## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
 
 Existen varias formas para llegar a la Laguna del Otún; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
@@ -54,11 +54,11 @@ _Los precios varían dependiendo del conductor que contrates, en la información
 
 Estas opciones son recomendables si vas con más de 4 personas.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/ropa.gif",
-caption:"",
-width:"480",
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
 height:"200" %}
 </a>
 
@@ -67,7 +67,7 @@ En invierno la carretera puede estar en muy mal estado, los jeeps en algunos cas
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados se encuentra un hospedaje. 
 
-## Hospedaje cerca a la laguna del Otún
+## HOSPEDAJE CERCA A LA LAGUNA DEL OTÚN
 
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
 
@@ -79,7 +79,7 @@ __Los servicios que prestan en este lugar son los siguientes:__
 * Parqueadero carro 🚙: $11.000 pesos por dia.
 
 
-## El camino la Laguna del otún 
+## EL CAMINO LA LAGUNA DEL OTÚN 
 
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
@@ -141,7 +141,7 @@ Después de disfrutar por un largo rato de  la tranquilidad de esta hermosa lagu
 
 Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y regresar de nuevo a casa.
 
-## ¿Cómo regresar de la Laguna del otún?
+## ¿CÓMO REGRESAR DE LA LAGUNA DEL OTÚN?
 
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 

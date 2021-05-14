@@ -74,7 +74,7 @@ restaurante Cumanday el cual ofrecen los siguientes servicios:
  width:"1080",
  height:"608"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @deagfotografia </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @andresloaiza_ph </a> </span>__
  
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
@@ -83,7 +83,7 @@ Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más 
  
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ
  
-### Hospedaje el Arbolito
+### HOSPEDAJE EL ARBOLITO
  
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios:
 
@@ -114,11 +114,11 @@ __Importante:__ el Nevado del Ruiz se encuentra en alerta amarilla, por lo que s
 
 _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/ropa.gif",
-caption:"",
-width:"480",
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
 height:"200" %}
 </a>
 

@@ -33,7 +33,7 @@ __Formas de llegar:__
 
 * _Desde pereira:_ Tomar un bus hasta Alcalá valor: $5.500 Pesos, una vez allí se toma otro con dirección a Cartago valor $2.000 Pesos, se deben bajar en la vereda  El Higuerón ubicada aproximadamente a 3 kilómetros de Alcalá. Descargar ruta o ver el mapa para más información.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
 ## El camino 🚶🏼
 

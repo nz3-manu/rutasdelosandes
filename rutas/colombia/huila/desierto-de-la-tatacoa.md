@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  Cómo llegar al desierto de la Tatacoa
+title:  ¿Cómo llegar al desierto de la Tatacoa?
 categories: colombia
 seo_title: Guía completa para ir al Desierto de la Tatacoa.
 excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.
@@ -10,7 +10,7 @@ author: manuel
 trending: true
 ---
  
-# Cómo llegar al desierto de la Tatacoa
+# DESIERTO DE LA TATACOA
  
 En este post encontrarás toda la información que necesitas saber para viajar al desierto de la Tatacoa.
  
@@ -21,10 +21,12 @@ El precio para ir con agencia de viajes es de aproximadamente $ 450.000 pesos po
  
 Empecemos con la aventura ⛰.
  
-## Dato curioso del desierto de la Tatacoa
+## DATO CURIOSO DEL DESIERTO DE LA TATACOA
+
 El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
  
-## Cosas que no te puedes perder en el Desierto de la Tatacoa
+## COSAS QUE NO TE PUEDES PERDER EN EL DESIERTO DE LA TATACOA
+
 * Piscina en medio del desierto de la Tatacoa.
 * Observatorio Astronómico.
 * Caminata en el desierto de la Tatacoa.
@@ -41,7 +43,8 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/FwBVipBLQgS21DmEA">__Clic aquí para llenar formulario.__</a>
  
  
-## ¿Cómo llegar al Desierto de la Tatacoa 🚌?
+## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA ?
+
 Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
  
 Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
@@ -68,7 +71,7 @@ Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesite
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/ropa.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -78,7 +81,7 @@ Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  �
  
 
  
-## Ruta al Desierto de la Tatacoa 🚶🏼
+## RUTA AL DESIERTO DE LA TATACOA 
  
 Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los hospedajes disponibles.
  
@@ -104,7 +107,7 @@ El valor de la entrada es aproximadamente $5.000 pesos.
  
 Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, te mostraremos algunas de la posibles opciones que encontramos:
  
-## Hospedaje en el Desierto de la Tatacoa:
+## HOSPEDAJES EN EL DESIERTO DE LA TATACOA
  
 ### Hostal la tranquilidad
  
@@ -149,6 +152,7 @@ Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronóm
    width:"1200",
    caption:"Observatorio"
 %}
+
 ### DIA #2
 Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $7.000 pesos. También alquilan caballos 🐴, valor 1 hora por $15.000 pesos.
  
@@ -167,7 +171,7 @@ Este es el final de esta aventura cabe aclarar que los precios mencionados anter
  
 Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
  
-## ¿Cómo regresar del Desierto de la Tatacoa 🚌🏡?
+## ¿CÓMO REGRESAR DEL DESIERTO DE LA TATACOA ?
 Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
  
 Este es el fin de la ruta al desierto de la Tatacoa, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

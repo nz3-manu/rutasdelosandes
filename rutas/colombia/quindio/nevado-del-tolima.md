@@ -109,7 +109,7 @@ Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir s
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/ropa.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -190,7 +190,7 @@ Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente �
 
 Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]__
 
 ### DÍA #2
 

@@ -84,7 +84,7 @@ De la Casa De los Colibríes hasta Estrella de Agua  son aproximadamente 4.5 kil
 Para acortar camino podemos tomar el camino que se encuentra a un costado izquierdo de la casa de los colibríes, pasando por un portillo de madera.   Para más información ver la ruta en el mapa.
 Al llegar a Estrella de Agua nos encontraremos a 3100 msnm.
 
-__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>.]__
+__[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
 {% include image.html,
  file:"rutas/quindio/estrellaAgua/estrellaAgua.jpg",

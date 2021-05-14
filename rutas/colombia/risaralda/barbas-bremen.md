@@ -9,17 +9,17 @@ viewranger: MTYzNjQxOQ==
 author: manuel
 ---
 
-# Reserva Barbas Bremen
+# RESERVA BARBAS BREMEN
 
 La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). Entre los atractivos de la reserva estan la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
 
-## Dato Curioso de la reserva Barbas Bremen
+## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
 
 El nombre del “río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama río Barbas.”
 
 
-## ¿Qué encontrarás en la Reserva Barbas Bremen 🏞👀?
+## ¿QUÉ ENCONTRARÁS EN LA RESERVA BARBAS BREMEN?
 
 {% include youtube.html,
     videoid:"1anGUPtjsMs",
@@ -28,7 +28,7 @@ El nombre del “río Barbas” tiene una historia muy particular que cuentan lo
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar a la Reserva Barbas Bremen 🛣🚌?
+## ¿CÓMO LLEGAR A LA RESERVA BARBAS BREMEN ?
 
 Lo primero que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en un en la zona rosa de Pereira ver hostal __<a href="http://www.booking.com/hotel/co/kolibri-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="http://www.booking.com/searchresults.html?city=-594819&nflt=review_score%253D90%253Breview_score%253D80%253Bht_id%253D201&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
 
@@ -38,11 +38,11 @@ __Recomendación:__ Realizar reservación con previa anticipación, nosotros las
 
 Al día siguiente tomamos un bus 🚌 con destino hacia Yarumal este pasa al frente del centro comercial victoria (carrera 12), el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. El valor del pasaje es aproximadamente $2.300 pesos. Una vez lleguemos a Yarumal podremos ver la entrada a el Sendero Yarumal lugar donde empieza la caminata.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/ropa.gif",
-caption:"",
-width:"480",
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
 height:"200" %}
 </a>
 
@@ -87,7 +87,7 @@ Una vez vista esta cascada regresamos a la carretera y en unos aproximadamente  
 __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así que no se recomienda bañar en ese lugar y mucho menos tomar de estas aguas.
 
 
-## ¿Cómo regresar de la Reserva Barbas Bremen 🚌🏡?
+## ¿CÓMO REGRESAR DE LA RESERVA BARBAS BREMEN?
 
  Los horarios de salida desde la vereda Alegrias son: jeep a las 6:00pm (estar un poco antes) o  bus a las 7:30pm y a las 8 pm. Valor del pasaje es aproximadamente $2.000 pesos.
 
@@ -96,7 +96,7 @@ Este es el fin de la ruta a Barbas Bremen, __no te olvides de seguirnos en nuest
 ℹ️ __Descargar Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 
-## Presupuesto a Barbas Bremen por persona 🤔💰
+## Presupuesto a Barbas Bremen por persona 💰
   <amp-accordion animate>
     <section>
       <h4> 🚌 Transporte Total $5.000</h4>
