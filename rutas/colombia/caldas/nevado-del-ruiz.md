@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  Guía completa al Nevado del Ruiz
+title:  Nevado del Ruiz
 categories: colombia
 seo_title: ▷ Nevado del Ruiz-Guía Completa|Rutas
 excerpt: Guía completa para visitar el Nevado del Ruiz, Este nevado es uno de los más importantes de Colombia y se encuentra muy cerca a Manizales y hace parte del parque Nacional Natural los Nevados.
@@ -23,7 +23,7 @@ __En este post encontrarás la siguiente información:__
 El precio para ir con agencia de viajes es de aproximadamente $ 250.000 pesos por persona, saliendo desde Pereira o $ 210.000 pesos por persona desde Manizales,__<a target="_blank" href="https://forms.gle/29m9hYPCEDXwAEEE8"> más información aquí</a>__.
  
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See post to Nevado del Ruiz in English 🇬🇧</a>]__
  
  
  
@@ -74,7 +74,7 @@ restaurante Cumanday el cual ofrecen los siguientes servicios:
  width:"1080",
  height:"608"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @andresloaiza_ph </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @deagfotografia</a> </span>__
  
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
@@ -172,35 +172,13 @@ En este sector observamos uno de los inmensos cráteres por donde bajo la avalan
  
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+
+<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
  
 💾 <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz"> __Descargar información adicional de la ruta al Nevado del Ruiz__</a>
  
-## Presupuesto al Nevado del Ruiz por persona 💰
- <amp-accordion animate>
-   <section>
-     <h4> 🚌 Transporte Manizales-Nevado-Manizales</h4>
-     <p>
-        Dependerá de la empresa que consultes.
-     </p>
-   </section>
-   <section>
-     <h4>🎟 Entrada Parque Los Nevados 2020 </h4>
-     <p>Mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.  Seguro médico y de rescate ⛑: $3.500 pesos.</p>
-   </section>
-   <section>
-     <h4> 🧔Guía $13.000 pesos</h4>
-     <p> Es obligatorio, este valor puede cambiar dependiendo de la temporada</p>
-   </section>
-   <section>
-     <h4>🍲 Alimentación: $14.000 pesos</h4>
-     <p> Los precios cambian dependiendo del lugar. </p>
-   </section>
-    <section>
-     <h4> 🚌💨🏃‍ Imprevistos</h4>
-     <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
-   </section>
- </amp-accordion>
-<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
+
+
  
  
  

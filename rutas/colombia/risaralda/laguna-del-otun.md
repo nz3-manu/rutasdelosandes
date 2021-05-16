@@ -17,7 +17,7 @@ El precio para hacer la ruta en 1 día con agencia es de aproximadamente $300.00
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> Ver ruta a la Laguna Del Otún en ingles 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See post to Laguna Del Otún  in English 🇬🇧</a>]__
 
 ## DATO CURIOSO DE LA LAGUNA DEL OTÚN
 

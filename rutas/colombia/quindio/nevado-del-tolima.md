@@ -319,3 +319,7 @@ La otra opción que puedes contemplar para regresar sería por  Palomar en Anzo�
 Tambien podrás salir por Juntas en Tolima aunque es mucho más lejos.
 
 __Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones.
+
+Este es el fin de la ruta a Bahía Málaga, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+
+<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>

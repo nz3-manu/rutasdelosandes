@@ -15,7 +15,7 @@ Bahía Málaga es sin duda un lugar mágico que te va a encantar, en este post t
 
 Una vez dicho esto ¡empecemos con la aventura  ⛰!
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> Ver ruta a Bahía Málaga en ingles 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> See post to Bahía Málaga in English 🇬🇧</a>]__
 
 ## DATOS CURIOSOS DE BAHÍA MÁLAGA
 
@@ -198,4 +198,6 @@ Debes tener en cuenta que los horarios de buses del terminal de buenaventura par
 
 Este es el fin de la ruta a Bahía Málaga, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
+
+<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 

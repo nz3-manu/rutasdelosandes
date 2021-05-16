@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  ¿Cómo llegar al desierto de la Tatacoa?
+title:  Desierto de la Tatacoa
 categories: colombia
 seo_title: Guía completa para ir al Desierto de la Tatacoa.
 excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.

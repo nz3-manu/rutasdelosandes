@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  Rutas de sendrismo ocultas en el Eje Cafetero.
 categories: colombia 
