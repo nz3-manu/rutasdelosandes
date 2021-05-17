@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 5 Razones Para No Salir Con Una Chica Que Viaje
+title: Nunca salgas con una viajera
 categories: blog
 seo_title: Nunca salgas con una viajera
 excerpt: Te explicaremos porqué no salir con una chica que viaja, si en algún momento te cruzas con una de estas chicas no le hables sal inmediatamente antes de que te logre ver o de lo contrario tu vida cambiara.
@@ -22,11 +22,18 @@ Es esa que va siempre sonriente, pareciera que no conociera el significado de un
 ### 1º No es fácil tenerla contenta
  
 las típicas noches de cena y película en un centro comercial la ponen incómoda. Lo que busca su alma son nuevas experiencias y aventuras. No le impresionará tu coche nuevo ni tu reloj caro, preferiría estar acampando cerca de una hermosa cascada o subiendo una nueva montaña antes que escuchar cómo presumes de tus nuevas adquisiciones.
+
+{% include image.html,
+file:"/blog/senderismo/nomujerviajera/kathe-2.jpg",
+width:"947",
+height:"670"
+%}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @maririvra </a> </span>__
  
  
-### 2º Puede llegar a ser muy intensa
+### 2º Es persistente
  
-No te dejará tranquilo hasta que no la acompañes a esa nueva cascada, nevado o páramo que vio y te lo recordará cada vez que sea posible incluso te armará itinerario para que no se escape nada de ese viaje. No tendrá problema en dormir en carpa o comer al lado de un río, porque sabe que para disfrutar de un viaje no siempre es durmiendo en hoteles con todas la comididades.
+No te dejará tranquilo hasta que no la acompañes a esa nueva cascada, nevado o páramo que vio y te lo recordará cada vez que sea posible incluso te armará itinerario para que no se escape nada de ese viaje. No tendrá problema en dormir en carpa o comer al lado de un río, porque sabe que para disfrutar de un viaje no siempre es durmiendo en hoteles con todas las comodidades.
  
  
 {% include image.html,
@@ -43,23 +50,31 @@ No le gusta la monotonía y hará todo lo posible para disfrutar de la vida al m
  
 No lleva reloj, sus días los marca el sol y la luna. Cuando escucha el llamado de la montaña, la vida se detiene y ella deja todo lo demás para otro momento, pero sabe que lo más importante en la vida es seguir avanzando y disfrutar del camino.
  
- {% include image.html,
-file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-6.jpg",
-width:"800",
-height:"710"
+{% include image.html,
+file:"/blog/senderismo/nomujerviajera/kathe.jpg",
+width:"947",
+height:"670"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @catalina_la_oo </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @maririvra </a> </span>__
 
  
 ### 4º No le interesará ser el centro de atención.
  
 Nunca intentará impresionar a tus amigos ni a tus padres, porque sabe realmente quién es y no quiere fingir ser otra persona. Sabe lo que es el respeto, pero no tendrá miedo a lanzar un debate sobre cuestiones globales o responsabilidad social.
+
+
+{% include image.html,
+file:"/blog/senderismo/nomujerviajera/pao-1.jpg",
+width:"947",
+height:"670"
+%}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @piri487 </a> </span>__
  
 ### 5º Es recursiva 
  
 Sabe cómo armar una tienda de camping, cómo poner un tornillo sin ayuda, cocina bien y vive el presente con ajetreo. Es activa, que no te quepa duda de que no te aburrirás con ella porque siempre tiene algo en mente para hacer. La palabra “rutina” no entra en su vocabulario!
 
- {% include image.html,
+{% include image.html,
 file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-4.jpg",
 width:"798",
 height:"709"

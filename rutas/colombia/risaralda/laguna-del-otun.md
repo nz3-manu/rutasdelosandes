@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  Laguna Del Otún
+title:  Laguna del Otún
 categories: colombia 
 seo_title: Laguna del Otún - Como llegar|Rutas
 excerpt: Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde las tarifas para la entrada al parque, transporte y hospedaje.

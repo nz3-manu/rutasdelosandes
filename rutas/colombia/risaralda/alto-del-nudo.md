@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  Alto Del Nudo 
+title:  Alto del Nudo 
 categories: colombia 
 seo_title: Alto Del Nudo-SerraníA Alto Del Nudo | Rutas
 excerpt: Guía completa para visitar el Alto del Nudo o Cerro del Nudo, este hermoso lugar esta ubicado muy cerca de Pereira y Dosquebradas, aquí encontraras todo lo que tienes que saber para conocer esta maravilla natural.
