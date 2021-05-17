@@ -25,7 +25,7 @@ class AMPDocument extends React.Component {
 
     this.state = {
       offline: false,
-      loading: false,
+      loading: true,
     };
 
     /**
@@ -72,7 +72,6 @@ class AMPDocument extends React.Component {
   }
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
-    debugger;
     setTimeout(() => {
       if (window.__ROUTE_DATA__[0]) {
         console.log("loading from __ROUTE_DATA__");

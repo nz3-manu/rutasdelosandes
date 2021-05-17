@@ -56,6 +56,7 @@ app.use(Sentry.Handlers.requestHandler());
 
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
+const notFoundPage = require("../_site/404.html");
 
 //import { read, write, push, sendToDevice, update, remove } from "./utils/db";
 
@@ -454,43 +455,48 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
 
   const preloadedState = store.getState();
 
-  return await Promise.all(promises).then((data) => {
-    // Let's add the data to the context
-    const context = { data };
-    // do something w/ the data so the client
-    // can access it then render the app
-    // if we got props then we matched a route and can render
-    const content = ReactDOMServer.renderToString(
-      <StaticRouter location={req.url} context={context}>
-        <JssProvider
-          registry={sheetsRegistry}
-          generateClassName={generateClassName}
-        >
-          <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
-            <Provider store={store}>
-              <App />
-            </Provider>
-          </MuiThemeProvider>
-        </JssProvider>
-      </StaticRouter>
-    );
-    // Grab the CSS from our sheetsRegistry.
-    const css = sheetsRegistry.toString();
-    const fullPage = renderFullPage(
-      content,
-      preloadedState,
-      data,
-      "",
-      css,
-      ampEquivalent,
-      req.url.split("?").shift()
-    );
-    if (typeof fullPage != "number") {
+  return await Promise.all(promises)
+    .then((data) => {
+      console.log(`data from the current request`, data);
+      // Let's add the data to the context
+      const context = { data };
+      // do something w/ the data so the client
+      // can access it then render the app
+      // if we got props then we matched a route and can render
+      const content = ReactDOMServer.renderToString(
+        <StaticRouter location={req.url} context={context}>
+          <JssProvider
+            registry={sheetsRegistry}
+            generateClassName={generateClassName}
+          >
+            <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
+              <Provider store={store}>
+                <App />
+              </Provider>
+            </MuiThemeProvider>
+          </JssProvider>
+        </StaticRouter>
+      );
+      // Grab the CSS from our sheetsRegistry.
+      const css = sheetsRegistry.toString();
+      const fullPage = renderFullPage(
+        content,
+        preloadedState,
+        data,
+        "",
+        css,
+        ampEquivalent,
+        req.url.split("?").shift()
+      );
+
+      if (context.status === 404) {
+        res.status(404).sendFile(notFoundPage);
+      }
       res.send(fullPage);
-    } else {
-      res.status(fullPage).sendFile(__dirname + "/_site/405.html");
-    }
-  });
+    })
+    .catch(() => {
+      res.status(404).send(notFoundPage);
+    });
 }
 
 function renderFullPage(
