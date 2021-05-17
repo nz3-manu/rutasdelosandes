@@ -62,7 +62,7 @@ height:"200" %}
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
 
-Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
+Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia, solo les hemos pedido el buen trato a los viajeros que lleguen de nuestra pagina, si llegarás a tener algún inconveniente en este lugar nos lo puedes hacer saber  a través nuestras redes sociales.
 
 #### Los servicios que prestan en la Loma de Chucheros son los siguientes:
 * __Habitaciones 🛏:__ $40.000 pesos por personas.
@@ -167,11 +167,12 @@ Otra opción es hacer estos recorridos en un mismo día desde el muelle turísti
 __Cascada la Sierpe en Bahía Málaga:__ es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
 
 {% include image.html,
-  file:"rutas/valle/bahia-malaga/la-sierpe.JPG",
+  file:"rutas/valle/bahia-malaga/sierpe.jpeg",
   caption:"Foto cascada la Sierpe",
-  width:"759",
-  height:"792"
+  width:"1080",
+  height:"1350"
 %}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @kevindavides </a> </span>__
 
 __Cascadas las 3 marías en Bahía Málaga:__  son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía. 
 
