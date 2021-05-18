@@ -122,7 +122,6 @@ app.post("/api/save-subscription/", function (req, res) {
 router.get("/getproducts", function (_req, res) {
   return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
     if (result.errors) {
-      console.log(`result coming from shopify promese`, result);
       res.json(result);
     } else {
       let products = result.data.shop.products.edges.map(
@@ -322,7 +321,7 @@ app.post("/removecart", async (req, res) => {
     res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
     res.json({ number: lineItems.length, items: lineItems });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 });
 
@@ -380,7 +379,7 @@ app.post("/addcart", upload.fields([]), async (req, res) => {
     res.set("AMP-Access-Control-Allow-Source-Origin", source);
     res.json({ status: "ok" });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 });
 
@@ -425,7 +424,6 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
     // use `matchPath` here
     const match = matchPath(req.path, route);
     if (match) {
-      console.log(`matching route in BE`, match);
       if (route.loadData) {
         promises.push(route.loadData(match));
       } else {
@@ -446,6 +444,7 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
       type: "light",
     },
   });
+
   const generateClassName = createGenerateClassName();
   // end of material ui server stylesheet
   let store = createStore(
@@ -457,7 +456,6 @@ async function mathRouter(req, res, state = {}, ampEquivalent) {
 
   return await Promise.all(promises)
     .then((data) => {
-      console.log(`data from the current request`, data);
       // Let's add the data to the context
       const context = { data };
       // do something w/ the data so the client
