@@ -82,7 +82,9 @@ Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más 
 <p id="hospedajesnevadoruiz"></p>
  
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ
- 
+
+En el recorrido que hicimos solo nos encontramos con un hospedaje, si sabes de otro disponible nos puedes escribir a nuestras redes sociales para actualizar la información.
+
 ### HOSPEDAJE EL ARBOLITO
  
 En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios:
