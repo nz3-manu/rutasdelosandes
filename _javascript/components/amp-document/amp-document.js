@@ -73,7 +73,11 @@ class AMPDocument extends React.Component {
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
     setTimeout(() => {
-      if (window.__ROUTE_DATA__[0]) {
+      if (
+        window.__ROUTE_DATA__ &&
+        window.__ROUTE_DATA__.length &&
+        window.__ROUTE_DATA__[0]
+      ) {
         console.log("loading from __ROUTE_DATA__");
         this.attachAmpDoc_(
           new DOMParser().parseFromString(window.__ROUTE_DATA__[0], "text/html")
@@ -89,7 +93,7 @@ class AMPDocument extends React.Component {
             console.log(`data after calling loadDocument`, data);
             return this.attachAmpDoc_(data);
           })
-          .catch((e) => {
+          .catch(() => {
             this.setState({ offline: true });
           })
           .finally(() => {
