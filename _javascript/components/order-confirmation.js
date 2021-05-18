@@ -1,101 +1,102 @@
-import React from 'react';
-import {connect} from 'react-redux';
-import {withStyles} from '@material-ui/core/styles';
-import Paper from '@material-ui/core/Paper';
-import classNames from 'classnames';
-import Button from '@material-ui/core/Button';
-import SaveIcon from '@material-ui/icons/Save';
-import {Link} from 'react-router';
+import React from "react";
+import { connect } from "react-redux";
+import { withStyles } from "@material-ui/core/styles";
+import Paper from "@material-ui/core/Paper";
+import classNames from "classnames";
+import Button from "@material-ui/core/Button";
+import SaveIcon from "@material-ui/icons/Save";
+import { Link } from "react-router-dom";
 
 const styles = {
   container: {
     flexGrow: 1,
   },
   order: {
-    margin: '10px 8px',
-    fontSize: '14px',
-    padding: '3px',
-    backgroundColor: '#8a8a8a4d',
-    color: '#000000',
-    fontWeight: '400',
+    margin: "10px 8px",
+    fontSize: "14px",
+    padding: "3px",
+    backgroundColor: "#8a8a8a4d",
+    color: "#000000",
+    fontWeight: "400",
   },
   wrapPage__gracias: {
-    margin: 'auto',
-    maxWidth: '500px',
-    padding: '5px',
-    fontSize: '15px',
+    margin: "auto",
+    maxWidth: "500px",
+    padding: "5px",
+    fontSize: "15px",
   },
   gracias_tittle: {
-    color: '#000000',
-    textAlign: 'center',
-    fontFamily: 'Helvetica',
-    fontSize: '28px',
-    fontWeight: '500',
+    color: "#000000",
+    textAlign: "center",
+    fontFamily: "Helvetica",
+    fontSize: "28px",
+    fontWeight: "500",
   },
   shippingData: {
-    color: '#0c0c0c',
-    backgroundColor: '#ffffff;',
-    borderColor: '#ffffff',
-    padding: '7px 9px',
-    border: '2px solid transparent',
-    borderRadius: '4px',
-    fontSize: '17px',
-    fontFamily: 'Helvetica',
-    fontWeight: '300',
-    fontSize: '12px',
-    lineHeight: 'normal',
-    textAlign: 'center',
+    color: "#0c0c0c",
+    backgroundColor: "#ffffff;",
+    borderColor: "#ffffff",
+    padding: "7px 9px",
+    border: "2px solid transparent",
+    borderRadius: "4px",
+    fontSize: "17px",
+    fontFamily: "Helvetica",
+    fontWeight: "300",
+    fontSize: "12px",
+    lineHeight: "normal",
+    textAlign: "center",
   },
   shippingData__tittle: {
-    textAlign: 'center',
-    fontWeight: '600',
-    fontSize: '17px',
-    padding: '0px',
-    margin: '0',
+    textAlign: "center",
+    fontWeight: "600",
+    fontSize: "17px",
+    padding: "0px",
+    margin: "0",
   },
   shippingData__text: {
-    fontSize: '15px',
-    textTransform: 'capitalize',
+    fontSize: "15px",
+    textTransform: "capitalize",
   },
   shippingData__text_bold: {
-    fontWeight: '600',
-    padding: '0px',
-    display: 'contents',
+    fontWeight: "600",
+    padding: "0px",
+    display: "contents",
   },
   imgCustomized: {
-    width: '100%',
-    height: 'auto',
-    padding: '6px',
-    textAlign: 'center',
-    padding: '5px',
-    borderTop: '1px dashed black',
+    width: "100%",
+    height: "auto",
+    padding: "6px",
+    textAlign: "center",
+    padding: "5px",
+    borderTop: "1px dashed black",
   },
   imgCustomized__tittle: {
-    textAlign: 'initial',
-    fontFamily: 'monospace',
-    textAlign: 'center',
-    fontWeight: '500',
-    color: 'black',
-    fontSize: '14px',
+    textAlign: "initial",
+    fontFamily: "monospace",
+    textAlign: "center",
+    fontWeight: "500",
+    color: "black",
+    fontSize: "14px",
   },
   imgCustomized__wrapButton: {
-    display: 'block',
-    marginBottom: '10px',
-    textAlign: 'center',
+    display: "block",
+    marginBottom: "10px",
+    textAlign: "center",
   },
   linkForm: {
-    textAlign: 'center',
+    textAlign: "center",
   },
 };
 
 let Whatsapp = () => (
   <div
     style={{
-      display: 'inline',
-      fontWeight: '500',
-      color: 'black',
-      fontWeight: 'bold',
-    }}>
+      display: "inline",
+      fontWeight: "500",
+      color: "black",
+      fontWeight: "bold",
+    }}
+  >
     <a href="https://api.whatsapp.com/send?phone=573113403572&text=Hola%20Ruteros%20acabo%20de%20comprar%20un%20producto">
       whatsapp
     </a>
@@ -105,27 +106,27 @@ let Whatsapp = () => (
 class Confirmation extends React.Component {
   constructor(props) {
     super(props);
-    if (typeof window != 'undefined' && window.document) {
-      if (this.props.location.query.polTransactionState == '4') {
+    if (typeof window != "undefined" && window.document) {
+      if (this.props.location.query.polTransactionState == "4") {
         console.log(this.props.order);
-        fbq('track', 'Purchase', {
+        fbq("track", "Purchase", {
           value: this.props.order.meta.display_price.with_tax.amount,
-          currency: 'COP',
+          currency: "COP",
         });
       } else {
-        fbq('track', 'Lead', {
+        fbq("track", "Lead", {
           value: this.props.order.meta.display_price.with_tax.amount,
-          currency: 'COP',
+          currency: "COP",
         });
       }
     }
   }
   countGap(nameCustomer) {
-    let nombreCompleto = '';
-    if (nameCustomer.split(' ').length > 2) {
-      let primerNombre = nameCustomer.split(' ')[0];
-      let segundoNombre = nameCustomer.split(' ')[1];
-      nombreCompleto = String(primerNombre) + ' ' + String(segundoNombre);
+    let nombreCompleto = "";
+    if (nameCustomer.split(" ").length > 2) {
+      let primerNombre = nameCustomer.split(" ")[0];
+      let segundoNombre = nameCustomer.split(" ")[1];
+      nombreCompleto = String(primerNombre) + " " + String(segundoNombre);
     } else {
       nombreCompleto = nameCustomer;
     }
@@ -135,22 +136,25 @@ class Confirmation extends React.Component {
   }
   /*Capitalized text*/
   capitalize_Words(str) {
-    return str.replace(/\w\S*/g, function(txt) {
+    return str.replace(/\w\S*/g, function (txt) {
       return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
     });
   }
 
   render() {
-    let {shipping_address, id, meta, customer} = this.props.order;
-    let {lapPaymentMethodType, polTransactionState} = this.props.location.query;
-    let {classes} = this.props;
-    if (polTransactionState == '4') {
+    let { shipping_address, id, meta, customer } = this.props.order;
+    let {
+      lapPaymentMethodType,
+      polTransactionState,
+    } = this.props.location.query;
+    let { classes } = this.props;
+    if (polTransactionState == "4") {
       return (
         <div className={classes.wrapPage__gracias}>
           <h1 className={classes.gracias_tittle}>
-            {' '}
-            ¡Gracias Por Tu Compra <br></br>{' '}
-            {this.capitalize_Words(shipping_address.first_name)}!{' '}
+            {" "}
+            ¡Gracias Por Tu Compra <br></br>{" "}
+            {this.capitalize_Words(shipping_address.first_name)}!{" "}
           </h1>
 
           <div className={classes.shippingData}>
@@ -159,11 +163,11 @@ class Confirmation extends React.Component {
                             <p className={classes.shippingData__text}> <span className={classes.shippingData__text_bold}> Numero de contacto: </span> {shipping_address.phone_number}  </p> 
                              <br></br> */}
             <Paper className={classes.order} elevation={4}>
-              Hemos envíado el recibo de compra al correo:{' '}
+              Hemos envíado el recibo de compra al correo:{" "}
               <span className={classes.shippingData__text_bold}>
-                {' '}
-                {customer.email}{' '}
-              </span>{' '}
+                {" "}
+                {customer.email}{" "}
+              </span>{" "}
               <br></br>
               Si tienes alguna pregunta puedes escribenos a nuestro <Whatsapp />
             </Paper>
@@ -172,7 +176,7 @@ class Confirmation extends React.Component {
             {/* <p className={classes.imgCustomized__tittle}> Recuerda siempre cuidar de la naturaleza ⛰ y disfrutar de la tranquilidad que esta nos brinda 🍃. Etiquetanos en las redes sociales usando #rutasdelosandes  </p> */}
             <img
               src={`/image/${this.countGap(
-                shipping_address.first_name,
+                shipping_address.first_name
               )}/thanks.jpg`}
             />
           </div>
@@ -182,30 +186,32 @@ class Confirmation extends React.Component {
                 className={classNames(classes.leftIcon, classes.iconSmall)}
               />
               <a
-                download={'rutero.jpg'}
+                download={"rutero.jpg"}
                 href={`/image/${this.countGap(
-                  shipping_address.first_name,
+                  shipping_address.first_name
                 )}/thanks.jpg`}
-                target="_blank">
-                {' '}
-                Descargar Imagen{' '}
+                target="_blank"
+              >
+                {" "}
+                Descargar Imagen{" "}
               </a>
             </Button>
           </div>
           <p className={classes.linkForm}>
-            {' '}
-            Etiquetanos en las redes sociales usando{' '}
+            {" "}
+            Etiquetanos en las redes sociales usando{" "}
             <span className={classes.shippingData__text_bold}>
-              {' '}
-              #rutasdelosandes{' '}
-            </span>{' '}
+              {" "}
+              #rutasdelosandes{" "}
+            </span>{" "}
             y participa en el concurso para acompañarnos en una de nuestras
-            próximas rutas. Ver terminos y condiciones{' '}
+            próximas rutas. Ver terminos y condiciones{" "}
             <span className={classes.shippingData__text_bold}>
-              {' '}
+              {" "}
               <a
                 target="_blank"
-                href="https://rutasdelosandes.com/politicas-video.html">
+                href="https://rutasdelosandes.com/politicas-video.html"
+              >
                 aquí
               </a>
             </span>
@@ -214,26 +220,26 @@ class Confirmation extends React.Component {
           {/*<p className={classes.linkForm}>¿Quieres acompañarnos en una de nuestras rutas y ser parte del vídeo 🎥⛰? click <a href="https://rutasdelosandes.com/politicas-video.html" target='_blank' style={{ fontWeight:"bold"}}> aquí</a></p>*/}
         </div>
       );
-    } else if (polTransactionState == '6') {
+    } else if (polTransactionState == "6") {
       return (
         <div className={classes.wrapPage__gracias}>
           <h1 className={classes.gracias_tittle}>
-            {' '}
+            {" "}
             Los sentimos {shipping_address.first_name}
-          </h1>{' '}
+          </h1>{" "}
           <br></br>
           <h2>
             Tu transacción fue declinada, si tienes alguna pregunta puedes
-            escribirnos a nuestro <Whatsapp /> y con gusto te atenderemos.{' '}
+            escribirnos a nuestro <Whatsapp /> y con gusto te atenderemos.{" "}
           </h2>
         </div>
       );
-    } else if (polTransactionState == '104') {
+    } else if (polTransactionState == "104") {
       return (
         <div className={classes.wrapPage__gracias}>
           <h1 className={classes.gracias_tittle}>
-            {' '}
-            Los sentimos {shipping_address.first_name}, hubo un error{' '}
+            {" "}
+            Los sentimos {shipping_address.first_name}, hubo un error{" "}
           </h1>
           <h2>
             ¿Tienes alguna pregunta? escribenos a nuestro <Whatsapp /> y con
@@ -245,9 +251,9 @@ class Confirmation extends React.Component {
       return (
         <div className={classes.wrapPage__gracias}>
           <h1 className={classes.gracias_tittle}>
-            {' '}
+            {" "}
             Los sentimos {shipping_address.first_name}, <br></br> no sabemos que
-            salió mal 😟{' '}
+            salió mal 😟{" "}
           </h1>
           <h2>
             Contactanos para mayor información <Whatsapp /> .
@@ -258,7 +264,7 @@ class Confirmation extends React.Component {
   }
 }
 
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   order: state.order,
 });
 

@@ -1,6 +1,8 @@
 import React from "react";
+import "isomorphic-fetch";
 import { withRouter } from "react-router";
 import PushBanner from "../push-banner";
+import { loadAmpDocument } from "../../helpers/loadData";
 
 //import {askPermission, subscribeUserToPush,registerTokenOnServer} from '../../messaging'
 
@@ -10,9 +12,20 @@ import PushBanner from "../push-banner";
 class AMPDocument extends React.Component {
   constructor(props) {
     super(props);
+    //TODO: we can SSR AMP Docs from server from now, but i will look into it
+    //if (props.staticContext && props.staticContext.data) {
+    //this.state = {
+    //data: props.staticContext.data,
+    //};
+    //} else {
+    //this.state = {
+    //data: [],
+    //};
+    //}
+
     this.state = {
       offline: false,
-      loading: false
+      loading: true,
     };
 
     /**
@@ -20,8 +33,8 @@ class AMPDocument extends React.Component {
      * @const
      * @private
      */
-    this.ampReadyPromise_ = new Promise(resolve => {
-      if (typeof window !== 'undefined') {
+    this.ampReadyPromise_ = new Promise((resolve) => {
+      if (typeof window !== "undefined") {
         (window.AMP = window.AMP || []).push(resolve);
       }
     });
@@ -59,8 +72,35 @@ class AMPDocument extends React.Component {
   }
   componentDidMount() {
     this.container_.addEventListener("click", this.boundClickListener_);
-
-    this.fetchAndAttachAmpDoc_(this.props.src);
+    setTimeout(() => {
+      if (
+        window.__ROUTE_DATA__ &&
+        window.__ROUTE_DATA__.length &&
+        window.__ROUTE_DATA__[0]
+      ) {
+        console.log("loading from __ROUTE_DATA__");
+        this.attachAmpDoc_(
+          new DOMParser().parseFromString(window.__ROUTE_DATA__[0], "text/html")
+        ).then(() => {
+          this.setState({ loading: false });
+        });
+        delete window.__ROUTE_DATA__;
+      } else {
+        this.setState({ loading: true });
+        loadAmpDocument(this.props.src)
+          .then((text) => new DOMParser().parseFromString(text, "text/html"))
+          .then((data) => {
+            console.log(`data after calling loadDocument`, data);
+            return this.attachAmpDoc_(data);
+          })
+          .catch(() => {
+            this.setState({ offline: true });
+          })
+          .finally(() => {
+            this.setState({ loading: false });
+          });
+      }
+    }, 0);
   }
 
   componentWillUnmount() {
@@ -77,7 +117,7 @@ class AMPDocument extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     this.AmpDocClosed = false;
-    this.fetchAndAttachAmpDoc_(nextProps.src);
+    this.attachAmpDoc_(nextProps.src);
   }
 
   render() {
@@ -102,8 +142,10 @@ class AMPDocument extends React.Component {
           )}
           <div
             className={this.state.loading ? "amp-container-hide" : null}
-            ref={ref => (this.container_ = ref)}
-          ></div>
+            ref={(ref) => (this.container_ = ref)}
+          >
+            {}
+          </div>
           <PushBanner />
         </div>
       );
@@ -135,29 +177,24 @@ class AMPDocument extends React.Component {
    * @private
    * @param {string} url
    */
-  fetchAndAttachAmpDoc_(url) {
-    this.setState({ loading: true });
-    this.fetchDocument_(url)
-      .then(doc => {
-        this.hideUnwantedElementsOnDocument_(doc);
-        return this.ampReadyPromise_.then(amp => {
-          // Replace the old shadow root with a new div element.
-          const oldShadowRoot = this.shadowRoot_;
-          this.shadowRoot_ = document.createElement("div");
-          if (oldShadowRoot) {
-            this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
-          } else {
-            this.container_.appendChild(this.shadowRoot_);
-          }
-          // Attach the shadow document to the new shadow root.
-          this.shadowAmp_ = amp.attachShadowDoc(this.shadowRoot_, doc, url);
-          this.setState({ loading: false });
-        });
-      })
-      .catch(error => {
-        console.log("error in fetch of the document", error);
-        this.setState({ offline: true });
-      });
+  attachAmpDoc_(doc) {
+    this.hideUnwantedElementsOnDocument_(doc);
+    return this.ampReadyPromise_.then((amp) => {
+      // Replace the old shadow root with a new div element.
+      const oldShadowRoot = this.shadowRoot_;
+      this.shadowRoot_ = document.createElement("div");
+      if (oldShadowRoot) {
+        this.container_.replaceChild(this.shadowRoot_, oldShadowRoot);
+      } else {
+        this.container_.appendChild(this.shadowRoot_);
+      }
+      // Attach the shadow document to the new shadow root.
+      this.shadowAmp_ = amp.attachShadowDoc(
+        this.shadowRoot_,
+        doc,
+        this.props.src
+      );
+    });
   }
 
   /**
@@ -176,39 +213,51 @@ class AMPDocument extends React.Component {
    * @return {!Promise<!Document|!string>} If fetch succeeds, resolved with {!Document}.
    *         Otherwise, rejects with {!string} error description.
    */
-  fetchDocument_(url) {
-    return new Promise((resolve, reject) => {
-      this.xhr_ = new XMLHttpRequest();
-      this.xhr_.open("GET", url, true);
-      this.xhr_.responseType = "document";
-      this.xhr_.setRequestHeader("Accept", "text/html");
-      this.xhr_.onreadystatechange = () => {
-        if (this.xhr_.readyState < /* STATUS_RECEIVED */ 2) {
-          return;
-        }
-        if (this.xhr_.status < 100 || this.xhr_.status > 599) {
-          this.xhr_.onreadystatechange = null;
-          reject(new Error(`Unknown HTTP status ${this.xhr_.status}`));
-          this.xhr_ = null;
-          return;
-        }
-        if (this.xhr_.readyState === /* COMPLETE */ 4) {
-          if (this.xhr_.responseXML) {
-            resolve(this.xhr_.responseXML);
-          } else {
-            reject(new Error("No xhr.responseXML"));
-          }
-          this.xhr_ = null;
-        }
-      };
-      this.xhr_.onerror = () => {
-        reject(new Error("Network failure"));
-      };
-      this.xhr_.onabort = () => {
-        reject(new Error("Request aborted"));
-      };
-      this.xhr_.send();
-    });
+  async fetchDocument_(url) {
+    let response;
+    let html;
+    try {
+      response = await fetch(url);
+      html = await response.text();
+    } catch (e) {
+      /* handle error */
+    } finally {
+      /* be executed regardless of the try / catch result*/
+    }
+    return html;
+
+    //new Promise((resolve, reject) => {
+    //this.xhr_ = new XMLHttpRequest();
+    //this.xhr_.open("GET", url, true);
+    //this.xhr_.responseType = "document";
+    //this.xhr_.setRequestHeader("Accept", "text/html");
+    //this.xhr_.onreadystatechange = () => {
+    //if (this.xhr_.readyState < [> STATUS_RECEIVED <] 2) {
+    //return;
+    //}
+    //if (this.xhr_.status < 100 || this.xhr_.status > 599) {
+    //this.xhr_.onreadystatechange = null;
+    //reject(new Error(`Unknown HTTP status ${this.xhr_.status}`));
+    //this.xhr_ = null;
+    //return;
+    //}
+    //if (this.xhr_.readyState === [> COMPLETE <] 4) {
+    //if (this.xhr_.responseXML) {
+    //resolve(this.xhr_.responseXML);
+    //} else {
+    //reject(new Error("No xhr.responseXML"));
+    //}
+    //this.xhr_ = null;
+    //}
+    //};
+    //this.xhr_.onerror = () => {
+    //reject(new Error("Network failure"));
+    //};
+    //this.xhr_.onabort = () => {
+    //reject(new Error("Request aborted"));
+    //};
+    //this.xhr_.send();
+    //});
   }
   trackEvents(elem) {
     let GAeventsData = {
@@ -216,30 +265,30 @@ class AMPDocument extends React.Component {
         eventName: "descargaRutaGpx",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaRutaGpx"
-        }
+          eventAction: "descargaRutaGpx",
+        },
       },
       android: {
         eventName: "descargaAppAndroid",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaAppAndroid"
-        }
+          eventAction: "descargaAppAndroid",
+        },
       },
       ios: {
         eventName: "descargaAppIos",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "descargaAppIos"
-        }
+          eventAction: "descargaAppIos",
+        },
       },
       viewranger: {
         eventName: "clickRutaOnline",
         extraParams: {
           eventCategory: "Rutas",
-          eventAction: "clickRutaOnline"
-        }
-      }
+          eventAction: "clickRutaOnline",
+        },
+      },
     };
 
     if (window && window.gtag && Object.keys(GAeventsData).includes(elem.id)) {
@@ -256,9 +305,9 @@ class AMPDocument extends React.Component {
           content_ids: ["1234"],
           content_type: "product",
           value: 4.99,
-          currency: "USD"
-        }
-      }
+          currency: "USD",
+        },
+      },
     };
 
     if (window && window.fbq && Object.keys(FBeventsData).includes(elem.id)) {
