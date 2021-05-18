@@ -1,22 +1,29 @@
-import { Router, Route, browserHistory } from "react-router";
-import AMPDocument from "./components/amp-document/amp-document";
 import React from "react";
-import ReactDOM from "react-dom";
+import AMPDocument from "./components/amp-document/amp-document";
 import Shell from "./components/shell";
 import Checkout from "./components/checkout";
 import Confirmation from "./components/order-confirmation";
 import Products from "./components/products";
 import About from "./components/about";
 import Politicas from "./components/politicas";
+import OrderList from "./components/orderlist";
 import Blog from "./components/blog";
+import Home from "./components/home";
 import Regions from "./components/regions";
 import GenericNotFound from "./components/404";
-import OrderList from "./components/orderlist";
+import { loadAmpDocument } from "./helpers/loadData";
 
+//<Route path="/blog" component={Blog} />
+//<Route path="/tienda" component={Products} />
+//<Route path="/contacto" component={About} />
+//<Route path="/politicas" component={Politicas} />
+//<Route path="/confirmation" component={Confirmation} />
+//<Route path="/orderslist" component={OrderList} />
+//<Route path="*" exact={true} component={GenericNotFound} />
 /**
  * @see https://github.com/ampproject/amphtml/blob/master/extensions/amp-install-serviceworker/amp-install-serviceworker.md#shell-url-rewrite
  */
-function redirectSWFallbackURL(nextState, replace) {
+function redirectSWFallbackURL(_nextState, replace) {
   var hash = typeof window !== "undefined" && window.location.hash;
   if (hash && hash.indexOf("#href=") === 0) {
     var href = decodeURIComponent(hash.substr(6));
@@ -24,36 +31,60 @@ function redirectSWFallbackURL(nextState, replace) {
   }
 }
 
-//TODO allow query params in the router url
-export default (
-  <Route path="/" component={Shell} onEnter={redirectSWFallbackURL}>
-    <Route
-      path="/checkout"
-      component={props => <Checkout query={props.location.query} />}
-    />
-    <Route path="/regiones" component={Regions} />
-    <Route path="/blog" component={Blog} />
-    <Route path="/tienda" component={Products} />
-    <Route path="/contacto" component={About} />
-    <Route path="/politicas" component={Politicas} />
-    <Route path="/confirmation" component={Confirmation} />
-    <Route path="/orderslist" component={OrderList} />
-    <Route
-      path=":category/:document"
-      component={props => (
+const Routes = [
+  {
+    path: "/:category/:deparment/:document",
+    component: (props) => {
+      return (
         <AMPDocument
-          src={`/amp/${props.params.category}/${props.params.document}`}
+          src={`/amp/${props.match.params.category}/${props.match.params.deparment}/${props.match.params.document}`}
         />
-      )}
-    />
-    <Route
-      path=":category/:deparment/:document"
-      component={props => (
-        <AMPDocument
-          src={`/amp/${props.params.category}/${props.params.deparment}/${props.params.document}`}
-        />
-      )}
-    />
-    <Route path="*" exact={true} component={GenericNotFound} />
-  </Route>
-);
+      );
+    },
+    loadData: (match) => {
+      const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.deparment}/${match.params.document}`;
+      return loadAmpDocument(documentUrl);
+    },
+  },
+  {
+    path: "/",
+    exact: true,
+    component: Home,
+    onEnter: redirectSWFallbackURL,
+  },
+  {
+    path: "/regiones",
+    component: Regions,
+  },
+  {
+    path: "/blog",
+    component: Blog,
+  },
+  {
+    path: "/tienda",
+    component: Blog,
+  },
+  {
+    path: "/:category/:document",
+    component: (props) => (
+      <AMPDocument
+        src={`/amp/${props.match.params.category}/${props.match.params.document}`}
+      />
+    ),
+    loadData: (match) => {
+      const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.document}`;
+      return loadAmpDocument(documentUrl);
+    },
+  },
+  {
+    path: "/checkout",
+    component: (props) => {
+      return <Checkout query={props.location.query} />;
+    },
+  },
+  {
+    component: GenericNotFound,
+  },
+];
+
+export default Routes;

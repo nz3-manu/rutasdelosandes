@@ -1,9 +1,9 @@
-import {Link} from 'react-router';
-import Home from './home';
-import Social from './social';
-import Cart from './cart';
-import React from 'react';
-import {connect} from 'react-redux';
+import { Link } from "react-router-dom";
+import Home from "./home";
+import Social from "./social";
+import Cart from "./cart";
+import React from "react";
+import { connect } from "react-redux";
 
 /**
  * The (App) Shell contains the web app's entire UI.
@@ -18,7 +18,7 @@ class Shell extends React.Component {
     };
   }
   toggleSideBar(state) {
-    this.setState({sidebarIsOpen: state});
+    this.setState({ sidebarIsOpen: state });
   }
   // Remove the server-side injected CSS.
   componentDidMount() {
@@ -28,7 +28,7 @@ class Shell extends React.Component {
       } */
   }
   render() {
-    let {jekyll} = this.props;
+    let { jekyll } = this.props;
     return (
       <div>
         <div className="side-bar" open={this.state.sidebarIsOpen}>
@@ -36,7 +36,8 @@ class Shell extends React.Component {
             onClick={() => {
               this.toggleSideBar(false);
             }}
-            className="side-bar__close">
+            className="side-bar__close"
+          >
             <img
               src="/images/ic_close_black_18dp_2x.png"
               alt="close sidebar"
@@ -51,7 +52,8 @@ class Shell extends React.Component {
                   onClick={() => {
                     this.toggleSideBar(false);
                   }}
-                  to={page.url}>
+                  to={page.url}
+                >
                   {page.title}
                 </Link>
               </li>
@@ -63,14 +65,16 @@ class Shell extends React.Component {
             className="side-bar__mask"
             onClick={() => {
               this.toggleSideBar(false);
-            }}></div>
+            }}
+          ></div>
         )}
         <header
           className="site-header"
           style={{
             backgroundColor: jekyll.brandColor,
-            borderBottom: 'solid 1px black',
-          }}>
+            borderBottom: "solid 1px black",
+          }}
+        >
           <div className="header-wrapper page-content">
             <Link className="site-logo" to="/">
               <img src={jekyll.logo} height="50" width="50"></img>
@@ -82,7 +86,8 @@ class Shell extends React.Component {
               onClick={() => {
                 this.toggleSideBar(true);
               }}
-              className="ampstart-btn caps m2 menu-button">
+              className="ampstart-btn caps m2 menu-button"
+            >
               <svg viewBox="0 0 18 15" width="35px" height="45px">
                 <path
                   fill="#424242"
@@ -101,7 +106,7 @@ class Shell extends React.Component {
           </div>
         </header>
         <div className="container main">
-          <div className="categories" ref={ref => (this.categories_ = ref)}>
+          <div className="categories" ref={(ref) => (this.categories_ = ref)}>
             <ul>
               <li>
                 <Link to="/" key="1">
@@ -115,7 +120,11 @@ class Shell extends React.Component {
               </li>
               <li>
                 {
-                  <a target='_blank' href="https://randes-store.myshopify.com/" key="3">
+                  <a
+                    target="_blank"
+                    href="https://randes-store.myshopify.com/"
+                    key="3"
+                  >
                     <span className="tienda-title">Tienda</span>
                   </a>
                 }
@@ -129,7 +138,7 @@ class Shell extends React.Component {
     );
   }
 }
-const mapStateToProps = state => ({
+const mapStateToProps = (state) => ({
   jekyll: state.jekyll,
 });
 

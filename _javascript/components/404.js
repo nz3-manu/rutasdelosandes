@@ -1,9 +1,6 @@
-import React from 'react';
+import React from "react";
 
-class NotFound extends React.Component {
-  render() {
-    return <div> pagina no encontrada :( </div>;
-  }
-}
-
-export default NotFound;
+export default ({ staticContext = {} }) => {
+  staticContext.status = 404;
+  return <h1>Oops, pagina no encontrada</h1>;
+};

@@ -1,30 +1,30 @@
 import React from "react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 import { withStyles } from "@material-ui/core/styles";
 import { getProducts } from "../actions";
 
 const styles = {
   container: {
-    flexGrow: 1
+    flexGrow: 1,
   },
   products: {
     listStyle: "none",
-    padding: 0
+    padding: 0,
   },
   "@media (min-width: 768px)": {
     products: {
       display: "flex",
-      flexWrap: "wrap"
-    }
+      flexWrap: "wrap",
+    },
   },
   product: {
     position: "relative",
-    display: "block"
+    display: "block",
   },
   wrapper: {
     flexBasis: "50%",
-    border: "solid white 2px"
+    border: "solid white 2px",
   },
   producttitle: {
     position: "absolute",
@@ -37,8 +37,8 @@ const styles = {
     top: "10%",
     left: "10%",
     zIndex: "2000",
-    color: "white"
-  }
+    color: "white",
+  },
 };
 
 class Products extends React.Component {
@@ -59,7 +59,7 @@ class Products extends React.Component {
             ""
           )}
           {products
-            .filter(product => {
+            .filter((product) => {
               let collectionsArray = product.collections.edges[0];
               return (
                 typeof collectionsArray != "undefined" &&
@@ -79,7 +79,7 @@ class Products extends React.Component {
                         "url(" +
                         (product.images.edges.length &&
                           product.images.edges[0].node.src) +
-                        ")"
+                        ")",
                     }}
                   >
                     <div className="scrim-top" />
@@ -98,13 +98,13 @@ class Products extends React.Component {
   }
 }
 
-const mapStateToProps = state => ({
-  products: state.products
+const mapStateToProps = (state) => ({
+  products: state.products,
 });
-const mapDispatchToProps = dispatch => ({
+const mapDispatchToProps = (dispatch) => ({
   getProducts: () => {
     dispatch(getProducts());
-  }
+  },
 });
 
 export default connect(

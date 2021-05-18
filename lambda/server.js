@@ -1,7 +1,6 @@
 const express = require("express"),
   app = express(),
   router = express.Router(),
-  fs = require("fs"),
   React = require("react"),
   ReactDOMServer = require("react-dom/server"),
   bodyParser = require("body-parser"),
@@ -13,7 +12,7 @@ const express = require("express"),
   serverless = require("serverless-http"),
   cheerio = require("cheerio"),
   deepmerge = require("deepmerge"),
-  ejs = require('ejs');
+  ejs = require("ejs");
 
 import { SheetsRegistry, JssProvider } from "react-jss";
 import {
@@ -57,19 +56,17 @@ app.use(Sentry.Handlers.requestHandler());
 
 const documents = require("../_site/documents.json");
 const globalStyles = require("../_includes/styles.html");
+const notFoundPage = require("../_site/404.html");
 
-import { read, write, push, sendToDevice, update, remove } from "./utils/db";
+//import { read, write, push, sendToDevice, update, remove } from "./utils/db";
 
 require("es6-promise").polyfill();
 require("isomorphic-fetch");
 
 //server side fetch polifyll
-import routes from "../_javascript/routes";
-import { match, RouterContext } from "react-router";
 import reducer from "../_javascript/reducers";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
-import { log } from "util";
 global.__preloaded__ = documents;
 //import { read, write, push, sendToDevice, update, remove } from "./chatbot/db";
 //import { Promise } from "firebase";
@@ -91,7 +88,7 @@ let allDocs = Object.values(global.__preloaded__.documents).reduce(
 );
 const siteMeta = global.__preloaded__.site;
 // Sitemap route
-router.get("/sitemap.xml", function (req, res) {
+router.get("/sitemap.xml", function (_req, res) {
   //TODO set all the sitemap parameters properly
   let sitemap = sm.createSitemap({
     hostname: "https://rutasdelosandes.com/",
@@ -122,37 +119,36 @@ app.post("/api/save-subscription/", function (req, res) {
     });
 });
 
-router.get("/getproducts", function (req, res) {
-    return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
-      if (result.errors) {
-        console.log(`result coming from shopify promese`, result);
-        res.json(result);
-      } else {
-        let products = result.data.shop.products.edges.map(
-          (product) => product.node
-        );
-        res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
-        res.json(products);
-      }
-    });
+router.get("/getproducts", function (_req, res) {
+  return Promise.all([shopNameAndProductsPromise]).then(([result]) => {
+    if (result.errors) {
+      res.json(result);
+    } else {
+      let products = result.data.shop.products.edges.map(
+        (product) => product.node
+      );
+      res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+      res.json(products);
+    }
+  });
 });
 
 router.get("/producto/availability/:slug", async (req, res) => {
   const slug = req.params.slug;
-  const product = await productByHandle(slug).then(res => {
+  const product = await productByHandle(slug).then((res) => {
     return res.data;
   });
 
-  const items = product.productByHandle.variants.edges.map(variant => {
+  const items = product.productByHandle.variants.edges.map((variant) => {
     let variantObj = variant.node;
     let options = [
       { selected: "selected", label: 1 },
-      { selected: "", label: 2 }
+      { selected: "", label: 2 },
     ];
     return {
       ...variantObj,
       total: variantObj.availableForSale ? 2 : 0,
-      options: options
+      options: options,
     };
   });
 
@@ -196,9 +192,9 @@ var replaceAccents = function (cadena) {
 router.get("/amp/producto/:slug", async (req, res) => {
   const slug = req.params.slug;
   let shopifyProduct;
-    shopifyProduct = await productByHandle(slug).then((result) => {
-      return result;
-    });
+  shopifyProduct = await productByHandle(slug).then((result) => {
+    return result;
+  });
 
   const shopifyVariations = shopifyProduct.data.productByHandle.options;
   const buildNestedObj = (values, id, obj = {}, ref = obj) => {
@@ -241,7 +237,7 @@ router.get("/amp/producto/:slug", async (req, res) => {
 
   let variationsParams = shopifyVariations
     .map((variantObj) => variantObj.name)
-    .reduce((valorAnterior, valorActual, indice, vector) => {
+    .reduce((valorAnterior, valorActual, _indice, _vector) => {
       return (
         valorAnterior +
         `[product.variationSelected.${replaceAccents(valorActual)}]`
@@ -275,7 +271,7 @@ router.get("/amp/producto/:slug", async (req, res) => {
     quantityExpression,
   };
 
-  res.status(200).send(ejs.render(productTemplate,data));
+  res.status(200).send(ejs.render(productTemplate, data));
 });
 
 router.get("/getcart", async (req, res, next) => {
@@ -315,17 +311,17 @@ app.post("/removecart", async (req, res) => {
 
     const input = {
       checkoutId,
-      lineItemIds: [itemId]
+      lineItemIds: [itemId],
     };
 
     await lineItemRemove(input);
     shopifyCart = await fetchCheckout(checkoutId);
-    lineItems = shopifyCart.data.node.lineItems.edges.map(item => item.node);
+    lineItems = shopifyCart.data.node.lineItems.edges.map((item) => item.node);
 
     res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
     res.json({ number: lineItems.length, items: lineItems });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 });
 
@@ -356,7 +352,7 @@ app.post("/addcart", upload.fields([]), async (req, res) => {
     // Add the variant to our cart
     const input = {
       checkoutId,
-      lineItems: [{ variantId: productId, quantity }]
+      lineItems: [{ variantId: productId, quantity }],
     };
 
     let lineItemId = await lineItemAdd(input);
@@ -383,11 +379,11 @@ app.post("/addcart", upload.fields([]), async (req, res) => {
     res.set("AMP-Access-Control-Allow-Source-Origin", source);
     res.json({ status: "ok" });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 });
 
-app.get("/checkout", async (req, res, next) => {
+app.get("/checkout", async (req, res) => {
   const checkoutId = req.query.checkoutId;
   let checkoutObj = await fetchCheckout(checkoutId);
   let webUrl = checkoutObj.data.node.webUrl;
@@ -412,7 +408,31 @@ router.get(`*`, (req, res) => {
     ampEquivalent
   );
 });
-function mathRouter(req, res, state = {}, ampEquivalent) {
+
+import routes from "../_javascript/routes";
+import App from "../_javascript/app";
+import { matchPath } from "react-router-dom";
+import { StaticRouter } from "react-router";
+import serialize from "serialize-javascript";
+
+async function mathRouter(req, res, state = {}, ampEquivalent) {
+  // inside a request
+  const promises = [];
+  // use `some` to imitate `<Switch>` behavior of selecting only
+  // the first to match
+  routes.some((route) => {
+    // use `matchPath` here
+    const match = matchPath(req.path, route);
+    if (match) {
+      if (route.loadData) {
+        promises.push(route.loadData(match));
+      } else {
+        promises.push(Promise.resolve(null));
+      }
+    }
+    return match;
+  });
+
   // material ui stylesheet server
   // Create a sheetsRegistry instance.
   const sheetsRegistry = new SheetsRegistry();
@@ -424,6 +444,7 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
       type: "light",
     },
   });
+
   const generateClassName = createGenerateClassName();
   // end of material ui server stylesheet
   let store = createStore(
@@ -432,55 +453,54 @@ function mathRouter(req, res, state = {}, ampEquivalent) {
   );
 
   const preloadedState = store.getState();
-  match({ routes: routes, location: req.url }, (err, redirect, props) => {
-    // in here we can make some decisions all at once
-    if (err) {
-      // there was an error somewhere during route matching
-      res.status(500).send(err.message);
-    } else if (redirect) {
-      // we haven't talked about `onEnter` hooks on routes, but before a
-      // route is entered, it can redirect. Here we handle on the server.
-      res.redirect(redirect.pathname + redirect.search);
-    } else if (props) {
-      let content;
+
+  return await Promise.all(promises)
+    .then((data) => {
+      // Let's add the data to the context
+      const context = { data };
+      // do something w/ the data so the client
+      // can access it then render the app
       // if we got props then we matched a route and can render
-      content = ReactDOMServer.renderToString(
-        <JssProvider
-          registry={sheetsRegistry}
-          generateClassName={generateClassName}
-        >
-          <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
-            <Provider store={store}>
-              <RouterContext {...props} />
-            </Provider>
-          </MuiThemeProvider>
-        </JssProvider>
+      const content = ReactDOMServer.renderToString(
+        <StaticRouter location={req.url} context={context}>
+          <JssProvider
+            registry={sheetsRegistry}
+            generateClassName={generateClassName}
+          >
+            <MuiThemeProvider theme={theme} sheetsManager={new Map()}>
+              <Provider store={store}>
+                <App />
+              </Provider>
+            </MuiThemeProvider>
+          </JssProvider>
+        </StaticRouter>
       );
       // Grab the CSS from our sheetsRegistry.
       const css = sheetsRegistry.toString();
       const fullPage = renderFullPage(
         content,
         preloadedState,
+        data,
         "",
         css,
         ampEquivalent,
         req.url.split("?").shift()
       );
-      if (typeof fullPage != "number") {
-        res.send(fullPage);
-      } else {
-        res.status(fullPage).sendFile(__dirname + "/_site/404.html");
+
+      if (context.status === 404) {
+        res.status(404).sendFile(notFoundPage);
       }
-    } else {
-      // no errors, no redirect, we just didn't match anything
-      res.status(404).send("Ruta no encontrada ");
-    }
-  });
+      res.send(fullPage);
+    })
+    .catch(() => {
+      res.status(404).send(notFoundPage);
+    });
 }
 
 function renderFullPage(
   html,
   preloadedState,
+  data,
   customHtml = "",
   customCSS = "",
   ampEquivalent = false,
@@ -549,6 +569,7 @@ function renderFullPage(
       <meta name="twitter:title" content="${docMetaData.title}">
       <meta name="twitter:description" content="${docMetaData.excerpt}">
       <meta name="twitter:image" content="${docMetaData.featured}">
+      <script>window.__ROUTE_DATA__ = ${serialize(data)}</script>
       <!-- Facebook Pixel Code -->
       <script>
         !function(f,b,e,v,n,t,s)
@@ -590,6 +611,7 @@ function renderFullPage(
       </html>
 	  `;
 }
+
 var functionName = "server";
 // Set router base path for local dev
 const routerBasePath =
