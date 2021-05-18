@@ -72,7 +72,7 @@ const Routes = [
       />
     ),
     loadData: (match) => {
-      const documentUrl = `https://rutasdelosandes/amp/${match.params.category}/${match.params.document}`;
+      const documentUrl = `https://rutasdelosandes.com/amp/${match.params.category}/${match.params.document}`;
       return loadAmpDocument(documentUrl);
     },
   },
