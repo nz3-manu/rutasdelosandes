@@ -17,7 +17,6 @@ Te explicaremos porqué no debes salir con una chicas que le guste viajar, si en
  
 Es esa que va siempre sonriente, pareciera que no conociera el significado de un mal día, en cuanto a su piel tiene pequeñas marcas de heridas y picaduras, pero cada una de esas cicatrices tiene detrás una interesante historia que contar.
  
-## RAZONES POR LAS CUALES NO SALIR CON UNA  CHICA VIAJERA
  
 ### 1º No es fácil tenerla contenta
  
@@ -33,7 +32,9 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_l
  
 ### 2º Es persistente
  
-No te dejará tranquilo hasta que no la acompañes a esa nueva cascada, nevado o páramo que vio y te lo recordará cada vez que sea posible incluso te armará itinerario para que no se escape nada de ese viaje. No tendrá problema en dormir en carpa o comer al lado de un río, porque sabe que para disfrutar de un viaje no siempre es durmiendo en hoteles con todas las comodidades.
+No te dejará tranquilo hasta que no la acompañes a esa nueva cascada, nevado o páramo que vio, te lo recordará cada vez que sea posible incluso te armará itinerario para que no se escape nada de ese viaje. 
+
+Ella no tendrá problema en dormir en carpa o comer al lado de un río, Sabe que para disfrutar su viaje no es necesario siempre hacerlo con todas las comodidades en hoteles 5 estrellas.
  
  
 {% include image.html,

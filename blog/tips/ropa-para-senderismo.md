@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Qué llevar para hacer senderismo  
+title: Ropa para Trekking y Senderismo 
 categories: blog
 seo_title: Ropa adecuada para senderismo|rutas
 excerpt: ¿Cuál es la ropa ideal para hacer senderismo?, cuantas columnas de agua debe de tener una chaqueta impermeable.
@@ -9,7 +9,7 @@ tags: TipsMontaña
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/ropa-para-senderismo/featured.jpg
 ---
 
-# ROPA PARA IR A LA MONTAÑA
+# ROPA PARA TREKKING Y SENDERISMO 
 
 
 En este post te mostraremos la ropa más indicada para hacer diferentes actividades en la montaña, también queremos tocar un tema el cual hay mucha confusión y es al momento de elegir una chaqueta impermeable, explicaremos conceptos como: columnas de agua, porcentaje de transpirabilidad y porcentaje de rompevientos.
@@ -71,7 +71,7 @@ Este buzo es perfecto para climas , algunas de las propiedades de este buz son: 
 
 Este buzo aparte de protegernos de la vegetación también nos mantiene abrigado en caminatas con un clima un poco frío,  ya que su tela es un poco compacta no cuenta con mucha elongación
 
-#### propiedades del buzo Basic:
+#### Propiedades del buzo Basic:
 
 * Tela de secado rápido.
 * Tela compacta.
