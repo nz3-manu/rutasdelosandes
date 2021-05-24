@@ -153,7 +153,7 @@ caption:"Foto Finca Primavera",
 width:"1200", 
 height:"583" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @jorge_leyton79 </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
  
  
 ### FINCA LA PLAYA
@@ -166,7 +166,7 @@ caption:"Foto Finca la Playa",
 width:"1200", 
 height:"583" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitragog/"  target="_blank"> @catabuitragog </a> </span>__
 
 #### Los servicios que prestan en la Finca la Playa son los siguientes:
 * Habitación compartida 🛌:$23.000 pesos por persona.
@@ -230,7 +230,7 @@ caption:"Tramo arena",
 width:"1200", 
 height:"800" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @ssc_roll </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/ssc_roll/"  target="_blank"> @ssc_roll </a> </span>__
 
 En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargo muy rapido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino,  para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
 
@@ -244,7 +244,7 @@ caption:"Tramo rocas",
 width:"1280", 
 height:"960" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/dulima_tourtravel/"  target="_blank"> @dulima_tourtravel </a> </span>__
 
 Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piolet colgado a un costado del maletín y el bastón de senderismo en una mano, y  al intentar subir un tramo el piolet se pegó con la roca y como llevaba el bastón de senderismo en una mano no pudo sujetarse bien de la roca y casi sigue derecho cuesta abajo, para su fortuna un amigo que venía atrás la alcanzo a coger de las piernas 😰, esto pasó en un tramo que ya no estábamos asegurados a la roca.
 
@@ -260,7 +260,7 @@ caption:"Tramo nieve",
 width:"1152", 
 height:"804" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @piri487 </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487 </a> </span>__
 
 Después de caminar cerca de 40 minutos por la nieve a nuestro amigo se le daño el crampón 😰, como pudo lo arreglaron y continuamos adelante, después de todos estos inconvenientes logramos  subir a la cumbre. 
 
@@ -270,7 +270,7 @@ caption:"Cumbre Tolima",
 width:"1152", 
 height:"804" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @jorge_leyton79 </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
 
 
 __Recuerda:__ 
@@ -288,7 +288,7 @@ caption:"Termales del Cañón",
 width:"1200", 
 height:"900" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @catabuitragog </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitragog/"  target="_blank"> @catabuitragog </a> </span>__
  
 #### Los servicios que prestan en Termales del Cañón son los siguientes:
 * Camping ⛺️ : $10.000 pesos por persona con derecho a la piscina de aguas termales. 

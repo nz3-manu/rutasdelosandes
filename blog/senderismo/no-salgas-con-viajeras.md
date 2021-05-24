@@ -27,7 +27,7 @@ file:"/blog/senderismo/nomujerviajera/kathe-2.jpg",
 width:"947",
 height:"670"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @maririvra </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/maririvra/"  target="_blank"> @maririvra </a> </span>__
  
  
 ### 2º Es persistente
@@ -43,7 +43,7 @@ width:"1200",
 height:"800"
 %}
  
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @ssc_roll </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/ssc_roll/"  target="_blank"> @ssc_roll </a> </span>__
  
 ### 3º vive la vida al límite.
  
@@ -56,7 +56,7 @@ file:"/blog/senderismo/nomujerviajera/kathe.jpg",
 width:"947",
 height:"670"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @maririvra </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/maririvra/"  target="_blank"> @maririvra </a> </span>__
 
  
 ### 4º No le interesará ser el centro de atención.
@@ -69,7 +69,7 @@ file:"/blog/senderismo/nomujerviajera/pao-1.jpg",
 width:"947",
 height:"670"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catalina_la_oo/"  target="_blank"> @piri487 </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487 </a> </span>__
  
 ### 5º Es recursiva 
  
@@ -80,7 +80,7 @@ file:"/blog/senderismo/nomujerviajera/no-salgas-con-viajera-4.jpg",
 width:"798",
 height:"709"
 %}
- __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @piri487 </a> </span>__
+ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487 </a> </span>__
 
  
 Por tanto, nunca salgas con una chica que viaje a menos que puedas seguirle el ritmo y si involuntariamente te enamoras de una de ellas, solo tendrás 2 opciones: vivir una vida con ella donde no existirá la monotonía y compartirán un sin fin de aventuras ⛰ o déjala ir y seguir con tu vida rutinaria y monótona en las selvas de concreto.

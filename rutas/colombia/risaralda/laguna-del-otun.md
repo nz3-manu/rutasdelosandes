@@ -50,7 +50,6 @@ La ruta que mostraremos en este post es llegando por Potosí, lugar donde se enc
 
  * __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
 
-_Los precios varían dependiendo del conductor que contrates, en la información anexa al final del documento encontraras los telefonos de las empresas y locales que prestan el servicio de transporte._
 
 Estas opciones son recomendables si vas con más de 4 personas.
 
