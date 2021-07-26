@@ -35,7 +35,17 @@ __Cerros ubicados en Quinchía:__
 ## ¿Cómo llegar 🛣🚌?
 
 Se debe de tomar un bus 🚌 en el terminal de Pereira de la empresa Flota Occidental horarios de salida 7:00 am , 8:15 am, 9:15 am, 12:00 pm, 3:45 pm,  4:40 pm y 5:40 pm, tiempo estimado de llegada 2 horas 50 minutos. El valor del pasaje es aproximadamente $14.000 pesos. 
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada 😋, al llegar a la finca encontraremos zonas de camping 🏕  a $8.000 pesos por persona.
+
 __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:314808851">314808851</a>.__
 
 
@@ -57,6 +67,7 @@ Para ir a Cerro Batero primero tenemos que ir a la vereda Batero, la cual se pue
 %}
 
 Al llegar a la vereda Batero encontrarás una tienda por si necesitas comprar algo  de comida y agua 🍎🍶, ya que el ascenso hasta el cerro es aproximadamente 2 horas y 30 minutos.
+
 En el ascenso hay que tener precaución ya que tienes que subir por escaleras de metal y pasos muy angostos que la hace muy peligrosa 😰.
 
 {% include image.html, 
@@ -65,7 +76,6 @@ En el ascenso hay que tener precaución ya que tienes que subir por escaleras de
    height:"560", 
    width:"897"
 %} 
-
 
 Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero ⛰.
 
@@ -77,7 +87,10 @@ Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cer
 %}
 
 ## ¿Cómo regresar 🚌🏡?
-Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía __es importante preguntar el horario de salida de los jeep desde la vereda Batero hacia Quinchía ya que no tienen un horario exacto.__
+
+Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Batero sin preocupaciones y adicional a eso tomar el jeep que nos regresará a Quinchía. 
+
+__Es importante preguntar el horario de salida de los jeep desde la vereda Batero hacia Quinchía ya que no tienen un horario exacto.__
 
 Este es el fin de la ruta a Cerro Batero, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 

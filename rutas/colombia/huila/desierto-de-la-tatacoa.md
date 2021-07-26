@@ -54,6 +54,14 @@ Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproxi
 * __Medellín hasta Neiva:__ El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas.
  
 * __Cali hasta Neiva:__ El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de  10 horas.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
  
 Una vez en Neiva tuvimos que tomar un bus con destino al pueblo de Villavieja, la duración del trayecto es de 90 minutos, el valor del pasaje es de $7.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
  

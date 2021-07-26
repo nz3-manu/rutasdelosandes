@@ -20,7 +20,7 @@ En este post encontrarás la siguiente información:
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
-El precio para hacer la ruta con agencia es de  aproximadamente $1'200.000 Pesos por persona, saliendo desde Pereira o Armenia, __<a target="_blank" href="https://forms.gle/vDqwaKLq6RdrELTz8"> más información aquí</a>__.
+El precio para hacer la ruta con agencia es de  aproximadamente $1'200.000 Pesos por persona, saliendo desde Pereira o Armenia.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
  
@@ -67,6 +67,14 @@ Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar
 Una vez aquí ya estamos listos para empezar nuestro camino ⛰.
 
 <p id="rutanevadotolima"></p>
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 ## RUTA AL NEVADO DEL TOLIMA
 

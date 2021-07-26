@@ -38,6 +38,14 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Una vez en pereira, tomamos “la chiva” o bus escalera desde La plaza Victoria, los  horarios de salida son: De lunes a viernes 6:00 am, 12:00 pm y 4:30 pm, el sabado adicional a las 10 am y domingo adicional 8 am. El valor del pasaje es aproximado de $3.200 pesos, la duración del trayecto es en promedio de 1 hora y 20 minutos para llegar a la vereda la convención.
 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 En la vereda la convención ¡ya empieza nuestra ruta! 😎.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
@@ -98,6 +106,13 @@ Al llegar a la parte mas alta de nuestro recorrido llegaremos a este hermoso mir
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2.000 metros sobre el nivel del mar. Es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella. Debido a su altura, desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 ## ¿Cómo regresar del Alto Del Nudo 🚌🏡?
 Tomamos  el jeep que pasa hasta las 5:00 pm el cual tiene un precio aproximado de $3.500 pesos, este se toma al frente de la casa del guardabosques. Este Jeep nos llevará directo a Pereira.

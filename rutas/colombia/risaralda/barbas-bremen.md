@@ -71,6 +71,13 @@ Con una longitud de 7.10 km y una duración de aproximadamente 3 horas  inciamos
 
 __Recomendación:__ El rió barbas se caracteriza por ser impredecible, así que se recomienda no estar en el cuando esta lloviendo.
 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 Después de salir del Sendero Yarumal caminaremos al costado de la carretera que lleva a la Vereda Alegrias(pintoresco nombre 🤗) después de unos 45 minutos caminando podremos adentrarnos la cascada Alegrias. 
     

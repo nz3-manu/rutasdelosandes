@@ -11,10 +11,10 @@ author: manuel
 ---
 # Chorros San Rafael
 
-__Esta ruta pertenece a nuestras rutas ocultas en el eje cafetero__
-¿Que diferencia una ruta oculta de las otras rutas? las rutas ocultas no cuentan con senderos demarcados, personas que protejan estos lugares naturales y muchas veces se tendrá que pasar por fincas de privados. 
+Los Chorros de San Rafael están ubicados en el municipio de Calarcá en el departamento del Quindío, aproximadamente a unos 10 kilómetros de Armenia. Calarcá es la segunda población con mayor cantidad de habitantes en este departamento, después de la capital (Armenia). Además es conocida por su riqueza cultural, natural y por ser la casa del que es considerado como el mejor mariposario del mundo.
+ 
+Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quindío, como muestra de esto su nombre hace honor al legendario guerrero cacique Calarcá que habitaba estas zonas e inmediaciones con Tolima.
 
-De hacer un turismo masivo en estos lugares podríamos ocasionar problemas a estos ecosistemas y tener inconvenientes con las comunidades.
 
 
 ## ¿Qué encontrarás en los Chorros San Rafael 🏞👀?
@@ -31,14 +31,55 @@ De hacer un turismo masivo en estos lugares podríamos ocasionar problemas a est
 
 Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con destino Calarcá, el valor del pasaje fue de $2.000 pesos, el bus se tardó en llegar aproximadamente 15 minutos. Una vez en Calarcá nos bajamos en la plaza de mercado, lugar donde aprovechamos para comprar comida 🍱.
 
-Desde la plaza de mercado hasta los chorros San Rafael son aproximadamente 5.5 kilómetros.
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+ 
+ 
+__Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
+ 
+## Ruta a los Chorros San Rafael 🚶🏼🐕
+ 
+Desde la plaza de mercado hasta los chorros San Rafael son aproximadamente 5.5 kilómetros, de los cuales 3 kilómetros son para salir de Calarcá por el antiguo matadero viejo (vía puente rojo).
+ 
+{% include iframe.html,
+   type:"custom",
+   mid:"1eF1polz1VXZxAMlqM5HrvdxcjmSqDV9v&hl=es",
+   caption:"Calarcá-Chorros San Rafael"
+%}
+ 
+En nuestro recorrido tuvimos que cruzar la vía la línea, la cual es transitada por camiones que pasan a gran velocidad  🚛. Al cruzar llegamos cerca del barrio manantial, alguien se acercó y nos sugirió que guardaramos las cámaras 😥 por precaución, un poco más adelante encontramos 2 vías, tomamos la del lado izquierdo (ver mapa) y continuamos por una carretera. Con cada paso quedabamos dejábamos atrás el paisaje urbano 🌆, y empezamos a ver algunas fincas 🐮🍃.
+ 
+__Nota:__ _En una parte del trayecto vimos que la carretera había desaparecido 🌊 a causa del invierno, apenas la estaban construyendo de nuevo 🚧👷‍. Para cruzar al otro lado tuvimos que pasar por un pequeño sendero que sale de nuevo a la carretera, si estás viendo esto en el futuro 🔮posiblemente ya estará construido de nuevo._
+ 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
+Seguimos caminando por la carretera, después nos internamos a un sendero donde se podían ver los ductos de agua que alimentan al municipio, esta era la señal de que nos estábamos acercando cada vez más a nuestro destino 💦⛰😍.
+ 
+{% include image.html,
+file:"rutas/quindio/chorrossanrafael/featured.jpg",
+caption:"Chorros San Rafael",
+width:"1500",
+height:"844"
+%}
+ 
+## ¿Cómo regresar de los Chorros San Rafael 🚌🏡?
+ 
+Ya estaba atardeciendo así que decidimos regresar, tomamos el mismo camino por el que llegamos. Al pasar por el barrio que nos habían advertido que tuviéramos cuidado con las cámaras (cuando empezábamos la ruta), ya se podía ver que el ambiente era un poco más tenso 😬, como recomendación no dar papaya.
+
+Este es el fin de la ruta a Peñas Blancas, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 
-Si quieres ir bajo tu propia responsabilidad te dejamos la información necesaria para que lo puedas realizar, recuerda tomar todas las recomendaciones y precauciones anteriormente mencionadas.
 
-_Si has comprado alguno de nuestro productos en la tienda randes store, recibiste un código con el cual podrás descargar esta información totalmente gratis, igualmente recuerda tomar todas las recomendaciones y precauciones anteriormente mencionadas._
-
-
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional">__Descargar información adicional Chorros San Rafael.__</a>
 
 

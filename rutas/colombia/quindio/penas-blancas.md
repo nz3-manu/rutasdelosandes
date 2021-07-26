@@ -10,6 +10,7 @@ viewranger: MTYzNjM1Ng==
 author: manuel
 ---
 Esta majestuosa peña de 280 metros de altura se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Este lugar está lleno de leyendas Quimbayas ya que en este lugar era donde vivía el Cacique Calarcá hace más de 400 años, el era un hombre fuerte, de facciones duras que media casi 1,90 metros fue uno de los pocos a quien los españoles no pudieron dominar durante la Conquista. 
+
 En esta peña se encuentra una caverna de aproximadamente de 10 metros de profundidad cuenta la leyenda que era el lugar donde guardaba sus tesoros el Cacique Calarcá.
 
 ## ¿Qué encontrarás en Peñas Blancas 🏞👀?
@@ -24,15 +25,30 @@ En esta peña se encuentra una caverna de aproximadamente de 10 metros de profun
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 ## ¿Cómo llegar 🛣🚌🚗🛵🚵🏻?
-Primero tenemos que llegar a Armenia Quindío. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación, en un hostal ubicado en una zona residencial tranquila ver hostal __<a href="http://www.booking.com/hotel/co/hostal-el-mico.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, si lo tuyo no son los hostales y quieres algo mas privado te dejamos algunas opciones __<a href="https://www.booking.com/searchresults.html?city=-577588&nflt=review_score%253D90%253Bht_id%253D201&aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__.
+Primero tenemos que llegar a Armenia Quindío. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación.
 
-__Recomendación:__ realizar reservación con previa anticipación, nosotros las realizamos a través de Booking ya que permite hacer reserva totalmente gratis 😋, de esta forma nos evitamos estar corriendo de un lado para el otro buscando hospedaje 🏨💨🏃‍ como ya nos ha pasado 😅.
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+ 
 
 Al día siguiente vamos a la terminal donde tomamos un bus 🚌 hacia Calarcá, el bus sale cada 15 minutos a partir de las 5:30 am el trayecto dura en promedio 30 minutos, valor del trayecto es aproximadamente $2.000 pesos. 
 
 Una vez en Calarcá nos tenemos que bajar en la Plaza de Mercado, allí tomaremos nuestro último transporte un jeep con destino la vereda la virginia, cuyos horarios de salida es de cada 30 minutos y tiene un valor aproximado de $2.000 pesos, duración del trayecto son 20 minutos.
 
 Si vas en carro 🚙 o moto 🛵 puedes dejarlo estacionado en la base de la Peña, donde se encuentra el Hotel Ecoparque Peñas Blancas. El parqueadero  sólo está en funcionamiento los días Sábados y Domingo. Valor del parqueadero es totalmente gratis 😉.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que la carretera es algo difícil para un automóvil._
 
@@ -60,11 +76,17 @@ Una vez en la primera entrada empezamos nuestra caminata hasta El Ecoparque Peñ
 
 Para entrar al sendero del ecoparque peñas blancas  se tiene que pagar $7.000 pesos por persona la entrada incluye una bebida 🍹. 
 
-Tambien podremos encontrar; zonas de camping 🏕 $12.000 pesos por persona(incluye: entrada al sendero y bebida ), habitación privada por $40.000 para 2 personas (incluye: desayuno), los utensilios de cocina y la estufa tienen un costo adicional de $15.000 pesos. En el ecoparque solo se sirven almuerzos vegetarianos 🍛 por $8.500 pesos aproximadamente para para mayor información: 
+Tambien podremos encontrar; 
+* Zonas de camping 🏕 $12.000 pesos por persona(incluye: entrada al sendero y bebida ), 
+* Habitación privada por $40.000 para 2 personas (incluye: desayuno). 
+
+los utensilios de cocina y la estufa tienen un costo adicional de $15.000 pesos. En el ecoparque solo se sirven almuerzos vegetarianos 🍛 por $8.500 pesos aproximadamente para para mayor información: 
+
 <a href="tel:3006587163">3006587163</a>.
 
 La ruta del sendero es aproximadamente 6 horas (3 horas subiendo y 3 horas bajando).
-️⚠️ __Después de las 2 pm no se deja ingresar personas al sendero.__
+️
+⚠️ __Después de las 2 pm no se deja ingresar personas al sendero.__
 
 Ruta desde la vereda la Virgina hasta la cima de Peñas Blancas.
 
@@ -88,7 +110,7 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
 
 Para nuestro regreso tenemos que tener en cuenta que hay transporte hasta las 7 pm de la vereda la Virginia hasta Calarcá  y de Calarcá para Armenia hasta las 9 pm.
 
-Este es el fin de la ruta a Peñas Blancas, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Este es el fin de la ruta a Peñas Blancas, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1"> Youtube </a>.
 
 ## Presupuesto a Peñas Blancas por persona 🤔💰
   <amp-accordion animate>

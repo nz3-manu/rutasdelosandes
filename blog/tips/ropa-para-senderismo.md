@@ -132,7 +132,7 @@ La tela de este pantalón se ajusta mucho más a las necesidades de un pantalón
 * Color: Al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Anti Rasgado: tejido en cuadrícula que da mayor resistencia a la tela, y así evitará que se rasgue fácilmente con el contacto con ramas o chamizas etc.. 
 * Resistente a manchas de sudor: como lo dijimos anteriormente no hay nada peor que tu prenda favorita quede manchada por el sudor.
-* Proteción solar: Uv +30  norma aatcc 183.
+* Protección solar: Uv +30  norma aatcc 183.
 * Secado rápido: ya que es un material muy delgado permitirá que se seque más rápido, lo que es una gran ventaja al momento que vayamos a caminar o acampar. 
 
 Algo que me gusta mucho de este pantalón es que no ocupa mucho espacio y es super liviano.
@@ -212,7 +212,7 @@ __Propiedades de la chaqueta Pro:__
 * Color: al lavar la prenda esta no perderá sus colores tan fácilmente.
 * Anti Rasgado: tejido en cuadrícula que da mayor resistencia a la tela, y así evitará que se rasgue fácilmente con el contacto con ramas  etc.. 
 * Resistente a manchas de sudor: como lo dijimos anteriormente no hay nada peor que tu prenda favorita quede manchada por el sudor.
-* Proteción solar:  Uv +30  norma aatcc 183.
+* Protección solar:  Uv +30  norma aatcc 183.
 * Repelencia al agua: con esto nos referimos a que el textil no absorberá el agua ya que la repele, pero si es puesto en condiciones extremas como una tormenta ya las partículas podrían atravesar por el medio del tejido.
 
 Esta es una chaqueta que me gusta mucho, ya que no ocupa mucho espacio y se puede llevar a cualquier lado.

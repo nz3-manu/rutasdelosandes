@@ -15,7 +15,7 @@ Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al m
 Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferrocarril.
 
 
-## ¿Qué encontrarás en la Cascada Santa Rita 🏞👀?
+## ¿Qué encontrarás en la Cascada Santa Rita 🏞?
 
 {% include youtube.html,
     videoid:"wsWmrXU8xFo",
@@ -26,13 +26,20 @@ Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferr
 
 Suscríbete a nuestro canal de youtube dando click <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-[<a target="_blank" href="https://rutasdelosandes.com/colombia/risaralda/cacada-el-mico.html">Quizás también te pueda interesar conocer algunas rutas ocultas en el eje cafetero</a>]
 
-## ¿Cómo llegar a la Cascada Santa Rita 🛣🚌🚗🛵🚵🏻?
+
+## ¿Cómo llegar a la Cascada Santa Rita 🚌🚗🛵🚵🏻?
 
 Para llegar a las cascadas de Santa Rita tuvimos que tomar un bus con destino Salento y nos bajamos en la vereda Boquía. El valor del pasaje es de $7.000 Pesos desde el terminal de Pereira, el bus sale a partir de las 6:30 am con una frecuencia de 1 hora.
 También puedes tomar el bus desde Armenia hasta Salento.
 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 Después de tomar el bus nos tardamos aproximadamente 40 minutos para llegar a Boquía, una vez allí empezamos nuestra ruta.
 
@@ -42,7 +49,11 @@ __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que much
 
 Desde la vereda Boquía hasta la entrada del sendero hay aproximadamente 1 kilómetro, el camino está en buen estado, nos tardamos 40 minutos caminando para llegar a la finca Santa Rita.
 
-En la finca Santa Rita brindan servicio de: Hospedaje camping 🏕 $15.000 Pesos por persona, habitación $40.000 Peso por persona, Desayuno $6.000 Pesos y Almuerzos $8.000 pesos y $12.000 pesos(trucha).
+En la finca Santa Rita brindan servicio de: 
+* Camping 🏕 $15.000 Pesos por persona.
+* Habitación $40.000 Peso por persona. 
+* Desayuno $6.000 Pesos.
+* Almuerzos $8.000 pesos y $12.000 pesos(trucha).
 
 Para seguir nuestro camino a las cascadas tuvimos que pagar $5.000 Pesos. Nos dieron una manilla con la cual ingresamos.
 
@@ -83,10 +94,6 @@ Este es el fin de la ruta a la Cascada Santa Rita, __no te olvides de seguirnos 
     <section>
       <h4>🍲 Alimentación $12.000</h4>
       <p> Podrán comprar comida en Santa Rita</p>
-    </section>
-    <section>
-      <h4> 🧔Guía $20.000</h4>
-      <p> Mínimo 5 personas - máximo 10 personas por guía</p>
     </section>
     <section>
       <h4> 🚌💨🏃‍ Imprevistos</h4>

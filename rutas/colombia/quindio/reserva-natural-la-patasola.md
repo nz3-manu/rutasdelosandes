@@ -43,11 +43,21 @@ una vez aquí estamos listos para empezar nuestro recorrido a la Reserva Natural
 %}
 
 ## El camino 🚙🛵🚴🏼🚶 
+
 En la vereda Boquia van a encontrar restaurantes 🍛 el valor promedio de un almuerzo es $9.000 pesos. En la reserva la patasola no van a encontrar tiendas ni nada por el estilo.
 Para llegar a la reserva la Patasola se puede llegar en carro, moto o bicicleta la ruta se encuentra en muy buen estado además de esto cerca de la reserva se van a encontrar con la casa del guardabosque en la cual Podrán dejar los carros🚗, motos🛵 o bicicletas🚲. 
 Esta reserva no cuenta con zona de camping 🚫🏕 .
 
-Desde la Vereda Boquia a la Reserva Natural la Patasola hay 10 kilómetros el trayecto es todo en subida, encontrarán alquiler de bicicleta🚲 a $8.000 pesos la hora o alquiler de caballo🐴 $20.000 pesos la hora.  
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
+Desde la Vereda Boquia a la Reserva Natural la Patasola hay 10 kilómetros el trayecto es todo en subida, encontrarán alquiler de bicicleta🚲 a $8.000 pesos la hora.
+
 Una vez dicho esto podremos empezar nuestro recorrido. La ruta que vamos a seguir es la siguiente:
 
 {% include iframe.html,
@@ -91,6 +101,15 @@ _Segundo camino:_ Se encuentra a mano derecha, este va hacia el sendero donde se
 Si la encuentran cerrada pueden abrirla y al momento de salir dejarla como la encontraron.
 
 El sendero normal cuenta con solo 1 cascada, así que nos tendremos que desviar 5 minutos de este sendero si queremos ver 2 cascadas mas. Este camino que vamos a tomar aun no esta señalizado, ya que recientemente encontraron estas cascadas, esperamos que lo más pronto se encuentre señalizado🤗. 
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 Después de tomar el sendero vamos a escuchar el sonido de una cascada esta será la segunda que vamos a ver al regreso. Unos pocos metros más adelante nos encontraremos un pequeño río deberemos seguir su cauce por 1 minuto y  encontraremos la primera cascada.
 
             

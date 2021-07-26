@@ -13,8 +13,6 @@ trending: true
 
 En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
-El precio para hacer la ruta en 1 día con agencia es de aproximadamente $300.000 Pesos por persona, saliendo desde Pereira o Manizales, el precio dependerá del numero de personas que vayan, __<a target="_blank" href="https://forms.gle/smxdE1EnUovRpu937"> más información aquí</a>__.
-
 Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See post to Laguna Del Otún  in English 🇬🇧</a>]__
@@ -111,7 +109,16 @@ Foto desde la asomadera o mirador de Potosí.
 
 Desde la asomadera hasta la casa del guardabosques que es el lugar en que se encuentra la zona de camping ⛺️ son aproximadamente 2 horas, el camino continúa por carretera bordeando la laguna del otún. Cada vez que nos acerquemos a la laguna del otún el camino comienza a volver más angosto. Si no conoces bien el camino será muy fácil que te pierdas! :(.
 
-En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰
+En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 
 __Recomendación:__ por este tramo se tendrán que pasar por piedras y algunas peñas las cuales es recomendable pasar antes de que caiga la noche.
 

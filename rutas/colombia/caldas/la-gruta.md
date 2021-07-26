@@ -26,6 +26,7 @@ Es  un lugar con gran belleza natural donde se funden montañas con páramos que
 </amp-carousel>
 
 ## ¿Cómo llegar a la La Gruta 🚌🚗🛵🚵🏻?
+
 Lo primero  que tenemos que hacer es llegar a la ciudad de Manizales. Una vez allí nosotros nos encontramos con un hostal que está situado en el centro histórico de Manizales cerca del Palacio de Bellas Artes y la plaza Bolívar ver hostal __<a href="http://www.booking.com/hotel/co/hostal-kaleidoscopio.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__, otra opción un poco mas económica pero no menos confortable es un hostal que se encuntra cerca de la universidad de Caldas __<a href="http://www.booking.com/hotel/co/mountain-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__. Despues un descanso 😴, salimos a conocer un poco de esta hermosa ciudad llena de historia 😍🌃.
 
 Al día siguiente nosotros llegamos al parque del municipio de Villamaría donde tomamos a pocas cuadras el bus para la vereda Gallinazo el valor aproximado del pasaje es $2.000 pesos, la duración del trayecto es 30 minutos. Nos bajamos en Termales el Otoño, este es el último punto dónde sube el bus antes de regresar a Manizales.
@@ -40,6 +41,14 @@ Si vas en 🚗 carro, moto 🛵 o bicicleta🚵🏻 puedes descargar nuestra rut
 
 ## Ruta a la Gruta 🚶🏼🚵🏻
 Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 horas caminando, en total estaríamos caminando 24 kilómetros(ida y regreso)😋, el camino no es sendero además de esto te encontrarás con algunos carros 🚗, motos 🛵 y bicicletas 🚵🏻, lo que dificulta un poco la caminata 🚶🏼.
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 __Recomendación:__ La Ruta es recomendable en bicicleta moto o carro ya que la carretera esta en buen estado(verano).
 
