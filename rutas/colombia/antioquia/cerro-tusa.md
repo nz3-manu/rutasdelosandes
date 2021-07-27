@@ -13,9 +13,7 @@ trending: true
 # CERRO TUSA
  
 En este post te contaremos cómo fue nuestra experiencia al conocer __la pirámide natural más alta del mundo (Cerro Tusa)__, te daremos algunos consejos para hacer de esta experiencia lo más agradable posible.
- 
-Un guía local cobrará $250.000 pesos para ir con grupo no máximo de 8 personas, si van menos personas el valor por el grupo seguirá siendo de $250.000. El transporte, la alimentación, el pago de seguros corren por cuenta de la persona. <a target="_blank" href="https://forms.gle/RTemRoEf27Sc5BmX7">__más información aquí.__</a>
- 
+
  
 Empecemos con la aventura ⛰.
  

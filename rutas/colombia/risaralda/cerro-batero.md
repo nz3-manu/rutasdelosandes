@@ -9,6 +9,8 @@ viewranger:
 author: manuel
 ---
 Cerro Batero es el cerro más alto ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
+
+
 hay varias leyendas relacionadas con este imponente cerro, por ejemplo, la leyenda de la diosa Michua que vivía en  Batero y exigía sacrificios humanos; historias que llenan de magia la visita al principal cerro tutelar de Quinchía.
 
 ⚠️ __Recomendaciones:__
