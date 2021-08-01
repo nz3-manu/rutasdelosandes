@@ -52,7 +52,7 @@ Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzo
 Aquí en este post explicaremos como hacerlo por Salento Quindio. 
 
 * __Desde Pereira a Salento:__
-Salen cada  hora a partir de las 6:30 am (fines de semana) y entre semana a las 7:30 am, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
+Salen cada  hora a partir de las 7:30 am fines de semana y entre semana, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
   
 📞 __Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o  <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.__
 
