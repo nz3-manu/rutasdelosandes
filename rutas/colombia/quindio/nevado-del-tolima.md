@@ -11,12 +11,7 @@ author: manuel
 
 # NEVADO DEL TOLIMA
 
-
-En este post encontrarás la siguiente información: 
-
-* <a href="#comollegar"> Cómo llegar al Nevado del Tolima </a>
-* <a href="#rutanevadotolima"> Ruta al Nevado del Tolima </a> 
-*  <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima con numeros de telefonos</a> 
+En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
 Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
 
@@ -47,9 +42,9 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
-Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación posteriormente la documentarémos también . 
+Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación. 
 
-Aquí en este post explicaremos como hacerlo por Salento Quindio. 
+La rua que nosotros realizamos fue por Salento Quindio.
 
 * __Desde Pereira a Salento:__
 Salen cada  hora a partir de las 7:30 am fines de semana y entre semana, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
@@ -61,10 +56,10 @@ Salen cada  30 minutos a partir de las 5:30 am, el valor del pasaje es aproximad
 
 📞 __Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
 
-Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar un jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
+Una vez en Salento nos dirigimos al parque principal ⛪️ donde tomamos el jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
 
 
-Una vez aquí ya estamos listos para empezar nuestro camino ⛰.
+una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo todo lo que se venia 😅.
 
 <p id="rutanevadotolima"></p>
 
@@ -83,7 +78,6 @@ __Recomendación: Para hacer esta ruta debes estar como mínimo a las 6:30 am__
 Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
 
 Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación.
-En la sección de los hospedajes disponibles en el Nevado del Tolima dejaremos  los contactos para el servicio de arriería.
 
 __Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañón__
 
@@ -125,7 +119,7 @@ height:"200" %}
 </a>
 
 
-__Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con alguien que conozca el camino. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
+__Recomendación:__ _Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con un guía especializado. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._
 
 Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después  entrar  a ver la belleza de los páramo que se funden con la vegetación  del bosque.
 
@@ -137,9 +131,9 @@ Una vez de haber dejado atrás  Estrella de agua, nos espera un ascenso de 4 kil
  height:"506" 
  %}
 
-Después de dejar el bosque atrás cruzamos por el Valle de los Perdidos, por este valle no se recomienda caminar cuando oscurece ya que sería muy fácil perderse.
-Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje. 
+Después de dejar el bosque atrás cruzamos por el Valle de los Perdidos, por este valle no se recomienda caminar cuando oscurece ya que es muy fácil perderse, escuchamos personas que les toco dormir en la noche en este lugar y esto es muy peligroso ya que las temperaturas en este lugar son muy bajas y te podría dar hipotermia.
 
+Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje. 
 
 <p id="hospedajesnevadotolima"></p>
 
@@ -208,6 +202,8 @@ Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban 
 Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginarán las lomitas que toca subir 😅.
 
 Al llegar a Arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
+
+No olvides llevar de nuevo contigo toda la basura, ya que es triste ver en este lugar tantas botellas plásticas 🥲.
 
 Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
 
@@ -289,7 +285,7 @@ Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nu
 
 ### TERMALES DEL CAÑÓN
 
-A este lugar nos demoramos en llegar aproximadamente 3 horas  contando de que íbamos con nuestras mochilas.
+Desde arenales (Base del nevado del Tolima) hasta los termales del Cañon nos demoramos en llegar aproximadamente 5 horas, el camino no se encuentra muy señalizado y es muy fácil perderse, nuestra recomendación es que así vayas con guía siempre lleves tu celular con la ruta Gps para guiarte en caso de una emergencia.
 
 {% include image.html, 
 file:"rutas/quindio/nevado-del-tolima/termales-canon.jpeg", 
@@ -300,6 +296,7 @@ height:"900" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitragog/"  target="_blank"> @catabuitragog </a> </span>__
  
 #### Los servicios que prestan en Termales del Cañón son los siguientes:
+
 * Camping ⛺️ : $10.000 pesos por persona con derecho a la piscina de aguas termales. 
 * Arepa con queso 🧇: $2.000 pesos.
 * Almuerzo y cena 🍛 : $10.000 pesos, se debe de llamar con anticipación, ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
@@ -327,8 +324,10 @@ La otra opción que puedes contemplar para regresar sería por  Palomar en Anzo�
 
 Tambien podrás salir por Juntas en Tolima aunque es mucho más lejos.
 
-__Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones.
+__Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones. 
 
-Este es el fin de la ruta a Bahía Málaga, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Además de ir con un guía te recomendamos llevar la ruta a realizar en un Gps o en tu celular para que así te puedas guiar en caso de presentarse una emergencia.
+
+Este es el fin de la ruta al Nevado del Tolima, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
