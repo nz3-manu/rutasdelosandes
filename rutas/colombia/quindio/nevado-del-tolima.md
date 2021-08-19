@@ -13,7 +13,10 @@ author: manuel
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
-Solo te queremos pedir que tomes todas la medidas de bioseguridad al llegar a los hospedajes ya que estos son fincas y algunos de estos pobladores te harán sentir como en familia y se les olvidarán las medidas de bioseguridad.
+Lo que encontraras en este post:
+* <a href="#comollegar"> Cómo llegar al Nevado del Tolima</a>
+* <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima</a>
+* <a href="#rutanevadotolima"> Ruta al nevado del Tolima</a>
 
 El precio para hacer la ruta con una agencia es de  aproximadamente $1'200.000 Pesos por persona, saliendo desde Pereira o Armenia.
 
@@ -302,7 +305,9 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitra
 
 * Camping ⛺️ : $10.000 pesos por persona con derecho a la piscina de aguas termales. 
 * Arepa con queso 🧇: $2.000 pesos.
-* Almuerzo y cena 🍛 : $10.000 pesos, se debe de llamar con anticipación, ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
+* Almuerzo y cena 🍛 : $10.000 pesos, se debe de llamar con anticipación. 
+
+Ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
 
 📞 __Teléfono: <a href="tel: 3227615934"> 3227615934</a> Edil__
 
@@ -326,6 +331,8 @@ Al siguiente día regresando de nuevo al Valle del Cocora.
 __Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones. 
 
 Además de ir con un guía te recomendamos llevar la ruta a realizar en un Gps o en tu celular para que así te puedas guiar en caso de presentarse una emergencia.
+
+
 
 Este es el fin de la ruta al Nevado del Tolima, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
