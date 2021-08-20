@@ -45,21 +45,21 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
-Para llegar al Nevado del Tolima se puede llegar por: Salento Quindio o por Anzoátegui tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación. 
+Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación. 
 
-La rua que nosotros realizamos fue por Salento Quindio.
+La ruta que nosotros realizamos fue por Salento Quindio.
 
 * __Desde Pereira a Salento:__
-Salen cada  hora a partir de las 7:30 am fines de semana y entre semana, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
+Los Buses salen todos los dias  a partir de las 7:30 am cada hora, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
   
 📞 __Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o  <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.__
 
 * __Desde Armenia a Salento:__
-Salen cada  30 minutos a partir de las 5:30 am, el valor del pasaje es aproximadamente de $5.300 pesos el último sale a las 8:00 pm.  Empresa de Buses: Expreso Alcalá.
+Los Buses salen  a partir de las 5:30 am cada  30 minutos, el valor del pasaje es aproximadamente de $5.300 pesos. Una de las empresas de buses es: Expreso Alcalá.
 
 📞 __Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
 
-Una vez en Salento nos dirigimos al parque principal ⛪️ donde tomamos el jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
+Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos, la duración del trayecto son 20 minutos.
 
 
 una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo todo lo que se venia 😅.
@@ -76,11 +76,11 @@ height:"200" %}
 
 ## RUTA AL NEVADO DEL TOLIMA
 
-__Recomendación: Para hacer esta ruta debes estar como mínimo a las 6:30 am__
+__Recomendación: Para hacer esta ruta recomiendan estar como mínimo a las 6:30 am en el Valle del Cocora__
 
-Las primeras fincas en las que nos podríamos hospedar se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
+Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
 
-Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación.
+Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación (más abajo te dejaremos los teléfonos).
 
 __Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañón__
 
