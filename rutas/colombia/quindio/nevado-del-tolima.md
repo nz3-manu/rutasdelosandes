@@ -86,7 +86,7 @@ __Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañó
 
 {% include iframe.html
    type:"custom"
-   mid:"1emw98lE7EKmocsRnxuyEoKlOs6Bc3XAc&hl=en"
+   mid:"1tEzBVzj-1e34pg5DIajHGq2hXIVRGEjb&hl=en"
    caption:"Mapa valle del cocora y Arenales"
 %}
 
@@ -287,16 +287,12 @@ __Recuerda:__
 
 Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje, y salimos a las a las 12 pm de nuevo para la finca la playa donde pasaríamos la noche.
 
-Este es el final de la ruta, solo te queremos decir que si te sobra comida puedes dejarla en algunas fincas que más lo necesitan como: Finca la Playa o Estrella de Agua. recuerda bajar toda la basura que generes.
-
 ### DÍA #4
 Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que esta fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
- 
 
 __Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones. 
 
 Además de ir con un guía te recomendamos llevar la ruta a realizar en un Gps o en tu celular para que así te puedas guiar en caso de presentarse una emergencia.
-
 
 Este es el fin de la ruta al Nevado del Tolima, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
