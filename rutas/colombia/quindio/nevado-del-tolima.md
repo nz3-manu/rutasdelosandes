@@ -285,53 +285,17 @@ __Recuerda:__
 * Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
 * Revisa bien tu equipo de montaña; Crampones, piolet, casco y arnés.
 
-Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje de nuevo e hicimos algo para almorzar, y salimos a las 2 pm para Termales el Cañón.
+Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje, y salimos a las a las 12 pm de nuevo para la finca la playa donde pasaríamos la noche.
 
-El precio de las agencias que dimos al comienzo es solo ir hasta el nevado del Tolima ellos muchos no incluyen termales del cañon.
-
-### TERMALES DEL CAÑÓN
-
-Desde arenales (base del nevado del Tolima) hasta los termales del Cañon nos demoramos en llegar aproximadamente 4 horas, la ruta que tomamos fue rodeamos el nevado del Tolima por un costado, el camino no se encuentra muy señalizado y es muy fácil perderse, nuestra recomendación es que así vayas con guía siempre lleves tu celular con la ruta Gps para guiarte en caso de una emergencia.
-
-{% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/termales-canon.jpeg", 
-caption:"Termales del Cañón", 
-width:"1200", 
-height:"900" %}
-
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitragog/"  target="_blank"> @catabuitragog </a> </span>__
- 
-#### Los servicios que prestan en Termales del Cañón son los siguientes:
-
-* Camping ⛺️ : $10.000 pesos por persona con derecho a la piscina de aguas termales. 
-* Arepa con queso 🧇: $2.000 pesos.
-* Almuerzo y cena 🍛 : $10.000 pesos, se debe de llamar con anticipación. 
-
-Ya que no hay muy buena señal te aconsejamos dejar un mensaje de texto con los servicios que necesitas y en qué fechas.
-
-📞 __Teléfono: <a href="tel: 3227615934"> 3227615934</a> Edil__
-
-__Servicio de arriería en Termales del Cañón 🐴 máximo 3 maletas:__
-* Termales del Cañón hasta Arenales: $70.000 Pesos.
-* Termales del Cañón hasta Palomar en Anzoátegui Tolima: $100.000 Pesos.
-
-📞 __Teléfono: <a href="tel: 3208978913"> 3208978913</a> o <a href="tel: 3227333453"> 32089732273334538913</a> Don Benjamín__
-
-Este es el final de la ruta, solo te queremos decir que si te sobra comida puedes dejarla en algunas fincas que más lo necesitan como: Termales el Cañón, Finca la Playa o Estrella de Agua. recuerda bajar toda la basura que generes.
- 
-## ¿CÓMO REGRESAR DEL NEVADO DEL TOLIMA?
+Este es el final de la ruta, solo te queremos decir que si te sobra comida puedes dejarla en algunas fincas que más lo necesitan como: Finca la Playa o Estrella de Agua. recuerda bajar toda la basura que generes.
 
 ### DÍA #4
-Al siguiente día enviamos nuestro equipaje en mula para subir un poco más livianos, subimos hasta Arenales y después hasta la Finca la Playa donde nos quedamos a dormir.
-
-### DÍA #5
-Al siguiente día regresando de nuevo al Valle del Cocora.
-
+Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que esta fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
+ 
 
 __Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones. 
 
 Además de ir con un guía te recomendamos llevar la ruta a realizar en un Gps o en tu celular para que así te puedas guiar en caso de presentarse una emergencia.
-
 
 
 Este es el fin de la ruta al Nevado del Tolima, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
