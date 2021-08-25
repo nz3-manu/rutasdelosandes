@@ -87,7 +87,7 @@ __Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañó
 {% include iframe.html
    type:"custom"
    mid:"1emw98lE7EKmocsRnxuyEoKlOs6Bc3XAc&hl=en"
-   caption:"Mapa valle del cocora, Arenales y Termales del Cañón"
+   caption:"Mapa valle del cocora y Arenales"
 %}
 
 ### DÍA #1
