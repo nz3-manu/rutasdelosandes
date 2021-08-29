@@ -2,7 +2,7 @@
 layout: trail
 title:  Norcasia Caldas
 categories: colombia
-seo_title: 
+seo_title: Guia completa de Norcasia-Caldas
 excerpt: Guia completa de viaje para conocer todo lo turístico en Norcasia, te mostraremos qué lugares debes visitar, cómo llegar a Norcasia y donde hospedarte.
 images_url: /images/rutas/caldas/norcasia
 viewranger:
@@ -124,7 +124,7 @@ Al siguiente día nos encontramos con las demás personas del tour (20 personas)
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal norcasia la dorada y los 30 minutos restantes fue por una carretera destapada, Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para empezar la primera actividad la cual era nadar por el río cerca de 7 kilómetros, sobre el río la miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
+ file:"rutas/caldas/norcasia/rio-la-miel.jpg",
  caption:"Río la miel",
  width:"1200",
  height:"674"
@@ -133,7 +133,7 @@ El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobr
 Después de nadar cerca de 3 horas por el río, nos llevaron a otro lugar donde el río era un poco más cristalino, y almorzamos en este lugar.
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/rio-almuerzo.jpg",
+ file:"rutas/caldas/norcasia/rio-almuerzo.jpg",
  caption:"Río la miel",
  width:"1200",
  height:"674"
@@ -142,7 +142,7 @@ Después de nadar cerca de 3 horas por el río, nos llevaron a otro lugar donde 
 Después de descansar un poco en este río, nos llevaron de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha, allí nos llevaron en los carros cerca del pueblo (norcasia) a ver una cascada que queda a 1 kilómetro de la carretera el nombre de la cascada es la clara.
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
+ file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
  caption:"Cascada la clara",
  width:"1200",
  height:"674"
@@ -161,7 +161,7 @@ Este lugar debe de estar sin duda en tu lista para visitar.
  
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/embalse-amani.jpg",
+ file:"rutas/caldas/norcasia/embalse-amani.jpg",
  caption:"Embalse de amani",
  width:"1200",
  height:"674"
@@ -174,7 +174,7 @@ __Mirador del embalse de amani:__ este se encuentra a un costado de la carretera
 Allí podrás encontrar restaurante o tambien comida de alguno pobladores que salen a vender sus productos, sería bueno que pudieras disfrutar más de este lugar
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
+ file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
  caption:"Mirador embalse de Amani",
  width:"1200",
  height:"674"
@@ -185,7 +185,7 @@ Después de tomar nuestro refrigerio continuamos con nuestro recorrido para segu
 __Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar (la carretera esta en muy buen estado).
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/rio-manso.jpg",
+ file:"rutas/caldas/norcasia/rio-manso.jpg",
  caption:"Río manso",
  width:"1200",
  height:"674"
@@ -196,7 +196,7 @@ __Lugares que no están en el tour y deberían visitar__
 * __Cañon del río la miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del embalse amani, sus aguas se conectan con el río magdalena.
  
 {% include image.html,
-  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
+ file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
  caption:"Cañon Rio la miel",
  width:"1200",
  height:"674"
