@@ -92,7 +92,7 @@ __Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañó
 
 ### DÍA #1
 
-Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales, en el cual nos cobraron $5.000 pesos, nos dieron un tiquete con el cual ya podremos ingresar al parque, nos preguntaran cuál va a ser el recorrido que vamos a hacer y llenaremos una planilla con nuestra información y número de contactos.
+Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales, en el cual nos cobraron $8.000 pesos, nos dieron un tiquete con el cual ya podremos ingresar al parque, nos preguntaron cuál era el recorrido que íbamos a hacer y llenaremos una planilla con nuestra información y número de contactos.
 
 Continuamos nuestro camino y con cada paso que dábamos dejamos atrás las palmas de cera y nos adentramos más en bosque, cruzamos algunos puentes y pasamos cerca de la casa de los colibrí, que hasta la fecha este lugar se encuentra cerrado.
 
