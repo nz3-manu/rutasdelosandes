@@ -99,7 +99,7 @@ Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los
    caption:"Mapa desierto de la Tatacoa "
 %}
  
-### DIA #1
+### DÍA #1
 Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demoró mas o menos 30 minutos. Esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼.
  
 No hay nada mejor que refrescarse en una piscina en un día soleado ☀️.
@@ -161,7 +161,7 @@ Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronóm
    caption:"Observatorio"
 %}
 
-### DIA #2
+### DÍA #2
 Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $7.000 pesos. También alquilan caballos 🐴, valor 1 hora por $15.000 pesos.
  
 __Todos los precios mencionados anteriormente pueden variar en temporada alta.__

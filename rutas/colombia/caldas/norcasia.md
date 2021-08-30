@@ -34,7 +34,12 @@ Norcasia está ubicada al oriente caldense a 43 kilómetros de la dorada Caldas,
  
 ## ¿Qué encontrarás en Norcasia?
  
--- video --
+{% include youtube.html,
+    videoid:"A-oYwJF3EsQ",
+    width:"480",
+    height:"270",
+    caption:"Norcasia"
+%}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
@@ -116,7 +121,7 @@ Después de una rica cena, nos fuimos a descansar ya que al siguiente día empez
  
 ## Lugares turísticos en Norcasia caldas 🚎
  
-### Dia 1
+### Día # 1
 __Rio la miel__
 
 Al siguiente día nos encontramos con las demás personas del tour (20 personas) cerca al parque de Norcasia, desayunamos y después nos recogieron los carros para empezar el tour.
@@ -151,7 +156,7 @@ Después de descansar un poco en este río, nos llevaron de nuevo en las lanchas
  
 Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes donde descansamos para empezar al siguiente día con el último día del tour.
  
-### Dia 2
+### Día # 2
  
 Al siguiente día llegamos de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
  
@@ -207,9 +212,9 @@ Al llegar a Norcasia te encontrarás con diferentes agencias que podrán mostrar
  
 También queremos hacer claridad que entre más grande sea la agencia de viajes más gente será la que acompañará en el tour, cuando son fines de semana llegan muchos más viajeros y si es fin de semana con día festivo llegaran mas, para que te hagas una idea el fin de semana anterior al que nosotros fuimos (el lunes era festivo), llegaron aproximadamente 600 viajeros para un pueblo que tiene solo 6.374 habitantes esto es mucha gente.
  
-Por último, si vas con un grupo de amigos o familia y tu plan es ir a disfrutar de la naturaleza y quieres pasar más tiempo en algunos lugares te recomendamos pagar un tour privado, ya que así disfrutarás más de este hermoso lugar con las personas cercanas a ti.
- 
-Si necesitas ayuda para elegir una agencia que te realice el tour puedes dar click aquí.
+Por último, si vas con un grupo de amigos o familia y tu plan es ir a disfrutar de la naturaleza y quieres pasar más tiempo en algunos lugares te recomendamos hacer el tour privado.
+
+Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para ayudarte a elegir la mejor de agencia de viajes.
  
 Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado.
  

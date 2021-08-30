@@ -40,6 +40,8 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## ¿CÓMO LLEGAR A BAHÍA MÁLAGA?
 
+### DÍA #1
+
 Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este queda a pocas cuadras de la terminal ), allí encontramos diferentes empresas y paquetes de turismo, si vas a comprar un paquete turístico recuerda siempre consultarlo directamente en las agencias, no con intermediarios.
 
 Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea Juanchaco y Ladrilleros, el hostal llamara a la empresa de transporte fluvial con la que opera para que los desembarquen cerca de sus instalaciones, esto fue un acuerdo que se hizo entre las comunidades que viven en esta zona y las empresas de transporte fluvial para permitir que los turistas pudieran llegar a hospedajes de locales y así ayudar a la economía de estas.
@@ -159,6 +161,8 @@ Al día siguiente la emoción de todos nosotros era evidente 🥳 ya que ese dia
 
 ## TOURS EN LANCHA POR BAHÍA MÁLAGA 🚤
 
+### DÍA #2
+
 Si te vas a quedar en algun hostal cerca de Bahía Málaga puedes consultar los precios de tours directamente con ellos. 
 
 Otra opción es hacer estos recorridos en un mismo día desde el muelle turístico de buenaventura (podrás encontrar el número del muelle en internet).
@@ -193,6 +197,7 @@ __Todos los precios mencionados en el blog dependen de la temporada en que se vi
 
 ## ¿CÓMO REGRESAR DE BAHÍA MÁLAGA?
 
+### DÍA #3
 Es recomendable salir en la horas de la mañana, ya que en la tarde es más probable que el mar se piqué 🌊 (se ponga turbulento) y suspendan el tránsito de las lanchas. 
 
 Debes tener en cuenta que los horarios de buses del terminal de buenaventura para algunos destinos del país solo saldrán hasta las 4 pm.
