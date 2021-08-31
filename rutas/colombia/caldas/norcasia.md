@@ -12,12 +12,12 @@ trending: true
  
 # Norcasia 
  
-En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con el tour que realizamos y que sitios ellos no incluyeron en el tour que tu no deberías perderte.
+En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios ellos no incluyeron en el tour que tu no deberías perderte.
 
-Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes 
+Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>.__ 
 
 
-si no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
+si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
 
 __En este post encontrarás la siguiente información:__
 
@@ -92,7 +92,7 @@ A continuación te compartimos algunas opciones de hospedajes en Norcasia, si ll
  
 ## Hospedaje en Norcasia 🛌
  
-### Hotel Buenos aires 
+### Hotel Buenos Aires 
 
 Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
 
@@ -101,7 +101,7 @@ Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer pi
 
 📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a>.__
  
-### Hotel el pescador
+### Hotel el Pescador
 
 Este hotel se encuentra a pocas cuadras del parque principal.
 * Hospedaje 🛏: $30.000 pesos por persona.
@@ -111,18 +111,19 @@ Este hotel se encuentra a pocas cuadras del parque principal.
 
 Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otros hospedajes en algunas fincas cerca al río la miel
 
-### Finca puerto Rico
+### Finca Puerto Rico
+
 * Hospedaje 🛏: $170.000 pesos por persona(incluye: desayuno, almuerzo y comida)
  
 📞 __Teléfono: <a href="tel:3146154539"> 3146154539</a>.__
 
-Si tienes algún hotel para recomendar nos puedes escribir a nuestras redes sociales para agregarlo.
+Si tienes algún hotel para recomendarnos puedes escribir a nuestras redes sociales.
 
 _Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
-Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es: __“El Sababor Norcaseño”__
+Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
-Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
+Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (Costo del tour: $380.000).
  
 <p id="lugaresnorcasia"></p>
  
@@ -158,7 +159,7 @@ Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto 
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
- caption:"Cascada la clara",
+ caption:"Cascada la Clara",
  width:"1200",
  height:"674"
 %}
@@ -170,7 +171,7 @@ Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes, do
  
 Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
  
-__Embalse de Amaní:__ El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
+__Embalse de Amaní:__ el recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
  
 _Este lugar debe de estar sin duda en tu lista para visitar._
  
@@ -183,7 +184,7 @@ _Este lugar debe de estar sin duda en tu lista para visitar._
  
 Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
-__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos (en carro) del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió :(.
+__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió :(.
 
 Allí podrás encontrar restaurante o también comida de alguno pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
@@ -196,7 +197,7 @@ Allí podrás encontrar restaurante o también comida de alguno pobladores que s
  
 Después de tomar el refrigerio continuamos con el recorrido para seguir con nuestro siguiente destino.
  
-__Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar (la carretera esta en muy buen estado).
+__Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
@@ -209,15 +210,14 @@ Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parq
 
 __Lugares que no están en el tour y deberían visitar__
  
-* __Cañon del río la miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
+* __Cañon del Río la Miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
- caption:"Cañon Rio la miel",
+ caption:"Cañon Rio la Miel",
  width:"1200",
  height:"674"
 %}
-
  
 Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
  
