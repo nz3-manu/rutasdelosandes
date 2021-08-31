@@ -2,15 +2,15 @@
 layout: trail
 title:  Guía Completa de Norcasia 
 categories: colombia
-seo_title: Guia completa de Norcasia-Caldas
-excerpt: Conoce el Embalse de Amaní, Rio la Miel y Rio Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.
+seo_title: Guia completa de Norcasia
+excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.
 images_url: /images/rutas/caldas/norcasia
 viewranger:
 author: manuel
 trending: true
 ---
  
-# Norcasia 
+# NORCASIA
  
 En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios ellos no incluyeron en el tour que tu no deberías perderte.
 
@@ -24,16 +24,15 @@ __En este post encontrarás la siguiente información:__
 * <a href="#comollegarnorca"> ¿Cómo llegar a Norcasia ? </a>
 *  <a href="#hospedajenorca"> Hospedajes disponibles en Norcasia </a>
 *  <a href="#lugaresnorcasia"> Lugares turísticos en Norcasia caldas </a>
-* <a href="#rutanevadoruiz"> ¿Cómo regresar de Norcasia? </a>
  
  
-## Datos curiosos sobre Norcasia 
+## DATOS CURIOSOS SOBRE NORCASIA  
 
 Norcasia es el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
  
 Norcasia está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
  
-## ¿Qué encontrarás en Norcasia?
+## ¿QUÉ ENCONTRARÁS EN NORCASIA?
  
 {% include youtube.html,
     videoid:"A-oYwJF3EsQ",
@@ -46,11 +45,11 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
  
 <p id="comollegarnorca"></p>
  
-## ¿Cómo llegar a Norcasia 🚌 ?
+## ¿CÓMO LLEGAR A NORCASIA 🚌?
  
 Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opciones para que lo puedas hacer:
  
-__Desde Manizales:__
+### DE MANIZALES A NORCASIA:
  
 * __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada, valor pasaje $35.000 pesos.
  
@@ -60,11 +59,13 @@ __Desde Manizales:__
 
 📞 __Teléfono: <a href="tel: 3153914211"> 3153914211</a>__
 
-__Desde algunas principales ciudades de Colombia:__
+### DESDE ALGUNAS PRINCIPALES CIUDADES DE COLOMBIA A NORCASIA:
 
-* __Medellin - La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
-* __Bogota - La Dorada:__ El valor del pasaje es de aproximadamente $40.000, algunas empresas son: Expreso Bolivariano, Rápido Ochoa, la duración del trayecto es alrededor de 5 horas.
-* __Cali - La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
+* __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
+
+* __Bogota a La Dorada:__ El valor del pasaje es de aproximadamente $40.000, algunas empresas son: Expreso Bolivariano, Rápido Ochoa, la duración del trayecto es alrededor de 5 horas.
+
+* __Cali a La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
 
 _Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._
  
@@ -72,7 +73,7 @@ Al llegar a la Dorada se debe de tomar otro bus que te lleve hasta Norcasia, est
  
 Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
-## Ruta en Norcasia 🚤
+## RUTA EN NORCASIA 🚤
  
 Una vez llegamos a Norcasia nos sorprendió que a pesar de ser un pueblo pequeño los hoteles abundan en este lugar, así que tendrás muy buenas opciones para hospedarte.
  
@@ -90,9 +91,9 @@ A continuación te compartimos algunas opciones de hospedajes en Norcasia, si ll
  
 <p id="hospedajenorca"></p>
  
-## Hospedaje en Norcasia 🛌
+## HOSPEDAJE EN NORCASIA 🛌
  
-### Hotel Buenos Aires 
+### HOTEL BUENOS AIRES 
 
 Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
 
@@ -101,23 +102,13 @@ Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer pi
 
 📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a>.__
  
-### Hotel el Pescador
+### HOTEL EL PESCADOR
 
 Este hotel se encuentra a pocas cuadras del parque principal.
 * Hospedaje 🛏: $30.000 pesos por persona.
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
  
 📞 __Teléfono: <a href="tel: 3107234504"> 3107234504</a>.__
-
-Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otros hospedajes en algunas fincas cerca al río la miel
-
-### Finca Puerto Rico
-
-* Hospedaje 🛏: $170.000 pesos por persona(incluye: desayuno, almuerzo y comida)
- 
-📞 __Teléfono: <a href="tel:3146154539"> 3146154539</a>.__
-
-Si tienes algún hotel para recomendarnos puedes escríbirnos a nuestras redes sociales.
 
 _Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
@@ -127,17 +118,17 @@ Después de una rica cena, nos fuimos a descansar ya que al siguiente día empez
  
 <p id="lugaresnorcasia"></p>
  
-## Lugares turísticos en Norcasia caldas 🚎
+## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
  
-### Día # 1
+### DÍA # 1
 
-__Rio la miel__
+#### RÍO LA MIEL
 
 Al siguiente día nos encontramos con las demás personas que nos acompañarian en el tour (éramos 20 personas en total) cerca al parque de Norcasia, desayunamos y después nos recogieron los carros para empezar el tour.
  
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada. 
 
-Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el rio la miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
+Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el río la Miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
@@ -166,12 +157,15 @@ Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto 
  
  
 Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
+
  
-### Día # 2
+### DÍA # 2
  
 Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
  
-__Embalse de Amaní:__ el recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
+#### EMBALSE DE AMANÍ
+
+El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
  
 _Este lugar debe de estar sin duda en tu lista para visitar._
  
@@ -184,7 +178,9 @@ _Este lugar debe de estar sin duda en tu lista para visitar._
  
 Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
-__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
+#### MIRADOR DEL EMBALSE DE AMANÍ
+
+Este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
 
 Allí podrás encontrar restaurante o también comida de alguno pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
@@ -197,7 +193,9 @@ Allí podrás encontrar restaurante o también comida de alguno pobladores que s
  
 Después de tomar el refrigerio continuamos con el recorrido para seguir con nuestro siguiente destino.
  
-__Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
+#### RÍO MANSO
+
+Este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
@@ -208,13 +206,15 @@ __Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas,
  
 Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminada el tour.
 
-__Lugares que no están en el tour y deberían visitar__
+#### LUGARES QUE NO VISITAMOS EN EL TOUR Y DEBERIAS VISITAR
  
-* __Cañon del Río la Miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
+### CAÑON DEL RÍO LA MIEL
+
+Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
- caption:"Cañon Rio la Miel",
+ caption:"Cañon Río la Miel",
  width:"1200",
  height:"674"
 %}
@@ -227,6 +227,14 @@ Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>
 
 __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
 ## ¿Cómo regresar de Norcasia?
