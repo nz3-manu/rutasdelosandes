@@ -87,7 +87,7 @@ width:"480",
 height:"200" %}
 </a>
  
-A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegarás a tener algún inconveniente con alguno de estos hospedajes no lo puedes hacer saber.
+A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
  
 <p id="hospedajenorca"></p>
  
@@ -97,7 +97,7 @@ A continuación te compartimos algunas opciones de hospedajes en Norcasia, si ll
 
 Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
 
-* Hospedaje 🛏: $30.000 pesos por persona.
+* Hospedaje 🛏: $30.000 pesos por persona (noche).
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
 
 📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a>.__
@@ -105,7 +105,7 @@ Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer pi
 ### HOTEL EL PESCADOR
 
 Este hotel se encuentra a pocas cuadras del parque principal.
-* Hospedaje 🛏: $30.000 pesos por persona.
+* Hospedaje 🛏: $30.000 pesos por persona (noche).
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
  
 📞 __Teléfono: <a href="tel: 3107234504"> 3107234504</a>.__
@@ -114,7 +114,7 @@ _Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
 Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
-Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $380.000 Pesos).
+Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $380.000 Pesos por persona).
  
 <p id="lugaresnorcasia"></p>
  
@@ -186,14 +186,14 @@ Allí podrás encontrar restaurante o también comida de alguno pobladores que s
  
 {% include image.html,
  file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
- caption:"Mirador del Embalse de Amani",
+ caption:"Mirador del Embalse de Amaní",
  width:"1200",
  height:"674"
 %}
  
 Después de tomar el refrigerio continuamos con el recorrido para seguir con nuestro siguiente destino.
  
-#### RÍO MANSO
+#### RÍO MANSO
 
 Este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
  
@@ -223,7 +223,7 @@ Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán most
  
 __Recomendación:__ hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes.
 
-Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para ayudarte a elegir la mejor de agencia de viajes.
+Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para ayudarte a elegir la mejor agencia de viajes.
 
 __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
@@ -237,8 +237,9 @@ height:"200" %}
 
 Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
-## ¿Cómo regresar de Norcasia?
- Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados. 
+## ¿CÓMO REGRESAR DE NORCASIA?
+
+Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados. 
  
 Este es el fin de la ruta en Norcasia, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
