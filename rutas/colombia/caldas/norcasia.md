@@ -12,9 +12,12 @@ trending: true
  
 # Norcasia 
  
-En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con el tour que realizamos y que sitios ellos no incluyeron en el tour que tu no deberías de perderte.
+En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con el tour que realizamos y que sitios ellos no incluyeron en el tour que tu no deberías perderte.
 
-Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
+Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes 
+
+
+si no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
 
 __En este post encontrarás la siguiente información:__
 
@@ -24,13 +27,11 @@ __En este post encontrarás la siguiente información:__
 * <a href="#rutanevadoruiz"> Como regresar de Norcasia </a>
  
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Ver ruta al Nevado del Ruiz en ingles</a>.]__
- 
 ## Datos curiosos sobre Norcasia Caldas
 
 Norcasia es el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
  
-Norcasia está ubicada al oriente caldense a 43 kilómetros de la dorada Caldas, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
+Norcasia está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
  
 ## ¿Qué encontrarás en Norcasia?
  
@@ -51,7 +52,7 @@ Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opcio
  
 __Desde Manizales:__
  
-* __Coopuertos:__ viaja directo a norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta la dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La dorada, valor pasaje $35.000 pesos.
+* __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada, valor pasaje $35.000 pesos.
  
 📞 __Teléfono: <a href="tel: 3162714173"> 3162714173</a>__
  
@@ -59,9 +60,15 @@ __Desde Manizales:__
 
 📞 __Teléfono: <a href="tel: 3153914211"> 3153914211</a>__
 
-Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios.
+__Desde alguna principales ciudades de Colombia:__
+
+* __Medellin - La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
+* __Bogota - La Dorada:__ El valor del pasaje es de aproximadamente $40.000, algunas empresas son: Expreso Bolivariano, Rápido Ochoa, la duración del trayecto es alrededor de 5 horas.
+* __Cali - La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
+
+_Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._
  
-Si vas desde otras ciudades podrás irte hasta la dorada Caldas y estando allí tomar otro bus que te lleve hasta Norcasia, este tardará 1 hora y 30 minutos.
+Al llegar a la Dorada se debe de tomar otro bus que te lleve hasta Norcasia, este tardará aproximadamente 1 hora y 30 minutos, el valor del pasaje es de aproximadamente $13.000 pesos, también hay taxis disponibles que van hasta Norcasia.
  
 Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
@@ -69,7 +76,7 @@ Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
 Una vez llegamos a Norcasia nos sorprendió que a pesar de ser un pueblo pequeño los hoteles abundan en este lugar, así que tendrás muy buenas opciones para hospedarte.
  
-Algo que debes de saber es que en Norcasia no hay servicio de movistar así que si eres de este operador solo podrás recibir llamadas o llamar.
+Algo que debes de saber de Norcasia es que __no hay servicio de movistar así que si eres de este operador no podrás usar los datos de tu celular.__
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -79,11 +86,11 @@ width:"480",
 height:"200" %}
 </a>
  
-Te compartimos algunas opciones.
+A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegarás a tener algún inconveniente con alguno de estos hospedajes no lo puedes hacer saber.
  
 <p id="hospedajenorca"></p>
  
-## Hospedaje en norcasia 🛌
+## Hospedaje en Norcasia 🛌
  
 ### Hotel Buenos aires 
 
@@ -111,7 +118,7 @@ Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otro
 
 Si tienes algún hotel para recomendar nos puedes escribir a nuestras redes sociales para agregarlo.
 
-__Los precios de los hospedajes pueden cambiar dependiendo de la temporada__
+_Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
 Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es: __“El Sababor Norcaseño”__
  
@@ -122,11 +129,14 @@ Después de una rica cena, nos fuimos a descansar ya que al siguiente día empez
 ## Lugares turísticos en Norcasia caldas 🚎
  
 ### Día # 1
+
 __Rio la miel__
 
-Al siguiente día nos encontramos con las demás personas del tour (20 personas) cerca al parque de Norcasia, desayunamos y después nos recogieron los carros para empezar el tour.
+Al siguiente día nos encontramos con las demás personas que nos acompañarian en el tour (éramos 20 personas en total) cerca al parque de Norcasia, desayunamos y después nos recogieron los carros para empezar el tour.
  
-El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal norcasia la dorada y los 30 minutos restantes fue por una carretera destapada, Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para empezar la primera actividad la cual era nadar por el río cerca de 7 kilómetros, sobre el río la miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
+El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada. 
+
+Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el rio la miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
@@ -135,7 +145,7 @@ El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobr
  height:"674"
 %}
  
-Después de nadar cerca de 3 horas por el río, nos llevaron a otro lugar donde el río era un poco más cristalino, y almorzamos en este lugar.
+Después de nadar cerca de 2 horas por el río, nos llevaron a otro lugar donde el río era un poco más cristalino, y almorzamos en este lugar.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-almuerzo.jpg",
@@ -144,7 +154,7 @@ Después de nadar cerca de 3 horas por el río, nos llevaron a otro lugar donde 
  height:"674"
 %}
  
-Después de descansar un poco en este río, nos llevaron de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha, allí nos llevaron en los carros cerca del pueblo (norcasia) a ver una cascada que queda a 1 kilómetro de la carretera el nombre de la cascada es la clara.
+Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
@@ -154,38 +164,37 @@ Después de descansar un poco en este río, nos llevaron de nuevo en las lanchas
 %}
  
  
-Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes donde descansamos para empezar al siguiente día con el último día del tour.
+Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
  
 ### Día # 2
  
-Al siguiente día llegamos de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
+Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
  
-__Embalse de amani:__ El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de historia acerca de su construcción, después de esta explicaciçon regresamos de nuevo al embalse.
+__Embalse de Amaní:__ El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
  
-Este lugar debe de estar sin duda en tu lista para visitar.
- 
+_Este lugar debe de estar sin duda en tu lista para visitar._
  
 {% include image.html,
  file:"rutas/caldas/norcasia/embalse-amani.jpg",
- caption:"Embalse de amani",
+ caption:"Embalse de Amaní",
  width:"1200",
  height:"674"
 %}
  
-Después de este recorrido por el embalse fuimos a tomar un refrigerio, en nuestro camino pasamos por uno de los sitios turísticos que debes incluir en tu lista.
+Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
-__Mirador del embalse de amani:__ este se encuentra a un costado de la carretera a 10 minutos del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que necesitábamos ir por nuestro refrigerio, esto fue algo no me gusto mucho ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió :(.
+__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos (en carro) del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió :(.
 
-Allí podrás encontrar restaurante o tambien comida de alguno pobladores que salen a vender sus productos, sería bueno que pudieras disfrutar más de este lugar
+Allí podrás encontrar restaurante o también comida de alguno pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
- caption:"Mirador embalse de Amani",
+ caption:"Mirador del Embalse de Amani",
  width:"1200",
  height:"674"
 %}
  
-Después de tomar nuestro refrigerio continuamos con nuestro recorrido para seguir con nuestro siguiente destino.
+Después de tomar el refrigerio continuamos con el recorrido para seguir con nuestro siguiente destino.
  
 __Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar (la carretera esta en muy buen estado).
  
@@ -196,9 +205,11 @@ __Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas,
  height:"674"
 %}
  
+Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminada el tour.
+
 __Lugares que no están en el tour y deberían visitar__
  
-* __Cañon del río la miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del embalse amani, sus aguas se conectan con el río magdalena.
+* __Cañon del río la miel:__ Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
@@ -208,18 +219,18 @@ __Lugares que no están en el tour y deberían visitar__
 %}
 
  
-Al llegar a Norcasia te encontrarás con diferentes agencias que podrán mostrar los lugares turísticos, antes de adquirir estos tour asegurate que te lleven a los lugares que quieres ir a conocer.
+Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
  
-También queremos hacer claridad que entre más grande sea la agencia de viajes más gente será la que acompañará en el tour, cuando son fines de semana llegan muchos más viajeros y si es fin de semana con día festivo llegaran mas, para que te hagas una idea el fin de semana anterior al que nosotros fuimos (el lunes era festivo), llegaron aproximadamente 600 viajeros para un pueblo que tiene solo 6.374 habitantes esto es mucha gente.
- 
-Por último, si vas con un grupo de amigos o familia y tu plan es ir a disfrutar de la naturaleza y quieres pasar más tiempo en algunos lugares te recomendamos hacer el tour privado.
+__Recomendación:__ hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes.
 
 Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para ayudarte a elegir la mejor de agencia de viajes.
+
+__Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
-Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado.
+Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
 ## Como regresar de Norcasia 
- Ten en cuenta que los buses de Norcasia para la dorada tienen unos horarios muy limitados. 
+ Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados. 
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
