@@ -1,9 +1,9 @@
 ---
 layout: trail
-title:  Norcasia Caldas
+title:  Guía Completa de Norcasia 
 categories: colombia
 seo_title: Guia completa de Norcasia-Caldas
-excerpt: Guia completa de viaje para conocer todo lo turístico en Norcasia, te mostraremos qué lugares debes visitar, cómo llegar a Norcasia y donde hospedarte.
+excerpt: Conoce el Embalse de Amaní, Rio la Miel y Rio Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.
 images_url: /images/rutas/caldas/norcasia
 viewranger:
 author: manuel
@@ -17,17 +17,17 @@ En este post te mostraremos todo lo que debes de conocer de este mágico lugar, 
 Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>.__ 
 
 
-si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
+Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
 
 __En este post encontrarás la siguiente información:__
 
-* <a href="#comollegarnorca"> Cómo llegar a Norcasia Caldas </a>
+* <a href="#comollegarnorca"> ¿Cómo llegar a Norcasia ? </a>
 *  <a href="#hospedajenorca"> Hospedajes disponibles en Norcasia </a>
 *  <a href="#lugaresnorcasia"> Lugares turísticos en Norcasia caldas </a>
-* <a href="#rutanevadoruiz"> Como regresar de Norcasia </a>
+* <a href="#rutanevadoruiz"> ¿Cómo regresar de Norcasia? </a>
  
  
-## Datos curiosos sobre Norcasia Caldas
+## Datos curiosos sobre Norcasia 
 
 Norcasia es el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
  
@@ -60,7 +60,7 @@ __Desde Manizales:__
 
 📞 __Teléfono: <a href="tel: 3153914211"> 3153914211</a>__
 
-__Desde alguna principales ciudades de Colombia:__
+__Desde algunas principales ciudades de Colombia:__
 
 * __Medellin - La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
 * __Bogota - La Dorada:__ El valor del pasaje es de aproximadamente $40.000, algunas empresas son: Expreso Bolivariano, Rápido Ochoa, la duración del trayecto es alrededor de 5 horas.
@@ -76,7 +76,7 @@ Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
 Una vez llegamos a Norcasia nos sorprendió que a pesar de ser un pueblo pequeño los hoteles abundan en este lugar, así que tendrás muy buenas opciones para hospedarte.
  
-Algo que debes de saber de Norcasia es que __no hay servicio de movistar así que si eres de este operador no podrás usar los datos de tu celular.__
+Algo que debes de saber de Norcasia es que __no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.__
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -117,13 +117,13 @@ Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otro
  
 📞 __Teléfono: <a href="tel:3146154539"> 3146154539</a>.__
 
-Si tienes algún hotel para recomendarnos puedes escribir a nuestras redes sociales.
+Si tienes algún hotel para recomendarnos puedes escríbirnos a nuestras redes sociales.
 
 _Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
 Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
-Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (Costo del tour: $380.000).
+Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $380.000 Pesos).
  
 <p id="lugaresnorcasia"></p>
  
@@ -141,7 +141,7 @@ Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanc
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
- caption:"Río la miel",
+ caption:"Río la Miel",
  width:"1200",
  height:"674"
 %}
@@ -150,7 +150,7 @@ Después de nadar cerca de 2 horas por el río, nos llevaron a otro lugar donde 
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-almuerzo.jpg",
- caption:"Río la miel",
+ caption:"Río la Miel",
  width:"1200",
  height:"674"
 %}
@@ -184,7 +184,7 @@ _Este lugar debe de estar sin duda en tu lista para visitar._
  
 Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
-__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió :(.
+__Mirador del Embalse de Amaní:__ este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
 
 Allí podrás encontrar restaurante o también comida de alguno pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
@@ -201,7 +201,7 @@ __Rio Manso:__ este es un río el cual se caracteriza por sus aguas cristalinas,
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
- caption:"Río manso",
+ caption:"Río Manso",
  width:"1200",
  height:"674"
 %}
@@ -229,9 +229,9 @@ __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no t
  
 Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
-## Como regresar de Norcasia 
+## ¿Cómo regresar de Norcasia?
  Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados. 
  
-Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Este es el fin de la ruta en Norcasia, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
