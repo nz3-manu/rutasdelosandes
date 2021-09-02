@@ -20,7 +20,7 @@ __En este post encontrarás la siguiente información:__
 *  <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
  
-El precio para ir con agencia de viajes es de aproximadamente $ 280.000 pesos por persona, saliendo desde Pereira o $ 250.000 pesos por persona desde Manizales, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/3tvh1d" target="_blank"> click aquí</a>.__ 
+El precio para ir con una agencia de viajes es de aproximadamente $ 250.000 pesos por persona saliendo desde Manizales, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/3tvh1d" target="_blank"> click aquí</a>.__ 
  
  
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See post to Nevado del Ruiz in English 🇬🇧</a>]__

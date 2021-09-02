@@ -3,33 +3,40 @@ draft: true
 layout: trail
 title:  Paramillo del Quindío
 categories: colombia 
-seo_title: cascadas de Santa Rita o cascada santa Rita en boquia
-excerpt: En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post. 
+seo_title: Paramillo del Quindío,
+excerpt: En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, saliendo por Salento Quindío. 
 images_url: /images/rutas/quindio/paramillo-quindio
 viewranger: MjI1MDg2Mw==
 author: manuel
 ---
 
-# PARAMILLO DEL QUINDIO
+# PARAMILLO DEL QUINDÍO
 
 En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
-# DATOS CURIOSOS DEL PARAMILLO DEL QUINDIO
+El precio para ir con una agencia de viajes es de aproximadamente $ 680.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/a5v291" target="_blank"> click aquí</a>.__ 
 
-El paramillo del quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
+# DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
+
+El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
 
 En 1801 el botánico alemán von Humboldt visitó esta zona, lo que le permitió describir especies desconocidas hasta entonces, como el frailejón. 
 
-## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDIO ?
+## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDÍO ?
  
- --------- Video ---------
+{% include youtube.html
+   videoid:"PNy3G130C9g",
+   width:"480",
+   height:"270",
+   caption:"Ruta al Paramillo del Quindío"
+%}
  
-## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDIO 🛣🚌?
+## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDÍO 🛣🚌?
 
-Para ir al paramillo del quindío desde el Valle del Cocora (Salento)se puede realizar de varias formas: 
+Para ir al Paramillo del Quindío desde el Valle del Cocora (Salento)se puede realizar de varias formas:  
 
-* Saliendo por el valle del Cocora hasta la finca primavera.
-* Saliendo desde el Valle del Cocora hasta la finca argentina o Buenos Aires. 
+* Saliendo por el valle del Cocora hasta la finca Primavera.
+* Saliendo desde el Valle del Cocora hasta la finca Argentina o Buenos Aires. 
 
 En este post explicaremos como hacerlo por la finca la Argentina o desde la finca  Buenos Aires, que queda 1 kilómetro más arriba de la finca la Argentina.
 
@@ -50,7 +57,7 @@ Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar
 
 Una vez aquí ya estamos listos para empezar nuestro camino ⛰.
 
-## Ruta al Paramillo del Quindio 🚶🏼
+## RUTA AL PARAMILLO DEL QUINDÍO 🚶🏼
  
 Del valle del Cocora hasta la finca Argentina hay aproximadamente 12 kilómetros y hasta la finca Buenos Aires hay 13 kilómetros, de los cuales 8 de ellos son en ascenso. 
 
@@ -64,11 +71,11 @@ Además del mal estado de este camino en invierno tendrás que tener cuidado ya 
 
 En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señalizadas, pero queremos hacer la aclaración que encontramos intersecciones de caminos que de haberlos tomado nos hubieran llevado a diferente lugar del parque los nevados.
 
-## Hospedaje cerca al Paramillo del quindio
+## HOSPEDAJE CERCA AL PARAMILLO DEL QUINDÍO
 
-De camino al paramillo del quindío encontraremos 2 fincas las cuales brindan hospedaje
+De camino al Paramillo del Quindío encontraremos 2 fincas las cuales brindan hospedaje
 
-### Finca la Argentina
+### FINCA LA ARGENTINA
  
 Esta es La primera finca que encontramos, esta finca no cuenta con zona de camping, ya gran parte de su terreno está en zona montañosa con mucho desnivel,  los servicios que encontraran aqui seran son siguientes:
  
@@ -79,9 +86,9 @@ Esta es La primera finca que encontramos, esta finca no cuenta con zona de campi
  
 __Por favor confirmar disponibilidad, teléfono: <a href="tel:3164674802"> 3112433455</a> Fica la Argentina.__
  
-### Finca Buenos Aires
+### FINCA BUENOS AIRES
  
-Esta finca se encuentra a 1 kilómetro más arriba de la finca Argentina (casi todo el trayecto será en subida), lo bueno es que ya estarás 1 kilómetro más cerca para ir al Paramillo del quindio.
+Esta finca se encuentra a 1 kilómetro más arriba de la finca Argentina (casi todo el trayecto será en subida), lo bueno es que ya estarás 1 kilómetro más cerca para ir al Paramillo del Quindío.
  
 Esta finca cuenta con una muy buena zona de camping, los servicios que prestan son los siguientes:
  
@@ -95,7 +102,7 @@ Este lugar no cuenta con muy buena señal así que tendrás que enviar un mensaj
  
 __Por favor confirmar disponibilidad, teléfono: <a href="tel:3148393397"> 3112433455</a> Fica Buenos Aires.__
  
-Una vez instalados en nuestro hospedaje decidimos descansar un poco para madrugar al otro día a las 6 am para empezar nuestro camino al paramillo del quindío. 
+Una vez instalados en nuestro hospedaje decidimos descansar un poco para madrugar al otro día a las 6 am para empezar nuestro camino al Paramillo del Quindío. 
  
 ## DÍA 2
  
@@ -109,33 +116,33 @@ width:"480",
 height:"200" %}
 </a>
  
-Quiero hacer claridad de algo, en el camino al paramillo del quindío muchas partes no se encuentran señalizadas y además de eso hay potreros donde las vacas han hecho muchos caminos, de seguir uno de estos caminos hechos por las vacas quizás resultes encontrando al toro 😅.
+Quiero hacer claridad de algo, en el camino al Paramillo del Quindío muchas partes no se encuentran señalizadas y además de eso hay potreros donde las vacas han hecho muchos caminos, de seguir uno de estos caminos hechos por las vacas quizás resultes encontrando al toro 😅.
  
 Saliendo de la finca Buenos Aires encontramos 2 senderos cualquiera de los 2 se llegará al Paramillo del Quindío, solo que cada uno tiene sus dificultades.
  
 {% include iframe.html,
    type:"custom",
    mid:"1CbF3hkh9ojjXv4rOO8SPc77Ep_zJtBcp&hl=en",
-   caption:"Mapa del valle del Cocora al paramillo del quindio"
+   caption:"Mapa del valle del Cocora al Paramillo del Quindío"
 %}
  
  
-### Camino 1
+### CAMINO 1
  
 Por este camino pasamos por una parte que llaman bosque de esponjas, y qué mejor nombre ya que allí fue donde nos terminamos de mojar las botas de senderismo :(, después de caminar por algunos minutos por esta zona húmeda, volvimos a potreros un poco más secos, pero con muchos caminos diferentes hechos por vacas.
  
-### Camino 2
+### CAMINO 2
  
-Este camino se va por la parte alta de la montaña, en este no nos encontraremos muchos humedales con el camino 1, pero por este camino es mucho más fácil perderse, ya que de regreso del paramillo del quindío tomamos este camino y nos encontramos con algunas personas que se habían perdido.
+Este camino se va por la parte alta de la montaña, en este no nos encontraremos muchos humedales con el camino 1, pero por este camino es mucho más fácil perderse, ya que de regreso del Paramillo del Quindío tomamos este camino y nos encontramos con algunas personas que se habían perdido.
  
-Cualquiera de estos 2 caminos que tomemos nos llevará a la base del paramillo del quindío, Desde la finca Buenos Aires hasta la Base del paramillo del quindio son aproximadamente 6.5 kilometros, no te debiras tardar mas de 5 horas para llegar este lugar.
+Cualquiera de estos 2 caminos que tomemos nos llevará a la base del Paramillo del Quindío, Desde la finca Buenos Aires hasta la Base del Paramillo del Quindío son aproximadamente 6.5 kilometros, no te debiras tardar mas de 5 horas para llegar este lugar.
  
-__Base del paramillo del quindio__
+### BASE DEL PARAMILLO DEL QUINDÍO
 
 Después de salir de los frailejones empezamos a ver paisajes donde abundaba más las roca, 
 después de pasar un pequeño río con una cascada al fondo, ya empezábamos a ver un terreno un poco más arenoso. Era señal que venía el ascenso hasta cima.
 
-Desde la Base del Paramillo del Quindio hasta la cumbre son aproximadamente 2,25 kilómetros en promedio tardamos casi 2 horas para hacerlo hasta la cumbre, el terreno es complicado ya que algunos tramos pareciera que estuviéramos caminando sobre balastro.
+Desde la Base del Paramillo del Quindío hasta la cumbre son aproximadamente 2,25 kilómetros en promedio tardamos casi 2 horas para hacerlo hasta la cumbre, el terreno es complicado ya que algunos tramos pareciera que estuviéramos caminando sobre balastro.
  
 {% include image.html, 
 file:"rutas/quindio/paramillo-quindio/base-paramillo.jpeg", 
@@ -159,13 +166,13 @@ height:"200" %}
 </a>
  
  
-Después de hacer cumbre y estar un rato tomando fotos empezamos nuestro descenso a las 12 pm y regresamos a la finca Argentina a las 6 Pm.
+Después de hacer cumbre y estar por tiempo tomando fotos empezamos nuestro descenso a las 12 pm, en nuestro regreso nos encontramos con algunas personas de nuestro hospedaje que se habían perdido en el camino para subir al Paramillo del Quindio, así que nos regresamos junto con ellos a nuestro hospedaje, llegamos cerca de las 6 pm.
  
 ## DÍA 3
 
 Nos levantamos a las 7:30 am y comenzamos el descenso a las 8:30 y llegamos al valle del Cocora a la 1 pm.
  
-## ¿CÓMO REGRESAR DEL PARAMILLO DEL QUINDIO 🚌🏡?
+## ¿CÓMO REGRESAR DEL PARAMILLO DEL QUINDÍO 🚌🏡?
  
 Por último, si no cuentas con transporte recuerda tener presente los horarios de salida de los últimos jeep del valle del cocora, los fines de semana el último sale a las 6:30 pm, estos horarios pueden haber cambiado así que es mejor que los verifiques.
  
@@ -173,7 +180,7 @@ No olvides dejar nada en el páramo como: bolsas, plástico etc..
  
  
 
-Este es el fin de la ruta al Paramillo del quindio, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Este es el fin de la ruta al Paramillo del Quindío, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 

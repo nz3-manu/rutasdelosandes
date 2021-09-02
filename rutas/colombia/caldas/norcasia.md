@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  Guía Completa de Norcasia 
+title:  GUÍA COMPLETA DE NORCASIA
 categories: colombia
 seo_title: Guia completa de Norcasia
 excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.
@@ -210,7 +210,7 @@ Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parq
  
 ### CAÑON DEL RÍO LA MIEL
 
-Este se encuentra en la cuenca baja del río la miel aguas abajo de la presa del Embalse Amaní, sus aguas se conectan con el río magdalena.
+Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que significa que el cause del río dependerá de  la presa para su navegación, si el río no cuenta con el cause adecuado no se podrá visitar este lugar.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
@@ -223,7 +223,7 @@ Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán most
  
 __Recomendación:__ hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes.
 
-Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para ayudarte a elegir la mejor agencia de viajes.
+Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para separar tu tour.
 
 __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
