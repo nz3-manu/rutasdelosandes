@@ -114,7 +114,7 @@ _Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
 
 Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
-Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $380.000 Pesos por persona).
+Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $350.000 Pesos por persona).
  
 <p id="lugaresnorcasia"></p>
  
