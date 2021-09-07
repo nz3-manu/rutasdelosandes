@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  Reserva Natural Barbas Bremen
 categories: colombia

@@ -12,9 +12,9 @@ trending: true
  
 # NORCASIA
  
-En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios ellos no incluyeron en el tour que tu no deberías perderte.
+En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios no pudimos visitar que tu no deberías perderte.
 
-Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, lo bueno y lo malo para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>.__ 
+Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__, valor del plan $350.000 pesos 2 días 1 noche.
 
 
 Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
@@ -218,6 +218,9 @@ Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que signi
  width:"1200",
  height:"674"
 %}
+
+__<span class="advise"> Foto por: <a href="https://www.instagram.com/haleja28/"  target="_blank"> @haleja28</a> </span>__
+
  
 Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
  
