@@ -45,7 +45,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
-Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima, hemos escuchado por parte de algunos guías que por Anzoátegui es una ruta un poco más corta y sin tanta inclinación. 
+Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima. 
 
 La ruta que nosotros realizamos fue por Salento Quindio.
 
