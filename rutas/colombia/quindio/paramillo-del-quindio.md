@@ -14,7 +14,7 @@ author: manuel
 
 En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
-El precio para ir con una agencia de viajes es de aproximadamente $ 680.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/a5v291" target="_blank"> click aquí</a>.__ 
+El precio para ir con una agencia de viajes es de aproximadamente $ 680.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/a5v291" target="_blank"> click aquí</a>__ 👈.
 
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
 

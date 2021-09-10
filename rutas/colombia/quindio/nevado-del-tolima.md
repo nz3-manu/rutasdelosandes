@@ -13,12 +13,15 @@ author: manuel
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
+El precio para ir con una agencia de viajes es de aproximadamente $ 1'300.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/axeppr" target="_blank"> click aquí</a>__ 👈.
+
+
 Lo que encontraras en este post:
 * <a href="#comollegar"> Cómo llegar al Nevado del Tolima</a>
 * <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima</a>
 * <a href="#rutanevadotolima"> Ruta al nevado del Tolima</a>
 
-El precio para hacer la ruta con una agencia es de  aproximadamente $1'200.000 Pesos por persona, saliendo desde Pereira o Armenia.
+El precio para hacer la ruta con una agencia es de  aproximadamente $1'300.000 Pesos por persona, saliendo desde Pereira o Armenia.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
  
