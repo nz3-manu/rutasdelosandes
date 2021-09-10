@@ -14,7 +14,7 @@ trending: true
  
 En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios no pudimos visitar que tu no deberías perderte.
 
-Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__, valor del plan $350.000 pesos 2 días 1 noche.
+Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje, si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__, valor del plan es aproximadamente $350.000 pesos 2 días 1 noche.
 
 
 Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
