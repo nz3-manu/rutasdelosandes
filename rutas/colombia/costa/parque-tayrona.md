@@ -11,6 +11,7 @@ trending: true
 ---
  
 # Parque Nacional Natural Tayrona
+
 Hoy te queremos presentar uno de los lugares que no debe faltar en tu lista de viajes por  Colombia el __Parque Tayrona__, en este post encontrarás:
  
 * Datos curiosos del Parque Nacional Natural Tayrona

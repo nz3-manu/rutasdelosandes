@@ -9,9 +9,14 @@ images_url: /images/rutas/risaralda/estacion
 viewranger: 
 author: manuel
 ---
+# Estación Pereira
+
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
-## ¿Qué encontrarás en Estación Pereira 🏞👀?
+ℹ️ __Estación Pereira se encuentra cerrado desde que comenzó la pandemia__
+
+
+## ¿Qué encontrarás en Estación Pereira 🏞?
 
 {% include youtube.html,
     videoid:"xrC-xdoVF8o",
@@ -22,16 +27,11 @@ Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Ri
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar a Estación Pereira 🛣🚌 ? 
+## ¿Cómo llegar a Estación Pereira 🛣? 
+
 Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
 
-⚠️ Decidimos dejar la información de transporte y hospedaje privada, ya que tanto viajeros y comunidad estaban teniendo malas experiencias por el flujo de personas que estaban llegando a este lugar y esto es lo menos que queremos  que suceda cuando mostramos un lugar.  
 
-La información para llegar a este lugar la podrán descargar  al final de la ruta pagando la suma mínima que nos dejó poner la plataforma que nos presta el servicio.
-
-Ten en cuenta que allí no entra muy buena señal de teléfono, lo que se dificultará más comunicarte para hacer reservación.
-
-__Los horarios de salida y el valor lo encontrarás en la información anexa al final del texto.__
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
 
@@ -77,14 +77,11 @@ Después de haber cruzado el río Cauca llegamos a la finca a una finca que pres
 Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya que en invierno se podrán encontrar con que no hay entrada y tendrán que regresar.
 
 
-__[Podrás ver toda la información  adicional como teléfonos de: Restaurantes, Hospedaje y  horarios de saldida de los buses etc. al final de la ruta]__
-
 ## Ruta a Estación Pereira 🚶🏽🐕.
 
 Una vez de haber cruzado el río cauca en la “garrucha” ya estamos preparados para iniciar  el recorrido a las cascadas las cuales están a 30 minutos caminando de la “finca la Playita”(donde nos deja la garrucha) por una camino muy señalizado.
 
 __Esta ruta se puede realizar con perros 🐕.__
-
 
 <amp-instagram
     data-shortcode="BjpnlRtBsM8"

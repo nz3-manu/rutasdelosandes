@@ -65,12 +65,11 @@ __Mapa de la ruta realizada desde el cedral hasta cascada los Chorros__
 
 Una vez estando en pastora nos encontraremos con el Centro de Visitantes La Pastora, allí podrán encontrar lo siguiente: 
 
-* Desayunos 🥟: $9.000 pesos.
+* Desayunos 🥟: $10.000 pesos.
 * Almuerzos y cena 🍛: $13.000 pesos. 
-* Zona de camping 🏕: $9.000 pesos.
-* Cabañas 🏠: $30.000 pesos. 
+* Zona de camping 🏕: $12.000 pesos.
+* Cabañas 🏠: $40.000 pesos. 
 
-Para alquiler de cabaña se debe confirmar disponibilidad Teléfono:<a href="tel:0363144162">    (036)3144162</a>.
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.
 

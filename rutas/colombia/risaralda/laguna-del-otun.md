@@ -71,7 +71,7 @@ Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
 
 __Los servicios que prestan en este lugar son los siguientes:__
-* Hospedaje 🛏: $14.000 pesos (por noche). 
+* Hospedaje 🛏: $25.000 pesos (por noche). 
 * Desayunos 🥟: $10.000 pesos.
 * Almuerzos 🍛:  $14.000 pesos.
 * Parqueadero moto 🏍: $6.000 pesos por dia.
