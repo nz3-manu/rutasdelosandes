@@ -86,9 +86,6 @@ __Los servicios que prestan en este lugar son los siguientes:__
 * Parqueadero moto 🏍: $6.000 pesos por dia.
 * Parqueadero carro 🚙: $11.000 pesos por dia.
 
-
-## EL CAMINO LA LAGUNA DEL OTÚN 
-
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
 <p id="costoentradalaguna"></p>
