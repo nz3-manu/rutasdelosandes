@@ -13,7 +13,13 @@ trending: true
 
 En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
-El precio para ir con una agencia de viajes (pasadia) es de aproximadamente $400.000 pesos por persona (el precio puede ser menor si van mas personas), lugar de encuentro Pereira, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/3tvh1d" target="_blank"> click aquí</a>__ 👈. 
+__En este post encontrarás la siguiente información:__
+* <a href="#comollegarlaguna"> Cómo llegar a la Laguna del Otún</a>
+*  <a href="#hospedajeslaguna"> Hospedajes cerca a la Laguna del Otún</a>
+*  <a href="#costoentradalaguna"> Costo de entrada a la Laguna del Otún</a>
+* <a href="#rutalaguna"> Ruta a la Laguna del Otún</a>
+* <a href="#informacionLaguna"> Descargar información adicional de la Laguna del Otún</a>
+
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See post to Laguna Del Otún  in English 🇬🇧</a>]__
 
@@ -36,6 +42,7 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+<p id="comollegarlaguna"></p>
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
 
@@ -66,6 +73,8 @@ En invierno la carretera puede estar en muy mal estado, los jeeps en algunos cas
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados se encuentra un hospedaje. 
 
+<p id="hospedajeslaguna"></p>
+
 ## HOSPEDAJE CERCA A LA LAGUNA DEL OTÚN
 
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
@@ -82,23 +91,27 @@ __Los servicios que prestan en este lugar son los siguientes:__
 
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
-### Costo de entrada a la Laguna del otún
+<p id="costoentradalaguna"></p>
 
-  * Entrada al Parque los Nevados 2019 🎟: mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años $16.000 pesos extranjeros $45.000 pesos.
+### VALOR DE INGRESO A LA LAGUNA DEL OTÚN
+
+  * Entrada al Parque los Nevados 2020 🎟: mayores de 5 años y menores de 25 años $10.500 pesos, mayores de 25 años $19.000 pesos extranjeros $47.000 pesos.
  
   * Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
 
+<p id="rutalaguna"></p>
+
 ⚠️ Recuerde que está prohibido el ingreso de mascotas 🚫🐶 y la pesca.
 
-__Mapa de ruta realizada en la Laguna del otún__
+## RUTA EN LA LAGUNA DEL OTÚN
+
+Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando.
 
 {% include iframe.html,
     type:"custom",
     mid:"1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es",
     caption:"Ruta entrada a Potosí hasta Laguna del Otún"
 %}
-
-Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando.
 
 Foto desde la asomadera o mirador de Potosí.
 <amp-instagram
@@ -126,7 +139,6 @@ __Recomendación:__ por este tramo se tendrán que pasar por piedras y algunas p
 
 Después de una agradable caminata viendo estos hermosos paisajes, por fin llegamos a la casa del guardabosques, lugar donde pudimos acampar.
 
-
 Laguna del Otún
 <amp-instagram
     data-shortcode="Bt7HsFThueq"
@@ -153,10 +165,12 @@ Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y
 
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
+ <p id="informacionLaguna"></p>
+
+💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">__Descargar información adicional de la ruta a Laguna del Otún.__</a>
+
 Este es el fin de la ruta a la Laguna Del Otún, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
-
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">__Información adicional de la ruta a Laguna del Otún.__</a>
 
 
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>

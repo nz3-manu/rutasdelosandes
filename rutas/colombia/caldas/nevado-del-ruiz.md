@@ -19,6 +19,7 @@ __En este post encontrarás la siguiente información:__
 *  <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
 *  <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
+* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
  
 El precio para ir con una agencia de viajes es de aproximadamente $ 230.000 pesos por persona saliendo desde Manizales, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/3tvh1d" target="_blank"> click aquí</a>__ 👈.
  
@@ -177,9 +178,13 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
  width:"1200",
  height:"674"
 %}
- 
+
+ <p id="informacionRuiz"></p>
+
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
- 
+
+
+ ℹ️ __Descargar Información adicional de la ruta al Nevado del Ruiz: click  <a target="_blank" href="https://randes-store.myshopify.com/collections/informacion-adicional-de-las-rutas/products/ruta-nevado-del-ruiz">aquí</a>__
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
