@@ -79,7 +79,6 @@ Ahora ya estamos preparados para empezar el sendero.
     caption:"el camino"
 %}
 
-
 En este punto se inicia el sendero del Cacique Nona el cual cruza la Reserva, dentro de ésta existen varios puntos de referencia: La Bocatoma y Palosanto. El camino está señalizado hacia donde se quiera dirigir y también es posible caminar hacia El Mirador, ubicado en Parque Regional Natural Serranía Alto El Nudo, continuo a la Reserva Forestal La Nona, un trayecto que demora aproximadamente 90 minutos.
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>. 

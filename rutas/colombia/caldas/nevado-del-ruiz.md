@@ -17,8 +17,8 @@ El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubic
 __En este post encontrarás la siguiente información:__
 
 * <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
-*  <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
-*  <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
+* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
+* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
 * <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
  

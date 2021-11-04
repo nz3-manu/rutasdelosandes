@@ -1,6 +1,6 @@
 ---
 layout: trail
-title:  GUÍA COMPLETA DE NORCASIA
+title:  Norcasia
 categories: colombia
 seo_title: Guia completa de Norcasia
 excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.

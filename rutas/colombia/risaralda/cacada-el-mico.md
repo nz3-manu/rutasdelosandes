@@ -9,6 +9,7 @@ images_url: /images/rutas/risaralda/cascada-el-mico
 viewranger: 
 author: manuel
 ---
+
 # Cascada del Mico
 
 __Esta ruta pertenece a nuestras rutas ocultas en el eje cafetero__
