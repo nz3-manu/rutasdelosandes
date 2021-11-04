@@ -16,7 +16,7 @@ En este post te mostraremos todo lo que debes de conocer de este mágico lugar, 
 
 Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje. 
 
-Si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ 👈, el valor es de aproximadamente $350.000 pesos (2 días 1 noche).
+El valor para realizar este viaje con una agencia es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para separar el tour puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ 👈
 
 
 Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
@@ -24,8 +24,8 @@ Si aun no conoces nuestra tienda en línea de productos de montaña puedes visit
 __En este post encontrarás la siguiente información:__
 
 * <a href="#comollegarnorca"> ¿Cómo llegar a Norcasia ? </a>
-*  <a href="#hospedajenorca"> Hospedajes disponibles en Norcasia </a>
-*  <a href="#lugaresnorcasia"> Lugares turísticos en Norcasia caldas </a>
+* <a href="#hospedajenorca"> Hospedajes disponibles en Norcasia </a>
+* <a href="#lugaresnorcasia"> Lugares turísticos en Norcasia </a>
  
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
@@ -45,7 +45,7 @@ Norcasia está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-<p id="comollegarnorca"></p>
+<a name="comollegarnorca" id="comollegarnorca"></a>
  
 ## ¿CÓMO LLEGAR A NORCASIA 🚌?
  
@@ -91,13 +91,13 @@ height:"200" %}
  
 A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
  
-<p id="hospedajenorca"></p>
+<a name="hospedajenorca" id="hospedajenorca"></a>
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-### HOTEL BUENOS AIRES 
+### HOTEL BUENOS AIRES
 
-Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
+Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet (esto ya podría haber cambiado en el futuro).
 
 * Hospedaje 🛏: $30.000 pesos por persona (noche).
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
@@ -118,7 +118,7 @@ Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante ve
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $350.000 Pesos por persona).
  
-<p id="lugaresnorcasia"></p>
+<a name="lugaresnorcasia" id="lugaresnorcasia"></a>
  
 ## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
  

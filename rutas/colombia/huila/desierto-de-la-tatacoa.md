@@ -17,7 +17,7 @@ En este post encontrarás toda la información que necesitas saber para viajar a
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
  
-El precio para ir con una agencia de viajes es de aproximadamente $ 400.000  pesos por persona saliendo desde Villavieja (3 días y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/4ezkvf target="_blank"> click aquí</a>__ 👈. 
+El precio para ir con una agencia de viajes es de aproximadamente $ 400.000  pesos por persona saliendo desde Villavieja (3 días y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ 👈
  
 Empecemos con la aventura ⛰.
  
@@ -38,9 +38,6 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
 </amp-carousel>
- 
- 
-Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/FwBVipBLQgS21DmEA">__Clic aquí para llenar formulario.__</a>
  
  
 ## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA ?

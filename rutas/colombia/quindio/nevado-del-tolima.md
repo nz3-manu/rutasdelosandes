@@ -13,14 +13,14 @@ author: manuel
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
-El precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/axeppr" target="_blank"> click aquí</a>__ 👈.
+El precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (3 noches y 4 dias), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/axeppr" target="_blank"> click aquí</a>__ 👈.
 
 
 Lo que encontraras en este post:
 
 * <a href="#comollegar"> Cómo llegar al Nevado del Tolima</a>
 * <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima</a>
-* <a href="#rutanevadotolima"> Ruta al Nevado del Tolima</a>
+* <a href="#rutanevadotolima"> Ruta desde Salento al Nevado del Tolima</a>
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
@@ -44,7 +44,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
     height:"270",
     caption:"Nevado del Tolima"
 %}
-<p id="comollegar"></p>
+<a name="comollegar" id="comollegar"></a>
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
@@ -67,7 +67,7 @@ Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ 
 
 una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo todo lo que se venia 😅.
 
-<p id="rutanevadotolima"></p>
+<a id="rutanevadotolima"></a>
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -141,7 +141,7 @@ Después de dejar el bosque atrás cruzamos por el Valle de los Perdidos, por es
 
 Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje. 
 
-<p id="hospedajesnevadotolima"></p>
+<a id="hospedajesnevadotolima"></a>
 
 ## HOSPEDAJES CERCANOS EN EL NEVADO DEL TOLIMA
 

@@ -52,7 +52,7 @@ __Recomendación:__ La “chiva” cuando se llena las personas tienen que irse 
 Una vez de haber pasado por estos hermosos paisajes llegamos al cedral, lugar donde empieza nuestra aventura.
 
 
-## Ruta en la pastora  🚶🏽🚶🏽
+## Ruta en la pastora 
 
 Desde el cedral hasta la pastora son aproximadamente 4 kilómetros, el camino está lleno de rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. 
 
@@ -90,7 +90,7 @@ Después de un pequeño descanso en la Pastora, continuamos nuestra ruta hacia l
     caption:"Los chorros"
 %} 
 
-## ¿Cómo regresar de la pastora 🚌🏡?
+## ¿Cómo regresar de la pastora 🚌?
 
 De regreso tomamos el mismo camino. Tener en cuenta que la última “chiva” o bus escalera 🚌 sale a las 5 pm desde el Cedral, si los deja 🚌💨💨🏃‍♂️ tendrán que caminar hasta la florida, son aproximadamente 3 horas.
 

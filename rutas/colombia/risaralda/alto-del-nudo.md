@@ -9,7 +9,8 @@ images_url: /images/rutas/risaralda/quimbaya
 viewranger: MTM4MjU4NA==
 author: daniel
 ---
-# Alto Del Nudo 
+
+# ALTO DEL NUDO 
 
 En este post encontrarás toda la información que necesitas saber para conocer el Alto del Nudo.
 
@@ -18,13 +19,13 @@ Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los tel
 
 Empecemos con la aventura ⛰.
 
-# Datos curiosos del Alto Del Nudo 
+# DATOS CURIOSOS DEL ALTO DEL NUDO 
 
 El departamento de Risaralda como otros departamentos del Eje cafetero están constituidos como antiguos asentamientos de la cultura Quimbaya, por eso algunos nombres de esa civilización se encuentran actualmente en ríos, pueblos y reservas de esta región, es el caso de la Reserva Forestal La Nona, nombre dado en honor al Cacique Nona, que es allí donde inicia esta ruta.
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
-## ¿Qué encontrarás en el Alto Del Nudo 🏞👀? 
+## ¿QUÉ ENCONTRARÁS EN EL ALTO DEL NUDO 🏞? 
 
   {% include youtube.html,
     videoid:"bUSFb7xuXS0",
@@ -34,7 +35,7 @@ _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-## ¿Cómo llegar al Alto Del Nudo 🛣🚌?
+## ¿CÓMO LLEGAR AL ALTO DEL NUDO 🛣🚌?
 
 Una vez en pereira, tomamos “la chiva” o bus escalera desde La plaza Victoria, los  horarios de salida son: De lunes a viernes 6:00 am, 12:00 pm y 4:30 pm, el sabado adicional a las 10 am y domingo adicional 8 am. El valor del pasaje es aproximado de $3.200 pesos, la duración del trayecto es en promedio de 1 hora y 20 minutos para llegar a la vereda la convención.
 
@@ -50,7 +51,7 @@ En la vereda la convención ¡ya empieza nuestra ruta! 😎.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Te invitamos a que conozcas mas de nuestro contenido siguiéndonos en instagram solo dando clic aquí</a>]__.
 
-## Ruta en Alto Del Nudo 🚶🏽🚶🏽
+## RUTA EN ALTO DEL NUDO 🚶🏽
 
 Desde la vereda la convención hasta la Casa de la CARDER (Lugar donde inicia la Reserva), son aproximadamente 20 minutos. El ingreso al sendero es totalmente gratis.
 
@@ -62,8 +63,6 @@ Desde la vereda la convención hasta la Casa de la CARDER (Lugar donde inicia la
 %} 
 
 En esta casa se brinda los siguientes servicio de alojamiento en habitación compartida de $25.000 pesos por persona, además cuenta con cocina y utensilios (platos, ollas, cucharas etc..) por si desean cocinar, si lo tuyo no es cocinar no te preocupes 😃 también se venden desayunos a $8.000 pesos, almuerzo y comida a $12.000 pesos (los precios son aproximados). Este lugar posee la belleza de una casa colonial característica del ¡paisaje cultural cafetero!
-
-
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER (que es donde nos estamos hospedados) aparece como campamento en el mapa.
  
@@ -114,7 +113,8 @@ width:"480",
 height:"200" %}
 </a>
 
-## ¿Cómo regresar del Alto Del Nudo 🚌🏡?
+## ¿CÓMO REGRESAR DEL ALTO DEL NUDO 🚌?
+
 Tomamos  el jeep que pasa hasta las 5:00 pm el cual tiene un precio aproximado de $3.500 pesos, este se toma al frente de la casa del guardabosques. Este Jeep nos llevará directo a Pereira.
 
 Este es el fin de la ruta al Alto Del Nudo, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

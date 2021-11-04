@@ -15,6 +15,7 @@ trending: true
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
 
 __En este post encontrarás la siguiente información:__
+
 * <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
 *  <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
 *  <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
@@ -49,7 +50,7 @@ Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-<p id="comollegarruiz"></p>
+<a name="comollegarruiz"  id="comollegarruiz"></a>
  
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ ?
  
@@ -80,7 +81,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranc
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
  
-<p id="hospedajesnevadoruiz"></p>
+<a name="hospedajesnevadoruiz" id="hospedajesnevadoruiz"></a>
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -106,7 +107,7 @@ En el sector el arbolito encontramos el  último restaurante y hospedaje más ce
  
 Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
  
-<p id="costoentradaruiz"></p>
+<a name="costoentradaruiz"  id="costoentradaruiz"></a>
  
 ## VALOR DE INGRESO AL NEVADO DEL RUIZ
  
@@ -145,7 +146,7 @@ El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde la
    caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
  
-<p id="rutanevadoruiz"></p>
+<a name="rutanevadoruiz" id="rutanevadoruiz"></a>
  
 ## RUTA EN EL NEVADO DEL RUIZ 
 
@@ -179,7 +180,7 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
  height:"674"
 %}
 
- <p id="informacionRuiz"></p>
+ <a name="informacionRuiz" id="informacionRuiz"></a>
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
