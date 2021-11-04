@@ -27,7 +27,7 @@ El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa 
  
 En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu Kogui que son descendientes de los taironas.
 
-<a name="comollegarlaguna" id="queEncontrarasTayrona"></a>
+<a name="comollegarlaguna"></a>
 
 ## ¿QUÉ ENCONTRARÁS EN EL PARQUE TAYRONA?
 
@@ -41,7 +41,7 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 {% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %}
 </amp-carousel>
  
-<a name="comoLLegarTayrona" id="comoLLegarTayrona"></a>
+<a name="comoLLegarTayrona"></a>
 
 ## ¿CÓMO LLEGAR AL PARQUE TAYRONA?
 
@@ -63,7 +63,7 @@ __Recuerda que los cupos de los parqueaderos en el Tayrona son limitados.__
 
 Al llegar al Zaino tuvimos que comprar la entrada  para ingresar al Parque Tayrona.
  
-<a name="tarifasParqueTayrona" id="tarifasParqueTayrona"></a>
+<a name="tarifasParqueTayrona"></a>
 
 ### TARIFAS PARA INGRESO AL PARQUE TAYRONA
 
@@ -82,7 +82,7 @@ width:"480",
 height:"200" %}
 </a>
 
-<a name="rutasDentroTayrona" id="rutasDentroTayrona"></a>
+<a name="rutasDentroTayrona"></a>
  
 ## RUTAS DENTRO DEL PARQUE TAYRONA 
  
@@ -98,7 +98,7 @@ __Mapa de ruta realizada desde el en el parque Tayrona__
   caption:"Ruta en el Parque Tayrona"
 %}
 
-<a name="hospedajeTayrona" id="hospedajeTayrona"></a>
+<a name="hospedajeTayrona"></a>
  
 ## HOSPEDAJE EN EL PARQUE TAYRONA
  
@@ -117,7 +117,7 @@ Este lugar se encuentra al frente de la playa.
  
 ### Don Pedro Bermúdez
  
- Es un poco más retirado de todos ya que se encuentra en medio del bosque.
+Es un poco más retirado de todos ya que se encuentra en medio del bosque.
  
 * Zona de camping 🏕: $22.000 pesos (por persona) si tú pones la carpa y la colchoneta.
 * Restaurante
