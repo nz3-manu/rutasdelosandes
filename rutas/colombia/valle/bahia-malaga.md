@@ -2,16 +2,23 @@
 layout: trail
 title:  Bahía Málaga
 categories: colombia 
-seo_title: 🏅Bahía Málaga| ¿Que hacer y Donde Hospedarse?
+seo_title: Bahía Málaga| ¿Que hacer y Donde Hospedarse?
 excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia malaga, descubre cómo llegar a la Playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
 trending: true
 ---
+
 # BAHÍA MÁLAGA
 
-Bahía Málaga es sin duda un lugar mágico que te va a encantar, en este post te mostraremos  todo lo que necesitas saber para que disfrutes al máximo de este lugar, te mostraremos; cómo llegar, opciones de hospedajes (con sus numero teléfono) y los lugares que no te puedes perder.
+Bahía Málaga es sin duda un lugar mágico que te va a encantar, en este post te mostraremos  todo lo que necesitas saber para que disfrutes al máximo de este lugar. 
+
+En este post encontraras las siguiente información:
+* ¿Cómo llegar a Bahia Malaga?
+* Hospedajes cercanos de Bahia Malaga.
+* Rutas caminando por playas cercanas.
+* Tours en lancha que ofrecen los locales. 
 
 Una vez dicho esto ¡empecemos con la aventura  ⛰!
 
@@ -23,6 +30,14 @@ Bahía Málaga es una bahía que está localizado en el valle del cauca, aproxim
 Esta bahía está rodeada de densa selva húmeda, lo  que hace de este un clima Cálido con lluvia permanente todo el año. Este lugar es reconocido  por ser el destino migratorio de las ballenas jorobadas el cual arriban en julio, agosto y septiembre.
 
 Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión". 
+
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 Dentro del Parque nacional natural Uramba Bahía Málaga  se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejos comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
 
@@ -47,36 +62,28 @@ Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este q
 Si te vas a hospedar en algún hostal que se encuentre en otro lugar que no sea Juanchaco y Ladrilleros, el hostal llamara a la empresa de transporte fluvial con la que opera para que los desembarquen cerca de sus instalaciones, esto fue un acuerdo que se hizo entre las comunidades que viven en esta zona y las empresas de transporte fluvial para permitir que los turistas pudieran llegar a hospedajes de locales y así ayudar a la economía de estas.
 
 
-## DÓNDE HOSPEDARTE EN EN BAHÍA MÁLAGA
+## HOSPEDAJES EN BAHÍA MÁLAGA
 
 Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
-
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
 
 
 ### Hospedaje en la Loma de Chucheros Yaneisy 
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeños acantilado tiene una vista hermosa  del mar 🌊,  en todo el frente de esta se podrá ver Juanchaco y ladrilleros. 
 
-Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia, solo les hemos pedido el buen trato a los viajeros que lleguen de nuestra pagina, si llegarás a tener algún inconveniente en este lugar nos lo puedes hacer saber  a través nuestras redes sociales.
+Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia, si dices que viste la información en el blog de rutas de los andes quizás te puedan hacer un descuento adicional o dar una porción mas grande de almuerzo 😉, si llegarás a tener algún inconveniente en este lugar nos lo puedes hacer saber  a través nuestras redes sociales.
 
 #### Los servicios que prestan en la Loma de Chucheros son los siguientes:
-* __Habitaciones 🛏:__ $40.000 pesos por personas.
-* __Camping ⛺️:__ $30.0000 pesos por personas.
-* __Desayuno 🥟:__ $9.000 Pesos.
-* __Almuerzo 🍛:__ $18.000 Pesos.
-* __Cena 🍛:__ $13.000 pesos.
+* Habitaciones 🛏: $40.000 pesos por personas.
+* Camping ⛺️: $30.0000 pesos por personas.
+* Desayuno 🥟: $9.000 Pesos.
+* Almuerzo 🍛: $18.000 Pesos.
+* Cena 🍛: $13.000 pesos.
 
 __Transporte 🚤:__ El transporte del muelle turístico(Buenaventura) a Chucheros ida y regreso es de aproximadamente $90.000, duración aproximada del trayecto 1 hora y 20 minutos.
 
 
-__Para hospedarse aquí solo es con reserva previa al teléfono  <a href="tel:  3173539258 "> 3173539258 </a> Yanensy.__
+📞 __Para hospedarse aquí tendrás que reservar  con anticipación:  <a href="tel:  3173539258 "> 3173539258 </a> Yanensy.__
 
 
 ### Hospedaje en Playa Juan de Dios
@@ -86,14 +93,13 @@ El hostal Playa Juan de Dios esta ubicado en una reserva natural de 80 hectárea
 Al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se  puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
 #### Los servicios que prestan en la Playa Juan de Dios son los siguientes:
-
-* __Cama en habitación compartida 2 noches 🛏:__  $315.000 pesos.
-* __Camping ⛺️:__ $250.000 peso por personas.
-* __Habitación privada para 2 personas 🏠:__ $650.000 pesos. 
+* Cama en habitación compartida 2 noches 🛏: $315.000 pesos.
+* Camping ⛺️: $250.000 peso por personas.
+* Habitación privada para 2 personas 🏠: $650.000 pesos. 
 
 __Todos los precios mencionados anteriormente incluyen:__ transporte de muelle turístico(Buenaventura) a Playa Juan ida y regreso, Desayuno almuerzo y comida por las 2 noches.
 
-__Para este hospedaje solo es con reserva previa al teléfono <a href="tel:  3148881280"> 3148881280</a> y <a href="tel: 3163608492"> 3163608492</a>.__
+📞 __Para hospedarse aquí tendrás que reservar  con anticipación: <a href="tel:  3148881280"> 3148881280</a> o <a href="tel: 3163608492"> 3163608492</a>.__
 
 Más información de tarifas en playa Juan de Dios o programas de voluntariados en playa Juan de Dios __<a target="_blank" href="https://playajuandedios.com/tarifas-y-reservas/">aquí</a>.__
 
@@ -101,7 +107,7 @@ Más información de tarifas en playa Juan de Dios o programas de voluntariados 
 
 Podrás ver la localización de estos hospedaje en el mapa que se encuentra un poco más abajo.
 
-### Otros hospedajes en Bahía Málaga
+### Otros hospedajes disponibles en Bahía Málaga
 
 También podrás encontrar otras  alternativas de hospedajes dentro de Bahía Málaga en:   Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares ya que se haría muy extenso el articulo, estos hospedajes los podrás encontrar en google.
 
