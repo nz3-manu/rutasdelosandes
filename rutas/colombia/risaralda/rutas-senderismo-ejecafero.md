@@ -13,11 +13,6 @@ author: manuel
 
 En este post encontrarás algunas rutas naturales ocultas cerca de las principales ciudades del Eje Cafetero; Manizales, Pereira y Armenia.
 
-Hallarás la información para ir por tu propia cuenta o si deseas ir con un guía local encontrarás un formulario para deajar tus datos, una vez se complete el número mínimo de personas para hacer el recorrido pasaremos esta información al guía local, el cual se comunicará con ustedes.
-
-¿Quieres hacer esta ruta con un guía local? <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7"  onclick="ga(‘send’, ‘event’, ‘FORM’, ‘Clic’, ‘Form-rutas-ocultas’);" >__Clic aquí.__</a>
-
-
 Una vez dicho esto empecemos.
 
 ## Ruta de senderismo cerca de Manizales
