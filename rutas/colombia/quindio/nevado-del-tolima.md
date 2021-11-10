@@ -7,13 +7,14 @@ excerpt: El Nevado del Tolima o también como es conocido Dulima es el punto má
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
+trending: true
 ---
 
 # NEVADO DEL TOLIMA
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
-El precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/axeppr" target="_blank"> click aquí</a>__ 👈.
+El precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
 
 
 Lo que encontraras en este post:

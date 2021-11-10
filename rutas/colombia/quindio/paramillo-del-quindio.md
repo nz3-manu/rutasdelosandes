@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Paramillo del Quindío
 categories: colombia 
@@ -8,13 +7,14 @@ excerpt: En este post te contaremos como fue nuestra experiencia en el Paramillo
 images_url: /images/rutas/quindio/paramillo-quindio
 viewranger: MjI1MDg2Mw==
 author: manuel
+trending: true
 ---
 
 # PARAMILLO DEL QUINDÍO
 
 En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
-El precio para ir con una agencia de viajes es de aproximadamente $ 680.000 pesos por persona saliendo desde Salento, si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/a5v291" target="_blank"> click aquí</a>__ 👈.
+El precio para ir con una agencia de viajes es de $ 680.000 pesos por persona saliendo desde Salento (3 dias y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/5aczuk" target="_blank"> click aquí</a>__ 👈.
 
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
 
@@ -38,7 +38,7 @@ Para ir al Paramillo del Quindío desde el Valle del Cocora (Salento)se puede re
 * Saliendo por el valle del Cocora hasta la finca Primavera.
 * Saliendo desde el Valle del Cocora hasta la finca Argentina o Buenos Aires. 
 
-En este post explicaremos como hacerlo por la finca la Argentina o desde la finca  Buenos Aires, que queda 1 kilómetro más arriba de la finca la Argentina.
+En este post explicaremos como hacerlo por la finca la Argentina o desde la finca  Buenos Aires, que queda a 1 kilómetro más arriba de la finca la Argentina.
 
 Lo primero que tuvimos que hacer fue llegar hasta Salento quindío, los horarios de buses son los siguientes.
 
@@ -63,9 +63,18 @@ Del valle del Cocora hasta la finca Argentina hay aproximadamente 12 kilómetros
 
 ## DÍA 1
 
-Iniciando el trayecto encontramos que el puente por el cual deberíamos cruzar el río se lo había llevado el agua, así que tuvimos que cruzar por un árbol que se encuentra atravesando este río, tuvimos que tener mucho cuidado (si el gobernador de quindío esta leyendo esto espero lo mande a arreglar pronto 😁).
+Iniciando el trayecto encontramos que el puente por el cual deberíamos cruzar el río se lo había llevado el agua, así que tuvimos que cruzar por un árbol que se encuentra atravesando este río, tuvimos que tener mucho cuidado (si estás viendo esto en el futuro 🔮 posiblemente ya estará construido de nuevo).
 
 Después de cruzar el río seguimos con el ascenso, en un principio todo iba de maravilla ya que parte del camino habían piedras, pero algunos kilómetros más ya se empezó a ser resbaloso en algunos tramos era algo difícil con tu maleta al hombro.
+
+ 
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% include image.html,
+file:"publicidad-post/chaqueta-randes.png",
+caption:"",
+width:"480",
+height:"200" %}
+</a>
 
 Además del mal estado de este camino en invierno tendrás que tener cuidado ya que por aquí transitan muchos arrieros.
 
@@ -73,7 +82,7 @@ En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señali
 
 ## HOSPEDAJE CERCA AL PARAMILLO DEL QUINDÍO
 
-De camino al Paramillo del Quindío encontraremos 2 fincas las cuales brindan hospedaje
+De camino al Paramillo del Quindío encontraremos 2 fincas las cuales brindan hospedaje:
 
 ### FINCA LA ARGENTINA
  
@@ -101,23 +110,27 @@ Esta finca cuenta con una muy buena zona de camping, los servicios que prestan s
 Este lugar no cuenta con muy buena señal así que tendrás que enviar un mensaje de texto o dejar un mensaje de voz para las fechas que quieres ir y esperar que te contesten.
  
 __Por favor confirmar disponibilidad, teléfono: <a href="tel:3148393397"> 3112433455</a> Fica Buenos Aires.__
+
+_Si dices en alguna de estas fincas que viste la información en la pagina de rutas de los andes, te van a servir poco mas de café al llegar 😜_
  
 Una vez instalados en nuestro hospedaje decidimos descansar un poco para madrugar al otro día a las 6 am para empezar nuestro camino al Paramillo del Quindío. 
+
  
 ## DÍA 2
  
 Al siguiente nos levantamos con un clima muy frío y mucha lluvia así que nos pusimos toda nuestra ropa impermeable y empezamos la caminata, te recomendamos que lleves la ropa adecuada para estos climas ya que es muy probable que llueva, y no hay nada peor que hacer cumbre con ropa mojada.
  
- <a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"",
-width:"480",
-height:"200" %}
-</a>
+{% include image.html, 
+file:"rutas/quindio/paramillo-quindio/ropa.jpg", 
+caption:"ropa", 
+width:"1000", 
+height:"1077" %}
+
+_La ropa adecuada son prendas que no sean de algodón, y no te olvides de llevar prendas con buena impermeabilidad._
+
  
 Quiero hacer claridad de algo, en el camino al Paramillo del Quindío muchas partes no se encuentran señalizadas y además de eso hay potreros donde las vacas han hecho muchos caminos, de seguir uno de estos caminos hechos por las vacas quizás resultes encontrando al toro 😅.
- 
+
 Saliendo de la finca Buenos Aires encontramos 2 senderos cualquiera de los 2 se llegará al Paramillo del Quindío, solo que cada uno tiene sus dificultades.
  
 {% include iframe.html,
