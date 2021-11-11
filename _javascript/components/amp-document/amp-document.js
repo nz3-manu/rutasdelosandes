@@ -327,6 +327,10 @@ class AMPDocument extends React.Component {
     if (e.defaultPrevented) {
       return false;
     }
+    // some anchors of internal links
+    if(e.target.href.indexOf("#") > 0){
+      return true
+    }
 
     let a = null;
 
