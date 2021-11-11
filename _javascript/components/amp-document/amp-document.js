@@ -327,10 +327,6 @@ class AMPDocument extends React.Component {
     if (e.defaultPrevented) {
       return false;
     }
-    // some anchors of internal links
-    if(e.target.href.indexOf("#") > 0){
-      return true
-    }
 
     let a = null;
 
@@ -352,7 +348,7 @@ class AMPDocument extends React.Component {
       }
       a = node;
     }
-    if (a && a.href && a.target != "_blank") {
+    if (a && a.href && a.target != "_blank" && a.href.indexOf("#")!= -1) {
       const url = new URL(a.href);
       this.trackEvents(a);
       if (url.origin === window.location.origin) {
