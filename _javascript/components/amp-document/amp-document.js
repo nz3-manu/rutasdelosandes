@@ -366,7 +366,8 @@ class AMPDocument extends React.Component {
       }
       a = node;
     }
-    if (a.href.indexOf("#") > 0) {
+    if (a.href.indexOf("#") >= 0) {
+      console.log("index of triggered")
       const targetElement = document.getElementById("costoentradaruiz")
       targetElement.scrollIntoView({
         behavior: "smooth",
