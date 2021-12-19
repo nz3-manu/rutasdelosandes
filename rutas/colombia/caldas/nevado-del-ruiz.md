@@ -20,6 +20,18 @@ El precio para ir con una agencia de viajes es de $ 230.000 pesos por persona sa
  
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See post to Nevado del Ruiz in English 🇬🇧</a>]__
  
+__En este post encontrarás la siguiente información:__
+
+* <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
+* <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
+* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
+* <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
+* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
+{% include iframe.html,
+   type:"custom",
+   mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
+   caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
+%}
  
  
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
@@ -132,19 +144,6 @@ Los carros que brindan el servicio los podrán encontrar en la entrada al Parque
 El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
  
  __Mapa de ruta realizada desde el terminal de Manizales hasta el Nevado del Ruiz__
-
-__En este post encontrarás la siguiente información:__
-
-* <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
-* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
-* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
-* <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
-* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
-{% include iframe.html,
-   type:"custom",
-   mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
-   caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
-%}
  
 <a name="rutanevadoruiz" id="rutanevadoruiz"></a>
  
