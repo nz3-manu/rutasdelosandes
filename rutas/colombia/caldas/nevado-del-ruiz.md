@@ -14,13 +14,6 @@ trending: true
  
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
 
-__En este post encontrarás la siguiente información:__
-
-* <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
-* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
-* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
-* <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
-* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
  
 El precio para ir con una agencia de viajes es de $ 230.000 pesos por persona saliendo desde Manizales (Sábado o Domingo), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/tzddho" target="_blank"> click aquí</a>__ 👈.
  
@@ -140,6 +133,13 @@ El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde la
  
  __Mapa de ruta realizada desde el terminal de Manizales hasta el Nevado del Ruiz__
 
+__En este post encontrarás la siguiente información:__
+
+* <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
+* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
+* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
+* <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
+* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
 {% include iframe.html,
    type:"custom",
    mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
