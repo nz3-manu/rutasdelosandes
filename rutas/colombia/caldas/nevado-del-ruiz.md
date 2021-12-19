@@ -28,7 +28,7 @@ __En este post encontrarás la siguiente información:__
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
 * <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
 
-[como llegar](#comollegarruiz)
+[como llegar](https://www.google.com/)
 
 {% include iframe.html,
    type:"custom",
