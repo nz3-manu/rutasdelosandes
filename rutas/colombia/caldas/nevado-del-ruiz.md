@@ -28,7 +28,7 @@ __En este post encontrarás la siguiente información:__
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
 * <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
 
-[como llegar](https://www.google.com/)
+[como llegar](https://rutasdelosandes.com/colombia/caldas/nevado)
 
 {% include iframe.html,
    type:"custom",
