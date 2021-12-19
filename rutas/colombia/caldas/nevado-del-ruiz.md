@@ -23,10 +23,13 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
 __En este post encontrarás la siguiente información:__
 
 * <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
-* <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
+* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
 * <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
 * <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
 * <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
+
+[como llegar](#comollegarruiz)
+
 {% include iframe.html,
    type:"custom",
    mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
