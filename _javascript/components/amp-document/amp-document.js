@@ -373,6 +373,7 @@ class AMPDocument extends React.Component {
         behavior: "smooth",
         block: "start",
       });
+      return false;
     }
     if (a && a.href && a.target != "_blank") {
       const url = new URL(a.href);
