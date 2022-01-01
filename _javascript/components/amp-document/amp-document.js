@@ -1,8 +1,12 @@
 import React from "react";
 import "isomorphic-fetch";
-import { withRouter } from "react-router";
+import {
+  withRouter
+} from "react-router";
 import PushBanner from "../push-banner";
-import { loadAmpDocument } from "../../helpers/loadData";
+import {
+  loadAmpDocument
+} from "../../helpers/loadData";
 
 //import {askPermission, subscribeUserToPush,registerTokenOnServer} from '../../messaging'
 
@@ -82,11 +86,15 @@ class AMPDocument extends React.Component {
         this.attachAmpDoc_(
           new DOMParser().parseFromString(window.__ROUTE_DATA__[0], "text/html")
         ).then(() => {
-          this.setState({ loading: false });
+          this.setState({
+            loading: false
+          });
         });
         delete window.__ROUTE_DATA__;
       } else {
-        this.setState({ loading: true });
+        this.setState({
+          loading: true
+        });
         loadAmpDocument(this.props.src)
           .then((text) => new DOMParser().parseFromString(text, "text/html"))
           .then((data) => {
@@ -94,10 +102,14 @@ class AMPDocument extends React.Component {
             return this.attachAmpDoc_(data);
           })
           .catch(() => {
-            this.setState({ offline: true });
+            this.setState({
+              offline: true
+            });
           })
           .finally(() => {
-            this.setState({ loading: false });
+            this.setState({
+              loading: false
+            });
           });
       }
     }, 0);
@@ -122,32 +134,38 @@ class AMPDocument extends React.Component {
 
   render() {
     if (this.state.offline) {
-      return (
-        <div>
-          <h2>Houston, tenemos problemas</h2>
-          <p>
-            parece que estas sin Conexión a internet&mdash; por favor revisala
-          </p>
-        </div>
+      return ( <
+        div >
+        <
+        h2 > Houston, tenemos problemas < /h2> <
+        p >
+        parece que estas sin Conexión a internet & mdash; por favor revisala <
+        /p> < /
+        div >
       );
     } else {
-      return (
-        <div>
-          {this.state.loading ? (
-            <div className="loading">
-              <img src="/images/loading.gif" />
-            </div>
+      return ( <
+        div > {
+          this.state.loading ? ( <
+            div className = "loading" >
+            <
+            img src = "/images/loading.gif" / >
+            <
+            /div>
           ) : (
             ""
-          )}
-          <div
-            className={this.state.loading ? "amp-container-hide" : null}
-            ref={(ref) => (this.container_ = ref)}
-          >
-            {}
-          </div>
-          <PushBanner />
-        </div>
+          )
+        } <
+        div className = {
+          this.state.loading ? "amp-container-hide" : null
+        }
+        ref = {
+          (ref) => (this.container_ = ref)
+        } > {} <
+        /div> <
+        PushBanner / >
+        <
+        /div>
       );
     }
   }
@@ -347,6 +365,15 @@ class AMPDocument extends React.Component {
         node = node.parentNode;
       }
       a = node;
+    }
+    if (a.href.indexOf("#") >= 0) {
+      console.log("index of triggered")
+      const targetElement = document.getElementById("costoentradaruiz")
+      targetElement.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+      return false;
     }
     if (a && a.href && a.target != "_blank") {
       const url = new URL(a.href);
