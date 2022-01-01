@@ -69,7 +69,7 @@ class Cart extends React.Component {
                 })}
               </div>
               {!cart.number ? (
-                <a href="/tienda" className="buy cartBuy">
+                <a href="https://randes-store.myshopify.com/" className="buy cartBuy">
                   IR A LA TIENDA
                 </a>
               ) : (
