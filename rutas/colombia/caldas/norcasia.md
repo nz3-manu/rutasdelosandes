@@ -16,7 +16,7 @@ En este post te mostraremos todo lo que debes de conocer de este mágico lugar, 
 
 Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje. 
 
-El valor para realizar este viaje con una agencia es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para separar el tour puedes dar __<a href="https://wa.link/fb0d8m" target="_blank"> click aquí</a>__ 👈
+El valor para realizar este viaje con una agencia es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para separar el tour puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈
 
 
 Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
