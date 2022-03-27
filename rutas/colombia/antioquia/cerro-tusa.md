@@ -22,6 +22,8 @@ Empecemos con la aventura ⛰.
 Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la pirámide natural más alta del mundo con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo, la cual produce destellos a causa de la refracción de los rayos solares.
  
 En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
+
+Si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/o0drgc" target="_blank"> click aquí</a>__ 👈.
  
 ## ¿QUÉ ENCONTRARÁS EN CERRO TUSA ?
  
