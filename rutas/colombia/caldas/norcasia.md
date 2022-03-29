@@ -12,20 +12,17 @@ trending: true
  
 # NORCASIA
  
-En este post te mostraremos todo lo que debes de conocer de este mágico lugar, además te contaremos como fue nuestra experiencia con la agencia de turismo que  fuimos y que sitios no pudimos visitar que tu no deberías perderte.
+En este post te mostraremos todo lo que debes conocer de este mágico lugar llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha,  por esta razón si vas con pocas personas, visitar estos lugares te podría costar un poco mas de que si fueras con una agencia de viajes.
 
-Queremos aclarar que no somos agencia de viaje, sólo queremos contarle nuestra experiencia de viaje, para que así puedas hacer mucho más agradable tu viaje. 
-
-El valor para realizar este viaje con una agencia es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para separar el tour puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
+El valor para realizar este viaje con una agencia, es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para mas información del tour puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
 
 
-Si aun no conoces nuestra tienda en línea de productos de montaña puedes visitarla <a href="https://www.instagram.com/randes.store/" target="_blank"> aquí.</a>
 
 __En este post encontrarás la siguiente información:__
 
-* <a href="#comollegarnorca"> ¿Cómo llegar a Norcasia ? </a>
-* <a href="#hospedajenorca"> Hospedajes disponibles en Norcasia </a>
-* <a href="#lugaresnorcasia"> Lugares turísticos en Norcasia </a>
+* ¿Cómo llegar a Norcasia ?
+* Hospedajes disponibles en Norcasia 
+* Lugares turísticos en Norcasia 
  
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
@@ -139,14 +136,7 @@ Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanc
  height:"674"
 %}
  
-Después de nadar cerca de 2 horas por el río, nos llevaron a otro lugar donde el río era un poco más cristalino, y almorzamos en este lugar.
- 
-{% include image.html,
- file:"rutas/caldas/norcasia/rio-almuerzo.jpg",
- caption:"Río la Miel",
- width:"1200",
- height:"674"
-%}
+Después de nadar cerca de 2 horas por el río, nos llevaron a otro lugar donde almorzamos al borde del río.
  
 Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
  
@@ -172,11 +162,13 @@ El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la pre
 _Este lugar debe de estar sin duda en tu lista para visitar._
  
 {% include image.html,
- file:"rutas/caldas/norcasia/embalse-amani.jpg",
- caption:"Embalse de Amaní",
- width:"1200",
- height:"674"
+ file:"rutas/caldas/norcasia/represa.jpg",
+ caption:"Represa del embalse de Amaní",
+ width:"1076",
+ height:"1076"
 %}
+
+__<span class="advise"> Foto por: Entre Ríos</span>__
  
 Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
@@ -205,6 +197,7 @@ Este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos
  width:"1200",
  height:"674"
 %}
+__<span class="advise"> Foto por: Entre Ríos</span>__
  
 Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminada el tour.
 
@@ -221,7 +214,6 @@ Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que signi
  height:"674"
 %}
 
-__<span class="advise"> Foto por: <a href="https://www.instagram.com/haleja28/"  target="_blank"> @haleja28</a> </span>__
 
  
 Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
