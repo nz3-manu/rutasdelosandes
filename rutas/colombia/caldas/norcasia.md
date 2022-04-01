@@ -3,7 +3,7 @@ layout: trail
 title:  Norcasia
 categories: colombia
 seo_title: Guía completa de Norcasia | Actualizada 2022
-excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y que hacer en Norcasia.
+excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y lugares para visitar en Norcasia.
 images_url: /images/rutas/caldas/norcasia
 viewranger:
 author: manuel
@@ -210,10 +210,10 @@ Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que signi
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
  caption:"Cañon Río la Miel",
- width:"1200",
- height:"674"
+ width:"1440",
+ height:"1800"
 %}
-
+__<span class="advise"> Foto por: Entre Ríos</span>__
 
  
 Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
