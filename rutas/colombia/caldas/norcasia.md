@@ -14,7 +14,8 @@ trending: true
  
 En este post te mostraremos todo lo que debes conocer de este mágico lugar llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha,  por esta razón si vas con pocas personas, visitar estos lugares te podría costar un poco mas de que si fueras con una agencia de viajes.
 
-El valor para realizar este viaje con una agencia, es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para mas información del tour puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
+__Tour con agencia de viajes:__
+el valor para realizar este viaje con una agencia, es de aproximadamente $390.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para más información puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
 
 
 
