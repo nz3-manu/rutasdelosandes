@@ -18,6 +18,7 @@ __Tour con agencia de viajes:__
 el valor para realizar este viaje con una agencia, es de aproximadamente $390.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para más información puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
 
 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See post to Norcasia in English 🇬🇧</a>]__
 
 __En este post encontrarás la siguiente información:__
 
@@ -63,7 +64,7 @@ Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opcio
 
 * __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
 
-* __Bogota a La Dorada:__ El valor del pasaje es de aproximadamente $40.000, algunas empresas son: Expreso Bolivariano, Rápido Ochoa, la duración del trayecto es alrededor de 5 horas.
+* __Bogota a Norcasia:__ El valor del pasaje es de aproximadamente $50.000, la empresa que viaja directo a Norcasia es Coopuertos, la duración del trayecto es alrededor de 6 horas, el horio de salida son 11 am y 2 pm.
 
 * __Cali a La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
 
@@ -221,7 +222,7 @@ Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán most
  
 __Recomendación:__ hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes.
 
-Puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ para separar tu tour.
+Puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ para separar tu tour.
 
 __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
