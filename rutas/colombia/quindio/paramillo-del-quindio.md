@@ -16,6 +16,8 @@ En este post te contaremos como fue nuestra experiencia en el Paramillo del Quin
 
 El precio para ir con una agencia de viajes es de $ 769.000 pesos por persona saliendo desde Manizales o Pereira (3 dias y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/5aczuk" target="_blank"> click aquí</a>__ 👈.
 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See post to Paramillo del Quíndio in English 🇬🇧</a>]__
+
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
 
 El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
@@ -67,7 +69,10 @@ Iniciando el trayecto encontramos que el puente por el cual deberíamos cruzar e
 
 Después de cruzar el río seguimos con el ascenso, en un principio todo iba de maravilla ya que parte del camino habían piedras, pero algunos kilómetros más ya se empezó a ser resbaloso en algunos tramos era algo difícil con tu maleta al hombro.
 
- 
+Además del mal estado de este camino en invierno tendrás que tener cuidado ya que por aquí transitan muchos arrieros.
+
+En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señalizadas, pero queremos hacer la aclaración que encontramos intersecciones de caminos que de haberlos tomado nos hubieran llevado a diferente lugar del parque los nevados.
+
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/chaqueta-randes.png",
@@ -75,10 +80,6 @@ caption:"",
 width:"480",
 height:"200" %}
 </a>
-
-Además del mal estado de este camino en invierno tendrás que tener cuidado ya que por aquí transitan muchos arrieros.
-
-En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señalizadas, pero queremos hacer la aclaración que encontramos intersecciones de caminos que de haberlos tomado nos hubieran llevado a diferente lugar del parque los nevados.
 
 ## HOSPEDAJE CERCA AL PARAMILLO DEL QUINDÍO
 
@@ -139,7 +140,6 @@ Saliendo de la finca Buenos Aires encontramos 2 senderos cualquiera de los 2 se 
    caption:"Mapa del valle del Cocora al Paramillo del Quindío"
 %}
  
- 
 ### CAMINO 1
  
 Por este camino pasamos por una parte que llaman bosque de esponjas, y qué mejor nombre ya que allí fue donde nos terminamos de mojar las botas de senderismo :(, después de caminar por algunos minutos por esta zona húmeda, volvimos a potreros un poco más secos, pero con muchos caminos diferentes hechos por vacas.
@@ -163,6 +163,7 @@ caption:"base-paramillo",
 width:"1200", 
 height:"750" %}
 
+Después de hacer cumbre y estar por tiempo tomando fotos empezamos nuestro descenso a las 12 pm, en nuestro regreso nos encontramos con algunas personas de nuestro hospedaje que se habían perdido en el camino para subir al Paramillo del Quindio, así que nos regresamos junto con ellos a nuestro hospedaje, llegamos cerca de las 6 pm.
 
 __Recomendación final:__ así vayas con un guía no va de más tener tu gps con la ruta, si vas a ir solo con la ruta gps descargada en tu celular debes de tener en cuenta que si las condiciones climáticas no son muy buenas como neblina, lluvia etc.. (lo que es muy problema en este lugar) el Gps de tu celular podrá tener un ángulo de desfase de 100 metros.
  
@@ -178,9 +179,6 @@ width:"480",
 height:"200" %}
 </a>
  
- 
-Después de hacer cumbre y estar por tiempo tomando fotos empezamos nuestro descenso a las 12 pm, en nuestro regreso nos encontramos con algunas personas de nuestro hospedaje que se habían perdido en el camino para subir al Paramillo del Quindio, así que nos regresamos junto con ellos a nuestro hospedaje, llegamos cerca de las 6 pm.
- 
 ## DÍA 3
 
 Nos levantamos a las 7:30 am y comenzamos el descenso a las 8:30 y llegamos al valle del Cocora a la 1 pm.
@@ -190,8 +188,6 @@ Nos levantamos a las 7:30 am y comenzamos el descenso a las 8:30 y llegamos al v
 Por último, si no cuentas con transporte recuerda tener presente los horarios de salida de los últimos jeep del valle del cocora, los fines de semana el último sale a las 6:30 pm, estos horarios pueden haber cambiado así que es mejor que los verifiques.
  
 No olvides dejar nada en el páramo como: bolsas, plástico etc..
- 
- 
 
 Este es el fin de la ruta al Paramillo del Quindío, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 

@@ -12,7 +12,7 @@ trending: true
  
 # NORCASIA
  
-En este post te mostraremos todo lo que debes conocer de este mágico lugar llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha,  por esta razón si vas con pocas personas, visitar estos lugares te podría costar un poco mas de que si fueras con una agencia de viajes.
+En este post te mostraremos todo lo que debes de saber antes de viajar a llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha,  por esta razón si vas con pocas personas, visitar estos lugares te podría costar un poco mas de que si fueras con una agencia de viajes.
 
 __Tour con agencia de viajes:__
 el valor para realizar este viaje con una agencia, es de aproximadamente $390.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para más información puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ 👈
@@ -80,6 +80,8 @@ Una vez llegamos a Norcasia nos sorprendió que a pesar de ser un pueblo pequeñ
  
 Algo que debes de saber de Norcasia es que __no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.__
 
+A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
+
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
@@ -87,8 +89,6 @@ caption:"",
 width:"480", 
 height:"200" %}
 </a>
- 
-A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
  
 <a name="hospedajenorca" id="hospedajenorca"></a>
  
@@ -225,6 +225,8 @@ __Recomendación:__ hay agencias en Norcasia que apenas están comenzando y esta
 Puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ para separar tu tour.
 
 __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
+
+Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -233,8 +235,6 @@ caption:"",
 width:"480", 
 height:"200" %}
 </a>
-
-Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
 ## ¿CÓMO REGRESAR DE NORCASIA?
 
