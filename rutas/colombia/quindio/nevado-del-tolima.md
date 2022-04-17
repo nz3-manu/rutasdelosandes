@@ -14,14 +14,14 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
-El precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
+__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
 
 
 Lo que encontraras en este post:
 
-* <a href="#comollegar"> Cómo llegar al Nevado del Tolima</a>
-* <a href="#hospedajesnevadotolima"> Hospedajes cerca al Nevado del Tolima</a>
-* <a href="#rutanevadotolima"> Ruta desde Salento al Nevado del Tolima</a>
+* Cómo llegar al Nevado del Tolima
+* Hospedajes cerca al Nevado del Tolima
+* Ruta desde Salento al Nevado del Tolima
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
@@ -56,12 +56,12 @@ La ruta que nosotros realizamos fue por Salento Quindio.
 * __Desde Pereira a Salento:__
 Los Buses salen todos los dias  a partir de las 7:30 am cada hora, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
   
-📞 __Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o  <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.__
+📞 __Teléfono: <a href="tel: 0363244825 "> (606) 3244825</a> o  <a href="tel: 606 3215447"> (606) 3215447</a> Expreso Alcalá.__
 
 * __Desde Armenia a Salento:__
 Los Buses salen  a partir de las 5:30 am cada  30 minutos, el valor del pasaje es aproximadamente de $5.300 pesos. Una de las empresas de buses es: Expreso Alcalá.
 
-📞 __Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
+📞 __Teléfono: <a href="tel: 036747 46 44"> (606)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
 
 Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos, la duración del trayecto son 20 minutos.
 
@@ -84,9 +84,8 @@ __Recomendación: Para hacer esta ruta recomiendan estar como mínimo a las 6:30
 
 Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
 
-Para contratar este servicio 🐴 se necesita llamar con 2 días de anticipación (más abajo te dejaremos los teléfonos).
 
-__Mapa de ruta realizada desde: Valle del cocora, Arenales y Termales del Cañón__
+__Mapa de ruta realizada desde: Valle del cocora y Arenales__
 
 {% include iframe.html
    type:"custom"
@@ -202,6 +201,8 @@ Después de ese delicioso café aproveche para cambiarme las botas que a pesar d
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]__
 
+### CAMINO A LA CUMBRE  DEL NEVADO DEL TOLIMA
+
 ### DÍA #2
 
 Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban un poco más secas así que las guarde para subir a la cumbre y use otros tenis que llevaba para subir a Arenales.
@@ -215,8 +216,6 @@ No olvides llevar de nuevo contigo toda la basura, ya que es triste ver en este 
 Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
 
 ### DÍA #3
-
-### CAMINO A LA CUMBRE  DEL NEVADO DEL TOLIMA
 
 Nuestra recomendación para hacer cumbre al Nevado del Tolima es que vayas con alguien que cuente con la experiencia y el entrenamiento adecuado, ya como veras más adelante en el post algunos tramos son muy peligrosos para subir sin tener los equipos adecuados.
 

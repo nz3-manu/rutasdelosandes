@@ -123,7 +123,7 @@ Al siguiente nos levantamos con un clima muy frío y mucha lluvia así que nos p
  
 {% include image.html, 
 file:"rutas/quindio/paramillo-quindio/ropa.jpg", 
-caption:"ropa", 
+caption:"ropa de senderismo randes", 
 width:"1000", 
 height:"1077" %}
 
@@ -170,6 +170,8 @@ __Recomendación final:__ así vayas con un guía no va de más tener tu gps con
 Regresando nos encontramos con varias personas que estaban siguiendo la ruta gps en el celular y se terminaron perdiendo ya que les mostraba el camino mucho más lejos de lo que realmente estaba.
  
 Como dato curioso a pesar de que llevábamos un Garmin,  en algunos tramos presentan un ángulo de desfase de 12 metros.
+
+Puedes dar __<a href="https://wa.link/wa.link/5aczuk" target="_blank"> click aquí</a>__ para separar tu tour.
  
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
