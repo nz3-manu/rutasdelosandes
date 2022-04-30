@@ -12,16 +12,16 @@ trending: true
 
 # NEVADO DEL TOLIMA
 
-En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
+En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
 
-__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
+__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-tolima-4-dias-3-noches-todo-incluido-desde-salento" target="_blank"> click aquí</a>__ 👈.
 
 
 Lo que encontraras en este post:
 
-* Cómo llegar al Nevado del Tolima
-* Hospedajes cerca al Nevado del Tolima
-* Ruta desde Salento al Nevado del Tolima
+* Ruta al Nevado del Tolima
+* Hospedaje 
+* Camino a la cumbre del Nevado del Tolima
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
@@ -70,10 +70,8 @@ height:"200" %}
 
 ## RUTA AL NEVADO DEL TOLIMA
 
-__Recomendación: Para hacer esta ruta recomiendan estar como mínimo a las 6:30 am en el Valle del Cocora__
-
-Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%, así que si van con mucho equipaje lo recomendable es contratar el servicio de mula de carga, en el cual te permitirán subir un  máximo de 3 maletas desde el Valle del Cocora hasta la finca que deseas hospedarte. 
-
+Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%.
+ 
 
 __Mapa de ruta realizada desde: Valle del cocora y Arenales__
 
@@ -85,7 +83,7 @@ __Mapa de ruta realizada desde: Valle del cocora y Arenales__
 
 ### DÍA #1
 
-Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales, en el cual nos cobraron $8.000 pesos, nos dieron un tiquete con el cual ya podremos ingresar al parque, nos preguntaron cuál era el recorrido que íbamos a hacer y llenaremos una planilla con nuestra información y número de contactos.
+Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales.
 
 Continuamos nuestro camino y con cada paso que dábamos dejamos atrás las palmas de cera y nos adentramos más en bosque, cruzamos algunos puentes y pasamos cerca de la casa de los colibrí, que hasta la fecha este lugar se encuentra cerrado.
 
@@ -101,8 +99,7 @@ height:"505" %}
 Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua, el ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano. 
 
 
-En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
-Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
+En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -131,7 +128,7 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 <a id="hospedajesnevadotolima"></a>
 
-## HOSPEDAJE CERCANO EN EL NEVADO DEL TOLIMA
+## HOSPEDAJE 
 
 Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula :(. 
 
@@ -147,25 +144,15 @@ Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban 
 
 Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginarán las lomitas que toca subir 😅.
 
-Al llegar a Arenales armamos nuestras carpas, el frio que hacia en este lugar era demasiado, este lugar no contaba con fuentes de agua cercana, para nuestra fortuna habíamos empacado algunos litros de agua desde la finca que nos hospedamos y con esto pudimos cocinar.
+Al llegar a Arenales armamos nuestras carpas, el frió que hacia en este lugar era demasiado, este lugar no cuenta con fuentes de agua cercana, así que llevamos botellas plásticas con agua.
 
 No olvides llevar de nuevo contigo toda la basura, ya que es triste ver en este lugar tantas botellas plásticas 🥲.
 
 Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
 
-### DÍA #3
-
-Nuestra recomendación para hacer cumbre al Nevado del Tolima es que vayas con alguien que cuente con la experiencia y el entrenamiento adecuado, ya como veras más adelante en el post algunos tramos son muy peligrosos para subir sin tener los equipos adecuados.
-
-#### Formas para hacer cumbre en el Nevado del Tolima:
-
-
-* Saliendo directamente de la finca que nos estamos hospedando a las 12 am, cada uno tendrá que llevar el equipo de montaña: casco, piolet, crampones, arnés.
-
-* Acampando en la base del Nevado del Tolima (Arenales) la cual está a 4.500 msnm 🥶, si eliges esta opción tienes que tener en cuenta que debes de tener: __carpa y sleeping que resista bajas temperaturas__  además debes de tener en cuenta que allí no hay ríos cerca así que deberás llevar agua para cocinar.
+### DÍA #3 
  
- 
-Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicare:
+Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicaremos:
 
 __Tramo de arena__
 
@@ -181,7 +168,7 @@ height:"800" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/ssc_roll/"  target="_blank"> @ssc_roll </a> </span>__
 
-En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargo muy rapido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino,  para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
+En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargo muy rápido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino,  para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
 
 __Tramo de Rocas__
 
@@ -195,7 +182,7 @@ height:"960" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/dulima_tourtravel/"  target="_blank"> @dulima_tourtravel </a> </span>__
 
-Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piolet colgado a un costado del maletín y el bastón de senderismo en una mano, y  al intentar subir un tramo el piolet se pegó con la roca y como llevaba el bastón de senderismo en una mano no pudo sujetarse bien de la roca y casi sigue derecho cuesta abajo, para su fortuna un amigo que venía atrás la alcanzo a coger de las piernas 😰, esto pasó en un tramo que ya no estábamos asegurados a la roca.
+Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piolet colgado a un costado del maletín y el bastón de senderismo en una mano, y  al intentar subir un tramo el piolet se pegó con la roca y como llevaba el bastón de senderismo en una mano no pudo sujetarse bien de la roca y casi sigue derecho cuesta abajo, para su fortuna estábamos asegurados a la roca.
 
 __Recomendación:__ antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien.
 
