@@ -14,7 +14,7 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, lo que buscamos es que seas consiente de la exigencias de esta ruta y así puedas prepararte mejor al momento de hacerla.
 
-__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1'050.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
+__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/drhr7t" target="_blank"> click aquí</a>__ 👈.
 
 
 Lo que encontraras en este post:
@@ -53,17 +53,7 @@ Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento 
 
 La ruta que nosotros realizamos fue por Salento Quindio.
 
-* __Desde Pereira a Salento:__
-Los Buses salen todos los dias  a partir de las 7:30 am cada hora, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
-  
-📞 __Teléfono: <a href="tel: 0363244825 "> (606) 3244825</a> o  <a href="tel: 606 3215447"> (606) 3215447</a> Expreso Alcalá.__
-
-* __Desde Armenia a Salento:__
-Los Buses salen  a partir de las 5:30 am cada  30 minutos, el valor del pasaje es aproximadamente de $5.300 pesos. Una de las empresas de buses es: Expreso Alcalá.
-
-📞 __Teléfono: <a href="tel: 036747 46 44"> (606)747 46 44</a> o  <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.__
-
-Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana  salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos, la duración del trayecto son 20 minutos.
+Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, la duración del trayecto son 20 minutos.
 
 
 una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo todo lo que se venia 😅.
@@ -109,9 +99,7 @@ height:"505" %}
 
 
 Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua, el ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano. 
-En este lugar posiblemente les puedan vender almuerzo si llaman con anticipación. 
 
-📞 __Teléfono: <a href="tel: 3137921845"> 3137921845</a> Heriberto.__
 
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores, amenos que sea una emergencia. 
 Si llegas a este lugar antes de las 1 pm, estarás con buen tiempo para seguir subiendo.
@@ -143,57 +131,7 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 <a id="hospedajesnevadotolima"></a>
 
-## HOSPEDAJES CERCANOS EN EL NEVADO DEL TOLIMA
-
-### FINCA PRIMAVERA
-Esta es la finca en la cual llegan más extranjeros, así que se la pasarán un poco ocupados atendiendo la gente y no habrá muchas charlas y pláticas con los dueños de esta finca.
- 
-#### Los servicios que prestan en la Finca Primavera son los siguientes:
-* Habitación compartida 🛌: $30.000  pesos por persona.
-* Zona de camping 🏕:$8.000 pesos por persona.
-* Almuerzo y cena 🍛: $12.000 pesos. 
-* Desayuno 🥟: $10.000 pesos. 
-
-📞 __Teléfono: <a href="tel: 3136751059"> 3136751059</a> German.__
-
-{% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/FincaPrimavera.jpeg", 
-caption:"Foto Finca Primavera", 
-width:"1200", 
-height:"583" %}
-
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
- 
- 
-### FINCA LA PLAYA
-
-Esta finca se encuentra un poco más cerca del nevado del tolima, es una finca donde no llega tanto extranjero como en la Finca Primavera y creo que por eso cada vez que llega un visitante lo hacen sentir como si estuviera en casa 🏡, esto fue algo que realmente me gustó de este lugar.
-
-{% include image.html, 
-file:"rutas/quindio/nevado-del-tolima/finca-la-playa.jpeg", 
-caption:"Foto Finca la Playa", 
-width:"1200", 
-height:"583" %}
-
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/catabuitragog/"  target="_blank"> @catabuitragog </a> </span>__
-
-#### Los servicios que prestan en la Finca la Playa son los siguientes:
-* Habitación compartida 🛌:$23.000 pesos por persona.
-* Zona de camping 🏕:$12.000 pesos por persona.
-* Almuerzo y cena 🍛: $14.000 pesos.
-* Desayuno 🥟:$12.000 pesos.
-
-__Servicio de arriería 🐴:__
-* Cocora a la Finca la Playa: $120.000 Pesos máximo 3 maletas.
-* Finca la playa a Arenales: $80.000 Pesos.
-
-La señal puede ser un poco mala en esta zona así que pueden enviarle un mensaje especificando el día que vas y los servicios que necesitas, él cuando pueda te devolverá la llamada.
-
-📞 __Teléfono:<a href="tel: 3106314674"> 3106314674</a> o <a href="tel: 3106305329"> 3106305329</a> Carlos__
- 
-Te dejamos los contactos de estas fincas con el fin de ayudarlos, ya que por medio del turismo han encontrado una fuente de ingresos adicional, si crees que nos faltó una finca nos puedes enviarnos la información para publicarla.
-
-Solo le hemos pedido a cada de una de estas fincas el buen trato a cada viajeros de nuestra página, así que les puedes decir que viste la información en la página de rutas de los andes y quizás te sirvan un poco más de café al llegar 😄.
+## HOSPEDAJE CERCANO EN EL NEVADO DEL TOLIMA
 
 Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula :(. 
 
