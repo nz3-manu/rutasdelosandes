@@ -2,7 +2,7 @@
 layout: trail
 title:  Nevado del Tolima
 categories: colombia 
-seo_title: Ruta al Nevado del Tolima por salento.
+seo_title: Cima al Nevado del Tolima - Rutas de los andes.
 excerpt: El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes con 5.215 msnm.
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
@@ -16,11 +16,12 @@ En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima,
 
 __Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-tolima-4-dias-3-noches-todo-incluido-desde-salento" target="_blank"> click aquí</a>__ 👈.
 
+__[<a target="_blank" href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html">Quizás también te pueda interesar: Ruta al Nevado del Tolima</a>]__
 
-Lo que encontraras en este post:
+__En este post encontrarás la siguiente información:__
 
 * Ruta al Nevado del Tolima
-* Hospedaje 
+* Camino hasta sector Arenales Base Nevado del Tolima
 * Camino a la cumbre del Nevado del Tolima
 
 
