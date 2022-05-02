@@ -14,16 +14,17 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
 
-__Tour con agencia de viajes:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-tolima-4-dias-3-noches-todo-incluido-desde-salento" target="_blank"> click aquí</a>__ 👈.
-
-__[<a target="_blank" href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html">Quizás también te pueda interesar: Ruta al Nevado del Tolima</a>]__
+__Tour al Nevado del Tolima:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-tolima-4-dias-3-noches-todo-incluido-desde-salento" target="_blank"> click aquí</a>__ 👈.
 
 __En este post encontrarás la siguiente información:__
 
-* Ruta al Nevado del Tolima
-* Camino hasta sector Arenales Base Nevado del Tolima
-* Camino a la cumbre del Nevado del Tolima
-
+* Datos Curiosos del Nevado del Tolima
+* ¿Cómo llegar al nevado del Tolima?
+* Ruta hasta la cumbre del nevado del Tolima 
+   * Día 1: Camino Valle del Cocora hasta primer hospedaje 
+   * Día 2: Camino hasta la Base Nevado del Tolima (Arenales)
+   * Día 3: Camino a la cumbre del Nevado del Tolima
+   * Día 4: Camino de regreso al Valle del Cocora
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
  
@@ -54,6 +55,9 @@ Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento 
 
 La ruta que nosotros realizamos fue por Salento Quindio.
 
+__[<a target="_blank" href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html">Quizás también te pueda interesar: Ruta al Nevado del Tolima</a>]__
+
+
 Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, la duración del trayecto son 20 minutos.
 
 
@@ -69,17 +73,17 @@ width:"480",
 height:"200" %}
 </a>
 
-## RUTA AL NEVADO DEL TOLIMA
+## RUTA HASTA LA CUMBRE DEL NEVADO DEL TOLIMA
 
 Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%.
  
 
-__Mapa de ruta realizada desde: Valle del cocora y Arenales__
+__Mapa de ruta realizada desde el Valle del Cocora hasta Arenales__
 
 {% include iframe.html
    type:"custom"
    mid:"1tEzBVzj-1e34pg5DIajHGq2hXIVRGEjb&hl=en"
-   caption:"Mapa valle del cocora y Arenales"
+   caption:"Mapa valle del cocora hasta Arenales"
 %}
 
 ### DÍA #1
@@ -129,11 +133,20 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 <a id="hospedajesnevadotolima"></a>
 
-## HOSPEDAJE 
+## HOSPEDAJE CERCA AL NEVADO DEL TOLIMA
 
 Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula :(. 
 
 Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
+
+En esta finca podrán encontrar los siguientes servicios:
+
+* Habitación compartida 🛌: $30.000  pesos por persona.
+* Zona de camping 🏕:$10.000.
+* Almuerzo y cena 🍛: $12.000 pesos.
+* Desayuno 🥟: $10.000 pesos.
+
+<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]__
 
@@ -210,7 +223,7 @@ height:"804" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
 
 
-__Recuerda:__ 
+__Recomendación:__ 
 * Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
 * Revisa bien tu equipo de montaña; Crampones, piolet, casco y arnés.
 
@@ -218,10 +231,6 @@ Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nu
 
 ### DÍA #4
 Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que esta fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
-
-__Por último te recomendamos:__ que todos estos trayectos lo realices con un guía, ya que si estando allá le pides indicaciones a los campesinos ellos te harán ver que el camino es muy fácil para llegar, ellos lo dicen porque toda la vida han vivido en ese lugar 🗻, pero para nosotros que solo estamos enseñados a ver carros y edificios es más complicado guiarse solo  por esas indicaciones. 
-
-Además de ir con un guía te recomendamos llevar la ruta a realizar en un Gps o en tu celular para que así te puedas guiar en caso de presentarse una emergencia.
 
 Este es el fin de la ruta al Nevado del Tolima, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
