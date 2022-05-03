@@ -2,7 +2,7 @@
 layout: trail
 title:  Nevado del Tolima
 categories: colombia 
-seo_title: Cima al Nevado del Tolima - Rutas de los andes.
+seo_title: Cima al Nevado del Tolima (2022)- Rutas de los andes.
 excerpt: El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes con 5.215 msnm.
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
