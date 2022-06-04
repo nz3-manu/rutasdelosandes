@@ -65,7 +65,7 @@ una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo tod
 
 <a id="rutanevadotolima"></a>
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
@@ -106,7 +106,7 @@ Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estre
 
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 

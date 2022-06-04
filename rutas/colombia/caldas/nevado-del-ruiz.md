@@ -91,7 +91,7 @@ Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más 
  
 <a name="hospedajesnevadoruiz" id="hospedajesnevadoruiz"></a>
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
@@ -134,7 +134,7 @@ __Importante:__ el Nevado del Ruiz se encuentra en alerta amarilla, por lo que s
 
 _Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 

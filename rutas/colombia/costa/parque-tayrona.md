@@ -74,7 +74,7 @@ Puedes comprar tu ingreso directamente en la taquilla o a través de la página 
 
 __Recomendación:__ El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se llena el Tayrona éste cerrará sus puertas.
  
-<a href="https://www.instagram.com/randes.store/" target="_blank">
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/ropa-randes.gif",
 caption:"",

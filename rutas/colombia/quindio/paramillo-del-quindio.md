@@ -73,7 +73,7 @@ Además del mal estado de este camino en invierno tendrás que tener cuidado ya 
 
 En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señalizadas, pero queremos hacer la aclaración que encontramos intersecciones de caminos que de haberlos tomado nos hubieran llevado a diferente lugar del parque los nevados.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/chaqueta-randes.png",
 caption:"",
@@ -173,7 +173,7 @@ Como dato curioso a pesar de que llevábamos un Garmin,  en algunos tramos prese
 
 Puedes dar __<a href="https://wa.link/wa.link/5aczuk" target="_blank"> click aquí</a>__ para separar tu tour.
  
-<a href="https://www.instagram.com/randes.store/" target="_blank">
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/ropa-randes.gif",
 caption:"",

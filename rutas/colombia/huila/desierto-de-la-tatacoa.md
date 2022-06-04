@@ -52,7 +52,7 @@ Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproxi
  
 * __Cali hasta Neiva:__ El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de  10 horas.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
@@ -74,7 +74,7 @@ Una vez en Villavieja aprovechamos para visitar el __museo paleontológico 🏛_
  
 Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 

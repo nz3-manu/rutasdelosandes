@@ -82,7 +82,7 @@ Algo que debes de saber de Norcasia es que __no hay servicio de Movistar así qu
 
 A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
@@ -228,7 +228,7 @@ __Ultima recomendación:__ si eres de las personas que te gusta viajar pero no t
 
 Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
  
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 

@@ -31,7 +31,7 @@ Esta bahía está rodeada de densa selva húmeda, lo  que hace de este un clima 
 
 Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión". 
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 

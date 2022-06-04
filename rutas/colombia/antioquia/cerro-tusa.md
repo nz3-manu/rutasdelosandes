@@ -47,7 +47,7 @@ Después de conocer un poco del pueblo, tomamos un mototaxi el cual tiene cupo m
  
 Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco más largo y no lo documentamos).
  
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
