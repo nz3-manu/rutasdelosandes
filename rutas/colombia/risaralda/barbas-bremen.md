@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Reserva Natural Barbas Bremen
 categories: colombia
@@ -14,6 +13,7 @@ author: manuel
 
 La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). Entre los atractivos de la reserva estan la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
+¿Quieres realizar esta ruta con un guia local?__<a href="https://wa.link/jt96l7" target="_blank"> click aquí</a>__ 👈
 
 ## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
 
@@ -101,25 +101,8 @@ __Nota:__ El agua que baja de la cascada esta contaminada por aguas negras, así
 
 Este es el fin de la ruta a Barbas Bremen, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
-ℹ️ __Descargar Información adicional de la ruta: click  <a target="_blank" href="https://randes-store.myshopify.com/products/ruta-nevado-del-ruiz">aquí</a>__
 
 
-## Presupuesto a Barbas Bremen por persona 💰
-  <amp-accordion animate>
-    <section>
-      <h4> 🚌 Transporte Total $5.000</h4>
-      <p> Pereira-Yarumal $2.300</p>
-    </section>
-    <section>
-      <h4>🍲 Alimentación $7.000</h4>
-      <p> En el camino van a encontrar algunas tiendas y restaurantes como lo menciona la ruta</p>
-    </section>
-    <section>
-      <h4> 🚌💨🏃‍ Imprevistos</h4>
-      <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
-    </section>
-  </amp-accordion>
-<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 
 
 
