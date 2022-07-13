@@ -8,13 +8,18 @@ excerpt: Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno d
 images_url: /images/rutas/quindio/acaime
 viewranger: MTYzNjI1OA==
 author: manuel
+trending: true
 ---
+
+# CASA DE LOS COLIBRÍES EN SALENTO
 
 La casa de los colibríes se encuentra a 4.8 kilómetros del Valle del Cocora, Salento Quindío hogar del árbol nacional de Colombia la palma de cera🌴 y de muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción. 
 
+¿Quieres realizar esta ruta con un guia local?__<a href="https://wa.link/qa385m" target="_blank"> click aquí</a>__ 👈
+
 Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de Flora y fauna. Es conocida principalmente por albergar varias especies de colibríes que rondan está casa, algunos se pueden ver tan cerca que pareciera no les importara la presencia de los seres humanos.
 
-Actulmente el ingreso a este lugar se encuentra cerrado
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See post to Casa de los Colibríes in English 🇬🇧</a>]__
 
 ## ¿Qué encontrarás en Salento 🏞👀?
 * Un sendero acompañado de gran biodiversidad flora y fauna.
