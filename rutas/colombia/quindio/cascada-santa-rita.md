@@ -12,6 +12,8 @@ author: manuel
 
 Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al municipio de Salento en el departamento del Quindío. En esta región en 1926 se empezó a realizar una de las obras más ambiciosas para esta época: el Ferrocarril que comunicaría a Armenia con Ibagué, una obra que prometía progreso para toda la región, pero que por múltiples razones en el año de 1948 se suspendió la construcción de esta importante obra.
 
+¿Quieres realizar esta ruta con un guia local?__<a href="https://wa.link/xdqrbo" target="_blank"> click aquí</a>__ 👈
+
 Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferrocarril.
 
 
@@ -49,13 +51,8 @@ __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que much
 
 Desde la vereda Boquía hasta la entrada del sendero hay aproximadamente 1 kilómetro, el camino está en buen estado, nos tardamos 40 minutos caminando para llegar a la finca Santa Rita.
 
-En la finca Santa Rita brindan servicio de: 
-* Camping 🏕 $15.000 Pesos por persona.
-* Habitación $40.000 Peso por persona. 
-* Desayuno $6.000 Pesos.
-* Almuerzos $8.000 pesos y $12.000 pesos(trucha).
 
-Para seguir nuestro camino a las cascadas tuvimos que pagar $5.000 Pesos. Nos dieron una manilla con la cual ingresamos.
+Para seguir nuestro camino a las cascadas tuvimos que pagar $8.000 Pesos. Nos dieron una manilla con la cual ingresamos.
 
 Si vas en moto o carro lo podrás dejar en este punto y pagar el costo de parqueadero.
 
@@ -84,23 +81,6 @@ height:"1080"
 Después de bañarnos en el agua fría, decidimos regresar antes de las 4:00 pm para tomar el bus que pasa por Boquía y contar con la suerte de que nos pudieran llevar, ya que los fines de semana es casi imposible tomar un bus después de las 4:00 pm por el número de viajeros que vienen de salento. Después de esperar y no contar con suerte tuvimos que tomar un bus e irnos hasta salento y de allí tomar otro de regreso.
 
 Este es el fin de la ruta a la Cascada Santa Rita, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
-
-## Presupuesto a la Cascada Santa Rita por persona  🤔💰
-  <amp-accordion animate>
-    <section>
-      <h4> 🚌 Transporte Pereira-Boquía-Pereira $14.000</h4>
-      <p> Transporte por el trayecto Pereira-Boquía $7.000</p>
-    </section>
-    <section>
-      <h4>🍲 Alimentación $12.000</h4>
-      <p> Podrán comprar comida en Santa Rita</p>
-    </section>
-    <section>
-      <h4> 🚌💨🏃‍ Imprevistos</h4>
-      <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
-    </section>
-  </amp-accordion>
-<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
 
 
 

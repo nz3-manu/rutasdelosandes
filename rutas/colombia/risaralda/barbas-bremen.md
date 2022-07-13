@@ -7,6 +7,7 @@ excerpt: La reserva Barbas Bremen se encuentra localizada entre los municipios d
 images_url : /images/rutas/risaralda/barbasBremen
 viewranger: MTYzNjQxOQ==
 author: manuel
+trending: true
 ---
 
 # RESERVA BARBAS BREMEN
