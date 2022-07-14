@@ -20,7 +20,7 @@ Lo primero que debes de saber es que si no cuentas con moto o carro adecuado par
  
 Si quieres ir con una agencia te costará alrededor de $150.000 saliendo desde Manizales en carro 4x4, si quieres más información __<a href="https://wa.link/pas9vu" target="_blank"> click aquí</a>__ 👈.
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See post to Termales del Sifón in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/termales-sifon.html">See post to Termales del Sifón in English 🇬🇧</a>]__
  
  
 ## ¿QUÉ ENCONTRARÁS EN LOS TERMALES DEL SIFÓN?
