@@ -23,7 +23,6 @@ Lo primero que debes de saber es que si no cuentas con moto o carro adecuado par
 🚙 Si quieres que te informemos de la próxima salida grupal a los termales del Sifón, dejamos tus datos __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> click aquí</a>__ .
  
  
- 
 ## ¿QUÉ ENCONTRARÁS EN LOS TERMALES DEL SIFÓN?
  
  <amp-carousel width="800" height="533" layout="responsive" type="slides" autoplay delay="2000">
