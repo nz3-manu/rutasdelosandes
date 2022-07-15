@@ -12,7 +12,7 @@ trending: true
 
 # TERMALES DEL SIFÓN 
  
-Los Termales del Sifón se encuentran ubicadado dentro del parque natural los nevados, cerca al nevado del Ruiz, son unas aguas termales de color turquesa.
+Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicado dentro del parque Natural los Nevados, cerca al nevado del Ruiz, .
  
 En este post te daremos algunas recomendaciones para que al visitar este lugar no cometas los mismos errores que hacen muchos viajeros al llegar a este sitio.
  
@@ -25,22 +25,22 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
  
 ## ¿QUÉ ENCONTRARÁS EN LOS TERMALES DEL SIFÓN?
  
- <amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+ <amp-carousel width="800" height="533" layout="responsive" type="slides" autoplay delay="2000">
        {% include image.html, file:"rutas/caldas/sifon/1.jpg", width:"800", height:"533" %}
-       {% include image.html, file:"rutas/caldas/sifon/2.JPG", width:"800", height:"533" %}
-       {% include image.html, file:"rutas/caldas/sifon/3.JPG", width:"800", height:"533" %} 
-       {% include image.html, file:"rutas/caldas/sifon/4.JPG", width:"800", height:"533" %}   
+       {% include image.html, file:"rutas/caldas/sifon/2.jpg", width:"800", height:"533" %}
+       {% include image.html, file:"rutas/caldas/sifon/3.jpg", width:"800", height:"533" %} 
+       {% include image.html, file:"rutas/caldas/sifon/4.jpg", width:"800", height:"533" %}   
 </amp-carousel>
 
  
 ## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN ?
  
-Desde Manizales tomamos la vía que va para el nevado del Ruiz, esta vía se encuentra en muy buen estado hasta llegar casi a la entrada del nevado del Ruiz, lugar donde nos desviamos y tomamos la carretera destapada que va para Murillo Tolima, la duración del trayecto en una moto hasta la entrada de los termales del Sifón es en promedio de 1 hora, en carro se podrían tardar en promedio 1 hora y 30 minutos.
+Desde Manizales tomamos la vía que va para el nevado del Ruiz, esta vía se encuentra en muy buen estado hasta llegar casi a la entrada del nevado del Ruiz, lugar donde nos desviamos y tomamos la carretera destapada que va para Murillo Tolima, la duración del trayecto en una moto hasta la entrada de los termales del Sifón es en promedio de 40 minutos, en carro se podrían tardar en promedio 1 hora y 20 minutos.
  
 
-En el trayecto hasta llegar a la entrada de los terminales del Sifón, se pueden observar hermosas vistas de paisajes montañosos cafeteras y después paisajes llenos de frailejones.
+En el trayecto hasta llegar a la entrada de los termales del Sifón, se pueden observar hermosas vistas de paisajes montañosos, rocosos y después paisajes llenos de frailejones.
  
-Después de 1 hora en la moto y con algo de dolor en las manos por la trocha, llegamos al corregimiento el Sifón, nos encontramos una pequeña casa la cual brinda el servicio de tienda(solo van a encontrar mucho mecato), allí se pagará la entrada a los termales del Sifón.
+Después de 1 hora en la moto y con algo de dolor en las manos por la trocha 😅, llegamos al corregimiento el Sifón, nos encontramos una pequeña casa la cual brinda el servicio de tienda(solo van a encontrar mucho mecato), allí se pagará la entrada a los termales del Sifón.
  
 Después de comer algunas papitas y gaseosa, continuamos nuestro viaje a los termales del Sifón 
  
