@@ -79,8 +79,7 @@ Una vez llegamos a Norcasia nos contactó la personas encargada de nuestro recib
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
- __RECOMENDACIÓN__
- 
+ __RECOMENDACIONES:__
 * Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.
 * Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios
  
@@ -88,7 +87,7 @@ Después de una rica cena, nos fuimos a descansar ya que al siguiente día empez
  
 Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y también encontrarás hoteles.
  
-En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escudado casos de personas que al llegar allá no pudieron encontrar hospedaje o otros que le cobraron tarifas mucho mayores.
+En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otros que le cobraron tarifas mucho más elevadas.
 
  
 <a name="lugaresnorcasia" id="lugaresnorcasia"></a>
