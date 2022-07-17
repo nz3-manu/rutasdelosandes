@@ -18,14 +18,13 @@ __Tour con agencia de viajes:__
 el valor para realizar este viaje con una agencia, es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para más información de los tours disponibles __<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> click aquí</a>__ 👈
 
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See post to Norcasia in English 🇬🇧</a>]__
-
 __En este post encontrarás la siguiente información:__
 
 * ¿Cómo llegar a Norcasia ?
 * Hospedajes disponibles en Norcasia 
 * Lugares turísticos en Norcasia 
  
+ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See post to Norcasia in English 🇬🇧</a>]__
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
 
@@ -76,46 +75,21 @@ Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
 ## RUTA EN NORCASIA 🚤
  
-Una vez llegamos a Norcasia nos sorprendió que a pesar de ser un pueblo pequeño los hoteles abundan en este lugar, así que tendrás muy buenas opciones para hospedarte.
+Una vez llegamos a Norcasia nos contactó la personas encargada de nuestro recibimiento, donde dejamos las maletas y salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
-Algo que debes de saber de Norcasia es que __no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.__
-
-A continuación te compartimos algunas opciones de hospedajes en Norcasia, si llegaras a tener algún inconveniente con alguno de estos hospedajes nos lo puedes hacer saber.
-
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
+Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
-<a name="hospedajenorca" id="hospedajenorca"></a>
+ __RECOMENDACIÓN__
+ 
+* Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.
+* Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-### HOTEL BUENOS AIRES
-
-Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet (esto ya podría haber cambiado en el futuro).
-
-* Hospedaje 🛏: $30.000 pesos por persona (noche).
-* Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
-
-📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a>.__
+Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y también encontrarás hoteles.
  
-### HOTEL EL PESCADOR
+En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escudado casos de personas que al llegar allá no pudieron encontrar hospedaje o otros que le cobraron tarifas mucho mayores.
 
-Este hotel se encuentra a pocas cuadras del parque principal.
-* Hospedaje 🛏: $30.000 pesos por persona (noche).
-* Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
- 
-📞 __Teléfono: <a href="tel: 3107234504"> 3107234504</a>.__
-
-_Los precios de los hospedajes pueden cambiar dependiendo de la temporada_
-
-Una vez de estar instalados en nuestro hotel, salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
- 
-Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche (costo aproximado del tour: $350.000 Pesos por persona).
  
 <a name="lugaresnorcasia" id="lugaresnorcasia"></a>
  
