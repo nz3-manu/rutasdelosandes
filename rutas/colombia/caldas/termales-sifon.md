@@ -37,17 +37,33 @@ Con cada kilómetro que avanzábamos dejábamos atrás los edificios y la emoci�
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶.
 
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
+
+{% include image.html,
+  file:"rutas/caldas/ruiz/laguna-negra.jpeg",
+ caption:"Foto de Laguna Negra",
+ width:"1080",
+ height:"608"
+%}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @deagfotografia</a> </span>__
  
 Después continuamos nuestro viaje, llegamos justo hasta la entrada al nevado del Ruiz, lugar donde nos desviamos y tomamos la carretera destapada que va para Murillo Tolima, en el trayecto hasta llegar a la entrada de los termales del Sifón, observamos hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones.
  
-Después de 1 hora por trocha, llegamos al corregimiento el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda (solo van a encontrar mucho mecato), esta ya es la entrada a los termales del Sifón.
+Después de 1 hora por trocha, llegamos al corregimiento el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏬 (solo van a encontrar mecato), esta ya es la entrada a los termales del Sifón, allí nos tomaran los datos para registrar nuestro ingreso.
+
 Después de comer algunas papitas y gaseosa, continuamos nuestro viaje a los termales del Sifón
  
- 
- 
+<a id="banner1" href="https://www.randes.co/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
  
 ## Ruta a los termales del Sifón
-Desde esta casa (tienda) hasta los termales hay aproximadamente 1 kilómetro todo es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
+
+Desde la pequeña tienda hasta los termales hay aproximadamente 1 kilómetro todo es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
  
 {% include image.html,
 file:"rutas/caldas/sifon/3.JPG",
