@@ -68,7 +68,7 @@ Queremos hacer claridad que para llegar hasta la entrada del nevado del Ruiz no 
  
 __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta  "Que es el mal de altura y como evitarlo"</a>]__
  
-Con cada kilómetro que avanzabamos dejábamos  atrás los edificios y la emoción se hacía más fuerte al ver los hermosos frailejones.
+Con cada kilómetro que avanzábamos dejábamos  atrás los edificios y la emoción se hacía más fuerte al ver los hermosos frailejones.
  
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶.
  
