@@ -75,7 +75,10 @@ Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
 ## RUTA EN NORCASIA 🚤
  
-Una vez llegamos a Norcasia nos contactó la personas encargada de nuestro recibimiento, donde dejamos las maletas y salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
+
+Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje.
+ 
+Aprovechamos un poco para descansar y después salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
@@ -85,9 +88,10 @@ Después de una rica cena, nos fuimos a descansar ya que al siguiente día empez
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y también encontrarás hoteles.
+
+Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y además también encontrarás hoteles.
  
-En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otros que le cobraron tarifas mucho más elevadas.
+En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otras personas que les cobraron tarifas mucho más elevadas.
 
  
 <a name="lugaresnorcasia" id="lugaresnorcasia"></a>
