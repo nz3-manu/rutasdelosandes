@@ -25,13 +25,11 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
    videoid:"XNb0ewa0i2I",
    width:"480",
    height:"270",
-   caption:"Norcasia"
+   caption:"Termales Sifon"
 %}
 ## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN ?
  
-Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el carro 4x4 que nos llevaría a este hermoso lugar, la agencia nos cobró alrededor de $150.000 por persona incluido transporte y entrada a los termales, el desayuno y almuerzo corrio por nuestra cuenta.
- 
-__[ <a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> 🚙 Si quieres realizar este tour con agencia puedes dar click aquí</a>]__ 
+Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el carro 4x4 que nos llevaría a este hermoso lugar, si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>__ 
  
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y la emoción se hacía más fuerte al ver los hermosos frailejones.
 Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío 🥶.
