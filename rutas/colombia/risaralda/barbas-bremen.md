@@ -14,7 +14,8 @@ trending: true
 
 La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). Entre los atractivos de la reserva estan la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
-¿Quieres realizar esta ruta con un guia local?__<a href="https://wa.link/jt96l7" target="_blank"> click aquí</a>__ 👈
+Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/WUJTqbmkUWjYP1sQ9" target="_blank"> llenar formulario aquí</a>__ 
+
 
 ## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
 
