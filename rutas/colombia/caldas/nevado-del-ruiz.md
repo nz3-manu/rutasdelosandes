@@ -84,7 +84,7 @@ restaurante Cumanday el cual ofrecen los siguientes servicios:
  width:"1080",
  height:"608"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @deagfotografia</a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotografia/"  target="_blank"> @deagfotografia</a> </span>__
  
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.

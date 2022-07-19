@@ -37,12 +37,13 @@ Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un p
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
 
 {% include image.html,
-  file:"rutas/caldas/ruiz/laguna-negra.jpeg",
+  file:"rutas/caldas/sifon/laguna-negra.jpg",
  caption:"Foto de Laguna Negra",
- width:"1080",
- height:"608"
+ width:"1078",
+ height:"717"
 %}
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @deagfotografia</a> </span>__
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>__
  
 Después continuamos nuestro viaje, llegamos justo hasta la entrada al nevado del Ruiz, lugar donde nos desviamos y tomamos la carretera destapada que va para Murillo Tolima, en el trayecto hasta llegar a la entrada de los termales del Sifón, observamos hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones.
  
