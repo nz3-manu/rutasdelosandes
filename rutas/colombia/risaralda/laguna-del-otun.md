@@ -14,7 +14,7 @@ trending: true
 
 En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
-__Tour a la Laguna del Otún:__ el precio para ir con una agencia de viajes es de aproximadamente $ 240.000 pesos por persona saliendo desde Pereira (Pasadía), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/pasadia-laguna-del-otun" target="_blank"> click aquí</a>__ 👈.
+Si quieres realizar este tour nos puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/x7YTA5adDUBH1QW76" target="_blank"> llenar formulario aquí</a>__ 
 
 __En este post encontrarás la siguiente información:__
 * <a href="#comollegarlaguna"> Cómo llegar a la Laguna del Otún</a>

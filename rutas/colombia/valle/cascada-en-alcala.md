@@ -10,11 +10,15 @@ viewranger: MjA5NTkzMg==
 author: manuel
 ---
 
+# CASCADA EN ALCALA
+
 Alcalá está ubicado en el Nororiente del Valle del Cauca, limita al suroriente con el departamento de Quindío. Este es uno de los muchos lugares del norte del valle que tiene arraigada la cultura Caldense y Antioqueña debido a su colonización. 
 
 Al llegar al parque se puede ver un gigantesco árbol, un Samán que cubre de sombra a todo el parque. Se dice que sus raíces cubren gran parte de los alrededores del parque llegando incluso hasta debajo de la alcaldía. Este árbol fue sembrado el 14 de noviembre de 1917 por Rosana Mazuela, fecha en la cual se celebraba el centenario de la heroína nacional Policarpa Salavarrieta, este  árbol se convirtió en el símbolo icónico entre sus habitantes.
 
-## ¿Qué encontrarás 🏞👀?
+Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/bbL6FvpHfdKj5KeT9" target="_blank"> llenar formulario aquí</a>__ 
+
+## ¿QUÉ ENCONTRARÁS 🏞👀?
 
   {% include youtube.html,
     videoid:"TrnK0AXwhB4",
@@ -24,7 +28,7 @@ Al llegar al parque se puede ver un gigantesco árbol, un Samán que cubre de so
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar 🛣🚌?
+## ¿CÓMO LLEGAR 🛣🚌?
 La entrada a las cascadas se encuentra sobre la vía que comunica a Cartago con Alcalá, en la vereda  El Higuerón aproximadamente a 3 kilómetros de Alcalá.
 
 __Formas de llegar:__
@@ -35,7 +39,7 @@ __Formas de llegar:__
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
-## El camino 🚶🏼
+## EL CAMINO 🚶🏼
 
 El bus nos dejó en la vía Alcalá-Cartago 🛣, comenzamos a caminar por una carretera de piedra y tierra donde pasaban algunos carros para la vereda. Después pasamos por un pequeño caserío para continuar por un potrero con un pequeño camino que sirve de paso para el ganado 🐄 ,  como había llovido en algunas partes el lodo se tragaba nuestros tenis 😅. 
 
@@ -59,7 +63,7 @@ Después de una corta y agradable caminata llegamos por fin a nuestro destino
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
-## ¿Cómo regresar 🚌🏡?
+## ¿CÓMO REGRESAR 🚌🏡?
 
 Para regresar se toma el mismo trayecto que utilizamos para llegar, teniendo en cuenta que los últimos buses para pereira salen hasta las 7:20 pm. Estos horarios pueden variar dependiendo del día.
 

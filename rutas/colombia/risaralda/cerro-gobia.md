@@ -10,7 +10,10 @@ viewranger:
 author: manuel
 ---
 Cerro Gobia está ubicado en  el departamento de Risaralda en el municipio de Quinchía. este municipio es  conocido como la villa de los cerros  es sin embargo un pueblo con mucha riqueza cultural y natural, a la vez que es caracterizado por la amabilidad de su gente.
+
 Quinchía fue declarado en 1986 como el  municipio más bello de Risaralda. Su hermoso paisaje de montañas y cerros tutelares enmarca una de las más hermosas vistas de la región cafetera colombiana. 
+
+Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/eejGYjJzWkK1efKs9" target="_blank"> llenar formulario aquí</a>__ 
 
 __Cerros ubicados en Quinchía:__
 - Cerro Gobia (rango altitud  1800  2400 msnm)

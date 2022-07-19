@@ -11,6 +11,7 @@ trending: true
 ---
 
 # TERMALES DEL SIFÓN
+
 Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz.
  
 En este post te mostraremos cómo fue nuestra experiencia en este mágico lugar. A lo largo del post te diremos algunas recomendaciones para que al visitar este lugar no cometas los mismos errores que cometen muchos viajeros.
