@@ -22,7 +22,7 @@ En este post encontraras las siguiente información:
 
 Una vez dicho esto ¡empecemos con la aventura  ⛰!
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> See post to Bahía Málaga in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> See this post in English version 🇺🇸</a>]__
 
 ## DATOS CURIOSOS DE BAHÍA MÁLAGA
 

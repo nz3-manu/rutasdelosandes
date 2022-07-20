@@ -16,7 +16,7 @@ En este post te contaremos como fue nuestra experiencia en el Paramillo del Quin
 
 El precio para ir con una agencia de viajes es de $ 769.000 pesos por persona saliendo desde Manizales o Pereira (3 dias y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/5aczuk" target="_blank"> click aquí</a>__ 👈.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See post to Paramillo del Quíndio in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]__
 
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
 

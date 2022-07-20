@@ -19,7 +19,7 @@ La casa de los colibríes se encuentra a 4.8 kilómetros del Valle del Cocora, S
 
 Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de Flora y fauna. Es conocida principalmente por albergar varias especies de colibríes que rondan está casa, algunos se pueden ver tan cerca que pareciera no les importara la presencia de los seres humanos.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See post to Casa de los Colibríes in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See this post in English version 🇺🇸</a>]__
 
 ## ¿Qué encontrarás en Salento 🏞👀?
 * Un sendero acompañado de gran biodiversidad flora y fauna.

@@ -26,7 +26,7 @@ __En este post encontrarás la siguiente información:__
    * Día 3: Camino a la cumbre del Nevado del Tolima
    * Día 4: Camino de regreso al Valle del Cocora
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See post to Nevado del Tolima in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]__
  
 
 ## DATOS CURIOSOS DEL NEVADO DEL TOLIMA

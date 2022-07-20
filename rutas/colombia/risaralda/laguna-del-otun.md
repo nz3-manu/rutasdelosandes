@@ -24,7 +24,7 @@ __En este post encontrarás la siguiente información:__
 * <a href="#informacionLaguna"> Descargar información adicional de la Laguna del Otún</a>
 
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See post to Laguna Del Otún  in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See this post in English version 🇺🇸</a>]__
 
 Empecemos con la aventura ⛰.
 

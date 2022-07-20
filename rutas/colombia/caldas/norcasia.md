@@ -24,7 +24,7 @@ __En este post encontrarás la siguiente información:__
 * Hospedajes disponibles en Norcasia 
 * Lugares turísticos en Norcasia 
  
- __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See post to Norcasia in English 🇬🇧</a>]__
+ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See this post in English version 🇺🇸</a>]__
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
 

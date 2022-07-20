@@ -18,7 +18,7 @@ El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubic
 El precio para ir con una agencia de viajes es de $ 240.000 pesos por persona saliendo desde Manizales (Sábado o Domingo), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/collections/tours/products/pasadia-nevado-del-ruiz" target="_blank"> click aquí</a>__ 👈.
  
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See post to Nevado del Ruiz in English 🇬🇧</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
  
 __En este post encontrarás la siguiente información:__
 
