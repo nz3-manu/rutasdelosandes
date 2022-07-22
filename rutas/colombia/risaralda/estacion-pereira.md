@@ -12,10 +12,10 @@ author: manuel
 
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
-Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/aJKBXTwcWSce8KdH7" target="_blank"> llenar formulario aquí</a>__ 
+__<a href="https://forms.gle/aJKBXTwcWSce8KdH7" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
 
 
-## ¿QUÉ ENCONTRARÁS EN ESTACIÓN PEREIRA 🏞?
+## ¿QUÉ ENCONTRARÁS EN ESTACIÓN PEREIRA?
 
 {% include youtube.html,
     videoid:"xrC-xdoVF8o",
@@ -33,7 +33,7 @@ Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez all�
 
 Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
 
-Recomendación: Solo se recomienda para vehículos todo terreno ya que la carretera es algo difícil para un automóvil.
+__Recomendación:__ Solo se recomienda para vehículos todo terreno ya que la carretera es algo difícil para un automóvil.
 
 
 {% include iframe.html,
@@ -42,7 +42,7 @@ Recomendación: Solo se recomienda para vehículos todo terreno ya que la carret
     caption:"en chiva a estacion pereira, en marrana y despues en garrucha cruzando el cauca"
 %}
 
-__Transporte en “marranitas”__🛵
+__Transporte en “marranitas”__ 🛵
 Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita”. 
 La "marranita" es un medio de transporte que consiste en una moto que va por las antiguas vías del tren impulsando una plataforma de madera en las cuales van sentando las personas, Este medio de transporte es muy común entre los pobladores ya que es una forma rápida para transportarse, el costo es de $8.000 pesos para 6 personas, el viaje dura aproximadamente 15 minutos, después pasamos a tomar la “garucha”😃.
 
@@ -59,7 +59,7 @@ La "marranita" es un medio de transporte que consiste en una moto que va por las
 
 Después pasamos a tomar la “garucha” que tiene un costo aproximado de $1.000 pesos por persona.
 
-__Cruzar el río cauca en "garrucha"__🚡
+__Cruzar el río cauca en "garrucha"__ 🚡
 
 La “garrucha” es un medio de transporte que consiste en un cable grueso que cruza el río de ambas orillas al cual se adapta una polea y una caja grande de madera y acero en donde caben de 5 a 6 personas, se desliza el canasto hasta la mitad del río y las personas que van dentro de él por sus propios medios deben llegar al otro lado de la orilla impulsandose del cable grueso; está  “garrucha”.
 

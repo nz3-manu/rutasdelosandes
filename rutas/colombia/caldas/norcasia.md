@@ -12,25 +12,19 @@ trending: true
  
 # NORCASIA
  
-En este post te mostraremos todo lo que debes de saber antes de viajar a llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha,  por esta razón si vas con pocas personas, visitar estos lugares te podría costar un poco mas de que si fueras con una agencia de viajes.
-
-__Tour con agencia de viajes:__
-el valor para realizar este viaje con una agencia, es de aproximadamente $350.000 pesos por persona (2 días y 1 noche), el tour comienza desde Norcasia. Para más información de los tours disponibles __<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> click aquí</a>__ 👈
+En este post te mostraremos todo lo que debes de saber antes de viajar a llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha 🚤,  por esta razón si vas con pocas personas, te podría costar un poco más visitar estos lugares.
 
 
-__En este post encontrarás la siguiente información:__
+__<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias </a>__ 👈
 
-* ¿Cómo llegar a Norcasia ?
-* Hospedajes disponibles en Norcasia 
-* Lugares turísticos en Norcasia 
- 
- __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See this post in English version 🇺🇸</a>]__
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
 
 Norcasia es el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
  
 Norcasia está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
+ 
+ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See this post in English version 🇺🇸</a>]__
  
 ## ¿QUÉ ENCONTRARÁS EN NORCASIA?
  
@@ -49,7 +43,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
  
 Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opciones para que lo puedas hacer:
  
-### DE MANIZALES A NORCASIA:
+### DESDE MANIZALES A NORCASIA:
  
 * __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada, valor pasaje $35.000 pesos.
  
@@ -75,26 +69,22 @@ Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
 ## RUTA EN NORCASIA 🚤
  
-
 Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje.
  
 Aprovechamos un poco para descansar y después salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
- __RECOMENDACIONES:__
+<ins> __RECOMENDACIONES:__ </ins>
 * Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.
 * Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-
 Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y además también encontrarás hoteles.
  
 En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otras personas que les cobraron tarifas mucho más elevadas.
-
  
-<a name="lugaresnorcasia" id="lugaresnorcasia"></a>
  
 ## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
  
@@ -132,7 +122,7 @@ Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes, do
  
 ### DÍA # 2
  
-Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos(la carretera esta en muy buen estado).
+Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos.
  
 #### EMBALSE DE AMANÍ
 
@@ -180,7 +170,7 @@ __<span class="advise"> Foto por: Entre Ríos</span>__
  
 Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminada el tour.
 
-#### LUGARES QUE NO VISITAMOS EN EL TOUR Y DEBERIAS VISITAR
+## LUGARES QUE NO VISITAMOS EN EL TOUR Y DEBERÍAS VISITAR
  
 ### CAÑON DEL RÍO LA MIEL
 
@@ -197,13 +187,11 @@ __<span class="advise"> Foto por: Entre Ríos</span>__
  
 Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
  
-__Recomendación:__ hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes.
+<ins> __RECOMENDACIONES:__</ins> 
 
-Puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí</a>__ para separar tu tour.
+* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí ara separar tu tour</a>__ 
 
-__Ultima recomendación:__ si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
-
-Por último en el parque de Norcasia encontrarás moto taxis, estos te podrán llevar a los lugares en los cuales la carretera está en buen estado, si decides hacer estos tour solo recuerda que será bajo tu propia responsabilidad.
+* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
