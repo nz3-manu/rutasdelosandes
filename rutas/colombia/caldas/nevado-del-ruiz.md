@@ -14,28 +14,17 @@ trending: true
  
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
 
- 
-El precio para ir con una agencia de viajes es de $ 240.000 pesos por persona saliendo desde Manizales (Sábado o Domingo), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/collections/tours/products/pasadia-nevado-del-ruiz" target="_blank"> click aquí</a>__ 👈.
- 
- 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
+__<a href="https://www.randes.co/collections/tours/products/pasadia-nevado-del-ruiz" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias al Nevado del Ruiz</a>__ 👈
  
 __En este post encontrarás la siguiente información:__
 
-* <a href="#comollegarruiz"> Cómo llegar al Nevado del Ruiz </a>
-* <a href="#hospedajesnevadoruiz"> Hospedajes cerca al Nevado del Ruiz</a>
-* <a href="#costoentradaruiz"> Costo de entrada al Nevado del Ruiz</a>
-* <a href="#rutanevadoruiz"> Ruta en el Nevado del Ruiz </a>
-* <a href="#informacionRuiz"> Descargar información adicional Nevado del Ruiz </a>
+* Cómo llegar al Nevado del Ruiz 
+* Hospedajes cerca al Nevado del Ruiz
+* Costo de entrada al Nevado del Ruiz
+* Ruta en el Nevado del Ruiz 
+* Descargar información adicional Nevado del Ruiz  
 
-[como llegar](https://rutasdelosandes.com/colombia/caldas/nevado)
-
-{% include iframe.html,
-   type:"custom",
-   mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
-   caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
-%}
- 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
  
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
  
@@ -58,7 +47,6 @@ Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-<a name="comollegarruiz"  id="comollegarruiz"></a>
  
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ ?
  
@@ -142,14 +130,17 @@ width:"480",
 height:"200" %}
 </a>
 
-Los carros que brindan el servicio los podrán encontrar en la entrada al Parque de los Nevados. Estos carros saldrán hasta que llenen el cupo máximo.
  
 El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
  
  __Mapa de ruta realizada desde el terminal de Manizales hasta el Nevado del Ruiz__
  
-<a name="rutanevadoruiz" id="rutanevadoruiz"></a>
- 
+ {% include iframe.html,
+   type:"custom",
+   mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
+   caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
+%}
+
 ## RUTA EN EL NEVADO DEL RUIZ 
 
  
@@ -182,11 +173,9 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
  height:"674"
 %}
 
- <a name="informacionRuiz" id="informacionRuiz"></a>
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
- 💾 <a target="_blank" href="https://randes-store.myshopify.com/collections/informacion-adicional-de-las-rutas/products/ruta-nevado-del-ruiz">__Descargar Información adicional de la ruta al Nevado del Ruiz.__</a>
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
