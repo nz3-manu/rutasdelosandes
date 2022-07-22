@@ -97,7 +97,7 @@ En temporada baja será fácil encontrar hospedaje disponible, pero en temporada
 #### RÍO LA MIEL
 
 
-Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarían en el tour. Aprovechamos para desayunar, mientras lo hacíamos era inevitable dejar de ver la cara de felicidad reflejaban muchas de estas personas, muchos hablan de ya quiero estar allá quiero nadar en ese hermoso rio, ir al mirador etc..   Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
+Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarían en el tour. Aprovechamos para desayunar, mientras lo hacíamos era inevitable dejar de ver la cara de felicidad reflejaban muchas de estas personas, muchos decían "ya quiero estar allá quiero nadar en ese hermoso rio, ir al mirador" etc..   Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
  
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada. 
 
@@ -115,12 +115,13 @@ Después de nadar cerca de 2 horas por el río, fuimos a otro lugar donde almorz
 Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
  
 {% include image.html,
- file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
+ file:"rutas/caldas/norcasia/cascada-la-clara.jpeg",
  caption:"Cascada la Clara",
- width:"1200",
- height:"674"
+ width:"819",
+ height:"1024"
 %}
- 
+
+__<span class="advise"> Foto por: Entre Ríos</span>__
  
 Después de visitar esta cascada fuimos de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
 
@@ -192,9 +193,9 @@ __<span class="advise"> Foto por: Entre Ríos</span>__
  
 <ins> __RECOMENDACIONES:__</ins> 
 
-* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes ver los tours disponibles __<a href="https://wa.link/cvi0eb" target="_blank"> dando clic aquí</a>__ 
+* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes ver los tours disponibles __<a href="https://wa.link/cvi0eb" target="_blank"> dando clic aquí</a>.__ 
 
-* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
+* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros (en un pueblo que tiene 6.374 habitantes),  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -206,7 +207,7 @@ height:"200" %}
  
 ## ¿CÓMO REGRESAR DE NORCASIA?
 
-Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados. 
+Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados.
  
 Este es el fin de la ruta en Norcasia, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
