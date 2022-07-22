@@ -45,7 +45,8 @@ Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opcio
  
 ### DESDE MANIZALES A NORCASIA:
  
-* __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada, valor pasaje $35.000 pesos.
+* __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos.
+
  
 📞 __Teléfono: <a href="tel: 3162714173"> 3162714173</a>__
  
@@ -55,15 +56,16 @@ Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opcio
 
 ### DESDE ALGUNAS PRINCIPALES CIUDADES DE COLOMBIA A NORCASIA:
 
-* __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas.
+* __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas
+
 
 * __Bogota a Norcasia:__ El valor del pasaje es de aproximadamente $50.000, la empresa que viaja directo a Norcasia es Coopuertos, la duración del trayecto es alrededor de 6 horas, el horio de salida son 11 am y 2 pm.
 
 * __Cali a La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
 
-_Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._
+<ins>_Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._</ins>
  
-Al llegar a la Dorada se debe de tomar otro bus que te lleve hasta Norcasia, este tardará aproximadamente 1 hora y 30 minutos, el valor del pasaje es de aproximadamente $13.000 pesos, también hay taxis disponibles que van hasta Norcasia.
+Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardo alrededor de 1 hora y 30 minutos, el pasaje costo alrededor de $13.000 pesos, también podrás encontrar algunos taxis que van hasta Norcasia.
  
 Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
  
@@ -75,10 +77,12 @@ Aprovechamos un poco para descansar y después salimos a buscar un restaurante v
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
-<ins> __RECOMENDACIONES:__ </ins>
+<ins> __NFORMACIÓN IMPORTANTE:__ </ins>
 * Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.
-* Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios
+* Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros.
  
+Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasía en caso de que tengas algún problema con tu alojamiento.
+
 ## HOSPEDAJE EN NORCASIA 🛌
  
 Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y además también encontrarás hoteles.
@@ -92,7 +96,8 @@ En temporada baja será fácil encontrar hospedaje disponible, pero en temporada
 
 #### RÍO LA MIEL
 
-Al siguiente día nos encontramos con las demás personas que nos acompañarian en el tour (éramos 20 personas en total) cerca al parque de Norcasia, desayunamos y después nos recogieron los carros para empezar el tour.
+
+Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarían en el tour. Aprovechamos para desayunar, mientras lo hacíamos era inevitable dejar de ver la cara de felicidad reflejaban muchas de estas personas, muchos hablan de ya quiero estar allá quiero nadar en ese hermoso rio, ir al mirador etc..   Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
  
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada. 
 
@@ -105,9 +110,9 @@ Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanc
  height:"674"
 %}
  
-Después de nadar cerca de 2 horas por el río, nos llevaron a otro lugar donde almorzamos al borde del río.
+Después de nadar cerca de 2 horas por el río, fuimos a otro lugar donde almorzamos al borde del río, fue una experiencia linda estar almorzando a la sombra de un árbol viendo este río cristalino y estar escuchando los sonidos de alguna aves 🦜.
  
-Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
+Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cascada-la-clara.jpg",
@@ -117,18 +122,18 @@ Después de un merecido descanso, nos llevaron de nuevo en las lanchas al punto 
 %}
  
  
-Después de visitar esta cascada nos llevaron de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
+Después de visitar esta cascada fuimos de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
 
  
 ### DÍA # 2
  
-Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amani, el viaje en carro duró aproximadamente 20 minutos.
+Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amaní, uno de los lugares que nombraban mucho en los blogs de viajes que se debía visitar.
  
 #### EMBALSE DE AMANÍ
 
-El recorrido en lancha duró alrededor de 8 minutos, y nos llevaron hasta la presa, donde nos contaron un poco de la historia acerca de su construcción, después de esta explicación regresamos de nuevo al embalse.
+El recorrido por este embalse fue una experiencia realmente mágica, estar navegando a través de toda esa vegetación y al final de todo esto ver la presa, la cual se ve toda imponente, allí paramos por un momento y nos contaron un poco de la historia acerca de su construcción 🏗, después de esta explicación regresamos de nuevo al embalse, el recorrido por este lugar duro al rededor de 8 minutos.
  
-_Este lugar debe de estar sin duda en tu lista para visitar._
+<ins>_Este lugar debe de estar sin duda en tu lista para visitar._</ins>
  
 {% include image.html,
  file:"rutas/caldas/norcasia/represa.jpg",
@@ -158,7 +163,7 @@ Después de tomar el refrigerio continuamos con el recorrido para seguir con nue
  
 #### RÍO MANSO
 
-Este es un río el cual se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
+Este es un río se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
@@ -174,7 +179,7 @@ Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parq
  
 ### CAÑON DEL RÍO LA MIEL
 
-Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que significa que el cause del río dependerá de  la presa para su navegación, si el río no cuenta con el cause adecuado no se podrá visitar este lugar.
+<ins>Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que significa que el cause del río dependerá de  la presa para su navegación, si el río no cuenta con el cause adecuado no se podrá visitar este lugar.</ins>
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
@@ -185,11 +190,9 @@ Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que signi
 __<span class="advise"> Foto por: Entre Ríos</span>__
 
  
-Al llegar a Norcasia te encontrarás con diferentes agencias que te podrán mostrar los lugares turísticos, antes de adquirir el tour asegurate que te lleven a los lugares que quieres ir a conocer.
- 
 <ins> __RECOMENDACIONES:__</ins> 
 
-* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> click aquí ara separar tu tour</a>__ 
+* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes ver los tours disponibles __<a href="https://wa.link/cvi0eb" target="_blank"> dando clic aquí</a>__ 
 
 * Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros,  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
  
