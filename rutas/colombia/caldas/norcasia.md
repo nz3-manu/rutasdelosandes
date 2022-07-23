@@ -12,7 +12,7 @@ trending: true
  
 # NORCASIA
  
-En este post te mostraremos todo lo que debes de saber antes de viajar a llamado Norcasia, queremos hacer claridad que para visitar muchos de estos lugares se tendrá que hacer en lancha 🚤,  por esta razón si vas con pocas personas, te podría costar un poco más visitar estos lugares.
+En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
 
 __<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias </a>__ 👈
@@ -20,9 +20,9 @@ __<a href="https://www.randes.co/collections/zonas-tropicales" style="color:gree
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
 
-Norcasia es el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
- 
-Norcasia está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
+Norcasia es considerado como el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas. 
+
+Norcasia además está ubicada al oriente caldense a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
  
  __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See this post in English version 🇺🇸</a>]__
  
@@ -41,7 +41,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
  
 ## ¿CÓMO LLEGAR A NORCASIA 🚌?
  
-Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opciones para que lo puedas hacer:
+En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
  
 ### DESDE MANIZALES A NORCASIA:
  
@@ -63,31 +63,31 @@ Si no cuentas con transporte y quieres ir en bus aquí mostraremos algunas opcio
 
 * __Cali a La Dorada:__ El valor del pasaje es de aproximadamente $115.000, una de la empresa es: Expreso Brasilia, la duración del trayecto es alrededor de 11 horas.
 
-<ins>_Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._</ins>
+<ins>Recomendación: _Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._</ins>
  
-Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardo alrededor de 1 hora y 30 minutos, el pasaje costo alrededor de $13.000 pesos, también podrás encontrar algunos taxis que van hasta Norcasia.
+Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardó alrededor de 1 hora y 30 minutos, el pasaje tuvo un costo de $13.000 pesos, además de eso, también podrás encontrar algunos taxis que van hasta Norcasia.
  
-Una vez en  Norcasia ya estamos listos para empezar nuestra aventura ⛰.
+Ya una vez que llegamos a Norcasia, estamos listos para empezar nuestra aventura ⛰.
  
 ## RUTA EN NORCASIA 🚤
  
-Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje.
+Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje. Mientras íbamos camino al hospedaje, pudimos ver que en el parque principal de Norcasia, hay muchos hoteles, por lo que tienes muchas opciones de hospedarte, además, tienes muchas opciones que se pueden ajustar a tu presupuesto de viaje.
  
 Aprovechamos un poco para descansar y después salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es __“El Sababor Norcaseño”__
  
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
 <ins> __NFORMACIÓN IMPORTANTE:__ </ins>
-* Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular.
+* Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular debido a la baja cobertura que hay en la zona.
 * Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros.
  
-Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasía en caso de que tengas algún problema con tu alojamiento.
+Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia en caso de que tengas algún problema con tu alojamiento.
 
 ## HOSPEDAJE EN NORCASIA 🛌
  
-Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje y además también encontrarás hoteles.
- 
-En temporada baja será fácil encontrar hospedaje disponible, pero en temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otras personas que les cobraron tarifas mucho más elevadas.
+Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje llamados hostales; también podrás encontrar hoteles que como mencionamos arriba, se podrán ajustar a tu presupuesto.
+
+Apreciación: Cuando hay temporada baja será fácil encontrar hospedaje disponible; sin embargo, cuando hay temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otras personas que les cobraron tarifas mucho más elevadas.
  
  
 ## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
@@ -97,9 +97,9 @@ En temporada baja será fácil encontrar hospedaje disponible, pero en temporada
 #### RÍO LA MIEL
 
 
-Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarían en el tour. Aprovechamos para desayunar, mientras lo hacíamos era inevitable dejar de ver la cara de felicidad reflejaban muchas de estas personas, muchos decían "ya quiero estar allá quiero nadar en ese hermoso rio, ir al mirador" etc..   Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
+Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarán en el tour. Aprovechamos para desayunar, mientras lo hacíamos, era inevitable dejar de ver la cara de felicidad reflejada por muchas de estas personas, muchos decían "ya quiero estar allá, quiero nadar en ese hermoso rio, ir al mirador" etc.. Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
  
-El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada. 
+El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada.
 
 Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el río la Miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
  
@@ -110,7 +110,7 @@ Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanc
  height:"674"
 %}
  
-Después de nadar cerca de 2 horas por el río, fuimos a otro lugar donde almorzamos al borde del río, fue una experiencia linda estar almorzando a la sombra de un árbol viendo este río cristalino y estar escuchando los sonidos de alguna aves 🦜.
+Después de nadar cerca de 2 horas por el río, fuimos a otro lugar donde almorzamos al borde del río, fue una experiencia fabulosa el poder estar almorzando a la sombra de un árbol viendo este río cristalino y estar escuchando los sonidos de alguna aves 🦜.
  
 Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicial donde comenzamos el recorrido (la garrucha), allí nos montamos de nuevos en los carros para ir a ver una cascada que queda a 1 kilómetro caminando cerca de la carretera La Dorada Norcasia, el nombre de la cascada es Cascada La Clara.
  
@@ -123,16 +123,16 @@ Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicia
 
 __<span class="advise"> Foto por: Entre Ríos</span>__
  
-Después de visitar esta cascada fuimos de nuevo a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro ultimo día de tour. 
+Después de visitar esta cascada, regresamos nuevamente a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje ya que al siguiente día era nuestro último día de tour.
 
  
 ### DÍA # 2
  
-Nos levantamos temprano para llegar de nuevo al parque principal a las 8 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amaní, uno de los lugares que nombraban mucho en los blogs de viajes que se debía visitar.
+Nos levantamos temprano para llegar de nuevo al parque principal a las 8:00 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amaní, uno de los lugares que nombran mucho en los blogs de viajes que se debía visitar.
  
 #### EMBALSE DE AMANÍ
 
-El recorrido por este embalse fue una experiencia realmente mágica, estar navegando a través de toda esa vegetación y al final de todo esto ver la presa, la cual se ve toda imponente, allí paramos por un momento y nos contaron un poco de la historia acerca de su construcción 🏗, después de esta explicación regresamos de nuevo al embalse, el recorrido por este lugar duro al rededor de 8 minutos.
+El recorrido por este embalse fue una experiencia realmente mágica, estar navegando a través de toda esa vegetación y al final de todo esto ver la represa, la cual se ve toda imponente, allí paramos por un momento y nos contaron un poco de la historia acerca de su construcción 🏗, después de esta explicación regresamos de nuevo al embalse, el recorrido por este lugar duró alrededor de 8 minutos.
  
 <ins>_Este lugar debe de estar sin duda en tu lista para visitar._</ins>
  
@@ -145,13 +145,14 @@ El recorrido por este embalse fue una experiencia realmente mágica, estar naveg
 
 __<span class="advise"> Foto por: Entre Ríos</span>__
  
-Después de este recorrido por el Embalse de Amaní fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
- 
+Después de este recorrido por el Embalse de Amaní, fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
+
+
 #### MIRADOR DEL EMBALSE DE AMANÍ
 
-Este se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenian que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lastima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
+El Mirador del Embalse de Amaní se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenían que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lástima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
 
-Allí podrás encontrar restaurante o también comida de alguno pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
+Allí podrás encontrar restaurante o también comida de algunos pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
@@ -164,7 +165,7 @@ Después de tomar el refrigerio continuamos con el recorrido para seguir con nue
  
 #### RÍO MANSO
 
-Este es un río se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no esta pavimentada pero en buen estado.
+Este es un río que se caracteriza por sus aguas cristalinas, los carros nos dejaban al frente de este lugar, la carretera en algunos tramos no está pavimentada; sin embargo, se encuentra en buen estado.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
@@ -174,13 +175,13 @@ Este es un río se caracteriza por sus aguas cristalinas, los carros nos dejaban
 %}
 __<span class="advise"> Foto por: Entre Ríos</span>__
  
-Este fue el ultimo lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminada el tour.
+Este fue el último lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminado el tour.
 
 ## LUGARES QUE NO VISITAMOS EN EL TOUR Y DEBERÍAS VISITAR
  
 ### CAÑON DEL RÍO LA MIEL
 
-<ins>Este lugar se encuentra aguas abajo de la presa del Embalse Amaní, lo que significa que el cause del río dependerá de  la presa para su navegación, si el río no cuenta con el cause adecuado no se podrá visitar este lugar.</ins>
+<ins>Este lugar se encuentra más abajo de la represa del Embalse Amaní, lo que significa que el cauce del río dependerá de la represa para su navegación, si el río no cuenta con el cauce adecuado no se podrá visitar este lugar.</ins>
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
@@ -193,9 +194,9 @@ __<span class="advise"> Foto por: Entre Ríos</span>__
  
 <ins> __RECOMENDACIONES:__</ins> 
 
-* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no iran tantas personas como con las agencias más grandes, puedes ver los tours disponibles __<a href="https://wa.link/cvi0eb" target="_blank"> dando clic aquí</a>.__ 
+* Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no irán tantas personas como con las agencias más grandes, para conocer más información sobre los tours disponibles, puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> clic aquí</a>.__ 
 
-* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea el ultimo puente llegaron aproximadamente 600 viajeros (en un pueblo que tiene 6.374 habitantes),  quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante  todos los fines de semanas con puente.
+* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea, el último puente llegaron aproximadamente 600 viajeros (en un pueblo que tiene 6.374 habitantes), quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante todos los fines de semanas con puente.
  
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
