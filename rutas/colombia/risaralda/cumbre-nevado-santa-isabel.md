@@ -5,7 +5,7 @@ title:  Cumbre nevado Santa Isabel
 categories: colombia 
 seo_title: Nevado Santa Isabel - cumbre |Rutas
 excerpt: Conoce todo lo que necesitas saber para ir a al nevado Santa Isabel, si necesitas agencias de viajes pueds contactarnos.
-images_url: /images/rutas/risaralda/lagunadelotun
+images_url: /images/rutas/risaralda/cumbre-santa-isabel
 viewranger: 
 author: manuel
 trending: true
