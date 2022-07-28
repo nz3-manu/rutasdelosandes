@@ -17,11 +17,11 @@ En este post encontrarás toda la información que necesitas saber para conocer 
 Si quieres realizar este tour nos puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/x7YTA5adDUBH1QW76" target="_blank"> llenar formulario aquí</a>__ 
 
 __En este post encontrarás la siguiente información:__
-* <a href="#comollegarlaguna"> Cómo llegar a la Laguna del Otún</a>
-*  <a href="#hospedajeslaguna"> Hospedajes cerca a la Laguna del Otún</a>
-*  <a href="#costoentradalaguna"> Costo de entrada a la Laguna del Otún</a>
-* <a href="#rutalaguna"> Ruta a la Laguna del Otún</a>
-* <a href="#informacionLaguna"> Descargar información adicional de la Laguna del Otún</a>
+* Cómo llegar a la Laguna del Otún
+* Hospedajes cerca a la Laguna del Otún
+* Costo de entrada a la Laguna del Otún
+* Ruta a la Laguna del Otún
+* Descargar información adicional de la Laguna del Otún
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/laguna-del-otun.html"> See this post in English version 🇺🇸</a>]__
@@ -45,7 +45,6 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-<a name="comollegarlaguna" id="comollegarlaguna"></a>
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
 
@@ -63,7 +62,6 @@ La ruta que mostraremos en este post es llegando por Potosí, lugar donde se enc
 
 Estas opciones son recomendables si vas con más de 4 personas.
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
@@ -76,7 +74,6 @@ En invierno la carretera puede estar en muy mal estado, los jeeps en algunos cas
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados se encuentra un hospedaje. 
 
-<a name="hospedajeslaguna" id="hospedajeslaguna"></a>
 
 ## HOSPEDAJE CERCA A LA LAGUNA DEL OTÚN
 
@@ -91,7 +88,6 @@ __Los servicios que prestan en este lugar son los siguientes:__
 
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
-<a name="costoentradalaguna" id="costoentradalaguna"></a>
 
 ### VALOR DE INGRESO A LA LAGUNA DEL OTÚN
 
@@ -99,7 +95,6 @@ Al momento de llegar a la entrada de potosí del parque los nevados tendremos qu
  
   * Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
 
-<a name="rutalaguna" id="rutalaguna"></a>
 
 ⚠️ Recuerde que está prohibido el ingreso de mascotas 🚫🐶 y la pesca.
 
@@ -126,7 +121,6 @@ Desde la asomadera hasta la casa del guardabosques que es el lugar en que se enc
 
 En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰.
 
-<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
@@ -139,7 +133,6 @@ __Recomendación:__ por este tramo se tendrán que pasar por piedras y algunas p
 
 Después de una agradable caminata viendo estos hermosos paisajes, por fin llegamos a la casa del guardabosques, lugar donde pudimos acampar.
 
-Laguna del Otún
 <amp-instagram
     data-shortcode="Bt7HsFThueq"
     data-captioned
@@ -165,9 +158,6 @@ Al día siguiente nos levantamos temprano para organizar todo nuestro equipaje y
 
 Para nuestro regreso tomamos el mismo camino por el que vinimos, evitando tomar atajos ya que algunos de estos dañan zonas en las que se encuentran frailejones. Debemos Tener en cuenta que en la laguna del otún no hay señal de celular, así que debes coordinar la ubicación y la hora del punto de encuentro con el conductor del jeep con anticipación para que te esté esperando.
 
- <a name="informacionLaguna" id="informacionLaguna"></a>
-
-💾 <a target="_blank" href="https://randes-store.myshopify.com/products/informacion-adicional-de-la-laguna-del-otun">__Descargar información adicional de la ruta a Laguna del Otún.__</a>
 
 Este es el fin de la ruta a la Laguna Del Otún, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
