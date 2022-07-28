@@ -48,7 +48,6 @@ Después de haber disfrutado de una amena charla con nuestros compañeros de via
   height:"704"
 %}
 
-
 Una vez dada por terminada la caminata, nos llevaron a nuestro hotel, donde almorzamos y aprovechamos para conocer un poco de los alrededores del lugar. Ya en la tarde nos llamaron para darnos una “Charla de inducción de equipos”, en la cual nos explicaron cómo usar todos los equipos que necesitaríamos para realizar una ascensión 🧗‍♂️, tales como: crampones, piolet, casco y arnés etc …
 
 <ins>_Recomendación: Cuando te entreguen el equipo para hacer realizar el ascenso, revisa bien los crampones, ya que a una de las personas del grupo no le funcionaba bien la parte para graduarlo y se lo tuvieron que cambiar_</ins>
@@ -70,6 +69,8 @@ Cuando era aproximadamente la 1:00 a.m, los carros que nos llevarían hasta el p
   height:"1350"
 %}
 
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotografia/"  target="_blank"> @deagfotografia</a> </span>__
+
 El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas, llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendemos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina por fin 💪 llegamos a la cumbre del Santa Isabel 😍
 
 {% include image.html,
@@ -78,6 +79,7 @@ El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cab
   width:"1350",
   height:"1350"
 %}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotografia/"  target="_blank"> @deagfotografia</a> </span>__
 
 Una vez llegamos a la cumbre, la emoción fue tan grande que, no podíamos creer que estábamos ahí 😮🤩, es por eso que a pesar de las condiciones climáticas, la ascensión, el recorrido y todo lo demás, finalmente lo logramos y nos sentimos completamente privilegiados de poder haber disfrutado de este lugar tan mágico. Así que si quieres realizar este tour, disfruta cada segundo, cada instante, cada lugar por el que pases porque es simplemente sorprendente. 
 
@@ -85,7 +87,6 @@ __RECOMENDACIONES:__
 En caso de que estés realizando la ascensión y empieces a sentir alguna complicación como mareo, dolor de cabeza debes informar inmediatamente al guía.
 Llevar las prendas adecuadas para esta ruta como pantalones impermeables, chaqueta impermeable y buzos térmicos. (Aplica la técnica de la cebolla, que consiste en usar varias prendas en diferentes capas para resguardarse del frío, en vez de una sola gruesa). 
  
-
 
 
 Este es el fin de la ruta a la nevado Santa Isabel, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
