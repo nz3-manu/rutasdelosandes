@@ -103,7 +103,6 @@ En el sector el arbolito encontramos el  último restaurante y hospedaje más ce
  
 Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
  
-<a name="costoentradaruiz"  id="costoentradaruiz"></a>
  
 ## VALOR DE INGRESO AL NEVADO DEL RUIZ
  

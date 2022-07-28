@@ -73,7 +73,7 @@ Cuando era aproximadamente la 1:00 a.m, los carros que nos llevarían hasta el p
 El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas, llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendemos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina por fin 💪 llegamos a la cumbre del Santa Isabel 😍
 
 {% include image.html,
-  file:"rutas/risaralda/cumbre-santa-isabel/marrana.jpg",
+  file:"rutas/risaralda/cumbre-santa-isabel/cumbre-santa-isabel.jpg",
   caption:"Foto Cumbre Nevado Santa Isabel",
   width:"1350",
   height:"1350"
@@ -85,7 +85,6 @@ __RECOMENDACIONES:__
 En caso de que estés realizando la ascensión y empieces a sentir alguna complicación como mareo, dolor de cabeza debes informar inmediatamente al guía.
 Llevar las prendas adecuadas para esta ruta como pantalones impermeables, chaqueta impermeable y buzos térmicos. (Aplica la técnica de la cebolla, que consiste en usar varias prendas en diferentes capas para resguardarse del frío, en vez de una sola gruesa). 
  
-
 
 
 
