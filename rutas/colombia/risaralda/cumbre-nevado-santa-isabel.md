@@ -15,7 +15,7 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el Nevado Santa Isabel. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. Así que, presta mucha atención y disfruta de este hermoso lugar.
 
-__<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar visitas grupales o personalizadas aquí  </a>__
+__<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
 
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL

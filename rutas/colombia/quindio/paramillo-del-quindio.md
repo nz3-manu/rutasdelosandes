@@ -14,15 +14,16 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
-El precio para ir con una agencia de viajes es de $ 769.000 pesos por persona saliendo desde Manizales o Pereira (3 dias y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://wa.link/5aczuk" target="_blank"> click aquí</a>__ 👈.
+__<a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]__
 
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
 
 El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
 
 En 1801 el botánico alemán von Humboldt visitó esta zona, lo que le permitió describir especies desconocidas hasta entonces, como el frailejón. 
+
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]__
 
 ## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDÍO ?
  

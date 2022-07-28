@@ -14,7 +14,7 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
 
-__Tour al Nevado del Tolima:__ el precio para ir con una agencia de viajes es de aproximadamente $ 1.179.000 pesos por persona saliendo desde Salento (4 días 3 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-tolima-4-dias-3-noches-todo-incluido-desde-salento" target="_blank"> click aquí</a>__ 👈.
+__<a href="https://www.randes.co/products/tour-nevado-del-tolima" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
 
 __En este post encontrarás la siguiente información:__
 
