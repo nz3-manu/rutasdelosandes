@@ -41,12 +41,13 @@ Después de haber disfrutado de una amena charla con nuestros compañeros de via
 
 
 {% include image.html,
-  file:"rutas/risaralda/cumbre-santa-isabel/marrana.jpg",
+  file:"rutas/risaralda/cumbre-santa-isabel/laguna-verde.jpg",
   caption:"Foto Laguna Verde",
-  width:"800",
-  zoom:"13",
-  height:"704"
+  width:"1080",
+  height:"608"
 %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/vanecarmona91/"  target="_blank"> @vanecarmona91</a> </span>__
 
 Una vez dada por terminada la caminata, nos llevaron a nuestro hotel, donde almorzamos y aprovechamos para conocer un poco de los alrededores del lugar. Ya en la tarde nos llamaron para darnos una “Charla de inducción de equipos”, en la cual nos explicaron cómo usar todos los equipos que necesitaríamos para realizar una ascensión 🧗‍♂️, tales como: crampones, piolet, casco y arnés etc …
 
