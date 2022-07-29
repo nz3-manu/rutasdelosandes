@@ -15,7 +15,7 @@ trending: true
 En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
 
-__<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias </a>__ 👈
+__<a href="https://wa.link/5ygmro" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias </a>__ 👈
 
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
