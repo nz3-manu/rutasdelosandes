@@ -15,7 +15,7 @@ trending: true
 En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
 
-__<a href="https://wa.link/5ygmro" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias </a>__ 👈
+__<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
  
 ## DATOS CURIOSOS SOBRE NORCASIA  
@@ -65,6 +65,14 @@ En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostrarem
 
 <ins>Recomendación: _Los horarios de buses algunas veces cambian así que te aconsejamos llamar para confirmar estos horarios._</ins>
  
+<a id="banner2" href="https://www.randes.co/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardó alrededor de 1 hora y 30 minutos, el pasaje tuvo un costo de $13.000 pesos, además de eso, también podrás encontrar algunos taxis que van hasta Norcasia.
  
 Ya una vez que llegamos a Norcasia, estamos listos para empezar nuestra aventura ⛰.
@@ -198,13 +206,6 @@ __<span class="advise"> Foto por: Entre Ríos</span>__
 
 * Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea, el último puente llegaron aproximadamente 600 viajeros (en un pueblo que tiene 6.374 habitantes), quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante todos los fines de semanas con puente.
  
-<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
  
 ## ¿CÓMO REGRESAR DE NORCASIA?
 

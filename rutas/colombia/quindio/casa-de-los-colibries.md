@@ -41,6 +41,13 @@ Una vez en Salento nos hospedamos en una habitación compartida que habíamos re
 
 __Recomendación:__ realizar reservación con previa anticipación, nosotros las realizamos a través de Booking ya que permite hacer reserva totalmente gratis 😋, de esta forma nos evitamos estar corriendo de un lado para el otro buscando hospedaje 🏨💨🏃‍ como ya nos ha pasado 😅.
 
+<a id="banner2" href="https://www.randes.co/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
 
 Al siguiente día llegamos al parque principal ⛪️ donde tomamos un Jeep hasta el Valle del Cocora los horarios de salida son los siguientes; Lunes a Viernes a partir de las 6 am. Salen aproximadamente cada hora y los fines de semana  salen cada 30 minutos  vale aproximadamente $4.000 pesos.
 
