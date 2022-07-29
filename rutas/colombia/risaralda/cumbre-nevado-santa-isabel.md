@@ -20,11 +20,11 @@ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank" style="color:gre
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL
 
-Como dato curioso acerca del Nevado Santa Isabel, tenemos que decir que este se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar. Además, este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda.
+Como dato curioso acerca del Nevado Santa Isabel, tenemos que decir que este se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔. Además, este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda.
 
 El ascenso al nevado se caracteriza por estar rodeado de muchas lagunas; causa curiosidad el complejo de domos que coronan su cima y que lo convierten en uno de los nevados más raros del continente.
 
-Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es que antes del 2030, será el próximo nevado en perder completamente su glaciar.. Actualmente tiene menos de un kilómetro cuadrado de nieve, por lo que es considerada la cumbre más baja y accesible de Colombia con nieve. 
+Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es que antes del 2030, será el próximo nevado en perder completamente su glaciar. Actualmente tiene menos de un kilómetro cuadrado de nieve, por lo que es considerada la cumbre más baja y accesible de Colombia con nieve. 
 
 
 ## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL?
