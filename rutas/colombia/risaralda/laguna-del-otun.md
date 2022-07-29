@@ -62,6 +62,7 @@ La ruta que mostraremos en este post es llegando por Potosí, lugar donde se enc
 
 Estas opciones son recomendables si vas con más de 4 personas.
 
+<a target="_blank" href="https://www.randes.co/">
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
@@ -121,6 +122,7 @@ Desde la asomadera hasta la casa del guardabosques que es el lugar en que se enc
 
 En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰.
 
+<a target="_blank" href="https://www.randes.co/collections/chaquetas-senderismo">
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 

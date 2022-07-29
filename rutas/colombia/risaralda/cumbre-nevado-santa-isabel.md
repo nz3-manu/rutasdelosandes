@@ -33,6 +33,15 @@ __DIA #1__
 
 Nuestro viaje inició desde la ciudad de Pereira a las 5:00 a.m, allí la agencia encargada de nuestro tour nos recogió. Una vez abordamos el carro, aprovechamos para descansar puesto que tuvimos que madrugar muy temprano para terminar de alistar nuestro equipaje y nuestra ruta 😴. Durante nuestro recorrido, hicimos nuestra primera parada para desayunar, y mientras estábamos desayunando, ya podíamos sentir bastante frío.
 
+<a target="_blank" href="https://www.randes.co/collections/chaquetas-senderismo">
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
+
 Además, aprovechamos para conversar con las demás personas que nos acompañaban en el recorrido. Sentimos una gran sorpresa de ver muchos extranjeros quienes estaban fascinados por los hermosos paisajes, algunos de ellos habían venido desde muy lejos para visitar algunos nevados y lugares naturales de Colombia, lo que me puso a pensar que: vivimos tan cerca de estos lugares tan bellísimos⛰ que no alcanzamos a dimensionar su majestuosidad ni de valorar lo magníficos que son. Por tal razón que desde la experiencia no solo de los colombianos sino de los extranjeros, les decimos que cuidemos estos lugares que son fuente de vida.
 
 <ins>_Importante: En caso de que quieras ingresar al parque de los nevados, es permitido únicamente el ingreso si vas con un guía certificado por parques nacionales y con los respectivos seguros de asistencia médica._</ins>
