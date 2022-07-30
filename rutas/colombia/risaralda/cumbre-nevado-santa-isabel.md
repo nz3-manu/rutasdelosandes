@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Cumbre nevado Santa Isabel
 categories: colombia 
