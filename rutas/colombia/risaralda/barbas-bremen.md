@@ -12,10 +12,14 @@ trending: true
 
 # RESERVA BARBAS BREMEN
 
-La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). Entre los atractivos de la reserva está la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
+La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). 
 
 __<a href="https://forms.gle/WUJTqbmkUWjYP1sQ9" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
 
+
+Entre los atractivos de la reserva está la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
+
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]__
 
 ## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
 
@@ -63,6 +67,13 @@ Al aventurarnos por sendero, cada vez se escuchaba más los sonidos de la natura
 Tras haber hecho una pequeña pausa para avistar los monos aulladores, continuamos con nuestro recorrido hacia el Río Barbas que se escuchaba al fondo, el descenso para este río fue por unas pendientes con algo de pantano que de no haber llevado zapatos de buen agarre hubiera sido un poco difícil caminar por este sendero.
 
 El último trayecto para bajar al rió fue por unas rocas la cual estaba algo resbalosa, para nuestra sorpresa el rió estaba totalmente cristalino y habían algunas parte hondas donde se podía sumergir 🏊‍♂️.  
+
+{% include image.html,
+  file:"rutas/risaralda/barbasBremen/rio-basbas.jpg",
+ caption:"Mono aullador",
+ width:"800",
+ height:"600"
+%}
 
 Este recorrido realmente fue una experiencia mágica en el sentido de poder estar disfrutando de éstas aguas cristalinas y relajantes, además de poder escuchar el sonido de los monos aulladores, que para sorpresa de todos, son unos animales realmente cautivadores y exóticos que hacen que la Reserva Barbas Bremen sea un sitio para visitar una y mil veces.
 

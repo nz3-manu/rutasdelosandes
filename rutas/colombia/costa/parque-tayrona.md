@@ -16,10 +16,10 @@ Hoy te queremos presentar uno de los lugares que no debe faltar en tu lista de v
 
 En este post encontrarás:
  
-* <a href="#comoLLegarTayrona"> ¿Cómo llegar al Parque Tayrona?</a>
-* <a href="#tarifasParqueTayrona"> Tarifas para ingreso al Parque Tayrona</a>
-* <a href="#rutasDentroTayrona"> Rutas dendro del parque Tayrona</a>
-* <a href="#hospedajeTayrona"> Hospedaje en el Parque Tayrona</a>
+* ¿Cómo llegar al Parque Tayrona?
+* Tarifas para ingreso al Parque Tayrona
+* Rutas dendro del parque Tayrona
+* Hospedaje en el Parque Tayrona
  
 ## DATOS CURIOSOS DEL PARQUE NACIONAL NATURAL TAYRONA
  
@@ -27,7 +27,6 @@ El Parque Nacional Natural Tayrona se encuentra en la la Sierra Nevada de Santa 
  
 En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan la existencia de asentamientos humanos de la tribu Tayrona que ocuparon esta región desde épocas precolombinas hasta la colonización. Ahora se encuentra habitada por la tribu Kogui que son descendientes de los taironas.
 
-<a name="comollegarlaguna"></a>
 
 ## ¿QUÉ ENCONTRARÁS EN EL PARQUE TAYRONA?
 
@@ -41,7 +40,6 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 {% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %}
 </amp-carousel>
  
-<a name="comoLLegarTayrona"></a>
 
 ## ¿CÓMO LLEGAR AL PARQUE TAYRONA?
 
@@ -63,7 +61,6 @@ __Recuerda que los cupos de los parqueaderos en el Tayrona son limitados.__
 
 Al llegar al Zaino tuvimos que comprar la entrada  para ingresar al Parque Tayrona.
  
-<a name="tarifasParqueTayrona"></a>
 
 ### TARIFAS PARA INGRESO AL PARQUE TAYRONA
 
@@ -98,7 +95,6 @@ __Mapa de ruta realizada desde el en el parque Tayrona__
   caption:"Ruta en el Parque Tayrona"
 %}
 
-<a name="hospedajeTayrona"></a>
  
 ## HOSPEDAJE EN EL PARQUE TAYRONA
  
