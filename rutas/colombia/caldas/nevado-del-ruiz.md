@@ -13,16 +13,14 @@ trending: true
 # NEVADO DEL RUIZ
  
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
-
-__<a href="https://www.randes.co/collections/tours/products/pasadia-nevado-del-ruiz" style="color:green;" target="_blank"> Click aquí para consultar algunos planes que ofrecen algunas agencias al Nevado del Ruiz</a>__ 👈
  
 __En este post encontrarás la siguiente información:__
 
-* Cómo llegar al Nevado del Ruiz 
+* Tours al Nevado del Ruiz 
+* ¿Cómo llegar al Nevado del Ruiz?
 * Hospedajes cerca al Nevado del Ruiz
 * Costo de entrada al Nevado del Ruiz
 * Ruta en el Nevado del Ruiz 
-* Descargar información adicional Nevado del Ruiz  
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
  
@@ -46,6 +44,12 @@ Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+## TOURS AL NEVADO DEL RUIZ 
+
+Para ir al Nevado del Ruiz con una agencia de viajes, puede costar entre $230.000 a $570.000 dependiendo las personas disponibles en ese momento para ir al Nevado del Ruiz, lo mejor es contactar una agencias que se encargaran de llenar cupos con otras agencias y así saldrá mas económico para llenar los cupos de los carros.
+
+__<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para Tour al Nevado del Ruiz</a>__ 👈
  
  
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ ?
@@ -63,8 +67,8 @@ Para aclimatar nuestro cuerpo a la altura el conductor nos recomendó abrir un p
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra, al frente de esta laguna nos encontramos el  
 restaurante Cumanday el cual ofrecen los siguientes servicios:
 
-* Desayunos ☕️: $8.000 Pesos.
-* Almuerzos 🍛: $14.000 pesos.
+* Desayunos ☕️: $10.000 Pesos.
+* Almuerzos 🍛: $15.000 pesos.
  
 {% include image.html,
   file:"rutas/caldas/ruiz/laguna-negra.jpeg",
@@ -110,7 +114,7 @@ Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de
  
 __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__
 
-* __Entrada al Parque los Nevados 2019 🎟:__ mayores de 5 años y menores de 25 años $8.500 pesos, mayores de 25 años hasta 70 años $16.000 pesos y extranjeros $45.000 pesos.
+* __Entrada al Parque los Nevados 2022 🎟:__ mayores de 5 años y menores de 25 años $9.000 pesos, mayores de 25 años hasta 70 años $17.000 pesos y extranjeros $47.500 pesos.
 
 * __Seguro médico y de rescate ⛑:__ es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos.
 

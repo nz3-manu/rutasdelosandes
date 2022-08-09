@@ -70,7 +70,7 @@ El último trayecto para bajar al rió fue por unas rocas la cual estaba algo re
 
 {% include image.html,
   file:"rutas/risaralda/barbasBremen/rio-basbas.jpg",
- caption:"Mono aullador",
+ caption:"Rio Barbas Bremen",
  width:"800",
  height:"600"
 %}
