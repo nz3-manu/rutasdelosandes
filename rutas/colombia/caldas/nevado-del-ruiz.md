@@ -30,6 +30,14 @@ Este hermoso volcán es considerado como uno de los más alto de sudamérica, cu
  
 Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
 Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
  
 Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
@@ -81,16 +89,18 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotogr
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
  
-<a name="hospedajesnevadoruiz" id="hospedajesnevadoruiz"></a>
 
-<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
+
+{% include image.html,
+  file:"rutas/caldas/ruiz/nevado-del-ruiz.jpg",
+ caption:"Foto de Laguna Negra",
+ width:"1280",
+ height:"1350"
+%}
  
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
+
+
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ
 
 En el recorrido que hicimos solo nos encontramos con un hospedaje, si sabes de otro disponible nos puedes escribir a nuestras redes sociales para actualizar la información.

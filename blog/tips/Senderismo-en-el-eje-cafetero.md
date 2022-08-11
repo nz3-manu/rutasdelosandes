@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  Senderismo en el eje cafetero
+title:  Senderismo en el Eje Cafetero
 categories: blog
 seo_title: ⛰Senderismo en el eje cafetero - Rutas
 excerpt: Excursiones, rutas y caminatas por el eje cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en eje cafetero o como también es conocido el  Triángulo del Café.
