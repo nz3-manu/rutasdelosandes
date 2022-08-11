@@ -47,7 +47,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOURS AL NEVADO DEL RUIZ 
 
-Para ir al Nevado del Ruiz con una agencia de viajes, puede costar entre $230.000 a $570.000 dependiendo las personas disponibles en ese momento para ir al Nevado del Ruiz, lo mejor es contactar una agencias que se encargaran de llenar cupos con otras agencias y así saldrá mas económico para llenar los cupos de los carros.
+Para ir al Nevado del Ruiz con una agencia de viajes, puede costar entre $230.000 a $570.000 dependiendo las personas disponibles en ese momento para ir al Nevado del Ruiz, lo mejor es contactar una agencias que se encargarán de llenar los cupos con otras agencias y así te saldrá mas económico visitar este lugar.
 
 __<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para Tour al Nevado del Ruiz</a>__ 👈
  
@@ -123,7 +123,6 @@ __Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:
  
 __Importante:__ el Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro, esto se hace con el fin de poder evacuar más rápidamente a las personas.
 
-_Si vas en carro tendrás que pagar $6.000 pesos para el ingreso del vehículo al Parque de los Nevados, si vas en moto no la podras ingresar y tendrás que pagar un valor aproximado de $15.000 pesos por persona para realizar la ruta circular en carro._
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 

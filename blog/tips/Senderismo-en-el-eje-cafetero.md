@@ -81,6 +81,8 @@ Esta hermosa cascada está muy cerca del casco urbano de Armenia a un kilómetro
 
 Este majestuoso nevado se encuentra aproximadamente a 50.8 km de la ciudad de Manizales, el cual es uno de los más grandes de Colombia. Por tal razón, tiende a ser muy frecuentado por turistas propios y extranjeros, quienes encuentran como atractivo, los famosos frailejones. 
 
+👉 <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html" target="_blank">Click aquí para ver información completa del Nevado del Ruiz</a>
+
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/nevado-del-ruiz.jpg",
  caption:"Foto del Nevdao del Ruiz",
@@ -94,7 +96,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
  Esta es una caminata por un sendero lleno de mucho bosque y al final del recorrido una hermosa vista donde podrán ver pereira, dosquebradas, santa rosa y cuba (3 a 4 horas).
 
 
-<a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Click aquí para ver información completa de este lugar </a>
+👉 <a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Click aquí para ver información completa del Alto del Nudo </a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/alto-del-nudo.jpg",
@@ -107,7 +109,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
 
 Una ruta que no podría faltar, esta queda un poco retirado de Manizales aproximadamente a 5 horas, pero debe ser un lugar que debe de estar en tu lista para visitar.
 
-<a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Click aquí para ver información completa de este lugar  </a>
+👉 <a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Click aquí para ver información completa de Norcasia </a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/norcasia-caldas.jpg",
@@ -115,6 +117,8 @@ Una ruta que no podría faltar, esta queda un poco retirado de Manizales aproxim
  width:"1000",
  height:"572"
 %}
+
+__<span class="advise"> Foto por: Entre Rios </span>__
 	
 ### SENDERISMO DE AVENTURA 🏃‍♂️
 Estos caminos que te mostraremos a continuación son excursiones un poco más fuertes, los senderos son más extensos, ideal para las personas que ya hayan practicado senderismo
@@ -124,7 +128,7 @@ Estos caminos que te mostraremos a continuación son excursiones un poco más fu
 Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, el recorrido por este sendero es por alrededor de 4 kilómetros  (8 kilómetros en total), el camino se dificulta un poco ya que se tendrá que caminar por un camino de piedras.
 
 
-<a href="https://rutasdelosandes.com/colombia/risaralda/cascada-los-chorros.html" target="_blank"> Click aquí para ver información completa de este lugar  </a>
+👉 <a href="https://rutasdelosandes.com/colombia/risaralda/cascada-los-chorros.html" target="_blank"> Click aquí para ver información completa de cascada la Pastora  </a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cascada-pastora.jpg",
@@ -133,19 +137,17 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
  height:"1013"
 %}
 
-__<span class="advise"> Foto por: Entre Rios </span>__
-
 
 #### MORRO GACHO (QUINDIO)
 
-Este lugar se encuentra en el Valle del Cocora esta es sin duda una caminata muy exigente, de alrededor de 6 kilómetros en los cuales todo el trayecto es ascenso y 6 kilómetros de descenso, como recompensa con esta subida obtendrán un vista hermosa del quindío ⛰.
+Este lugar se encuentra en el Valle del Cocora esta es sin duda una caminata muy exigente, desde que se deja el valle del Cocora todo el trayecto es ascenso, cuenta con una altitud de 3.450 M.S.N.M y como recompensa con esta subida obtendrán un vista hermosa del quindío ⛰.
 Para más información de esta ruta puedes hacer click aquí.
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/imagen.jpg",
+ file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/morro-gacho.jpg",
  caption:"Imagen Eje Cafetero: Morro Gacho",
- width:"1800",
- height:"1384"
+ width:"963",
+ height:"758"
 %}
            
 ### SENDERISMO A NEVADOS EN EL EJE CAFETERO 🧗‍♂️
@@ -159,7 +161,7 @@ El nevado Santa Isabel, se encuentra ubicado sobre la cordillera central de Colo
 
 Para hacer cumbre al nevado Santa Isabel necesitarás de 2 días y de muchas ganas de cumbre, si quisieras hacer borde de nieve podrás hacerlo en 1 día.
 
-<a href="https://rutasdelosandes.com/colombia/risaralda/cumbre-nevado-santa-isabel.html" target="_blank"> Click aquí para ver información completa de este lugar  </a>
+👉 <a href="https://rutasdelosandes.com/colombia/risaralda/cumbre-nevado-santa-isabel.html" target="_blank"> Click aquí para ver información completa del Nevado Santa Isabel </a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
@@ -176,7 +178,7 @@ El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordi
 
 Para hacer cumbre al paramillo del Quindío necesitarás de 3 días y de muchas ganas de cumbre.
 
-<a href="https://rutasdelosandes.com/colombia/quindio/paramillo-del-quindio.html" target="_blank"> Click aquí para ver información completa de este lugar  </a>
+👉 <a href="https://rutasdelosandes.com/colombia/quindio/paramillo-del-quindio.html" target="_blank"> Click aquí para ver información completa del Paramillo del quindio </a>
 
 
 {% include image.html,
@@ -191,7 +193,7 @@ Para hacer cumbre al paramillo del Quindío necesitarás de 3 días y de muchas 
 El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
 Para hacer cumbre en el nevado del Tolima necesitarás de 4 días y de muchas ganas de cumbre.
 
-<a href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html" target="_blank"> Click aquí para ver información completa de este lugar </a>
+👉 <a href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html" target="_blank">Click aquí para ver información completa del Nevado del Tolima</a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cumbre-tolima.jpg",
@@ -202,10 +204,10 @@ Para hacer cumbre en el nevado del Tolima necesitarás de 4 días y de muchas ga
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
 
-## DÓNDE HOSPEDARTE EN EL EJE CAFETERO
-Aquí te mostraremos algunas opciones disponibles de hoteles en el Eje Cafetero.
+## DÓNDE HOSPEDARTE EN EL EJE CAFETERO 🏨
+Aquí te mostraremos algunas opciones disponibles de hoteles en el Eje Cafetero, los dividimos en: hoteles y hostales, también incluimos algunas empresas que alquilan apartamentos amoblados por días, esta opción será más cómodo si vas en familia.
 
-### HOSPEDAJES EN PEREIRA (RISARALDA)
+### HOSPEDAJE EN PEREIRA (RISARALDA)
 En Pereira podrás encontrar gran variedad de hostales y hoteles, aquí te mostraremos algunas de las opciones que podrás tener en cuenta.
 
 #### HOTELES EN PEREIRA
@@ -215,10 +217,9 @@ En Pereira podrás encontrar gran variedad de hostales y hoteles, aquí te mostr
 #### HOSTALES EN PEREIRA 
 * El Albore Hostal, carrera 16 b # 9- 28
 
+### HOSPEDAJE EN MANIZALES (CALDAS)
 
-### HOSPEDAJES EN MANIZALES (CALDAS)
-
-En Pereira podrás encontrar gran variedad de hostales y hoteles, aquí te mostraremos algunas de las opciones que podrás tener en cuenta.
+En Manizales podrás encontrar gran variedad de hostales y hoteles, aquí te mostraremos algunas de las opciones que podrás tener en cuenta.
 
 #### HOTELES EN MANIZALES
 * Piedras De Maní, calle 66 # 23b - 98 Calle Larga, Palermo
@@ -228,13 +229,17 @@ En Pereira podrás encontrar gran variedad de hostales y hoteles, aquí te mostr
 * Hostal Ell Edén Manizales, Cl. 17 #20-11, teléfono:  <a href="tel:3160420494"> 3160420494</a>
 * Hostal de la 57, Cra. 24A #57-63 #571, teléfono: <a href="tel:6068856725"> (606) 8856725</a>
 
-### HOSPEDAJES EN ARMENIA (QUINDÍO)
+### HOSPEDAJE EN ARMENIA (QUINDÍO)
+En Armenia podrás encontrar gran variedad de hostales y hoteles, aquí te mostraremos algunas de las opciones que podrás tener en cuenta.
 
 #### HOTELES EN ARMENIA
 * Hotel Quimbaya De Oro, Cra. 18 #20-28, teléfono: <a href="tel:6067331525"> (606) 7331525</a>
 
 #### HOSTALES EN ARMENIA 
 * Hostel Casa Campesina, carrera 21 # 43 16 barrio brasilia, teléfono: <a href="tel:3218128855 "> 3218128855</a>
+
+
+Este es el fin del post Senderismo en el Eje Cafetero, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 
 
