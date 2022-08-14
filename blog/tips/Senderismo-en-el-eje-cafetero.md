@@ -33,6 +33,15 @@ No siendo más, empecemos.
 
 El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de más fácil acceso desde cualquier lugar de Colombia, y aún más asequible desde las principales ciudades tales como: Medellín, Cali y Bogotá. 
 
+<a id="banner1" href="https://www.randes.co/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.gif", 
+caption:"", 
+width:"480", 
+height:"200" %}
+</a>
+
+
 Cabe mencionar que el Eje Cafetero está conformado por tres departamentos, los cuales son: Risaralda, Quindío y Caldas los cuales forman un triángulo que es mandatorio ser visitado por los amantes del café ☕️. 
 
 
@@ -68,7 +77,7 @@ Aclarando esto, acá te indicaremos los recorridos y duración del viaje en bus 
 
 El Eje Cafetero, como bien saben, abarca tres departamentos, por tal razón, podrás encontrarte con hermosos pueblos llenos de magia y encanto. También, es importante resaltar que el Eje Cafetero por su ubicación geográfica dentro de la cordillera de los Andes hace que sea un destino turístico lleno de montañas, altiplanos, páramos, ríos, ciénagas y bosques en los que podrás disfrutar de varios planes tales como: caminatas ecológicas, ascensos, montañismo y/o senderismo.
 
- Si eres de los que te gustan las excursiones a alta montaña, también podrás encontrar nevados por lo que las rutas son muchas y puedes escoger las que quieras.
+ Si eres de los que te gustan las excursiones a alta montaña, también podrás encontrar nevados  por lo que las rutas son muchas y puedes escoger las que quieras 🏔.
 
 
 ## TURISMO EN EL EJE CAFETERO
@@ -79,7 +88,20 @@ A continuación te mostraremos algunos de los lugares que podrás visitar en el 
 
 Esta clase de caminatas al tener una exigencia  relativamente baja, son ideales para que puedas disfrutar con todos los integrantes de la familia. Echa una leída a las diferentes opciones que este tipo de caminatas te ofrecen.
 
-### SALTO DEL HIPPIE (QUINDIO)
+#### TERMALES DEL SIFÓN (CALDAS)
+
+Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran a 2 horas en carro 4x4 desde la ciudad de Manizales. El recorrido para visitar los lugares de interés no se tardarán mas de 5 minutos caminando.
+
+👉 <a href="https://rutasdelosandes.com/colombia/caldas/termales-sifon.html" target="_blank">Click aquí para ver información completa de los Termales del Sifón </a>
+
+{% include image.html,
+ file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/termales-del-sifon.jpg",
+ caption:"Termales del Sifón",
+ width:"800",
+ height:"533"
+%}
+
+#### SALTO DEL HIPPIE (QUINDIO)
 
 Esta hermosa cascada está muy cerca del casco urbano de Armenia a un kilómetro aproximadamente del municipio de Circasia donde podrás encontrar unas aguas cristalinas las cuales te invitan a que te sumerjas en ellas. Su altura es de 20 metros aproximadamente.
 
@@ -91,7 +113,7 @@ Esta hermosa cascada está muy cerca del casco urbano de Armenia a un kilómetro
 %}
 
 
-### NEVADO DEL RUIZ (CALDAS)
+#### NEVADO DEL RUIZ (CALDAS)
 
 Este majestuoso nevado se encuentra aproximadamente a 50.8 km de la ciudad de Manizales, el cual es uno de los más grandes de Colombia. Por tal razón, tiende a ser muy frecuentado por turistas propios y extranjeros, quienes encuentran como atractivo, los famosos frailejones. 
 
@@ -111,7 +133,7 @@ Te cuento un poco, todo el recorrido se hace en carro, solo tendrán que bajarse
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
-### SERRANÍA ALTO DEL NUDO (RISARALDA)
+#### SERRANÍA ALTO DEL NUDO (RISARALDA)
  Esta es una caminata por un sendero lleno de mucho bosque y al final del recorrido una hermosa vista donde podrán ver pereira, dosquebradas, santa rosa y cuba (3 a 4 horas).
 
 
@@ -124,9 +146,9 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
  height:"750"
 %}
 
-### NORCASIA CALDAS (CALDAS)
+#### NORCASIA CALDAS (CALDAS)
 
-Una ruta que no podría faltar, esta queda un poco retirado de Manizales aproximadamente a 5 horas, pero debe ser un lugar que debe de estar en tu lista para visitar.
+Una ruta que no podría faltar, esta queda un poco retirado de Manizales aproximadamente a 5 horas, pero debe ser un lugar que debe de estar en tu lista para visitar, todos los recorridos de hacen en lancha o en carro, no tendrán que caminar mucho.
 
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Click aquí para ver información completa de Norcasia </a>
 
@@ -159,8 +181,9 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
 
 #### MORRO GACHO (QUINDIO)
 
-Este lugar se encuentra en el Valle del Cocora esta es sin duda una caminata muy exigente, desde que se deja el valle del Cocora todo el trayecto es ascenso, cuenta con una altitud de 3.450 M.S.N.M y como recompensa con esta subida obtendrán un vista hermosa del quindío ⛰.
+Este lugar esta ubicado en el Valle del Cocora es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
 
+_Si quieres más información de este lugar, puedes escribirnos a nuestras redes sociales._
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/morro-gacho.jpg",
