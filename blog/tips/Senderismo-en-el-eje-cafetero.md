@@ -18,7 +18,7 @@ En este post te mostraremos algunos lugares del Eje Cafetero en los cuales podr�
 __INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:__
 * ¿Dónde queda el Eje Cafetero? 
 * ¿Cómo llegar al Eje Cafetero?
-* ¿Qué Hacer en el Eje Cafetero?
+* ¿Qué hacer en el Eje Cafetero?
 * Turismo en el Eje Cafetero
      * Rutas de senderismo Familiar
      * Rutas de Senderismo De Aventura
@@ -126,7 +126,7 @@ Te cuento un poco, todo el recorrido se hace en carro, solo tendrán que bajarse
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/nevado-del-ruiz.jpg",
- caption:"Foto del Nevdao del Ruiz",
+ caption:"Foto del Nevado del Ruiz",
  width:"1280",
  height:"1350"
 %}
