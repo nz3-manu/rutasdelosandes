@@ -20,9 +20,9 @@ __INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:__
 * ¿Cómo llegar al Eje Cafetero?
 * ¿Qué hacer en el Eje Cafetero?
 * Turismo en el Eje Cafetero
-     * Rutas de senderismo Familiar
-     * Rutas de Senderismo De Aventura
-     * Rutas de Senderismo Alta Montaña
+     * Rutas de senderismo familiar
+     * Rutas de senderismo de aventura
+     * Rutas de senderismo alta montaña
 * Dónde hospedarte en el Eje Cafetero
 
 
@@ -117,9 +117,9 @@ Esta hermosa cascada está muy cerca del casco urbano de Armenia a un kilómetro
 
 Este majestuoso nevado se encuentra aproximadamente a 50.8 km de la ciudad de Manizales, el cual es uno de los más grandes de Colombia. Por tal razón, tiende a ser muy frecuentado por turistas propios y extranjeros, quienes encuentran como atractivo, los famosos frailejones. 
 
-¿Te estarás preguntando qué hace un nevado dentro de las rutas para visitar en familia ?, 
+¿Te estarás preguntando qué hace un nevado dentro de las rutas para visitar en familia ?
 
-Te cuento un poco, todo el recorrido se hace en carro, solo tendrán que bajarse de él para tomar fotos en las zonas de interés, ya que por la actividad que presenta no se permite ingresar más allá de sector llamado tumbas, sector que no tiene nieve, lamento decepcionarte si pensabas caminar por la nieve o hacer cumbre en este nevado 🧗‍♂️, además de esto solo se permite hacer el recorrido en carro, así que solo tendrán que bajarse de él para tomar las fotos en los lugares de interés.
+Te cuento un poco. Todo el recorrido se hace en carro, solo tendrán que bajarse de el para tomar fotos en las zonas de interés, ya que por la actividad que presenta no se permite ingresar más allá de sector llamado tumbas, sector que no tiene nieve, lamento decepcionarte si pensabas caminar por la nieve o hacer cumbre en este nevado 🧗‍♂️, además de esto solo se permite hacer el recorrido en carro, así que solo tendrán que bajarse de él para tomar las fotos en los lugares de interés.
 
 
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html" target="_blank">Click aquí para ver información completa del Nevado del Ruiz</a>
@@ -134,7 +134,7 @@ Te cuento un poco, todo el recorrido se hace en carro, solo tendrán que bajarse
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
 #### SERRANÍA ALTO DEL NUDO (RISARALDA)
- Esta es una caminata por un sendero lleno de mucho bosque y al final del recorrido una hermosa vista donde podrán ver pereira, dosquebradas, santa rosa y cuba (3 a 4 horas).
+ Esta es una caminata por un sendero lleno de mucho bosque y al final del recorrido una hermosa vista donde podrás ver la ciudad de Pereira, y los municipios de Dosquebradas, y Santa Rosa, además del barrio Cuba (3 a 4 horas).
 
 
 👉 <a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Click aquí para ver información completa del Alto del Nudo </a>
@@ -148,7 +148,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
 
 #### NORCASIA CALDAS (CALDAS)
 
-Una ruta que no podría faltar, esta queda un poco retirado de Manizales aproximadamente a 5 horas, pero debe ser un lugar que debe de estar en tu lista para visitar, todos los recorridos de hacen en lancha o en carro, no tendrán que caminar mucho.
+Una ruta que no podría faltar es la ruta de Norcasia; dicha ruta queda un poco retirado de Manizales aproximadamente a 5 horas. Sin lugar a duda, esta ruta debe de estar en tu lista para visitar, todos los recorridos se hacen en lancha o en carro, por tal motivo, no tendrán que caminar mucho.
 
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Click aquí para ver información completa de Norcasia </a>
 
@@ -181,7 +181,7 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
 
 #### MORRO GACHO (QUINDIO)
 
-Este lugar esta ubicado en el Valle del Cocora es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
+Este lugar está ubicado en el Valle del Cocora es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
 
 _Si quieres más información de este lugar, puedes escribirnos a nuestras redes sociales._
 
@@ -192,7 +192,7 @@ _Si quieres más información de este lugar, puedes escribirnos a nuestras redes
  height:"960"
 %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CX90wpdqFz26/"  target="_blank"> @ginabont</a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/ginabont/"  target="_blank"> @ginabont</a> </span>__
            
 ### RUTAS DE SENDERISMO ALTA MONTAÑA 🧗‍♂️
 
@@ -281,6 +281,8 @@ En Armenia podrás encontrar gran variedad de hostales y hoteles, aquí te mostr
 
 #### HOSTALES EN ARMENIA 
 * Hostel Casa Campesina, carrera 21 # 43 16 barrio brasilia, teléfono: <a href="tel:3218128855 "> 3218128855</a>
+
+
 
 
 
