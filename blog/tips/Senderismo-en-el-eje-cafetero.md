@@ -2,8 +2,8 @@
 layout: article
 title:  Senderismo en el Eje Cafetero
 categories: blog
-seo_title: ⛰Senderismo en el eje cafetero - Rutas
-excerpt: Excursiones, rutas y caminatas por el eje cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en eje cafetero o como también es conocido el  Triángulo del Café.
+seo_title: ⛰ Senderismo en el Eje Cafetero - Rutas
+excerpt: Excursiones, rutas y caminatas por el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el  Triángulo del Café.
 images_url: /images/blog/tipsmontana/senderismo-en-el-eje-cafetero
 tags: TipsMontaña
 featured:  https://rutasdelosandes.com/images/blog/tipsmontana/senderismo-en-el-eje-cafetero/featured.jpg
@@ -283,7 +283,7 @@ En Armenia podrás encontrar gran variedad de hostales y hoteles, aquí te mostr
 * Hostel Casa Campesina, carrera 21 # 43 16 barrio brasilia, teléfono: <a href="tel:3218128855 "> 3218128855</a>
 
 
-
+Espero toda la información que escribimos del Eje Cafetero te haya sido de ayuda, si crees que hemos olvidado mencionar algún lugar no dudes en contactarnos a través de nuestras redes sociales por otra parte si quisieras visitar alguno de estos lugares puedes contactarnos para ayudarte a buscar disponibilidad con algunas agencias aliadas.
 
 
 Este es el fin del post Senderismo en el Eje Cafetero, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
