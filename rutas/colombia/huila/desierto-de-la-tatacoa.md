@@ -17,7 +17,7 @@ En este post encontrarás toda la información que necesitas saber para viajar a
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
  
-El precio para ir con una agencia de viajes es de aproximadamente $ 400.000  pesos por persona saliendo desde Villavieja (3 días y 2 noches), si quieres realizar este viaje con una agencia puedes dar __<a href="https://walink.co/d692df" target="_blank"> click aquí</a>__ 👈
+__<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>__ 
  
 Empecemos con la aventura ⛰.
  

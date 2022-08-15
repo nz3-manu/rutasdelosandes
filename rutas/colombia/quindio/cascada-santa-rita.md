@@ -12,7 +12,7 @@ author: manuel
 
 Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al municipio de Salento en el departamento del Quindío. En esta región en 1926 se empezó a realizar una de las obras más ambiciosas para esta época: el Ferrocarril que comunicaría a Armenia con Ibagué, una obra que prometía progreso para toda la región, pero que por múltiples razones en el año de 1948 se suspendió la construcción de esta importante obra.
 
-¿Quieres realizar esta ruta con un guia local?__<a href="https://wa.link/xdqrbo" target="_blank"> click aquí</a>__ 👈
+__<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>__ 
 
 Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferrocarril.
 

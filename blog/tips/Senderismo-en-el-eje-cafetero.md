@@ -29,7 +29,9 @@ __INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:__
 No siendo más, empecemos.
 
 
-## ¿DÓNDE QUEDA EL EJE CAFETERO? 
+## ¿DÓNDE QUEDA EL EJE CAFETERO 🤔? 
+
+Si eres extranjero y no tienes mínima de idea donde queda esta región, tranquilo que aquí en esta sección te lo explicaremos y te daremos algunas opciones de transporte 😏.  
 
 El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de más fácil acceso desde cualquier lugar de Colombia, y aún más asequible desde las principales ciudades tales como: Medellín, Cali y Bogotá. 
 
@@ -50,7 +52,6 @@ Cabe mencionar que el Eje Cafetero está conformado por tres departamentos, los 
 Ahora bien, ya tienes una idea más clara de dónde se encuentra ubicado el Eje Cafetero y que departamentos lo conforman.  Es hora de conocer cómo llegar a este importante atractivo turístico. 
 
 Para llegar al Eje Cafetero, lo puedes hacer en avión y/o puedes optar por viajar en bus, viajes desde donde viajes, encontrarás una ruta o un vuelo disponible para que puedas llegar al Triángulo del Café y disfrutar de todo su encanto.
-
 
 
 Aclarando esto, acá te indicaremos los recorridos y duración del viaje en bus desde las principales ciudades del país:  
