@@ -12,8 +12,9 @@ trending: true
  
 # NORCASIA
  
-En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes, los precios con agencian varían desde $110.000 pasadía o 2 días y 1 noche por $350.000 (precios por persona).
+En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
+Los precios con agencian varían desde $110.000 pasadía o 2 días y 1 noche por $350.000 (precios por persona).
 
 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
@@ -37,8 +38,18 @@ Norcasia además está ubicada al oriente caldense a 43 kilómetros de La Dorada
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  
-<a name="comollegarnorca" id="comollegarnorca"></a>
- 
+## TOURS EN NORCASIA
+
+En Norcasia podrás encontrar diferentes tipos de planes turísticos, aquí te mencionamos algunos tours en Norcasia.
+
+* Un pasadía de $110.000 y otro de $120.000.
+* 2 días y 1 noche por $350.000 (incluye: hospedaje y alimentación)
+* 3 días y 2 días por $420.000 (incluye: hospedaje y alimentación)
+
+__<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> Para ver más información de estos tours puedes dar click aquí </a>.__ 
+
+
+
 ## ¿CÓMO LLEGAR A NORCASIA 🚌?
  
 En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
@@ -76,7 +87,7 @@ height:"200" %}
 Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardó alrededor de 1 hora y 30 minutos, el pasaje tuvo un costo de $13.000 pesos, además de eso, también podrás encontrar algunos taxis que van hasta Norcasia.
  
 Ya una vez que llegamos a Norcasia, estamos listos para empezar nuestra aventura ⛰.
- 
+
 ## RUTA EN NORCASIA 🚤
  
 Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje. Mientras íbamos camino al hospedaje, pudimos ver que en el parque principal de Norcasia, hay muchos hoteles, por lo que tienes muchas opciones de hospedarte, además, tienes muchas opciones que se pueden ajustar a tu presupuesto de viaje.
