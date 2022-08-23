@@ -180,11 +180,11 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
 %}
 
 
-#### MORRO GACHO (QUINDIO)
+#### CERRO MORRO GACHO (QUINDIO)
 
-Este lugar está ubicado en el Valle del Cocora es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
+Este lugar está ubicado en el Valle del Cocora, es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora (2,400 M.S.N.M) todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
 
-_Si quieres más información de este lugar, puedes escribirnos a nuestras redes sociales._
+👉 <a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Click aquí para ver información completa del Cerro Morrogacho</a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/morro-gacho.jpg",
