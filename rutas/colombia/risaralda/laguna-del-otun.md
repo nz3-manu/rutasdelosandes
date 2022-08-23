@@ -14,14 +14,13 @@ trending: true
 
 En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
-Si quieres realizar este tour nos puedes dejarnos tus datos y una vez se complete el cupo te estaríamos contactando __<a href="https://forms.gle/x7YTA5adDUBH1QW76" target="_blank"> llenar formulario aquí</a>__ 
-
 __En este post encontrarás la siguiente información:__
+* Dato curioso de la Laguna del Otún
+* Tours a la Laguna del Otún
 * Cómo llegar a la Laguna del Otún
 * Hospedajes cerca a la Laguna del Otún
 * Costo de entrada a la Laguna del Otún
 * Ruta a la Laguna del Otún
-* Descargar información adicional de la Laguna del Otún
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
@@ -44,6 +43,23 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+
+## TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
+
+A continuación te compartimos los precios que manejan algunas __agencias de turismo para la laguna del Otún:__ 
+
+* 1 Persona: $550.000
+* 2 personas: $340.000
+* 3 personas: $280.000
+* 4 personas: $270.000
+* Más de 5 personas: $430.000
+
+También algunas agencias tienen fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
+
+__EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidratación y entrada al parque de los nevados.
+
+__<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour a la laguna del Otún</a>__ 👈
 
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?

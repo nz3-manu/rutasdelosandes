@@ -19,6 +19,16 @@ Los precios con agencian varían desde $110.000 pasadía o 2 días y 1 noche por
 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
  
+__En este post encontrarás la siguiente información:__
+
+* Datos curioso de Norcasia
+* ¿Qué encontrarás en Norcasia?
+* Tours a Norcasia 
+* ¿Cómo llegar a Norcasia?
+* Hospedajes en Norcasia
+* Lugares turisticos en Norcasia
+
+ 
 ## DATOS CURIOSOS SOBRE NORCASIA  
 
 Norcasia es considerado como el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas. 
@@ -47,7 +57,6 @@ En Norcasia podrás encontrar diferentes tipos de planes turísticos, aquí te m
 * 3 días y 2 días por $420.000 (incluye: hospedaje y alimentación)
 
 __<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> Para ver más información de estos tours puedes dar click aquí </a>.__ 
-
 
 
 ## ¿CÓMO LLEGAR A NORCASIA 🚌?
@@ -86,9 +95,6 @@ height:"200" %}
 
 Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardó alrededor de 1 hora y 30 minutos, el pasaje tuvo un costo de $13.000 pesos, además de eso, también podrás encontrar algunos taxis que van hasta Norcasia.
  
-Ya una vez que llegamos a Norcasia, estamos listos para empezar nuestra aventura ⛰.
-
-## RUTA EN NORCASIA 🚤
  
 Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje. Mientras íbamos camino al hospedaje, pudimos ver que en el parque principal de Norcasia, hay muchos hoteles, por lo que tienes muchas opciones de hospedarte, además, tienes muchas opciones que se pueden ajustar a tu presupuesto de viaje.
  
@@ -120,7 +126,7 @@ Al día siguiente nos encontramos cerca al parque de Norcasia con las demás per
  
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada.
 
-Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el río la Miel, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
+Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el __río la Miel__, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",

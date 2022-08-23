@@ -16,6 +16,8 @@ El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubic
  
 __En este post encontrarás la siguiente información:__
 
+* Datos curiosos del Nevado del Ruiz
+* ¿Qué encontrarás en el Nevado del Ruiz?
 * Tours al Nevado del Ruiz 
 * ¿Cómo llegar al Nevado del Ruiz?
 * Hospedajes cerca al Nevado del Ruiz
@@ -55,9 +57,19 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOURS AL NEVADO DEL RUIZ 
 
-Para ir al Nevado del Ruiz con una agencia de viajes, puede costar entre $230.000 a $570.000 dependiendo las personas disponibles en ese momento para ir al Nevado del Ruiz, lo mejor es contactar una agencias que se encargarán de llenar los cupos con otras agencias y así te saldrá mas económico visitar este lugar.
+A Continuación te compartimos los precios que manejan algunas __agencias de turismo para el nevado del Ruiz:__ 
 
-__<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para Tour al Nevado del Ruiz</a>__ 👈
+* 1 Persona: $570.000
+* 2 personas: $290.000
+* 3 personas: $270.000
+* 4 personas: $240.000
+* Más de 5 personas: $230.000
+
+También algunas agencias tienen fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
+
+__EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidratación y entrada a los termales del Otoño.
+
+__<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour al Nevado del Ruiz</a>__ 👈
  
  
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ ?
