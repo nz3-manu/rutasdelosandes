@@ -35,7 +35,7 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
  
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar, lugar que habíamos visto en algunos blog de viajes y teníamos muchos deseos de conocerlo. 
 
-<ins>_En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>.__</ins>
+<ins>_En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._</ins>
  
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones.
 
