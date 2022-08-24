@@ -17,15 +17,16 @@ En este post, te mostraremos toda la información relacionada acerca de la ruta 
  
 Podrás disfrutar de una pequeña reseña histórica de está atrapante ruta, ya que como es bien sabido, es una de las rutas más difíciles de Senderismo en el Eje Cafetero la cual es muy frecuentada por muchos aventureros 🤠. Es importante mencionar que es una de las Montañas más exigentes de escalar en el Eje Cafetero debido a su alto grado de exigencia a la hora de realizarla. 
  
-Finalmente, te daremos algunos consejos desde nuestra experiencia para que el tour al Cerro Morrogacho sea de completo agrado y disfrute. Finalmente, te daremos a conocer los diferentes Tours al Cerro Morrogacho desde Pereira, Manizales y otros lugares del país. No siendo más, disfruta de esta atrapante ruta ubicada en el corazón del Eje Cafetero.
+Finalmente, te daremos algunos consejos desde nuestra experiencia y los diferentes tours al Cerro Morrogacho desde Pereira, Manizales y otros lugares del país para que tu experiencia sea de tu completo agrado y disfrute. No siendo más, disfruta de esta atrapante ruta ubicada en el corazón del Eje Cafetero.
 
  
  
 # DATOS CURIOSOS DE MORROGACHO
  
-El Quindío es uno de los lugares donde  podemos encontrar rastros de la cultura Quimbaya, y a esto no es es ajeno el cerro Morrogacho, ya  que en 1940 cuando el Ingeniero  Químico Enrico Turati de nacionalidad Italiana, tomó una excelente fotografía en la cual se podían observar  algunas estructuras líticas o también llamadas “Tumbas de Cancel” 🗿, Las cuales son estructuras en piedras que corresponden a una práctica funeraria propia de las culturas que habitan el territorio Quimbaya en el pasado. 
- 
-En 1982, el recién creado Comité de Protección Arqueológica del Quindío visitó el lugar y comprobó el saqueo sistemático de las estructuras, en especial la que había sido fotografiada por Turati, que tiene su parte superior en forma de techo de dos aguas. Todas las estructuras halladas en Colombia tienen forma rectangular y se han encontrado en lugares diversos de su geografía, ya correspondan a las cordilleras o las partes bajas. 
+El Quindío es uno de los lugares donde  podemos encontrar rastros de la cultura Quimbaya, y a esto no es ajeno el cerro Morrogacho, ya  que en 1940 cuando el Ingeniero  Químico Enrico Turati de nacionalidad Italiana tomó una excelente fotografía en la cual se podían observar algunas estructuras líticas o también llamadas “Tumbas de Cancel” 🗿 cuyas estructuras en piedras corresponden a una práctica funeraria propia de las culturas que habitaban el territorio Quimbaya.
+
+En 1982, el recién creado Comité de Protección Arqueológica del Quindío visitó el lugar y comprobó el saqueo sistemático de las estructuras, en especial la que había sido fotografiada por Turati, que tiene su parte superior en forma de techo de dos aguas.
+
  
 __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/historia-1/el-cerro-morrogacho-y-otros-aspectos-del-salento-oculto"> Cronicadelquindio </a>]__
 
@@ -34,7 +35,7 @@ __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/histo
 
 Para ir al cerro Morrogacho, debes saber que no es una ruta muy frecuentada así que las excursiones grupales por lo general son realizadas por grupos de senderismo del Eje Cafetero.
  
-__Precios del tour a Morrogacho:__ Por lo general las agencias están cobrando un promedio de $60.000 por persona, el grupo mínimo con el cual se realiza el tour son 5 personas.
+__Precios del tour a Morrogacho:__ Por lo general las agencias están cobrando un promedio de $80.000 por persona, el grupo mínimo con el cual se realiza el tour son 5 personas.
 Este valor incluye: pago de entrada a cerro Morrogacho, seguro de asistencia médica y guianza.
  
 Si te interesaría hacer este tour puedes dar 👉<a target="_blank" href="https://wa.link/0nw9mu"> Click aquí </a>
