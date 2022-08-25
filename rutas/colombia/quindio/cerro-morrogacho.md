@@ -30,6 +30,16 @@ En 1982, el recién creado Comité de Protección Arqueológica del Quindío vis
  
 __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/historia-1/el-cerro-morrogacho-y-otros-aspectos-del-salento-oculto"> Cronicadelquindio </a>]__
 
+
+## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
+
+<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
+</amp-carousel>
+
  
 ## TOUR A MORROGACHO
 

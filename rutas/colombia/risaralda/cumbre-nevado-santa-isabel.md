@@ -1,14 +1,15 @@
 ---
 layout: trail
 title:  Cumbre nevado Santa Isabel
-categories: colombia 
+categories: colombia
 seo_title: Nevado Santa Isabel - cumbre |Rutas
-excerpt: Conoce todo lo que necesitas saber para ir a al nevado Santa Isabel, si necesitas agencias de viajes pueds contactarnos.
+Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, consejos para visitar y mejor temporada del año para visitarlo.
 images_url: /images/rutas/risaralda/cumbre-santa-isabel
-viewranger: 
+viewranger:
 author: manuel
 trending: true
 ---
+
 
 # CUMBRE NEVADO SANTA ISABEL
 
@@ -24,6 +25,28 @@ Como dato curioso acerca del Nevado Santa Isabel, tenemos que decir que este se 
 El ascenso al nevado se caracteriza por estar rodeado de muchas lagunas; causa curiosidad el complejo de domos que coronan su cima y que lo convierten en uno de los nevados más raros del continente.
 
 Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es que antes del 2030, será el próximo nevado en perder completamente su glaciar. Actualmente tiene menos de un kilómetro cuadrado de nieve, por lo que es considerada la cumbre más baja y accesible de Colombia con nieve. 
+
+## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
+
+<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
+</amp-carousel>
+
+
+## TOUR AL NEVADO SANTA ISABEL
+Lo que debes saber es que para ir a este nevado, parques nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la reservación con anticipación, aquí te mostraremos los precios que manejan algunas empresas.
+ 
+__Precios del Tour cumbre nevado Santa Isabel:__
+* 1 Persona: $1'700.000 COP
+* 2 personas: $990.000 COP
+* 3 personas: $800.000 COP
+* 4 personas: $750.000 COP
+* 5 personas: $700.000 COP
+ 
+Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales así que puedes dar click aquí para que alguien te ayude a buscar un cupo con las diferentes agencias aliadas.
 
 
 ## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL?
