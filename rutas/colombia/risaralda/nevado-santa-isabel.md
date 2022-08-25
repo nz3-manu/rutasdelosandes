@@ -1,21 +1,40 @@
 ---
 layout: trail
-title:  Cumbre nevado Santa Isabel
+title:  Nevado Santa Isabel
 categories: colombia
 seo_title: Nevado Santa Isabel - cumbre |Rutas
 Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, consejos para visitar y mejor temporada del año para visitarlo.
-images_url: /images/rutas/risaralda/cumbre-santa-isabel
+images_url: /images/rutas/risaralda/nevado-santa-isabel
 viewranger:
 author: manuel
 trending: true
 ---
 
 
-# CUMBRE NEVADO SANTA ISABEL
+# NEVADO SANTA ISABEL
 
 En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el Nevado Santa Isabel. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. Así que, presta mucha atención y disfruta de este hermoso lugar.
 
 __<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí.  </a>__
+
+## ¿DONDE QUEDA EL NEVADO SANTA ISABEL?
+ 
+El nevado Santa Isabel o volcán nevado Santa Isabel este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda, debes saber que cuenta con 2 cubres la norte y la sur, siendo la norte la que cuenta con más nieve, es algo que debes de tener en cuenta al tomar el tour. 
+ 
+Lo que debes de saber es que para __llegar al nevado Santa Isabel__, se podrá hacer  por: 
+* Una vereda que se llama Potosí (entrada para ir a la laguna del Otún) a 4h horas en jeep de Santa Rosa (Risaralda), una vez en Potosí se camina por alrededor de 6 horas para llegar al Nevado Santa Isabel cumbre Sur 12 kilómetros (solo ida), la cumbre sur no cuenta con tanta nieve como la cumbre norte.
+ 
+* El otro sector por el cual las mayorías de agencias hacen los tour es por el sector el Cisne, en el cual es el centro de visitantes  más alto de Colombia a una altitud de 4.152 msnm, este lugar se encuentra a 3 horas de  Manizales en carro, desde este lugar es más fácil acceder a la cumbre norte (cuenta con más nieve) aquí en este post explicaremos esta forma.
+
+
+
+ __Mapa Ruta desde Manizales al nevado Santa Isbel__
+
+{% include iframe.html
+  type:"custom"
+  mid:"1yOUpcO816tEZGa2XWgiphhUzzm8IZ94&hl=en&ehbc=2E312F"
+  caption:"Mapa valle del Cocora a cerro Mo"
+%}
 
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL
@@ -29,16 +48,15 @@ Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es q
 ## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
+{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/1.jpg", width:"1078", height:"1078" %}
+{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/2.jpg", width:"1078", height:"1078" %}
+{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/3.jpg", width:"1078", height:"1078" %}
+{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/4.jpg", width:"1078", height:"1078" %}
 </amp-carousel>
 
 
-## TOUR AL NEVADO SANTA ISABEL
+## NEVADO SANTA ISABEL TOUR 
 Lo que debes saber es que para ir a este nevado, parques nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la reservación con anticipación, aquí te mostraremos los precios que manejan algunas empresas.
- 
 __Precios del Tour cumbre nevado Santa Isabel:__
 * 1 Persona: $1'700.000 COP
 * 2 personas: $990.000 COP
@@ -46,8 +64,16 @@ __Precios del Tour cumbre nevado Santa Isabel:__
 * 4 personas: $750.000 COP
 * 5 personas: $700.000 COP
  
-Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales así que puedes dar click aquí para que alguien te ayude a buscar un cupo con las diferentes agencias aliadas.
-
+Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales así que puedes dar <a target="_blank" href="https://wa.link/4fr537"> click 👉 aquí</a> para que alguien te ayude a buscar un cupo con las diferentes agencias aliadas.
+ 
+## ¿DONDE QUEDA EL NEVADO SANTA ISABEL?
+ 
+El nevado Santa Isabel o volcán nevado Santa Isabel este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda, debes saber que cuenta con 2 cubres la norte y la sur, siendo la norte la que cuenta con más nieve, es algo que debes de tener en cuenta al tomar el tour. 
+ 
+Lo que debes de saber es que para __llegar al nevado Santa Isabel__, se podrá hacer  por: 
+* Una vereda que se llama Potosí (entrada para ir a la laguna del Otún) a 4h horas en jeep de Santa Rosa (Risaralda), una vez en Potosí se camina por alrededor de 6 horas para llegar al Nevado Santa Isabel cumbre Sur, la cumbre sur no cuenta con tanta nieve como la cumbre norte.
+ 
+* El otro sector por el cual las mayorías de agencias hacen los tour es por el sector el Cisne, en el cual es el centro de visitantes  más alto de Colombia a una altitud de 4.152 msnm, este lugar se encuentra a 3 horas de  Manizales en carro, desde este lugar es más fácil acceder a la cumbre norte (cuenta con más nieve) aquí en este post explicaremos esta forma.
 
 ## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL?
 
@@ -72,7 +98,7 @@ Después de haber disfrutado de una amena charla con nuestros compañeros de via
 
 
 {% include image.html,
-  file:"rutas/risaralda/cumbre-santa-isabel/laguna-verde.jpg",
+  file:"rutas/risaralda/nevado-santa-isabel/laguna-verde.jpg",
   caption:"Foto Laguna Verde",
   width:"1080",
   height:"608"
@@ -95,7 +121,7 @@ __DIA #2__
 Cuando era aproximadamente la 1:00 a.m, los carros que nos llevarían hasta el punto de partida de la caminata llegaron. Admito que muchos de nosotros estábamos algo ansiosos por no saber qué tan difícil iba estar el ascenso ya que parte de la noche había llovido, aún el clima estaba algo frío y con un poco de lluvia leve, por tal motivo , que decidimos ponernos nuestras chaquetas impermeables, por último el guía se acercó para darnos unas últimas recomendaciones antes de empezar el ascenso.
 
 {% include image.html,
-  file:"rutas/risaralda/cumbre-santa-isabel/ascenso-santa-isabel.jpg",
+  file:"rutas/risaralda/nevado-santa-isabel/ascenso-santa-isabel.jpg",
   caption:"Foto ascenso Nevado Santa Isabel",
   width:"1080",
   height:"1349"
@@ -106,7 +132,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CX90pdqF
 El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas, llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendemos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina por fin 💪 llegamos a la cumbre del Santa Isabel 😍
 
 {% include image.html,
-  file:"rutas/risaralda/cumbre-santa-isabel/cumbre-santa-isabel.jpg",
+  file:"rutas/risaralda/nevado-santa-isabel/cumbre-santa-isabel.jpg",
   caption:"Foto Cumbre Nevado Santa Isabel",
   width:"1080",
   height:"1349"

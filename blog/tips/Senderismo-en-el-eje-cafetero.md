@@ -206,7 +206,7 @@ El nevado Santa Isabel, se encuentra ubicado sobre la cordillera central de Colo
 
 Para hacer cumbre al nevado Santa Isabel necesitarás de 2 días y de muchas ganas de cumbre, si quisieras hacer borde de nieve podrás hacerlo en 1 día.
 
-👉 <a href="https://rutasdelosandes.com/colombia/risaralda/cumbre-nevado-santa-isabel.html" target="_blank"> Click aquí para ver información completa del Nevado Santa Isabel </a>
+👉 <a href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Click aquí para ver información completa del Nevado Santa Isabel </a>
 
 {% include image.html,
  file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
