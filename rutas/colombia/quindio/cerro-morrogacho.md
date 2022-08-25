@@ -56,14 +56,14 @@ height:"200" %}
  
 Nos pusimos en contacto inmediatamente con la agencia y rápidamente nos dijeron que estábamos inscritos dentro del tour. Lo más curioso de todo fue que mi amiga me dijo con asombro y entre risas ‘’Definitivamente tenemos un amor enorme por viajar y conocer las maravillas ocultas del Eje Cafetero’’.
  
-Llegó el día y ya estábamos listos para emprender nuestro viaje hacia el Quindío. Iniciamos abordando bus desde la terminal de Pereira hacia el municipio de Salento__, nos tardamos 1 hora para llegar a Salento, donde posteriormente nos encontramos con el grupo de viajeros que iban a realizar la ruta al Cerro Morrogacho.
+Llegó el día y ya estábamos listos para emprender nuestro viaje hacia el Quindío. Iniciamos abordando __bus desde la terminal de Pereira hacia el municipio de Salento__ , nos tardamos 1 hora para llegar a Salento, donde posteriormente nos encontramos con el grupo de viajeros que iban a realizar la ruta al Cerro Morrogacho.
  
 Ya estando en la localidad de Salento, emprendimos nuestro recorrido hacia el Valle del Cocora en Jeep, dicho recorrido tardó aproximadamente veinte minutos, llegamos y nos encontramos con nuestro guía quién nos dió todos los detalles de la ruta.
  
  
 ## RUTA A MORROGACHO
 
-<ins>_Antes de explicar un poco el trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que el Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta el cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅, el recorrido total es de aproximadamente 10 horas (Ida y regeso._</ins>
+<ins>_Antes de explicar un poco el trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que el Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta el cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅, el recorrido total es de aproximadamente 10 horas (Ida y regeso)._</ins>
  
 Desde el Valle del Cocora, empezamos nuestra ruta hacia el Cerro Morrogacho, en la entrada del sendero los funcionarios de los Parques Nacionales nos preguntaron nuestros datos como; Nombre, teléfono, ruta que íbamos a realizar y quien era nuestro guía.
 
