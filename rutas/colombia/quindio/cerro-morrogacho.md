@@ -36,15 +36,15 @@ __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/histo
 Para ir al cerro Morrogacho, debes saber que no es una ruta muy frecuentada así que las excursiones grupales por lo general son realizadas por grupos de senderismo del Eje Cafetero.
  
 __Precios del tour a Morrogacho:__ Por lo general las agencias están cobrando un promedio de $80.000 por persona, el grupo mínimo con el cual se realiza el tour son 5 personas.
-Este valor incluye: pago de entrada a cerro Morrogacho, seguro de asistencia médica y guianza.
+Este valor incluye: pago de entrada a cerro Morrogacho, transporte, seguro de asistencia médica y guianza.
  
 Si te interesaría hacer este tour puedes dar 👉<a target="_blank" href="https://wa.link/0nw9mu"> Click aquí </a>
  
 ## ¿CÓMO LLEGAR A MORROGACHO?
  
-El Cerro Morrogacho se encuentra en el Valle del Cocora, confieso que esta es una ruta poco conocida por personas fuera del Eje Cafetero. Nosotros escuchamos de este lugar por senderistas del Quindío cuando nos encontramos de viaje por este hermoso departamento. Aún lo recuerdo, fue una pareja que nos vio con todo nuestro equipo de montañismo, hablamos por un tiempo y después nos recomendó realizar el recorrido el cual se llama Cerro Morrogacho.
+El Cerro Morrogacho se encuentra en el Valle del Cocora, confieso que esta es una ruta poco conocida por personas fuera del Eje Cafetero. Nosotros escuchamos de este lugar por senderistas del Quindío cuando nos encontramos de viaje por este hermoso departamento. Aún lo recuerdo, fue una pareja que nos vio con todo nuestro equipo de montañismo, hablamos por un tiempo y después nos recomendó realizar el recorrido a este maravilloso cerro. 
  
-Así que decidimos buscar información en Internet para conocer un poco más sobre dicha ruta, para nuestra sorpresa esta estaba considerada como una ruta senderismo exigente en Eje Cafetero, así que teníamos muchas ganas de hacerla 🥹. 
+Así que decidimos buscar información en Internet para conocer un poco más sobre dicha ruta, para nuestra sorpresa es considerada como una ruta de senderismo exigente del Eje Cafetero, así que más nos animamos a hacerla.
  
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
@@ -54,18 +54,19 @@ width:"480",
 height:"200" %}
 </a>
  
-Nos pusimos en contacto inmediatamente con la agencia, e inmediatamente nos dijeron que estábamos inscritos dentro del tour. Lo más curioso de todo fue que mi amiga me dijo con asombro y entre risas ‘’Definitivamente tenemos un amor enorme por viajar y conocer las maravillas ocultas en el Eje Cafetero’’.
+Nos pusimos en contacto inmediatamente con la agencia y rápidamente nos dijeron que estábamos inscritos dentro del tour. Lo más curioso de todo fue que mi amiga me dijo con asombro y entre risas ‘’Definitivamente tenemos un amor enorme por viajar y conocer las maravillas ocultas del Eje Cafetero’’.
  
-Llegó el día y ya estábamos listos para emprender nuestro viaje hacia el Departamento del Quindío. Pero para eso, tuvimos que abordar un bus __desde Pereira hacia el municipio de Salento__, nos tardamos 1 hora y 30 minutos para llegar a Salento, donde posteriormente nos encontramos con el grupo de viajeros que iban a realizar la ruta a Cerro Morrogacho. 
+Llegó el día y ya estábamos listos para emprender nuestro viaje hacia el Quindío. Iniciamos abordando bus desde la terminal de Pereira hacia el municipio de Salento__, nos tardamos 1 hora para llegar a Salento, donde posteriormente nos encontramos con el grupo de viajeros que iban a realizar la ruta al Cerro Morrogacho.
  
-Ya estando en la localidad de Salento, emprendimos nuestro recorrido hacia el Valle del Cocora en Jeep, dicho recorrido tardó aproximadamente veintidós minutos donde llegamos y nos encontramos con nuestro guía quien nos dió todos los detalles del recorrido.
+Ya estando en la localidad de Salento, emprendimos nuestro recorrido hacia el Valle del Cocora en Jeep, dicho recorrido tardó aproximadamente veinte minutos, llegamos y nos encontramos con nuestro guía quién nos dió todos los detalles de la ruta.
  
  
 ## RUTA A MORROGACHO
 
-<ins>_Antes de explicar un poco del trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar (ms.n.m), mientras que el Cerro Morrogacho está a  3.450 ms.n.m, y desde el Valle del Cocora hasta el cerro Morrogacho hay 6,4 kilómetros, ya te imaginaras la subidita 😅, será un recorrido total de aproximadamente 10 horas._</ins>
+<ins>_Antes de explicar un poco el trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que el Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta el cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅, el recorrido total es de aproximadamente 10 horas (Ida y regeso._</ins>
  
 Desde el Valle del Cocora, empezamos nuestra ruta hacia el Cerro Morrogacho, en la entrada del sendero los funcionarios de los Parques Nacionales nos preguntaron nuestros datos como; Nombre, teléfono, ruta que íbamos a realizar y quien era nuestro guía.
+
  
  __Mapa Ruta desde el Valle del Coora hasta Cerro Morrogacho__
 
