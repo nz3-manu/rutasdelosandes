@@ -19,7 +19,7 @@ Podrás disfrutar de una pequeña reseña histórica de está atrapante ruta, ya
  
 Finalmente, te daremos algunos consejos desde nuestra experiencia y los diferentes tours al Cerro Morrogacho desde Pereira, Manizales y otros lugares del país para que tu experiencia sea de tu completo agrado y disfrute. No siendo más, disfruta de esta atrapante ruta ubicada en el corazón del Eje Cafetero.
 
- 
+ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/morrogacho-hill.html">See this post in English version 🇺🇸</a>]__
  
 # DATOS CURIOSOS DE MORROGACHO
  
@@ -33,11 +33,12 @@ __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/histo
 
 ## LUGARES QUE VERAS EN EL ASCENSO AL CERRO MORROGACHO
 
-<amp-carousel width="960" height="960" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/quindio/cerro-morrogacho/1.jpg", width:"960", height:"960" %}
-{% include image.html, file:"rutas/quindio/cerro-morrogacho/2.jpg", width:"960", height:"960" %}
-{% include image.html, file:"rutas/quindio/cerro-morrogacho/3.jpg", width:"960", height:"960" %}
-</amp-carousel>
+{% include youtube.html
+   videoid:"5-ntzs0W9eA",
+   width:"480",
+   height:"270",
+   caption:"Ruta a Cerro Morrogacho"
+%}
 
  
 ## TOUR A MORROGACHO
