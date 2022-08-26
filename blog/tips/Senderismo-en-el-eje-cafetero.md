@@ -180,20 +180,20 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
 %}
 
 
-#### CERRO MORRO GACHO (QUINDIO)
+#### CERRO MORROGACHO (QUINDIO)
 
-Este lugar está ubicado en el Valle del Cocora, es una caminata que se recomienda para personas que ya hayan tenido experiencia haciendo senderismo. Desde que se deja el valle del Cocora (2,400 M.S.N.M) todo el trayecto es en ascenso, cuenta con una altitud de 3.450 M.S.N.M.
+El Cerro Morrogacho, es uno de los picos más altos de Quindío, esta ubicado cerca al Valle del Cocora, morrogacho es considerado por muchos aventureros como un cerro difícil para hacer senderismo en el Eje Cafetero, para que te hagas una idea el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que la cima del Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta la cima del cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅.
 
 👉 <a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Click aquí para ver información completa del Cerro Morrogacho</a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/morro-gacho.jpg",
- caption:"Imagen Eje Cafetero: Morro Gacho",
- width:"960",
- height:"960"
+file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cerro-morrogacho.jpg",
+caption:"Foto de cerro Morrogacho",
+width:"1080",
+height:"824"
 %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/ginabont/"  target="_blank"> @ginabont</a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/fedmolina/"  target="_blank"> @fedmolina</a> </span>__
            
 ### RUTAS DE SENDERISMO ALTA MONTAÑA 🧗‍♂️
 

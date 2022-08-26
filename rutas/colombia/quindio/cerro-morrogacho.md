@@ -1,10 +1,9 @@
 ---
-draft: true
 layout: trail
 title:  Cerro Morrogacho
 categories: Colombia
 seo_title: Cerro Morrogacho
-excerpt: Cerro Morrogacho, es uno de los picos más altos de Quindío y del Eje Cafetero ubicado cerca al Valle del Cocora, morrogacho es considerado por muchos aventureros como un cerro difícil para hacer senderismo en el Eje Cafetero.
+excerpt: Cerro Morrogacho, es uno de los picos más altos de Quindío, esta ubicado cerca al Valle del Cocora, morrogacho es considerado por muchos aventureros como un cerro difícil para hacer senderismo en el Eje Cafetero.
 images_url: /images/rutas/quindio/cerro-morrogacho
 viewranger:
 author: manuel
@@ -45,10 +44,12 @@ Para ir al cerro Morrogacho, debes saber que no es una ruta muy frecuentada así
 
 __Precios del tour a Morrogacho:__ Por lo general las agencias están cobrando un promedio de $80.000 por persona, el grupo mínimo con el cual se realiza el tour son 5 personas.
 
+
 Este valor incluye: pago de entrada a cerro Morrogacho, transporte, seguro de asistencia médica y guianza.
 Si te interesaría hacer este tour puedes dar 👉<a target="_blank" href="https://wa.link/0nw9mu"> Click aquí </a>
  
 ## ¿CÓMO LLEGAR A MORROGACHO?
+
 El Cerro Morrogacho se encuentra en el Valle del Cocora, confieso que esta es una ruta poco conocida por personas fuera del Eje Cafetero. Nosotros escuchamos de este lugar por senderistas del Quindío cuando nos encontramos de viaje por este hermoso departamento. Aún lo recuerdo, fue una pareja que nos vio con todo nuestro equipo de montañismo, hablamos por un tiempo y después nos recomendó realizar el recorrido a este maravilloso cerro.
 
 Así que decidimos buscar información en Internet para conocer un poco más sobre dicha ruta, para nuestra sorpresa es considerada como una ruta de senderismo exigente del Eje Cafetero, así que más nos animamos a hacerla.
@@ -68,7 +69,7 @@ Llegó el día y ya estábamos listos para emprender nuestro viaje hacia el Quin
 Ya estando en la localidad de Salento, emprendimos nuestro recorrido hacia el Valle del Cocora en Jeep, dicho recorrido tardó aproximadamente veinte minutos, llegamos y nos encontramos con nuestro guía quién nos dió todos los detalles de la ruta.
 ## RUTA A MORROGACHO
  
-<ins>_Antes de explicar un poco el trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que el Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta el cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅, el recorrido total es de aproximadamente 10 horas (Ida y regreso)._</ins>
+<ins>_Antes de explicar un poco el trayecto, quiero hacer claridad que el Valle del Cocora se encuentra a 2.400 metros sobre el nivel del mar(msnm), mientras que la cima del Cerro Morrogacho está a 3.450 msnm, y desde el Valle del Cocora hasta la cima del cerro Morrogacho hay 6,4 kilómetros, ya te imaginarás la subidita 😅, el recorrido total es de aproximadamente 10 horas (Ida y regreso)._</ins>
  
 {% include image.html,
 file:"rutas/quindio/cerro-morrogacho/cerro-morrogacho.jpg",
@@ -78,6 +79,8 @@ height:"824"
 %}
  
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/fedmolina/"  target="_blank"> @fedmolina</a> </span>__
+
+
 Desde el Valle del Cocora, empezamos nuestra ruta hacia el Cerro Morrogacho, en la entrada del sendero los funcionarios del Parque Nacional nos preguntaron nuestros datos como: Nombre, teléfono, ruta a realizar y quién era nuestro guía.
  
 __Mapa Ruta desde el Valle del Cocora hasta Cerro Morrogacho__
