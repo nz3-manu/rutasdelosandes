@@ -35,7 +35,7 @@ Tardarás en promedio 1 hora y 10 minutos, vas a tener que tomar: Jeep y Marrani
 Tienes que tener en cuenta que cualquiera de las 2 opciones que tomes es importante que vayas con un grupo de amigos para que el viaje en la marranita no te salga tan costoso, en invierno es muy probable que las vías estén cerradas por deslizamientos.
 
 
-Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7"  onclick="ga(‘send’, ‘event’, ‘FORM’, ‘Clic’, ‘Form-rutas-ocultas’);">__Clic aquí para llenar formulario.__</a>
+Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez que se complete el cupo pasaremos esta información a un guía local el cual los contactara, <a target="_blank" href="https://forms.gle/ca4Rh84JSLuSCEmZ7">__Clic aquí para llenar formulario.__</a>
 
 ## ¿Qué encontrarás en este lugar?
 
@@ -52,8 +52,7 @@ Si quieres ir con un guía local puedes llenar el siguiente formulario, una vez 
 * En verano es mucho mejor visitar este lugar ya que el agua es más cristalina.
 
 
-Si quieres ir bajo tu propia responsabilidad te dejamos la información necesaria para que lo puedas realizar, recuerda tomar todas las recomendaciones y precauciones anteriormente mencionadas.
 
 
-💾 __Aun estamos trabajando en la información__
+
 

@@ -53,7 +53,7 @@ A continuación te compartimos los precios que manejan algunas __agencias de tur
 * 2 personas: $340.000
 * 3 personas: $280.000
 * 4 personas: $270.000
-* Más de 5 personas: $430.000
+* Más de 5 personas: $240.000
 
 También algunas agencias tienen fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
 
@@ -106,9 +106,9 @@ __Los servicios que prestan en este lugar son los siguientes:__
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
 
-### VALOR DE INGRESO A LA LAGUNA DEL OTÚN
+### VALOR DE INGRESO A LA LAGUNA DEL OTÚN 2022
 
-  * Entrada al Parque los Nevados 2020 🎟: mayores de 5 años y menores de 25 años $10.500 pesos, mayores de 25 años $19.000 pesos extranjeros $47.000 pesos.
+  * Entrada al Parque los Nevados 2022 🎟: mayores de 5 años y menores de 25 años $9.500 pesos, mayores de 25 años $18.000 pesos extranjeros $50.000 pesos.
  
   * Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
 

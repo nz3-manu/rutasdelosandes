@@ -17,25 +17,6 @@ En este post te contaremos como fue nuestra experiencia a la hora de hacer la as
 
 __<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí.  </a>__
 
-## ¿DONDE QUEDA EL NEVADO SANTA ISABEL?
- 
-El nevado Santa Isabel o volcán nevado Santa Isabel este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda, debes saber que cuenta con 2 cubres la norte y la sur, siendo la norte la que cuenta con más nieve, es algo que debes de tener en cuenta al tomar el tour. 
- 
-Lo que debes de saber es que para __llegar al nevado Santa Isabel__, se podrá hacer  por: 
-* Una vereda que se llama Potosí (entrada para ir a la laguna del Otún) a 4h horas en jeep de Santa Rosa (Risaralda), una vez en Potosí se camina por alrededor de 6 horas para llegar al Nevado Santa Isabel cumbre Sur 12 kilómetros (solo ida), la cumbre sur no cuenta con tanta nieve como la cumbre norte.
- 
-* El otro sector por el cual las mayorías de agencias hacen los tour es por el sector el Cisne, en el cual es el centro de visitantes  más alto de Colombia a una altitud de 4.152 msnm, este lugar se encuentra a 3 horas de  Manizales en carro, desde este lugar es más fácil acceder a la cumbre norte (cuenta con más nieve) aquí en este post explicaremos esta forma.
-
-
-
- __Mapa Ruta desde Manizales al nevado Santa Isbel__
-
-{% include iframe.html
-  type:"custom"
-  mid:"1yOUpcO816tEZGa2XWgiphhUzzm8IZ94&hl=en&ehbc=2E312F"
-  caption:"Mapa valle del Cocora a cerro Mo"
-%}
-
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL
 
@@ -47,15 +28,14 @@ Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es q
 
 ## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
 
-<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+<amp-carousel width="1078" height="1078" layout="responsive" type="slides" autoplay delay="2000">
 {% include image.html, file:"rutas/risaralda/nevado-santa-isabel/1.jpg", width:"1078", height:"1078" %}
 {% include image.html, file:"rutas/risaralda/nevado-santa-isabel/2.jpg", width:"1078", height:"1078" %}
 {% include image.html, file:"rutas/risaralda/nevado-santa-isabel/3.jpg", width:"1078", height:"1078" %}
 {% include image.html, file:"rutas/risaralda/nevado-santa-isabel/4.jpg", width:"1078", height:"1078" %}
 </amp-carousel>
 
-
-## NEVADO SANTA ISABEL TOUR 
+## TOURS AL NEVADO SANTA ISABEL
 Lo que debes saber es que para ir a este nevado, parques nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la reservación con anticipación, aquí te mostraremos los precios que manejan algunas empresas.
 __Precios del Tour cumbre nevado Santa Isabel:__
 * 1 Persona: $1'700.000 COP
@@ -68,12 +48,13 @@ Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales as�
  
 ## ¿DONDE QUEDA EL NEVADO SANTA ISABEL?
  
-El nevado Santa Isabel o volcán nevado Santa Isabel este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda, debes saber que cuenta con 2 cubres la norte y la sur, siendo la norte la que cuenta con más nieve, es algo que debes de tener en cuenta al tomar el tour. 
+El Nevado Santa Isabel o Volcán Nevado Santa Isabel se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima. Además, debes saber que cuenta con 2 cumbres; una situada al norte y la otra al sur, siendo la del norte la que cuenta con más nieve, es algo que debes de tener en cuenta a la hora de realizar el tour. 
  
-Lo que debes de saber es que para __llegar al nevado Santa Isabel__, se podrá hacer  por: 
-* Una vereda que se llama Potosí (entrada para ir a la laguna del Otún) a 4h horas en jeep de Santa Rosa (Risaralda), una vez en Potosí se camina por alrededor de 6 horas para llegar al Nevado Santa Isabel cumbre Sur, la cumbre sur no cuenta con tanta nieve como la cumbre norte.
+Algo importante que queremos resaltar es que para __llegar al nevado Santa Isabel__, lo podrás hacer de diferentes maneras,como te indicaremos a continuación: La primera manera es por 
+* Una vereda que se llama Potosí (entrada para ir a la laguna del Otún) a 4h horas en jeep de Santa Rosa (Risaralda). Una vez en Potosí, se camina por alrededor de 6 horas para llegar al Nevado Santa Isabel cumbre Sur.
  
-* El otro sector por el cual las mayorías de agencias hacen los tour es por el sector el Cisne, en el cual es el centro de visitantes  más alto de Colombia a una altitud de 4.152 msnm, este lugar se encuentra a 3 horas de  Manizales en carro, desde este lugar es más fácil acceder a la cumbre norte (cuenta con más nieve) aquí en este post explicaremos esta forma.
+* El otro sector por el cual la mayorías de agencias hacen los tour es por el sector llamado el Cisne, el cual es el centro de visitantes  más alto de Colombia a una altitud de 4.152 msnm, este lugar se encuentra a 3 horas de  Manizales en carro, desde este lugar es más fácil acceder a la cumbre norte (cuenta con más nieve). Aquí en este post explicaremos esta forma.
+
 
 ## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL?
 
@@ -90,11 +71,11 @@ height:"200" %}
 </a>
 
 
-Además, aprovechamos para conversar con las demás personas que nos acompañaban en el recorrido. Sentimos una gran sorpresa de ver muchos extranjeros quienes estaban fascinados por los hermosos paisajes, algunos de ellos habían venido desde muy lejos para visitar algunos nevados y lugares naturales de Colombia, lo que me puso a pensar que: vivimos tan cerca de estos lugares tan bellísimos⛰ que no alcanzamos a dimensionar su majestuosidad ni de valorar lo magníficos que son. Por tal razón que desde la experiencia no solo de los colombianos sino de los extranjeros, les decimos que cuidemos estos lugares que son fuente de vida.
+Además, aprovechamos para conversar con las demás personas que nos acompañaban en el recorrido. Sentimos una gran sorpresa de ver muchos extranjeros quienes estaban fascinados por los hermosos paisajes, algunos de ellos habían venido desde muy lejos para visitar algunos nevados y lugares naturales de Colombia, lo que me puso a pensar que: vivimos tan cerca de estos lugares tan bellísimos ⛰ que no alcanzamos a dimensionar su majestuosidad ni de valorar lo magníficos que son. 
 
-<ins>_Importante: En caso de que quieras ingresar al parque de los nevados, es permitido únicamente el ingreso si vas con un guía certificado por parques nacionales y con los respectivos seguros de asistencia médica._</ins>
+<ins>_Para tener en cuenta: En caso de que quieras ingresar al parque de los nevados, es permitido únicamente el ingreso si vas con un guía certificado por los parques nacionales y con los respectivos seguros de asistencia médica._</ins>
 
-Después de haber disfrutado de una amena charla con nuestros compañeros de viaje, el guía se acercó para decirnos que nuestra caminata de aclimatación empezaría por la Laguna Verde, lo que fue realmente una caminata con un grado leve de exigencia pero llena de muchos paisajes asombrosos (total recorrido 4 horas).
+Después de haber disfrutado de una amena charla con nuestros compañeros de viaje, el guía se acercó para decirnos que nuestra caminata de aclimatación empezaría por la Laguna Verde, lo que fue realmente una caminata de exigencia moderada pero llena de muchos paisajes asombrosos (total recorrido 4 horas).
 
 
 {% include image.html,
@@ -106,11 +87,11 @@ Después de haber disfrutado de una amena charla con nuestros compañeros de via
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/vanecarmona91/"  target="_blank"> @vanecarmona91</a> </span>__
 
-Una vez dada por terminada la caminata, nos llevaron a nuestro hotel, donde almorzamos y aprovechamos para conocer un poco de los alrededores del lugar. Ya en la tarde nos llamaron para darnos una “Charla de inducción de equipos”, en la cual nos explicaron cómo usar todos los equipos que necesitaríamos para realizar una ascensión 🧗‍♂️, tales como: crampones, piolet, casco y arnés etc …
+Terminada la caminata, nos llevaron a nuestro hotel, donde almorzamos y aprovechamos para conocer un poco de los alrededores del lugar. Ya en la tarde nos llamaron para darnos una “Charla de inducción de equipos”, en la cual nos explicaron cómo usar todos los equipos que necesitaríamos para realizar una ascensión 🧗‍♂️, tales como: crampones, piolet, casco y arnés etc …
 
-<ins>_Recomendación: Cuando te entreguen el equipo para hacer realizar el ascenso, revisa bien los crampones, ya que a una de las personas del grupo no le funcionaba bien la parte para graduarlo y se lo tuvieron que cambiar_</ins>
+<ins>_Recomendación: Cuando te entreguen el equipo para hacer realizar el ascenso, revisa bien los crampones, ya que a una de las personas del grupo no le funcionaba bien la parte para graduarlo y tuvieron que ser cambiados_</ins>
 
-Una vez la charla terminó, fuimos a cenar, al terminar la cena nos dirigimos a nuestra habitación para revisar que el frontoluz (linterna) se encontrara totalmente cargado.y empacar toda la ropa que necesitaríamos para llevar a cabo la ascensión como: guantes, lycra térmica, pantalón impermeable, buzo polar, chaqueta impermeable, buzo manga larga (__todos estos artículos los puedes comprar en nuestra tienda virtual__) visitar tienda <a href="https://www.randes.co/" target="_blank"> aquí</a>.
+Después de la charla, fuimos a cenar. Al terminar la cena, nos dirigimos a nuestra habitación para revisar que el frontoluz (linterna) se encontrara totalmente cargado.y empacar toda la ropa que necesitaríamos para llevar a cabo la ascensión como: guantes, lycra térmica, pantalón impermeable, buzo polar, chaqueta impermeable, buzo manga larga (__todos estos artículos los puedes comprar en nuestra tienda virtual__) visitar tienda <a href="https://www.randes.co/" target="_blank"> aquí</a>.
 
 Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la hora de hacer la cumbre 😅.
 
@@ -118,7 +99,7 @@ Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la
 
 __DIA #2__
 
-Cuando era aproximadamente la 1:00 a.m, los carros que nos llevarían hasta el punto de partida de la caminata llegaron. Admito que muchos de nosotros estábamos algo ansiosos por no saber qué tan difícil iba estar el ascenso ya que parte de la noche había llovido, aún el clima estaba algo frío y con un poco de lluvia leve, por tal motivo , que decidimos ponernos nuestras chaquetas impermeables, por último el guía se acercó para darnos unas últimas recomendaciones antes de empezar el ascenso.
+Cuando era aproximadamente la 1:00 a.m, llegaron los carros que nos llevarían hasta el punto de partida de la caminata. Admito que muchos de nosotros estábamos algo ansiosos por no saber qué tan difícil iba estar el ascenso puesto que, gran parte de la noche había llovido, aún el clima estaba algo frío y con un poco de lluvia leve, por tal motivo que decidimos ponernos nuestras chaquetas impermeables. Por último, el guía se acercó para darnos unas últimas recomendaciones antes de empezar el ascenso.
 
 {% include image.html,
   file:"rutas/risaralda/nevado-santa-isabel/ascenso-santa-isabel.jpg",
@@ -129,7 +110,7 @@ Cuando era aproximadamente la 1:00 a.m, los carros que nos llevarían hasta el p
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CX90pdqFz26/"  target="_blank"> @juancanon.ph</a> </span>__
 
-El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas, llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendemos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina por fin 💪 llegamos a la cumbre del Santa Isabel 😍
+El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas. Llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendíamos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina por fin 💪 llegamos a la cumbre del Santa Isabel 😍.
 
 {% include image.html,
   file:"rutas/risaralda/nevado-santa-isabel/cumbre-santa-isabel.jpg",
@@ -139,11 +120,12 @@ El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cab
 %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CX90pdqFz26/"  target="_blank"> @juancanon.ph</a> </span>__
 
-Una vez llegamos a la cumbre, la emoción fue tan grande que, no podíamos creer que estábamos ahí 😮🤩, es por eso que a pesar de las condiciones climáticas, la ascensión, el recorrido y todo lo demás, finalmente lo logramos y nos sentimos completamente privilegiados de poder haber disfrutado de este lugar tan mágico. Así que si quieres realizar este tour, disfruta cada segundo, cada instante, cada lugar por el que pases porque es simplemente sorprendente. 
+Una vez llegamos a la cumbre, la emoción fue tan grande que no podíamos creer que estábamos ahí 😮🤩, es por eso que a pesar de las condiciones climáticas, la ascensión, y el recorrido, finalmente lo logramos y nos sentimos completamente privilegiados de poder haber disfrutado de este lugar tan mágico. Así que si quieres realizar este tour, disfruta cada segundo, cada instante, cada lugar por el que pases porque es simplemente sorprendente.
 
 __RECOMENDACIONES:__
 * En caso de que estés realizando la ascensión y empieces a sentir alguna complicación como mareo, dolor de cabeza debes informar inmediatamente al guía.
-* Llevar las prendas adecuadas para esta ruta como pantalones impermeables, chaqueta impermeable y buzos térmicos. (Aplica la técnica de la cebolla, que consiste en usar varias prendas en diferentes capas para resguardarse del frío, en vez de una sola gruesa). 
+ 
+* Llevar las prendas adecuadas para esta ruta como pantalones y chaqueta impermeable, además, un buzo térmico. (Aplica la técnica de la cebolla, que consiste en usar varias prendas en diferentes capas para resguardarse del frío, en vez de una sola gruesa).
  
 
 
