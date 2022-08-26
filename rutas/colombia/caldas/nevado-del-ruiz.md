@@ -32,14 +32,6 @@ Este hermoso volcán es considerado como uno de los más alto de sudamérica, cu
  
 Por la importancia a lo largo de su historia ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
 
-<a id="banner2" href="https://wa.link/tzddho" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/tour-nevado-ruiz.png", 
-caption:"", 
-width:"1000", 
-height:"500" %}
-</a>
-
 Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
  
 Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
