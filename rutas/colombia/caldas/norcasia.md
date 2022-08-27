@@ -14,8 +14,6 @@ trending: true
  
 En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
-Los precios con agencian varían desde $110.000 pasadía o 2 días y 1 noche por $350.000 (precios por persona).
-
 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
  
@@ -122,7 +120,7 @@ Apreciación: Cuando hay temporada baja será fácil encontrar hospedaje disponi
 #### RÍO LA MIEL
 
 
-Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarán en el tour. Aprovechamos para desayunar, mientras lo hacíamos, era inevitable dejar de ver la cara de felicidad reflejada por muchas de estas personas, muchos decían "ya quiero estar allá, quiero nadar en ese hermoso rio, ir al mirador" etc.. Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
+Al día siguiente nos encontramos cerca al parque de Norcasia con las demás personas que nos acompañarán en el tour. Aprovechamos para desayunar, mientras lo hacíamos, era inevitable dejar de ver la cara de felicidad reflejada por muchas de estas personas, muchos decían "ya quiero estar allá, quiero nadar en ese hermoso rio (__río la Miel__), ir al mirador" etc.. Al cabo de un rato llegaron los carros que nos llevarían a conocer nuestro primer destino 😎.
  
 El recorrido tardó aproximadamente 40 minutos de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada.
 
@@ -153,11 +151,11 @@ Después de visitar esta cascada, regresamos nuevamente a nuestros hospedajes, d
  
 ### DÍA # 2
  
-Nos levantamos temprano para llegar de nuevo al parque principal a las 8:00 am para empezar nuestro viaje, esta vez íbamos a visitar el Embalse de Amaní, uno de los lugares que nombran mucho en los blogs de viajes que se debía visitar.
+Nos levantamos temprano para llegar de nuevo al parque principal a las 8:00 am para empezar nuestro viaje, esta vez íbamos a visitar el __Embalse de Amaní__, uno de los lugares que nombran mucho en los blogs de viajes que se debía visitar.
  
 #### EMBALSE DE AMANÍ
 
-El recorrido por este embalse fue una experiencia realmente mágica, estar navegando a través de toda esa vegetación y al final de todo esto ver la represa, la cual se ve toda imponente, allí paramos por un momento y nos contaron un poco de la historia acerca de su construcción 🏗, después de esta explicación regresamos de nuevo al embalse, el recorrido por este lugar duró alrededor de 8 minutos.
+El recorrido por este embalse fue una experiencia realmente mágica, estar navegando a través de toda esa vegetación y al final de todo esto ver la represa, la cual se ve toda imponente, allí paramos por un momento y nos contaron un poco de la historia acerca de su construcción 🏗, después de esta explicación regresamos de nuevo al __embalse de Amaní__, el recorrido por este lugar duró alrededor de 8 minutos.
  
 <ins>_Este lugar debe de estar sin duda en tu lista para visitar._</ins>
  
@@ -175,7 +173,7 @@ Después de este recorrido por el Embalse de Amaní, fuimos a tomar un refrigeri
 
 #### MIRADOR DEL EMBALSE DE AMANÍ
 
-El Mirador del Embalse de Amaní se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenían que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lástima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
+El __Mirador del Embalse de Amaní__ se encuentra a un costado de la carretera a 10 minutos en carro del parque principal de Norcasia (la vía esta en muy buen estado), allí solo nos quedamos por cerca de 1 minuto ya que los organizadores del tour tenían que llevarnos a tomar nuestro refrigerio a otro lugar, fue una lástima ya que queríamos disfrutar más de este lugar, de regreso prometieron llevarnos de nuevo pero esto no sucedió 😞.
 
 Allí podrás encontrar restaurante o también comida de algunos pobladores que salen a vender sus productos a un costado de la vía, sería bueno que pudieras disfrutar más de este lugar.
  
@@ -217,7 +215,7 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
 __<span class="advise"> Foto por: Entre Ríos</span>__
 
  
-<ins> __RECOMENDACIONES:__</ins> 
+<ins> __RECOMENDACIONES:__ </ins> 
 
 * Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no irán tantas personas como con las agencias más grandes, para conocer más información sobre los tours disponibles, puedes dar __<a href="https://wa.link/cvi0eb" target="_blank"> clic aquí</a>.__ 
 

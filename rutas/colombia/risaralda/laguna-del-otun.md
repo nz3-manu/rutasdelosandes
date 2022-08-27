@@ -138,14 +138,6 @@ Desde la asomadera hasta la casa del guardabosques que es el lugar en que se enc
 
 En este punto del camino tuvimos que pasar por algunas pequeñas lagunas y por la hermosa azufrera ⛰.
 
-<a target="_blank" href="https://www.randes.co/collections/chaquetas-senderismo">
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
-
 
 __Recomendación:__ por este tramo se tendrán que pasar por piedras y algunas peñas las cuales es recomendable pasar antes de que caiga la noche.
 
