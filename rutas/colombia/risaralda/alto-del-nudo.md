@@ -25,13 +25,15 @@ El departamento de Risaralda como otros departamentos del Eje cafetero están co
 
 _El bosque es muy húmedo y se recomienda uso de indumentaria impermeable, botas  y repelente para los mosquitos._
 
-## ¿QUÉ ENCONTRARÁS EN EL ALTO DEL NUDO 🏞? 
+## VIDEO DE LA RUTA AL ALTO DEL NUDO
+
+A continuación te mostramos un pequeño __video del Alto del Nudo__ de los lugares turísticos que no te puedes de esta ruta de senderismo en el Eje Cafetero.
 
   {% include youtube.html,
     videoid:"bUSFb7xuXS0",
     width:"480",
     height:"270",
-    caption:"Mirador Alto del Nudo"
+    caption:"Video del Alto del Nudo"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
  

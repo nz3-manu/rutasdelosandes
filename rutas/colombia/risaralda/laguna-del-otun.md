@@ -33,13 +33,15 @@ La Laguna del otún es un embalse natural que se encuentra en el departamento de
 
  La laguna del otún fue objeto de adoración por la antigua cultura Quimbaya y ahora es de vital importancia ya que alimenta el Río Otún, el cual abastece a la ciudad de Pereira.
  
-## ¿QUÉ ENCONTRARÁS EN LAGUNA DEL OTÚN?
+## VIDEO DE LA RUTA A LA LAGUNA DEL OTÚN
+
+A continuación te mostramos un pequeño __video de la Laguna del Otún__ , donde te mostraremos algunos lugares que verás en este recorrido.
 
 {% include youtube.html,
     videoid:"2Nt7mrwUT80",
     width:"480",
     height:"270",
-    caption:"Como llegar a la Laguna del Otún"
+    caption:"Video de la Ruta a la Laguna de Otún"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

@@ -2,8 +2,8 @@
 layout: trail
 title:  Nevado del Tolima
 categories: colombia 
-seo_title: Cima al Nevado del Tolima (2022)- Rutas de los andes.
-excerpt: El Nevado del Tolima o también como es conocido Dulima es el punto más alto de la cordillera central de los Andes con 5.215 msnm.
+seo_title: Cima al Nevado del Tolima (2022)- Rutas.
+excerpt: Conoce como llegar al Nevado del Tolima, recomendaciones y tour para visitar este hermoso Nevado cerca de Salento, conoce hospedajes cerca del Nevado del Tolima.
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
@@ -14,7 +14,7 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el Nevado del Tolima, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
 
-__<a href="https://www.randes.co/products/tour-nevado-del-tolima" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
+__<a href="https://wa.link/yg6ads" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
 
 __En este post encontrarás la siguiente información:__
 
@@ -39,23 +39,22 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 [Fuente: <a target="_blank" href="https://ibanasca.wordpress.com/2012/11/21/ibanasca-la-diosa-de-las-nieves/"> ibanasca </a>]
 
-## ¿QUÉ ENCONTRARÁS?
+## VIDEO DE LA RUTA REALIZADA AL NEVADO DEL TOLIMA
+
+A continuación te mostramos un pequeño __video del Nevado del Tolima__ , donde te mostraremos algunos lugares que verás en esta ruta de alta montaña del Eje Cafetero.
 
 {% include youtube.html,
     videoid:"k2pBfRDnHjU",
     width:"480",
     height:"270",
-    caption:"Nevado del Tolima"
+    caption:"Video Nevado del Tolima"
 %}
-<a name="comollegar" id="comollegar"></a>
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
 Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima. 
 
 La ruta que nosotros realizamos fue por Salento Quindio.
-
-__[<a target="_blank" href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html">Quizás también te pueda interesar: Ruta al Nevado del Tolima</a>]__
 
 
 Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, la duración del trayecto son 20 minutos.
@@ -168,7 +167,7 @@ Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empe
  
 Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicaremos:
 
-__Tramo de arena__
+__TRAMO DE ARENA:__
 
 Nos levantamos un poco más temprano para hacer el desayuno,  y empezar a ponernos nuestro equipo, arnés, casco y  frontoluz, esperamos un poco para que calmará la lluvia para posteriormente empezar el ascenso.
 
@@ -184,7 +183,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/ssc_roll/"
 
 En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargo muy rápido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino,  para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
 
-__Tramo de Rocas__
+__TRAMO DE ROCAS:__
 
 Después pasamos a subir por unas rocas,  las cuales por la lluvia estaban resbaladizas así que el guía ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
 
@@ -194,13 +193,11 @@ caption:"Tramo rocas",
 width:"1280", 
 height:"960" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/dulima_tourtravel/"  target="_blank"> @dulima_tourtravel </a> </span>__
-
 Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piolet colgado a un costado del maletín y el bastón de senderismo en una mano, y  al intentar subir un tramo el piolet se pegó con la roca y como llevaba el bastón de senderismo en una mano no pudo sujetarse bien de la roca y casi sigue derecho cuesta abajo, para su fortuna estábamos asegurados a la roca.
 
-__Recomendación:__ antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien.
+__RECOMENDACIÓN:__ antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien.
 
-__Tramo de Nieve__
+__TRAMO DE NIEVE:__
 
 Después de haber pasado este tramo de rocas, seguimos con el tramo de nieve, aquí nos pusimos  los crampones y todos nos sujetamos  a la cuerda para comenzar el ascenso,  este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso. 
 
@@ -223,7 +220,7 @@ height:"804" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>__
 
 
-__Recomendación:__ 
+__RECOMENDACIÓN:__ 
 * Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
 * Revisa bien tu equipo de montaña; Crampones, piolet, casco y arnés.
 

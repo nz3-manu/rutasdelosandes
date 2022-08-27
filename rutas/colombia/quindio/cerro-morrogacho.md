@@ -30,12 +30,14 @@ __[Fuente: <a target="_blank" href="https://cronicadelquindio.com/noticias/histo
  
  
 ## LUGARES QUE VERÁS EN EL ASCENSO AL CERRO MORROGACHO
+
+A continuación te mostramos un pequeño __video de Morrogacho__ , donde te mostraremos algunos lugares que verás en este recorrido.
  
 {% include youtube.html
   videoid:"5-ntzs0W9eA",
   width:"480",
   height:"270",
-  caption:"Ruta a Cerro Morrogacho"
+  caption:"Video de Cerro Morrogacho"
 %}
  
 ## TOUR A MORROGACHO

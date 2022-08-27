@@ -26,11 +26,13 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risara
 El nombre del “Río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama Río Barbas.”
 
 
-## ¿QUÉ ENCONTRARÁS EN LA RESERVA BARBAS BREMEN?
+## VIDEO DE LA RUTA A LA RESERVA BARBAS BREMEN
+
+A continuación te mostramos un pequeño __video de la reserva Barbas Bremen__ te mostraremos como fue nuestro reorrido en esta ruta de senderismo en el Eje Cafetero.
 
 {% include youtube.html,
     videoid:"1anGUPtjsMs",
-    caption:"barbas bremem"
+    caption:"Video de la reserva Barbas Bremem"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

@@ -26,12 +26,14 @@ En 1801 el botánico alemán von Humboldt visitó esta zona, lo que le permitió
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]__
 
 ## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDÍO ?
+
+A continuación te mostramos un pequeño __video del Paramillo del Quindío__ , donde te mostraremos algunos lugares que verás en este recorrido.
  
 {% include youtube.html
    videoid:"PNy3G130C9g",
    width:"480",
    height:"270",
-   caption:"Ruta al Paramillo del Quindío"
+   caption:"Video Paramillo del Quindío"
 %}
  
 ## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDÍO 🛣🚌?

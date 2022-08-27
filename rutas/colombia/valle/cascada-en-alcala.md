@@ -24,7 +24,7 @@ Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el
     videoid:"TrnK0AXwhB4",
     width:"480",
     height:"270",
-    caption:"Cascada en Alcala"
+    caption:"Video de cascada de Alcala"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

@@ -35,13 +35,15 @@ Norcasia además está ubicada al oriente caldense a 43 kilómetros de La Dorada
  
  __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia.html">See this post in English version 🇺🇸</a>]__
  
-## ¿QUÉ ENCONTRARÁS EN NORCASIA?
- 
+## VIDEO DE LUGARES A VISITAR EN NORCASIA
+
+Acontinución te mostramos un pequeño __video de Norcasia__ de los lugares turisticos que no te puedes perder, como el embalse de Amaní, río la Miel entre otros.
+
 {% include youtube.html,
     videoid:"A-oYwJF3EsQ",
     width:"480",
     height:"270",
-    caption:"Norcasia"
+    caption:"Video de Norcasia"
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -57,25 +59,19 @@ En Norcasia podrás encontrar diferentes tipos de planes turísticos, aquí te m
 __<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> Para ver más información de estos tours puedes dar click aquí </a>.__ 
 
 
-## ¿CÓMO LLEGAR A NORCASIA 🚌?
+## ¿CÓMO LLEGAR A NORCASIA ?
  
 En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
  
 ### DESDE MANIZALES A NORCASIA:
  
-* __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos.
-
+* __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos. __Teléfono: <a href="tel: 3162714173"> 3162714173</a>__
  
-📞 __Teléfono: <a href="tel: 3162714173"> 3162714173</a>__
- 
-* __Rápido Tolima:__ Sale todos los días a las 3 pm directo a Norcasia, valor pasaje $45.000. 
-
-📞 __Teléfono: <a href="tel: 3153914211"> 3153914211</a>__
+* __Rápido Tolima:__ Sale todos los días a las 3 pm directo a Norcasia, valor pasaje $45.000, __Teléfono: <a href="tel: 3153914211"> 3153914211</a>__
 
 ### DESDE ALGUNAS PRINCIPALES CIUDADES DE COLOMBIA A NORCASIA:
 
-* __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas
-
+* __Medellin a La Dorada:__ El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasila, Coomotor, la duración del trayecto es alrededor de 6 horas,
 
 * __Bogota a Norcasia:__ El valor del pasaje es de aproximadamente $50.000, la empresa que viaja directo a Norcasia es Coopuertos, la duración del trayecto es alrededor de 6 horas, el horio de salida son 11 am y 2 pm.
 
