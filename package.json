@@ -4,12 +4,10 @@
   "description": "jekyll theme for publishers, amp, fb instant articles and pwa ",
   "main": "index.html",
   "scripts": {
-    "start": "npm run build && babel-node server.js",
-    "build": "webpack --env.NODE_ENV=local --config _webpack.config.js && eleventy && npm run build:functions",
-    "build:functions": "netlify-lambda build --config ./webpack.functions.js  lambda",
-    "build-prod": "webpack --env.NODE_ENV=production --config _webpack.server.js && webpack --env.NODE_ENV=production --config _webpack.config.js && eleventy",
-    "serve": "node builtserver.js",
-    "dev": "DEBUG=express:*  babel-node server.js --plugins transform-es2015-destructuring,transform-object-rest-spread --presets es2015,react "
+    "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
