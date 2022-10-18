@@ -1,3 +1,4 @@
+Sitemap: https://www.rutasdelosandes.com/sitemap.xml
 User-agent: *
 Disallow: /checkout
 Disallow: /api/trigger-push-msg
