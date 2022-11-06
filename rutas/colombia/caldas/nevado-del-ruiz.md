@@ -5,7 +5,7 @@ categories: colombia
 seo_title: ▷ Nevado del Ruiz-Guía Completa|Rutas
 excerpt: Guía completa para visitar el Nevado del Ruiz, Este nevado es uno de los más importantes de Colombia y se encuentra muy cerca a Manizales y hace parte del parque Nacional Natural los Nevados.
 images_url: /images/rutas/caldas/ruiz
-viewranger:
+viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
 ---

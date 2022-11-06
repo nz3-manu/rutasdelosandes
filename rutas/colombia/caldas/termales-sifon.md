@@ -59,7 +59,7 @@ Después de 1 hora de trayecto por la carretera destapada, llegamos a un sector 
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
+caption:"Banner ropa", 
 width:"480", 
 height:"200" %}
 </a>

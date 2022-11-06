@@ -5,7 +5,7 @@ categories: colombia
 seo_title: Guía completa de Norcasia | Actualizada 2022
 excerpt: Conoce el Embalse de Amaní, Río la Miel y Río Manso, descubre donde hospedarte en Norcasia y lugares para visitar en Norcasia.
 images_url: /images/rutas/caldas/norcasia
-viewranger:
+viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
 ---
@@ -82,7 +82,7 @@ En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostrarem
 <a id="banner2" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
+caption:"banner-chaqueta", 
 width:"480", 
 height:"200" %}
 </a>

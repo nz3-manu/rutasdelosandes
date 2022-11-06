@@ -7,7 +7,7 @@ excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Co
 images_url : /images/rutas/huila/desiertoTatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
-trending: true
+trending: true 
 ---
  
 # DESIERTO DE LA TATACOA
@@ -77,7 +77,7 @@ Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesite
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
+caption:"banner-ropa", 
 width:"480", 
 height:"200" %}
 </a>
