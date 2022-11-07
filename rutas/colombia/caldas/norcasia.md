@@ -17,16 +17,17 @@ En este post te estaremos describiendo todo lo que debes saber antes de realizar
 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
  
-__En este post encontrarás la siguiente información:__
+__EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-* Datos curioso de Norcasia
-* ¿Qué encontrarás en Norcasia?
-* Tours a Norcasia 
-* ¿Cómo llegar a Norcasia?
-* Hospedajes en Norcasia
-* Lugares turisticos en Norcasia
+* <a href="#dato-norcasia"> Datos curioso de Norcasia</a> 
+* <a href="#tour-norcasia"> Tours a Norcasia </a> 
+* <a href="#llegar-nocasia"> ¿Cómo llegar a Norcasia?  </a> 
+* <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a> 
+* <a href="#lugares-norcasia"> Lugares turisticos en Norcasia</a> 
 
- 
+<a name="dato-laguna" id="dato-laguna"></a> 
+
+
 ## DATOS CURIOSOS SOBRE NORCASIA  
 
 Norcasia es considerado como el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas. 
@@ -47,17 +48,20 @@ Acontinución te mostramos un pequeño __video de Norcasia__ de los lugares turi
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+<a name="tour-norcasia" id="tour-norcasia"></a>
  
 ## TOURS EN NORCASIA
 
-En Norcasia podrás encontrar diferentes tipos de planes turísticos, aquí te mencionamos algunos tours en Norcasia.
+En Norcasia podrás encontrar diferentes tipos de __planes turísticos al embalse de Amaní y rio la Miel__, aquí te mencionamos algunos tours en Norcasia.
 
-* Un pasadía de $110.000 y otro de $120.000.
-* 2 días y 1 noche por $350.000 (incluye: hospedaje y alimentación)
-* 3 días y 2 días por $420.000 (incluye: hospedaje y alimentación)
+* Un pasadía $130.000.
+* 2 días y 1 noche por $360.000 (incluye: hospedaje y alimentación)
+* 3 días y 2 días por $430.000 (incluye: hospedaje y alimentación)
 
-__<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> Para ver más información de estos tours puedes dar click aquí </a>.__ 
+__<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> Para ver más información o reservar este tour puedes dar click aquí </a>.__ 
 
+<a name="llegar-nocasia" id="llegar-nocasia"></a>
 
 ## ¿CÓMO LLEGAR A NORCASIA ?
  
@@ -97,17 +101,44 @@ Aprovechamos un poco para descansar y después salimos a buscar un restaurante v
 Después de una rica cena, nos fuimos a descansar ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
 <ins> __NFORMACIÓN IMPORTANTE:__ </ins>
-* Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular debido a la baja cobertura que hay en la zona.
-* Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros.
+* _Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular debido a la baja cobertura que hay en la zona._
+* _Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros._
  
 Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia en caso de que tengas algún problema con tu alojamiento.
 
+<a name="hospedaje-norcasia" id="hospedaje-norcasia"></a>
+
 ## HOSPEDAJE EN NORCASIA 🛌
  
-Lo que debes de saber es que en Norcasia hay muchas casas que brindan servicio de hospedaje llamados hostales; también podrás encontrar hoteles que como mencionamos arriba, se podrán ajustar a tu presupuesto.
+### HOTEL BUENOS AIRES 
 
-Apreciación: Cuando hay temporada baja será fácil encontrar hospedaje disponible; sin embargo, cuando hay temporada alta te recomendamos reservarlo con anterioridad ya que hemos escuchado casos de personas que al llegar allá no pudieron encontrar hospedaje o otras personas que les cobraron tarifas mucho más elevadas.
+Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
+
+* Hospedaje 🛏: $40.000 pesos por persona.
+* Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
+📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a> o  <a href="tel:3127190468"> (036) 3215447</a> Hotel Buenos Aires__
  
+### HOTEL EL PESCADOR
+
+Este hotel se encuentra a pocas cuadras del parque principal.
+* Hospedaje 🛏: $40.000 pesos por persona.
+* Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
+ 
+📞 __Teléfono: <a href="tel: 3107234504"> 3107234504</a> o  <a href="tel:3107234504"> 3107234504</a> Hotel el pescador.__
+
+Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otros hospedajes en algunas fincas cerca al río la miel
+
+### FINCA PUERTO RICO
+* Hospedaje 🛏: $170.000 pesos por persona(incluye: desayuno, almuerzo y comida)
+ 
+__Teléfono: <a href="tel: 3146154539"> 3146154539</a> o  <a href="tel:3146154539"> 3146154539</a> Finca Puerto Rico.__
+
+Si tienes algún hotel para recomendar nos puedes escribir a nuestras redes sociales para agregarlo.
+___Los precios de los hospedajes pueden cambian constantemente__
+
+ 
+<a name="lugares-norcasia" id="lugares-norcasia"></a>
+
  
 ## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
  

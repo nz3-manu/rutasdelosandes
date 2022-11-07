@@ -14,20 +14,20 @@ trending: true
 
 En este post encontrarás toda la información que necesitas saber para conocer la __Laguna Del Otún__, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
-__En este post encontrarás la siguiente información:__
-* <a href="#dato-laguna"> Dato curioso de la Laguna del Otún</a>
-* <a href="#tour-laguna"> Tours a la Laguna del Otún</a>
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+* <a href="#dato-laguna"> Dato curioso de la Laguna del Otún</a> 
+* <a href="#tour-laguna"> Tours a la Laguna del Otún</a>    
 * <a href="#llegar-laguna"> Cómo llegar a la Laguna del Otún </a> 
-*<a href="#hospedaje-laguna"> Hospedajes cerca a la Laguna del Otún </a>  
-* <a href="#entrada-laguna">  Costo de entrada a la Laguna del Otún </a>
-* <a href="#ruta-laguna"> Ruta a la Laguna del Otún </a> 
+* <a href="#hospedaje-laguna"> Hospedajes cerca a la Laguna del Otún </a>  
+* <a href="#entrada-laguna"> Costo de entrada a la Laguna del Otún </a>
+* <a href="#mapa-ruta-laguna"> Mapa del recorrdo en la laguna del Otún</a> 
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
 
 Empecemos con la aventura ⛰.
 
-<a name="dato-laguna"><>
+<a name="dato-laguna" id="dato-laguna"></a> 
 
 ## DATO CURIOSO DE LA LAGUNA DEL OTÚN
 
@@ -48,7 +48,7 @@ A continuación te mostramos un pequeño __video de la Laguna del Otún__ , dond
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-<a name="tour-laguna"><>
+<a name="tour-laguna" id="tour-laguna"></a> 
 
 ## TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
 
@@ -66,11 +66,11 @@ __EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidrat
 
 __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour a la laguna del Otún</a>__ 👈
 
-<a name="llegar-laguna"><>
+<a name="llegar-laguna" id="llegar-laguna"></a> 
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
 
-Existen varias formas para llegar a la Laguna del Otún; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
+__Existen varias formas para llegar a la Laguna del Otún__; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
 
 __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta "Que es el mal de altura y como evitarlo"</a>]__
 
@@ -97,12 +97,13 @@ En invierno la carretera puede estar en muy mal estado, los jeeps en algunos cas
 
 Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres dormir una noche  para acostumbrar tu cuerpo a esa altura, cerca a la entrada del Parque Nacional los Nevados se encuentra un hospedaje. 
 
+<a name="hospedaje-laguna" id="hospedaje-laguna"></a> 
 
 ## HOSPEDAJE CERCA A LA LAGUNA DEL OTÚN
 
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
 
-__Los servicios que prestan en este lugar son los siguientes:__
+__LOS SERVICIOS QUE PRESTAN EN ESTE LUGAR SON LOS SIGUIENTES:__
 * Hospedaje 🛏: $25.000 pesos (por noche). 
 * Desayunos 🥟: $10.000 pesos.
 * Almuerzos 🍛:  $14.000 pesos.
@@ -111,6 +112,7 @@ __Los servicios que prestan en este lugar son los siguientes:__
 
 Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
+<a name="llegar-laguna" id="entrada-laguna"></a> 
 
 ### VALOR DE INGRESO A LA LAGUNA DEL OTÚN 2022
 
@@ -121,7 +123,9 @@ Al momento de llegar a la entrada de potosí del parque los nevados tendremos qu
 
 ⚠️ Recuerde que está prohibido el ingreso de mascotas 🚫🐶 y la pesca.
 
-## RUTA EN LA LAGUNA DEL OTÚN
+<a name="mapa-ruta-laguna" id="mapa-ruta-laguna"></a> 
+
+## MAPA DEL RECORRIDO EN LA LAGUNA DEL OTÚN
 
 Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando.
 
@@ -132,6 +136,7 @@ Desde la entrada al parque de los nevados hasta la asomadera o mirador de Potos�
 %}
 
 Foto desde la asomadera o mirador de Potosí.
+
 <amp-instagram
     data-shortcode="BdFyoJDniOq"
     data-captioned
