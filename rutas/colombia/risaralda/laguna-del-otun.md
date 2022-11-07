@@ -12,20 +12,22 @@ trending: true
 
 # LAGUNA DEL OTÚN
 
-En este post encontrarás toda la información que necesitas saber para conocer la Laguna Del Otún, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
+En este post encontrarás toda la información que necesitas saber para conocer la __Laguna Del Otún__, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 
 __En este post encontrarás la siguiente información:__
-* Dato curioso de la Laguna del Otún
-* Tours a la Laguna del Otún
-* Cómo llegar a la Laguna del Otún
-* Hospedajes cerca a la Laguna del Otún
-* Costo de entrada a la Laguna del Otún
-* Ruta a la Laguna del Otún
+* <a href="#dato-laguna"> Dato curioso de la Laguna del Otún</a>
+* <a href="#tour-laguna"> Tours a la Laguna del Otún</a>
+* <a href="#llegar-laguna"> Cómo llegar a la Laguna del Otún </a> 
+*<a href="#hospedaje-laguna"> Hospedajes cerca a la Laguna del Otún </a>  
+* <a href="#entrada-laguna">  Costo de entrada a la Laguna del Otún </a>
+* <a href="#ruta-laguna"> Ruta a la Laguna del Otún </a> 
 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
 
 Empecemos con la aventura ⛰.
+
+<a name="dato-laguna"><>
 
 ## DATO CURIOSO DE LA LAGUNA DEL OTÚN
 
@@ -46,6 +48,7 @@ A continuación te mostramos un pequeño __video de la Laguna del Otún__ , dond
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+<a name="tour-laguna"><>
 
 ## TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
 
@@ -63,6 +66,7 @@ __EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidrat
 
 __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour a la laguna del Otún</a>__ 👈
 
+<a name="llegar-laguna"><>
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
 
@@ -110,9 +114,9 @@ Al momento de llegar a la entrada de potosí del parque los nevados tendremos qu
 
 ### VALOR DE INGRESO A LA LAGUNA DEL OTÚN 2022
 
-  * Entrada al Parque los Nevados 2022 🎟: mayores de 5 años y menores de 25 años $9.500 pesos, mayores de 25 años $18.000 pesos extranjeros $50.000 pesos.
+  * __Entrada al Parque los Nevados 2022 🎟:__ mayores de 5 años y menores de 25 años $9.500 pesos, mayores de 25 años $18.000 pesos extranjeros $50.000 pesos.
  
-  * Seguro médico y de rescate ⛑: es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
+  * __Seguro médico y de rescate ⛑:__ es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de $3.500 pesos por dia,  asi  que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allá, lo puedes comprar a través de internet <a target="_blank" href="https://www.segurosmedicosinternacionales.com.co/home">aquí</a>.
 
 
 ⚠️ Recuerde que está prohibido el ingreso de mascotas 🚫🐶 y la pesca.

@@ -13,14 +13,14 @@ trending: true
 
 # NEVADO SANTA ISABEL
 
-En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el Nevado Santa Isabel. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. Así que, presta mucha atención y disfruta de este hermoso lugar.
+En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el __Nevado Santa Isabel__. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. Así que, presta mucha atención y disfruta de este hermoso lugar.
 
 __<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí.  </a>__
 
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL
 
-Como dato curioso acerca del Nevado Santa Isabel, tenemos que decir que este se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔. Además, este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda.
+Como dato curioso acerca del __Nevado Santa Isabel__, tenemos que decir que este se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔. Además, este lugar se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima, siendo el punto más alto en Risaralda.
 
 El ascenso al nevado se caracteriza por estar rodeado de muchas lagunas; causa curiosidad el complejo de domos que coronan su cima y que lo convierten en uno de los nevados más raros del continente.
 
@@ -37,6 +37,7 @@ Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es q
 
 ## TOURS AL NEVADO SANTA ISABEL
 Lo que debes saber es que para ir a este nevado, parques nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la reservación con anticipación, aquí te mostraremos los precios que manejan algunas empresas.
+
 __Precios del Tour cumbre nevado Santa Isabel:__
 * 1 Persona: $1'700.000 COP
 * 2 personas: $990.000 COP
