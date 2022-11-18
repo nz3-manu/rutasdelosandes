@@ -12,11 +12,13 @@ trending: true
 
 # LAGUNA DEL OTÚN
 
-En este post encontrarás toda la información que necesitas saber para conocer la __Laguna Del Otún__, te dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
+En este post encontrarás toda la información que necesitas saber para conocer la __Laguna Del Otún__, te daremos algunas recomendaciones que te ayudaran a prevenir el mal de altura.
+
+👉  __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank">  Click aquí para separar tour a la Laguna del Otún</a>__ 
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#dato-laguna"> Dato curioso de la Laguna del Otún</a> 
-* <a href="#tour-laguna"> Tours a la Laguna del Otún</a>    
+* <a href="#tour-laguna"> Precios de tours a la Laguna del Otún</a>    
 * <a href="#llegar-laguna"> Cómo llegar a la Laguna del Otún </a> 
 * <a href="#hospedaje-laguna"> Hospedajes cerca a la Laguna del Otún </a>  
 * <a href="#entrada-laguna"> Costo de entrada a la Laguna del Otún </a>
@@ -50,21 +52,18 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 <a name="tour-laguna" id="tour-laguna"></a> 
 
-## TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
+## PRECIOS DEL TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
 
-A continuación te compartimos los precios que manejan algunas __agencias de turismo para la laguna del Otún:__ 
+El tour inicia a las 4 am desde Pereira, allí los recogerán en camioneta 4x4, y desayunarán desayuno cerca al hostal de la laguna del Otún a las 7:00 am, a las 8:30 se hace el ingreso al parque de los Nevados, despues de hacer el recorrido en el parque de los nevados se regresaría al hostal para almorzar.
 
-* 1 Persona: $550.000
-* 2 personas: $340.000
-* 3 personas: $280.000
-* 4 personas: $270.000
-* Más de 5 personas: $240.000
+Los __precios para el tour a la Laguna del Otún__ pueden variar desde $230.000 hasta $550.000, esto dependerá del numero de personas que vayan 
 
-También algunas agencias tienen fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
+También puedes consultar algunas fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
 
-__EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidratación y entrada al parque de los nevados.
 
 __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour a la laguna del Otún</a>__ 👈
+
+__EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidratación y entrada al parque de los nevados.
 
 <a name="llegar-laguna" id="llegar-laguna"></a> 
 
@@ -76,10 +75,9 @@ __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-al
 
 La ruta que mostraremos en este post es llegando por Potosí, lugar donde se encuentra la entrada a Laguna del Otún. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
 
-* __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. El trayecto para ir y volver el mismo día cuesta alrededor de $350.000  pesos para máximo 8 personas. Es lo que recomiendan los conductores por el mal estado de la vía.
+* __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. 
 
-
- * __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. El costo del jeep para ir y volver en el mismo día es alrededor de $350.000 Pesos, para máximo 8 personas;  es lo que recomiendan los conductores por el mal estado de la vía.
+ * __Desde Villa María (Calda):__ Son aproximadamente 42km, el jeep tardará alrededor de 3 horas para llegar a Potosí. 
 
 
 Estas opciones son recomendables si vas con más de 4 personas.
@@ -106,7 +104,7 @@ Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de l
 __LOS SERVICIOS QUE PRESTAN EN ESTE LUGAR SON LOS SIGUIENTES:__
 * Hospedaje 🛏: $25.000 pesos (por noche). 
 * Desayunos 🥟: $10.000 pesos.
-* Almuerzos 🍛:  $14.000 pesos.
+* Almuerzos 🍛:  $15.000 pesos.
 * Parqueadero moto 🏍: $6.000 pesos por dia.
 * Parqueadero carro 🚙: $11.000 pesos por dia.
 

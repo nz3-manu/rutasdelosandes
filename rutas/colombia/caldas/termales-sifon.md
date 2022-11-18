@@ -14,7 +14,7 @@ trending: true
 
 Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔.
 
- __<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes escribirnos  </a>__
+👉 __<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar?  puedes escribirnos  </a>__
 
 
 En este post te contaremos cómo fue nuestra experiencia en este mágico lugar. A lo largo de este post te sugeriremos algunas recomendaciones para que al visitar este lugar no cometas los mismos errores que cometen muchos viajeros.
@@ -53,7 +53,7 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>__
  
-Continuando con nuestro viaje, llegamos justo hasta la entrada al nevado del Ruiz, donde tomamos la carretera destapada que conduce a Murillo-Tolima. En el trayecto hasta llegar a la entrada de Los Termales del Sifón, pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones.
+Continuando con nuestro viaje, llegamos justo hasta la entrada al nevado del Ruiz, donde tomamos la carretera destapada que conduce a Murillo-Tolima. En el trayecto hasta llegar a la entrada de Los __Termales del Sifón__, pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones.
  
 Después de 1 hora de trayecto por la carretera destapada, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏬 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
  
@@ -78,6 +78,10 @@ height:"533"
 %}
 
 Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. A medida que disfrutábamos de las aguas termales esto nos hacia desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos en estas aguas mágicas. Después de habernos desconectado del estrés de la  un relajante baño en estas aguas termales emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
+
+## TOUR A LOS TERMALES DEL SIFÓN
+
+Los __precios para el tour a la los termales del Sifón__ pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales.
 
 __RECOMENDACIONES:__ 
 * Lleven tenis para caminar por el río, ya que algunas piedras son muy filosas.

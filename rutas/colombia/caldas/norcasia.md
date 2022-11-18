@@ -16,7 +16,7 @@ En este post te estaremos describiendo todo lo que debes saber antes de realizar
 
 Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
-__<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
+👉 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank"> Click aquí para separar un tour a Norcasia 🛶.</a>__ 
 
  
 __EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
@@ -69,7 +69,7 @@ __<a href="https://www.randes.co/collections/zonas-tropicales" target="_blank"> 
  
 En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
  
-### DESDE MANIZALES A NORCASIA:
+### CÓMO LLEGAR DESDE MANIZALES A NORCASIA:
  
 * __Coopuertos:__ viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de$ 45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos. __Teléfono: <a href="tel: 3162714173"> 3162714173</a>__
  
@@ -116,22 +116,20 @@ Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia
 
 Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
 
-* Hospedaje 🛏: $40.000 pesos por persona.
+* Hospedaje 🛏: $45.000 pesos por persona.
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
-📞 __Teléfono: <a href="tel: 3127190468"> 3127190468</a> o  <a href="tel:3127190468"> (036) 3215447</a> Hotel Buenos Aires__
- 
+
 ### HOTEL EL PESCADOR
 
 Este hotel se encuentra a pocas cuadras del parque principal.
 * Hospedaje 🛏: $40.000 pesos por persona.
 * Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
  
-📞 __Teléfono: <a href="tel: 3107234504"> 3107234504</a> o  <a href="tel:3107234504"> 3107234504</a> Hotel el pescador.__
 
 Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otros hospedajes en algunas fincas cerca al río la miel
 
 ### FINCA PUERTO RICO
-* Hospedaje 🛏: $170.000 pesos por persona(incluye: desayuno, almuerzo y comida)
+* Hospedaje 🛏: $170.000 pesos por persona (incluye: desayuno, almuerzo y comida)
  
 __Teléfono: <a href="tel: 3146154539"> 3146154539</a> o  <a href="tel:3146154539"> 3146154539</a> Finca Puerto Rico.__
 
