@@ -30,7 +30,7 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
 </amp-carousel>
 
 ## ¿Cómo llegar a Estrella de Agua 🛣🚌🚗🛵?
-Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $7.000 pesos.
+Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $9.000 pesos.
 
 Estando en Salento un viajero nos recomendo un hostal a solo una cuadra del parque principal, el cual nos pareció una buena opción ver hostal __<a href="http://www.booking.com/hotel/co/hostal-estrella-de-agua-salento.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__ otra opción un poco mas económica pero no menos confortable fue un hostal cerca del parque principal ver hostal __<a href="http://www.booking.com/hotel/co/artvelez-hostel.html?aid=1491718&no_rooms=1&group_adults=1" target="_blank"> aquí </a>__. Despues de un descanso 😴, salimos a conocer un poco de este hermoso municipio 😍🌃.
 

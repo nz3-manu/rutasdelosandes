@@ -31,11 +31,12 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
    height:"270",
    caption:"Termales Sifon"
 %}
+
 ## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN ?
  
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar, lugar que habíamos visto en algunos blog de viajes y teníamos muchos deseos de conocerlo. 
 
-<ins>_En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._</ins>
+<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._ </ins>
  
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones.
 
@@ -83,7 +84,6 @@ __RECOMENDACIONES:__
 * En los termales no hay baños ni nada por el estilo, si necesitarán usar un baño, tendrán que ir de nuevo a la casa donde se pagó la entrada (tienda).
 * Los vehículos que van a este lugar en su mayoría son 4x4, vimos algunos automóviles pero sufren mucho por este terreno y más si llevan todo el cupo completo.
 * Ten en cuenta que los  termales cierran a las 3 pm.
-
 
 
 Este es el fin de la ruta a Termales del Sifón, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

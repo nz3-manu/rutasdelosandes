@@ -12,7 +12,9 @@ trending: true
  
 # NORCASIA
  
-En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
+En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasía, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros. 
+
+Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
 
 __<a href="https://wa.link/5ygmro" style="color:green;" target="_blank">¿Te gustaría visitar este lugar? 👉  Click aquí para ayudarte a elegir un tour a Norcasia 🛶.</a>__ 
 
