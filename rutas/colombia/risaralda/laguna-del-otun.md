@@ -73,7 +73,7 @@ __Existen varias formas para llegar a la Laguna del Otún__; unas más las larga
 
 __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta "Que es el mal de altura y como evitarlo"</a>]__
 
-La ruta que mostraremos en este post es llegando por Potosí, lugar donde se encuentra la entrada a Laguna del Otún. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del parque de los nevados en la vereda de potosí en Caldas, se puede llegar:
+La ruta que mostraremos en este post es llegando por Potosí, lugar donde se encuentra la entrada a Laguna del Otún. Ya que como a este sector no llega el transporte público, días antes habíamos  🚙 contratado un jeep  para llevarnos hasta la entrada del __Parque de los Nevados en la vereda de potosí__ en Caldas, se puede llegar:
 
 * __Desde Santa Rosa (Risaralda):__ El Jeep se tarda en promedio 3 horas para llegar a Potosí. 
 
@@ -81,14 +81,6 @@ La ruta que mostraremos en este post es llegando por Potosí, lugar donde se enc
 
 
 Estas opciones son recomendables si vas con más de 4 personas.
-
-<a target="_blank" href="https://www.randes.co/">
-{% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
-width:"480", 
-height:"200" %}
-</a>
 
 En invierno la carretera puede estar en muy mal estado, los jeeps en algunos casos solo podrán entrar hasta la vereda potosí, faltarían aproximadamente 2 horas caminando para llegar a la entrada del parque de los nevados.
 
@@ -102,13 +94,13 @@ Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
 
 __LOS SERVICIOS QUE PRESTAN EN ESTE LUGAR SON LOS SIGUIENTES:__
-* Hospedaje 🛏: $25.000 pesos (por noche). 
+* Hospedaje 🛏: $40.000 pesos (por noche). 
 * Desayunos 🥟: $10.000 pesos.
 * Almuerzos 🍛:  $15.000 pesos.
-* Parqueadero moto 🏍: $6.000 pesos por dia.
-* Parqueadero carro 🚙: $11.000 pesos por dia.
+* Parqueadero moto 🏍: $8.000 pesos por dia.
+* Parqueadero carro 🚙: $15.000 pesos por dia.
 
-Al momento de llegar a la entrada de potosí del parque los nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
+Al momento de llegar a la entrada de potosí del parque los Nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 
 <a name="llegar-laguna" id="entrada-laguna"></a> 
 

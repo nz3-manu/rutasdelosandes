@@ -13,18 +13,25 @@ trending: true
 # NEVADO DEL RUIZ
  
 El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
- 
-__En este post encontrarás la siguiente información:__
 
-* Datos curiosos del Nevado del Ruiz
-* ¿Qué encontrarás en el Nevado del Ruiz?
-* Tours al Nevado del Ruiz 
-* ¿Cómo llegar al Nevado del Ruiz?
-* Hospedajes cerca al Nevado del Ruiz
-* Costo de entrada al Nevado del Ruiz
-* Ruta en el Nevado del Ruiz 
+👉  __<a href="https://wa.link/tzddho" style="color:green;" target="_blank">  Click aquí para separar tour a la Laguna del Otún</a>__ 
+
+ 
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+
+* <a href="#dato-ruiz"> Datos curiosos del Nevado del Ruiz</a> 
+* <a href="#video-ruiz"> Video  Nevado del Ruiz</a> 
+* <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a> 
+* <a href="#llegar-ruiz"> ¿Cómo llegar al Nevado del Ruiz?</a> 
+* <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a> 
+* <a href="#costos-ruiz"> Valor de entrada al Nevado del Ruiz</a> 
+* <a href="#sendero-ruiz"> Ruta en el Nevado del Ruiz </a> 
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
+
+
+<a name="dato-ruiz" id="dato-ruiz"></a> 
+
  
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
  
@@ -36,7 +43,9 @@ Además de su gran belleza es conocido por el acontecimiento que ocurrió el  3 
  
 Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
  
-## ¿QUÉ ENCONTRARÁS EN EL NEVADO DEL RUIZ?
+<a name="video-ruiz" id="video-ruiz"></a> 
+
+## VIDEO DEL NEVADO DEL RUIZ
  
 {% include youtube.html
    videoid:"1fVmDl0oiFE",
@@ -46,6 +55,9 @@ Actualmente el volcán Nevado del Ruiz se encuentra en alerta amarilla.
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+
+<a name="tour-ruiz" id="tour-ruiz"></a> 
 
 ## TOURS AL NEVADO DEL RUIZ 
 
@@ -63,7 +75,8 @@ __EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, guía, seguro medio, hidrat
 
 __<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour al Nevado del Ruiz</a>__ 👈
  
- 
+<a name="llegar-ruiz" id="llegar-ruiz"></a> 
+
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ ?
  
 Para ir al Nevado del Ruiz lo primero que tuvimos que hacer fue llegar a Manizales, allí no recogió la agencia de viajes que nos iba a realizar el tour.
@@ -104,6 +117,7 @@ Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más 
  
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
+<a name="hospedaje-ruiz" id="hospedaje-ruiz"></a> 
 
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ
 
@@ -119,9 +133,10 @@ En el sector el arbolito encontramos el  último restaurante y hospedaje más ce
 * Glamping 🏕: $300.000 para 4 personas (incluye una botella de vino y desayuno). 
  
  
-Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del Nevado del Ruiz 🗻.
+Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del __parque de los Nevado__, allí es donde se encuentra la entrada del nevado del Ruiz 🗻.
  
- 
+ <a name="costos-ruiz" id="costos-ruiz"></a> 
+
 ## VALOR DE INGRESO AL NEVADO DEL RUIZ
  
 Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas.
@@ -139,12 +154,17 @@ __Importante:__ el Nevado del Ruiz se encuentra en alerta amarilla, por lo que s
 
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"", 
-width:"480", 
-height:"200" %}
+
+{% include image.html,
+ file:"publicidad/chaqueta-randes.jpg",
+ caption:"Chaqueta",
+ width:"480",
+ height:"200"
+%}
+
 </a>
+
+
 
  
 El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
@@ -156,6 +176,9 @@ El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde la
    mid:"12gLHpe07-mQZrN-lc8k6J2avqQ1XXcot&hl=es",
    caption:"Ruta desde Manizales, laguna negra y recorrido Nevado del Ruiz "
 %}
+
+
+<a name="sendero-ruiz" id="sendero-ruiz"></a> 
 
 ## RUTA EN EL NEVADO DEL RUIZ 
 

@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: trail
 title:  Rocas de Suesca
 categories: colombia
