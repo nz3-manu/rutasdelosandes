@@ -24,10 +24,10 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#entrada-laguna"> Costo de entrada a la Laguna del Otún </a>
 * <a href="#mapa-ruta-laguna"> Mapa del recorrdo en la laguna del Otún</a> 
 
+Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
 
-Empecemos con la aventura ⛰.
 
 <a name="dato-laguna" id="dato-laguna"></a> 
 

@@ -19,13 +19,15 @@ El Nevado del Ruiz o como es llamado también volcán Nevado del Ruiz está ubic
  
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-* <a href="#dato-ruiz"> Datos curiosos del Nevado del Ruiz</a> 
+* <a href="#dato-ruiz" > Datos curiosos del Nevado del Ruiz</a> 
 * <a href="#video-ruiz"> Video  Nevado del Ruiz</a> 
 * <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a> 
 * <a href="#llegar-ruiz"> ¿Cómo llegar al Nevado del Ruiz?</a> 
 * <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a> 
 * <a href="#costos-ruiz"> Valor de entrada al Nevado del Ruiz</a> 
 * <a href="#sendero-ruiz"> Ruta en el Nevado del Ruiz </a> 
+
+Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
 
@@ -63,11 +65,11 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 A Continuación te compartimos los precios que manejan algunas __agencias de turismo para el nevado del Ruiz:__ 
 
-* 1 Persona: $570.000
-* 2 personas: $290.000
-* 3 personas: $270.000
-* 4 personas: $240.000
-* Más de 5 personas: $230.000
+* 1 Persona: $570.000 Cop
+* 2 personas: $290.000 Cop
+* 3 personas: $270.000 Cop
+* 4 personas: $240.000 Cop
+* Más de 5 personas: $230.000 Cop
 
 También algunas agencias tienen fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
 

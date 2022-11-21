@@ -21,6 +21,8 @@ En este post te contaremos cómo fue nuestra experiencia en este mágico lugar. 
  
 Lo primero que debes de saber es que, si no cuentas con moto o carro adecuado para esta clase de trayectos, será un poco difícil llegar hasta estos termales, ya que en algunos tramos la carretera no se encuentra en muy buen estado y debido a las condiciones climáticas de la zona se puede poner peor.
  
+Empecemos con la aventura ⛰.
+
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/termales-sifon.html">See this post in English version 🇺🇸</a>]__
  
  

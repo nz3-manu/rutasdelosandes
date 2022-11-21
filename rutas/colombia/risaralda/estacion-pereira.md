@@ -7,12 +7,15 @@ excerpt: Estación Pereira esta ubicado entre Marsella y Pereira, en esta ruta c
 images_url: /images/rutas/risaralda/estacion
 viewranger: 
 author: manuel
+trending: true
 ---
 # ESTACIÓN PEREIRA
 
 Estacion Pereira es una de las veredas que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
 
 __<a href="https://forms.gle/aJKBXTwcWSce8KdH7" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
+
+Empecemos con la aventura ⛰.
 
 
 ## ¿QUÉ ENCONTRARÁS EN ESTACIÓN PEREIRA?
@@ -28,10 +31,8 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## ¿CÓMO LLEGAR A ESTACIÓN PEREIRA 🛣? 
 
-Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino Estación Pereira donde podremos encontrar tiendas por si quieren comprar comida o tomar una cerveza 🍻😄. 
+Lo primero  que tenemos que hacer es llegar a la ciudad de Pereira. Una vez allí, se debe tomar una “chiva” o bus escalera 🚌, la duración del trayecto 1 hora y 30 minutos para llegar a nuestro destino __Estación Pereira__ donde podremos encontrar tiendas por si quieren comprar comida.
 
-
-Si vas en carro o moto 🚗🛵, lo puedes dejar en el estacionamiento 🅿️ que queda aun costado del comando de policía. El costo es voluntario. 
 
 __Recomendación:__ Solo se recomienda para vehículos todo terreno ya que la carretera es algo difícil para un automóvil.
 
@@ -46,7 +47,6 @@ __Transporte en “marranitas”__ 🛵
 Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita”. 
 La "marranita" es un medio de transporte que consiste en una moto que va por las antiguas vías del tren impulsando una plataforma de madera en las cuales van sentando las personas, Este medio de transporte es muy común entre los pobladores ya que es una forma rápida para transportarse, el costo es de $8.000 pesos para 6 personas, el viaje dura aproximadamente 15 minutos, después pasamos a tomar la “garucha”😃.
 
-**Por favor Aclarar al conductor que nos dirigimos a la “garrucha” que va a la finca la playita.**
 
 {% include image.html,
    file:"rutas/risaralda/estacion/marrana.jpg",
@@ -56,8 +56,6 @@ La "marranita" es un medio de transporte que consiste en una moto que va por las
    height:"704"
 %} 
 
-
-Después pasamos a tomar la “garucha” que tiene un costo aproximado de $1.000 pesos por persona.
 
 __Cruzar el río cauca en "garrucha"__ 🚡
 
@@ -69,10 +67,6 @@ La “garrucha” es un medio de transporte que consiste en un cable grueso que 
    width:"800",
    height:"450"
 %} 
-
-Después de haber cruzado el río Cauca llegamos a la finca a una finca que presta los servicios de: zona de camping 🏕, habitaciòn 🛌, desayuno 🥟, almuerzo 🍛, es aconsejable realizar la reserva previa.
-
-Es aconsejable llamar un día antes para preguntar por el estado de la vía, ya que en invierno se podrán encontrar con que no hay entrada y tendrán que regresar.
 
 
 ## RUTA A ESTACIÓN PEREIRA 🚶🏽🐕.
@@ -94,9 +88,6 @@ Si estás pensando ir a acampar para escuchar el sonido de la naturaleza ⛺️�
 
 En la zona se van a encontrar muchos caracoles africano 🚨🐌, no se deben tocar si no es con guantes ya que te puede producir afectaciones en el sistema digestivo por las infecciones que transmite.
  
-
-## ¿CÓMO REGRESAR DE ESTACIÓN PEREIRA 🚌🏡?
-De regreso para Pereira la última “chiva” o bus escalera 🚌 sale a las 4:40pm desde Estación Pereira.
 
 Este es el fin de la ruta a Estación Pereira, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 

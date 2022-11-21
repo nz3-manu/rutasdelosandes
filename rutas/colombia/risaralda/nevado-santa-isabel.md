@@ -3,20 +3,30 @@ layout: trail
 title:  Nevado Santa Isabel
 categories: colombia
 seo_title: Nevado Santa Isabel - cumbre |Rutas
-Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, consejos para visitar y mejor temporada del año para visitarlo.
+Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, hospedaje y mejor temporada del año para visitarlo.
 images_url: /images/rutas/risaralda/nevado-santa-isabel
 viewranger:
 author: manuel
 trending: true
 ---
 
-
 # NEVADO SANTA ISABEL
 
-En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el __Nevado Santa Isabel__. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. Así que, presta mucha atención y disfruta de este hermoso lugar.
+En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacía el __Nevado Santa Isabel__. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros. 
 
-__<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí.  </a>__
+__<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones al Nevado Santa Isabel aquí.</a>__
 
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+* <a href="#dato-santa"> Dato curioso del Nevado Santa Isabel</a> 
+* <a href="#tour-santa"> Precios de tours al Nevado Santa Isabel</a>    
+* <a href="#llegar-santa"> Cómo llegar al Nevado Santa Isabel </a> 
+* <a href="#hospedaje-santa"> Hospedajes en el Nevado Santa Isabel </a>  
+
+Empecemos con la aventura ⛰.
+
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
+
+<a name="dato-santa" id="dato-santa"></a> 
 
 ## DATOS CURIOSOS DEL NEVADO SANTA ISABEL
 
@@ -25,6 +35,8 @@ Como dato curioso acerca del __Nevado Santa Isabel__, tenemos que decir que este
 El ascenso al nevado se caracteriza por estar rodeado de muchas lagunas; causa curiosidad el complejo de domos que coronan su cima y que lo convierten en uno de los nevados más raros del continente.
 
 Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es que antes del 2030, será el próximo nevado en perder completamente su glaciar. Actualmente tiene menos de un kilómetro cuadrado de nieve, por lo que es considerada la cumbre más baja y accesible de Colombia con nieve. 
+
+<a name="dato-santa" id="dato-santa"></a> 
 
 ## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
 
@@ -35,10 +47,14 @@ Otro dato que no es curioso pero es alarmante sobre el Nevado Santa Isabel, es q
 {% include image.html, file:"rutas/risaralda/nevado-santa-isabel/4.jpg", width:"1078", height:"1078" %}
 </amp-carousel>
 
+<a name="tour-santa" id="tour-santa"></a> 
+
 ## TOURS AL NEVADO SANTA ISABEL
-Lo que debes saber es que para ir a este nevado, parques nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la reservación con anticipación, aquí te mostraremos los precios que manejan algunas empresas.
+
+Lo que debes saber es que para ir a este nevado, Parques Nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la __reservación del tour__ con anticipación, aquí te mostraremos los precios para esta excursión.
 
 __Precios del Tour cumbre nevado Santa Isabel:__
+
 * 1 Persona: $1'700.000 COP
 * 2 personas: $990.000 COP
 * 3 personas: $800.000 COP
@@ -46,7 +62,9 @@ __Precios del Tour cumbre nevado Santa Isabel:__
 * 5 personas: $700.000 COP
  
 Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales así que puedes dar <a target="_blank" href="https://wa.link/4fr537"> click 👉 aquí</a> para que alguien te ayude a buscar un cupo con las diferentes agencias aliadas.
- 
+
+<a name="llegar-santa" id="llegar-santa"></a> 
+
 ## ¿DONDE QUEDA EL NEVADO SANTA ISABEL?
  
 El Nevado Santa Isabel o Volcán Nevado Santa Isabel se encuentra en la frontera de los departamentos de Risaralda, Caldas y Tolima. Además, debes saber que cuenta con 2 cumbres; una situada al norte y la otra al sur, siendo la del norte la que cuenta con más nieve, es algo que debes de tener en cuenta a la hora de realizar el tour. 
@@ -92,9 +110,16 @@ Terminada la caminata, nos llevaron a nuestro hotel, donde almorzamos y aprovech
 
 <ins>_Recomendación: Cuando te entreguen el equipo para hacer realizar el ascenso, revisa bien los crampones, ya que a una de las personas del grupo no le funcionaba bien la parte para graduarlo y tuvieron que ser cambiados_</ins>
 
-Después de la charla, fuimos a cenar. Al terminar la cena, nos dirigimos a nuestra habitación para revisar que el frontoluz (linterna) se encontrara totalmente cargado.y empacar toda la ropa que necesitaríamos para llevar a cabo la ascensión como: guantes, lycra térmica, pantalón impermeable, buzo polar, chaqueta impermeable, buzo manga larga (__todos estos artículos los puedes comprar en nuestra tienda virtual__) visitar tienda <a href="https://www.randes.co/" target="_blank"> aquí</a>.
+Después de la charla, fuimos a cenar. Al terminar la cena, nos dirigimos a nuestra habitación para revisar que el frontoluz (linterna) se encontrara totalmente cargado y empacar toda la ropa que necesitaríamos para llevar a cabo la ascensión como: guantes, licra térmica, pantalón impermeable, buzo polar, chaqueta impermeable, buzo manga larga (__todos estos artículos los puedes comprar en nuestra tienda virtual__) visitar tienda <a href="https://www.randes.co/" target="_blank"> aquí</a>.
 
 Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la hora de hacer la cumbre 😅.
+
+<a name="hospedaje-santa" id="hospedaje-santa"></a> 
+
+## HOSPEDAJE EN EL NEVADO SANTA ISABEL
+
+<ins>Lo que debes de saber es que el único __hospedaje cerca al nevado Santa Isabel__ es el Centro de Visitantes el Cisne, el cual solo se puede ingresas si vas con un guía certificado por parques Nacionales y además si tienes reserva previa, ya que este lugar cuenta con un numero limitado de camas.</ins>
+
 
 ## EL CAMINO A LA CUMBRE DEL SANTA ISABEL 🚶🏼🏔
 
