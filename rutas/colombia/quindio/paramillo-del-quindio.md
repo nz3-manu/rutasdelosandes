@@ -12,9 +12,11 @@ trending: true
 
 # PARAMILLO DEL QUINDÍO
 
-En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
+En este post te contaremos como fue nuestra __excursion al Paramillo del Quindío__, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
-__<a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí  </a>__
+Ya si quisieras visitar este lugar con una agencia puedes escribirnos a través del siguiente link.
+
+__<a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank" style="color:green;">  👉 puedes consultar excursiones grupales o privadas aquí  </a>__
 
 
 # DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
@@ -35,6 +37,15 @@ A continuación te mostramos un pequeño __video del Paramillo del Quindío__ , 
    height:"270",
    caption:"Video Paramillo del Quindío"
 %}
+
+## TOUR AL PARAMILLO DEL QUINDIO
+
+Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero reservar con tiempo, el precio de este tour es de $700.000 Cop hasta  $1'700.000 Cop, dependiendo de las personas, si quieres realizar el tour con algunas de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
+
+
+__<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad al Paramillo del Quindio</a>__ 👈
+
+__EL TOUR INCLUYE:__ Transporte, desayuno, almuerzo, comida, hospedaje, guía, seguro medio, hidratación y entrada al parque de los nevados.
  
 ## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDÍO 🛣🚌?
 
@@ -90,36 +101,14 @@ De camino al Paramillo del Quindío encontraremos 2 fincas las cuales brindan ho
 
 ### FINCA LA ARGENTINA
  
-Esta es La primera finca que encontramos, esta finca no cuenta con zona de camping, ya gran parte de su terreno está en zona montañosa con mucho desnivel,  los servicios que encontraran aqui seran son siguientes:
- 
-* Habitación compartida 🛌: $25.0000 Pesos por persona.
-* Desayuno 🥟: $10.000 Pesos.
-* Almuerzo 🍛: $12.000 Pesos.
-* Servicio de arriería 🐴: máximo 3 maletas $100.000 (Valle del cocora- finca Argentina.
- 
-__Por favor confirmar disponibilidad, teléfono: <a href="tel:3164674802"> 3112433455</a> Fica la Argentina.__
- 
+Esta es La primera finca que encontramos, esta finca no cuenta con zona de camping, ya gran parte de su terreno está en zona montañosa con mucho desnivel.
+
 ### FINCA BUENOS AIRES
  
 Esta finca se encuentra a 1 kilómetro más arriba de la finca Argentina (casi todo el trayecto será en subida), lo bueno es que ya estarás 1 kilómetro más cerca para ir al Paramillo del Quindío.
  
-Esta finca cuenta con una muy buena zona de camping, los servicios que prestan son los siguientes:
- 
-* Zona de camping 🏕: $7.000 por persona.
-* Habitación compartida 🛌: $25.0000 por persona.  
-* Desayuno 🥟: $10.000 Pesos.
-* Almuerzo 🍛: $12.000 Pesos.
-* Servicio de arriería 🐴: para máximo 3 maletas $120.000 (Valle del cocora- finca Buenos Aires).
- 
-Este lugar no cuenta con muy buena señal así que tendrás que enviar un mensaje de texto o dejar un mensaje de voz para las fechas que quieres ir y esperar que te contesten.
- 
-__Por favor confirmar disponibilidad, teléfono: <a href="tel:3148393397"> 3112433455</a> Fica Buenos Aires.__
-
-_Si dices en alguna de estas fincas que viste la información en la pagina de rutas de los andes, te van a servir poco mas de café al llegar 😜_
- 
 Una vez instalados en nuestro hospedaje decidimos descansar un poco para madrugar al otro día a las 6 am para empezar nuestro camino al Paramillo del Quindío. 
 
- 
 ## DÍA 2
  
 Al siguiente nos levantamos con un clima muy frío y mucha lluvia así que nos pusimos toda nuestra ropa impermeable y empezamos la caminata, te recomendamos que lleves la ropa adecuada para estos climas ya que es muy probable que llueva, y no hay nada peor que hacer cumbre con ropa mojada.

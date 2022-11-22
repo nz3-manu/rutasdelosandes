@@ -54,11 +54,9 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## PRECIOS DEL TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
 
-El tour inicia a las 4 am desde Pereira, allí los recogerán en camioneta 4x4, y desayunarán desayuno cerca al hostal de la laguna del Otún a las 7:00 am, a las 8:30 se hace el ingreso al parque de los Nevados, despues de hacer el recorrido en el parque de los nevados se regresaría al hostal para almorzar.
+El tour inicia a las 4 am desde Pereira, allí los recogerán en camioneta 4x4, y desayunarán a las 7:30 am en un hostal cercano de la laguna del Otún, despues ingresarán al parque de los Nevados (8:30 am), para comenzar con el recorrido en el parque de los nevados y se regresaría al hostal para almorzar, para continuar el viaje a Pereira.
 
-Los __precios para el tour a la Laguna del Otún__ pueden variar desde $230.000 hasta $550.000, esto dependerá del numero de personas que vayan 
-
-También puedes consultar algunas fechas programadas, así que quizás te podrían incorporar en uno de esos  grupos y así te saldría más económico 😌.
+Los __precios para el tour a la Laguna del Otún__ pueden variar desde $230.000 hasta $550.000, esto dependerá del numero de personas que vayan, También puedes consultar algunas fechas programadas. Así te podrían incorporar en uno de esos  grupos y te saldría más económico el tour 😌.
 
 
 __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad para el Tour a la laguna del Otún</a>__ 👈
