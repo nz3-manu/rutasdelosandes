@@ -40,7 +40,7 @@ A continuación te mostramos un pequeño __video del Paramillo del Quindío__ , 
 
 ## TOUR AL PARAMILLO DEL QUINDIO
 
-Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero reservar con tiempo, el precio de este tour es de $700.000 Cop hasta  $1'700.000 Cop, dependiendo de las personas, si quieres realizar el tour con algunas de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
+Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero __reservar la excursion__ con tiempo, el precio de este tour es de $700.000 Cop hasta  $1'700.000 Cop, esto es dependiendo del numero personas, si quieres realizar el tour con alguna de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
 
 
 __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad al Paramillo del Quindio</a>__ 👈
@@ -54,7 +54,7 @@ Para ir al Paramillo del Quindío desde el Valle del Cocora (Salento)se puede re
 * Saliendo por el valle del Cocora hasta la finca Primavera.
 * Saliendo desde el Valle del Cocora hasta la finca Argentina o Buenos Aires. 
 
-En este post explicaremos como hacerlo por la finca la Argentina o desde la finca  Buenos Aires, que queda a 1 kilómetro más arriba de la finca la Argentina.
+En este post explicaremos como hacerlo por la finca la Argentina o desde la finca Buenos Aires, que queda a 1 kilómetro más arriba de la finca la Argentina.
 
 Lo primero que tuvimos que hacer fue llegar hasta Salento quindío, los horarios de buses son los siguientes.
 
@@ -147,7 +147,7 @@ Cualquiera de estos 2 caminos que tomemos nos llevará a la base del Paramillo d
 Después de salir de los frailejones empezamos a ver paisajes donde abundaba más las roca, 
 después de pasar un pequeño río con una cascada al fondo, ya empezábamos a ver un terreno un poco más arenoso. Era señal que venía el ascenso hasta cima.
 
-Desde la Base del Paramillo del Quindío hasta la cumbre son aproximadamente 2,25 kilómetros en promedio tardamos casi 2 horas para hacerlo hasta la cumbre, el terreno es complicado ya que algunos tramos pareciera que estuviéramos caminando sobre balastro.
+Desde la Base del __Paramillo del Quindío__ hasta la cumbre son aproximadamente 2,25 kilómetros en promedio tardamos casi 2 horas para hacerlo hasta la cumbre, el terreno es complicado ya que algunos tramos pareciera que estuviéramos caminando sobre balastro.
  
 {% include image.html, 
 file:"rutas/quindio/paramillo-quindio/base-paramillo.jpeg", 
@@ -157,7 +157,7 @@ height:"750" %}
 
 Después de hacer cumbre y estar por tiempo tomando fotos empezamos nuestro descenso a las 12 pm, en nuestro regreso nos encontramos con algunas personas de nuestro hospedaje que se habían perdido en el camino para subir al Paramillo del Quindio, así que nos regresamos junto con ellos a nuestro hospedaje, llegamos cerca de las 6 pm.
 
-__Recomendación final:__ así vayas con un guía no va de más tener tu gps con la ruta, si vas a ir solo con la ruta gps descargada en tu celular debes de tener en cuenta que si las condiciones climáticas no son muy buenas como neblina, lluvia etc.. (lo que es muy problema en este lugar) el Gps de tu celular podrá tener un ángulo de desfase de 100 metros.
+<ins> __Recomendación final:__ Si vas a ir solo con la ruta gps descargada en tu celular debes de tener en cuenta que si las condiciones climáticas no son muy buenas como neblina, lluvia etc.. (lo que es muy problema en este lugar) el Gps de tu celular podrá tener un ángulo de desfase de 100 metros.</ins>
  
 Regresando nos encontramos con varias personas que estaban siguiendo la ruta gps en el celular y se terminaron perdiendo ya que les mostraba el camino mucho más lejos de lo que realmente estaba.
  
@@ -177,11 +177,6 @@ height:"200" %}
 
 Nos levantamos a las 7:30 am y comenzamos el descenso a las 8:30 y llegamos al valle del Cocora a la 1 pm.
  
-## ¿CÓMO REGRESAR DEL PARAMILLO DEL QUINDÍO 🚌🏡?
- 
-Por último, si no cuentas con transporte recuerda tener presente los horarios de salida de los últimos jeep del valle del cocora, los fines de semana el último sale a las 6:30 pm, estos horarios pueden haber cambiado así que es mejor que los verifiques.
- 
-No olvides dejar nada en el páramo como: bolsas, plástico etc..
 
 Este es el fin de la ruta al Paramillo del Quindío, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
