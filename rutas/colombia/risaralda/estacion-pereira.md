@@ -46,7 +46,7 @@ __Recomendación:__ Solo se recomienda para vehículos todo terreno ya que la ca
 
 __Transporte en “marranitas”__ 🛵
 Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita”. 
-La "marranita" es un medio de transporte que consiste en una moto que va por las antiguas vías del tren impulsando una plataforma de madera en las cuales van sentando las personas, Este medio de transporte es muy común entre los pobladores ya que es una forma rápida para transportarse, el costo es de $8.000 pesos para 6 personas, el viaje dura aproximadamente 15 minutos, después pasamos a tomar la “garucha”😃.
+La "marranita" es un medio de transporte que consiste en una moto que va por las antiguas vías del tren impulsando una plataforma de madera en las cuales van sentando las personas, Este medio de transporte es muy común entre los pobladores ya que es una forma rápida para transportarse, el viaje dura aproximadamente 15 minutos, después pasamos a tomar la “garucha”😃.
 
 
 {% include image.html,
