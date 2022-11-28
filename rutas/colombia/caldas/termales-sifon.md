@@ -3,7 +3,7 @@ layout: trail
 title:  Termales del Sifón
 categories: colombia
 seo_title: ▷ Termales del Sifón
-excerpt: Información para ayudarte a visitar un lugar oculto en cerca a Manizales, termales del Sifón
+excerpt: Información para ayudarte a visitar un lugar oculto en cerca a Manizales, termales del Sifón, una ruta para hacer senderismo cerca de Manizales
 images_url: /images/rutas/caldas/sifon
 viewranger:
 author: manuel
@@ -12,31 +12,52 @@ trending: true
 
 # TERMALES DEL SIFÓN
 
-Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔.
+Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔, este es sin duda un lugar para visitar si estas viajando y no sabes __que hacer en Manizales__.
 
-👉 __<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar?  puedes escribirnos  </a>__
-
-
-En este post te contaremos cómo fue nuestra experiencia en este mágico lugar. A lo largo de este post te sugeriremos algunas recomendaciones para que al visitar este lugar no cometas los mismos errores que cometen muchos viajeros.
  
-Lo primero que debes de saber es que, si no cuentas con moto o carro adecuado para esta clase de trayectos, será un poco difícil llegar hasta estos termales, ya que en algunos tramos la carretera no se encuentra en muy buen estado y debido a las condiciones climáticas de la zona se puede poner peor.
- 
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+
+* <a href="#video-sifon"> Video ruta a Termales del Sifon</a> 
+* <a href="#tour-sifon"> Tours a los termales del Sifon</a>    
+* <a href="#llegar-Sifon"> Cómo llegar a los termales del Sifon </a> 
+* <a href="#recomendaciones-sifon"> Recomendaciones para visitar los Termales del Sifon</a>  
+
+
 Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/termales-sifon.html">See this post in English version 🇺🇸</a>]__
- 
- 
-## ¿QUÉ ENCONTRARÁS EN LOS TERMALES DEL SIFÓN?
+
+<a name="video-sifon" id="video-sifon"></a> 
+
+## VIDEO RUTA A LOS TERMALES DEL SIFÓN
 {% include youtube.html,
    videoid:"XNb0ewa0i2I",
    width:"480",
    height:"270",
-   caption:"Termales Sifon"
+   caption:"Video ruta a los Termales del Sifon"
 %}
+
+<a name="tour-sifon" id="tour-sifon"></a> 
+
+## TOUR A LOS TERMALES DEL SIFÓN
+
+Los __precios para el tour a la los termales del Sifón__ pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales.
+
+__El Tour a los termales del Sifon incluye:__
+* Transporte desde Manizales carro 4X4 🚌
+* Desayuno 🥨
+* Almuerzo 🍝
+* Entrada a los Termales del Sifon
+* Guianza 👨
+* Seguro de asistencia médica 🫶
+
+👉 __<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar?  puedes escribirnos  </a>__
+
+<a name="llegar-Sifon" id="llegar-Sifon"></a> 
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN ?
  
-Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar, lugar que habíamos visto en algunos blog de viajes y teníamos muchos deseos de conocerlo. 
+Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar. 
 
 <ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._ </ins>
  
@@ -67,9 +88,6 @@ width:"480",
 height:"200" %}
 </a>
 
- 
-## RUTA A LOS TERMALES DEL SIFÓN
-
 Desde la pequeña tienda 🏬 hasta los termales hay aproximadamente 1 kilómetro, el cual es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
  
 {% include image.html,
@@ -81,11 +99,10 @@ height:"533"
 
 Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. A medida que disfrutábamos de las aguas termales esto nos hacia desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos en estas aguas mágicas. Después de habernos desconectado del estrés de la  un relajante baño en estas aguas termales emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
 
-## TOUR A LOS TERMALES DEL SIFÓN
+<a name="recomendaciones-sifon" id="recomendaciones-sifon"></a> 
 
-Los __precios para el tour a la los termales del Sifón__ pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales.
+## RECOMENDACIONES PARA VISITAR LOS TERMALES DEL SIFON
 
-__RECOMENDACIONES:__ 
 * Lleven tenis para caminar por el río, ya que algunas piedras son muy filosas.
 * En los termales no hay baños ni nada por el estilo, si necesitarán usar un baño, tendrán que ir de nuevo a la casa donde se pagó la entrada (tienda).
 * Los vehículos que van a este lugar en su mayoría son 4x4, vimos algunos automóviles pero sufren mucho por este terreno y más si llevan todo el cupo completo.
