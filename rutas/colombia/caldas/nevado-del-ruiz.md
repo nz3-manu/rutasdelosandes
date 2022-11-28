@@ -107,7 +107,6 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotogr
  
  
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
- 
 
 
 {% include image.html,
@@ -165,8 +164,6 @@ __Importante:__ el Nevado del Ruiz se encuentra en alerta amarilla, por lo que s
 %}
 
 </a>
-
-
 
  
 El ingreso al recorrido hasta la zona permitida del Nevado del Ruiz  es desde las 8 am hasta las 2 pm. Se recomienda realizar el ingreso temprano, puesto que se debe que asistir a una charla que dura alrededor de 30 minutos.
