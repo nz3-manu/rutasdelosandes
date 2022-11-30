@@ -12,7 +12,7 @@ trending: true
  
 # DESIERTO DE LA TATACOA
  
-En este post encontrarás toda la información que necesitas saber para viajar al desierto de la Tatacoa.
+En este post encontrarás toda la información que necesitas saber para viajar al __desierto de la Tatacoa__.
  
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
@@ -60,7 +60,7 @@ width:"480",
 height:"200" %}
 </a>
  
-Una vez en Neiva tuvimos que tomar un bus con destino al pueblo de Villavieja, la duración del trayecto es de 90 minutos, el valor del pasaje es de $7.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
+Una vez en Neiva (huila) tuvimos que tomar un bus con destino al pueblo de __Villavieja en el huila__, la duración del trayecto es de 90 minutos, el valor del pasaje es de $9.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
  
 __Te  mostramos el mapa del recorrido de Neiva a Villavieja por si vas en moto o carro:__
 {% include iframe.html,
@@ -69,7 +69,7 @@ __Te  mostramos el mapa del recorrido de Neiva a Villavieja por si vas en moto o
    caption:"Mapa de Neiva a Villavieja"
 %}
  
-Una vez en Villavieja aprovechamos para visitar el __museo paleontológico 🏛__,  los horarios de funcionamiento son de lunes a domingo de: 8am a 12:00 pm y 2:00 pm a 6:00 pm. Valor de la entrada es $3.000 pesos.
+Una vez en __Villavieja__ aprovechamos para visitar el museo paleontológico 🏛,  los horarios de funcionamiento son de lunes a domingo de: 8am a 12:00 pm y 2:00 pm a 6:00 pm. Valor de la entrada es $3.000 pesos.
  
  
 Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
@@ -84,7 +84,6 @@ height:"200" %}
  
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
  
-
  
 ## RUTA AL DESIERTO DE LA TATACOA 
  
@@ -97,7 +96,7 @@ Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los
 %}
  
 ### DÍA #1
-Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demoró mas o menos 30 minutos. Esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la piscina natural en medio del desierto 🏜🏊🏼.
+Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demoró mas o menos 30 minutos. Esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la __piscina natural en medio del desierto 🏜🏊🏼__.
  
 No hay nada mejor que refrescarse en una piscina en un día soleado ☀️.
 El valor de la entrada es aproximadamente $5.000 pesos.
@@ -140,6 +139,7 @@ __Por favor confirmar disponibilidad, teléfono:<a href="tel:3133055898"> 313305
 Si quieres algo con mucha más comodidad y tranquilidad te tenemos la siguiente opción.
  
 ### Hotel Sueño Real Tatacoa
+
 Están ubicados a 7 minutos en moto o carro del desierto de la Tatacoa.
  
 Este hotel cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina para niños y para adultos,  veamos algunos precios que se manejan allí:
@@ -170,7 +170,7 @@ __Todos los precios mencionados anteriormente pueden variar en temporada alta.__
    caption:"Región del desierto de la Tatacoa rojizo “Cuzco”"
 %}
  
-Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más  refrescante para quitar la sed que tomar  __“jugo de cactus🍹😋”__; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
+Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
  
 Este es el final de esta aventura cabe aclarar que los precios mencionados anteriormente pueden variar, pero sabemos que estos te darán una idea de cuánto te saldrá visitar este lugar.
  
