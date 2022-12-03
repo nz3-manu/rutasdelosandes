@@ -27,7 +27,7 @@ __EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a> 
 * <a href="#lugares-norcasia"> Lugares turisticos en Norcasia</a> 
 
-<a name="dato-laguna" id="dato-laguna"></a> 
+<a name="dato-norcasia" id="dato-norcasia"></a> 
 
 
 ## DATOS CURIOSOS SOBRE NORCASIA  
