@@ -17,7 +17,8 @@ En este post te contaremos cómo fue nuestra experiencia al conocer __la pirámi
 __EN ESTE POST DE CERRO TUSA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 * <a href="#dato-cerro-tusa"> Datos curioso de Cerro Tusa</a> 
-* <a href="#video-cerro-tusa"> Video de de ruta a Cerro Tusa</a> 
+* <a href="#tour-cerro-tusa"> Tour a Cerro Tusa</a> 
+* <a href="#video-cerro-tusa"> Video de ruta a Cerro Tusa</a> 
 * <a href="#llegar-cerro-tusa"> ¿Cómo llegar a Cerro Tusa?  </a> 
 * <a href="#lugares-cerro-tusa">  Ascenso a Cerro Tusa.</a> 
 
@@ -31,8 +32,6 @@ Empecemos con la aventura ⛰.
 Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la __pirámide natural más alta del mundo__ con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo 🪞, la cual produce destellos a causa de la refracción de los rayos solares.
  
 En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
-
-__<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quieres realizar expedición con un guía local puedes dar clic aquí.</a>__ 
  
  <a name="video-cerro-tusa" id="video-cerro-tusa"></a> 
 
@@ -45,6 +44,23 @@ __<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quie
    caption:"Caminata a Cerro Tusa"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+<a name="tour-cerro-tusa" id="tour-cerro-tusa"></a> 
+
+## TOUR A CERRO TUSA
+
+En Venecia encontrarás varios guías locales, lo que te recomendamos es que contrates previamente el guía ya que es difícil encontrar guías el mismo día.
+
+El valor del tour podría costar entre $55.000 Cop a $140.000 Cop, esto depende del numero de personas que vayan.
+
+__El tour a Cerro Tusa incluye:__
+* 🚗 Transporte de Venecia a Cerro Tusa
+* 🚗 Transporte de Cerro Tusa a Venecia
+* 👨 Guía local
+* 🫶 Seguro de asistencia médica
+
+
+__<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quieres realizar expedición con un guía local puedes dar clic aquí.</a>__ 
  
 <a name="llegar-cerro-tusa" id="llegar-cerro-tusa"></a> 
 

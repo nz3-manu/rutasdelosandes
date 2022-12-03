@@ -44,12 +44,12 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas
 Los __precios para el tour a la los termales del Sifón__ pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales.
 
 __El Tour a los termales del Sifon incluye:__
-* Transporte desde Manizales carro 4X4 🚌
-* Desayuno 🥨
-* Almuerzo 🍝
-* Entrada a los Termales del Sifon
-* Guianza 👨
-* Seguro de asistencia médica 🫶
+* 🚌 Transporte desde Manizales carro 4X4 
+* 🥨 Desayuno 
+* 🍝 Almuerzo 
+* 🎫 Entrada a los Termales del Sifon
+* 👨 Guianza 
+* 🫶 Seguro de asistencia médica 
 
 👉 __<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar?  puedes escribirnos  </a>__
 
