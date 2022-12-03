@@ -41,8 +41,9 @@ En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los in
    videoid:"VtuzI8j-dgk",
    width:"480",
    height:"270",
-   caption:"Caminata a Cerro Tusa"
+   caption:"Video de Cerro Tusa"
 %}
+
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 <a name="tour-cerro-tusa" id="tour-cerro-tusa"></a> 
