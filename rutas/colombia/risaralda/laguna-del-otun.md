@@ -92,11 +92,11 @@ Si llegaste muy tarde para empezar el camino hacia la Laguna del Otún o quieres
 Este hospedaje se encuentra a 8 minutos (caminando) de la entrada al Parque de los nevados. Muchas personas suelen hospedarse aquí cuando van para el nevado Santa Isabel. 
 
 __LOS SERVICIOS QUE PRESTAN EN ESTE LUGAR SON LOS SIGUIENTES:__
-* Hospedaje 🛏: $40.000 pesos (por noche). 
-* Desayunos 🥟: $10.000 pesos.
-* Almuerzos 🍛:  $15.000 pesos.
-* Parqueadero moto 🏍: $8.000 pesos por dia.
-* Parqueadero carro 🚙: $15.000 pesos por dia.
+
+* 🛏 Hospedaje: $40.000 pesos (por noche). 
+* 🥟 Desayunos: $10.000 pesos.
+* 🍛 Almuerzos:  $15.000 pesos.
+
 
 Al momento de llegar a la entrada de potosí del parque los Nevados tendremos que cancelar el valor de ingreso y un seguro de asistencia médico y de rescate.
 

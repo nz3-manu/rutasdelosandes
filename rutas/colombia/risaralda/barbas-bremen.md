@@ -14,21 +14,34 @@ trending: true
 
 La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda). 
 
-__<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes escribirnos  </a>__
+
+Entre los atractivos de la reserva está la gran biodiversidad de aves lo que  favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
+
+__EN ESTE POST DE LA RESERBA BARBAS BREMEN ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+
+* <a href="#dato-barbas-bremen"> Datos curioso de la reserva Barbas Bremen</a> 
+* <a href="#video-barbas-bremen"> Video de la ruta a la reserva Barbas Bremen </a> 
+* <a href="#tour-barbas-bremen"> Tours a la reserva Barbas Bremen </a> 
+* <a href="#llegar-barbas-bremen"> ¿Cómo llegar a la reserva Barbas Bremen  </a> 
+* <a href="#recomendaciones-barbas-bremen"> Recomendaciones finales para visitar la reserva Barbas Bremen</a> 
 
 
-Entre los atractivos de la reserva está la gran biodiversidad de aves lo que  favorece el avistamiento, tambien se pueden observar manadas de monos aulladores 🐒🐒, cuyos aullidos se escuchan a kilómetros de distancia.
+
+Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]__
 
+<a name="dato-barbas-bremen" id="dato-barbas-bremen"></a> 
+
 ## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
 
-El nombre del “Río Barbas” tiene una historia muy particular que cuentan los abuelos; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama Río Barbas.”
+El nombre del “Río Barbas” tiene una historia muy particular que cuentan los abuelos 👴; “un día Don Abraham se internó en el bosque en busca de una vaca pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama Río Barbas.”
 
+<a name="video-barbas-bremen" id="video-barbas-bremen"></a> 
 
 ## VIDEO DE LA RUTA A LA RESERVA BARBAS BREMEN
 
-A continuación te mostramos un pequeño __video de la reserva Barbas Bremen__ te mostraremos como fue nuestro reorrido en esta ruta de senderismo en el Eje Cafetero.
+A continuación te mostramos un pequeño  video de la reserva Barbas Bremen te mostraremos como fue nuestro reorrido en esta __ruta de senderismo en el Eje Cafetero.__
 
 {% include youtube.html,
     videoid:"1anGUPtjsMs",
@@ -37,11 +50,38 @@ A continuación te mostramos un pequeño __video de la reserva Barbas Bremen__ t
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+
+<a name="tour-barbas-bremen" id="tour-barbas-bremen"></a> 
+
+## TOUR A LA RESERVA BARBAS BREMEN
+
+### Tour al Barbas Bremen desde Pereira
+
+La ruta que documentamos es por pereira, si lo quisieras hacer tal y como lo hicimos tendrías que llegar hasta la entrada de la reserva y allí te estaría esperando uno los guías locales, __el valor del tour por personas es de $70.000 Cop por persona, para minimo 4 personas.__
+
+__El tour incluye:__
+* 👨 Guianza
+* 🫶 Seguro de asistencia medica
+
+
+## Tour al Bremen desde Filandia
+
+Este tour comienza desde Filandia-Quindío, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, __el precio del tour por persona es de $80.000 Cop.__
+
+__El valor del tour incluye:__
+* 🚙 Transporte
+* 👨 Guía
+* 🫶 Seguro de asistencia médica
+
+__Para reservar el tour se debe de pagar el 100% de el valor de este como mínimo 2 días antes,__ __<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> puedes reservar el tour dando clic aquí </a>__
+
+<a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a> 
+
 ## ¿CÓMO LLEGAR A LA RESERVA BARBAS BREMEN ?
 
 Para llegar a la reserva Barbas Bremen, se pueden tomar diferentes rutas, pero las que nos pareció más llamativa es la que habitualmente se hace desde la ciudad de Pereira.
 
-Para realizar este recorrido hasta la reserva Barbar Bremen, tomamos el bus 🚌 de las 6:00 AM, con destino hacia Yarumal, el cual pasa al frente del Centro Comercial Victoria (carrera 12), hay que aclarar que el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. Una vez llegamos a Yarumal vimos la entrada del Sendero Yarumal, lugar donde empieza la caminata y también donde nos estaba esperando el guía que habéamos contratado previamente.
+Para realizar este __recorrido hasta la reserva Barbar Bremen__, tomamos el bus 🚌 de las 6:00 AM, con destino hacia Yarumal, el cual pasa al frente del Centro Comercial Victoria (carrera 12), hay que aclarar que el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. Una vez llegamos a Yarumal vimos la entrada del Sendero Yarumal, lugar donde empieza la caminata y también donde nos estaba esperando el guía que habéamos contratado previamente.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -57,7 +97,9 @@ Una vez sugerido esto, empezamos a hacer el recorrido por el sendero 😎 (El se
 
 ## RUTA EN LA RESERVA BARBAS BREMEN 🚶🏼
 
-Al aventurarnos por sendero, cada vez se escuchaba más los sonidos de la naturaleza, se podía respirar aire puro, fue tanta nuestra sorpresa en el recorrido, que un sonido en particular llamó nuestra atención, cada vez que avanzábamos más su sonido sonido se hacia cada vez más fuerte, llegó a tal punto de opacar todos los demás sonidos del bosque, dicho sonido nos alcanzo a inquietar un poco; hasta que alguien notó que el sonido provenía de las copas de unos cuantos arboles, nuestra sorpresa fue, que se trataba de los monos aulladores 📸🐒, e inmediatamente ante el asombro sacamos nuestros celular para grabarlos.
+Al aventurarnos por sendero, cada vez se escuchaba más los sonidos de la naturaleza, se podía respirar aire puro 🍃, fue tanta nuestra sorpresa en el recorrido, que un sonido en particular llamó nuestra atención, cada vez que avanzábamos más su sonido sonido se hacia cada vez más fuerte, llegó a tal punto de opacar todos los demás sonidos del bosque.
+
+Dicho sonido nos alcanzo a inquietar un poco; hasta que alguien notó que el sonido provenía de las copas de unos cuantos arboles, nuestra sorpresa fue, que se trataba de los monos aulladores 🐒, e inmediatamente ante el asombro sacamos nuestros celular para grabarlos.
 
 {% include image.html,
   file:"rutas/risaralda/barbasBremen/featured.jpg",
@@ -87,10 +129,15 @@ width:"480",
 height:"200" %}
 </a>
 
+<a name="recomendaciones-barbas-bremen" id="recomendaciones-barbas-bremen"></a> 
 
-__RECOMENDACIONES:__ 
+## RECOMENDACIONES FINALES PARA VISITAR LA RESERVA BARBAS BREMEN
+
+* Los monos aulladores algunas veces pueden tornarse agresivos y te harán pasar un mal momento, así que te recomendamos ir con un guía ya que ellos están capacitados para controlar estas situaciones.
+* Los mosquitos podrían contagiarte de algunas enfermedades que tengan los monos, así que se recomienda ir con camiseta manga larga y leggins.
 * El Rió Barbas se caracteriza por ser impredecible, así que se recomienda no estar en el cuando esta lloviendo.
 * Algunos puntos cuentan con casetas hechas en guadua donde podremos comer, por favor NO dejar basuras en estos sitios.
+
 
 
 Este es el fin de la ruta a Barbas Bremen, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
