@@ -3,7 +3,7 @@ layout: trail
 title:  Reserva Natural Barbas Bremen
 categories: colombia
 seo_title: Reserva Barbas Bremen en Pereira Risaralda.
-excerpt: La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia y Salento (Quindío) y Pereira (Risaralda). Cuenta con avistamiento de aves, que es una de las mayores actividades, se pueden observar manadas de monos aulladores, cuyos aullidos se escuchan a kilómetros de distancia.Duración del trayecto 1 día.
+excerpt: La reserva Barbas Bremen es sin duda una ruta para hacer Senderismo en el Eje cafetero, ya que se encuentra cerca de Pereira y Filandia, es un lugar natural para caminar con tu familia.
 images_url : /images/rutas/risaralda/barbasBremen
 viewranger: MTYzNjQxOQ==
 author: manuel
@@ -57,7 +57,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ### Tour al Barbas Bremen desde Pereira
 
-La ruta que documentamos es por pereira, si lo quisieras hacer tal y como lo hicimos tendrías que llegar hasta la entrada de la reserva y allí te estaría esperando uno los guías locales, __el valor del tour por personas es de $70.000 Cop por persona, para minimo 4 personas.__
+La ruta que documentamos es por pereira, si lo quisieras hacer tal y como lo hicimos tendrías que llegar hasta la entrada de la reserva y allí te estaría esperando uno los guías locales, el __valor del tour es de $70.000 Cop por persona, para minimo 3 personas.__
 
 __El tour incluye:__
 * 👨 Guianza
@@ -66,7 +66,7 @@ __El tour incluye:__
 
 ## Tour al Bremen desde Filandia
 
-Este tour comienza desde Filandia-Quindío, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, __el precio del tour por persona es de $80.000 Cop.__
+Este tour comienza desde Filandia-Quindío, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, __el precio del tour es de $80.000 Cop por persona.__
 
 __El valor del tour incluye:__
 * 🚙 Transporte
