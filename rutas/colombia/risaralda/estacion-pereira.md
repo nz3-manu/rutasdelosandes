@@ -12,16 +12,21 @@ trending: true
 
 # ESTACIÓN PEREIRA
 
-Estación  Pereira es sin duda un __lugar para hacer senderismo cerca de Pereira,__ este lugar es una  vereda que pertenece al municipio de Marsella Risaralda. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
+Estación  Pereira es sin duda un __lugar para hacer senderismo cerca de Pereira,__ Para llegar a estación Pereira se tendrá que tomar;  Jeep, marranita o como también es llamado brujita y por último cruzar el rió Cauca en garrucha, si no sabes a qué medios de transporte me refiero te invito a seguir leyendo, ya que los explicaremos más adelante.
 
-__Para llegar a estación Pereira se tendrá que tomar;__ Jeep, marranita o como también es llamado brujita y por último cruzar el rió Cauca en garrucha, si no sabes a qué medios de transporte me refiero te invito a seguir leyendo, ya que los explicaremos más adelante.
+__EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-__<a href="https://forms.gle/aJKBXTwcWSce8KdH7" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
+* <a href="#video-estacion-pereira"> Video ruta a Estación Pereira</a> 
+* <a href="#tour-estacion-pereira"> Tour a Estación Pereira </a> 
+* <a href="#llegar-estacion-pereira"> ¿Cómo llegar a  Estación Pereira?  </a> 
+* <a href="#ruta-estacion-pereira"> Ruta a Estación Pereira </a> 
+
 
 Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/pereira-station.html"> See this post in english version 🇺🇸</a>]__
 
+<a name="video-estacion-pereira" id="video-estacion-pereira"></a> 
 
 ## VIDEO RUTA A ESTACIÓN PEREIRA
 
@@ -34,22 +39,29 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risara
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+<a name="tour-estacion-pereira" id="tour-estacion-pereira"></a> 
+
 ## TOUR A ESTACIÓN PEREIRA
 
 El valor del __tour a estación Pereira__ es en promedio de $60.000 Cop a $130.000 Cop, este valor depende del número  de personas que vayan. 
 
 __El tour a estación Pereira incluye:__
-* Transporte desde pereira 🚌
-* Transporte en marranita y garrucha 🛵
-* Snacks 🥨
-* Almuerzo 🍝
-* Seguro de asistencia médica 🫶
-* Guianza 👨
+* 🚌 Transporte desde pereira 
+* 🛵 Transporte en marranita y garrucha 
+* 🥨 Snacks 
+* 🍝 Almuerzo 
+* 🫶 Seguro de asistencia médica 
+* 👨 Guianza
 
+__<a href="https://forms.gle/aJKBXTwcWSce8KdH7" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
+
+<a name="llegar-estacion-pereira" id="llegar-estacion-pereira"></a> 
 
 ## ¿CÓMO LLEGAR A ESTACIÓN PEREIRA 🛣? 
 
-Lo primero que tuvimos que hacer fue llegar al centro comercial victoria (ubicado en el centro de Pereira),  allí nos recogió el jeep, este tardo 1 hora y 30 minutos para llegar a __Estación Pereira__.
+Estación Pereira esta ubicado en el municipio de Marsella. Es la vereda más apartada de este municipio, se encuentra a 40 kms aproximadamente de la cabecera municipal.
+
+A las 8 am nos recogió el carro el cual nos iba a realizar el tour a Estación Pereira, este tardo aproximadamente 1 hora y 30 minutos para llegar a __Estación Pereira__.
 
 Una vez llegamos a estación Pereira tomamos nuestro segundo transporte.
 
@@ -84,6 +96,8 @@ __Cruzar el río cauca en "garrucha" 🚡:__ La “garrucha” es un medio de tr
    width:"800",
    height:"450"
 %} 
+
+<a name="ruta-estacion-pereira" id="ruta-estacion-pereira"></a> 
 
 ## RUTA A ESTACIÓN PEREIRA 🚶🏽🐕.
 
