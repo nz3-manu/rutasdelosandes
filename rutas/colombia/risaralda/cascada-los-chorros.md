@@ -44,7 +44,7 @@ Esta sale en los siguientes horarios: lunes a viernes 9 am, 12 pm y 3 pm, sábad
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad-post/ropa-randes.gif",
+file:"publicidad-post/chaqueta-randes.jpg",
 caption:"",
 width:"480",
 height:"200" %}

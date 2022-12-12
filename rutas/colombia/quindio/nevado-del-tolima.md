@@ -111,7 +111,7 @@ En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Ad
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/chaqueta-randes.jpg", 
 caption:"", 
 width:"480", 
 height:"200" %}

@@ -80,7 +80,7 @@ Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco
  
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/chaqueta-randes.jpg", 
 caption:"Banner ropa", 
 width:"480", 
 height:"200" %}

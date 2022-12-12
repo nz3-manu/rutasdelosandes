@@ -120,7 +120,7 @@ Como dato curioso a pesar de que llevábamos un Garmin,  en algunos tramos prese
  
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad-post/ropa-randes.gif",
+file:"publicidad-post/chaqueta-randes.jpg",
 caption:"",
 width:"480",
 height:"200" %}

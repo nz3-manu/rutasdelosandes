@@ -73,7 +73,7 @@ __Recomendación:__ El Parque Tayrona abre sus puertas a partir de las 8:00 am h
  
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad-post/ropa-randes.gif",
+file:"publicidad-post/chaqueta-randes.jpg",
 caption:"",
 width:"480",
 height:"200" %}

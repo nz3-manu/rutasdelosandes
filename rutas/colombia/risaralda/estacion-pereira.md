@@ -68,7 +68,7 @@ Una vez llegamos a estación Pereira tomamos nuestro segundo transporte.
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 
 {% include image.html,
- file:"rutas/publicidad/chaqueta-randes.jpg",
+ file:"publicidad-post/chaqueta-randes.jpg",
  caption:"Chaqueta",
  width:"480",
  height:"200"

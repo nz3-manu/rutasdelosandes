@@ -19,7 +19,7 @@ El término trekking es de origen sudafricano, y hace referencia a un viaje larg
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad-post/ropa-randes.gif",
+file:"publicidad-post/chaqueta-randes.jpg",
 caption:"",
 width:"480",
 height:"200" %}
