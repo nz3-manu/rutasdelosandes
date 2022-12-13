@@ -1,36 +1,40 @@
 ---
 layout: trail
-title:  Desierto de la Tatacoa
+title: Desierto de la Tatacoa
 categories: colombia
 seo_title: Guía completa para ir al Desierto de la Tatacoa.
 excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.
-images_url : /images/rutas/huila/desiertoTatacoa
+images_url: /images/rutas/huila/desiertoTatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
+<<<<<<< HEAD
+=======
+trending: true
+>>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
 ---
- 
+
 # DESIERTO DE LA TATACOA
- 
-En este post encontrarás toda la información que necesitas saber para viajar al __desierto de la Tatacoa__.
- 
+
+En este post encontrarás toda la información que necesitas saber para viajar al **desierto de la Tatacoa**.
+
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
- 
-__<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>__ 
- 
+
+**<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>**
+
 Empecemos con la aventura ⛰.
- 
+
 ## DATO CURIOSO DEL DESIERTO DE LA TATACOA
 
 El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
- 
+
 ## COSAS QUE NO TE PUEDES PERDER EN EL DESIERTO DE LA TATACOA
 
-* Piscina en medio del desierto de la Tatacoa.
-* Observatorio Astronómico.
-* Caminata en el desierto de la Tatacoa.
-* Beber jugo de cactus.
- 
+- Piscina en medio del desierto de la Tatacoa.
+- Observatorio Astronómico.
+- Caminata en el desierto de la Tatacoa.
+- Beber jugo de cactus.
+
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %}
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %}
@@ -42,18 +46,18 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 ## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA ?
 
 Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
- 
-Si piensas ir en  bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
- 
-* __Bogotá hasta Neiva:__ El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
- 
-* __Medellín hasta Neiva:__ El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas.
- 
-* __Cali hasta Neiva:__ El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de  10 horas.
+
+Si piensas ir en bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
+
+- **Bogotá hasta Neiva:** El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
+
+- **Medellín hasta Neiva:** El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas.
+
+- **Cali hasta Neiva:** El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de 10 horas.
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
+file:"publicidad/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -75,7 +79,7 @@ Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesite
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad/ropa-randes.gif", 
 caption:"banner-ropa", 
 width:"480", 
 height:"200" %}
@@ -140,16 +144,15 @@ Si quieres algo con mucha más comodidad y tranquilidad te tenemos la siguiente 
 ### Hotel Sueño Real Tatacoa
 
 Están ubicados a 7 minutos en moto o carro del desierto de la Tatacoa.
- 
-Este hotel cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina para niños y para adultos,  veamos algunos precios que se manejan allí:
- 
-* Habitación privada para 2 personas con aire acondicionado, baño privado, televisión y desayuno incluido por $130.000 pesos.
- 
-__Por favor confirmar disponibilidad, teléfono:<a href="tel:3202634216"> 3202634216</a> hostal Sueño Real Tatacoa .__
- 
-Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $10.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm  hasta las 9pm.
- 
- 
+
+Este hotel cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina para niños y para adultos, veamos algunos precios que se manejan allí:
+
+- Habitación privada para 2 personas con aire acondicionado, baño privado, televisión y desayuno incluido por $130.000 pesos.
+
+**Por favor confirmar disponibilidad, teléfono:<a href="tel:3202634216"> 3202634216</a> hostal Sueño Real Tatacoa .**
+
+Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $10.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm hasta las 9pm.
+
 {% include image.html,
    file:"rutas/huila/desiertoTatacoa/Observatorio.jpg",
    height:"900",
@@ -158,37 +161,26 @@ Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronóm
 %}
 
 ### DÍA #2
+
 Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $7.000 pesos. También alquilan caballos 🐴, valor 1 hora por $15.000 pesos.
- 
-__Todos los precios mencionados anteriormente pueden variar en temporada alta.__
- 
+
+**Todos los precios mencionados anteriormente pueden variar en temporada alta.**
+
 {% include image.html,
    file:"rutas/huila/desiertoTatacoa/cuzco.jpg",
    height:"555",
    width:"740",
    caption:"Región del desierto de la Tatacoa rojizo “Cuzco”"
 %}
- 
-Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del  Observatorio Astronómico 🔭, aquí podrán  aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
- 
-Este es el final de esta aventura cabe aclarar que los precios mencionados anteriormente pueden variar, pero sabemos que estos te darán una idea de cuánto te saldrá visitar este lugar.
- 
-Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
- 
-## ¿CÓMO REGRESAR DEL DESIERTO DE LA TATACOA ?
-Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌  hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
- 
-Este es el fin de la ruta al desierto de la Tatacoa, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
+Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
+
+Este es el final de esta aventura cabe aclarar que los precios mencionados anteriormente pueden variar, pero sabemos que estos te darán una idea de cuánto te saldrá visitar este lugar.
+
+Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
+
+## ¿CÓMO REGRESAR DEL DESIERTO DE LA TATACOA ?
+
+Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌 hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
+
+Este es el fin de la ruta al desierto de la Tatacoa, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

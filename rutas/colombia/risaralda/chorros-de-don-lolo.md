@@ -10,33 +10,34 @@ viewranger: MTY2NDcwMQ==
 author: manuel
 ---
 
-# LOS CHORROS DE DON LOLO 
+# LOS CHORROS DE DON LOLO
 
-En este post encontrarás toda la información que necesitas saber para conocer los Chorros De Don Lolo. 
+En este post encontrarás toda la información que necesitas saber para conocer los Chorros De Don Lolo.
 
-## DATO CURIOSO DE LOS CHORROS DE DON LOLO 
+## DATO CURIOSO DE LOS CHORROS DE DON LOLO
+
 Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia termales de San Vicente. Están ubicados en una zona boscosa donde se aprecia la belleza de la naturaleza y la inmensidad de esta cascada, que sobresale por encima de los árboles, haciéndolos ver diminutos.
- 
+
 A cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, hasta tal punto de solo escuchar el sonido del agua que cae al abismo mientras se convierte en pequeñas partículas que se asemejan a pequeñas nubes, para luego caer en los alrededores, convirtiéndose en tenue brisa.
- 
+
 ## ¿QUÉ ENCONTRARÁS EN LOS CHORROS DE DON LOLO 🏞?
- 
+
 {% include youtube.html,
    videoid:"-dT3Vu_U5i4",
     width:"480",
     height:"270",
    caption:"Como llegar a los Chorro de don lolo"
 %}
- 
+
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
- 
+
 ## ¿CÓMO LLEGAR A LOS CHORROS DE DON LOLO ?
- 
+
 Desde El terminal de Pereira tomamos el bus 🚌 hasta el municipio de Santa Rosa, el cual sale desde las 4:30 am con una frecuencia de 15 minutos. El valor del pasaje es de \$2.300 pesos. La duración del trayecto es de 40 minutos aproximadamente.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
+file:"publicidad/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -56,7 +57,7 @@ El jeep nos dejó en el “Restaurante-Mirador Don Lolo”, a partir de aquí de
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -119,3 +120,4 @@ Este es el fin de la ruta a los Chorros de Don Lolo, **no te olvides de seguirno
    </section>
  </amp-accordion>
 <span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
+
