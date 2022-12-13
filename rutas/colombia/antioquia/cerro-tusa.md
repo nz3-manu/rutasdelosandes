@@ -52,7 +52,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 En Venecia encontrarás varios guías locales, lo que te recomendamos es que contrates previamente el guía ya que es difícil encontrar guías el mismo día.
 
-El valor del tour podría costar entre $55.000 Cop a $140.000 Cop, esto depende del numero de personas que vayan.
+El valor del __tour podría costar entre $55.000 Cop a $140.000 Cop__, esto depende del numero de personas que vayan.
 
 __El tour a Cerro Tusa incluye:__
 * 🚗 Transporte de Venecia a Cerro Tusa
@@ -105,12 +105,12 @@ Desde el comienzo del sendero hasta la __cima de Cerro Tusa__ son aproximadament
  
 ### EL CAMINO CONSTA DE 3 PARTES
  
-* La primera parte del camino son potreros, allí tuvimos que pasar por portillos o broches para el ganado🐮 ¡Es muy importante dejar cerrados los broches! En este punto es muy fácil perderse ya que no hay un sendero demarcado. Una vez pasamos por los potreros empezamos un ascenso el cual fue exigente, donde no había mucha vegetación y era muy fácil deslizarse.
+* __La primera parte:__ es camino por potreros, allí tuvimos que pasar por portillos o broches para el ganado🐮 ¡Es muy importante dejar cerrados los broches! En este punto es muy fácil perderse ya que no hay un sendero demarcado. Una vez pasamos por los potreros empezamos un ascenso el cual fue exigente, donde no había mucha vegetación y era muy fácil deslizarse.
  
  
-* En la segunda parte ya se comienza a ver un poco más de vegetación y es un alivio porque esto nos ayuda a protegernos del sol y, aparte de eso nos podemos ayudar de la vegetación para subir 🧗‍.
+* __La segunda parte:__ ya se comienza a ver un poco más de vegetación y es un alivio porque esto nos ayuda a protegernos del sol y, aparte de eso nos podemos ayudar de la vegetación para subir 🧗‍.
  
-* En la tercera parte dejábamos atrás el bosque para dar paso entre la vegetación a una maravillosa vista 🌄. Empezábamos a caminar y como ya no había vegetación el sol se sentía más fuerte, pasamos de un suelo húmedo a un suelo arenoso con muchas rocas sueltas. En este punto hay que tener mucha precaución con las rocas.
+* __La tercera parte:__ dejábamos atrás el bosque para dar paso entre la vegetación a una maravillosa vista 🌄. Empezábamos a caminar y como ya no había vegetación el sol se sentía más fuerte, pasamos de un suelo húmedo a un suelo arenoso con muchas rocas sueltas. En este punto hay que tener mucha precaución con las rocas.
  
  
 __IMPORTANTE:__  <ins>_Si al subir o bajar accidentalmente arrojas rocas, siempre avisar a los que vienen más abajo para evitar percances_ 🤕.</ins>
