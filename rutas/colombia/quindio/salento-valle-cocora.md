@@ -5,7 +5,7 @@ title: Salento y Valle del Cocora
 categories: colombia
 seo_title: Qué hacer en Salento
 excerpt: Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
-images_url: /images/rutas/quindio/acaime
+images_url: /images/rutas/quindio/salento
 viewranger: MTYzNjI1OA==
 author: manuel
 trending: true
@@ -47,7 +47,7 @@ width:"480",
 height:"200" %}
 </a>
  
-## QUÉ HACER EN SALENTO
+## ¿QUÉ HACER EN SALENTO?
  
 Salento es famoso por sus palmas de cera y sus calles coloridas con estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal, es aconsejable visitarlo al atardecer, ya que la vista es muy hermosa.
  
@@ -105,6 +105,7 @@ Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 k
 Recomendación: algunas veces los dueños no permiten el paso de personas por este lugar, así que es bueno estar con un guía local para evitar inconvenientes 
  
 #### TRAMO 2:  VALLE DEL COCORA-CASA DEL COLIBRÌ
+
 A Partir de la finca la montaña, empezará un sendero de herradura con piedras, el cual al llover se puede volver algo peligroso ya que el agua bajara por allí como si fuera un río.
  
 El camino desde el valle del Cocora hasta la casa del Colibrí es de aproximadamente 6 kilómetros, en el cual encontrarán caminos que de no saber tomar el indicado podrán ir en dirección a los nevados 😅.
@@ -142,8 +143,8 @@ A continuación te mostramos la ruta circular en el valle del Cocora, como la lo
 %}
  
  
- 
 ### RECOMENDACIONES PARA VISITAR EL VALLE DEL COCORA
+
 * Si piensas hacer el sendero completo, ruta circular (ver mapa), debes ir con un guía local ya que es muy fácil perderse.
 * Si piensas viajar a Salento un fin de semana, los trancones para entrar al pueblo o salir podrían ser hasta de 2 horas, así que te recomendamos.
 * Si piensas disfrutar más del salento te recomendamos hospedarte por lo menos 1 noche más, nosotros manejamos convenios con algunos hostales así que al momento de tomar un tour con nosotros te harán descuento por hospedaje.
