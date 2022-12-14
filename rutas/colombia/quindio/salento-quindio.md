@@ -23,7 +23,7 @@ __EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:__
 * <a href="#tour-morrogacho"> Que hacer en el Salento </a>
 * <a href="#tour-morrogacho"> Sendero mirador de las palmas (ideal para ir en familia) </a>
 * <a href="#tour-morrogacho"> Sendero finca la montaña </a>
-* <a href="#tour-morrogacho"> Sendero casa de los colibríes </a>
+* <a href="#tour-morrogacho"> ruta circular: Valle del Cocora-Casa del colibrí</a>
  
  
 # DATO CURIOSO DEL VALLE DEL COCORA y SALENTO
@@ -103,19 +103,18 @@ Subiendo unos 200 metros desde la entrada, encontrar un sendero donde se podrán
 %}
  
  
-Pasemos a ver una ruta un poco más exigente. 
+Si continuan por el sendero arriba llegaremos a nuestro proximo sendero
  
-### VALLE DEL COCORA CASA DEL COLIBRI
  
-#### TRAMO 1: VALLE DEL COCORA-FINCA LA MONTAÑA
+###  VALLE DEL COCORA-FINCA LA MONTAÑA
  
 Para llegar a este punto se deben pasar los miradores que mencionamos anteriormente y continuar el camino, que cada vez se va convirtiendo en una carretera destapada y por ultimo se llega a una finca que cuenta con una vista de un emblemático cerro del quindío, se llama ¨Cerro Morro Gacho¨, este es el cerro más alto que cuenta quindío, si quieres saber mas de este puedes ver aquí nuestro post <a target="_blank" href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html">Cerro Morro Gacho</a>.
  
-Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 kilómetros 
+Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 kilómetros
  
-Recomendación: algunas veces los dueños no permiten el paso de personas por este lugar, así que es bueno estar con un guía local para evitar inconvenientes 
+Recomendación: algunas veces los dueños no permiten el paso de personas por este lugar, así que es bueno estar con un guía local para evitar inconvenientes
  
-#### TRAMO 2:  VALLE DEL COCORA-CASA DEL COLIBRÌ
+### RUTA CIRCULAR: VALLE DEL COCORA-CASA DEL COLIBRÌ
 A Partir de la finca la montaña, empezará un sendero de herradura con piedras, el cual al llover se puede volver algo peligroso ya que el agua bajara por allí como si fuera un río.
  
 El camino desde el valle del Cocora hasta la casa del Colibrí es de aproximadamente 6 kilómetros, en el cual encontrarán caminos que de no saber tomar el indicado podrán ir en dirección a los nevados 😅.
@@ -154,14 +153,10 @@ A continuación te mostramos la ruta circular en el valle del Cocora, como la lo
  
  
 ### RECOMENDACIONES PARA VISITAR EL VALLE DEL COCORA
-
+ 
 * Si piensas hacer el sendero completo, ruta circular (ver mapa), debes ir con un guía local ya que es muy fácil perderse.
 * Si piensas viajar a Salento un fin de semana, los trancones para entrar al pueblo o salir podrían ser hasta de 2 horas, así que te recomendamos.
 * Si piensas disfrutar más del salento te recomendamos hospedarte por lo menos 1 noche más, nosotros manejamos convenios con algunos hostales así que al momento de tomar un tour con nosotros te harán descuento por hospedaje.
  
  
 Este es el fin del post a Salento, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
- 
- 
- 
- 
