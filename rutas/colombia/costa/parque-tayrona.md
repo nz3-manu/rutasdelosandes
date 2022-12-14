@@ -39,7 +39,6 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 {% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %}
 </amp-carousel>
 
-
 ## ¿CÓMO LLEGAR AL PARQUE TAYRONA?
 
 Primero tenemos que llegar a Santa Marta. Una vez en Santa Marta tenemos que tomar un bus 🚌 en el terminal hacia el parque Tayrona, el pasaje cuesta aproximadamente $15.000 pesos, la duración del trayecto es de 1 hora con 40 minutos.
@@ -70,14 +69,11 @@ Puedes comprar tu ingreso directamente en la taquilla o a través de la página 
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg",
-=======
-file:"publicidad/ropa-randes.gif",
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"",
-width:"480",
-height:"200" %}
+  file:"publicidad-post/chaqueta-randes.jpg",
+  caption:"",
+  width:"480",
+  height:"200"
+%}
 </a>
 
 <a name="rutasDentroTayrona"></a>

@@ -132,14 +132,11 @@ Como dato curioso a pesar de que llevábamos un Garmin,  en algunos tramos prese
  
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg",
-=======
-file:"publicidad/ropa-randes.gif",
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"",
-width:"480",
-height:"200" %}
+  file:"publicidad-post/chaqueta-randes.jpg",
+  caption:"",
+  width:"480",
+  height:"200"
+%}
 </a>
  
  

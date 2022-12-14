@@ -103,14 +103,11 @@ En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Ad
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg", 
-=======
-file:"publicidad/ropa-randes.gif", 
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"", 
-width:"480", 
-height:"200" %}
+   file:"publicidad-post/chaqueta-randes.jpg", 
+   caption:"", 
+   width:"480", 
+   height:"200" 
+%}
 </a>
 
 **RECOMENDACIÓN:** <ins>_Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con un guía especializado. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._</ins>

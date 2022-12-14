@@ -82,15 +82,11 @@ Después de 1 hora de trayecto por la carretera destapada, llegamos a un sector 
 
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg", 
-caption:"Banner Chaqueta", 
-=======
-file:"publicidad/ropa-randes.gif", 
-caption:"Banner ropa", 
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-width:"480", 
-height:"200" %}
+  file:"publicidad-post/chaqueta-randes.jpg", 
+  caption:"Banner Chaqueta", 
+  width:"480", 
+  height:"200" 
+%}
 </a>
 
 Desde la pequeña tienda 🏬 hasta los termales hay aproximadamente 1 kilómetro, el cual es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
@@ -114,4 +110,3 @@ Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, c�
 - Ten en cuenta que los termales cierran a las 3 pm.
 
 Este es el fin de la ruta a Termales del Sifón, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
-

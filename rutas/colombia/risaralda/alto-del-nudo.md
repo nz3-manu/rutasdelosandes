@@ -107,14 +107,11 @@ El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg", 
-=======
-file:"publicidad/ropa-randes.gif", 
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"", 
-width:"480", 
-height:"200" %}
+    file:"publicidad-post/chaqueta-randes.jpg", 
+    caption:"", 
+    width:"480", 
+    height:"200" 
+%}
 </a>
 
 ## ¿CÓMO REGRESAR DEL ALTO DEL NUDO 🚌?

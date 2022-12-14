@@ -34,14 +34,11 @@ Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad el 4 de
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg", 
-=======
-file:"publicidad/ropa-randes.gif", 
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"", 
-width:"480", 
-height:"200" %}
+  file:"publicidad-post/chaqueta-randes.jpg", 
+  caption:"", 
+  width:"480", 
+  height:"200" 
+%}
 </a>
 
 Dentro del Parque nacional natural Uramba Bahía Málaga se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejos comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.

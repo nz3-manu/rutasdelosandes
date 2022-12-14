@@ -18,10 +18,11 @@ Si quieres realizar este tour puedes dejarnos tus datos y una vez se complete el
 
  <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
+    file:"publicidad/chaqueta-randes.png", 
+    caption:"", 
+    width:"480", 
+    height:"200" 
+%}
 </a>
 
 ## ¿QUÉ ENCONTRARÁS EN LA PASTORA?
@@ -43,14 +44,11 @@ Esta sale en los siguientes horarios: lunes a viernes 9 am, 12 pm y 3 pm, sábad
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg",
-=======
-file:"publicidad/ropa-randes.gif",
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"",
-width:"480",
-height:"200" %}
+    file:"publicidad-post/chaqueta-randes.jpg",
+    caption:"",
+    width:"480",
+    height:"200" 
+%}
 </a>
 
 **Recomendación:** La “chiva” cuando se llena las personas tienen que irse en la parte de arriba, hay que tener en cuenta que la carretera está en mal estado y cuando llueve puede ser un poco asustador esta experiencia 😥.
@@ -91,4 +89,3 @@ Después de un pequeño descanso en la Pastora, continuamos nuestra ruta hacia l
 De regreso tomamos el mismo camino. Tener en cuenta que la última “chiva” o bus escalera 🚌 sale a las 5 pm desde el Cedral, si los deja 🚌💨💨🏃‍♂️ tendrán que caminar hasta la florida, son aproximadamente 3 horas.
 
 Este es el fin de la ruta a la Cascada los Chorros en la pastora, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
-
