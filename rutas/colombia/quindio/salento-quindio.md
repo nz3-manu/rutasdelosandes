@@ -1,11 +1,11 @@
 ---
 layout: trail
-title: Salento y Valle del Cocora
+title:  Salento y Valle del Cocora
 categories: colombia
-seo_title: Qué hacer en Salento
-excerpt: Salento Hospedaje, ¿donde queda Salento, qué hacer en Salento?. Uno de los recorridos más visitados por extranjeros es La Casa de los Colibríes una bella ruta que en total recorre  12.39 kilómetros
+seo_title: QUÉ HACER EN SALENTO | RUTAS DE LOS ANDES
+excerpt: Descubre en este post que visitar en Salento, cómo llegar y dónde hospedarte, también podrás hacer los recorridos con guías locales.
 images_url: /images/rutas/quindio/salento
-viewranger: MTYzNjI1OA==
+viewranger:
 author: manuel
 trending: true
 ---
