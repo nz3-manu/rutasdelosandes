@@ -19,14 +19,11 @@ El término trekking es de origen sudafricano, y hace referencia a un viaje larg
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-<<<<<<< HEAD
-file:"publicidad-post/chaqueta-randes.jpg",
-=======
-file:"publicidad/ropa-randes.gif",
->>>>>>> 5cd58afef583dd3f0c63eb9c9f1de0f097087c92
-caption:"",
-width:"480",
-height:"200" %}
+    file:"publicidad/ropa-randes.gif",
+    caption:"",
+    width:"480",
+    height:"200" 
+%}
 </a>
 
 En el trekking encontraremos distintos grados de dificultad, estos dependen de la duración del trayecto y lo complejo del terreno, por lo general son caminos que no se encuentran; refugios o alojamiento hotelero , así que es imprescindible llevar un equipo completo que incluye entre otras muchas cosas, carpa, saco de dormir, calentadores, abundante cantidad de alimentos, hipercalóricos y si es posible y si no se conoce el terreno, poder contar con un guía experimentado en la zona.

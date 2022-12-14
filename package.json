@@ -7,7 +7,8 @@
     "start": "eleventy --serve",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "debug": "DEBUG=Eleventy* eleventy"
   },
   "repository": {
     "type": "git",
