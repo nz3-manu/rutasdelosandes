@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title: Salento y Valle del Cocora
 categories: colombia
@@ -10,23 +9,35 @@ viewranger: MTYzNjI1OA==
 author: manuel
 trending: true
 ---
-
-# CASA DE LOS COLIBRÍES EN SALENTO
-
-La casa de los colibríes se encuentra a 4.8 kilómetros del Valle del Cocora, Salento Quindío hogar del árbol nacional de Colombia la palma de cera🌴 y de muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción.
-
-¿Quieres realizar esta ruta con un guia local?**<a href="https://wa.link/qa385m" target="_blank"> click aquí</a>** 👈
-
-Acaime en el pasado fue una finca ganadera. Ahora, cuenta con gran variedad de Flora y fauna. Es conocida principalmente por albergar varias especies de colibríes que rondan está casa, algunos se pueden ver tan cerca que pareciera no les importara la presencia de los seres humanos.
-
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See this post in English version 🇺🇸</a>]**
-
-## ¿Qué encontrarás en Salento 🏞👀?
-
-- Un sendero acompañado de gran biodiversidad flora y fauna.
-- Casa de los colibríes.
-- Vista del valle del Cocora.
-
+ 
+# SALENTO QUINDIO
+ 
+En este post te mostraremos __qué hacer en Salento Quindio__, te mostraremos los senderos que podrás realizar en el valle del Cocora, hemos categorizados los senderos dependiendo del grado de dificultad que cuentan, así podrás elegir cual de estos elegir.
+ 
+Si quieres realizar estos senderos con guías locales que es lo ideal 😊, puedes escribirnos __<a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a>__ 👈
+ 
+__EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:__
+ 
+* <a href="#dato-morrogacho"> Dato curioso  del Valle del Cocora y Salento</a>
+* <a href="#lugares-morrogacho"> Como llegar a Salento </a>    
+* <a href="#tour-morrogacho"> Que hacer en el Salento </a>
+* <a href="#tour-morrogacho"> Sendero mirador de las palmas (ideal para ir en familia) </a>
+* <a href="#tour-morrogacho"> Sendero finca la montaña </a>
+* <a href="#tour-morrogacho"> Sendero casa de los colibríes </a>
+ 
+ 
+# DATO CURIOSO DEL VALLE DEL COCORA y SALENTO
+ 
+salento Quindío hogar del árbol nacional de Colombia la palma de cera🌴 y de muchas otras variedades de flora y fauna, muchas de ellas en peligro de extinción.
+ 
+ 
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See this post in English version 🇺🇸</a>]__
+ 
+## LUGARES QUE VERÁS EN SALENTO
+* Un sendero acompañado de gran biodiversidad flora y fauna.
+* Casa de los colibríes.
+* Vista del valle del Cocora y miradores.
+ 
 <amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
        {% include image.html, file:"rutas/quindio/acaime/slider1.jpg", width:"921", height:"708" %}
        {% include image.html, file:"rutas/quindio/acaime/slider2.jpg", width:"1040", height:"800" %}
@@ -47,7 +58,7 @@ width:"480",
 height:"200" %}
 </a>
  
-## ¿QUÉ HACER EN SALENTO?
+## QUÉ HACER EN SALENTO
  
 Salento es famoso por sus palmas de cera y sus calles coloridas con estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal, es aconsejable visitarlo al atardecer, ya que la vista es muy hermosa.
  
@@ -105,7 +116,6 @@ Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 k
 Recomendación: algunas veces los dueños no permiten el paso de personas por este lugar, así que es bueno estar con un guía local para evitar inconvenientes 
  
 #### TRAMO 2:  VALLE DEL COCORA-CASA DEL COLIBRÌ
-
 A Partir de la finca la montaña, empezará un sendero de herradura con piedras, el cual al llover se puede volver algo peligroso ya que el agua bajara por allí como si fuera un río.
  
 El camino desde el valle del Cocora hasta la casa del Colibrí es de aproximadamente 6 kilómetros, en el cual encontrarán caminos que de no saber tomar el indicado podrán ir en dirección a los nevados 😅.
@@ -151,6 +161,7 @@ A continuación te mostramos la ruta circular en el valle del Cocora, como la lo
  
  
 Este es el fin del post a Salento, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+ 
  
  
  
