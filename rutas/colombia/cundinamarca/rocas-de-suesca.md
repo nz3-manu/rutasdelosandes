@@ -5,7 +5,7 @@ title:  Rocas de Suesca
 categories: colombia
 seo_title: Guía completa para ir a las Rocas de Suesca.
 excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.
-images_url : /images/rutas/huila/desiertoTatacoa
+images_url : /images/rutas/cundinamarca/roca-suesca
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
@@ -32,6 +32,8 @@ Este importante lugar, es uno de los lugares más importantes para practicar __e
 Suesca es un municipio de Cundinamarca que se encuentra a 59 kilómetros de la capital de Colombia Bogotá, __para llegar Suesca__ tendrás que tomar un bus en la terminal Norte de Bogotá el cual vale alrededor de $9.000 pesos y el recorrido tiene una duración de aproximadamente 1 hora.
  
 ### HOSPEDAJE EN SUESCA
+
+
 
 
  

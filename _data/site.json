@@ -37,7 +37,7 @@
   "menu_pages": [
     {
       "display": "Tienda",
-      "url": "/tienda"
+      "url": "https://www.randes.co/"
     },
     {
       "display": "Rutas",
