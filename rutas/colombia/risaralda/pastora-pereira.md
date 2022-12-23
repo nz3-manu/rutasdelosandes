@@ -43,6 +43,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 ## ¿CÓMO LLEGAR A LA PASTORA?
  
 La pastora se encuentra ubicada en el corregimiento de la florida en Pereira. Para llegar al corregimiento de la florida debimos abordar una “chiva” o bus escalera 🚌 (ya que es el único medio de transporte público). La “chiva” la tomamos al frente de la plazoleta del Victoria (calle 16).
+
 El recorrido dura un promedio de dos horas y media hasta el Cedral, Desde que toman la chiva, en el recorrido podrán apreciar los múltiples paisajes y algunas veces verán el río Otún.
  
 <a href="https://www.instagram.com/randes.store/" target="_blank">

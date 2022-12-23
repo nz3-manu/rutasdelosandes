@@ -3,7 +3,7 @@ layout: trail
 title:  Salento y Valle del Cocora
 categories: colombia
 seo_title: QUÉ HACER EN SALENTO | RUTAS DE LOS ANDES
-excerpt: En este post, descubrirás qué hacer, cómo llegar y dónde hospedarte en Salento; además, te mostraremos una guía completa e informativa sobre los diferentes recorridos que hay disponibles en el municipio de Salento, Quindío. No siendo más, disfruta de este post creado para ti.
+excerpt: En este post, descubrirás qué hacer, cómo llegar y dónde hospedarte en Salento; además, te mostraremos una guía completa de recorridos y senderos en Salento-Quindío.
 images_url: /images/rutas/quindio/salento
 viewranger:
 author: manuel
@@ -30,7 +30,7 @@ Empecemos con la aventura 🌴.
  
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See this post in English version 🇺🇸</a>]__
  
-## LUGARES QUE PODRÁS ENCONTRAR EN SALENTO 
+## LUGARES QUE PODRÁS ENCONTRAR EN SALENTO 🔎
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa de los colibríes.
 * Vista del valle del Cocora y miradores.
@@ -68,7 +68,7 @@ En Salento podrás encontrar una gran variedad de hoteles, hostales y/o glamping
  
 ## ¿QUÉ HACER EN SALENTO?
  
-Cómo bien sabes, el municipio de Salento es reconocido a nivel nacional e internacional por sus palmas de cera y sus calles coloridas con un estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal. Es aconsejable visitarlo al atardecer, ya que la vista es simplemente asombrosa.
+Cómo bien sabes, el municipio de Salento es reconocido a nivel nacional e internacional por sus palmas de cera 🌴 y sus calles coloridas con un estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal. Es aconsejable visitarlo al atardecer, ya que la vista es simplemente asombrosa.
  
 __Foto mirador de Salento:__
  
@@ -80,18 +80,21 @@ __Foto mirador de Salento:__
 %}
  
 A Continuación, te mostraremos algunos recorridos que podrás realizar y disfrutar una vez te encuentres en Salento. 
+ 
 <a name="sendero-valle-cocora" id="sendero-valle-cocora"></a>
  
 ## RUTAS DE SENDERISMO EN VALLE DEL COCORA 🌴
+ 
 En el valle del Cocora encontrarás muchos senderos para visitar, desde cascadas, ríos, páramos o incluso Nevados. Aquí te mostraremos unos senderos que podrás realizar con familia o amigos. Además, te dejamos recomendaciones para que evites cometer errores que son muy frecuentes en la mayoría de personas que visitan el Valle del Cocora. 
  
-### VALLE DEL COCORA MIRADOR DE LAS PALMAS (RUTA FAMILIAR)
+### SENDERO VALLE DEL COCORA MIRADOR DE LAS PALMAS (RUTA FAMILIAR)
  
-La ruta del mirador de las palmas es ideal si estás viajando con tu familia, ya que este mirador cuenta con una vista completa de las palmas de cera, a su vez, podrás avistar al loro orejiamarillo y al perico cachetidorado los cuales son muy habituales en esta zona del Valle del Cocora.
+La ruta del __mirador de las palmas__ es ideal si estás viajando con tu familia, ya que este mirador cuenta con una vista completa de las palmas de cera, a su vez, podrás avistar al loro orejiamarillo y al perico cachetidorado los cuales son muy habituales en esta zona del Valle del Cocora.
  
-A medida que vas adentrando en el sendero, encontrarás zonas en las cuales podrás sacar tu dispositivo móvil o tu cámara para tomar fotos. No te preocupes por el tiempo, puesto que, este sendero tiene un recorrido aproximado de 1 kilómetro y lo podrás realizar sin que el tiempo te preocupe.
+A medida que vas adentrando en el sendero, encontrarás zonas en las cuales están adecuadas para que puedas tomar fotos (como mostramos en las imágenes), Este sendero tiene un recorrido total de aproximadamente 1 kilómetro.
  
 Finalmente, si vas a optar por tomar esta ruta, no tendrás ningún problema para ir con personas de edad, ya que el sendero está en muy buen estado.
+ 
  
 __Foto Sendero Valle del Cocora:__
  
@@ -102,7 +105,7 @@ __Foto Sendero Valle del Cocora:__
  height:"562"
 %}
  
-Al alcanzar una altura de unos 200 metros desde la entrada principal, encontrarás un sendero donde se podrán tomar más fotos.
+Todas las estructuras donde se pueden tomar la fotos fueron estratégicamente posicionadas para que el fondo quede las palmas de cera 🌴.
  
  
 {% include image.html,
@@ -112,19 +115,21 @@ Al alcanzar una altura de unos 200 metros desde la entrada principal, encontrar�
  height:"393"
 %}
  
-Si continúan caminando por el sendero de los miradores,  al final del recorrido podrán encontrar la entrada del próximo sendero. 
+Si continúan caminando por el sendero de los miradores,  al final del recorrido podrán encontrar la entrada al próximo sendero, a continuación te lo explicaremos. 
  
-###  VALLE DEL COCORA-FINCA LA MONTAÑA
+###  SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA
  
 Para llegar a este punto se deben pasar los miradores que mencionamos anteriormente y continuar el recorrido, en el cual se empieza a ver una carretera destapada, y por último, se llega a una finca que cuenta con una vista de un emblemático cerro del Quindío, el cual tiene por nombre ̈Cerro Morro Gacho¨, este es el cerro más alto del departamento de Quindío. Si quieres saber mas acerca de este  sitio, puedes echarle un vistazo a nuestro post <a target="_blank" href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html">Cerro Morro Gacho</a>.
  
-Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 kilómetros.
+Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 kilómetros, si aún están con ganas de conocer más lugares, les explicaremos el tercer sendero.
  
-### VALLE DEL COCORA-FINCA LA MONTAÑA-CASA DEL COLIBRÌ
+<ins> Algunas fincas como: la finca la Montaña y la casa de los Colibríes cobran por pasar por sus predios</ins>
+ 
+### SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA-CASA DEL COLIBRÌ
  
 Después de haber pasado por los miradores y haber llegado a la finca la montaña, empezará un sendero de herradura con piedras, el cual al llover se puede volver algo peligroso ya que el agua que baja de los senderos suele bajar con bastante fuerza; por lo que es recomendable transitar por estas zonas con calzado adecuado. 
  
-El camino desde el valle del Cocora hasta la casa del Colibrí es de aproximadamente unos 6 kilómetros, en el cual encontrarán diferentes caminos. Así que, para que no te pierdas, es importante seguir las instrucciones de los guías locales ya que de no ser así, te podrías perder 😅.
+El camino __desde el valle del Cocora hasta la casa del Colibrí es de aproximadamente unos 6 kilómetros__, en el cual encontrarán diferentes caminos. Así que, para que no te pierdas, es importante seguir las instrucciones de los guías locales ya que de no ser así, te podrías perder 😅.
  
 {% include image.html,
  file:"rutas/quindio/salento/casadecolibries.jpg",
@@ -151,7 +156,7 @@ El regreso hasta el valle del Cocora, se realiza por otro camino, el cual no se 
  
 ### MAPA RUTA CIRCULAR EN EL VALLE DEL COCORA
  
-A continuación te mostramos la ruta circular en el valle del Cocora, como ya te lo explicamos anteriormente en el post. TendráS que pasar por: los miradores de Salento, finca la montaña, casa de los colibríes y por último tomar un camino donde se cruza el rió (varias veces) y saldrán casi a todo el frente del valle del Cocora.
+A continuación te mostramos la ruta circular en el valle del Cocora, como ya te lo explicamos anteriormente en el post. Tendrán que pasar por: __los miradores de Salento, finca la montaña, casa de los colibríes__ y por último tomar un camino donde se cruza el rió (varias veces) y saldrán casi a todo el frente del valle del Cocora.
  
 __Mapa ruta Circular: valle del cocora,finca la montaña, casa del colibrí__
  
@@ -174,4 +179,3 @@ __Mapa ruta Circular: valle del cocora,finca la montaña, casa del colibrí__
 * Si piensas disfrutar más de Salento, te recomendamos hospedarte por lo menos 1 noche, así podrás disfrutar más de este mágico pueblo.
  
 Este es el fin del post a Salento, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
- 
