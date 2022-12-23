@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title: Cascada los Chorros en la Pastora
 categories: colombia
