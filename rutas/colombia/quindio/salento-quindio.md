@@ -14,7 +14,7 @@ trending: true
  
 En este post te mostraremos __qué hacer en Salento,Quindio__, además de que también, te mostraremos los diferentes recorridos que podrás realizar en el valle del Cocora. Por tal motivo, hemos categorizado los senderos que varían dependiendo de su grado de dificultad; así que, podrás elegir cual de estos se acomoda mejor a tus condiciones físicas, y a tus gustos. Pero de antemano te aseguramos que independientemente del recorrido que elijas, vas a vivir una experiencia placentera.
  
-__Nota:_En caso de que quieras realizar alguna de las rutas con guías locales y certificados de la zona, puedes comunicarte con nosotros cuando así lo deseen_<a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a>__ 👈
+__Nota:__ <ins>_En caso de que quieras realizar alguna de las rutas con guías locales y certificados de la zona, puedes comunicarte con nosotros cuando así lo deseen_<a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a></ins> 👈
  
 __EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:__
  
@@ -62,7 +62,7 @@ height:"200" %}
  
 ## HOSPEDAJES EN SALENTO
  
-En Salento podrás encontrar una gran variedad de hoteles, hostales y/o glampings, los cuales los puedes buscar en diferentes sitios web tales como __www.booking.com__  o __www.hostelworld.com. Si vas a realizar este viaje en familia, necesitarás algo más personalizado, por tal motivo, puedes escribirnos y te daremos todos los detalles que necesites para este tipo de viaje. Mayor información,👇
+En Salento podrás encontrar una gran variedad de hoteles, hostales y/o glampings, los cuales los puedes buscar en diferentes sitios web tales como __www.booking.com__  o __www.hostelworld.com.__ Si vas a realizar este viaje en familia, necesitarás algo más personalizado, por tal motivo, puedes escribirnos y te daremos todos los detalles que necesites para este tipo de viaje. Mayor información puedes escribirnos <a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a>
  
 <a name="que-hacer-salento" id="que-hacer-salento"></a>
  
@@ -122,6 +122,15 @@ Si continúan caminando por el sendero de los miradores,  al final del recorrido
 Para llegar a este punto se deben pasar los miradores que mencionamos anteriormente y continuar el recorrido, en el cual se empieza a ver una carretera destapada, y por último, se llega a una finca que cuenta con una vista de un emblemático cerro del Quindío, el cual tiene por nombre ̈Cerro Morro Gacho¨, este es el cerro más alto del departamento de Quindío. Si quieres saber mas acerca de este  sitio, puedes echarle un vistazo a nuestro post <a target="_blank" href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html">Cerro Morro Gacho</a>.
  
 Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 kilómetros, si aún están con ganas de conocer más lugares, les explicaremos el tercer sendero.
+
+{% include image.html,
+ file:"rutas/quindio/salento/finca-la-montana-salento.jpg",
+ caption:"Foto vista desde finca la montaña",
+ width:"1080",
+ height:"1080"
+%}
+
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/________sergio____/"  target="_blank">@________sergio____</a> </span>**
  
 <ins> Algunas fincas como: la finca la Montaña y la casa de los Colibríes cobran por pasar por sus predios</ins>
  
