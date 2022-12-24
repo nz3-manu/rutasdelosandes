@@ -28,9 +28,10 @@ Salento</a>
  
 Empecemos con la aventura 🌴.
  
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/casa-de-los-colibries.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/salento-colombia.html">See this post in English version 🇺🇸</a>]__
  
 ## LUGARES QUE PODRÁS ENCONTRAR EN SALENTO 🔎
+
 * Un sendero acompañado de gran biodiversidad flora y fauna.
 * Casa de los colibríes.
 * Vista del valle del Cocora y miradores.
