@@ -2,8 +2,8 @@
 layout: trail
 title: Norcasia
 categories: colombia
-seo_title: Norcasia, Río la Miel Guía | Actualizada 2022
-excerpt: Conoce el Embalse de Amaní, Río la Miel y el embalse de Amaní, descubre dónde hospedarte en Norcasia y lugares para visitar en Norcasia.
+seo_title: Norcasia y Río la Miel Guía | Actualizada 2023
+excerpt: Norcasia es conocido por el Río la Miel y el embalse de Amaní, descubre dónde hospedarte  y lugares para visitar en Norcasia-caldas.
 images_url: /images/rutas/caldas/norcasia
 viewranger: MTY2NDcwMQ==
 author: manuel
@@ -231,17 +231,24 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
  
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
- caption:"Foto: cañón Río la Miel",
+ caption:"Foto: cañón Río la Miel en Norcasia",
  width:"1440",
  height:"1800"
 %}
+
 **<span class="advise"> Foto por: Entre Ríos</span>**
  
-<ins> **RECOMENDACIONES:** </ins>
+### RECOMENDACIONES FINALES PARA VISITAR NORCASIA
  
-- Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no irán tantas personas como con las agencias más grandes, para conocer más información sobre los tours disponibles, puedes dar **<a href="https://wa.link/cvi0eb" target="_blank"> clic aquí</a>.**
+*  Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no irán tantas personas como con las agencias más grandes, para conocer más información sobre los tours disponibles, puedes dar **<a href="https://wa.link/cvi0eb" target="_blank"> clic aquí</a>.**
  
-- Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros, para que te hagas una idea, el último puente llegaron aproximadamente 600 viajeros (en un pueblo que tiene 6.374 habitantes), quiero aclarar que estas cifras nos las compartieron algunos locales, no sabemos si esta cantidad de viajeros es constante todos los fines de semanas con puente.
+* Si eres de las personas que te gusta viajar pero no te gusta las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) ya que te podrías encontrar con muchos viajeros.
+
+* En Norcasia no van a encontrar cajeros disponibles así que te recomendamos llevar dinero, ademas las redes de algunos operadores colapsan para usar internet.
+
+* Si piensas visitar Norcasia y vas con pocas personas te recomendamos hacer los tour con agencias ya que te saldrá mas económico el transporte en lancha,
+
+* Por ultimo hacer las reservas ya que en temporada alta podrían no encontrar ni hoteles disponibles.
  
 ## ¿CÓMO REGRESAR DE NORCASIA?
  

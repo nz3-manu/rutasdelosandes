@@ -2,8 +2,8 @@
 layout: trail
 title: Termales del Sifón
 categories: colombia
-seo_title: ▷ Termales del Sifón
-excerpt: Información para ayudarte a visitar un lugar oculto en cerca a Manizales, termales del Sifón, una ruta para hacer senderismo cerca de Manizales
+seo_title: Termales del Sifón | Guía de viaje 2023
+excerpt: ♨️ Termales del Sifón es un lugar oculto  cerca a Manizales, se encuentra dentro del parque de los nevados, esta es una ruta para hacer senderismo cerca de Manizales.
 images_url: /images/rutas/caldas/sifon
 viewranger:
 author: manuel
@@ -12,7 +12,7 @@ trending: true
 
 # TERMALES DEL SIFÓN
 
-Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔, este es sin duda un lugar para visitar si estas viajando y no sabes **que hacer en Manizales**.
+Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔 en Manizales, este es sin duda un lugar para visitar si estas viajando y no sabes **que hacer en Manizales**.
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -40,11 +40,11 @@ Empecemos con la aventura ⛰.
 
 ## TOUR A LOS TERMALES DEL SIFÓN
 
-Los **precios para el tour a la los termales del Sifón** pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales.
+Los **precios para el tour a la los termales del Sifón** pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
 
 **El Tour a los termales del Sifon incluye:**
 
-- 🚌 Transporte desde Manizales carro 4X4
+- 🚙 Transporte desde Manizales en carro 4X4
 - 🥨 Desayuno
 - 🍝 Almuerzo
 - 🎫 Entrada a los Termales del Sifon
@@ -59,7 +59,7 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $1
 
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar.
 
-<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ \__<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._ </ins>
+<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._ </ins>
 
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones.
 

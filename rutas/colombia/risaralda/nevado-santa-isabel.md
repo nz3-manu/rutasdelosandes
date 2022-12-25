@@ -2,7 +2,7 @@
 layout: trail
 title: Nevado Santa Isabel
 categories: colombia
-seo_title: Nevado Santa Isabel - cumbre |Rutas
+seo_title: Nevado Santa Isabel|Guía de viaje 2023
 Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, hospedaje y mejor temporada del año para visitarlo.
 images_url: /images/rutas/risaralda/nevado-santa-isabel
 viewranger:

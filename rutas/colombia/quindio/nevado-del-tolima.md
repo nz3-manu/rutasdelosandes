@@ -2,7 +2,7 @@
 layout: trail
 title: Nevado del Tolima
 categories: colombia
-seo_title: Cima al Nevado del Tolima (2022)- Rutas.
+seo_title: Cima al Nevado del Tolima (2023)- Rutas.
 excerpt: Conoce como llegar al Nevado del Tolima, recomendaciones y tour para visitar este hermoso Nevado cerca de Salento, conoce hospedajes cerca del Nevado del Tolima y precios al Nevado del Tolima.
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
