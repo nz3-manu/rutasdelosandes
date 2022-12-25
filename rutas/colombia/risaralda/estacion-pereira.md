@@ -74,6 +74,7 @@ Una vez llegamos a estación Pereira tomamos nuestro segundo transporte.
  height:"200"
 %}
 
+
 </a>
 
 __Transporte en “marranitas” 🛵:__ Seguimos nuestro recorrido y tomamos nuestro medio de transporte la “marranita”. 

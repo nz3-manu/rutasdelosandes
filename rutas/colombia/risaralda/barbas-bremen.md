@@ -72,7 +72,7 @@ Este tour comienza desde Filandia-Quindío, los horarios de salida son de 9 am y
 - 👨 Guía
 - 🫶 Seguro de asistencia médica
 
-**Para reservar el tour se debe de pagar el 100% de el valor de este como mínimo 2 días antes,** **<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> puedes reservar el tour dando clic aquí </a>**
+👉 __<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> Puedes reservar el tour con un guía local dando clic aquí </a>__
 
 <a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a>
 

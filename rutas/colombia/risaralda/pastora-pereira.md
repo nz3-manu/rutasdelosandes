@@ -1,8 +1,8 @@
 ---
 layout: trail
-title: Cascada en la Pastora
+title: La Pastora en Pereira
 categories: colombia
-seo_title: Cascada en la Pastora-Pereira.
+seo_title: la Pastora en Pereira |Rutas de los Andes.
 excerpt: La pastora se encuentra cerca de pereira, allí se encuentra la cascada conocida como los chorros, ya que son 2 caídas de agua.
 images_url: /images/rutas/risaralda/pastora
 viewranger: MTQwODQyMA==
