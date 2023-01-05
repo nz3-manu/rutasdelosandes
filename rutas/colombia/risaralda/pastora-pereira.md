@@ -16,15 +16,15 @@ Se trata de un parque natural situado en el Parque Regional de Ucumarí situado 
  
  
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
-* <a href="#video-pastora"> vídeo ruta La Pastora</a>
-* <a href="#como-pastora"> Como llegar a La Pastora</a>    
+* <a href="#video-pastora"> vídeo ruta La Pastora </a>
+* <a href="#como-pastora"> Como llegar a La Pastora </a>    
 * <a href="#ruta-pastora"> Ruta en La Pastora </a>
 * <a href="#mapa-pastora"> Mapa de La ruta realizada </a>  
-* <a href="#tour-pastora"> Tours en la Pastora</a>
-* <a href="#rutas-de-senderismo-en-pereira"> Rutas de Senderismo en Pereira/a>
-* <a href="#recomendacion-pastora"> Recomendaciones finales</a>
+* <a href="#tour-pastora"> Tours en la Pastora </a>
+* <a href="#rutas-de-senderismo-en-pereira"> Rutas de Senderismo en Pereira </a>
+* <a href="#recomendacion-pastora"> Recomendaciones finales </a>
  
- 
+ **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/Pastora-pereira.html">See this post in English version 🇺🇸</a>]**
  
 Empecemos con la aventura ⛰.
  
