@@ -21,31 +21,26 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#ruta-pastora"> Ruta en La Pastora </a>
 * <a href="#mapa-pastora"> Mapa de La ruta realizada </a>  
 * <a href="#tour-pastora"> Tours en la Pastora </a>
-* <a href="#rutas-de-senderismo-en-pereira"> Rutas de Senderismo en Pereira </a>
 * <a href="#recomendacion-pastora"> Recomendaciones finales </a>
+* <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
  
  **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/Pastora-pereira.html">See this post in English version 🇺🇸</a>]**
  
 Empecemos con la aventura ⛰.
  
- <a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-    file:"publicidad/chaqueta-randes.png",
-    caption:"",
-    width:"480",
-    height:"200"
-%}
-</a>
  
 <a name="video-pastora" id="video-pastora"></a>
  
-## VIDEO DE LA RUTA A LA PASTORA RISARALDA
+## VIDEO DE LA RUTA A LA PASTORA EN PEREIRA
+ 
+A Continuación te mostramos un pequeño video de nuestra ruta a la Pastora, donde podran disfrutar de una hermosa __cascada cerca de Pereria__.
+ 
  
 {% include youtube.html,
     videoid:"oMPNSh9A1qU",
     width:"480",
     height:"270",
-    caption:"Video de la Pastora-Pereira"
+    caption:"Video la Pastora en Pereira"
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -61,7 +56,7 @@ El recorrido dura un promedio de dos horas y media hasta el Cedral desde que los
 <a href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
     file:"publicidad-post/chaqueta-randes.jpg",
-    caption:"",
+    caption:"Banner Chaqueta",
     width:"480",
     height:"200"
 %}
@@ -73,7 +68,7 @@ Después de haber disfrutado de tan hermosos paisajes, llegarán al Cedral, el l
  
 ## RUTA EN LA PASTORA
  
-Para poder llegar al __centro de visitantes la pastora__ desde el cedral son aproximadamente 4 kilómetros. El camino está lleno de rocas por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. Así que si tienes bastones de senderismo es una buena idea para llevarlos 😜.
+Para poder llegar al __centro de visitantes la pastora__ desde el cedral son aproximadamente 4 kilómetros. El camino está lleno de rocas, por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. Así que si tienes bastones de senderismo es una buena idea para llevarlos 😜.
  
 {% include image.html
     file:"rutas/risaralda/pastora/lapastora3.jpg",
@@ -98,7 +93,7 @@ __Foto cascada Los Chorros en la Pastora__
     caption:"Foto cascada Los chorros en la Pastora"
 %}
  
-Esta cascada se llama los chorros ya que son 2 cascadas juntas.
+Esta cascada se llama los chorros, ya que son 2 cascadas juntas.
  
 <a name="mapa-pastora" id="mapa-pastora"></a>
  
@@ -140,7 +135,7 @@ __Tabla de precios:__
  
 __Incluye:__ Transporte, 1 🥨 desayuno, 2 🍝 almuerzo, 1 🍝 Cena, 🛌 hospedaje, guía, seguro médico, 🦜 avistamiento de aves.
  
-👉  __<a href="https://wa.link/gy0ui3" style="color:green;" target="_blank"> Click aquí para conocer más información del tour a la Pastora</a>__
+👉  __<a href="https://wa.link/gy0ui3" style="color:green;" target="_blank"> Clic aquí para conocer más información del tour a la Pastora</a>__
  
 <a name="recomendacion-pastora" id="recomendacion-pastora"></a>
  
@@ -151,9 +146,11 @@ __Incluye:__ Transporte, 1 🥨 desayuno, 2 🍝 almuerzo, 1 🍝 Cena, 🛌 hos
 * Si tienes problemas en la rodilla te recomendamos llevar bastones de senderismo.
 * Recuerda ir con un guía o alguien que conozca la zona para evitar perderse.
  
+<a name="rutas-de-senderismo-en-pereira" id="rutas-de-senderismo-en-pereira"></a>
+ 
  ## SENDERISMO EN PEREIRA
  
-Aquí te mostraremos algunas rutas de senderismo que podrás hacer Cerca de Pereira, y así disfrutar de lugares naturales como: __cascadas o miradores cerca de la Ciudad de Pereira__
+Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
  
 * __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
  
@@ -163,4 +160,4 @@ Aquí te mostraremos algunas rutas de senderismo que podrás hacer Cerca de Pere
  
  
  
-Este es el fin de la ruta a la Cascada, los Chorros en la pastora, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Este es el fin de la ruta a la pastora en Pereira, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

@@ -20,6 +20,7 @@ __EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#tour-estacion-pereira"> Tour a Estación Pereira </a> 
 * <a href="#llegar-estacion-pereira"> ¿Cómo llegar a  Estación Pereira?  </a> 
 * <a href="#ruta-estacion-pereira"> Ruta a Estación Pereira </a> 
+* <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
 
 
 Empecemos con la aventura ⛰.
@@ -113,6 +114,20 @@ __Cascada en Estación Pereira__
     height="900"
     layout="responsive">
 </amp-instagram> 
+
+<a name="rutas-de-senderismo-en-pereira" id="rutas-de-senderismo-en-pereira"></a>
+ 
+ ## SENDERISMO EN PEREIRA
+ 
+Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
+ 
+* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+ 
+* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo</a>__
+ 
+* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/chorros-de-don-lolo.htmll" target="_blank"> Chorros de Don Lolo</a>__
+
+
 
 Este es el fin de la ruta a Estación Pereira, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
