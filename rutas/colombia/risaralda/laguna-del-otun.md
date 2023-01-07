@@ -3,7 +3,7 @@ layout: trail
 title:  Laguna del Otún
 categories: colombia
 seo_title: Laguna del Otún - Como llegar|Rutas
-excerpt: Conoce todo lo que necesitas saber para ir a La laguna del Otún, desde las tarifas para la entrada al parque, transporte y hospedaje.
+excerpt: La laguna del Otún, descubre cómo llegar desde Pereira y conoce algunas fechas de excursiones grupales
 images_url: /images/rutas/risaralda/lagunaDelOtun
 viewranger:
 author: manuel
@@ -21,7 +21,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#tour-laguna"> Tours a la Laguna del Otún</a>    
 * <a href="#llegar-laguna"> Cómo llegar a la Laguna del Otún </a>
 * <a href="#entrada-laguna"> Costo de entrada a la Laguna del Otún 2023 </a>
-* <a href="#ruta-laguna"> Ruta en la laguna del Otún</a>
+* <a href="#ruta-laguna"> Sendero en la Laguna del Otún</a>
 * <a href="#recomendacion-laguna"> Recomendaciones finales para Visitar la laguna del Otún</a>
 * <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
  
@@ -55,47 +55,51 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
  
 ## TOURS A LA LAGUNA DEL OTÚN (PASADÍA)
  
-El tour inicia a las 4 am desde Pereira y estarán de regreso de nuevo en Pereira a las 7 pm, en el pasadía solo se llega hasta el sector la asomadera,  __precios para el tour a la Laguna del Otún__ pueden variar desde $240.000 hasta $550.000, esto dependerá del número de personas que vayan.
+El tour inicia a las 4 am desde Pereira y estarán de regreso de nuevo en Pereira alrededor de las 7 pm, en el pasadía solo se llega hasta el sector la asomadera o mirador de Potosí. Los __precios para el tour a la Laguna del Otún__ pueden variar desde $240.000 hasta $550.000, esto dependerá del número de personas que vayan.
  
-**El tour a la Laguna del Otún incluye:** 🥨 desayuno, 🍝 almuerzo, 🚙 transporte 4x4 y guianza 👨.
+**El tour a la Laguna del Otún incluye:** 🥨 desayuno, 🍝 almuerzo, 🚙 transporte 4x4, 🎟️ ingreso al parque, 👨guianza y seguro de asistencia médica.
  
  
-**<a href="https://www.randes.co/en/products/tour-laguna-del-otun" target="_blank"> Para ver más información del tour a la Laguna del Otun </a>.**
+**<a href="https://www.randes.co/en/products/tour-laguna-del-otun" target="_blank"> Para ver más información del tour a la Laguna del Otun clic aquí 👈 </a>.**
  
  
 <a name="llegar-laguna" id="llegar-laguna"></a>
  
 ## ¿CÓMO LLEGAR A LA LAGUNA DEL OTÚN?
  
-__Existen varias formas para llegar a la Laguna del Otún__; unas más las largas que otras como lo es la ruta que inicia por el Cedral pasando por la Pastora después el Jordán, para después llegar a la Laguna del Otún.
+__Existen varias formas para llegar a la Laguna del Otún__; unas más las largas que otras, como lo es la ruta que inicia por el Cedral (Pereira), donde se tiene que caminar hasta el Jordán (1 día caminando), al siguiente día tendrán que caminar hasta llegar a la Laguna del Otún.
  
-__[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta "Que es el mal de altura y como evitarlo"</a>]__
- 
-La ruta que mostraremos en este post es llegando por Potosí, lugar donde se encuentra la entrada a Laguna del Otún. A este sector no llega el transporte público, así que tendrá que contratar un jeep, a La Laguna del Otún se puede llegar se puede llegar por:
+La ruta que mostraremos en este post es llegando por Potosí (en carro), lugar donde se encuentra la entrada a Laguna del Otún. A este sector no llega el transporte público, así que tendrá que contratar un jeep o carro 4x4, a La Laguna del Otún se puede llegar por:
  
 * __Desde Pereira hasta la Laguna del Otún:__ El Jeep o carro 4x4 se tarda en promedio 4 horas para llegar a Potosí.
  
  * __Desde Manizales hasta  la Laguna del Otún:__ Son aproximadamente 42km, el jeep tardará alrededor de 4 horas para llegar a Potosí.
  
+<ins> __Nota:__  </ins> _Hemos escuchado de conductores que han visto varios carros de personas que se quedan encunetados, ya que no están acostumbrados a conducir por estos tipos de caminos._
  
 <a name="llegar-laguna" id="entrada-laguna"></a>
  
-### VALOR DE INGRESO A LA LAGUNA DEL OTÚN (AÑO 2023)
+### VALOR DE INGRESO A LA LAGUNA DEL OTÚN (AÑO 2023) 🎟️
  
   * __Entrada al Parque los Nevados 2023 🎟:__ mayores de 5 años y menores de 25 años $9.500 pesos, mayores de 25 años $19.200 pesos extranjeros $54.000 pesos.
  
-  * __Seguro médico y de rescate ⛑:__ es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de aproximadamente $5.500 pesos por día, así que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allí,__este se debe comprar con anticipacion__.
+  * __Seguro médico y de rescate ⛑:__ es obligatorio para ingresar a cualquier parque nacional del país, el valor de este es de aproximadamente $5.500 pesos por día, así que si vas en plan de camping tendrás que comprarlo por el número de días que vas a estar allí, _este se debe comprar con anticipación_.
  
  
-⚠️ Recuerde que está prohibido el ingreso de: Personas mayores de 70 años.
+⚠️ __Recuerde que está prohibido el ingreso de:__ _Personas mayores de 70 años y menores de 5 años._
  
  
  
 <a name="ruta-laguna" id="ruta-laguna"></a>
  
-## RUTA DE LA LAGUNA DEL OTÚN
+## RUTA DE LA LAGUNA DEL OTÚN 🚶‍♂️
  
-Desde la entrada de la Laguna del Otún hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando, el sendero está lleno de frailejones y vistas mágicas que te dejarán atónito.  
+### RUTA HASTA LA ASOMADERA O MIRADOR DE POTOSI
+ 
+Desde la entrada de la Laguna del Otún hasta la asomadera o mirador de Potosí son aproximadamente 3 horas caminando, el sendero está lleno de frailejones y vistas mágicas que te dejarán atónito.
+ 
+Al llegar al mirador de potosí, muchas personas experimentan mareo, y esto se da debido a que el mirador la asomadera se encuentra aproximadamente a 4,200 msnm, así que te recomendamos ver nuestro siguiente post  __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html"> ¿Qué es el mal de altura y como evitarlo? </a>]__
+ 
  
  
 __FOTO DESDE LA ASOMADERA O MIRADOR DE POTOSÍ__
@@ -107,8 +111,11 @@ __FOTO DESDE LA ASOMADERA O MIRADOR DE POTOSÍ__
   height:"700"
 %}
  
-Desde el mirador podrán caminar por cerca de 1 hora para llegar a un lugar el cual se llama Bosques de frailejones, allí podrán tener una vista de la Laguna del Otún en medio de frailejones
+### BOSQUE DE FRAILEJONES
  
+Desde el mirador de potosí, podrán caminar por cerca de 1 hora para llegar a un lugar el cual se llama Bosques de frailejones, allí podrán tener una vista de la Laguna del Otún en medio de frailejones.
+ 
+_El bosque de frailejones es el lugar más lejos al cual podrán ir en el pasadía, esto dependerá del tiempo con el que cuenten_
  
 {% include image.html,
   file:"rutas/risaralda/lagunaDelOtun/featured.jpg",
@@ -118,28 +125,25 @@ Desde el mirador podrán caminar por cerca de 1 hora para llegar a un lugar el c
 %}
  
  
-Si continúan caminando de la asomadera por cerca de 3 horas y después de tomar algunos caminos, en lo cuales es fácil perderse, llegarán a la casa del guardabosques, en este lugar encuentran zona de camping ⛺️.
  
-  __MAPA DEL RECORRIDO EN LA LAGUNA DEL OTÚN__
+### CASA DEL GUARDABOSQUES EN LA LAGUNA DEL OTÚN
  
-Te compartimos el mapa de la ruta de la Laguna de Otún hasta la laguna del silencio.
+Si continúan caminando desde el bosque de frailejones por cerca de 3 horas por unos caminos los cuales no están muy señalizados y es fácil perderse.
  
+En el camino tendrán que pasar por un lugar el cual se llama la Azufrera, en este lugar cuentan algunas personas _que 2 chicos que no pudieron encontrar el camino a la laguna del Otún acamparon en este lugar y  murieron por los gases que salía de las rocas ♨️._
  
-{% include iframe.html,
-    type:"custom",
-    mid:"1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es",
-    caption:"Mapa Potosí hasta Laguna del Otún"
+Después de pasar; la azufrera, algunos riscos y lagunas llegarán a la Laguna del Otun.
+ 
+{% include image.html,
+file:"rutas/risaralda/lagunaDelOtun/laguna-del-otun.JPG",
+caption:"Foto de la laguna del Otun",
+width:"640",
+height:"428"
 %}
  
-<ins>__Ten en cuenta que si decides acampar deberás contar con carpa, sleeping y todos los demás, ya que allá no prestan ni alquilan estos servicios__ </ins>
+<ins> __Nota:__</ins> _Ten en cuenta que si decides acampar deberás contar con carpa, bolsa de dormir y todos los demás, ya que allá no prestan ni alquilan estos servicios_
  
-<amp-instagram
-    data-shortcode="Bt7HsFThueq"
-    data-captioned
-    width="595"
-    height="445"
-    layout="responsive">
-</amp-instagram>
+### LAGUNA DEL SILENCIO
  
 Cerca de la laguna del Otún, encontrarán más lagunas para visitar, una de ellas es la “La laguna del Silencio”, en el trayecto podrán observar los hermosos paisajes de frailejones enmarcados con la vista al fondo del paramillo de Santa Rosa 🗻, para llegar a esta laguna tendrán que caminar aproximadamente 2 horas desde la Laguna del Otún
  
@@ -152,6 +156,18 @@ height:"675"
  
 En esta laguna podrán disfrutar de mucha tranquilidad 🧘‍♂️.
  
+  __MAPA DEL RECORRIDO EN LA LAGUNA DEL OTÚN__
+ 
+ 
+Te compartimos el mapa de la ruta realizada en la Laguna de Otún pasando por: Entrada laguna del Otún, mirador de potosí, bosque de frailejones, casa del guardabosques y laguna del Silencio.
+ 
+ 
+{% include iframe.html,
+    type:"custom",
+    mid:"1kuOt0tzQY_FQcyWtjcCsXY070xcnrZsM&hl=es",
+    caption:"Mapa Potosí hasta Laguna del Otún"
+%}
+ 
 <a name="recomendacion-laguna" id="recomendacion-laguna"></a>
  
 ### RECOMENDACIONES FINALES PARA VISITAR LA LAGUNA DEL OTÚN
@@ -161,7 +177,7 @@ En esta laguna podrán disfrutar de mucha tranquilidad 🧘‍♂️.
 * Está prohibido el ingreso de mascotas y la pesca.
 * Llevar bastante agua para ir hidratándote en el camino y así evitar el mal de altura.
 * Llevar carpa impermeable, ya que este es un lugar donde la lluvia y los vientos son muy fuertes.
-
+ 
  
  
 <a name="rutas-de-senderismo-en-pereira" id="rutas-de-senderismo-en-pereira"></a>
@@ -182,14 +198,8 @@ Este es el fin de la ruta a la Laguna Del Otún, __no te olvides de seguirnos en
  
  
  
-<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
  
  
  
  
  
- 
- 
- 
- 
-
