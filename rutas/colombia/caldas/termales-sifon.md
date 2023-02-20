@@ -30,7 +30,7 @@ Empecemos con la aventura ⛰.
 ## VIDEO RUTA A LOS TERMALES DEL SIFÓN
 
 {% include youtube.html,
-   videoid:"XNb0ewa0i2I",
+   videoid:"PwsvmRgtaoA",
    width:"480",
    height:"270",
    caption:"Video ruta a los Termales del Sifon"
