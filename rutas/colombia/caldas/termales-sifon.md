@@ -19,6 +19,7 @@ Los Termales del Sifón son unas aguas termales de color turquesa, que se encuen
 - <a href="#video-sifon"> Video ruta a Termales del Sifon</a>
 - <a href="#tour-sifon"> Tours a los termales del Sifon</a>
 - <a href="#llegar-Sifon"> Cómo llegar a los termales del Sifon </a>
+- <a href="#hospedaje-sifon"> Hospedajes cerca de los termales del Sifón</a>
 - <a href="#recomendaciones-sifon"> Recomendaciones para visitar los Termales del Sifon</a>
 
 Empecemos con la aventura ⛰.
@@ -40,14 +41,14 @@ Empecemos con la aventura ⛰.
 
 ## TOUR A LOS TERMALES DEL SIFÓN
 
-Los **precios para el tour a la los termales del Sifón** pueden variar desde $160.000 hasta $560.000, esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
+Los **precios para el tour a la los termales del Sifón** pueden variar desde $160.000 COP (Por persona) hasta $560.000 COP (Por persona) , esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
 
-**El Tour a los termales del Sifon incluye:**
+**El Tour a los termales del Sifón incluye:**
 
 - 🚙 Transporte desde Manizales en carro 4X4
 - 🥨 Desayuno
 - 🍝 Almuerzo
-- 🎫 Entrada a los Termales del Sifon
+- 🎫 Entrada a los Termales del Sifón
 - 👨 Guianza
 - 🫶 Seguro de asistencia médica
 
@@ -59,13 +60,17 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $1
 
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar.
 
-<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí</a>._ </ins>
+<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí 👈</a>.__ </ins>
 
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones.
 
 Para climatizar nuestro cuerpo a la altura del paramo, tuvimos que bajar levemente los vidrios al carro, esto con el fin de que nuestros cuerpos se empezaran a adaptar al frío del paramo para no tener que sufrir el famoso mal de altura ( **<a href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html" target="_blank"> ver mal de altura</a>.** )🥶.
 
-En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la Laguna Negra, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
+
+### LAGUNA NEGRA 
+
+En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la :
+__Laguna Negra__, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
 
 {% include image.html,
   file:"rutas/caldas/sifon/laguna-negra.jpg",
@@ -76,9 +81,10 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>**
 
-Continuando con nuestro viaje, llegamos justo hasta la entrada al nevado del Ruiz, donde tomamos la carretera destapada que conduce a Murillo-Tolima. En el trayecto hasta llegar a la entrada de Los **Termales del Sifón**, pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones.
 
-Después de 1 hora de trayecto por la carretera destapada, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏬 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
+### TERMALES DEL SIFÓN
+
+Después de 1 hora de trayecto por la carretera destapada, donde pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏬 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
 
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
@@ -100,9 +106,75 @@ height:"533"
 
 Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. A medida que disfrutábamos de las aguas termales esto nos hacia desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos en estas aguas mágicas. Después de habernos desconectado del estrés de la un relajante baño en estas aguas termales emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
 
+<a name="hospedaje-sifon" id="hospedaje-fison"></a>
+
+
+## HOSPEDAJE CERCA A LOS TERMALES DEL SIFÓN
+
+
+Los hospedajes que encontrarás en el recorrido hacia los termales del Sifón son limitados y además debes de saber que no se permite acampar dentro de los termales del Sifón, muchas personas optan por hospedarse en Manizales.
+
+
+### HOSPEDAJE TERMALES DEL OTOÑO
+
+
+Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
+
+
+{% include image.html,
+ file:"rutas/caldas/sifon/hotel-otono.png",
+caption:"Foto Hotel vía nevado del Ruiz",
+width:"1248",
+height:"727"
+%}
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
+
+
+### THE COFFEE CLUB (MANIZALES)
+
+
+El The Coffee Club se encuentra a 5,8 km de la estación del teleférico de Manizales y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.
+
+
+{% include image.html,
+ file:"rutas/caldas/sifon/apartamento-manizales.png",
+caption:"Foto Apartamento en Manizales",
+width:"1248",
+height:"727"
+%}
+
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
+
+
+### AYENDA 1131 CASA VALENCIA (MANIZALES)
+
+
+Cuenta con recepción 24 horas, servicio de conserjería y WiFi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manziales.
+
+
+{% include image.html,
+ file:"rutas/caldas/sifon/hotel-manizales.png",
+caption:"Foto Hotel en Manizales",
+width:"1248",
+height:"727"
+%}
+
+
+
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
+
+
 <a name="recomendaciones-sifon" id="recomendaciones-sifon"></a>
 
-## RECOMENDACIONES PARA VISITAR LOS TERMALES DEL SIFON
+## RECOMENDACIONES PARA VISITAR LOS TERMALES DEL SIFÓN
 
 - Lleven tenis para caminar por el río, ya que algunas piedras son muy filosas.
 - En los termales no hay baños ni nada por el estilo, si necesitarán usar un baño, tendrán que ir de nuevo a la casa donde se pagó la entrada (tienda).

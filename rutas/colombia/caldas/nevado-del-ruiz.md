@@ -81,7 +81,7 @@ Si quisieres consultar tour grupales para el nevado del Ruiz puedes dar __<a hre
  
 Para ir al Nevado del Ruiz lo primero que tuvimos que hacer fue llegar a Manizales, allí no recogió la agencia de viajes que nos iba a realizar el tour.
 
-<ins>_Queremos hacer claridad que para llegar hasta la entrada del nevado del Ruiz no encontrar+an transporte publico._</ins>
+<ins>_Queremos hacer claridad que para llegar hasta la entrada del nevado del Ruiz no encontrarán transporte publico._</ins>
  
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y la emoción se hacía más fuerte al ver los hermosos frailejones 🍃.
  
@@ -105,6 +105,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotogr
 Después de tomar fotos a esta hermosa laguna, continuamos nuestro camino. Más adelante  hicimos nuestra última parada en el sector llamado el arbolito,  desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
 
 __FOTO DEL NEVADO DEL RUIZ:__
+
 {% include image.html,
   file:"rutas/caldas/ruiz/nevado-del-ruiz.jpg",
  caption:"Foto de Laguna Negra",
@@ -118,19 +119,55 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
 
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ
 
-En el recorrido que hicimos solo nos encontramos con un hospedaje, si sabes de otro disponible nos puedes escribir a nuestras redes sociales para actualizar la información.
 
-### HOSPEDAJE EL ARBOLITO
- 
-En el sector el arbolito encontramos el  último restaurante y hospedaje más cercano antes de llegar a la entrada del Nevado del Ruiz, aquí brindan los siguientes servicios:
+Los hospedajes que encontrarás en el recorrido al nevado del Ruiz son limitados, muchas personas optan por hospedarse en Manizales y así disfrutar de la ciudad 🪅.
 
-* Desayunos 🥟: $8.000 Pesos.
-* Almuerzos desde 🍛: $14.000 pesos. 
-* Hospedaje 🛏: $40.000 pesos por persona (incluye desayuno).
-* Glamping 🏕: $300.000 para 4 personas (incluye una botella de vino y desayuno). 
+
+### HOSPEDAJE TERMALES DEL OTOÑO
+
+Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km. 
+
+{% include image.html,
+  file:"rutas/caldas/ruiz/hotel-otono.png",
+ caption:"Foto Hotel vía nevado del Ruiz",
+ width:"1248",
+ height:"727"
+%}
  
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
+### THE COFFEE CLUB (MANIZALES)
+
+El The Coffee Club se encuentra a 5,8 km de la estación del teleférico de Manizales y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.
+
+{% include image.html,
+  file:"rutas/caldas/ruiz/apartamento-manizales.png",
+ caption:"Foto Apartamento en Manizales",
+ width:"1248",
+ height:"727"
+%}
  
-Después de esta última parada nos subimos de nuevo al carro y continuamos por algunos minutos hasta llegar a la entrada del __parque de los Nevado__, allí es donde se encuentra la entrada del nevado del Ruiz 🗻.
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
+### AYENDA 1131 CASA VALENCIA (MANIZALES)
+
+Cuenta con recepción 24 horas, servicio de conserjería y WiFi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manziales.
+
+{% include image.html,
+  file:"rutas/caldas/ruiz/hotel-manizales.png",
+ caption:"Foto Hotel en Manizales",
+ width:"1248",
+ height:"727"
+%}
+ 
+
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+
  
  <a name="costos-ruiz" id="costos-ruiz"></a> 
 
