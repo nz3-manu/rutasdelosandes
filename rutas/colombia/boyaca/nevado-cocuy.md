@@ -30,7 +30,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 *  <a href="#hospedaje-cocuy" > Hospedaje cerca al Nevado del Cocuy</a>
 *  <a href="#valor-cocuy" > Valor entrada al Nevado del Cocuy</a>
 *  <a href="#tour-cocuy" > Precio del Tour al Nevado del Cocuy </a>
-*  <a href="#recomendacion-cocuy" > Recomendaciones a tener en cuenta</a>
+*  <a href="#recomendacion-cocuy" > Recomendaciones para visitar el nevado del Cocuy</a>
 
 
 
@@ -51,7 +51,7 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 
 
-En el interior del parque está la Sierra Nevada del Cocuy, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 m, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que es la mayor masa de nieve en América del Sur.
+En el interior del parque está la Sierra Nevada del Cocuy 🗻, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 m, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que es la mayor masa de nieve en América del Sur.
 
 
 
@@ -59,20 +59,30 @@ En el interior del parque está la Sierra Nevada del Cocuy, una formación monta
 Finalmente, en el extremo nororiental del parque, hay comunidades de la etnia U'wa, cuyas tradiciones siguen prácticamente intactas. Además, cabe señalar que el parque tiene todos los ecosistemas presentes en el país y una abundante fauna y flora.
 
 
+<a id="banner1" href="https://www.randes.co/" target="_blank"> 
+{% include image.html, 
+  file:"publicidad-post/chaqueta-randes.jpg", 
+  caption:"Banner Chaqueta", 
+  width:"480", 
+  height:"200" 
+%}
+</a>
+
+
 <a name="como-cocuy" id="como-cocuy"></a>
 
 
-## ¿CÓMO LLEGAR AL NEVADO DEL COCUY?
+## ¿CÓMO LLEGAR AL NEVADO DEL COCUY 🚐?
 
 
 
 
-Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hacer directamente desde Bogotá o desde Tunja. A continuación te mostraremos estas 2 opciones:
+Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hacer directamente desde Bogotá o Tunja. A continuación te mostraremos estas 2 opciones:
 
 
 
 
-* __Desde Bogota a Güicán Boyacá:__ La única empresa que presta este servicio desde Bogotá es Expreso Paz del Río. Los horarios de salida son: 6:00 am, 2:00 pm, 6:00 pm, 8:00 pm, la duración del trayecto es de aproximadamente 11 horas. El precio del pasaje de aproximadamente $100.000 Cop (Trayecto).
+* __Desde Bogota a Güicán Boyacá:__ La única empresa que presta este servicio es Expreso Paz del Río. Los horarios de salida son: 6:00 am, 2:00 pm, 6:00 pm, 8:00 pm, la duración del trayecto es de aproximadamente 11 horas. El precio del pasaje de aproximadamente $100.000 Cop (Trayecto).
 
 
 
@@ -97,14 +107,14 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 
 
 
-### LUGARES MÁS EMBLEMÁTICOS DEL NEVADO DEL COCUY
+### LUGARES MÁS EMBLEMÁTICOS DEL NEVADO DEL COCUY 🗻
 
 
 ### RITACUBA BLANCO
 
 
 Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 de ancho.
-Es la punta más alta del nevado y por ende el pico más alto de la Cordillera Oriental, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
+Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
 
 
 {% include image.html,
@@ -129,7 +139,8 @@ height:"800"
 ### PULPITO DEL DIABLO
 
 
-El Púlpito del Diablo es una gigante roca vertical Con una altura de 5.070 metros en su base. Su nombre proviene de una antigua leyenda que narra las peripecias del diablo, el cual se sentaba en aquella roca por las noches y empezaba a realizar maldades, provocando deshielos y deslizamientos de roca y nieve en este sector (Castañeda & Suárez, 1989). Esta gigante roca posee unos 70 m. de altura por 150 de ancho.
+El Pulpito del Diablo se caracteriza por ser una gigante roca con una altura de 70 metros y 150 metros de ancho. Algunas personas de la zona cuentan que su nombre proviene de una antigua leyenda, en la que dice que el diablo se sentaba en esa roca por las noches y empezaba a realizar maldades, provocando deshielos y deslizamientos de roca y nieve en este sector, de ahí los locales le dieron este particular nombre a esta roca __“Pulpito del Diablo”__ 😈.
+
 
 {% include image.html,
 file:"rutas/boyaca/nevado-cocuy/pulpito-diablo.jpeg",
@@ -145,7 +156,7 @@ height:"1296"
 ### LAGUNA GRANDE DE LA SIERRA
 
 
-Es la segunda más grande por su extensión, además que se hace el avistamiento del lagarto collarejo, en el camino podrán observar la cueva de la Cuchumba, el valle de los frailejones, el camino tiene una duración aproximada de 10,8 km se inicia  el sendero a   3.700 m.s.n.m y llegaran a 4.800 m.s.n.m.
+Debido a su extensión, es la __segunda más grande dentro del Parque Nacional Natural El Cocuy__, en el recorrido a esta laguna podrán apreciar el Valle de los Frailejones y la cueva de la Cuchumba. 
 
 
 {% include image.html,
@@ -161,7 +172,7 @@ height:"2480"
 
 
 
-Cabe aclarar que para  visitar el nevado del Cocuy se puede hacer por los municipios de Cocuy y Güicán de la Sierra, importante resaltar que entre estos dos __pueblos__, hay una distancia de 30 minutos aproximadamente y en ambos lugares se podrán hospedar y contratar los servicios dependiendo del presupuesto que se tenga de viaje.
+Cabe aclarar que para  visitar el nevado del Cocuy se puede hacer por los __municipios de Cocuy y Güicán de la Sierra__, importante resaltar que entre estos dos pueblos, hay una distancia de 30 minutos aproximadamente y en ambos lugares se podrán hospedar y contratar los servicios dependiendo del presupuesto que se tenga de viaje.
 
 
 <a name="hospedaje-cocuy" id="hospedaje-cocuy"></a>
@@ -177,12 +188,15 @@ No olvidar lo siguiente y es que, __está prohibido acampar en los Parques Nacio
 
 
 
-### HOSPEDAJES EN EL COCUY:
+### HOSPEDAJES EN EL COCUY
 
 
 
 
-* __Casa Museo la Posada del Molino:__ La Casa Museo la Posada del Molino presenta una arquitectura colonial y ofrece terraza y jardín. Se encuentra a 250 metros de la plaza principal de El Cocuy y a 200 metros de la zona financiera.
+#### CASA MUSEO LA POSADA DEL MOLINO
+
+
+La Casa Museo la Posada del Molino presenta una arquitectura colonial y ofrece terraza y jardín. Se encuentra a 250 metros de la plaza principal de El Cocuy y a 200 metros de la zona financiera.
 Las habitaciones presentan una decoración rústica y disponen de TV, armario y baño privado con ducha. Algunas tienen vistas a las montañas.
 
 
@@ -199,7 +213,10 @@ height:"727"
 
 
 
-* __Hostal Caminante:__ se encuentra en El Cocuy y ofrece jardín, salón compartido, terraza y WiFi gratuita en todas las instalaciones. El alojamiento cuenta con cocina compartida, servicio de habitaciones y servicio de organización de excursiones.
+### HOSTAL CAMINANTE
+
+
+Se encuentra en El Cocuy y ofrece jardín, salón compartido, terraza y WiFi gratuita en todas las instalaciones. El alojamiento cuenta con cocina compartida, servicio de habitaciones y servicio de organización de excursiones.
 
 
 {% include image.html,
@@ -215,7 +232,9 @@ height:"727"
 
 
 
-* __Pinares del Carrizalito:__  El Pinares del Carrizalito está situado en El Cocuy. Este hotel rural ofrece un restaurante y aparcamiento gratuito, las habitaciones disponen de vistas a la montañas y al jardín, TV por cable, zona de estar al aire libre y utensilios de planchado.
+### PINARES DEL CARRIZALITO
+
+ El Pinares del Carrizalito está situado en El Cocuy. Este hotel rural ofrece un restaurante y aparcamiento gratuito, las habitaciones disponen de vistas a la montañas y al jardín, TV por cable, zona de estar al aire libre y utensilios de planchado.
 
 
 {% include image.html,
@@ -231,12 +250,14 @@ height:"727"
 
 
 
-### HOSPEDAJES EN GÜAICÁN:
+### HOSPEDAJES EN GÜAICÁN
 
 
 
 
-* __Hotel Ecoturistico el Eden:__ ofrece jardín, terraza, restaurante y WiFi gratuita. Hay servicio de habitaciones, recepción 24 horas y servicio de organización de excursiones. Las habitaciones incluyen armario, las habitaciones disponen de baño privado con ducha.
+#### HOTEL ECOTURISTICO EL EDEN
+
+Ofrece jardín, terraza, restaurante y WiFi gratuita. Hay servicio de habitaciones, recepción 24 horas y servicio de organización de excursiones. Las habitaciones incluyen armario, las habitaciones disponen de baño privado con ducha.
 
 
 {% include image.html,
@@ -252,7 +273,9 @@ height:"727"
 
 
 
-* __Hotel Casa del Colibrí:__ Alberga un restaurante, el baño es privado e incluye artículos de aseo gratuitos. Se proporcionan productos de limpieza, cuenta con jardín y un bar. El establecimiento ofrece servicio de entrega de comestibles, consigna de equipaje y máquina expendedora.
+#### HOTEL CASA DEL COLIBRÍ
+
+Alberga un restaurante, el baño es privado e incluye artículos de aseo gratuitos. Se proporcionan productos de limpieza, cuenta con jardín y un bar. El establecimiento ofrece servicio de entrega de comestibles, consigna de equipaje y máquina expendedora.
 
 
 {% include image.html,
@@ -268,7 +291,9 @@ height:"727"
 
 
 
-* __Hotel Brisas del Nevado:__ El Hotel Brisas del Nevado tiene una terraza y está situado en Güicán, en el departamento de Boyacá. El establecimiento admite mascotas y alberga un restaurante, Algunas habitaciones disponen de balcón o patio. Todas ellas cuentan con TV de pantalla plana. Además, el Hotel Brisas del Nevado proporciona WiFi gratuita.
+### HOTEL BRISAS DEL NEVADO
+
+El Hotel Brisas del Nevado tiene una terraza y está situado en Güicán, en el departamento de Boyacá. El establecimiento admite mascotas y alberga un restaurante, Algunas habitaciones disponen de balcón o patio. Todas ellas cuentan con TV de pantalla plana. Además, el Hotel Brisas del Nevado proporciona WiFi gratuita.
 
 
 La recepción está abierta las 24 horas.El Hotel Brisas del Nevado tiene una terraza y está situado en Güicán, en el departamento de Boyacá. El establecimiento admite mascotas y alberga un restaurante.
@@ -313,13 +338,7 @@ Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aqu�
 * __Seguro médico y de rescate ⛑:__ Es completamente obligatorio para ingresar a cualquier Parque Nacional del país, y su valor es de aproximadamente $7.500 pesos por día.
 
 
-
-
-_Algo que debes de tener en cuenta al momento de planear tu viaje al nevado del Cocuy es lo siguiente:_
-
-
-* Está prohibido el ingreso a los Parques Nacionales a menores de 10 años y mayores de 75 años.
-* No es aconsejable el acceso a personas con: limitaciones o discapacidades físicas, o con diagnóstico de problema cardiovascular, o mujeres en estado de embarazo en etapa avanzada.
+* __Está prohibido el ingreso a los Parques Nacionales a:__ Menores de 10 años, mayores de 75 años, mujeres en estado de embarazo en etapa avanzada, personas con problemas cardiovascular o cardiacas y por último no se permiten el ingreso de mascotas.
 
 
 
@@ -375,7 +394,7 @@ Es de aclarar que hay 3 senderos los cuales se pueden hacer en la Sierra Nevada,
 
 
 
-👉 Para ver precio del tour al Nevado del Cocuy y reservar, lo puedes hacerlo  <a href="https://www.randes.co/products/tour-nevado-del-cocuy-3-dias-2-noches" target="_blank">  clic aquí.</a>
+👉  <a href="https://www.randes.co/products/tour-nevado-del-cocuy-3-dias-2-noches" style="color:green" target="_blank">  Para ver precio del tour al Nevado del Cocuy y reservar clic aquí.</a>
 
 
 
@@ -409,7 +428,7 @@ Algunas de estas prendas las podrás adquirir en nuestra tienda en línea de mon
 <a name="recomendacion-cocuy" id="recomendacion-cocuy"></a>
 
 
-### RECOMENDACIONES FINALES PARA VISITAR EL NEVADO DEL COCUY:
+### RECOMENDACIONES FINALES PARA VISITAR EL NEVADO DEL COCUY
 
 
 
