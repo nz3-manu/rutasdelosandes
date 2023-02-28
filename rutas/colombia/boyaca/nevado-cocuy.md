@@ -190,10 +190,10 @@ Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos d
 
 
 {% include image.html,
-file:"rutas/boyaca/nevado-cocuy/ricatua-blanco.jpg",
+file:"rutas/boyaca/nevado-cocuy/ricatua-blanco.JPG",
 caption:"Foto Ritacuba Blanco",
-width:"640",
-height:"640"
+width:"843",
+height:"562"
 %}
 
 
