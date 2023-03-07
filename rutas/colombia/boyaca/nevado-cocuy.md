@@ -138,7 +138,7 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 
 
-En el interior del parque está la Sierra Nevada del Cocuy 🗻, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 m, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que es la mayor masa de nieve en América del Sur.
+En el interior del parque está la Sierra Nevada del Cocuy 🗻, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 m, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que __es la mayor masa de nieve en América del Sur__.
 
 
 
@@ -240,7 +240,7 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 
 
 
- 📞 Para confirmar horarios de salida, puedes llamar a Expreso Paz del Río: <a href="tel: 3102964314"> 3102964314</a>
+📞 Para confirmar horarios de salida, puedes llamar a Expreso Paz del Río: <a href="tel: 3102964314"> 3102964314</a>
 
 
 
@@ -257,7 +257,7 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 
 
 
-* __Desde Tunja a Güicán Boyacá:__ Puedes consultar con las siguientes empresas; Gacela y libertadores, ya que se intercalan ambas empresas, es decir, un día va una empresa de buses y al otro día va otra empresa. Los horarios que manejan son los siguientes: 9:00 am, 5:00 pm, 9:00 pm, 11:00 pm, la duración del trayecto es de aproximadamente 11 horas. El precio del pasaje es de $70.000 Cop (Trayecto).
+* __Desde Tunja a Güicán Boyacá:__ Puedes consultar con las siguientes empresas; Gacela y libertadores, ya que se intercalan ambas empresas, es decir, un día va una empresa de buses y al otro día va otra empresa. Los horarios que manejan son los siguientes: 9:00 am, 5:00 pm, 9:00 pm, 11:00 pm, la duración del trayecto es de aproximadamente 9 horas. El precio del pasaje es de $70.000 Cop (Trayecto).
 
 
 
@@ -274,24 +274,8 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 
 
 
-📞 Para confirmar horarios de salida puedes, llamar a la empresa de buses Gacela: <a href="tel: 3208090289"> 3208090289</a>
+📞 Para confirmar horarios de salida puedes, llamar a la empresa de buses Gacela: <a href="tel: 3208090289"> 3208090289</a> o <a href="tel: 3173001000"> 3173001000</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📞 Para confirmar horarios de salida, puedes llamar a la empresa de buses Libertadores: <a href="tel: 3173001000"> 3173001000</a>
 
 
 
@@ -326,7 +310,7 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 
 
 
-Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 de ancho. Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
+Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 kilometros de ancho. Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
 
 
 
@@ -725,7 +709,7 @@ Ofrece jardín, terraza, restaurante y WiFi gratuito. Hay servicio de habitacion
 
 {% include image.html,
 file:"rutas/boyaca/nevado-cocuy/guican-hospedaje-eden.png",
-caption:"Foto Hotel vía nevado del Ruiz",
+caption:"Foto Hotel cerca nevado del Cocuy Eden",
 width:"1248",
 height:"727"
 %}
@@ -770,7 +754,7 @@ Cuenta con restaurante, baño privado e incluye artículos de aseo gratuitos. Se
 
 {% include image.html,
 file:"rutas/boyaca/nevado-cocuy/guican-hospedaje-colibrie.png",
-caption:"Foto Hotel vía nevado del Ruiz",
+caption:"Foto Hotel cerca nevado del Cocuy",
 width:"1248",
 height:"727"
 %}
@@ -819,7 +803,7 @@ El Hotel Brisas del Nevado tiene una terraza y está situado en Güicán, en el 
 
 {% include image.html,
 file:"rutas/boyaca/nevado-cocuy/guican-hospedaje-brisas.png",
-caption:"Foto Hotel vía nevado del Ruiz",
+caption:"Foto Hotel cerca nevado del Cocuy",
 width:"1248",
 height:"727"
 %}
@@ -866,7 +850,7 @@ __NOTA__: Se recomienda llegar a alguno de los municipios  donde están los punt
 
 
 
-## VALOR DE ENTRADA AL NEVADO DEL COCUY 🎟
+## VALOR DE ENTRADA AL NEVADO DEL COCUY 🎟 (INFORMACIÓN 2023) 
 
 
 
@@ -883,7 +867,7 @@ __NOTA__: Se recomienda llegar a alguno de los municipios  donde están los punt
 
 
 
-Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aquí se describirán los valores parte por parte.
+¿¿Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aquí se describirán los valores parte por parte.
 
 
 
@@ -900,7 +884,7 @@ Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aqu�
 
 
 
-* __Valor ingreso al Nevado del Cocuy 🎟:__ Para los turistas colombianos mayores de 25 años, el valor de acceso es de $22.500 Cop, y para los menores de 25 años, el valor es de $11.000 Cop. Turistas extranjeros $55.000 Cop.
+* __Valor ingreso al Nevado del Cocuy 🎟:__ Para los turistas colombianos menores de 25 años el valor de acceso es de $24.500 COP, y para los mayores de 25 años el valor es de $41.500 COP. Turistas extranjeros $55.000 Cop.
 
 
 
@@ -917,7 +901,7 @@ Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aqu�
 
 
 
-* __Seguro médico y de rescate ⛑:__ Es completamente obligatorio para ingresar a cualquier Parque Nacional del país, y su valor es de aproximadamente $7.500 pesos por día.
+* __Seguro médico y de rescate ⛑:__ Es completamente obligatorio para ingresar a cualquier Parque Nacional del país, y su valor es de aproximadamente $8.900 COP por día.
 
 
 
@@ -926,7 +910,7 @@ Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aqu�
 
 
 
-* __Está prohibido el ingreso a los Parques Nacionales a:__ Menores de 10 años, mayores de 75 años, mujeres en estado de embarazo en etapa avanzada, personas con problemas cardiovascular o cardiacas y por último no se permiten el ingreso de mascotas.
+* __Está prohibido el ingreso a los Parques Nacionales a 🚫:__ Menores de 10 años, mayores de 75 años, mujeres en estado de embarazo en etapa avanzada, personas con problemas cardiovascular o cardiacas y por último no se permiten el ingreso de mascotas.
 
 
 
@@ -1092,7 +1076,7 @@ Si quieres ir con una excursión grupal puedes dejarnos tus datos y una vez comp
 
 
 
-### ¿QUÉ DEBES LLEVAR?
+### ¿QUÉ DEBES LLEVAR PARA EL TOUR?
 
 
 
