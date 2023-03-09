@@ -553,7 +553,7 @@ La Casa Museo la Posada del Molino se caracteriza por tener una arquitectura col
 
 {% include image.html,
 file:"rutas/boyaca/nevado-cocuy/cocuy-hospedaje-museo.png",
-caption:"Foto Hotel vía nevado del Ruiz",
+caption:"Foto Hotel cerca al Nevado del Cocuy",
 width:"1248",
 height:"727"
 %}
