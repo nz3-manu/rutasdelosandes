@@ -103,7 +103,7 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/boyaca/cocuy.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/boyaca/nevado-del-cocuy.html">See this post in English version 🇺🇸</a>]**
 
 
 
@@ -313,7 +313,7 @@ Para poder llegar al __Parque Nacional Natural Nevado del Cocuy__, lo puedes hac
 Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 kilometros de ancho. Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
 
 
-
+__Distancia del sendero:__ 14 kilometros ida y vuelta.
 
 
 
@@ -385,7 +385,7 @@ height:"562"
 
 El Pulpito del Diablo se caracteriza por ser una gigante roca con una altura de 70 metros y 150 metros de ancho. Algunas personas de la zona cuentan que su nombre proviene de una antigua leyenda, en la que dice que el diablo se sentaba en esa roca por las noches y empezaba a realizar maldades, provocando deshielos y deslizamientos de roca y nieve en este sector, de ahí los locales le dieron este particular nombre a esta roca __“Pulpito del Diablo”__ 😈.
 
-
+__Distancia del sendero:__ 17 kilometros ida y vuelta.
 
 
 
@@ -427,7 +427,7 @@ height:"1296"
 Debido a su extensión de agua, es la __segunda laguna más grande  dentro del Parque Nacional Natural El Cocuy__. En el recorrido a esta laguna podrán apreciar el Valle de los Frailejones y la cueva de la Cuchumba.
 
 
-
+__Distancia del sendero:__ 20 kilometros ida y vuelta.
 
 
 
