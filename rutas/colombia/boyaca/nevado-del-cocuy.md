@@ -103,7 +103,7 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/boyaca/nevado-del-cocuy.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/boyaca/nevado-el-cocuy.html">See this post in English version 🇺🇸</a>]**
 
 
 
