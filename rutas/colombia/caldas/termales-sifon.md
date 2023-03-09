@@ -39,7 +39,7 @@ Empecemos con la aventura ⛰.
 
 <a name="tour-sifon" id="tour-sifon"></a>
 
-## TOUR A LOS TERMALES DEL SIFÓN
+## TOUR A LOS TERMALES DEL SIFÓN 🧳
 
 Los **precios para el tour a la los termales del Sifón** pueden variar desde $160.000 COP (Por persona) hasta $560.000 COP (Por persona) , esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
 
@@ -52,17 +52,20 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $1
 - 👨 Guianza
 - 🫶 Seguro de asistencia médica
 
-👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? puedes escribirnos </a>**
+👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar en un tour privado? puedes escribirnos </a>**
+
+
+En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos tu información y una vez completemos el cupo te estaríamos contactando __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí 👈</a>.__ 
 
 <a name="llegar-Sifon" id="llegar-Sifon"></a>
 
-## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN ?
+## ¿CÓMO LLEGAR A LOS TERMALES DEL SIFÓN 🚗?
 
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar.
 
-<ins> _En caso que quieras realizar este tour puedes dejarnos tus datos y una vez se complete el cupo (mínimo de 7 personas), te estaríamos contactando o si deseas hacer el tour privado puedes dejarnos un comentario a la hora de diligenciar nuestro formulario,_ __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí 👈</a>.__ </ins>
+<ins> Debes de tener en cuenta que para llegar a este lugar no vas a encontrar transporte público </ins>
 
-Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones.
+Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones 🍃.
 
 Para climatizar nuestro cuerpo a la altura del paramo, tuvimos que bajar levemente los vidrios al carro, esto con el fin de que nuestros cuerpos se empezaran a adaptar al frío del paramo para no tener que sufrir el famoso mal de altura ( **<a href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html" target="_blank"> ver mal de altura</a>.** )🥶.
 
@@ -82,9 +85,9 @@ __Laguna Negra__, aprovechamos un rato para comprar algo de desayuno, y tomar al
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>**
 
 
-### TERMALES DEL SIFÓN
+### TERMALES DEL SIFÓN 
 
-Después de 1 hora de trayecto por la carretera destapada, donde pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏬 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
+Después de 1 hora de trayecto por la carretera destapada, donde pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏡 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
 
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
@@ -95,7 +98,7 @@ Después de 1 hora de trayecto por la carretera destapada, donde pudimos observa
 %}
 </a>
 
-Desde la pequeña tienda 🏬 hasta los termales hay aproximadamente 1 kilómetro, el cual es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
+Desde la pequeña tienda hasta los termales hay aproximadamente 1 kilómetro, el cual es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
 
 {% include image.html,
 file:"rutas/caldas/sifon/3.JPG",
@@ -104,12 +107,24 @@ width:"800",
 height:"533"
 %}
 
-Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. A medida que disfrutábamos de las aguas termales esto nos hacia desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos en estas aguas mágicas. Después de habernos desconectado del estrés de la un relajante baño en estas aguas termales emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
+Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. 
+
+
+A medida que disfrutábamos de las aguas termales esto nos hacía desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos sumergidos sus aguas mágicas 💆. 
+
+{% include image.html,
+file:"rutas/caldas/sifon/termales-sifon-2.JPG",
+caption:"Termales del Sifon",
+width:"1000",
+height:"1500"
+%}
+
+Después de habernos desconectado del estrés de la un relajante baño en estas aguas termales, emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
 
 <a name="hospedaje-sifon" id="hospedaje-fison"></a>
 
 
-## HOSPEDAJE CERCA A LOS TERMALES DEL SIFÓN
+## HOSPEDAJE CERCA A LOS TERMALES DEL SIFÓN 🛌
 
 
 Los hospedajes que encontrarás en el recorrido hacia los termales del Sifón son limitados y además debes de saber que no se permite acampar dentro de los termales del Sifón, muchas personas optan por hospedarse en Manizales.
