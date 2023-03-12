@@ -12,7 +12,7 @@ trending: true
 
 # RESERVA BARBAS BREMEN
 
-La reserva Barbas Bremen se encuentra localizada entre los municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda).
+La reserva Barbas Bremen se encuentra localizada entre los __municipios de Filandia, Circasia, Salento (Quindío) y Pereira (Risaralda)__.
 
 Entre los atractivos de la reserva está la gran biodiversidad de aves lo que favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
@@ -51,22 +51,13 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 <a name="tour-barbas-bremen" id="tour-barbas-bremen"></a>
 
-## TOUR A LA RESERVA BARBAS BREMEN
+## TOUR A LA RESERVA BARBAS BREMEN 🧳
 
-### Tour al Barbas Bremen desde Pereira
 
-La ruta que documentamos es por pereira, si lo quisieras hacer tal y como lo hicimos tendrías que llegar hasta la entrada de la reserva y allí te estaría esperando uno los guías locales, el **valor del tour es de $70.000 Cop por persona, para minimo 3 personas.**
 
-**El tour incluye:**
+__El tour comienza desde Filandia-Quindío__, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, el precio del tour es de $80.000 Cop por persona.
 
-- 👨 Guianza
-- 🫶 Seguro de asistencia medica
-
-## Tour al Bremen desde Filandia
-
-Este tour comienza desde Filandia-Quindío, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, **el precio del tour es de $80.000 Cop por persona.**
-
-**El valor del tour incluye:**
+**EL VALOR DEL TOUR INCLUYE:**
 
 - 🚙 Transporte
 - 👨 Guía
@@ -84,7 +75,7 @@ Para realizar este **recorrido hasta la reserva Barbar Bremen**, tomamos el bus 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -122,7 +113,7 @@ Este recorrido realmente fue una experiencia mágica en el sentido de poder esta
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
