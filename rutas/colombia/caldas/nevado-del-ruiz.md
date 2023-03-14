@@ -61,17 +61,17 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOURS AL NEVADO DEL RUIZ 
 
-El valor del __tour al Nevado del Ruiz__  es en promedio de $570.000 Cop a $240.000 Cop esto depende del numero de personas que van a ir.
+El valor del __tour al Nevado del Ruiz__  depende del numero de personas que van a ir.
 
 __El tour al Nevado del Ruiz incluye:__
-* 🚌 Transporte desde Manizales 
+* 🚌 Transporte desde Manizales o Pereira
 * 🥨 Desayuno 
 * 🍝 Almuerzo 
 * 🫶 Seguro de asistencia médica 
 * ♨️ Ingreso a termales del Otoño 
 * 👨 Guianza 
 
-Si quisieres consultar tour grupales para el nevado del Ruiz puedes dar __<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> clic aquí</a>__ 👈
+Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://wa.link/tzddho" style="color:green;" target="_blank"> clic aquí</a>__ 👈
 
 
  
