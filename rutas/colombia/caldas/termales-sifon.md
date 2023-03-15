@@ -24,7 +24,7 @@ Los Termales del Sifón son unas aguas termales de color turquesa, que se encuen
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/termales-sifon.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/sifon-thermal-waters.html">See this post in English version 🇺🇸</a>]**
 
 <a name="video-sifon" id="video-sifon"></a>
 
