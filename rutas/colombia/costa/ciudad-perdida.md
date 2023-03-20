@@ -27,13 +27,14 @@ Declarado _monumento nacional por el gobierno colombiano_, este atractivo turís
 
 
 
-* Datos curiosos de Ciudad Perdida
-* ¿Cómo llegar a Ciudad Perdida?
-* Sitios emblemáticos de Santa Marta
-* Hospedajes cerca a Ciudad Perdida
-* Valor de los Tours a Ciudad Perdida
-* ¿Qué debes de llevar a Ciudad Perdida?
-* Recomendaciones finales para visitar Ciudad Perdida
+
+* <a href="#dato-ciudad-perdida"> Datos curiosos de Ciudad Perdida</a>
+* <a href="#como-ciudad-perdida"> ¿Cómo llegar a Ciudad Perdida? </a>
+* <a href="#sitios-ciudad-perdida"> Sitios emblemáticos de Santa Marta </a>
+* <a href="#hospedaje-ciudad-perdida"> Hospedajes cerca a Ciudad Perdida </a>
+* <a href="#dato-ciudad-perdida"> Ruta a la ciudad perdida </a> 
+* <a href="#dato-ciudad-perdida"> Tours a la Ciudad Perdida  </a>
+* <a href="#recomendaciones-ciudad-perdida"> Recomendaciones finales para visitar Ciudad Perdida</a>
 
 
 
@@ -41,7 +42,7 @@ Declarado _monumento nacional por el gobierno colombiano_, este atractivo turís
 En esta post te contaremos cómo llegar a Ciudad Perdida (Santa Marta), además, te describiremos todo lo que necesitas saber para visitar este deslumbrante sitio turístico del caribe Colombiano. Sin más preámbulo, que empiece la aventura. 
 
 
-
+<a name="dato-ciudad-perdida" id="dato-ciudad-perdida"></a>
 
 ## DATOS CURIOSOS DE CIUDAD PERDIDA (SANTA MARTA)
 
@@ -61,13 +62,7 @@ Por eso, alrededor de _Ciudad Perdida_ hay innumerables datos que despertarán c
 * _Ciudad Perdida_ se eleva entre los 900 y los 1.300 metros sobre el nivel del mar al pie del monte Coria, al norte de la _Sierra Nevada de Santa Marta_ en la margen derecha del arroyo Britaka. Conocido como Teyuna por los indígenas de la zona, de ahí su nombre compuesto _Parque Arqueológico Metrópolis Perdida-Teyuna_, también se le conoce como Britaka 200 en el nomenclador de las ruinas de la Sierra Nevada de Santa Marta.
 
 
-
-
-
-
-
-
-
+<a name="dato-ciudad-perdida" id="dato-ciudad-perdida"></a>
 
 ## ¿CÓMO LLEGAR CIUDAD PERDIDA (SANTA MARTA) 🚐?
 
@@ -125,22 +120,9 @@ La distancia de _Medellín a Santa Marta_ es de unos _837 km_, que tardan en rec
 
 
 
-Una vez se llega a Santa Marta, en el sitio conocido como Guacha Puerto Nuevo, en el Kilómetro 52, se hace un desvío hacia la población de _El Mamey_. En ese punto, se encuentran 3 caminos hasta el _parque arqueológico_, los cuales son los siguientes: 
+Una vez se llega a Santa Marta, Si cuentas con algo de tiempo en Santa Marta podrás visitar los siguientes lugares.
 
-
-_PRIMER CAMINO:_ Por este sendero, se recorre el _río Guachaca y el Mamey_. Al comenzar la caminata, se pasará por las ruinas de Mutanyi y Koskúnguea, el antiguo pueblo de Kogui. Al comienzo de la subida, una escalera de piedras y con 1200 peldaños, es la puerta de entrada al recinto principal. 
-
-
-_SEGUNDO CAMINO:_La primera parte es en estado agreste que lleva a Minca y de allí a Latagva, llena de bosques húmedos y terreno irregular que fatigan demasiado las piernas. La ruta conduce a _Filo Cartagena_, donde se ha construido un refugio en el cual los senderistas pueden recargar energías para continuar su camino.
-  foto
-
-_TERCER CAMINO:_Esta opción es la más peligrosa porque requiere _conocimientos previos de montañismo_. Ofrece rutas de escalada a nevados, lagunas altas y las ruinas del asentamiento Arhuaco. La entrada se encuentra en la _parte sur de las montañas de la Sierra, en la provincia de César_, y el viaje dura varios días.
-
-
--- foto --
-
-Si cuentas con algo de tiempo en Santa Marta podrás visitar los siguientes lugares 
-
+<a name="sitios-ciudad-perdida" id="sitios-ciudad-perdida"></a>
 
 ### 3 SITIOS EMBLEMÁTICOS QUE DEBES VISITAR EN SANTA MARTA
 
@@ -175,7 +157,7 @@ También llamado _Parque Santander_ ubicado en el centro de la ciudad, fue const
 
 
 
-
+<a name="hospedaje-ciudad-perdida" id="hospedaje-ciudad-perdida"></a>
 
 
 ## HOSPEDAJE CERCA A CIUDAD PERDIDA  🛌
@@ -225,6 +207,25 @@ Se caracteriza por tener una excelente ubicación en Santa Marta y ofrece habita
 En caso de que quieras tener más información acerca de las reservas en este hotel, dar click en el siguiente link https://www.booking.com/hotel/co/gagaka-hostel.es.html 
 
 
+
+## RUTA A LA CIUDAD PERDIDA
+
+El tour comienza en en el sitio conocido como Guacha Puerto Nuevo, en el Kilómetro 52, se hace un desvío hacia la población de _El Mamey_. En ese punto, se encuentran 3 caminos hasta el _parque arqueológico_, los cuales son los siguientes: 
+
+
+_PRIMER CAMINO:_ Por este sendero, se recorre el _río Guachaca y el Mamey_. Al comenzar la caminata, se pasará por las ruinas de Mutanyi y Koskúnguea, el antiguo pueblo de Kogui. Al comienzo de la subida, una escalera de piedras y con 1200 peldaños, es la puerta de entrada al recinto principal. 
+
+
+_SEGUNDO CAMINO:_La primera parte es en estado agreste que lleva a Minca y de allí a Latagva, llena de bosques húmedos y terreno irregular que fatigan demasiado las piernas. La ruta conduce a _Filo Cartagena_, donde se ha construido un refugio en el cual los senderistas pueden recargar energías para continuar su camino.
+  foto
+
+_TERCER CAMINO:_Esta opción es la más peligrosa porque requiere _conocimientos previos de montañismo_. Ofrece rutas de escalada a nevados, lagunas altas y las ruinas del asentamiento Arhuaco. La entrada se encuentra en la _parte sur de las montañas de la Sierra, en la provincia de César_, y el viaje dura varios días.
+
+
+-- foto --
+
+
+<a name="tour-ciudad-perdida" id="tour-ciudad-perdida"></a>
 
 
 ## TOURS A LA CIUDAD PERDIDA (SANTA MARTA) 🧳
@@ -284,9 +285,20 @@ __RECOMENDACIÓN:__ Ten en cuenta que si vas con múltiplos de 4 personas (4, 8,
 
 Para ver el precio o reservar el Tour a la Ciudad Perdida, puedes dar 👉 <a href="https://wa.link/lg45w4" target="_blank"> clic aquí </a>
 
+<a name="recomendaciones-ciudad-perdida" id="recomendaciones-ciudad-perdida"></a>
+
+## RECOMENDACIONES FINALES PARA VISITAR LA CIUDAD PERDIDA
+ 
+* Al momento de pasar por las comunidades indígenas, por favor respetar su espacio de intimidad, no tome fotos sin su debida autorización.
+
+* Cuidar la fauna y la flora, así como las instalaciones y bienes arqueológicos. Si encuentra animales en el camino, no los alimente.
+
+* Informe a la agencia con anticipación sobre sus preferencias alimenticias y/o cualquier patología o alergia que presente.
+
+* El tour no está recomendado para mujeres embarazadas, personas con enfermedades cardíacas, problemas digestivos o respiratorios. 
 
 
-## ¿QUÉ SE DEBE LLEVAR A CIUDAD PERDIDA (SANTA MARTA)?
+### ¿QUÉ SE DEBE LLEVAR A CIUDAD PERDIDA (SANTA MARTA)?
 
 
 Recuerda que debes ir muy bien preparado, ya que las condiciones climáticas varían frecuentemente en la zona; es por eso que, debes contar con los implementos o la indumentaria adecuada como:
@@ -307,20 +319,6 @@ Recuerda que debes ir muy bien preparado, ya que las condiciones climáticas var
 * Útiles de aseo personal
 * Dinero en Efectivo
 * Medicinas personales
-
-
-
-
-
-## RECOMENDACIONES FINALES 
-
-* Al momento de pasar por las comunidades indígenas, por favor respetar su espacio de intimidad, no tome fotos sin su debida autorización.
-
-* Cuidar la fauna y la flora, así como las instalaciones y bienes arqueológicos. Si encuentra animales en el camino, no los alimente.
-
-* Informe a la agencia con anticipación sobre sus preferencias alimenticias y/o cualquier patología o alergia que presente.
-
-* El tour no está recomendado para mujeres embarazadas, personas con enfermedades cardíacas, problemas digestivos o respiratorios. 
 
 
 Este es el fin de la ruta a la ciudad perdida, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes"> Instagram </a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
