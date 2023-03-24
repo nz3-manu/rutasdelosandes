@@ -31,7 +31,7 @@ Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con de
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -56,7 +56,7 @@ __Nota:__ _En una parte del trayecto vimos que la carretera había desaparecido 
  
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}

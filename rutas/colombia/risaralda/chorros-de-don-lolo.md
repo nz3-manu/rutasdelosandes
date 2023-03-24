@@ -37,7 +37,7 @@ Desde El terminal de Pereira tomamos el bus 🚌 hasta el municipio de Santa Ros
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -57,7 +57,7 @@ El jeep nos dejó en el “Restaurante-Mirador Don Lolo”, a partir de aquí de
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}

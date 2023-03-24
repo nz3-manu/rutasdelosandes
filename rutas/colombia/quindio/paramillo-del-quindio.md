@@ -87,7 +87,7 @@ En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señali
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad/chaqueta-randes.png",
+file:"publicidad-post/chaqueta-randes.png",
 caption:"",
 width:"480",
 height:"200" %}
@@ -164,7 +164,7 @@ Puedes dar **<a href="https://wa.link/wa.link/5aczuk" target="_blank"> click aqu
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
-file:"publicidad/ropa-randes.gif",
+file:"publicidad-post/ropa-randes.gif",
 caption:"",
 width:"480",
 height:"200" %}

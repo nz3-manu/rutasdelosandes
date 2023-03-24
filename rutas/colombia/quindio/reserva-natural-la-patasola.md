@@ -52,7 +52,7 @@ Esta reserva no cuenta con zona de camping 🚫🏕 .
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -105,7 +105,7 @@ El sendero normal cuenta con solo 1 cascada, así que nos tendremos que desviar 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}

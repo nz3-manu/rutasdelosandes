@@ -51,7 +51,7 @@ Se debe de tomar un bus 🚌 en el terminal de Pereira de la empresa Flota Occid
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}

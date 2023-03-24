@@ -169,7 +169,7 @@ Nuestro viaje inició desde la ciudad de Pereira a las 5:00 a.m, allí la agenci
 
 <a target="_blank" href="https://www.randes.co/collections/chaquetas-senderismo">
 {% include image.html,
-file:"publicidad/chaqueta-randes.png",
+file:"publicidad-post/chaqueta-randes.png",
 caption:"Banner Chaqueta",
 width:"480",
 height:"200" %}

@@ -87,7 +87,7 @@ En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostrarem
  
 <a id="banner2" href="https://www.randes.co/" target="_blank">
 {% include image.html,
-file:"publicidad/chaqueta-randes.png",
+file:"publicidad-post/chaqueta-randes.png",
 caption:"banner-chaqueta",
 width:"480",
 height:"200" %}

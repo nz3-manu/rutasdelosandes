@@ -53,7 +53,7 @@ Si piensas ir en bus te mostraremos la duración de trayecto y un precio aproxim
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}
@@ -75,7 +75,7 @@ Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesite
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"banner-ropa", 
 width:"480", 
 height:"200" %}

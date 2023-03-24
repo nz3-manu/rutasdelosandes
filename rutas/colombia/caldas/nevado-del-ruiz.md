@@ -190,7 +190,7 @@ __Importante:__ <ins>_el Nevado del Ruiz se encuentra en alerta amarilla, por lo
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 
 {% include image.html,
- file:"publicidad/chaqueta-randes.jpg",
+ file:"publicidad-post/chaqueta-randes.jpg",
  caption:"Chaqueta",
  width:"480",
  height:"200"

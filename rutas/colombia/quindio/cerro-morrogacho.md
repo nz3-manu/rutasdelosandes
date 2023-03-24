@@ -71,7 +71,7 @@ Una vez llegamos a salento nos encontramos con el grupo de viajeros que iban a s
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">
 {% include image.html,
-  file:"publicidad-post/chaqueta-randes.jpg",
+  file:"publicidad-post-post/chaqueta-randes.jpg",
   caption:"",
   width:"480",
   height:"200" 

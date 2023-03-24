@@ -46,7 +46,7 @@ Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/chaqueta-randes.png", 
+file:"publicidad-post/chaqueta-randes.png", 
 caption:"", 
 width:"480", 
 height:"200" %}

@@ -36,7 +36,7 @@ El Eje cafetero o también conocido como el triángulo del café, se encuentra e
 
 <a id="banner1" href="https://www.randes.co/" target="_blank"> 
 {% include image.html, 
-file:"publicidad/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
 width:"480", 
 height:"200" %}
