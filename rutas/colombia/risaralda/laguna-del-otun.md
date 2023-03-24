@@ -163,7 +163,7 @@ Una vez estando allí, desayunamos e inmediatamente recibimos una charla de indu
 
 
 
-__Nota:__ Una cosa que queremos dejar clara es que este sector no encontrará transporte público, y la carretera en invierno puede ser algo complicada. Así que se recomienda ir con los conductores que están acostumbrados a ir a este destino.
+__Nota:__ Una cosa que queremos dejar clara es que este sector no encontrarás transporte público, y la carretera en invierno puede ser algo complicada. Así que se recomienda ir con los conductores que están acostumbrados a ir a este destino.
 
 <a name="entrada-laguna" id="entrada-laguna"></a>
 
@@ -173,10 +173,10 @@ __Nota:__ Una cosa que queremos dejar clara es que este sector no encontrará tr
 
 
 
-* __Entrada al Parque los Nevados 2023 🎟:__ Para mayores de 5 años y menores de 25, el precio de la entrada es de $9.500 pesos, mientras que para mayores de 25 años, el precio es de $19.200 pesos. En el caso de los extranjeros, el costo de entrada es de $54,000 pesos.
+* __Entrada al Parque los Nevados 2023 🎟:__ Para mayores de 5 años y menores de 25, el precio de la entrada es de $9.500 pesos, mientras que para mayores de 25 años, el precio es de $19.500 pesos. En el caso de los extranjeros, el costo de entrada es de $54,000 pesos.
 
 
-* __Seguro médico y de rescate ⛑:__ Recuerde que es obligatorio ingresar a cualquier parque nacional en el país y tiene un valor aproximado de $5,500 pesos diarios. Así que si vas a acampar, deberás comprarlo por el número de días que estarás allí., _este se debe comprar con un mes de anticipación_.
+* __Seguro médico y de rescate ⛑:__ Recuerde que es obligatorio ingresar a cualquier parque nacional en el país y tiene un valor aproximado de $7,500 pesos diarios. Así que si vas a acampar, deberás comprarlo por el número de días que estarás allí, _este se debe comprar con anticipación_.
 
 
 ⚠️ __Recuerde que está prohibido el ingreso de:__ _Personas mayores de 70 años y menores de 5 años._
@@ -200,12 +200,12 @@ A continuación te mostraremos que incluye un tour para ir a la laguna del otun
 ## TOURS A LA LAGUNA DEL OTÚN (PASADÍA) 🧳
 
 
-El tour comienza a las 4 A.M desde la ciudad de Pereira y estará de vuelta de nuevo en Pereira alrededor de las 7:00 P.M. En esta pasadía solo sé llega hasta el sector conocido como La Asomadera o Mirador de Potosí. Los __precios para el tour a la Laguna del Otún__ pueden variar, esto dependerá del número de personas que vayan.
-
+El tour comienza a las 4 A.M desde la ciudad de Pereira y estará de vuelta de nuevo en Pereira alrededor de las 7:00 P.M. En este pasadía solo sé llega hasta el sector conocido como La Asomadera o Mirador de Potosí. Los __precios para el tour a la Laguna del Otún__ pueden variar, esto dependerá del número de personas que vayan.
 
 
 
 **El tour a la Laguna del Otún incluye:**
+
 * 🥨 desayuno
 * 🍝 almuerzo
 * 🚙 transporte 4x4
@@ -215,17 +215,17 @@ El tour comienza a las 4 A.M desde la ciudad de Pereira y estará de vuelta de n
 
 **<a href="https://www.randes.co/en/products/tour-laguna-del-otun" target="_blank"> Para ver Salidas grupales a la Laguna del Otún, clic aquí 👈 </a>.**
 
-
+¿No te sirven las fechas programadas de excursiones grupales? Dejanos tus datos y pronto te contactaremos, 📄 llenar información 👉 **<a href="https://forms.gle/tvAkLSkHN4ybqSBBA" target="_blank"> clic aquí </a>.**.
 
 
 
 
 ## RUTA DE LA LAGUNA DEL OTÚN 🚶‍♂️
 
+Aquí en este post te mostraremos el recorrido que realizamos a la laguna del otun,  el primer trayecto es desde la entrada del parque de los nevados, donde pagamos el ingreso hasta el sector conocido como mirador de potosi, este es el lugar en el cual se llega cuando se realiza el pasadia, y despues motraremos los otros sitios, no siendo mas empezamo explicando el recorrido a este magico lugar.
 
 
-
-### RUTA HASTA LA ASOMADERA O MIRADOR DE POTOSÍ
+### ASOMADERA O MIRADOR DE POTOSÍ (TOUR PASADÍA)
 
 
 Después de un recorrido en vehículo, se llega a la posada campesina conocida como Hostal Campo Alegre a unos 3850 MSNM donde tomamos un desayuno ligero y desde este punto de acceso, podíamos apreciar de cerca el ecosistema del páramo. 
@@ -243,7 +243,7 @@ height:"200" %}
 </a>
 
 
-Luego de eso, comenzamos el camino hacia el sector conocido como La Asomadera o Mirador de Potosí, tardamos en promedio 3 horas caminando por, hermoso camino lleno de frailejones y vistas mágicas que estoy seguro qué te dejarán sorprendido. El recorrido duró aproximadamente 2 horas hasta 3 horas como máximo.
+Luego de eso, comenzamos el camino hacia el sector conocido como La Asomadera o Mirador de Potosí, tardamos en promedio 3 horas caminando por hermosos paisajes llenos de frailejones y vistas mágicas que estoy seguro qué te dejarán sorprendido. El recorrido duró aproximadamente 2 horas hasta 3 horas como máximo.
 
 
 Al llegar al Mirador de Potosí, muchas personas de nuestro grupo experimentarón mareo, y esto se da debido a que el mirador La Asomadera se encuentra aproximadamente a 4,200 msnm; es por eso que, te recomendamos ver nuestro siguiente post  __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html"> ¿Qué es el mal de altura y como evitarlo? </a>]__
@@ -252,10 +252,8 @@ Al llegar al Mirador de Potosí, muchas personas de nuestro grupo experimentaró
 
 
 
-
-
-
 __FOTO DE LA LAGUNA DEL OTÚN DESDE LA ASOMADERA O MIRADOR DE POTOSÍ__
+
 {% include image.html,
 file:"rutas/risaralda/laguna-del-otun/mirador-potosi.jpg",
 caption:"Foto de la asomadera Laguna del Otún",
@@ -276,7 +274,6 @@ Un poco más abajo del mirador de Potosí nos encontramos el siguiente punto de 
 
 
 
-
 Desde El mirador de Potosí tardamos 1 hora para llegar a este hermoso lugar, en el cual pudimos tener una vista de la Laguna del Otún en medio de los frailejones.
 
 
@@ -290,20 +287,19 @@ height:"607"
 
 
 
-### CASA DEL GUARDABOSQUES EN LA LAGUNA DEL OTÚN
-
+### CASA DEL GUARDABOSQUES EN LA LAGUNA DEL OTÚN (ZONA DE CAMPING)
 
 
 
 Continuamos caminando desde el bosque de frailejones durante aproximadamente 3 horas por un camino que en algunos tramos le faltaba señalización, donde es extremadamente fácil perderse. 
 
 
-En el camino pasamos por un lugar el cual se llama la Azufrera, y es conocido por emanar vapor de las rocas, algunos historias de nativos dicen que en este lugar murieron 2 personas que andaban perdido y al encontrar este lugar decidieron acampar allí y murieron al respirar toda la noche el vapor  que  emanaba constantemente estas rocas ♨️.
+En el camino pasamos por un lugar el cual se llama la Azufrera, y es conocido por emanar vapor de las rocas, algunos historias de nativos dicen que en este lugar murieron 2 personas que andaban perdidos y al encontrar este lugar decidieron acampar allí y murieron al respirar toda la noche el vapor  que  emanaba constantemente estas rocas ♨️.
 
 
+Después de pasar la azufrera y unos cuanto  riscos y lagunas llegamos a la Laguna del Otún.
 
 
-Después de pasar la azufrera, algunos riscos y lagunas llegarán a la Laguna del Otún.
 {% include image.html,
 file:"rutas/risaralda/laguna-del-otun/laguna-del-otun.JPG",
 caption:"Foto de la laguna del Otun",
@@ -314,7 +310,7 @@ height:"428"
 
 
 
-<ins> __Nota:__</ins> _Ten en cuenta que si decides acampar, deberás contar con carpa, bolsa de dormir y todos los demás elementos que deberás usar a la hora de acampar en esta zona; puesto que allá no prestan ni alquilan estos servicios y no son permitidas las fogatas
+<ins> __Nota:__</ins> _Ten en cuenta que si decides acampar, deberás contar con; carpa, bolsa de dormir, estufa ya que allí no espermitido las fogatas, ten encuenta que las temperaturas allí podrian bajar hasta los 0 grados_
 
 
 
@@ -341,7 +337,6 @@ En esta laguna podrán disfrutar de mucha tranquilidad 🧘‍♂️.
 
 
 __MAPA DEL RECORRIDO EN LA LAGUNA DEL OTÚN__
-
 
 
 
