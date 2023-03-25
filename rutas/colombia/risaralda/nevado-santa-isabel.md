@@ -18,14 +18,10 @@ trending: true
 
 
 
-En este post te contaremos como fue nuestra experiencia a la hora de hacer la ascensión hacia el **Nevado Santa Isabel**. Durante nuestro recorrido hacia el Nevado, tuvimos que sortear algunos obstáculos que queremos compartir con todos ustedes para que no tengan que atravesar por lo mismo que nosotros.
+En este post te contaremos como fue nuestra experiencia al hacer cumbre al nevado Santa Isabel, que próximamente pasará a ser Paramillo 🥲, si estás leyendo esto en este post te dejaremos toda la información para que puedas visitar este lugar.
 
 
-
-
-**<a href="https://wa.link/9leyx9" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones al Nevado Santa Isabel aquí.</a>**
-
-
+👉 **<a href="https://wa.link/4fr537" style="color:green;" target="_blank"> Clic aquí para separar un tour al Nevado Santa Isabel 🗻.</a>**
 
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
@@ -34,7 +30,7 @@ En este post te contaremos como fue nuestra experiencia a la hora de hacer la as
 
 
 - <a href="#dato-santa"> Dato curioso del Nevado Santa Isabel</a>
-- <a href="#tour-santa"> Precios de tours al Nevado Santa Isabel</a>
+- <a href="#tour-santa"> Tours al Nevado Santa Isabel</a>
 - <a href="#llegar-santa"> Cómo llegar al Nevado Santa Isabel </a>
 - <a href="#hospedaje-santa"> Hospedajes en el Nevado Santa Isabel </a>
 - <a href="#sendero-santa"> Camino a la cumbre Nevado Santa Isabel </a>
@@ -103,31 +99,30 @@ __El Nevado Santa Isabel será el próximo nevado en perder completamente su gla
 
 
 
-## TOURS AL NEVADO SANTA ISABEL
+## TOURS AL NEVADO SANTA ISABEL 🧳
 
 
 
 
-Lo que debes saber es que para ir a este nevado, Parques Nacionales restringe el número de personas que pueden visitar este lugar por días, así que si piensas hacer el tour un fin de semana con puente festivo, te aconsejamos hacer la **reservación del tour** con anticipación, aquí te mostraremos los precios para esta excursión.
+Lo que debes saber es que para ir a este nevado, Parques Nacionales cuenta con un cupo limitado para visitar este lugar por días, así que  te aconsejamos hacer la **reservación del tour** con anticipación.
+
+El precio para hacer cumbre al nevado Santa Isabel, puede variar entre $920.000 COP a $2'600.000 COP (Valor por persona), este valor depende del numero de personas que vayan.
 
 
+__El tour incluye:__ 
+- 🚌 Transporte desde Manizales o Pereira, 
+- 2 🥨 Desayuno
+- 2 🍝 Almuerzo
+- 1 🍝 Cenas
+- ⚕️ Seguro de asistencia médica
+- 🛌 hospedaje
+- 👨 Guía de alta montaña avalado por el Parque Los Nevados
+- 🪖 Equipo de hielo: Arnés y mosquetón, casco, piolet, polainas, linterna frontal y crampones.
 
 
-**Precios del Tour cumbre nevado Santa Isabel:**
+**<a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" target="_blank"> Para ver salidas grupales nevado Santa Isabel clic aquí 👈 </a>.**
 
-
-
-
-- 1 Persona: $1'850.000 COP
-- 2 personas: $1'180.000 COP
-- 3 personas: $1'050.000 COP
-- 4 personas: $920.000 COP
-- 5 personas: $900.000 COP
-
-
-
-
-Ten en cuenta que algunas agencias cuentan ya con fechas de salidas grupales, así que puedes dar <a target="_blank" href="https://wa.link/4fr537"> clic 👉 aquí</a> para que alguien te ayude a buscar un cupo con las diferentes agencias aliadas.
+¿No te sirven las fechas programadas de excursiones grupales? Dejanos tus datos y pronto te contactaremos, 📄 llenar información 👉 **<a href="https://forms.gle/pXW4246cbwWNZBHRA" target="_blank"> clic aquí </a>.**.
 
 
 
@@ -154,7 +149,7 @@ Algo importante que queremos resaltar es que para **llegar al nevado Santa Isabe
 
 
 
-## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL?
+## ¿CÓMO LLEGAR AL NEVADO SANTA ISABEL 🏃 ?
 
 
 **DÍA #1**
@@ -179,11 +174,6 @@ height:"200" %}
 
 
 Además, aprovechamos para conversar con las demás personas que nos acompañaban en el recorrido. Sentimos una gran sorpresa de ver muchos extranjeros quienes estaban fascinados por los hermosos paisajes.
-
-
-
-
-<ins>_Para tener en cuenta: En caso de que quieras ingresar al parque de los nevados, es permitido únicamente el ingreso si vas con un guía certificado por los parques nacionales, con los respectivos seguros de asistencia médica y reservas._</ins>
 
 
 
@@ -239,12 +229,19 @@ Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la
 
 
 
-## HOSPEDAJE EN EL NEVADO SANTA ISABEL
+## HOSPEDAJE EN EL NEVADO SANTA ISABEL 🛌
 
 
 
 
 <ins>Lo que debes de saber es que el único **hospedaje cerca al nevado Santa Isabel** es el Centro de Visitantes el Cisne, el cual solo se puede ingresas si vas con un guía certificado por parques Nacionales y además si tienes reserva previa, ya que este lugar cuenta con un número limitado de camas.</ins>
+
+{% include image.html,
+  file:"rutas/risaralda/nevado-santa-isabel/casa-visitante-cisne.jpg",
+  caption:"Foto Hospedaje en el Cisne",
+  width:"1600",
+  height:"1066"
+%}
 
 
 <a name="sendero-santa" id="hsendero-santa"></a>
