@@ -92,6 +92,8 @@ A continuación te mostraremos un pequeño __video de la Laguna del Otún__ , do
   height:"270",
   caption:"Video de la Ruta a la Laguna de Otún"
 %}
+
+
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 

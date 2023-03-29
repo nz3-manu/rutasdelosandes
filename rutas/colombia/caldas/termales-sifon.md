@@ -34,7 +34,7 @@ Empecemos con la aventura ⛰.
    videoid:"PwsvmRgtaoA",
    width:"480",
    height:"270",
-   caption:"Video ruta a los Termales del Sifon"
+   caption:"Video ruta a los Termales del Sifon" 
 %}
 
 <a name="tour-sifon" id="tour-sifon"></a>
@@ -55,7 +55,7 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $1
 👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar en un tour privado? puedes escribirnos </a>**
 
 
-En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos tu información y una vez completemos el cupo te estaríamos contactando __<a href="https://forms.gle/LsJ396pwBgxfZtJ4A" target="_blank"> llenar formulario aquí 👈</a>.__ 
+En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos tu información y una vez completemos el cupo te estaríamos contactando __<a href="https://forms.gle/ru6JAjhvi5abF7eh9" target="_blank"> llenar formulario aquí 👈</a>.__ 
 
 <a name="llegar-Sifon" id="llegar-Sifon"></a>
 
