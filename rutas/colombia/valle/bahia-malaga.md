@@ -67,7 +67,7 @@ Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad, el 4 d
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/chaqueta-randes.jpg",
-caption:"",
+caption:"Banner chaqueta",
 width:"480",
 height:"200"
 %}
@@ -128,7 +128,7 @@ Ten encuenta que si quieres hacer avistamiento de __Ballenas es en los meses de 
 
 
 
-**<a href="https://wa.link/bm3ob7" target="_blank"> Para más información del tour, clic aquí 👈 </a>.**
+**<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" target="_blank"> Para más información del tour, clic aquí 👈 </a>.**
 
 
 
