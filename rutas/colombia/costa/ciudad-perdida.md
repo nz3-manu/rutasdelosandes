@@ -135,7 +135,15 @@ Si tienes un poco de tiempo en tu paso por Santa Marta podrás disfrutar de un a
 Ubicado en el centro histórico de la ciudad más prescisamente al lado del Parque Bolívar, este museo que antes solía ser la casa de la Aduana; _cuenta con más de 560 piezas de un enorme valor arqueologico y etnograifco de la Sierra Nevada_. Sin duda alguna es uno de los sitios que debes de tener en tu lista a la hora de visitar Santa Marta.
 
 
--- foto --
+{% include image.html,
+ file:"rutas/costa/ciudad-perdida/museo-del-oro-tayrona.jpg",
+caption:"Foto de Museo del oro tayrona",
+width:"952",
+height:"690"
+%}
+
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/alexissenpai_1/"  target="_blank"> @alexissenpai_1</a> </span>**
+
 
 
 #### 2) QUINTAS DE SAN PEDRO ALEJANDRINO
@@ -143,7 +151,16 @@ Ubicado en el centro histórico de la ciudad más prescisamente al lado del Parq
 Es una antigua hacienda ubicada en el centro de la ciudad de _Santa Marta_. Antiguamente, era una hacienda dedicada a la producción de azúcar, miel y panela. Además, en esta hacienda fue el lugar donde _Simón Bolivar_ pasó sus últimos días hasta luego fallecer. Importante mencionar que este atractivo turístico es administrado por la _Fundación Museo Bolivariano de Arte Contemporáneo._ 
 
 
--- foto --
+{% include image.html,
+ file:"rutas/costa/ciudad-perdida/Quinta-de-san-pedro-alejandrino.jpg",
+caption:"Quinta de Sanpedro de alejandrino",
+width:"1080",
+height:"717"
+%}
+
+
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/cotelcomagdalena/"  target="_blank"> @cotelcomagdalena</a> </span>**
+
 
 
 #### 3) PARQUE DE LOS NOVIOS
@@ -152,8 +169,15 @@ También llamado _Parque Santander_ ubicado en el centro de la ciudad, fue const
 
 
 
+{% include image.html,
+ file:"rutas/costa/ciudad-perdida/parque-de-los-novios.jpg",
+caption:"Parque de los novios",
+width:"640",
+height:"482"
+%}
 
--- foto --
+
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/chrismbr/"  target="_blank"> @chrismbr</a> </span>**
 
 
 
@@ -169,9 +193,16 @@ Como bien se sabe, _Santa Marta_ es una ciudad cautivadora que a su vez  enamora
 
 Éste hotel se encuentra _ubicado en el centro histórico de la ciudad_, y cuenta con multiples servicios para todos los turistas, los cuales incluye: piscina al aire libre, jardín, salón compartido y terraza. Cuenta con cocina compartida, servicio de conserjería y WiFi gratuita en todas las instalaciones.
 
--- Foto --
+{% include image.html,
+ file:"rutas/costa/ciudad-perdida/hostal-santa-marta.png",
+caption:"Foto Hospedaje en Santa Marta",
+width:"1650",
+height:"944"
+%}
 
 En caso de que quieras tener más información acerca de las reservas en este hotel, dar click en el siguiente link http://the-chill-in-mansion-hostel-santa-marta.hotelinsantamarta.com/es/
+
+Puedes dar click 👉 <a href= "https://www.booking.com/hotel/co/veintiuna-hostal-y-coliving.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
 
 
 
@@ -197,18 +228,9 @@ En este hotel, algunas habitaciones cuentan con zona de esparcimiento. Todas las
 En caso de que quieras tener más información acerca de las reservas en este hotel, dar click en el siguiente link https://www.booking.com/hotel/co/catedral-plaza.es.html 
 
 
-### GAGAKA RUA HOTEL
-
-Se caracteriza por tener una excelente ubicación en Santa Marta y ofrece habitaciones con aire acondicionado, jardín, Wifi gratuita y salón compartido. El establecimiento se encuentra a 200 metros de la playa de Bahía de Santa Marta y del Museo del Oro de Santa Marta y cuenta con terraza y bar. El alojamiento cuenta con cocina compartida, recepción 24 horas y servicio de cambio de divisa.
-
--- Foto --
 
 
-En caso de que quieras tener más información acerca de las reservas en este hotel, dar click en el siguiente link https://www.booking.com/hotel/co/gagaka-hostel.es.html 
-
-
-
-## RUTA A LA CIUDAD PERDIDA
+## RUTA A LA CIUDAD PERDIDA 🚶
 
 El tour comienza en en el sitio conocido como Guacha Puerto Nuevo, en el Kilómetro 52, se hace un desvío hacia la población de _El Mamey_. En ese punto, se encuentran 3 caminos hasta el _parque arqueológico_, los cuales son los siguientes: 
 

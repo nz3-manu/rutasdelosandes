@@ -24,6 +24,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a> 
 * <a href="#costos-ruiz"> Valor de entrada al Nevado del Ruiz</a> 
 * <a href="#sendero-ruiz"> Ruta en el Nevado del Ruiz </a> 
+* <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a> 
 
 Empecemos con la aventura ⛰.
 
@@ -137,19 +138,21 @@ Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
 
 
-### THE COFFEE CLUB (MANIZALES)
+### APARTAESTUDIO EN (MANIZALES)
 
-El The Coffee Club se encuentra a 5,8 km de la estación del teleférico de Manizales y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.
+
+Este apartaestudio es ideal para parejas o familia que quieran tener su propio espacio como si estuvieran en casa, se encuentra a 5,8 km de la estación del teleférico de Manizales y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.
+
 
 {% include image.html,
-  file:"rutas/caldas/ruiz/apartamento-manizales.png",
- caption:"Foto Apartamento en Manizales",
- width:"1248",
- height:"727"
+ file:"rutas/caldas/sifon/apartamento-manizales.png",
+caption:"Foto de apartaestudio en Manizales",
+width:"1248",
+height:"727"
 %}
- 
 
-Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+
+Puedes dar clic 👉 <a href= "https://www.randes.co/products/aparta-estudio-en-manizales" target="_blank"> para reservar </a>
 
 
 ### AYENDA 1131 CASA VALENCIA (MANIZALES)
@@ -245,6 +248,20 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
+
+<a name="otros-senderos-manizales" id="otros-senderos-manizales"></a> 
+
+## OTRAS RUTAS DE SENDERISMO EN MANIZALES
+
+
+Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Manizales.
+
+
+
+* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
+* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
+* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/camino-del-arriero.html" target="_blank"> Camino del Arriero</a>__
+
 
  
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
