@@ -74,8 +74,8 @@ Declarado _monumento nacional por el gobierno colombiano_, este atractivo turís
 * <a href="#como-ciudad-perdida"> ¿Cómo llegar a Ciudad Perdida? </a>
 * <a href="#sitios-ciudad-perdida"> Sitios emblemáticos de Santa Marta </a>
 * <a href="#hospedaje-ciudad-perdida"> Hospedajes cerca a Ciudad Perdida </a>
-* <a href="#dato-ciudad-perdida"> Ruta a la ciudad perdida </a>
-* <a href="#dato-ciudad-perdida"> Tours a la Ciudad Perdida  </a>
+* <a href="#sendero-ciudad-perdida"> Sendero en la ciudad perdida </a>
+* <a href="#tour-ciudad-perdida"> Tours a la Ciudad Perdida  </a>
 * <a href="#recomendaciones-ciudad-perdida"> Recomendaciones finales para visitar Ciudad Perdida</a>
 
 
@@ -161,7 +161,7 @@ De ahí que, alrededor de _Ciudad Perdida_ hay innumerables datos que despertar�
 
 
 
-<a name="dato-ciudad-perdida" id="dato-ciudad-perdida"></a>
+<a name="como-ciudad-perdida" id="como-ciudad-perdida"></a>
 
 
 
@@ -557,10 +557,10 @@ Puedes dar click 👉 <a href= "https://www.booking.com/hotel/co/veintiuna-hosta
 
 
 
+<a name="sendero-ciudad-perdida" id="sendero-ciudad-perdida"></a>
 
 
-
-## RUTA A LA CIUDAD PERDIDA 🚶
+## SENDERO EN LA CIUDAD PERDIDA 🚶
 
 
 
