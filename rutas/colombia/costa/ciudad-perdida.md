@@ -93,7 +93,7 @@ Declarado _monumento nacional por el gobierno colombiano_, este atractivo turís
 
 
 
-En este post te contaremos cómo llegar a Ciudad Perdida (Santa Marta), además, te describiremos todo lo que necesitas saber para visitar este deslumbrante sitio turístico del caribe Colombiano. Sin más preámbulo, que empiece la aventura.
+En este post te contaremos cómo llegar a Ciudad Perdida (Santa Marta), además, te describiremos todo lo que necesitas saber para visitar este deslumbrante sitio turístico del caribe Colombiano. Sin más preámbulo, que empiece la aventura  ⛰🤠.
 
 
 
@@ -166,7 +166,7 @@ De ahí que, alrededor de _Ciudad Perdida_ hay innumerables datos que despertar�
 
 
 
-## ¿CÓMO LLEGAR CIUDAD PERDIDA (SANTA MARTA) 🚐?
+## ¿CÓMO LLEGAR A CIUDAD PERDIDA (SANTA MARTA) 🚐?
 
 
 
@@ -536,11 +536,6 @@ height:"944"
 
 
 
-En caso de que quieras tener más información acerca de las reservas en este hotel, dar click en el siguiente link http://the-chill-in-mansion-hostel-santa-marta.hotelinsantamarta.com/es/
-
-
-
-
 Puedes dar click 👉 <a href= "https://www.booking.com/hotel/co/veintiuna-hostal-y-coliving.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
 
 
@@ -577,7 +572,7 @@ Puedes dar click 👉 <a href= "https://www.booking.com/hotel/co/veintiuna-hosta
 
 
 
-Para llegar a _Ciudad Perdida__ desde Santa Marta, se aborda un carro previamente reservado que es proporcionado por la agencia de viajes, el cual tras 2 horas de viaje, termina su recorrido en el sector conocido como __El Mamey o Machete Pelao__, el cual es una pequeña vereda desde donde se accede a _Ciudad Perdida_.
+Para llegar a _Ciudad Perdida_ desde Santa Marta, se aborda un carro previamente reservado que es proporcionado por la agencia de viajes, el cual tras 2 horas de viaje, termina su recorrido en el sector conocido como __El Mamey o Machete Pelao__, el cual es una pequeña vereda desde donde se accede a _Ciudad Perdida_.
 
 
 

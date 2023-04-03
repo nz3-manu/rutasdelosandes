@@ -2,8 +2,8 @@
 layout: trail
 title: Bahía Málaga
 categories: colombia
-seo_title: Bahía Málaga| ¿Que hacer y Donde Hospedarse?
-excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahia malaga, descubre cómo llegar a la Playa juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
+seo_title: Bahía Málaga Actualizado 2023 | ¿Que hacer y Dónde Hospedarse?
+excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahía Málaga, además, descubre cómo llegar a la Playa Juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
@@ -13,27 +13,48 @@ trending: true
 
 
 
+
+
+
+
 # BAHÍA MÁLAGA
 
 
 
 
-Bahía Málaga es sin duda un lugar mágico que te va a encantar, en este post te mostraremos todo lo que necesitas saber para qué disfrutes al máximo de este lugar.
+
+
+
+
+__Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundante biodiversidad. Ubicado en el Valle del Cauca, esta hermosa bahía cuenta con playas hermosas idóneas para el descanso y la desconexión de la ciudad. Además, es posible presenciar la migración de ballenas jorobadas, que llegan de Julio a Octubre. Por tal razón, en este post te mostraremos todo lo que necesitas saber para qué disfrutes al máximo de este lugar.
+
+
 
 
 👉  __<a href="https://wa.link/bm3ob7" style="color:green;" target="_blank">Si quieres realizar esta ruta puedes dar clic aquí</a>__
 
 
-En este post encontrarás la siguiente información:
 
 
 
 
+
+
+## EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN: 
+
+
+
+
+
+
+- <a href="#datos-curiosos"> Datos curiosos de Bahía Málaga </a>
+- <a href="#donde-queda-bahía-malaga"> ¿Dónde queda Bahía Málaga? </a>
 - <a href="#llegar-malaga"> ¿Cómo llegar a Bahía Málaga? </a>
+- <a href="#que-encontrarás"> ¿Qué encontrarás en Bahía Málaga? </a>
 - <a href="#tour-malaga"> Tour a Bahía Málaga.  </a>
-- <a href="#hospedaje-malaga"> Hospedajes cercanos de Bahía Málaga. </a>
-- <a href="#sendero-malaga"> Senderos por playas cercanas. </a>
-- <a href="#recorrido-malaga"> Recorrido en lancha. </a>
+- <a href="#hospedaje-málaga"> Hospedajes cercanos de Bahía Málaga. </a>
+- <a href="#sendero-málaga"> Senderos por playas cercanas. </a>
+- <a href="#recorrido-málaga"> Recorrido en lancha. </a>
 
 
 
@@ -48,18 +69,57 @@ Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
 
 
+
+
+
+
 ## DATOS CURIOSOS DE BAHÍA MÁLAGA
 
 
 
 
-Bahía Málaga es una bahía que está localizado en el valle del cauca, aproximadamente a una hora en lancha desde buenaventura.
-Esta bahía está rodeada de densa selva húmeda, lo que hace de este un clima Cálido con lluvia permanente todo el año. Este lugar es reconocido por ser el destino migratorio de las __ballenas jorobadas, el cual arriban en julio, agosto y septiembre.__
 
 
 
 
-Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad, el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión".
+__El Parque Nacional Uramba Bahía Málaga__ es conocido por la abundancia de su fauna. Se encuentra en el Valle del Cauca, concretamente en la región costera de la Costa Pacífica Colombiana. Por lo tanto, te daremos algunos datos que tal vez no sabías y que despertarán el interés en ese destino turístico.
+
+
+
+
+* La bahía es conocida a nivel mundial por ser uno de los destinos de migración estacional de poblaciones de ballenas jorobadas. También es conocida por sus aguas cálidas y tranquilas,  ideales para criar sus ballenas, y para propósitos reproductivos.
+
+
+
+
+
+
+* Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad, el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión".
+
+
+
+
+* Un dato interesante sobre la geomorfología del área protegida es que la parte más exterior de la bahía limita al norte con playas de arena relativamente amplias (Juanchaco, Ladrilleros, La Barra y Puerto España Miramar). Estas playas están formadas por la acumulación de arena de origen continental, trasladada por ríos y acumulada en el Punto Norte debido al hidrodinamismo de la zona.
+
+
+
+
+
+
+
+
+## ¿DÓNDE QUEDA BAHÍA MÁLAGA?
+
+
+
+
+
+
+
+
+__Bahia Málaga__ está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes durante todo el año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
+
+
 
 
 
@@ -76,7 +136,170 @@ height:"200"
 
 
 
-Dentro del Parque nacional natural Uramba Bahía Málaga se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejo comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
+Dentro del Parque Nacional Natural Uramba Bahía Málaga se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejo comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
+
+
+
+
+
+
+<a name="llegar-malaga" id="llegar-malaga"></a>
+
+
+
+
+
+
+
+
+## ¿CÓMO LLEGAR A BAHÍA MÁLAGA 🚍 ?
+
+
+
+
+
+
+
+
+Quizás te estarás preguntando, ¿cómo se llega a Bahía Málaga? . Y es que para llegar a este hermoso atractivo turístico ubicado en el Pácifico Colombiano, la forma más sencilla es  saliendo desde la ciudad de Cali, pero antes de  describir como llegar a Bahía Málaga, primero te mencionaremos como llegar a Cali desde algunas ciudades principales de Colombia.
+
+
+
+
+
+
+
+
+### DESDE BOGOTÁ A CALÍ
+
+
+
+
+La distancia de Bogotá a Cali vía terrestre es de aproximadamente  519  Kilómetros. Para cubrir esta distancia, se emplean alrededor de 11 horas. Las empresas de buses que prestan el servicio hacia Cali son: 
+
+
+
+
+* __Empresa Bolivariana:__ El valor del pasaje tiene un costo de $105.000 COP por persona. Los horarios de salida de los buses de Lunes a Domingo son: A Partir de las  4:00 AM, luego los demás horarios, 6:00 AM, 9:00 AM, 11:00 AM, 2:00 PM, 5:00 PM , 7:00 PM, 8:00 PM, 9:00 PM y 11:00 PM. 
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a la línea WhatsApp habilitada <a href="tel: 3214560000 "> 3214560000 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm._ Además, se pueden contactar a través de la página web bolivariano.com.co
+
+
+
+
+* __Empresa Expreso Palmira:__ El valor del pasaje tiene un costo de $100.000 COP por persona. Los horarios de salida de los buses de Expreso Palmira son: 9:00 AM, 10:30 AM, 11:45 AM,1:15 PM, 3:00 PM, 4:30 PM, 6:00 PM, 7:45 PM, 10:00 PM y 11:00 PM
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 3105452791 "> 3105452791 </a> o <a href="tel: 3112730419 "> 3112730419 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la página . <a href="https://expresopalmira.com.co/servicio-cliente"> ver pagina aquí </a> 
+
+
+
+
+
+
+
+
+### DESDE MEDELLÍN A CALI
+
+
+
+
+
+
+
+
+En promedio, el viaje de Medellín a Cali dura aproximadamente 8 horas. Este es el tiempo que se tarda en recorrer la distancia de 329 kilómetros. Las empresas de buses que cubren este recorrido son:
+
+
+
+
+* __Empresa Arauca:__ El valor del pasaje por persona es de  $90.000 COP. Los horarios de salida de los buses de Empresa Arauca son: 5:30 AM, 8:00 AM, 10:30 AM, 2:00 PM, 4:00 PM, 6:00 PM, 8:00 PM, 9:00 PM, 10:00 PM y 11:00 PM. 
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 313 649 0376 "> 313 649 0376 </a>  o <a href="tel: 313 649 0359 "> 313 649 0359 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la   <a href="https://www.empresaarauca.com.co/oficinas-y-puntos-de-atencion-2/"> ver pagina aquí </a> 
+
+
+
+
+* __Empresa Flota Magdalena:__ El valor del pasaje por persona es de  $90.000 COP. Los horarios de salida de los buses de Empresa Arauca son: 5:30 AM, 8:00 AM, 10:30 AM, 2:00 PM, 4:00 PM, 6:00 PM, 8:00 PM, 9:00 PM, 10:00 PM y 11:00 PM. 
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse al número fijo <a href="tel: (604) 42309452 "> 42309452 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la pagína web contacto   <a href="https:////www.flotamagdalena.com/"> ver pagina aquí </a> 
+
+
+
+
+
+
+
+
+### DESDE PEREIRA A CALI
+
+
+
+
+
+
+
+
+En promedio, el viaje a Cali desde la ciudad de Pereira dura aproximadamente 3hrs y 45 minutos. Es el tiempo estimado para cubrir los 178 kilómetros de distancia entre ambas ciudades. Las empresas de buses que prestan el servicio de transporte, son:
+
+
+
+
+* __Expreso Palmira:__ El valor del pasaje tiene un costo de  $47.000 COP por persona. Recuerda que los horarios de salida de  los buses desde la ciudad de Pereira son: 5:00 AM, 5:20 AM, 5:45 AM, 6:30 AM, 7:15 AM, 8:00 AM. Es decir, cada bus sale aproximadamente cada 45 minutos  y el último sale a las 8:30 PM.
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a la línea celular habilitada <a href="tel: 314 7909074314 7909074 "> 314 7909074 </a> de _Lunes a Sábado de 6:00 am a 9:00 pm_. Además, se pueden contactar a través de la pagína  <a href="https://expresopalmira.com.co/"> aquí </a> 
+
+
+
+
+* __Empresa Tax Central:__ El valor del pasaje tiene un costo de $48.000 COP por persona. Recuerda que esta empresa de buses presta sus servicios cada hora, y el primer bus sale de la ciudad de Pereira a las 6:00 AM, y el último a las 7:00 PM. 
+
+
+
+
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a los números celulares habilitados <a href="tel: 3175385882 "> 317 5385882 </a> o <a href="tel: 3184636440 "> 318 463 6440</a>  de _Lunes a Sábado de 6:00 am a 7:00 pm__. Además, se pueden contactar a través de la pagína web  <a href="www.taxcentral.com.co/contacto/"> aquí </a> 
+ 
+
+__NOTA:__ _Algunas ciudades como lo es el caso de Pereira, podrás encontrar transporte directo a Buenaventura, te ahorraras tiempo y dinero, así que te aconsejamos confirmar con la terminal antes de comprar tu tiquete._
+
+
+
+
+### DESDE CALI A BUENAVENTURA
+
+Una vez que se llega a Cali, más puntualmente a la Terminal de Autobuses, hay que subir a un autobús para llegar al puerto de Buenaventura. El viaje dura aproximadamente 3 horas, y el valor de la entrada tiene un costo de $40,000 COP por persona. 
+
+
+
+
+Una vez en la Terminal de Autobuses de Buenaventura, debes caminar de 15 a 20 minutos hasta llegar al muelle turístico. Este muelle está a pocas cuadras de la terminal, donde nos encontramos con el guía de la agencia con la que habíamos contratado el viaje.
+
+
+
+
+
+
+
+
+__Importante:__ _Si no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y han pasado qué viajeros tienen reservaciones de hospedaje en lugares que estos no van y les cobran mucho más para llevarlos a estos lugares_ 🥲.
+
+
+
+
 
 
 
@@ -86,12 +309,18 @@ Dentro del Parque nacional natural Uramba Bahía Málaga se encuentran alrededor
 
 
 
+
+
+
+
 {% include youtube.html,
- videoid:"6U9bYSD1EAk",
- width:"480",
- height:"270",
- caption:"Video de bahía málaga"
+videoid:"6U9bYSD1EAk",
+width:"480",
+height:"270",
+caption:"Video de bahía málaga"
 %}
+
+
 
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -99,18 +328,51 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
+
+
+
+
 <a name="tour-malaga" id="tour-malaga"></a>
+
+
+
+
+
+
 
 
 ## TOUR A BAHÍA MÁLAGA 🧳
 
 
-Aquí te mostraremos que __incluye un tour a Bahía Málaga__ y te daremos algunas recomendaciones para elegir un tour.
 
-Lo primero que debes de saber es que el tour inicia en el muelle turístico de Buenaventura, asi que tendras que llegar hasta ese punto, estos tours tienen un valor aproximado de $650.000 COP depende de la temporada en que se visite.
+
+
+
+
+
+Conocer la belleza de los Parques Nacionales Naturales de Colombia se ha vuelto un atractivo turístico para propios y extraños que a diario acuden a estos lugares. Lugares como el Parque Natural Uramba Bahía Málaga sin duda alguna debe estar en tu lista de viajes para realizar. 
+
+
+
+
+Así que, si piensas realizar este tour y disfrutar de los bellos paisajes, manglares, cascadas y enorme selva tropical, a continuación te  compartiremos toda la información del __Tour a Bahía Málaga__ y te daremos algunas recomendaciones para elegir el que mejor se ajuste a tu presupuesto de viaje. 
+
+
+
+
+Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, asi que tendrás que llegar hasta ese punto. El tour diene un precio proximado de $650.000 COP Por persona.
+
+
+
+
+
+
 
 
 **El tour de 3 días y 2 noches incluye:**
+
+
+
 
 * 🥨 Desayuno
 * 🛌 Hospedaje
@@ -119,10 +381,19 @@ Lo primero que debes de saber es que el tour inicia en el muelle turístico de B
 * 👨 Guía local y seguro de asistencia médica.
 
 
-__NOTA:__ En temporada alta podrán encontrar este tour disponible todos los días, pero en temporada baja este solo estará disponible cuando se complete el cupo mínimo de 6 personas.
 
 
-Ten encuenta que si quieres hacer avistamiento de __Ballenas es en los meses de de Julio, agosto y septiembre.__
+__NOTA__: En temporada alta podrán encontrar este tour disponible todos los días, pero en temporada baja este solo estará disponible cuando se complete el cupo mínimo de 6 personas.
+
+
+
+
+Ten en cuenta que si quieres hacer avistamiento de las__Ballenas Jorobadas__, debes realizar el tour entre Julio y Septiembre
+
+
+
+
+
 
 
 
@@ -133,32 +404,17 @@ Ten encuenta que si quieres hacer avistamiento de __Ballenas es en los meses de 
 
 
 
-<a name="llegar-malaga" id="llegar-malaga"></a>
 
 
-## ¿CÓMO LLEGAR A BAHÍA MÁLAGA?
-
-
-
-
-### DÍA #1
-
-
-
-
-Una vez en la terminal de buenaventura nos dirigimos al muelle turístico(este queda a pocas cuadras de la terminal), allí nos encontramos con el guía de la agencia con el cual habíamos contrariado el tour.
-
-
-
-
-
-
-
-
-__Importante:__ _Si no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y han pasado qué viajeros tienen reservaciones de hospedaje en lugares que estos no van y les cobraran mucho más para llevarlos a estos lugares_ 🥲.
 
 
 <a name="hospedaje-malaga" id="hospedaje-malaga"></a>
+
+
+
+
+
+
 
 
 ## HOSPEDAJES EN BAHÍA MÁLAGA 🛌
@@ -166,12 +422,24 @@ __Importante:__ _Si no estás haciendo el tour con agencia, consulta primero qu�
 
 
 
-Existen varios Hospedajes en esta zona, aquí te mencionamos algunos de estos.
+
+
+
+
+Una vez llegues  a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__en esta zona, aquí te mencionamos algunos de estos.
+
+
+
+
 
 
 
 
 ### HOSPEDAJE EN LA LOMA DE CHUCHEROS YANEISY
+
+
+
+
 
 
 
@@ -184,19 +452,31 @@ Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por
 Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
 
 
+
+
 __Aquí podrás encontrar los siguientes servicios:__
 
 
-- 🛏 Habitaciones 
-- ⛺️ Camping 
-- 🥟 Desayuno 
-- 🍛 Almuerzo 
-- 🍛 Cena 
+
+
+- 🛏 Habitaciones
+- ⛺️ Camping
+- 🥟 Desayuno
+- 🍛 Almuerzo
+- 🍛 Cena
+
+
+
+
 
 
 
 
 ### HOSPEDAJE EN PLAYA JUAN DE DIOS
+
+
+
+
 
 
 
@@ -209,13 +489,21 @@ El hostal Playa Juan de Dios está ubicado en una reserva natural de 80 hectáre
 Al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce, al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
 
 
+
+
 __Aquí podrás encontrar los siguientes servicios:__
 
 
-- 🛏 Cama en habitación compartida 2 noches 
-- ⛺️ Camping 
-- 🏠 Habitación privada para 2 personas 
+
+
+- 🛏 Cama en habitación compartida 2 noches
+- ⛺️ Camping
+- 🏠 Habitación privada para 2 personas
 - En este hospedaje no se presta la cocina ni sus alrededores para hacer de comer, por los que se tendrá que comprarla.
+
+
+
+
 
 
 
@@ -223,7 +511,17 @@ __Aquí podrás encontrar los siguientes servicios:__
 ### OTROS HOSPEDAJES DISPONIBLES EN BAHÍA MÁLAGA
 
 
+
+
+
+
+
+
 También podrás encontrar otras alternativas de hospedajes dentro de Bahía Málaga en: Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares, ya que se haría muy extenso el artículo, estos hospedajes los podrás encontrar en google.
+
+
+
+
 
 
 
@@ -233,17 +531,29 @@ También podrás encontrar otras alternativas de hospedajes dentro de Bahía Má
 
 
 
-Una vez hospedados descargamos todo en nuestras habitaciones y descansamos un poco para después ver la hermosa vista de playa y selva que nos brindaba este lugar.
 
 
 
 
-Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa playa Juan de Dios y llega hasta playa Dorada Ver mapa.
+Una vez hospedados, es hora de iniciar la aventura por esta hermosa bahía. Lo primero que se hace es descargar todo nuestro equipaje en nuestras habitaciones y tomar un pequeño descanso para después ver la hermosa vista de playa y selva que nos brindaba este lugar. 
+
+
+
+
+Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa playa Juan de Dios y llega hasta playa Dorada __Ver mapa__.
+
+
+
+
 
 
 
 
 **MAPA DE RUTA REALIZADA EN BAHÍA MÁLAGA**
+
+
+
+
 
 
 
@@ -257,14 +567,27 @@ caption:"mapa de Bahia malaga"
 
 
 
+
+
+
+
 ### LA LOMA DE CHUCHEROS
 
-este lugar por estar en un pequeño acantilado tiene una vista hermosa del mar 🌊, en todo el frente de esta se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga.
 
 
 
 
-Si sigues por el bordo de la playa podrás llegar hasta Chucheros donde se encuentra una cascada que lleva su mismo nombre, es recomendable hacer este recorrido con algún guía local que conozca la zona, ya que al subir la marea ya será peligroso regresar por el bordo de la playa.
+
+Este lugar al estar en un pequeño acantilado tiene una hermosa vista sobre el mar 🌊.  Y por todo el frente, se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga.
+
+
+
+
+Si sigues el borde de la playa puedes llegar a Chucheros, donde existe una cascada con el mismo nombre. Se aconseja hacer este tour con un guía local que conozca la zona, ya que cuando suba la marea será peligroso regresar por la junta de la playa.
+
+
+
+
 
 
 
@@ -279,9 +602,24 @@ height:"800"
 
 
 
+
+
+
+
 ### PLAYA JUAN DE DIOS
 
-Esta playa es conocida por su limpieza, ya que constantemente están haciendo campañas con voluntarios para limpiarlas, además de esto al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
+
+
+
+
+
+
+
+Esta playa es conocida por su limpieza, ya que constantemente hacen campaña con los voluntarios para limpiarla. Además de esto, en el fondo se puede ver una cueva que sale de la parte superior de un arroyo de agua dulce. Una vez que cruce esta cueva, encontrarás otra cueva un poco más grande donde podrá disfrutar de una agradable puesta de sol observando las aguas cristalinas del mar.
+
+
+
+
 
 
 
@@ -296,9 +634,24 @@ height:"800"
 
 
 
+
+
+
+
 ### PLAYA DORADA
 
-Es conocida por su arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
+
+
+
+
+
+
+
+Es conocida por tener una arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
+
+
+
+
 
 
 
@@ -323,7 +676,7 @@ Después de un día lleno de aventura ya era tiempo de un merecido descanso.
 
 
 
-__NOTA:__ _Recuerda llevar para esta ruta chaqueta rompevientos, puesto que en este lugar a pesar de que hace calor la zona es muy humea y presenta muchas lluvias, también te recomendamos usar buzo manga larga para protegerte del sol y los mosquitos, todos estos productos los podrás encontrar en nuestra tienda en línea._
+__NOTA:__ _Recuerda llevar para esta ruta, chaqueta rompevientos, puesto que en este lugar a pesar de que hace calor, la zona es muy húmeda y presenta muchas lluvias. También te recomendamos usar buzo manga larga para protegerte del sol y los mosquitos, todos estos productos los podrás encontrar en nuestra tienda en línea._
 
 
 
@@ -333,7 +686,13 @@ Al día siguiente la emoción de todos nosotros era evidente, ya que ese día sa
 
 
 
+
+
+
+
 <a name="recorrido-malaga" id="recorrido-malaga"></a>
+
+
 
 
 ## RECORRIDO EN LANCHA POR BAHÍA MÁLAGA 🚤
@@ -341,13 +700,29 @@ Al día siguiente la emoción de todos nosotros era evidente, ya que ese día sa
 
 
 
+
+
+
+
 ### DÍA #2
+
+
+
+
+
+
+
+
 A las 8 de la mañana nos encontramos con nuestro guía que nos daba algunas recomendaciones previas para empezar esta hermosa aventura.
 
 
 
 
-**Cascada la Sierpe en Bahía Málaga:** Es una cascada de alrededor 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque nacional natural Uramba Bahía Málaga.
+**Cascada la Sierpe en Bahía Málaga:** Es una cascada de alrededor DE 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque Nacional Natural Uramba Bahía Málaga.
+
+
+
+
 
 
 
@@ -360,12 +735,22 @@ height:"1350"
 %}
 
 
+
+
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/tamyyfranco/"  target="_blank"> @kevindavides </a> </span>**
 
 
 
 
-**Cascadas las 3 marías en Bahía Málaga:** son tres cascadas consecutivas y termina en un hoyo en una roca que si te tiras saldrás al mar, solo hacerlo si vas con la supervisión de un guía.
+
+
+
+
+**Cascadas las 3 marías en Bahía Málaga:** Son tres cascadas consecutivas y termina en un hoyo que si te lanzas, saldrás al mar. Recuerda que esto lo puedes hacer únicamente si vas con la supervisión de un guía.
+
+
+
+
 
 
 
@@ -380,7 +765,13 @@ height:"800"
 
 
 
+
+
+
+
 ⚠️ _Recuerda llevar repelente para mosquitos o incluso también venden algunos jabones 🧼 repelentes de mosquitos que funcionan muy bien._
+
+
 
 
 
@@ -392,7 +783,15 @@ height:"800"
 
 
 
+
+
+
+
 ### DÍA #3
+
+
+
+
 
 
 
@@ -402,7 +801,7 @@ Es recomendable salir en las horas de la mañana, ya que en la tarde es más pro
 
 
 
-Debes tener en cuenta que los horarios de buses del terminal de buenaventura para algunos destinos del país solo saldrán hasta las 4 pm.
+Debes tener en cuenta que los horarios de buses del Terminal de Buenaventura para algunos destinos del país solo saldrán hasta las 4 pm.
 
 
 
@@ -412,7 +811,31 @@ Este es el fin de la ruta a Bahía Málaga, **no te olvides de seguirnos en nues
 
 
 
+
+
+
+
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
