@@ -31,7 +31,7 @@ __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundant
 
 
 
-👉  __<a href="https://wa.link/bm3ob7" style="color:green;" target="_blank">Si quieres realizar esta ruta puedes dar clic aquí</a>__
+👉  __<a href="https://wa.link/bm3ob7" style="color:green;" target="_blank">Si quieres realizar esta ruta, puedes dar clic aquí</a>__
 
 
 
@@ -54,8 +54,6 @@ __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundant
 - <a href="#tour-malaga"> Tour a Bahía Málaga.  </a>
 - <a href="#hospedaje-málaga"> Hospedajes cercanos de Bahía Málaga. </a>
 - <a href="#sendero-málaga"> Senderos por playas cercanas. </a>
-- <a href="#recorrido-málaga"> Recorrido en lancha. </a>
-
 
 
 
@@ -82,12 +80,12 @@ Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
 
 
-__El Parque Nacional Uramba Bahía Málaga__ es conocido por la abundancia de su fauna. Se encuentra en el Valle del Cauca, concretamente en la región costera de la Costa Pacífica Colombiana. Por lo tanto, te daremos algunos datos que tal vez no sabías y que despertarán el interés en ese destino turístico.
+El __Parque Nacional Uramba Bahía Málaga__ se caracteriza por su abundante fauna. Está ubicado en el Valle del Cauca, concretamente en la región costera de la costa del Pacífico colombiano. Por lo tanto, te daremos alguna información que tal vez no sabías y que despertará el interés en este destino turístico.
 
 
 
 
-* La bahía es conocida a nivel mundial por ser uno de los destinos de migración estacional de poblaciones de ballenas jorobadas. También es conocida por sus aguas cálidas y tranquilas,  ideales para criar sus ballenas, y para propósitos reproductivos.
+* La bahía es conocida a nivel mundial por ser uno de los destinos de migración estacional de poblaciones de ballenas jorobadas. También es conocida por sus aguas cálidas y tranquilas,  ideales para la crianza de ballenas 🐳, y para propósitos reproductivos.
 
 
 
@@ -117,7 +115,7 @@ __El Parque Nacional Uramba Bahía Málaga__ es conocido por la abundancia de su
 
 
 
-__Bahia Málaga__ está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes durante todo el año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
+__Bahia Málaga__ está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __el puerto de Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes la mayor parte del año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
 
 
 
@@ -281,7 +279,7 @@ __NOTA:__ _Algunas ciudades como lo es el caso de Pereira, podrás encontrar tra
 
 ### DESDE CALI A BUENAVENTURA
 
-Una vez que se llega a Cali, más puntualmente a la Terminal de Autobuses, hay que subir a un autobús para llegar al puerto de Buenaventura. El viaje dura aproximadamente 3 horas, y el valor de la entrada tiene un costo de $40,000 COP por persona. 
+Una vez que se llega a Cali, más puntualmente a la Terminal de Autobuses, hay que abordar un autobús para llegar al puerto de Buenaventura. El viaje dura aproximadamente 3 horas, y el valor del pasaje tiene un costo de $40,000 COP por persona. 
 
 
 
@@ -295,7 +293,7 @@ Una vez en la Terminal de Autobuses de Buenaventura, debes caminar de 15 a 20 mi
 
 
 
-__Importante:__ _Si no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y han pasado qué viajeros tienen reservaciones de hospedaje en lugares que estos no van y les cobran mucho más para llevarlos a estos lugares_ 🥲.
+__Importante:__ _Sí no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y han pasado qué viajeros tienen reservaciones de hospedaje en lugares que estos no van y les cobran mucho más para llevarlos a estos lugares_ 🥲.
 
 
 
@@ -350,7 +348,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-Conocer la belleza de los Parques Nacionales Naturales de Colombia se ha vuelto un atractivo turístico para propios y extraños que a diario acuden a estos lugares. Lugares como el Parque Natural Uramba Bahía Málaga sin duda alguna debe estar en tu lista de viajes para realizar. 
+Conocer la belleza de los __Parques Naturales Nacionales de Colombia__ se ha convertido en una atracción turística tanto para propios como para los extranjeros que acuden diariamente a estos lugares. Lugares como el __Parque Natural de Uramba Bahía Málaga__ sin duda deben estar en su lista de viajes. 
 
 
 
@@ -360,7 +358,7 @@ Así que, si piensas realizar este tour y disfrutar de los bellos paisajes, mang
 
 
 
-Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, asi que tendrás que llegar hasta ese punto. El tour diene un precio proximado de $650.000 COP Por persona.
+Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour diene un precio proximado de $650.000 COP Por persona.
 
 
 
@@ -561,7 +559,7 @@ Existe un sendero de aproximadamente 4 kilómetros que comunica a Chucheros pasa
 {% include iframe.html,
 type:"custom",
 mid:"1FyUNYn0REPJyyWRY2wrBfXGsmakFHVFr&hl=es",
-caption:"mapa de Bahia malaga"
+caption:"mapa de Bahía Málaga"
 %}
 
 
@@ -583,7 +581,7 @@ Este lugar al estar en un pequeño acantilado tiene una hermosa vista sobre el m
 
 
 
-Si sigues el borde de la playa puedes llegar a Chucheros, donde existe una cascada con el mismo nombre. Se aconseja hacer este tour con un guía local que conozca la zona, ya que cuando suba la marea será peligroso regresar por la junta de la playa.
+Si sigues el borde de la playa puedes llegar a Chucheros, donde existe una cascada con el mismo nombre. Se aconseja hacer este tour con un guía local que conozca la zona, ya que cuando suba la marea será peligroso regresar por el borde de la playa.
 
 
 
@@ -676,30 +674,12 @@ Después de un día lleno de aventura ya era tiempo de un merecido descanso.
 
 
 
-__NOTA:__ _Recuerda llevar para esta ruta, chaqueta rompevientos, puesto que en este lugar a pesar de que hace calor, la zona es muy húmeda y presenta muchas lluvias. También te recomendamos usar buzo manga larga para protegerte del sol y los mosquitos, todos estos productos los podrás encontrar en nuestra tienda en línea._
+__NOTA:__ _Recuerda llevar para esta ruta, chaqueta rompevientos, debido a que en este lugar a pesar de que hace calor, la zona es muy húmeda y se presentan muchas lluvias. También te recomendamos usar buzo manga larga para protegerte del sol y los mosquitos, todos estos productos los podrás encontrar en nuestra tienda en línea._
 
 
 
 
 Al día siguiente la emoción de todos nosotros era evidente, ya que ese día salimos a conocer la cascada la Sierpe y las 3 Marias.
-
-
-
-
-
-
-
-
-<a name="recorrido-malaga" id="recorrido-malaga"></a>
-
-
-
-
-## RECORRIDO EN LANCHA POR BAHÍA MÁLAGA 🚤
-
-
-
-
 
 
 
@@ -718,7 +698,7 @@ A las 8 de la mañana nos encontramos con nuestro guía que nos daba algunas rec
 
 
 
-**Cascada la Sierpe en Bahía Málaga:** Es una cascada de alrededor DE 60 metros de altura que se encuentra rodeada de la hermosa vegetación dentro del Parque Nacional Natural Uramba Bahía Málaga.
+**Cascada la Sierpe en Bahía Málaga:** Es una cascada de unos 60 metros de altura que se encuentra rodeada de bella vegetación dentro del Parque Nacional Uramba Bahía Málaga.
 
 
 
@@ -746,7 +726,7 @@ height:"1350"
 
 
 
-**Cascadas las 3 marías en Bahía Málaga:** Son tres cascadas consecutivas y termina en un hoyo que si te lanzas, saldrás al mar. Recuerda que esto lo puedes hacer únicamente si vas con la supervisión de un guía.
+**Cascadas las 3 marías en Bahía Málaga:** Son tres cascadas consecutivas y termina en un agujero que si saltas, te adentrarás en el mar. Recuerde que solo puede hacerlo si está bajo la supervisión de un guía.
 
 
 
