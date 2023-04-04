@@ -2,7 +2,7 @@
 layout: trail
 title: Bahía Málaga
 categories: colombia
-seo_title: Bahía Málaga Actualizado 2023 | ¿Que hacer y Dónde Hospedarse?
+seo_title: Bahía Málaga Actualizado 2023 | ¿Qué hacer y dónde hospedarse?
 excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahía Málaga, además, descubre cómo llegar a la Playa Juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
@@ -85,19 +85,19 @@ El __Parque Nacional Uramba Bahía Málaga__ se caracteriza por su abundante fau
 
 
 
-* La bahía es conocida a nivel mundial por ser uno de los destinos de migración estacional de poblaciones de ballenas jorobadas. También es conocida por sus aguas cálidas y tranquilas,  ideales para la crianza de ballenas 🐳, y para propósitos reproductivos.
+* La bahía es conocida a nivel mundial por ser uno de los __destinos de migración estacional de poblaciones de ballenas jorobadas__. También es conocida por sus aguas cálidas y tranquilas,  ideales para la crianza de ballenas 🐳, y para propósitos reproductivos.
 
 
 
 
 
 
-* Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad, el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga, la palabra Uramba es un término africano que significa unión".
+* Por ser este lugar de gran importancia en cuanto a fauna y biodiversidad, __el 4 de agosto del 2010 fue creado el Parque nacional natural Uramba Bahía Málaga__, la palabra Uramba es un término africano que significa unión".
 
 
 
 
-* Un dato interesante sobre la geomorfología del área protegida es que la parte más exterior de la bahía limita al norte con playas de arena relativamente amplias (Juanchaco, Ladrilleros, La Barra y Puerto España Miramar). Estas playas están formadas por la acumulación de arena de origen continental, trasladada por ríos y acumulada en el Punto Norte debido al hidrodinamismo de la zona.
+* Un dato interesante sobre la geomorfología del área protegida es que la parte más exterior de la bahía limita al norte con playas de arena relativamente amplias (Juanchaco, Ladrilleros, La Barra y Puerto España Miramar). __Estas playas están formadas por la acumulación de arena de origen continental__, trasladada por ríos y acumulada en el Punto Norte debido al hidrodinamismo de la zona.
 
 
 
@@ -115,7 +115,7 @@ El __Parque Nacional Uramba Bahía Málaga__ se caracteriza por su abundante fau
 
 
 
-__Bahia Málaga__ está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __el puerto de Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes la mayor parte del año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
+Bahia Málaga  está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __el puerto de Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes la mayor parte del año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
 
 
 
@@ -193,7 +193,7 @@ La distancia de Bogotá a Cali vía terrestre es de aproximadamente  519  Kilóm
 
 
 
-📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 3105452791 "> 3105452791 </a> o <a href="tel: 3112730419 "> 3112730419 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la página . <a href="https://expresopalmira.com.co/servicio-cliente"> ver pagina aquí </a> 
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 3105452791 "> 3105452791 </a> o <a href="tel: 3112730419 "> 3112730419 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm_. Además, se pueden contactar a través de la página . <a href="https://expresopalmira.com.co/servicio-cliente"> ver pagina aquí </a> 
 
 
 
@@ -221,7 +221,7 @@ En promedio, el viaje de Medellín a Cali dura aproximadamente 8 horas. Este es 
 
 
 
-📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 313 649 0376 "> 313 649 0376 </a>  o <a href="tel: 313 649 0359 "> 313 649 0359 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la   <a href="https://www.empresaarauca.com.co/oficinas-y-puntos-de-atencion-2/"> ver pagina aquí </a> 
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a las líneas habilitadas <a href="tel: 313 649 0376 "> 313 649 0376 </a>  o <a href="tel: 313 649 0359 "> 313 649 0359 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm_. Además, se pueden contactar a través de la   <a href="https://www.empresaarauca.com.co/oficinas-y-puntos-de-atencion-2/"> ver pagina aquí </a> 
 
 
 
@@ -231,7 +231,7 @@ En promedio, el viaje de Medellín a Cali dura aproximadamente 8 horas. Este es 
 
 
 
-📞 Para confirmar _horarios de salida_ de los buses, comunicarse al número fijo <a href="tel: (604) 42309452 "> 42309452 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm__. Además, se pueden contactar a través de la pagína web contacto   <a href="https:////www.flotamagdalena.com/"> ver pagina aquí </a> 
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse al número fijo <a href="tel: (604) 42309452 "> (604) 42309452 </a> de _Lunes a Sábado de 6:00 am a 11:30 pm_. Además, se pueden contactar a través de la pagína web contacto   <a href="https:////www.flotamagdalena.com/"> ver pagina aquí </a> 
 
 
 
@@ -269,7 +269,7 @@ En promedio, el viaje a Cali desde la ciudad de Pereira dura aproximadamente 3hr
 
 
 
-📞 Para confirmar _horarios de salida_ de los buses, comunicarse a los números celulares habilitados <a href="tel: 3175385882 "> 317 5385882 </a> o <a href="tel: 3184636440 "> 318 463 6440</a>  de _Lunes a Sábado de 6:00 am a 7:00 pm__. Además, se pueden contactar a través de la pagína web  <a href="www.taxcentral.com.co/contacto/"> aquí </a> 
+📞 Para confirmar _horarios de salida_ de los buses, comunicarse a los números celulares habilitados <a href="tel: 3175385882 "> 317 5385882 </a> o <a href="tel: 3184636440 "> 318 463 6440</a>  de _Lunes a Sábado de 6:00 am a 7:00 pm_. Además, se pueden contactar a través de la pagína web  <a href="www.taxcentral.com.co/contacto/"> aquí </a> 
  
 
 __NOTA:__ _Algunas ciudades como lo es el caso de Pereira, podrás encontrar transporte directo a Buenaventura, te ahorraras tiempo y dinero, así que te aconsejamos confirmar con la terminal antes de comprar tu tiquete._
@@ -277,9 +277,9 @@ __NOTA:__ _Algunas ciudades como lo es el caso de Pereira, podrás encontrar tra
 
 
 
-### DESDE CALI A BUENAVENTURA
+### DESDE CALI A BUENAVENTURA 🐳
 
-Una vez que se llega a Cali, más puntualmente a la Terminal de Autobuses, hay que abordar un autobús para llegar al puerto de Buenaventura. El viaje dura aproximadamente 3 horas, y el valor del pasaje tiene un costo de $40,000 COP por persona. 
+Una vez que se llega a Cali, más puntualmente a la Terminal de Autobuses, hay que abordar un autobús para llegar al puerto de Buenaventura. El viaje dura aproximadamente 3 horas, y el valor del pasaje tiene un costo aproximado de $40,000 COP por persona. 
 
 
 
@@ -293,7 +293,7 @@ Una vez en la Terminal de Autobuses de Buenaventura, debes caminar de 15 a 20 mi
 
 
 
-__Importante:__ _Sí no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y han pasado qué viajeros tienen reservaciones de hospedaje en lugares que estos no van y les cobran mucho más para llevarlos a estos lugares_ 🥲.
+__Importante:__ _Sí no estás haciendo el tour con agencia, consulta primero qué recorrido hace la lancha, ya que mucha de estas solo van a determinadas zonas, y ha pasado qué viajeros tienen reservaciones de hospedaje a lugares que estos no van, y les cobran mucho más para llevarlos a estos lugares_ 🥲.
 
 
 
@@ -358,7 +358,7 @@ Así que, si piensas realizar este tour y disfrutar de los bellos paisajes, mang
 
 
 
-Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour diene un precio proximado de $650.000 COP Por persona.
+Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour tiene un precio proximado de $650.000 COP Por persona.
 
 
 
@@ -381,12 +381,12 @@ Lo primero que debes de saber es que, el tour inicia en el muelle turístico de 
 
 
 
-__NOTA__: En temporada alta podrán encontrar este tour disponible todos los días, pero en temporada baja este solo estará disponible cuando se complete el cupo mínimo de 6 personas.
+__NOTA__: _En temporada alta podrán encontrar este tour disponible todos los días, pero en temporada baja este solo estará disponible cuando se complete el cupo mínimo de 6 personas._
 
 
 
 
-Ten en cuenta que si quieres hacer avistamiento de las__Ballenas Jorobadas__, debes realizar el tour entre Julio y Septiembre
+Ten en cuenta que si quieres hacer avistamiento de las__Ballenas Jorobadas__, debes realizar el tour entre Julio y Septiembre 🐳.
 
 
 
@@ -424,7 +424,7 @@ Ten en cuenta que si quieres hacer avistamiento de las__Ballenas Jorobadas__, de
 
 
 
-Una vez llegues  a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__en esta zona, aquí te mencionamos algunos de estos.
+Una vez llegues  a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__ en esta zona, aquí te mencionamos algunos de estos.
 
 
 
