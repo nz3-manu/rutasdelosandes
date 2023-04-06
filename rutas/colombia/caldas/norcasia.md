@@ -55,13 +55,16 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
  
 En Norcasia podrás encontrar diferentes tipos de **planes turísticos al embalse de Amaní y río la Miel**, aquí te mencionamos algunos tours en Norcasia.
  
-- **Pasadía:** $130.000 Cop.
-- **2 días y 1 noche:** $360.000 Cop
-- **3 días y 2 días:** $430.000 Cop
+- **Pasadía:** $140.000 Cop.
+- **2 días y 1 noche:** $380.000 Cop
+- **3 días y 2 días:** $460.000 Cop
+- **4 días y 3 días:** $780.000 Cop
  
 **Los tours a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida y 🛌 hospedaje.
  
 👉 **<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank">  Ver más información del tour a Norcasia y río la Miel </a>.**
+
+
  
 <a name="llegar-nocasia" id="llegar-nocasia"></a>
  

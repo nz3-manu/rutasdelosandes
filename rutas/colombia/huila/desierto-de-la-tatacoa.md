@@ -16,9 +16,22 @@ En este post encontrarás toda la información que necesitas saber para viajar a
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
 
+👉 **<a href="https://wa.link/5ygmro" style="color:green;" target="_blank"> Clic aquí para separar un tour al desiero de la Tatacoa 🐫 .</a>**
+
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+
+* <a href="#dato-desierto"> Dato curioso del desierto de la Tatacoa</a>
+* <a href="#llegar-desierto"> Cómo llegar al  desiero de la Tatacoa</a>
+* <a href="#tour-desierto"> Tours al Desierto de Tatacoa </a>
+* <a href="#senderos-desierto"> Senderos en el desierto de la Tatacoa </a>
+* <a href="#hospedaje-desierto"> Hospedaje en el desierto de la Tatacoa </a>
+* <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
+
 **<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>**
 
 Empecemos con la aventura ⛰.
+
+<a name="dato-desierto" id="dato-desierto"></a>
 
 ## DATO CURIOSO DEL DESIERTO DE LA TATACOA
 
@@ -37,9 +50,28 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
 {% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
 </amp-carousel>
+
+
+<a name="tour-desierto" id="tour-desierto"></a>
+
+## ¿TOUR EN EL DESIERTO DE LA TATACOA 🚍?
+
+
+En el desierto de la Tatacoa podrás encontrar diferentes tipos de **planes turísticos**, aquí te mencionamos algunos tours en Norcasia.
  
+- **Pasadía:** $140.000 Cop.
+- **2 días y 1 noche:** $380.000 Cop
+- **3 días y 2 días:** $460.000 Cop
  
-## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA ?
+**Los tours a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida, 🛌 hospedaje, 🚗 transporte, ⚕️ seguro de asistencia medica.
+
+
+
+
+ 
+<a name="llegar-desierto" id="llegar-desierto"></a>
+
+## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA 🚍?
 
 Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
 
@@ -83,8 +115,9 @@ height:"200" %}
  
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
  
+<a name="senderos-desierto" id="senderos-desierto"></a>
  
-## RUTA AL DESIERTO DE LA TATACOA 
+## SENDEROS EN EL DESIERTO DE LA TATACOA 
  
 Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los hospedajes disponibles.
  
@@ -109,6 +142,9 @@ El valor de la entrada es aproximadamente $5.000 pesos.
 </amp-instagram>
  
 Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, te mostraremos algunas de la posibles opciones que encontramos:
+
+
+<a name="hospedaje-desierto" id="hospedaje-desierto"></a>
  
 ## HOSPEDAJES EN EL DESIERTO DE LA TATACOA
  
@@ -116,11 +152,11 @@ Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a
  
 Este es uno de los más económicos que se encuentran en esta zona, los servicios que ofrecen son los siguientes:
  
-* Zonas de camping 🏕: $9.000 pesos por persona.
-* Zona de hamacas: $6.000 pesos.
-* Habitaciones compartidas 🛏: $17.000 pesos por persona.
-* Habitaciones privadas 🛏: $25.000 por persona.
-* Comidas desde 🍛: $10.000 pesos.
+* Zonas de camping 🏕.
+* Zona de hamacas.
+* Habitaciones compartidas.
+* Habitaciones privadas 🛏.
+* Comidas desde 🍛.
  
 __Por favor confirmar disponibilidad, teléfono: <a href="tel:3112433455"> 3112433455</a> hostal la tranquilidad.__
  
@@ -128,10 +164,10 @@ __Por favor confirmar disponibilidad, teléfono: <a href="tel:3112433455"> 31124
  
 Este hostal cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina,  veamos algunos precios que se manejan allí:
  
-* Zona de camping 🏕: $10.000 pesos.
-* Habitaciones privadas 🛏: $30.000 pesos por persona.
-* Almuerzo 🍛: $12.000 pesos.
-* Desayunos 🥟: $6.000 pesos. 
+* Zona de camping 🏕.
+* Habitaciones privadas 🛏.
+* Almuerzo 🍛.
+* Desayunos 🥟. 
  
 __Por favor confirmar disponibilidad, teléfono:<a href="tel:3133055898"> 3133055898</a> hostal Noches de Saturno.__
  
@@ -174,6 +210,7 @@ Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada m�
 Este es el final de esta aventura cabe aclarar que los precios mencionados anteriormente pueden variar, pero sabemos que estos te darán una idea de cuánto te saldrá visitar este lugar.
 
 Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
+
 
 ## ¿CÓMO REGRESAR DEL DESIERTO DE LA TATACOA ?
 
