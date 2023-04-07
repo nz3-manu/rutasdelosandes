@@ -70,6 +70,8 @@
     name="viewport"
     content="width=device-width,minimum-scale=1,initial-scale=1"
   />
+
+
   <link rel="manifest" href="/manifest.json" />
   <title>{{title | escape}}</title>
   <meta
@@ -98,15 +100,11 @@
   {% endif %}
   <meta property="article:publisher" content="{{site.url}}" />
 
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QS2J09TWLQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-QS2J09TWLQ');
-</script>
+<!-- AMP Analytics 2023 -->
+
+
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
   <!-- facebook metadata -->
   {% if author %} {% assign authorInfo = authors[author] %} {% endif %}
