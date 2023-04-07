@@ -16,7 +16,7 @@ En este post encontrarás toda la información que necesitas saber para viajar a
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
 
-👉 **<a href="https://wa.link/5ygmro" style="color:green;" target="_blank"> Clic aquí para separar un tour al desiero de la Tatacoa 🐫 .</a>**
+👉 **<a href="https://wa.link/740bhn" style="color:green;" target="_blank"> Clic aquí para separar un tour al desiero de la Tatacoa 🐫 .</a>**
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -25,9 +25,9 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#tour-desierto"> Tours al Desierto de Tatacoa </a>
 * <a href="#senderos-desierto"> Senderos en el desierto de la Tatacoa </a>
 * <a href="#hospedaje-desierto"> Hospedaje en el desierto de la Tatacoa </a>
-* <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
+* <a href="#recomendacion-desierto"> Recomendaciones para visitar el  desierto </a>
+* <a href="#rutas-de-senderismo-en-colombia"> Otras rutas de Senderismo en Colombia </a>
 
-**<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>**
 
 Empecemos con la aventura ⛰.
 
@@ -63,7 +63,7 @@ En el desierto de la Tatacoa podrás encontrar diferentes tipos de **planes tur�
 - **2 días y 1 noche:** $380.000 Cop
 - **3 días y 2 días:** $460.000 Cop
  
-**Los tours a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida, 🛌 hospedaje, 🚗 transporte, ⚕️ seguro de asistencia medica.
+**Los tours a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida, 🛌 hospedaje, 🚗 transporte y ⚕️ seguro de asistencia medica.
 
 
 
@@ -211,9 +211,25 @@ Este es el final de esta aventura cabe aclarar que los precios mencionados anter
 
 Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
 
+<a name="recomendacion-desierto" id="recomendacion-desierto"></a>
 
-## ¿CÓMO REGRESAR DEL DESIERTO DE LA TATACOA ?
+## RECOMENDACIONES FINALES PARA VISITAR EL DESIERTO DE LA TATACOA
 
-Tenemos que tomar un mototaxi hasta Villavieja después tomar un bus 🚌 hasta Neiva recordemos que el último bus solo sale hasta las 6 pm, una vez en Neiva ya tomaremos un bus hasta nuestro destino :).
+- Llevar ropa adecuada como: buzos manga larga con protección solar, buff para cubrirse del polvo, pantalones de tela delgada o licras que tengan protección solar.
+- Muchas personas deciden hospedarse en el pueblo Villa Vieja, ya que allí van a tener muchas mas comodidades.
+- Los mejores meses para visitar el Desierto de la Tatacoa son; junio, julio y agosto, ya que son considerados los meses más secos y donde el cielo está más claro para la observación de estrellas
+
+
+<a name="rutas-de-senderismo-en-colombia" id="rutas-de-senderismo-en-colombia"></a>
+
+## OTRAS RUTAS DE SENDERISMO EN COLOMBIA
+
+Aquí te compartiremos algunas rutas que podrás relizar si estas de paso por Colombia.
+
+- __<a href="https://rutasdelosandes.com/amp/colombia/costa/ciudad-perdida.html" target="_blank"> Ciudad Perdida</a>__
+- __<a href="https://rutasdelosandes.com/amp/colombia/valle/bahia-malaga.html" target="_blank"> Bahía Málaga </a>__
+- __<a href="https://rutasdelosandes.com/amp/colombia/boyaca/nevado-del-cocuy.html" target="_blank"> Nevado del Cocuy </a>__
+- __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
+
 
 Este es el fin de la ruta al desierto de la Tatacoa, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
