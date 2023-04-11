@@ -25,6 +25,7 @@ Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares
 - <a href="#llegar-nocasia"> ¿Cómo llegar a Norcasia? </a>
 - <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#lugares-norcasia"> Lugares turísticos en Norcasia</a>
+- <a href="#recomendaciones-norcasia"> Recomendaciones finales para visitar Norcasia</a>
  
 <a name="dato-norcasia" id="dato-norcasia"></a>
  
@@ -108,6 +109,8 @@ Después de una rica cena, nos fuimos a descansar, ya que al siguiente día empe
  
 - _Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular debido a la baja cobertura que hay en la zona._
 - _Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros._
+-  _Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río_
+
  
 Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia en caso de que tengas algún problema con tu alojamiento.
  
@@ -153,6 +156,8 @@ Al día siguiente nos encontramos cerca al parque de Norcasia con las demás per
 El recorrido tardó aproximadamente 40 minutos, de los cuales 10 minutos fue sobre la vía principal Norcasia a La Dorada y los 30 minutos restantes fue por una carretera destapada.
  
 Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el **río la Miel**, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
+
+__RECOMENDACIÓN:__ __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando esta actividad.__
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
@@ -172,7 +177,7 @@ Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicia
  height:"1024"
 %}
  
-**<span class="advise"> Foto por: Entre Ríos</span>**
+**<span class="advise"> Foto por: Victor</span>**
  
 Después de visitar esta cascada, regresamos nuevamente a nuestros hospedajes, donde descansamos y aprovechamos para arreglar todo nuestro equipaje, ya que al siguiente día era nuestro último día de tour.
  
@@ -193,7 +198,7 @@ El recorrido por este embalse fue una experiencia realmente mágica, estar naveg
  height:"1076"
 %}
  
-**<span class="advise"> Foto por: Entre Ríos</span>**
+**<span class="advise"> Foto por: Victor</span>**
  
 Después de este recorrido por el Embalse de Amaní, fuimos a tomar un refrigerio, pero en nuestro camino pasamos por uno de los sitios turísticos que sin duda debes incluir en tu lista.
  
@@ -223,7 +228,8 @@ Este es un río que se caracteriza por sus aguas cristalinas, los carros nos dej
  width:"1200",
  height:"674"
 %}
-**<span class="advise"> Foto por: Entre Ríos</span>**
+
+**<span class="advise"> Foto por: Andres</span>**
  
 Este fue el último lugar que visitamos, nos llevaron en los carros hasta el parque principal, allí ya dimos por terminado el tour.
  
@@ -240,11 +246,14 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
  height:"1800"
 %}
  
-**<span class="advise"> Foto por: Entre Ríos</span>**
+**<span class="advise"> Foto por: Victor </span>**
  
+<a name="recomendaciones-norcasia" id="recomendaciones-norcasia"></a>
+
 ### RECOMENDACIONES FINALES PARA VISITAR NORCASIA
- 
-*  Hay agencias en Norcasia que apenas están comenzando y estas te podrían dar un servicio un poco más personalizado, ya que no irán tantas personas como con las agencias más grandes, para conocer más información sobre los tours disponibles, puedes dar **<a href="https://wa.link/cvi0eb" target="_blank"> clic aquí</a>.**
+
+* __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río__
+
  
 * Si eres de las personas que te gusta viajar, pero no te gustan las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) porque te podrías encontrar con muchos viajeros.
  

@@ -14,6 +14,7 @@ author: manuel
 
 Este es un lugar cerca de Armenia, en el cual podrás disfrutar de: naturaleza un mágico mirador o si eres amante de las aves, en este lugar podrás hacer avistamiento de aves 🦜.
 
+👉 **<a href="https://wa.link/bdwt40" style="color:green;" target="_blank"> Clic para hacer  hacer esta ruta con agencia local ⛰.</a>**
 
 **EN ESTE POST A PEÑAS BLANCAS ENCONTRARAS LA SIGUIENTE INFORMACIÓN:**
 
