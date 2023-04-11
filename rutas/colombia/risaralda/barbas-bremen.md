@@ -44,7 +44,7 @@ A continuación te mostramos un pequeño video de la reserva Barbas Bremen te mo
     videoid:"1anGUPtjsMs",
     width:"480",
     height:"270",
-    caption:"Video Barbas Bremem"
+    caption:"Barbas Bremem"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

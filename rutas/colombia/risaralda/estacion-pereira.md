@@ -35,7 +35,7 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risara
     videoid:"xrC-xdoVF8o",
     width:"480",
     height:"270",
-    caption:"Video Estacion Pereira"
+    caption:"Estacion Pereira"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

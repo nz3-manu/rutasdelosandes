@@ -52,7 +52,7 @@ A continuación te mostramos un pequeño **video del Alto del Nudo**, donde podr
    videoid:"bUSFb7xuXS0",
    width:"480",
    height:"270",
-   caption:"Video del Alto del Nudo"
+   caption:"Alto del Nudo"
 %}
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 <a name="como-alto-nudo" id="como-alto-nudo"></a>

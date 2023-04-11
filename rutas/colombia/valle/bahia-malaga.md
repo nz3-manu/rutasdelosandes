@@ -315,7 +315,7 @@ __Importante:__ _Sí no estás haciendo el tour con agencia, consulta primero qu
 videoid:"6U9bYSD1EAk",
 width:"480",
 height:"270",
-caption:"Video de bahía málaga"
+caption:"Bahía málaga"
 %}
 
 

@@ -26,7 +26,7 @@ A cada paso que nos acercamos el sonido del bosque se desvanece cada vez más, h
    videoid:"-dT3Vu_U5i4",
     width:"480",
     height:"270",
-   caption:"Como llegar a los Chorro de don lolo"
+   caption:"Chorro de don Lolo"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

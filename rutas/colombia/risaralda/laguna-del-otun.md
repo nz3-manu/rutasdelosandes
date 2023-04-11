@@ -90,7 +90,7 @@ A continuación te mostraremos un pequeño __video de la Laguna del Otún__ , do
   videoid:"2Nt7mrwUT80",
   width:"480",
   height:"270",
-  caption:"Video de la Ruta a la Laguna de Otún"
+  caption:"Laguna de Otún"
 %}
 
 

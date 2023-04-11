@@ -47,7 +47,7 @@ A continuación te mostramos un pequeño **video de Morrogacho** , donde te most
   videoid:"5-ntzs0W9eA",
   width:"480",
   height:"270",
-  caption:"Video de Cerro Morrogacho"
+  caption:"Cerro Morrogacho"
 %}
 
 <a name="tour-morrogacho" id="tour-morrogacho"></a>

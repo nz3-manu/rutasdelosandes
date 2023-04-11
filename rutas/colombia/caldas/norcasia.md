@@ -45,7 +45,7 @@ A Continuación te mostramos un pequeño video de Norcasia de los lugares turís
     videoid:"A-oYwJF3EsQ",
     width:"480",
     height:"270",
-    caption:"Video de Norcasia"
+    caption:"Norcasia"
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

@@ -45,7 +45,7 @@ A continuación te mostramos un pequeño **video de Peñas Blancas**, donde podr
     videoid:"g_wVae2-JxA",
     width:"480",
     height:"270",
-    caption:"Video de Peñas Blancas"
+    caption:"Peñas Blancas"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

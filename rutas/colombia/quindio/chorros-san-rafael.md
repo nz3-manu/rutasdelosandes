@@ -25,7 +25,7 @@ Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quind�
     caption:"Chorros San Rafael"
 %}
 
-## ¿Cómo llegar a los Chorros San Rafael 🚌🚗🛵🚵🏻?
+## ¿Cómo llegar a los Chorros San Rafael 🚌🚗🛵?
 
 Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con destino Calarcá, el valor del pasaje fue de $2.000 pesos, el bus se tardó en llegar aproximadamente 15 minutos. Una vez en Calarcá nos bajamos en la plaza de mercado, lugar donde aprovechamos para comprar comida 🍱.
 

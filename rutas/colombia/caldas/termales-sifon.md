@@ -35,7 +35,7 @@ Empecemos con la aventura ⛰.
    videoid:"PwsvmRgtaoA",
    width:"480",
    height:"270",
-   caption:"Video ruta a los Termales del Sifon" 
+   caption:"Termales del Sifon" 
 %}
 
 <a name="tour-sifon" id="tour-sifon"></a>
