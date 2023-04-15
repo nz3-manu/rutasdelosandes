@@ -1,80 +1,8 @@
+<!-- Google Tag Manager  2023(noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-QS2J09TWLQ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div id="google-analitycs">
-  <amp-analytics type="gtag" data-credentials="include">
-    <script type="application/json">
-      {
-        "vars": {
-          "gtag_id": "{{ site.google_analytics }}",
-          "config": {
-            "{{ site.google_analytics }}": {
-              "groups": "default",
-              "dataSource": "AMP"
-            }
-          }
-        },
-        "triggers": {
-          "trackPageview": {
-            "on": "visible",
-            "request": "pageview"
-          },
-          "trackClickGpx": {
-            "on": "click",
-            "selector": "#gpx",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "descargaRutaGpx"
-            }
-          },
-          "trackClickOnAndroid": {
-            "on": "click",
-            "selector": "#android",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "descargaAppAndroid"
-            }
-          },
-          "trackClickOnIos": {
-            "on": "click",
-            "selector": "#ios",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "descargaAppIos"
-            }
-          },
-          "trackClickOnViewRanger": {
-            "on": "click",
-            "selector": "#viewranger",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "clickRutaOnline"
-            }
-          },
-          "clickEnBannerRandes": {
-            "on": "click",
-            "selector": "#banner1",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "clickBannerTienda"
-            }
-          },
-          "clickEnBannerRandesChaqueta": {
-            "on": "click",
-            "selector": "#banner2",
-            "request": "event",
-            "vars": {
-              "eventCategory": "Rutas",
-              "eventAction": "clickBannerTienda"
-            }
-          }
-        }
-      }
-    </script>
-  </amp-analytics>
-
   <!-- Facebook Pixel Analytics tracking -->
   <amp-analytics type="facebookpixel" id="facebook-pixel">
     <script type="application/json">
