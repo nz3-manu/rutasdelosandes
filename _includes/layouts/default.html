@@ -7,9 +7,7 @@
 
   <!-- AMP Web Push Extension Configuration -->
   <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
-    {% if site.google_analytics %}
-     {% include google-analytics.html %}
-    {% endif %}
+    {% include google-analytics.html %}
 
     {% include header.html %}
     <main class="page-content" aria-label="Content">
