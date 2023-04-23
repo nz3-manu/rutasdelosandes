@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+   <!-- AMP Analytics -->
+   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
@@ -55,12 +56,15 @@
 
   <body>
 
-    {% include google-analytics.html %}
     {% include header.html %}
     <main class="page-content" aria-label="Content">
         {{ content }}
     </main>
   <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
+<!-- Google Tag Manager -->
+<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-WWS3XCC&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+
+
   </body>
 
 </html>

@@ -7,7 +7,6 @@
 
   <!-- AMP Web Push Extension Configuration -->
   <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
-    {% include google-analytics.html %}
 
     {% include header.html %}
     <main class="page-content" aria-label="Content">
@@ -26,6 +25,9 @@
         </div>
         {{ content }}
     </main>
+ <!-- Google Tag Manager -->
+ <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-WWS3XCC&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+
   </body>
 
 </html>
