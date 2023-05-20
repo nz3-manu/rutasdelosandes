@@ -62,7 +62,7 @@ Una vez en pueblo rico, es fácil no dejarse cautivar por el imponente cerro Tat
 
 
 {% include image.html
-file:"rutas/risaralda/pueblo-rico/cascada.jpg",
+file:"rutas/risaralda/pueblo-rico/pueblo.jpg",
 caption:"Foto Parque Pueblo Rico",
 width:"1200",
 height:"668"
@@ -80,10 +80,10 @@ Nosotros pudimos encontrar gran variedad de hospedajes, hay desde habitaciones d
 Una vez de estar instalados en el hotel salimos a dar una vuelta por el pueblo, y a muy pocas cuadras del parque principal nos encontramos con unas escaleras las cuales deberías visitar.
 
 {% include image.html
-file:"rutas/risaralda/pueblo-rico/cascada.jpg",
-caption:"Escaleras",
-width:"1200",
-height:"668"
+file:"rutas/risaralda/pueblo-rico/escalas.jpeg",
+caption:"Foto Escaleras pueblo rico",
+width:"2465",
+height:"1491"
 %}
 
 
@@ -103,10 +103,10 @@ Este lugar se encuentra en el corregimiento de Santa Cecilia, este está ubicado
 
 
 {% include image.html
-file:"rutas/risaralda/pueblo-rico/cascada.jpg",
+file:"rutas/risaralda/pueblo-rico/rio-murrapa.jpg",
 caption:"Foto Rio Amurrapa",
-width:"800",
-height:"600"
+width:"1200",
+height:"675"
 %}
 
 Desde este punto del río podrás realizar algunas otras rutas de senderismo, aquí te las mencionaremos:
@@ -124,10 +124,10 @@ Esta es una ruta de aproximadamente 8 kilómetros, donde te encontraras con herm
 
 
 {% include image.html
-file:"rutas/risaralda/pueblo-rico/cascada.jpg",
-caption:"Foto Rio Sendero Indio",
-width:"800",
-height:"600"
+file:"rutas/risaralda/pueblo-rico/sendero-indio.jpeg",
+caption:"Foto Sendero del Indio",
+width:"2880",
+height:"1612"
 %}
 
 
