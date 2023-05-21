@@ -413,6 +413,14 @@ Este lugar se encuentra en el __corregimiento de Santa Cecilia__, este está ubi
 Al llegar al parque de Santa Cecilia, nos estaba esperando el guía local, el cual nos explicó un poco del recorrido que íbamos a hacer y después nos dio un recorrido cerca del parque principal, para nuestra sorpresa en este corregimiento ya encontramos muchas más personas hablando Embera-Chamí y muchos llevaban sus trajes típicos, lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio 🇨🇴.
 
 
+<a id="banner2" href="https://www.randes.co/collections/mujer" target="_blank">
+{% include image.html,
+file:"publicidad-post/banner-mujer.png",
+caption:"",
+width:"1200",
+height:"360" %}
+</a>
+
 
 Después de una amena charla con nuestro guía local, donde nos contó: de las 3 comunidades que viven en Santa Cecilia, de su geografía, de sus especies naturales, en fin de muchos temas que no encontraras disponible en muchas partes, ya que es conociendo propio de estas comunidades 👴🏾, continuamos con el  camino hacia el río Murrapa, este trayecto tiene una duración de aproximadamente 30 minutos.
 
