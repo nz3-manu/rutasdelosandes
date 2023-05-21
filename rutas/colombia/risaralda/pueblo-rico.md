@@ -38,7 +38,7 @@ En este post te mostraremos todo lo que debes de saber de este hermoso municipio
 
 
 
-En este post encontrarás la siguiente información.
+__En este post encontrarás la siguiente información:__
 
 
 
@@ -47,11 +47,13 @@ En este post encontrarás la siguiente información.
 
 
 
-* <a href="#como-llegar-pueblo-rico"> Como llegar a Pueblo Rico</a>
+* <a href="#como-llegar-pueblo-rico"> ¿Cómo llegar a Pueblo Rico?</a>
 * <a href="#como-llegar-pueblo-rico"> Lugares que debes visitar en pueblo rico </a>
 * <a href="#como-llegar-pueblo-rico"> Hospedajes en pueblo rico </a>
 * <a href="#lugares-pueblorico"> Lugares Para visitar en Pueblo Rico </a>
 * <a href="#recomendaciones-pueblorico"> Recomendaciones finales para visitar pueblo rico </a>
+
+
 Empecemos con la aventura ⛰.
 
 
@@ -117,7 +119,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-## DATO CURIOSO DE PUEBLO RICO
+## DATO CURIOSO DE PUEBLO RICO 🧐
 
 
 
@@ -134,7 +136,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-Pueblo Rico se encuentra a 97 kilómetros de la capital Pereira.  De igual manera está ubicado sobre el costado oriental de la cordillera occidental y cuenta con un territorio de 1020 km² aproximadamente, lo que lo convierte en el municipio con mayor extensión del departamento de Risaralda y uno de los que alberga mayoR riqueza natural.
+Pueblo Rico se encuentra a 97 kilómetros de la capital Pereira.  De igual manera está ubicado sobre el costado oriental de la cordillera occidental y cuenta con un territorio de 1020 km² aproximadamente, lo que lo convierte en el municipio con mayor extensión del departamento de Risaralda y __uno de los que alberga mayor riqueza natural en este departamento__ 🐸 ⛰.
 
 
 
@@ -152,7 +154,9 @@ Por este municipio pasan varios ríos  como: San Juan, Cuanza, Tatamá, Taiba, C
 
 
 
-Cómo dato histórico acerca de Pueblo Rico, hay que mencionar que fue fundado en 1884 por Los señores Hilarion Pinzón, Leandro Tamayo, Bibiano Chalarca, Justo Grajales y Sinforiano Leiva y, en 1935 fue declarado como Corregimiento de Santa Cecilia, el cual cuenta con una población aproximada de 4.000 habitantes, los cuales en su mayoría son negros, mestizos e indígenas (Embera-Chamí), todos conviviendo en este mismo territorio, __haciendo de este lugar de suma importancia para Risaralda por su riqueza en multiculturalidad.__
+Cómo dato histórico acerca de Pueblo Rico, hay que mencionar que fue fundado en 1884 por Los señores Hilarion Pinzón, Leandro Tamayo, Bibiano Chalarca, Justo Grajales y Sinforiano Leiva y, en 1935 fue declarado como Corregimiento el caserío alrededor del río San Juan, llevando el nombre de Santa Cecilia.
+
+El corregimiento Santa Cecilia   cuenta actualmente con una población aproximada de 4.000 habitantes, los cuales en su mayoría son negros, mestizos e indígenas (Embera-Chamí), todos conviviendo en este mismo territorio, haciendo de este lugar de suma importancia por su __riqueza en multiculturalidad en Risaralda__.
 
 
 
@@ -174,7 +178,7 @@ Cómo dato histórico acerca de Pueblo Rico, hay que mencionar que fue fundado e
 
 
 
-## CÓMO LLEGAR A PUEBLO RICO 🚐 ?
+## ¿CÓMO LLEGAR A PUEBLO RICO 🚐 ?
 
 
 
@@ -191,7 +195,7 @@ Cómo dato histórico acerca de Pueblo Rico, hay que mencionar que fue fundado e
 
 
 
-Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de Choco, por esta razón vas a encontrar buena cantidad de transporte público
+Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de Choco, por esta razón vas a encontrar buena cantidad de transporte público, así que si vas para el departamento del Choco podrías hacer una corta parada en este bello municipio 🫣.
 
 
 
@@ -217,21 +221,23 @@ Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de
 
 
 
-* __Empresa flota Occidental:__ Los buses de esta compañia salen en los siguientes horarios; 2:00 y 4:00 pm. El valor del pasaje es alrededor de $21.000 pesos por  persona.
+* __Empresa flota Occidental:__ Los buses de esta empresa salen desde el terminal de Pereira en los siguientes horarios; 4:00 am, 5:00 am, 6:00 am, 8:30 am, 11:30 am y 5:30 pm. El valor del pasaje es alrededor de $20.000 pesos por persona, estos horarios pueden cambiar así que te recomendamos consultar disponibilidad
+
+📞 **Teléfono empresa Flota Occidental: <a href="tel: (606) 3211651"> (606) 3211651</a>**
 
 
 
 
-* __Empresa de bus Tatama:__ Los buses de esta empresa salen a las 4:20 pm. El valor del pasaje es alrededor de $21.000 pesos por persona.
+* __Empresa de bus Tatama:__ Los buses de esta empresa salen desde el terminal de Pereira, solo en el horario de las 4:20 pm. El valor del pasaje es alrededor de $21.000 pesos por persona.
+
+📞 **Teléfono empresa Tatama : <a href="tel: (606) 3214482"> (606) 3214482</a>** 
 
 
 
 
 
 
-
-
-Una vez llegas a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro del Tatama que se encuentra al fondo del pueblo. Y, como si fuera poco podrás disfrutar de tanta diversidad cultural y natural, al mismo tiempo que podrás escuchar algunas personas hablando idioma Embera-Chamí. Esto fue algo que realmente me sorprendió a pesar de ser Colombiano, si eres extranjero y estás leyendo esto te aseguro que esta será una experiencia inigualable.
+Una vez llegas a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro del Tatama que se encuentra al fondo del pueblo ⛰. Y como si fuera poco podrás disfrutar de tanta diversidad cultural y natural, al mismo tiempo que podrás escuchar algunas personas hablando idioma Embera-Chamí. Esto fue algo que realmente me sorprendió a pesar de ser Colombiano, si eres extranjero y estás leyendo esto te aseguro que esta será una experiencia inigualable.
 
 
 
@@ -246,7 +252,7 @@ Una vez llegas a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro de
 
 {% include image.html
 file:"rutas/risaralda/pueblo-rico/pueblo.jpg",
-caption:"Foto Parque Pueblo Rico",
+caption:"Foto Parque de Pueblo Rico",
 width:"1200",
 height:"668"
 %}
@@ -258,8 +264,7 @@ height:"668"
 
 
 
-__Nota:__ Debemos de preservar más nuestras raíces, ya que a muchos de nosotros nos gusta viajar y poder conectar con los campesinos, con el fin de enriquecer mucho más nuestros viajes y aventuras.
-
+__Nota:__ _Debemos de preservar más nuestras raíces, ya que a muchos de nosotros nos gusta viajar y poder conectar con los campesinos, comunidades indígenas entre otros, con el fin de enriquecer mucho más nuestros viajes y conocer así más de nuestras raíces 👨‍🌾._
 
 
 
@@ -294,9 +299,7 @@ __Nota:__ Debemos de preservar más nuestras raíces, ya que a muchos de nosotro
 En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran variedad de hospedajes, aquí te mostraremos algunos.
 
 
-### RESTAURANTE Y HOSPEDAJE LA CUCHARA
-
- Este se encuentra en todo el parque principal, enseguida de una discoteca. El hospedaje por persona es alrededor de $25.000 Pesos, el almuerzo en   este lugar es de $12.000 Pesos  y desayuno $6.000 Pesos.
+* __RESTAURANTE Y HOSPEDAJE LA CUCHARA:__ Este se encuentra en todo el parque principal, enseguida de una discoteca. El hospedaje por persona es alrededor de $25.000 Pesos, el almuerzo en   este lugar es de $12.000 Pesos  y desayuno $6.000 Pesos.
 
 
 📞 **Teléfono: <a href="tel: 3218005762"> 3218005762</a>**
@@ -304,9 +307,7 @@ En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran var
 
 
 
- ### RESIDENCIA EL PARAISO
-  
-  Este se encuentra a 1 cuadra del parque principal, así que en este lugar no escucharas ruido de discotecas, el hospedaje por persona es de alrededor de $ 40.000 Pesos
+ * __RESIDENCIA EL PARAISO:__ Este se encuentra a 1 cuadra del parque principal, así que en este lugar no escucharas ruido de discotecas, el hospedaje por persona es de alrededor de $ 40.000 Pesos
 
 
 📞 **Teléfono: <a href="tel: 3218005762"> 3218005762</a>**
@@ -328,14 +329,16 @@ Una vez de instalados en el hotel, salimos a dar una vuelta por el pueblo, y a m
 
 
 
+#### ESCALERAS 
 
+Estas escaleras se caracterizan por sus colores alusivos a las comunidades indígenas, allí podrán ver a un costado cada una de las banderas de los 14 municipios de Risaralda.
 
 
 
 
 {% include image.html
 file:"rutas/risaralda/pueblo-rico/escalas.jpeg",
-caption:"Foto Escaleras pueblo rico",
+caption:"Foto escaleras en Pueblo Rico",
 width:"2465",
 height:"1491"
 %}
@@ -364,7 +367,7 @@ height:"1491"
 
 
 
-## LUGARES PARA VISITAR EN PUEBLO RICO ⛰
+## LUGARES NATURALES PARA VISITAR EN PUEBLO RICO ⛰
 
 
 
@@ -373,7 +376,7 @@ height:"1491"
 
 
 
-El municipio de Pueblo rico es conocido por ser un municipio que alberga mucha diversidad, ya que es el lugar donde converge las corrientes de aire tropical que vienen del Choco y llegan hasta las zonas montañosas del Tatama, este fenómeno hace de Pueblo Rico un lugar mágico para realizar avistamiento de aves 🐦.
+El municipio de Pueblo rico es conocido por ser un municipio que alberga mucha diversidad, ya que es el lugar donde converge las corrientes de aire tropical que vienen del Choco y llegan hasta las zonas montañosas del Tatama, este fenómeno hace de Pueblo Rico un lugar mágico para realizar __avistamiento de aves en Risaralda__ 🦅.
 
 
 
@@ -404,16 +407,18 @@ Aquí te mostraremos algunas actividades que podrás realizar, tanto si te gusta
 
 
 
-Este lugar se encuentra en el corregimiento de Santa Cecilia, este está ubicado en límites con él chocó. Fue fundada en 1895 por algunas familias de palenques, quienes quedaron maravillados al ver la hermosura de este lugar y la riqueza en flora, fauna y fuentes hídricas que posee esta región.
-
-__NOTA:__ Si no cuentas con transporte público, podrás tomar un moto taxi, los cuales mantienen en parque principal de Pueblo Rico, estos te cobrarán alrededor de $15.000 pesos (por el trayecto), la duración del recorrido es de aproximadamente 40 minutos.
+Este lugar se encuentra en el __corregimiento de Santa Cecilia__, este está ubicado en límites con él chocó. Fue fundada en 1895 por algunas familias de palenques, quienes quedaron maravillados al ver la hermosura de este lugar y la riqueza en flora, fauna y fuentes hídricas que posee esta región.
 
 
-Al llegar al parque de Santa Cecilia, nos estaba esperando el guía, nos explicó un poco del recorrido que íbamos a hacer y nos dio un recorrido cerca del parque principal, para nuestra sorpresa en este corregimiento ya encontramos muchas más personas hablando Embera-Chamí y muchos llevaban sus trajes típico, lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio, y cada vez es más difícil poder encontrar estas comunidades.
+Al llegar al parque de Santa Cecilia, nos estaba esperando el guía local, el cual nos explicó un poco del recorrido que íbamos a hacer y después nos dio un recorrido cerca del parque principal, para nuestra sorpresa en este corregimiento ya encontramos muchas más personas hablando Embera-Chamí y muchos llevaban sus trajes típicos, lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio 🇨🇴.
 
 
 
-Después de una amena charla con el guía, donde nos explicó de todas las comunidades que vivían en Santa Cecilia, comenzamos el camino al río Murrapa, este trayecto hasta el río tiene una duración de aproximadamente 30 minutos.
+Después de una amena charla con nuestro guía local, donde nos contó: de las 3 comunidades que viven en Santa Cecilia, de su geografía, de sus especies naturales, en fin de muchos temas que no encontraras disponible en muchas partes, ya que es conociendo propio de estas comunidades 👴🏾, continuamos con el  camino hacia el río Murrapa, este trayecto tiene una duración de aproximadamente 30 minutos.
+
+
+__NOTA:__ _Si no cuentas con transporte público para llegar a Santa Cecilia, podrás tomar un moto taxi, uno de los buses con destino al Choco que se ubican en el parque principal, la duración del recorrido es de aproximadamente 40 minutos._
+
 
 
 {% include image.html
@@ -426,14 +431,7 @@ height:"675"
 
 
 
-
-
-
-
-Desde este punto del río se puede realizar algunas otras rutas de senderismo, aquí te las mencionaremos:
-
-
-
+Desde este punto del río (Amurrapa) se puede realizar algunas otras rutas de senderismo, aquí te las mencionaremos:
 
 
 
@@ -449,15 +447,6 @@ Desde este punto del río se puede realizar algunas otras rutas de senderismo, a
 
 
 
-Te compartimos los números del guía local de esta ruta:
-
-
-
-
-
-
-
-
 ### EL SENDERO DEL INDIO
 
 
@@ -465,9 +454,9 @@ Te compartimos los números del guía local de esta ruta:
 
 
 
-
-
-Esta es una ruta de aproximadamente 8 kilómetros, donde te encontraras con hermosos paisajes de bosque y aves como lo es el gallito de roca.
+Esta es una ruta de aproximadamente 8 kilómetros, donde te encontraras con hermosos paisajes de bosque y aves como: 
+* La Bangsia de Tatamáes, esta es una tángara endémica que se encuentra en estado de amenaza
+* Cucarachero de Munchique (Henicorhina negreti), el Clorornis Patirrojo (Chlorornis riefferii), la Cotinga Pechinaranja (Pipreola jucunda), el Quetzal Colinegro (Pharomacrus auriceps), la Habia Copetona (Habia cristata), también endémica y muchas otras aves importantes de esta región.
 
 
 
@@ -483,14 +472,6 @@ width:"2880",
 height:"1612"
 %}
 
-
-
-
-
-
-
-
-Te compartimos los números del guía local de esta ruta:
 
 
 
