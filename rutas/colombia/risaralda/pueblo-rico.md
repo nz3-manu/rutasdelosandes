@@ -3,14 +3,15 @@ layout: trail
 title:  Pueblo Rico
 categories: colombia
 seo_title: Pueblo Rico
-excerpt: Pueblo Rico es un municipio de Risaralda, este es conocido por gran diversidad de flora y fauna, lo que lo convierte en un municipio ideal para hacer avistamiento de aves.
+excerpt: Pueblo Rico es un municipio de Risaralda, este es conocido por gran diversidad de flora y fauna, lo que lo convierte en un municipio ideal para hacer avistamiento de aves en risaralda.
 images_url: /images/rutas/risaralda/pueblo-rico
 viewranger:
 author: manuel
+trending: true
 ---
 
 
-
+ 
 
 # PUEBLO RICO
 
@@ -29,7 +30,7 @@ author: manuel
 
 
 
-En este post te mostraremos todo lo que debes de saber de este hermoso municipio del Eje cafetero, el cual se caracteriza por su riqueza natural. Además, de ser famoso por ser uno de los __lugares preferidos en Colombia para hacer avistamiento de aves__ 🦅.
+En este post te mostraremos todo lo que debes de saber de este hermoso municipio del Eje cafetero, el cual se caracteriza por su riqueza natural. Además, de ser famoso por ser uno de los __lugares preferidos en Risaralda para hacer avistamiento de aves__ 🦅.
 
 
 
@@ -38,7 +39,7 @@ En este post te mostraremos todo lo que debes de saber de este hermoso municipio
 
 
 
-__En este post encontrarás la siguiente información:__
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 
 
@@ -50,7 +51,7 @@ __En este post encontrarás la siguiente información:__
 * <a href="#como-llegar-pueblo-rico"> ¿Cómo llegar a Pueblo Rico?</a>
 * <a href="#como-llegar-pueblo-rico"> Lugares que debes visitar en pueblo rico </a>
 * <a href="#como-llegar-pueblo-rico"> Hospedajes en pueblo rico </a>
-* <a href="#lugares-pueblorico"> Lugares Para visitar en Pueblo Rico </a>
+* <a href="#lugares-pueblorico"> Lugares naturales para visitar en Pueblo Rico </a>
 * <a href="#recomendaciones-pueblorico"> Recomendaciones finales para visitar pueblo rico </a>
 
 
@@ -89,6 +90,7 @@ Empecemos con la aventura ⛰.
 
 
 ## ¿QUÉ ENCONTRARÁS EN PUEBLO RICO 🏞?
+
 
 
 
@@ -195,7 +197,7 @@ El corregimiento Santa Cecilia   cuenta actualmente con una población aproximad
 
 
 
-Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de Choco, por esta razón vas a encontrar buena cantidad de transporte público, así que si vas para el departamento del Choco podrías hacer una corta parada en este bello municipio 🫣.
+Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de Choco, por esta razón vas a encontrar buena cantidad de transporte público, así que si vas para el departamento del Choco podrías hacer una corta parada en este bello pueblo 😏.
 
 
 
@@ -221,7 +223,7 @@ Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de
 
 
 
-* __Empresa flota Occidental:__ Los buses de esta empresa salen desde el terminal de Pereira en los siguientes horarios; 4:00 am, 5:00 am, 6:00 am, 8:30 am, 11:30 am y 5:30 pm. El valor del pasaje es alrededor de $20.000 pesos por persona, estos horarios pueden cambiar así que te recomendamos consultar disponibilidad
+* __Empresa flota Occidental:__ Los buses de esta empresa salen desde el terminal de Pereira en los siguientes horarios; 4:00 am, 5:00 am, 6:00 am, 8:30 am, 11:30 am y 5:30 pm. El valor del pasaje es alrededor de $20.000 pesos por persona, estos horarios pueden cambiar así que te recomendamos consultar disponibilidad.
 
 📞 **Teléfono empresa Flota Occidental: <a href="tel: (606) 3211651"> (606) 3211651</a>**
 
@@ -237,7 +239,7 @@ Pueblo rico se encuentra en la vía que conecta a Pereira con el departamento de
 
 
 
-Una vez llegas a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro del Tatama que se encuentra al fondo del pueblo ⛰. Y como si fuera poco podrás disfrutar de tanta diversidad cultural y natural, al mismo tiempo que podrás escuchar algunas personas hablando idioma Embera-Chamí. Esto fue algo que realmente me sorprendió a pesar de ser Colombiano, si eres extranjero y estás leyendo esto te aseguro que esta será una experiencia inigualable.
+Una vez llegas a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro del Tatama que se encuentra al fondo del pueblo ⛪️⛰. Y como si fuera poco podrás disfrutar de tanta diversidad cultural y natural, al mismo tiempo que podrás escuchar algunas personas hablando idioma Embera. Esto fue algo que realmente me sorprendió a pesar de ser Colombiano, si eres extranjero y estás leyendo esto te aseguro que esta será una experiencia inigualable.
 
 
 
@@ -299,7 +301,7 @@ __Nota:__ _Debemos de preservar más nuestras raíces, ya que a muchos de nosotr
 En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran variedad de hospedajes, aquí te mostraremos algunos.
 
 
-* __RESTAURANTE Y HOSPEDAJE LA CUCHARA:__ Este se encuentra en todo el parque principal, enseguida de una discoteca. El hospedaje por persona es alrededor de $25.000 Pesos, el almuerzo en   este lugar es de $12.000 Pesos  y desayuno $6.000 Pesos.
+* __RESTAURANTE Y HOSPEDAJE LA CUCHARA:__ Este se encuentra en todo el parque principal, enseguida de una discoteca, así que si te incomoda el ruido te recomendamos tomar las habitaciones del fondo. El hospedaje por persona es alrededor de $25.000 Pesos, el almuerzo en este lugar es de $12.000 Pesos y desayuno $6.000 Pesos.
 
 
 📞 **Teléfono: <a href="tel: 3218005762"> 3218005762</a>**
@@ -324,8 +326,7 @@ En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran var
 
 
 
-
-Una vez de instalados en el hotel, salimos a dar una vuelta por el pueblo, y a muy pocas cuadras del parque principal nos encontramos con unas escaleras las cuales deberías visitar.
+Una vez de instalados en el hotel, salimos a dar una vuelta por el pueblo, y a muy pocas cuadras del parque principal nos encontramos con unas escaleras las cuales deberías aprovechar para visitar.
 
 
 
@@ -344,7 +345,7 @@ height:"1491"
 %}
 
 
-
+Después de un pequeño tour por el pueblo, continuamos a ver algunos lugares naturales que confieso tiene muchos, pero solo documentamos los que están cerca del pueblo y podrás encontrar guías locales con mayor facilidad.
 
 
 
@@ -407,10 +408,10 @@ Aquí te mostraremos algunas actividades que podrás realizar, tanto si te gusta
 
 
 
-Este lugar se encuentra en el __corregimiento de Santa Cecilia__, este está ubicado en límites con él chocó. Fue fundada en 1895 por algunas familias de palenques, quienes quedaron maravillados al ver la hermosura de este lugar y la riqueza en flora, fauna y fuentes hídricas que posee esta región.
+Este lugar se encuentra en el __corregimiento de Santa Cecilia__, este está ubicado en límites con él chocó. Este corregimiento fue fundada en 1895 por algunas familias de palenques, quienes quedaron maravillados al ver la hermosura de este lugar y la riqueza en flora, fauna y fuentes hídricas que posee esta región.
 
 
-Al llegar al parque de Santa Cecilia, nos estaba esperando el guía local, el cual nos explicó un poco del recorrido que íbamos a hacer y después nos dio un recorrido cerca del parque principal, para nuestra sorpresa en este corregimiento ya encontramos muchas más personas hablando Embera-Chamí y muchos llevaban sus trajes típicos, lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio 🇨🇴.
+Al llegar al parque de Santa Cecilia, nos estaba esperando el guía local Don Blas, el cual nos explicó del recorrido que íbamos a hacer y después nos dio un tour cerca del parque principal, para nuestra sorpresa en este corregimiento ya encontramos muchas más personas hablando Embera y muchos llevaban sus trajes típicos, lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio 🇨🇴.
 
 
 <a id="banner2" href="https://www.randes.co/collections/mujer" target="_blank">
@@ -422,10 +423,12 @@ height:"360" %}
 </a>
 
 
-Después de una amena charla con nuestro guía local, donde nos contó: de las 3 comunidades que viven en Santa Cecilia, de su geografía, de sus especies naturales, en fin de muchos temas que no encontraras disponible en muchas partes, ya que es conociendo propio de estas comunidades 👴🏾, continuamos con el  camino hacia el río Murrapa, este trayecto tiene una duración de aproximadamente 30 minutos.
+Después de una amena charla con nuestro guía local, donde nos contó: de las 3 comunidades que viven en Santa Cecilia, de su historia y del __descubrimiento  de una nueva especie de rana que él hizo__, en fin de muchos temas que no encontraras disponible en muchas partes, ya que es conociendo propio de estas comunidades 👴🏾.
+
+Continuamos con el  camino hacia el río Murrapa, este trayecto tiene una duración de aproximadamente 30 minutos, el trayecto fue al lado del río, el camino esta en muy buen estado así que pueden ir con familia.
 
 
-__NOTA:__ _Si no cuentas con transporte público para llegar a Santa Cecilia, podrás tomar un moto taxi, uno de los buses con destino al Choco que se ubican en el parque principal, la duración del recorrido es de aproximadamente 40 minutos._
+__NOTA:__ _Si no cuentas con transporte público para llegar a Santa Cecilia, podrás tomar un moto taxi, el cual te podría cobrar $25.000 por persona o uno de los buses con destino al Choco que se ubican en el parque principal, la duración del recorrido es de aproximadamente 40 minutos._
 
 
 
@@ -439,18 +442,18 @@ height:"675"
 
 
 
-Desde este punto del río (Amurrapa) se puede realizar algunas otras rutas de senderismo, aquí te las mencionaremos:
+Desde este punto del río (Amurrapa) se puede realizar algunas otras rutas, eres biólogo o amante de la Naturaleza estamos seguros de que te encantarán los siguientes senderos, además de esto el guía es una persona que cuenta con mucho conociendo empírico en anfibios 🐸 y aves 🦅.
 
 
 
 
 
-* __SENDERO VOLGA:__ Es uno de los senderos más importantes que tiene Santa Cecilia en la parte baja, ya que pueden ir adultos mayores a ver la Oropéndola del Baudó, Oophaga que son Rana Arlequín, y Phyllobates bicolor​​ que ss la segunda rana más tóxica del mundo
+* __SENDERO VOLGA:__ Es uno de los senderos más importantes que tiene Santa Cecilia en la parte baja, ya que pueden ir adultos mayores a ver la Oropéndola del Baudó, Oophaga que son Rana Arlequín, y Phyllobates bicolor​​ que ss la segunda rana más tóxica del mundo, duración aproximado 4 horas.
 
 
 
 
-* __SANTUARIO DE LOS MURCIÉLAGOS:__ También conocido como los senderos de los locos: por este sendero podrán observar, osos de anteojo, guaguas, pumas, áteles, entre otras especies
+* __SANTUARIO DE LOS MURCIÉLAGOS:__ También conocido como los senderos de los locos: por este sendero podrán observar, osos de anteojo, guaguas, pumas, áteles, entre otras especies, duración aproximado 3 horas.
 
 
 
@@ -505,7 +508,7 @@ height:"1612"
 
 
 
-
+* __La ropa ideal para esta ruta es:__ buzos con protección solar, pantalones de secado rápido, sombreros de senderismo y tenis para río, todas estas prendas las podras encontrar en nuestra tienda en linea 👉 __<a href="https://www.randes.co" target="_blank"> 🏬 aquí</a>__
 * Recuerda que los horarios de los buses para Pueblo Rico salen solo en algunos horarios
 * Si necesitaras traductor en inglés, tendrías que llevarlo desde Pereira, ya que es algo complicado encontrar en Pueblo Rico
 * Recuerda contratar el servicio de guía con anterioridad, puesto que estos senderos tienen capacidad de carga y los encargados de llevar este control son las comunidades que viven en la zona
