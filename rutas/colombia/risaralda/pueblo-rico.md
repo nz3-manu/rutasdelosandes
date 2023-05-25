@@ -80,7 +80,7 @@ Empecemos con la aventura ⛰.
 
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lakde-otun.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/pueblo-rico.html"> See this post in english version 🇺🇸</a>]**
 
 
 
@@ -153,7 +153,13 @@ Por este municipio pasan varios ríos  como: San Juan, Cuanza, Tatamá, Taiba, C
 
 
 
-
+<a id="banner2" href="https://www.randes.co/" target="_blank">
+{% include image.html,
+file:"publicidad-post/ropa-randes.gif",
+caption:"",
+width:"1224",
+height:"510" %}
+</a>
 
 
 
@@ -321,7 +327,7 @@ En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran var
 
 
 
-* __RESIDENCIA EL PARAISO:__ Este se encuentra a 1 cuadra del parque principal, así que en este lugar no escucharas ruido de discotecas, el hospedaje por persona es de alrededor de $ 40.000 Pesos
+* __RESIDENCIA EL PARAISO:__ Este se encuentra a 1 cuadra del parque principal, así que en este lugar no escucharas ruido de discotecas, el hospedaje por persona es de alrededor de $ 40.000 Pesos.
 
 
 
