@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  5 Beneficios de hacer senderismo
+title:  5 Beneficios de hacer Senderismo
 categories: blog
 seo_title: 5 Beneficios de hacer senderismo
 excerpt: Descubre los Beneficios de senderismo o de salir a caminar por unos pocos minutos.
@@ -8,6 +8,22 @@ tags: Salud Historias Tips Montaña
 images_url: /images/blog/salud/senderismo
 featured:  https://rutasdelosandes.com/images/blog/salud/5-beneficios-senderismo/senderismo.jpg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -41,6 +57,22 @@ featured:  https://rutasdelosandes.com/images/blog/salud/5-beneficios-senderismo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ¿Te has preguntado que pasa en tu mente  cuando realizamos un paseo corto por la montaña?, que pasaría si te dijéramos que científicos han realizado numerosas investigaciones y __han descubierto resultados sorprendentes que aseguran que el senderismo podría ser el pasaporte para un cerebro nuevo ⛰🧠__.
 
 
@@ -50,7 +82,26 @@ featured:  https://rutasdelosandes.com/images/blog/salud/5-beneficios-senderismo
 
 
 
+
+
+
+
+
+
+
+
 Quédate hasta el final del post para que conozcas los __5 beneficios que fueron descubiertos por científicos__ que te ayudarán a comprender cómo se reprograma tu cerebro cuando haces este tipo de actividades.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,7 +129,20 @@ height:"200" %}
 
 
 
+
+
+
+
+
+
+
+
+
 ## EL SENDERISMO BASADO EN LA CIENCIA
+
+
+
+
 
 
 
@@ -90,7 +154,21 @@ Varios grupos de investigación, científicos y universidades han estado intriga
 
 
 
-A continuación te compartiremos los 5 beneficios de realizar senderismo ⛰.                                                      
+
+
+
+
+
+
+A continuación te compartiremos los 5 beneficios de realizar senderismo ⛰.                                                     
+
+
+
+
+
+
+
+
 
 
 
@@ -108,7 +186,19 @@ A continuación te compartiremos los 5 beneficios de realizar senderismo ⛰.
 
 
 
+
+
+
+
+
+
+
+
 De acuerdo con el estudio elaborado por la Academia Nacional de Ciencias, __caminar 90 minutos por lugares naturales__ genera un impacto positivo en el estado de ánimo de las personas, lo cual hace que __se disminuya el estrés y las preocupaciones__ por cuestiones laborales y familiares.
+
+
+
+
 
 
 
@@ -118,12 +208,30 @@ Además, en los estudios de los escáneres cerebrales se demostró que quienes c
 
 
 
+
+
+
+
 {% include image.html,
- file:"/blog/salud/5-beneficios-senderismo/5-beneficio-senderismo.jpeg",
- caption:"Beneficios caminar en la montaña foto",
- width:"800",
- height:"1200"
+file:"/blog/salud/5-beneficios-senderismo/5-beneficio-senderismo.jpeg",
+caption:"Beneficios caminar en la montaña foto",
+width:"800",
+height:"1200"
 %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -147,7 +255,19 @@ Además, en los estudios de los escáneres cerebrales se demostró que quienes c
 
 
 
+
+
+
+
+
+
+
+
 Los psicólogos Ruth Ann Atchley y David L. Straye determinaron en 2012 que después de 4 días de contacto con la naturaleza, el estrés de la ciudad y desconexión de la tecnología, hicieron que las personas involucradas en el estudio aumentaran su __capacidad creativa__
+
+
+
+
 
 
 
@@ -161,12 +281,22 @@ Así lo corroboraron todos los participantes, quienes __puntuaron un 50% más en
 
 
 
+
+
+
+
+
+
+
+
 {% include image.html,
- file:"/blog/salud/5-beneficios-senderismo/3-beneficio-senderismo.jpg",
- caption:"Beneficios caminar en la montaña foto",
- width:"1440",
- height:"1800"
+file:"/blog/salud/5-beneficios-senderismo/3-beneficio-senderismo.jpg",
+caption:"Beneficios caminar en la montaña foto",
+width:"1440",
+height:"1800"
 %}
+
+
 
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/mafeaya1/"  target="_blank"> @mafeaya1 </a> </span>__
@@ -180,7 +310,6 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/mafeaya1/"
 
 
 
-## 3- DISMINUCIÓN DE LOS TRASTORNOS DE ATENCIÓN
 
 
 
@@ -189,17 +318,34 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/mafeaya1/"
 
 
 
-Un estudio realizado en 2004 demostró que realizar caminatas al aire libre hacen que nuestra concentración mejore y, no solo eso, sino que también __puede disminuir los síntomas del Trastorno de Déficit de Atención.__
+
+
+## 3- AYUDA A CURAR LAS ENFERMEDADES GRAVES
+
+
+
+
+
+
+En un estudio realizado por el científico Ulrich denominado «terapia estético afectiva» concluyó que las personas en determinadas percepciones sensoriales como el cantar de los pájaros, el escuchar del agua de los ríos y quebradas, las flores y los árboles sirven de estimulantes que ayudan a crear las bases neurológicas para sentirnos bien. 
+
+
+Además, se logró comprobar que cuando las personas practican senderismo durante un largo período de tiempo puede __mejorar la capacidad anti-oxidativa, lo cual ayuda a combatir enfermedades degenerativas como el cáncer.__ Es decir, si nos alejamos de la naturaleza, nos debilitamos y enfermamos.
+
+
+
+
 
 
 
 
 {% include image.html,
- file:"/blog/salud/5-beneficios-senderismo/2-beneficio-senderismo.jpg",
- caption:"Beneficios caminar en la montaña foto",
- width:"640",
- height:"427"
+file:"/blog/salud/5-beneficios-senderismo/2-beneficio-senderismo.jpg",
+caption:"Beneficios caminar en la montaña foto",
+width:"640",
+height:"427"
 %}
+
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CUDNKwmLLWe/"  target="_blank"> @krdinan </a> </span>__
 
@@ -210,7 +356,31 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CUDNKwmL
 
 
 
+
+
+
+
+
+
+
+
 ## 4- AUMENTO DE RETENCIÓN DE INFORMACIÓN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,12 +416,33 @@ Cuando las personas practican senderismo; en la parte física, pueden quemar ent
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include image.html,
- file:"/blog/salud/5-beneficios-senderismo/4-beneficio-senderismo.jpg",
- caption:"Beneficios caminar en la montaña foto",
- width:"640",
- height:"800"
+file:"/blog/salud/5-beneficios-senderismo/4-beneficio-senderismo.jpg",
+caption:"Beneficios caminar en la montaña foto",
+width:"640",
+height:"800"
 %}
+
+
+
 
 
 
@@ -261,7 +452,20 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/jennymount
 
 
 
+
+
+
+
+
 ## 5- MEJORAMIENTO DE LA AUTOESTIMA
+
+
+
+
+
+
+
+
 
 
 
@@ -283,12 +487,36 @@ Diversos estudios acerca del comportamiento del cerebro cuando se practica sende
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 {% include image.html,
- file:"/blog/salud/5-beneficios-senderismo/1-beneficio-senderismo.jpeg",
- caption:"Beneficios caminar en la montaña foto",
- width:"800",
- height:"1200"
+file:"/blog/salud/5-beneficios-senderismo/1-beneficio-senderismo.jpeg",
+caption:"Beneficios caminar en la montaña foto",
+width:"800",
+height:"1200"
 %}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -310,7 +538,23 @@ Con todo lo anteriormente mencionado, queda demostrado que el cuerpo experimenta
 
 
 
+
+
+
+
+
+
+
+
 Si en algún momento de tu vida te sientes deprimido, con la moral baja; agarra tu mochila, una botella con agua, ponte tus botas, y no olvides llevar una prenda de Rutas de los Andes para que te conectes con la montaña.
+
+
+
+
+
+
+
+
 
 
 
@@ -325,7 +569,23 @@ Modificación y adaptación por Rutas de los Andes
 
 
 
+
+
+
+
 __Este es el fin del post 5 estudios científicos de cómo cambia nuestra mente al hacer senderismo, no te olvides de seguirnos en nuestras redes sociales para conocer más información como esta 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>__
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
