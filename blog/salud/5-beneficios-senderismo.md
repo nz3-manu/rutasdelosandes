@@ -214,7 +214,7 @@ Además, en los estudios de los escáneres cerebrales se demostró que quienes c
 
 {% include image.html,
 file:"/blog/salud/5-beneficios-senderismo/5-beneficio-senderismo.jpeg",
-caption:"Beneficios caminar en la montaña foto",
+caption:"",
 width:"800",
 height:"1200"
 %}
@@ -291,7 +291,7 @@ Así lo corroboraron todos los participantes, quienes __puntuaron un 50% más en
 
 {% include image.html,
 file:"/blog/salud/5-beneficios-senderismo/3-beneficio-senderismo.jpg",
-caption:"Beneficios caminar en la montaña foto",
+caption:"",
 width:"1440",
 height:"1800"
 %}
@@ -340,14 +340,14 @@ Además, se logró comprobar que cuando las personas practican senderismo durant
 
 
 {% include image.html,
-file:"/blog/salud/5-beneficios-senderismo/2-beneficio-senderismo.jpg",
-caption:"Beneficios caminar en la montaña foto",
-width:"640",
-height:"427"
+file:"/blog/salud/5-beneficios-senderismo/2-beneficio-senderismo.JPG",
+caption:"",
+width:"720",
+height:"1079"
 %}
 
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CUDNKwmLLWe/"  target="_blank"> @krdinan </a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/jennymountainc/"  target="_blank"> @jennymountainc </a> </span>__
 
 
 
@@ -436,7 +436,7 @@ Cuando las personas practican senderismo; en la parte física, pueden quemar ent
 
 {% include image.html,
 file:"/blog/salud/5-beneficios-senderismo/4-beneficio-senderismo.jpg",
-caption:"Beneficios caminar en la montaña foto",
+caption:"",
 width:"640",
 height:"800"
 %}
@@ -501,7 +501,7 @@ Diversos estudios acerca del comportamiento del cerebro cuando se practica sende
 
 {% include image.html,
 file:"/blog/salud/5-beneficios-senderismo/1-beneficio-senderismo.jpeg",
-caption:"Beneficios caminar en la montaña foto",
+caption:"",
 width:"800",
 height:"1200"
 %}
