@@ -9,7 +9,7 @@ images_url: /images/blog/salud/alimentamente
 featured: /featured.jpg
 ---
 
-# Pasear por entornos naturales, un beneficio para nuestra mente
+# PASEAR POR ENTORNOS NATURALES, UN BENEFICIO PARA NUESTRA MENTE
 
 __Estudio científico comprueba, a través de monitoreo de la actividad cerebral, que caminar en áreas verdes relaja la mente.__
 
