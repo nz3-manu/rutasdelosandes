@@ -5,8 +5,8 @@ categories: blog
 seo_title: 5 Beneficios de hacer senderismo
 excerpt: Descubre los Beneficios de senderismo o de salir a caminar por unos pocos minutos.
 tags: Salud Historias Tips Montaña
-images_url: /images/blog/salud/senderismo
-featured:  https://rutasdelosandes.com/images/blog/salud/5-beneficios-senderismo/senderismo.jpg
+images_url: /images/blog/salud/5-beneficios-senderismo
+featured:  /featured.jpg
 ---
 
 
