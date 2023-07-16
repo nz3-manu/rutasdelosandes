@@ -14,7 +14,7 @@ trending: true
 
 __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundante biodiversidad. Ubicado en el Valle del Cauca, esta hermosa bahía cuenta con playas hermosas idóneas para el descanso y la desconexión de la ciudad. Además, es posible presenciar la migración de ballenas jorobadas, que llegan de Julio a Octubre. Por tal razón, en este post te mostraremos todo lo que necesitas saber para qué disfrutes al máximo de este lugar.
 
-👉 __<a href="https://www.randes.co/products/tour-avistamiento-ballenas" style="color:green;" target="_blank">Si quieres realizar esta ruta, puedes dar clic aquí</a>__
+👉 __<a href="https://www.randes.co/products/tour-avistamiento-ballenas" style="color:green;" target="_blank"> Clic aquí para conocer el  tours a Bahía Málaga 🐳.</a>__
 
 ## EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:
 

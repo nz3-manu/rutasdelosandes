@@ -16,7 +16,7 @@ En este post encontrarás toda la información que necesitas saber para viajar a
 Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
 Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
 
-👉 **<a href="https://wa.link/740bhn" style="color:green;" target="_blank"> Clic aquí para separar un tour al desiero de la Tatacoa 🐫 .</a>**
+👉 **<a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank"> Clic aquí para conocer el  tour al desiero de la Tatacoa 🐫 .</a>**
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
