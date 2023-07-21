@@ -4,9 +4,9 @@ title: Te Has Preguntado La Diferencia Entre Trekking y Hiking
 categories: blog
 seo_title: Diferencia entre Trekking y Hiking
 excerpt: ¿Sabes la diferencia entre Trekking, Hikking o senderismo? aquí te las explicaremos.
-images_url: /images/blog/tipsmontana/hiking&trekking
+images_url: /images/blog/tips-montana/hiking&trekking
 tags: TipsMontaña
-featured: https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/tarahumara.jpg
+featured: https://rutasdelosandes.com/images/blog/tips-montana/trailrunning/tarahumara.jpg
 ---
 
 # Un Termino Que Desconocen Hasta Los Mas Expertos
@@ -29,7 +29,7 @@ El término trekking es de origen sudafricano, y hace referencia a un viaje larg
 En el trekking encontraremos distintos grados de dificultad, estos dependen de la duración del trayecto y lo complejo del terreno, por lo general son caminos que no se encuentran; refugios o alojamiento hotelero , así que es imprescindible llevar un equipo completo que incluye entre otras muchas cosas, carpa, saco de dormir, calentadores, abundante cantidad de alimentos, hipercalóricos y si es posible y si no se conoce el terreno, poder contar con un guía experimentado en la zona.
 
 {% include image.html,
- file:"/blog/tipsmontana/hiking&trekking/trekking.jpg",
+ file:"/blog/tips-montana/hiking&trekking/trekking.jpg",
  width:"900",
  height:"533",
  alt:"Diferencia entre Trekking y Hiking"
@@ -40,7 +40,7 @@ En el trekking encontraremos distintos grados de dificultad, estos dependen de l
 El senderismo es una actividad más relajante y aunque también existen diversas dificultades, se suelen realizar las rutas por senderos bien señalizados, o por caminos de uso rural que además pueden contar con paradas, refugios o alojamiento hotelero a lo largo del camino.
 
 {% include image.html,
- file:"/blog/tipsmontana/hiking&trekking/hiking.jpg",
+ file:"/blog/tips-montana/hiking&trekking/hiking.jpg",
  width:"900",
  height:"506",
  alt:"Diferencia entre Trekking y Hiking"

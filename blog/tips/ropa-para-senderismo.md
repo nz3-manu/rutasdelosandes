@@ -4,9 +4,9 @@ title: Ropa para Trekking y Senderismo
 categories: blog
 seo_title: Ropa adecuada para senderismo|rutas
 excerpt: ¿Cuál es la ropa ideal para hacer senderismo?, cuantas columnas de agua debe de tener una chaqueta impermeable.
-images_url: /images/blog/tipsmontana/ropa-para-senderismo
+images_url: /images/blog/tips-montana/ropa-para-senderismo
 tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/ropa-para-senderismo/featured.jpg
+featured:  https://rutasdelosandes.com/images/blog/tips-montana/ropa-para-senderismo/featured.jpg
 ---
 
 # ROPA PARA TREKKING Y SENDERISMO 
@@ -34,7 +34,7 @@ Al momento de salir a caminar procura no llevar camisetas o buzos que sean de al
 Procura que tu camiseta o buzos contengan más polyester que algodón y así evitaras estos inconvenientes, si además la camiseta  cuente con la tecnología Dry-fit será mucho mejor, ya que al contacto con nuestra piel  absorberá el sudor como si fuera una esponja y lo expulse hacia el exterior, y así siempre estaremos secos.
 
 {% include image.html,
- file:"/blog/tipsmontana/ropa-para-senderismo/camiseta.jpg",
+ file:"/blog/tips-montana/ropa-para-senderismo/camiseta.jpg",
  caption:"Camiseta tela deportiva",
  width:"1200",
  height:"805"
@@ -54,7 +54,7 @@ __En nuestra tienda en línea podrás encontrar:__
 Ahora pasemos a los buzos manga larga, estos buzos nos ayudan a protegernos de: la vegetación, del sol, del frío etc. 
 
 {% include image.html,
- file:"/blog/tipsmontana/ropa-para-senderismo/camiseta-manga-larga-senderismo.jpg",
+ file:"/blog/tips-montana/ropa-para-senderismo/camiseta-manga-larga-senderismo.jpg",
  caption:"Buzo manga larga",
  width:"1200",
  height:"800"
@@ -162,7 +162,7 @@ Todos nuestros pantalones: basic, secado rápido e impermeable, vienen en los si
 __Diseño del pantalón de hombre:__ tiene bolsillos a los costados con tapa y en la parte de atrás también 2 bolsillos y al lado derecho un bolsillo con cremallera, en la bota cuenta con resorte para ajustarlo.
 
 {% include image.html,
- file:"/blog/tipsmontana/ropa-para-senderismo/pantalon_senderismo.JPG",
+ file:"/blog/tips-montana/ropa-para-senderismo/pantalon_senderismo.JPG",
  caption:"Pantalon de senderismo hombre",
  width:"1200",
  height:"800"
@@ -175,7 +175,7 @@ El diseño del pantalón de mujer lo tenemos en 2 estilos:
 * Pantalón ajustado: cuenta con bolsillos internos en la parte de atrás y bolsillo en el muslo derecho con cremallera.
 
 {% include image.html,
- file:"/blog/tipsmontana/ropa-para-senderismo/pantalon_senderismo-mujer.JPG",
+ file:"/blog/tips-montana/ropa-para-senderismo/pantalon_senderismo-mujer.JPG",
  caption:"Pantalon de senderismo mujer",
  width:"1200",
  height:"800"
@@ -188,7 +188,7 @@ El diseño del pantalón de mujer lo tenemos en 2 estilos:
 En nuestra tienda podrán encontrar 3 tipos de chaquetas las cuales 2 de ellas son rompevientos y una tercera que es impermeable, quiero aclarar que cuando decimos rompevientos no son chaquetas 100% impermeables, son chaquetas que nos protegerán del viento también te protegerán un de la lluvia mas no de tormentas.
 
 {% include image.html,
- file:"/blog/tipsmontana/ropa-para-senderismo/chaqueta_rompevientos.jpg",
+ file:"/blog/tips-montana/ropa-para-senderismo/chaqueta_rompevientos.jpg",
  caption:"",
  width:"1200",
  height:"801"
@@ -233,7 +233,7 @@ __Impermeabilidad__
 La tasa de impermeabilidad se expresa en mm de agua o columnas de agua, el cual se obtiene sometiendo el textil  a una prueba de presión hidrostática, la cual consiste en poner la tela en la base en tubo y se empieza a llenar de agua, hasta que presión de esta haga filtrar el agua a través de la tela, esta altura que alcance el agua en el tubo se expresa en mm y se conoce como  columnas de agua.
 
 {% include image.html, 
-    file:"/blog/tipsmontana/ropa-para-senderismo/test-impermeabilidad.jpg", 
+    file:"/blog/tips-montana/ropa-para-senderismo/test-impermeabilidad.jpg", 
     caption:"Prueba de presión hidrostática", 
     width:"1100", 
     height:"698",
@@ -245,7 +245,7 @@ __Se habla de que una tela es impermeable si cuenta con un valor superior a 10.0
 Te comparto una tabla en la cual podrás ver para qué actividad la podrías usar:
 
 {% include image.html, 
-    file:"/blog/tipsmontana/ropa-para-senderismo/indice-impermeabilidad.jpg", 
+    file:"/blog/tips-montana/ropa-para-senderismo/indice-impermeabilidad.jpg", 
     caption:"Indice de impermeabilidad", 
     width:"1100", 
     height:"698",
@@ -262,7 +262,7 @@ Este valor está dado en g/m²/día, _lo que indica la cantidad de vapor de agua
 Te comparto una tabla en la cual podrás ver para qué actividad la podrías usar:
 
 {% include image.html, 
-    file:"/blog/tipsmontana/ropa-para-senderismo/indice-respirabilidad.jpg", 
+    file:"/blog/tips-montana/ropa-para-senderismo/indice-respirabilidad.jpg", 
     caption:"Indice de respirabilidad", 
     width:"1100", 
     height:"529",
@@ -279,7 +279,7 @@ __Se dice que una prenda te protegerá del viento cuando este valor se encuentra
 
 
 {% include image.html, 
-    file:"/blog/tipsmontana/ropa-para-senderismo/indice-rompeviento.jpg", 
+    file:"/blog/tips-montana/ropa-para-senderismo/indice-rompeviento.jpg", 
     caption:"Indice de Rompeviento", 
     width:"1100", 
     height:"535",

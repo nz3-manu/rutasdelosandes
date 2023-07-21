@@ -4,9 +4,9 @@ title:  La primera Trail Running Tarahumara
 categories: blog
 seo_title: ¿Que es Trail Running?
 excerpt: Conozca el nuevos deporte de montaña que se está volviendo cada vez más popular en latinoamérica conocido como “Trail Running” (Carrera de montaña). Conozca la historia de  la familia indígena descendiente de los Raramuri que han ganado múltiples competiciones.
-images_url: /images/blog/tipsmontana/trailrunning
+images_url: /images/blog/tips-montana/trailrunning
 tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/trailrunning/tarahumara.jpg
+featured:  https://rutasdelosandes.com/images/blog/tips-montana/trailrunning/tarahumara.jpg
 ---
 
 # ¿ Primero que todo que es Trail Running 🤔? 

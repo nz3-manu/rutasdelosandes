@@ -4,9 +4,9 @@ title: Que es el mal de altura y como evitarlo
 categories: blog
 seo_title: Que es el mal de altura y como evitarlo 
 excerpt: ¿Que es el mal de altura y como evitarlo?, conoce algunos consejos que te ayudarán al momento de ir a la montaña.  .
-images_url: /images/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo
+images_url: /images/blog/tips-montana/que-es-el-mal-de-altura-como-evitarlo
 tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/featured.jpg
+featured:  https://rutasdelosandes.com/images/blog/tips-montana/que-es-el-mal-de-altura-como-evitarlo/featured.jpg
 ---
 
 # ¿Que es el mal de altura y cómo evitarlo? 
@@ -31,7 +31,7 @@ Te estarás preguntando si el oxígeno permanece constante, __¿porque cuando vo
 Solucionemos esta pregunta con la siguiente imagen.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/PresionAtmosferica.png",
+ file:"/blog/tips-montana/que-es-el-mal-de-altura-como-evitarlo/PresionAtmosferica.png",
  caption:"Gráfica mal de altura",
  width:"2048",
  height:"1102"
@@ -88,7 +88,7 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/"> Recuerda l
 En la siguiente gráfica te resumimos la recomendaciones que hacen algunos expertos en este tema.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontana.png",
+ file:"/blog/tips-montana/que-es-el-mal-de-altura-como-evitarlo/AscensoMontana.png",
  caption:"Gráfica ascenso a montaña",
  width:"1552",
  height:"950"

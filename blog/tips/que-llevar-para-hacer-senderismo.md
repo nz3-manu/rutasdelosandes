@@ -5,9 +5,9 @@ title: Qué llevar para hacer senderismo
 categories: blog
 seo_title: Ropa adecuada para senderismo|rutas
 excerpt: Clic aquí para conocer cual es la ropa adecuada para hacer senderismo o caminatas.
-images_url: /images/blog/tipsmontana/que-llevar-al-hacer-senderismo
+images_url: /images/blog/tips-montana/que-llevar-al-hacer-senderismo
 tags: TipsMontaña
-featured:  https://rutasdelosandes.com/images/blog/tipsmontana/que-llevar-al-hacer-senderismo/featured.jpg
+featured:  https://rutasdelosandes.com/images/blog/tips-montana/que-llevar-al-hacer-senderismo/featured.jpg
 ---
 
 # ¿QUÉ LLEVAR PARA HACER SENDERISMO?
@@ -37,7 +37,7 @@ Procura NO llevar prendas que sean de algodón, ya que estás absorberán todo n
 Una buena opción son las prendas con repelencia de sudor o secado rápido.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta.jpg",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/camiseta.jpg",
  caption:"Camiseta tela deportiva",
  width:"1200",
  height:"805"
@@ -49,7 +49,7 @@ Una buena opción son las prendas con repelencia de sudor o secado rápido.
 Esta es una muy buena opción para protegernos de los mosquitos, ramas que nos pueden lacerar y del sol. Sí estos cuentan con factor de protección solar (UV) será mucho mejor.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/camiseta-manga-larga-senderismo.jpg",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/camiseta-manga-larga-senderismo.jpg",
  caption:"Buzo manga larga",
  width:"1200",
  height:"800"
@@ -71,7 +71,7 @@ Esta chaqueta te protegerá del viento, pero no de la fuertes lluvias 🥺 una v
 Consejo para comprar una chaqueta rompevientos: que la tela de secado rápido, liviana y si cuenta con protección solar será genial.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/chaqueta_rompevientos.jpg",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/chaqueta_rompevientos.jpg",
  caption:"Chaqueta rompeviento con protección solar y anti rasgado",
  width:"1200",
  height:"801"
@@ -99,7 +99,7 @@ Procura que el textil usado no contenga mucho algodón ya que su secado se tarda
 
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/pantalon_senderismo.JPG",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/pantalon_senderismo.JPG",
  caption:"Pantalon de senderismo",
  width:"1200",
  height:"800"
@@ -118,7 +118,7 @@ Lo que solemos usar para caminatas en climas tropicales, __son tenis que tengan 
 Queremos aclarar que este punto de vista es de acuerdo a algunos relatos de viajeros y vivencias propias.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/tenis-senderismo.JPG",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/tenis-senderismo.JPG",
  caption:"Tenis para senderismo con suela de buen agarre",
  width:"1200",
  height:"800"
@@ -133,7 +133,7 @@ __Recomendación:__ Recuerda un día antes revisar el estado de tus tenis, cerci
 El buff es un artículo muy  simple pero  juega un papel muy importante al momento de hacer senderismo, ya que este al ser un elemento tan fácil de llevar y de diferente aplicabilidad, lo podemos colocar en nuestro cuello lo que evitará protegernos del sol, si hay mucho viento o polvo nos podríamos cubrir la nariz y boca; puedes cubrir tu cabello de las altas temperaturas etc.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/buff.jpg",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/buff.jpg",
  caption:"Buff para senderismo",
  width:"1200",
  height:"800"
@@ -147,7 +147,7 @@ __Recomendación:__ al comprarlo cerciórate que sea de un material de secado r�
 Esto es una funda que se coloca al maletín, evitará que al llover se mojen tus cosas, al comprarlo fíjate que sea de un material impermeable y grueso, ya que en muchos casos al descargar el maletín sobre algunas rocas o ramas tienden a  rompersen.
 
 {% include image.html,
- file:"/blog/tipsmontana/que-llevar-al-hacer-senderismo/rain-cover.jpg",
+ file:"/blog/tips-montana/que-llevar-al-hacer-senderismo/rain-cover.jpg",
  caption:"Rain cover o Cubre Bolso para senderismo impermeable",
  width:"1200",
  height:"800",

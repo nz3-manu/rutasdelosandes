@@ -4,9 +4,9 @@ title: Senderismo en el Eje Cafetero
 categories: blog
 seo_title: ⛰ Senderismo en el Eje Cafetero - Rutas
 excerpt: Excursiones, rutas y caminatas por el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el  Triángulo del Café.
-images_url: /images/blog/tipsmontana/senderismo-en-el-eje-cafetero
+images_url: /images/blog/tips-montana/senderismo-en-el-eje-cafetero
 tags: TipsMontaña
-featured: https://rutasdelosandes.com/images/blog/tipsmontana/senderismo-en-el-eje-cafetero/featured.jpg
+featured: https://rutasdelosandes.com/images/blog/tips-montana/senderismo-en-el-eje-cafetero/featured.jpg
 ---
 
 # SENDERISMO EN EL EJE CAFETERO
@@ -91,7 +91,7 @@ Los Termales del Sifón son unas aguas termales de color turquesa, que se encuen
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/termales-sifon.html" target="_blank">Click aquí para ver información completa de los Termales del Sifón </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/termales-del-sifon.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/termales-del-sifon.jpg",
  caption:"Termales del Sifón",
  width:"800",
  height:"533"
@@ -102,7 +102,7 @@ Los Termales del Sifón son unas aguas termales de color turquesa, que se encuen
 Esta hermosa cascada está muy cerca del casco urbano de Armenia a un kilómetro aproximadamente del municipio de Circasia donde podrás encontrar unas aguas cristalinas las cuales te invitan a que te sumerjas en ellas. Su altura es de 20 metros aproximadamente.
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/salto-del-hippie.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/salto-del-hippie.jpg",
  caption:"Imagen Eje Cafetero: Salto del Hippie",
  width:"1280",
  height:"1920"
@@ -119,7 +119,7 @@ Te cuento un poco. Todo el recorrido se hace en carro, solo tendrán que bajarse
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html" target="_blank">Click aquí para ver información completa del Nevado del Ruiz</a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/nevado-del-ruiz.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/nevado-del-ruiz.jpg",
  caption:"Foto del Nevado del Ruiz",
  width:"1280",
  height:"1350"
@@ -134,7 +134,7 @@ Esta es una caminata por un sendero lleno de mucho bosque y al final del recorri
 👉 <a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Click aquí para ver información completa del Alto del Nudo </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/alto-del-nudo.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/alto-del-nudo.jpg",
  caption:"Imagen Eje Cafetero: Alto del Nudo",
  width:"1000",
  height:"750"
@@ -147,7 +147,7 @@ Una ruta que no podría faltar es la ruta de Norcasia; dicha ruta queda un poco 
 👉 <a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Click aquí para ver información completa de Norcasia </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/norcasia-caldas.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/norcasia-caldas.jpg",
  caption:"Norcasia Caldas",
  width:"1000",
  height:"572"
@@ -166,7 +166,7 @@ Se encuentra en el sector del cedral, un corregimiento de la ciudad de pereira, 
 👉 <a href="https://rutasdelosandes.com/colombia/risaralda/cascada-los-chorros.html" target="_blank"> Click aquí para ver información completa de cascada la Pastora </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cascada-pastora.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cascada-pastora.jpg",
  caption:"Imagen Eje Cafetero: Cascada la Pastora",
  width:"1800",
  height:"1013"
@@ -179,7 +179,7 @@ El Cerro Morrogacho, es uno de los picos más altos de Quindío, esta ubicado ce
 👉 <a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Click aquí para ver información completa del Cerro Morrogacho</a>
 
 {% include image.html,
-file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cerro-morrogacho.jpg",
+file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cerro-morrogacho.jpg",
 caption:"Foto de cerro Morrogacho",
 width:"1080",
 height:"824"
@@ -200,7 +200,7 @@ Para hacer cumbre al nevado Santa Isabel necesitarás de 2 días y de muchas gan
 👉 <a href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Click aquí para ver información completa del Nevado Santa Isabel </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
  caption:"Nevado Santa Isabel",
  width:"1080",
  height:"1349"
@@ -217,7 +217,7 @@ Para hacer cumbre al paramillo del Quindío necesitarás de 3 días y de muchas 
 👉 <a href="https://rutasdelosandes.com/colombia/quindio/paramillo-del-quindio.html" target="_blank"> Click aquí para ver información completa del Paramillo del quindio </a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/foto-paramillo-del-quindio.JPG",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/foto-paramillo-del-quindio.JPG",
  caption:"Paramillo del Quindío",
  width:"1440",
  height:"960"
@@ -231,7 +231,7 @@ Para hacer cumbre en el nevado del Tolima necesitarás de 4 días y de muchas ga
 👉 <a href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html" target="_blank">Click aquí para ver información completa del Nevado del Tolima</a>
 
 {% include image.html,
- file:"/blog/tipsmontana/senderismo-en-el-eje-cafetero/cumbre-tolima.jpg",
+ file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cumbre-tolima.jpg",
  caption:"Nevado del Tolima",
  width:"1280",
  height:"960"
