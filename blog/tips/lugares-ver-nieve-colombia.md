@@ -3,7 +3,7 @@ layout: article
 title:  4 Lugares para ver nieve en Colombia
 categories: blog
 seo_title: 4 Lugares para ver nieve en Colombia
-excerpt: Explora los impresionantes nevados en Colombia y encuentra los mejores lugares para disfrutar de la nieve y las vistas panorámicas.
+excerpt: Conoce los 4 lugares impresionantes donde puedes ver nieve en Colombia y vive una experiencia inolvidable en la montaña.
 images_url: /images/blog/tips-montana/lugares-ver-nieve-colombia
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/lugares-ver-nieve-colombia/featured.jpg
@@ -18,7 +18,7 @@ En este emocionante viaje, te revelaremos los mejores lugares nevados de Colombi
 
 Comencemos con la aventura ⛰🇨🇴.
 
- <a target="_blank" style="color:green;" href="https://www.randes.co/">[🏬👖 Encuentra las mejores ofertas en ropa de senderismo, dando clic aquí]</a>
+ <a target="_blank" style="color:#ab0026;" href="https://www.randes.co/">[🏬👖 Encuentra las mejores ofertas en ropa de senderismo, dando clic aquí]</a>
 
 
 
