@@ -55,7 +55,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-__El tour comienza desde Filandia-Quindío__, los horarios de salida son de 9 am y 2 pm, este tiene una duración de 3 horas, el precio del tour es de $80.000 Cop por persona.
+__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros , el precio del tour es de $85.000 Cop por persona.
 
 **EL VALOR DEL TOUR INCLUYE:**
 
@@ -63,7 +63,7 @@ __El tour comienza desde Filandia-Quindío__, los horarios de salida son de 9 am
 - 👨 Guía
 - 🫶 Seguro de asistencia médica
 
-👉 __<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> Puedes reservar el tour con un guía local dando clic aquí </a>__
+👉 __<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> Puedes reservar el tour dando clic aquí </a>__
 
 <a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a>
 
@@ -77,8 +77,8 @@ Para realizar este **recorrido hasta la reserva Barbar Bremen**, tomamos el bus 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.gif", 
 caption:"", 
-width:"480", 
-height:"200" %}
+width:"1224", 
+height:"510" %}
 </a>
 
 Despues de que llegamos a Yarumal, hicimos una pequeña parada para desayunar antes de iniciar con la caminata hacia la Reserva Barbas Bremen. Luego de que desayunamos, el guía nos recomendó que el recorrido tenia zonas muy pantanosas por lo que aveces se dificultaba mucho el recorrido.
