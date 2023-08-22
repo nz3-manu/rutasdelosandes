@@ -16,7 +16,7 @@ En este post te estaremos describiendo todo lo que debes saber antes de realizar
  
 Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
  
-👉 **<a href="https://www.randes.co/collections/tour-norcasia" style="color:green;" target="_blank"> Clic aquí para conocer los  tours a Norcasia 🛶.</a>**
+👉  __¿<a href="https://wa.link/jy3f6x" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia de Norcasia 🛶?, puedes dar clic aquí</a>__
  
 **EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
  

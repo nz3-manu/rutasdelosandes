@@ -16,6 +16,8 @@ La reserva Barbas Bremen se encuentra localizada entre los __municipios de Filan
 
 Entre los atractivos de la reserva está la gran biodiversidad de aves lo que favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
+👉  __¿<a href="https://wa.link/49ohzr" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
+
 **EN ESTE POST DE LA RESERBA BARBAS BREMEN ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
 - <a href="#dato-barbas-bremen"> Datos curioso de la reserva Barbas Bremen</a>
@@ -63,7 +65,7 @@ __El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am
 - 👨 Guía
 - 🫶 Seguro de asistencia médica
 
-👉 __<a href="https://wa.link/49ohzr" target="_blank" style="color:green;"> Puedes reservar el tour dando clic aquí </a>__
+👉 __<a href="https://www.randes.co/products/tour-barbas-bremen" target="_blank" style="color:green;"> Puedes ver información completa del tour dando clic aquí </a>__
 
 <a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a>
 
