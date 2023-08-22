@@ -14,7 +14,7 @@ trending: true
 
 __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundante biodiversidad. Ubicado en el Valle del Cauca, esta hermosa bahía cuenta con playas hermosas idóneas para el descanso y la desconexión de la ciudad. Además, es posible presenciar la migración de ballenas jorobadas, que llegan de Julio a Octubre. Por tal razón, en este post te mostraremos todo lo que necesitas saber para qué disfrutes al máximo de este lugar.
 
-👉 __<a href="https://www.randes.co/products/tour-avistamiento-ballenas" style="color:green;" target="_blank"> Clic aquí para conocer el  tours a Bahía Málaga 🐳.</a>__
+👉 __<a href="https://wa.link/2fckhn" style="color:green;" target="_blank">Haz clic aquí para realizar un tour con una agencia de viajes. 🐳.</a>__
 
 ## EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:
 
@@ -134,14 +134,15 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOUR A BAHÍA MÁLAGA 🧳
 
-Conocer la belleza de los __Parques Naturales Nacionales de Colombia__ se ha convertido en una atracción turística tanto para propios como para los extranjeros que acuden diariamente a estos lugares. Lugares como el __Parque Natural de Uramba Bahía Málaga__ sin duda deben estar en su lista de viajes.
+Conocer la belleza de los Parques Naturales Nacionales de Colombia se ha convertido en una atracción turística tanto para propios como para los extranjeros que acuden diariamente a estos lugares. Lugares como el __Parque Natural de Uramba Bahía Málaga__ sin duda deben estar en su lista de viajes.
 
 Así que, si piensas realizar este tour y disfrutar de los bellos paisajes, manglares, cascadas y enorme selva tropical, a continuación te compartiremos toda la información del __Tour a Bahía Málaga__ y te daremos algunas recomendaciones para elegir el que mejor se ajuste a tu presupuesto de viaje.
 
-Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour tiene un precio aproximado de $670.000 COP Por persona.
+Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour tiene un precio aproximado de $690.000 COP Por persona.
 
 **El tour de 3 días y 2 noches incluye:**
 
+* 🚣 transporte en lancha desde Buenaventura
 * 🥨 Desayuno
 * 🛌 Hospedaje
 * 🍝 Almuerzo
@@ -150,9 +151,9 @@ Lo primero que debes de saber es que, el tour inicia en el muelle turístico de 
 
 __NOTA__: _En temporada alta podrán encontrar este tour disponible todos los días, pero en temporada baja este solo estará disponible cuando se complete el cupo mínimo de 6 personas._
 
-Ten en cuenta que si quieres hacer avistamiento de las__Ballenas Jorobadas__, debes realizar el tour entre julio y septiembre 🐳.
+Ten en cuenta que si quieres hacer avistamiento de las __Ballenas Jorobadas__, debes realizar el tour entre julio y septiembre 🐳.
 
-**<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" target="_blank"> Para más información del tour, clic aquí 👈 </a>.**
+👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Clic aquí Para más información del tour</a> 🚣.** 
 
 <a name="hospedaje-malaga" id="hospedaje-malaga"></a>
 

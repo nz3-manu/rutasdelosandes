@@ -16,7 +16,7 @@ La reserva Barbas Bremen se encuentra localizada entre los __municipios de Filan
 
 Entre los atractivos de la reserva está la gran biodiversidad de aves lo que favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
-👉  __¿<a href="https://wa.link/49ohzr" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
+👉  __¿<a href="https://wa.link/y1xngu" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
 
 **EN ESTE POST DE LA RESERBA BARBAS BREMEN ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
