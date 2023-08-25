@@ -3,7 +3,7 @@ layout: article
 title: ¿Qué hacer o qué visitar en Pereira?
 categories: blog
 seo_title: Que Visitar en Pereira - Rutas
-excerpt: Excursiones, rutas y caminatas por el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el  Triángulo del Café.
+excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como arquitectónicos, en esta ciudad conocida como "La Querendona, Trasnochadora y Morena".
 images_url: /images/blog/tips-montana/que-hacer-en-pereira
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pereira/featured.jpg
@@ -24,7 +24,7 @@ Por último, si eres extranjero y quisieras contar con un guía que te acompañe
 
 
 
-👉 **<a href="https://wa.link/o4kphp" style="color:green;" target="_blank"> Clic aquí, para Explorar Pereira con un guía bilingüe 🌎💬.</a>**
+👉 **<a href="https://wa.link/o4kphp" style="color:green;" target="_blank"> !Explorar Pereira con un guía bilingüe 👨‍🦱!</a>**
 
 ## DATO CURIOSO DE PEREIRA
 
@@ -34,10 +34,11 @@ Pereira, o como tambien es conocida la "Perla del Otún" en la región cafetera 
 
 ## LUGARES PARA VISITAR EN PEREIRA
 
-Dado que estos lugares se encuentran en el centro de la ciudad, no se recomienda andar por ellos muy tarde en la noche, ya que podría ser peligroso. Como solemos decir en Colombia, "no hay que dar papaya" 🚫🌃.
+Dado que estos lugares se encuentran en el centro de la ciudad, no se recomienda andar por ellos muy tarde en la noche, ya que podría ser peligroso. Como solemos decir en Colombia, "no hay que dar papaya".
 
 ### #1 PLAZA DE BOLÍVAR 
 
+La estatua "Bolívar Desnudo" en Pereira, Colombia, sorprende por su singularidad al representar al Libertador Simón Bolívar sin espada ni caballo, en una imagen más íntima y vulnerable. Esta curiosa obra escultural es un atractivo cultural en el corazón de la ciudad, simbolizando el aprecio por su patrimonio histórico y la contribución de Bolívar a la independencia de Colombia. ¡Una joya artística que cautiva tanto a locales como a visitantes en esta encantadora ciudad cafetera! ☕🇨🇴
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/bolivar_square_pereira_travel_colombia.jpg",
@@ -83,9 +84,7 @@ Quizás estés buscando un poco más de aventura y contacto con la naturaleza, a
 
 Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales.
 
-Los Termales de San Vicente se encuentran a las afueras del municipio de Santa Rosa de Cabal. Dado que no cuentan con transporte público, puede resultar un poco complicado llegar allí. Sin embargo, el recorrido en carro particular desde Santa Rosa de Cabal es de aproximadamente 40 minutos.
-
-Pero ¡no te preocupes! Desde Pereira salen tours con transporte incluido que te llevarán hasta este maravilloso lugar y te traerán de regreso. Es una opción genial, especialmente si vas en grupo. ¡Prepárate para relajarte y disfrutar al máximo! 🚗🌄👫
+Los Termales de San Vicente se encuentran a las afueras del municipio de Santa Rosa de Cabal. Dado que para este lugar no hay rutas de transporte publivo, puede resultar un poco complicado llegar allí, pero ¡no te preocupes! Desde Pereira salen tours con transporte incluido que te llevarán hasta este maravilloso lugar y te traerán de regreso. Es una opción genial, especialmente si vas en grupo 🚗🌄👫.
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/termales-san-vicente.jpg",
