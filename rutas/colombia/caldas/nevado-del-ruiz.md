@@ -26,6 +26,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a> 
 * <a href="#costos-ruiz"> Valor de entrada al Nevado del Ruiz</a> 
 * <a href="#sendero-ruiz"> Ruta en el Nevado del Ruiz </a> 
+* <a href="#informacion-nevado-ruiz"> Descargar información para viajar por tu cuenta </a> 
 * <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a> 
 
 Empecemos con la aventura ⛰.
@@ -250,6 +251,24 @@ __Sector de tumbas:__ también llamado el desierto de la soledad, la historia no
 
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
+
+<a name="informacion-nevado-ruiz" id="informacion-nevado-ruiz"></a> 
+
+## DESCARGAR INFORMACIÓN PARA VIAJAR POR TU CUENTA
+
+En esta sección podras descargar toda la información que necesitaras para visitar el nevado del ruiz, ten en cuenta que si no cuentas con transporte no podrás visitar este lugar ya que para allí no hay transporte publico.
+
+__la información que encontraras es:__
+
+* Teléfonos de agencias de transporte al Nevado del Ruiz desde Manizales
+* Empresas de turismo para esta ruta
+* Teléfono de hospedaje cerca del Nevado del Ruiz
+* Teléfono de restaurante cerca del Nevado del Ruiz
+
+Si has comprado nuestros productos, podrás ingresar el código que enviamos junto con la orden de compra.
+
+ 👉 <a href= "https://www.randes.co/en/products_preview?preview_key=df63f92143ad911aa42330f4942b1e0b&shpxid=3309a0d3-8d94-4030-84ed-4b37a7596a0b" target="_blank"> Descargar información adicional Nevado del ruiz 💾</a>
+
 
 <a name="otros-senderos-manizales" id="otros-senderos-manizales"></a> 
 
