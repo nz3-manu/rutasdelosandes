@@ -32,7 +32,12 @@ Empecemos con la aventura ⛰.
 
 A continuación te compartiremos el vídeo de las __rutas de senderismo en Pueblo Rico__, esta ruta es ideal para los amantes de los pájaros
 
--- Proximamente ---
+{% include youtube.html,
+    videoid:"xrC-xdoVF8o",
+    width:"480",
+    height:"270",
+    caption:"Estacion Pereira"
+%}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí.</a>
 
@@ -43,7 +48,7 @@ Pueblo Rico se encuentra a 97 kilómetros de la ciudad de Pereira. De igual mane
 
 Por este municipio pasan varios ríos  como: San Juan, Cuanza, Tatamá, Taiba, Curumbará, Guarato, Lloraudó y Aguas Claras, además de varias quebradas y corrientes de menor caudal.
 
-<a id="banner2" href="https://www.randes.co/" target="_blank">
+<a href="https://www.randes.co/" target="_blank">
 {% include image.html,
 file:"publicidad-post/ropa-randes.gif",
 caption:"",
@@ -117,7 +122,7 @@ Aquí te mostraremos algunas actividades que podrás realizar, tanto si te gusta
 Este lugar se encuentra en el __corregimiento de Santa Cecilia__, este está ubicado en límites con él Chocó. Este corregimiento fue fundadO en 1895 por algunas familias de palenques, quienes quedaron maravillados al ver la hermosura de este lugar y la riqueza en flora, fauna y fuentes hídricas que posee esta región.
 Al llegar al parque de Santa Cecilia, nos estaba esperando el guía local Don Blas, quién nos explicó el recorrido que íbamos a hacer y después nos dio un tour cerca del parque principal. Para nuestra sorpresa, en este corregimiento ya encontramos muchas más personas hablando Embera y muchos llevaban sus trajes típicos. Lo que nos pareció algo único, ya que muchas de estas costumbres ya se han estado perdiendo en nuestro territorio Colombiano.
 
-<a id="banner2" href="https://www.randes.co/collections/mujer" target="_blank">
+<a href="https://www.randes.co/collections/mujer" target="_blank">
 
 {% include image.html,
 file:"publicidad-post/banner-mujer.png",
