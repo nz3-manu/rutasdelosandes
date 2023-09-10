@@ -14,7 +14,7 @@ trending: true
 
 Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔 en Manizales, este es sin duda un lugar para visitar si estas viajando y no sabes **que hacer en Manizales**.
 
-👉  __<a href="https://wa.link/wgmhgn" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia local ♨️?, puedes dar clic aquí</a>__
+👉  __<a href="https://wa.link/wgmhgn" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia ♨️?, puedes dar clic aquí</a>__
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -44,7 +44,7 @@ Empecemos con la aventura ⛰.
 
 ## TOUR A LOS TERMALES DEL SIFÓN 🧳
 
-Los **precios para el tour a la los termales del Sifón** pueden variar desde $380.000 COP (Por persona) hasta $180.000 COP (Por persona) , esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
+Los **precios para el tour a la los termales del Sifón** pueden variar desde $490.000 COP (Por persona) hasta $210.000 COP (Por persona) , esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
 
 **El Tour a los termales del Sifón incluye:**
 
@@ -57,6 +57,7 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $3
 
 👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar en un tour privado? puedes escribirnos </a>**
 
+*Si has comprado algún producto de nuestra tienda en línea, puedes obtener un descuento del 10% en el valor de este tour.*
 
 En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos tu información y una vez completemos el cupo te estaríamos contactando __<a href="https://forms.gle/ru6JAjhvi5abF7eh9" target="_blank"> llenar formulario aquí 👈</a>.__ 
 

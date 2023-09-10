@@ -3,8 +3,25 @@
 <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-<!-- AMP Analytics -->
-<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+
+    <!-- AMP Analytics 
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>-->
+
+      <!-- AMP Analytics prueba manuel-->
+
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <amp-analytics type="gtag" data-credentials="include">
+      <script type="application/json">
+      {
+        "vars" : {
+          "gtag_id": "<G-QS2J09TWLQ",
+          "config" : {
+            "<GA_MEASUREMENT_ID>": { "groups": "default" }
+          }
+        }
+      }
+      </script>
+    </amp-analytics>
 
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
@@ -28,6 +45,7 @@
     <link rel="alternate" hreflang="{{site.alternative_lang}}" href="{{ site.alternative_url }}{{page.alt_url | default: page.url}}">
     {% endif %}
     <meta property="article:publisher" content="{{site.url}}">
+    
     <!-- facebook metadata -->
     {% if page.author %} {% assign authorInfo = site.data.authors[page.author] %} {% endif %}
     <meta property="og:title"     content="{{page.title}}">
@@ -41,6 +59,7 @@
     <meta property="fb:pages" content="{{ site.instant_pages }}">
     <meta property="og:updated_time" content="{{  "now"  | date: "%Y-%m-%dT%H:%M:%S" }}">
     <meta property="og:rich_attachment" content="true">
+    
     <!-- twitter metadata for summary_large_image -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter}}">
@@ -48,6 +67,7 @@
     <meta name="twitter:title" content="{{page.title}}">
     <meta name="twitter:description" content="{{page.excerpt}}">
     <meta name="twitter:image" content="{{page.featured}}">
+   
     <!-- common styles -->
     <style amp-custom>
     {% include styles.html  %}
@@ -62,9 +82,6 @@
         {{ content }}
     </main>
   <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
-<!-- Google Tag Manager -->
-<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-MP225LT&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
-
 
 
   </body>
