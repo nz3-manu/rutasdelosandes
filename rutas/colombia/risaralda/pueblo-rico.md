@@ -61,12 +61,12 @@ Pueblo Rico se encuentra a 97 kilómetros de la ciudad de Pereira. De igual mane
 Por este municipio pasan varios ríos  como: San Juan, Cuanza, Tatamá, Taiba, Curumbará, Guarato, Lloraudó y Aguas Claras, además de varias quebradas y corrientes de menor caudal.
 
 
-<a href="https://www.randes.co/" target="_blank">
-{% include image.html,
-file:"publicidad-post/ropa-randes.gif",
-caption:"",
-width:"1224",
-height:"510" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/chaqueta-randes.png", 
+caption:"", 
+width:"750", 
+height:"312" %}
 </a>
 
 

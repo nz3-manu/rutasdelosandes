@@ -162,12 +162,12 @@ Como dato curioso a pesar de que llevábamos un Garmin, en algunos tramos presen
 
 Puedes dar **<a href="https://wa.link/wa.link/5aczuk" target="_blank"> click aquí</a>** para separar tu tour.
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/ropa-randes.gif",
-caption:"",
-width:"480",
-height:"200" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.png", 
+caption:"", 
+width:"1000", 
+height:"300" %}
 </a>
  
 ## DÍA 3

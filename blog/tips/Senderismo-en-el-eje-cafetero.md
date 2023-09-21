@@ -34,12 +34,12 @@ Si eres extranjero y no tienes mínima de idea donde queda esta región, tranqui
 
 El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de más fácil acceso desde cualquier lugar de Colombia, y aún más asequible desde las principales ciudades tales como: Medellín, Cali y Bogotá.
 
-<a id="banner1" href="https://www.randes.co/" target="_blank"> 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"banner-ropa", 
-width:"480", 
-height:"200" %}
+file:"publicidad-post/ropa-randes.png", 
+caption:"", 
+width:"1000", 
+height:"300" %}
 </a>
 
 Cabe mencionar que el Eje Cafetero está conformado por tres departamentos, los cuales son: Risaralda, Quindío y Caldas los cuales forman un triángulo que es mandatorio ser visitado por los amantes del café ☕️.

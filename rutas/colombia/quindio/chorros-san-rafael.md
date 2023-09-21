@@ -56,10 +56,10 @@ __Nota:__ _En una parte del trayecto vimos que la carretera había desaparecido 
  
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.png", 
 caption:"", 
-width:"480", 
-height:"200" %}
+width:"1000", 
+height:"300" %}
 </a>
 
 Seguimos caminando por la carretera, después nos internamos a un sendero donde se podían ver los ductos de agua que alimentan al municipio, esta era la señal de que nos estábamos acercando cada vez más a nuestro destino 💦⛰😍.

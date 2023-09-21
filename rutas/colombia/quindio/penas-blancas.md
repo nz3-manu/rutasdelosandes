@@ -72,10 +72,10 @@ Si vas en carro 🚙 o moto 🛵 puedes dejarlo estacionado en la base de la Pe�
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.png", 
 caption:"", 
-width:"480", 
-height:"200" %}
+width:"1000", 
+height:"300" %}
 </a>
 
 __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que la carretera es algo difícil para un automóvil._

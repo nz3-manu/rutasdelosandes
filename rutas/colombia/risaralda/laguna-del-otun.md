@@ -236,12 +236,12 @@ Después de un recorrido en vehículo, se llega a la posada campesina conocida c
 Luego del desayuno, como bien describimos anteriormente al principio del post, recibimos una pequeña charla inductiva acerca de la importancia de proteger nuestros páramos, y todo tipo de ecosistema de la zona. 
 
 
-<a id="banner1" href="https://www.randes.co/" target="_blank"> 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.png", 
 caption:"", 
-width:"480", 
-height:"200" %}
+width:"1000", 
+height:"300" %}
 </a>
 
 

@@ -34,7 +34,7 @@ Empecemos con la aventura ⛰.
 Zona Centro de Pereira: Esta es donde se encuentra la mayoría de comercio. Si no lo sabes, Pereira es considerada una ciudad comercial, así que podrás encontrar gran variedad de prendas de vestir a muy buen precio 😉. Además, en el centro se encuentran el Parque de Bolívar, Parque el Lago, catedrales y bibliotecas. Pero como todo centro de la ciudad, cuando cierran el comercio en la noche, las calles suelen estar un poco solas.
 
 <a href="https://rutasdelosandes.com/amp/tips/que-visitar-en-pereira.html" target="_blank"> 
-{% include image.html, file:"/blog/tips-montana/hospedaje-en-pereira/que-hacer-en-pereira.gif", caption:"", width:"1600", height:"480" %}
+{% include image.html, file:"/blog/tips-montana/hospedaje-en-pereira/que-hacer-en-pereira.jpg", caption:"", width:"1600", height:"480" %}
 </a>
 
 * __Zona Rosa de Pereira:__ La Zona Rosa está ubicada en una zona llamada Circunvalar. Aquí se encuentran varias discotecas, bares y también el centro comercial Falabella. Es una zona que cuenta con seguridad.

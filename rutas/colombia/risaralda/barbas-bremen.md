@@ -16,7 +16,7 @@ La reserva Barbas Bremen se encuentra localizada entre los __municipios de Filan
 
 Entre los atractivos de la reserva está la gran biodiversidad de aves lo que favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
-👉  __¿<a href="https://wa.link/y1xngu" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
+👉  __<a href="https://wa.link/y1xngu" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
 
 **EN ESTE POST DE LA RESERBA BARBAS BREMEN ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -42,11 +42,12 @@ El nombre del “Río Barbas” tiene una historia muy particular que cuentan lo
 
 A continuación te mostramos un pequeño video de la reserva Barbas Bremen te mostraremos como fue nuestro reorrido en esta **ruta de senderismo en el Eje Cafetero.**
 
-{% include youtube.html,
-    videoid:"1anGUPtjsMs",
-    width:"480",
-    height:"270",
-    caption:"Barbas Bremem"
+
+{% include youtube.html
+   videoid:"1anGUPtjsMs",
+   width:"480",
+   height:"270",
+   caption:"Barbas Bremem"
 %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -57,7 +58,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros , el precio del tour es de $85.000 Cop por persona.
+__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros , el precio del tour es de $90.000 Cop por persona.
 
 **EL VALOR DEL TOUR INCLUYE:**
 
@@ -77,10 +78,10 @@ Para realizar este **recorrido hasta la reserva Barbar Bremen**, tomamos el bus 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.png", 
 caption:"", 
-width:"1224", 
-height:"510" %}
+width:"1000", 
+height:"300" %}
 </a>
 
 Despues de que llegamos a Yarumal, hicimos una pequeña parada para desayunar antes de iniciar con la caminata hacia la Reserva Barbas Bremen. Luego de que desayunamos, el guía nos recomendó que el recorrido tenia zonas muy pantanosas por lo que aveces se dificultaba mucho el recorrido.

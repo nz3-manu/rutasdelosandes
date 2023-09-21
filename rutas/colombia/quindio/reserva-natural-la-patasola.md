@@ -105,10 +105,10 @@ El sendero normal cuenta con solo 1 cascada, así que nos tendremos que desviar 
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
+file:"publicidad-post/ropa-randes.png", 
 caption:"", 
-width:"480", 
-height:"200" %}
+width:"1000", 
+height:"300" %}
 </a>
 
 Después de tomar el sendero vamos a escuchar el sonido de una cascada esta será la segunda que vamos a ver al regreso. Unos pocos metros más adelante nos encontraremos un pequeño río deberemos seguir su cauce por 1 minuto y encontraremos la primera cascada.

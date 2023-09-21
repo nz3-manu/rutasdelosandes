@@ -17,13 +17,12 @@ Muchas veces escuchamos a personas decir que se van de Trekking, Hikking o sende
 
 El término trekking es de origen sudafricano, y hace referencia a un viaje largo y complicado. La palabra empezó a ser utilizada por los montañeros que viajaban al Himalaya para definir las rutas de aproximación a las cimas que tenían por objetivo escalar; la ubicación de estas montañas, en zonas muy alejadas de los núcleos de población, obligaban a los miembros de la expedición a llevar consigo toda clase de utensilios para ser autosuficientes.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-    file:"publicidad-post/ropa-randes.gif",
-    caption:"",
-    width:"480",
-    height:"200" 
-%}
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+file:"publicidad-post/ropa-randes.png", 
+caption:"", 
+width:"1000", 
+height:"300" %}
 </a>
 
 En el trekking encontraremos distintos grados de dificultad, estos dependen de la duración del trayecto y lo complejo del terreno, por lo general son caminos que no se encuentran; refugios o alojamiento hotelero , así que es imprescindible llevar un equipo completo que incluye entre otras muchas cosas, carpa, saco de dormir, calentadores, abundante cantidad de alimentos, hipercalóricos y si es posible y si no se conoce el terreno, poder contar con un guía experimentado en la zona.

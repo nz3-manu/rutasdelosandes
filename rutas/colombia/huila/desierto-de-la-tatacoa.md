@@ -105,14 +105,14 @@ Una vez en __Villavieja__ aprovechamos para visitar el museo paleontológico �
  
 Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
+<a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
-file:"publicidad-post/ropa-randes.gif", 
-caption:"banner-ropa", 
-width:"480", 
-height:"200" %}
+file:"publicidad-post/ropa-randes.png", 
+caption:"", 
+width:"1000", 
+height:"300" %}
 </a>
- 
+
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
  
 <a name="senderos-desierto" id="senderos-desierto"></a>
