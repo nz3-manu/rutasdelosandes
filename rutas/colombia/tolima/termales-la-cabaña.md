@@ -14,7 +14,7 @@ trending: true
 
 Los Termales de la Cabaña se encuentran localizados en el municipio Murillo Tolima, en el área perteneciente al Parque de los Nevados, que comparte los departamentos de Quindío, Risaralda, Caldas y Tolima.
 
-👉 <a href="https://wa.link/y1xngu" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a>
+👉 <a href="https://wa.link/owbmoc" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a>
 
 Entre los atractivos principales de este lugar están sus aguas termales, rodeadas de un paisaje de páramo y frailejones con colores muy particulares 🌈, lo que lo convierte en uno de los lugares únicos en Colombia.
 
@@ -57,7 +57,7 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
 
 ## TOUR A TERMALES DE LA CABAÑA ♨️
 
-Ten en cuenta que **para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva**. Muchas personas han querido hacer este tour sin guía, pero al llegar a los termales no les permiten el acceso, ya que se trata de fincas privadas y estas trabajan en colaboración con guías locales.
+❗ Ten en cuenta que **para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva**. Muchas personas han querido hacer este tour sin guía, pero al llegar a los termales no les permiten el acceso, ya que se trata de fincas privadas y estas trabajan en colaboración con guías locales.
 
 _Anteriormente, el acceso era libre, pero las personas que visitaban estos lugares dejaban mucha basura. Los campesinos llegaron a bajar hasta 50 bultos de basura._
 
@@ -89,7 +89,9 @@ Desde Murillo a los Termales de La Cabaña, las agencias venden el tour por alre
 - 🫶 Seguro de asistencia médica
 - 🎟️ Ingreso a: Termales de La Cabaña
 
-<a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a>
+👉 <a href="https://wa.link/rtzgrb" target="_blank" style="color:green;">Quiero reservar un tour a los Termales La Cabaña desde Murillo. 🌿🏞️</a>
+
+<a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
 
@@ -145,9 +147,13 @@ Algunos campesinos cuentan que durante la época de guerra entre liberales y con
 
 Después de pasar esta laguna, estarás a 30 o 40 minutos para llegar a Murillo, Tolima.
 
-## HOSPEDAJE EN MURILLO TOLIMA
+## HOSPEDAJE EN MURILLO TOLIMA 🛌
 
-Murillo es un pueblo pequeño, pero cuenta con una buena oferta de hoteles. Aquí te mencionaremos algunas opciones que puedes contemplar.
+Murillo es un pueblo pequeño, pero cuenta con buenas ofertas  de hospedajes como: hostales, hoteles o cabañas. Aquí te mencionaremos algunas opciones que puedes contemplar.
+
+- Casa Frailejon (Hostal): es un lugar comodo en el cual podran guardar motos.
+- Hostal Montañas Colombianas: 
+- Hotel Cafetero
 
 ## RUTA A LOS TERMALES DE LA CABAÑA DESDE MURILLO TOLIMA 🚶🏼
 
@@ -155,7 +161,7 @@ Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 3
 
 __Recomendación:__ El recorrido es exigente, ya que subiremos hasta los 4.100 m.s.n.m, donde se encuentra la Laguna Corazón. En total, el recorrido dura aproximadamente 8 horas.
 
-### LAGUNA CORAZÓN
+### LAGUNA CORAZÓN 💚
 
 Desde donde nos dejó el transporte, comenzamos un duro ascenso por un bosque. Después, pasamos por fincas de ganado y continuamos para admirar los frailejones durante cerca de 4 horas, hasta llegar a la Laguna Corazón, que se encuentra a 4.100 m.s.n.m. 🏞️⛰️
 
@@ -166,7 +172,7 @@ width:"1000",
 height:"750"
 %}
 
-### VALLE DE ESPONJAS
+### VALLE DE ESPONJAS 🧽
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
@@ -177,9 +183,9 @@ width:"1000",
 height:"750"
 %}
 
-### VISITA CASCADA DE LOS 7 COLORES
+### VISITA CASCADA DE LOS 7 COLORES 🌈
 
-Un poco después de ver el Valle de Esponjas, continuamos caminando por cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores 🌈.
+Un poco después de ver el Valle de Esponjas, continuamos caminando por cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores.
 
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/cascada-de-sietes-colores.jpg",
@@ -188,7 +194,7 @@ width:"1000",
 height:"750"
 %}
 
-### TERMALES LA CABAÑA
+### TERMALES LA CABAÑA ♨️
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
@@ -201,9 +207,14 @@ height:"750"
 
 Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro turno para ingresar a los Termales. Ten en cuenta que solo se permite el ingreso a los Termales si se va con guía y se ha pagado el ingreso.
 
+<a name="recomendaciones-termales-cabaña" id="recomendaciones-termales-cabaña   "></a>
+
 ### RECOMENDACIONES FINALES PARA VISITAR LOS TERMALES LA CABAÑA
 
-- Debes hacer una reserva previa para visitar este lugar. Si entras por tu cuenta, posiblemente no te dejarán pasar por las fincas privadas, y seguro no te permitirán ingresar a los Termales de La Cabaña.
-- Si no cuentas con transporte público y van en bus, debes saber que estos solo pasan a determinada hora.
+- Debes hacer una reserva previa para visitar este lugar. Si decides ir por tu cuenta, es probable que no te permitan el acceso a través de las fincas privadas y es casi seguro que no podrás entrar a los Termales de La Cabaña.
+
+- Los Termales de La Cabaña cierran dos veces por semana para permitir el descanso del páramo. Por lo tanto, debes planificar tu viaje y evitar llegar en los días en que están cerrados.
+
+- Si no tienes transporte público y planeas viajar en autobús, ten en cuenta que estos tienen horarios específicos y pasan a horas determinadas.
 
 Este es el fin de la ruta a los Termales de La Cabaña. **No te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
