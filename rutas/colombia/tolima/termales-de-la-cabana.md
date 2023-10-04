@@ -24,7 +24,7 @@ Entre los atractivos principales de este lugar están sus aguas termales, rodead
 - <a href="#video-termales-cabaña">Vídeo de Termales La Cabaña</a>
 - <a href="#tour-termales-cabaña">Información de Tours a Termales La Cabaña</a>
 - <a href="#llegar-termales-cabaña">¿Cómo llegar a los Termales de La Cabaña?</a>
-- <a href="#recomendaciones-termales-cabaña">Recomendaciones finales para visitar Termales La Cabaña</a>
+- <a href="#recomendaciones-termales-cabaña">Recomendaciones finales para visitar los Termales La Cabaña</a>
 
 Empecemos con la aventura ⛰.
 
@@ -74,7 +74,7 @@ Algunas agencias del Eje Cafetero venden el tour saliendo desde Pereira, Manizal
 - 🫶 Seguro de asistencia médica
 - 🎟️ Ingreso a: Termales del Sifón y Termales de La Cabaña
 
-👉 <a href="https://www.randes.co/products/termales-la-cabana-2-dias-1-noche" target="_blank" style="color:green;">Puedes ver información completa de este tour dando clic aquí</a>
+👉 <a href="https://www.randes.co/products/termales-la-cabana-2-dias-1-noche" target="_blank" style="color:green;">Puedes ver información completa de este tour desde Pereira, dando clic aquí</a>
 
 ### TOUR DESDE MURILLO
 
@@ -89,9 +89,8 @@ Desde Murillo a los Termales de La Cabaña, el tour cuesta alrededor de $220.000
 - 🫶 Seguro de asistencia médica
 - 🎟️ Ingreso a: Termales de La Cabaña
 
-👉 <a href="https://wa.link/rtzgrb" target="_blank" style="color:green;">Quiero reservar un tour a los Termales La Cabaña desde Murillo. 🌿🏞️</a>
+👉 <a href="https://www.randes.co/products/termales-la-cabana-desde-murillo" target="_blank" style="color:green;">Puedes ver información completa de este tour desde murillo, dando clic aquí 🌿🏞️</a>
 
-<a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
 
@@ -142,6 +141,8 @@ caption:"Foto: Laguna La Llorona",
 width:"781",
 height:"781"
 %}
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CIx8q2qnwjY/"  target="_blank"> @conoceeltolima </a> </span>__
+
 
 Algunos campesinos cuentan que durante la época de guerra entre liberales y conservadores, el asesino conocido como Sangrenegra arrojaba los cuerpos en esta laguna. Para aquellos que no conocen a Sangrenegra, cuyo verdadero nombre era Jacinto Cruz, fue un sanguinario asesino que operaba en las décadas de los 50 y 60 durante los enfrentamientos entre liberales y conservadores. Él fue responsable de un brutal método de tortura y asesinato conocido como 'corbata colombiana' o 'corte de franela'. Se le atribuyen más de 377 homicidios.
 
@@ -154,6 +155,17 @@ Murillo es un pueblo pequeño, pero cuenta con buenas ofertas  de hospedajes com
 - Casa Frailejon (Hostal): es un lugar comodo en el cual podran guardar motos.
 - Hostal Montañas Colombianas: 
 - Hotel Cafetero
+
+<a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
+
+<a id="banner1" href="https://www.randes.co/" target="_blank">
+{% include image.html,
+file:"publicidad-post/chaqueta-randes.jpg",
+caption:"Banner Chaqueta",
+width:"480",
+height:"200"
+%}
+</a>
 
 ## RUTA A LOS TERMALES DE LA CABAÑA DESDE MURILLO TOLIMA 🚶🏼
 
@@ -211,10 +223,12 @@ Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro t
 
 ### RECOMENDACIONES FINALES PARA VISITAR LOS TERMALES LA CABAÑA
 
-- Debes hacer una reserva previa para visitar este lugar. Si decides ir por tu cuenta, es probable que no te permitan el acceso a través de las fincas privadas y es casi seguro que no podrás entrar a los Termales de La Cabaña.
+- Debes hacer la reserva previa, ya que este lugar tiene una capacidad de carga de visitantes por día. Vimos algunos comentarios en internet de personas que intentaron ir por su cuenta y no les permitieron el ingreso.
 
-- Los Termales de La Cabaña cierran dos veces por semana para permitir el descanso del páramo. Por lo tanto, debes planificar tu viaje y evitar llegar en los días en que están cerrados.
+- Los Termales de La Cabaña cierran dos dias a la semana para permitir el descanso del páramo.
 
-- Si no tienes transporte público y planeas viajar en autobús, ten en cuenta que estos tienen horarios específicos y pasan a horas determinadas.
+- Si no tienes transporte público y planeas viajar en autobús, ten en cuenta que los buses solo tienen unos horarios específicos.
+
+- Recuerda llevar: protector solar, chapstick, chaquetas rompevientos, buzos polares, guantes y un sombrero que te proteja del sol. Estas prendas las puedes encontrar en nuestra tienda en línea.
 
 Este es el fin de la ruta a los Termales de La Cabaña. **No te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
