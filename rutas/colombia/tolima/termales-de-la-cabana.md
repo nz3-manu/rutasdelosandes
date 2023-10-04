@@ -45,7 +45,7 @@ Los Termales de La Cabaña llevan ese nombre porque se encuentran en la vereda C
 A continuación te mostramos un pequeño video de los Termales de La Cabaña.
 
 {% include youtube.html
-videoid:"1anGUPtjsMss",
+videoid:"eX0pKmjupYI",
 width:"480",
 height:"270",
 Caption:"Videos de Termales La Cabaña"
@@ -57,13 +57,13 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
 
 ## TOUR A TERMALES DE LA CABAÑA ♨️
 
-❗ Ten en cuenta que **para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva**. Muchas personas han querido hacer este tour sin guía, pero al llegar a los termales no les permiten el acceso, ya que se trata de fincas privadas y estas trabajan en colaboración con guías locales.
+❗ Ten en cuenta que **Para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva previa y vas acompañado por un guía.**
 
-_Anteriormente, el acceso era libre, pero las personas que visitaban estos lugares dejaban mucha basura. Los campesinos llegaron a bajar hasta 50 bultos de basura._
+_Anteriormente, el acceso a esta zona era libre, pero las personas que visitaban estos lugares no los cuidaban y dejaban mucha basura en los senderos. Los campesinos lograron recolectar bultos de basura en tan solo unas pocas semanas._
 
 ### TOUR DESDE PEREIRA, MANIZALES O SANTA ROSA
 
-Algunas agencias del Eje Cafetero venden el tour, saliendo desde Pereira, Manizales o Santa Rosa. El costo por persona es de alrededor de $530.000 pesos.
+Algunas agencias del Eje Cafetero venden el tour saliendo desde Pereira, Manizales o Santa Rosa. El costo por persona es de alrededor de $530.000 pesos, válido para grupos de más de 4 personas.
 
 **EL VALOR DEL TOUR INCLUYE:**
 
@@ -74,11 +74,11 @@ Algunas agencias del Eje Cafetero venden el tour, saliendo desde Pereira, Maniza
 - 🫶 Seguro de asistencia médica
 - 🎟️ Ingreso a: Termales del Sifón y Termales de La Cabaña
 
-👉 <a href="https://www.randes.co/products/termales-la-cabana-2-dias-1-noche" target="_blank" style="color:green;">Puedes ver información completa del tour dando clic aquí</a>
+👉 <a href="https://www.randes.co/products/termales-la-cabana-2-dias-1-noche" target="_blank" style="color:green;">Puedes ver información completa de este tour dando clic aquí</a>
 
 ### TOUR DESDE MURILLO
 
-Desde Murillo a los Termales de La Cabaña, las agencias venden el tour por alrededor de $330.000 pesos por persona.
+Desde Murillo a los Termales de La Cabaña, el tour cuesta alrededor de $220.000 pesos por persona. Este precio es válido para grupos de más de 4 personas.
 
 **EL VALOR DEL TOUR INCLUYE:**
 
@@ -95,11 +95,11 @@ Desde Murillo a los Termales de La Cabaña, las agencias venden el tour por alre
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
 
-Para llegar a los Termales de La Cabaña, lo primero que hicimos fue llegar a Murillo-Tolima. Aquí te mostraremos cómo fue la experiencia del tour que tomamos desde Pereira.
+Para llegar a los Termales de La Cabaña, lo primero que hicimos fue llegar a Murillo-Tolima. Aquí te mostraremos cómo fue la experiencia del tour que tomamos desde Pereira. 😊
 
-Los paisajes que vimos nos dejaron atónitos, eran paisajes de montañas, páramos, y al fondo el Nevado del Ruiz; una experiencia mágica. Desde Manizales a Murillo son aproximadamente 83 kilómetros, un trayecto de 3 a 4 horas en carro.
+Los paisajes que vimos nos dejaron atónitos; eran paisajes de montañas, páramos y al fondo el Nevado del Ruiz, una experiencia mágica. Desde Manizales a Murillo son aproximadamente 83 kilómetros, un trayecto de 3 a 4 horas en carro.
 
-En nuestro camino pudimos apreciar los siguientes paisajes
+En nuestro camino pudimos apreciar los siguientes paisajes.
 
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/via-murillo.jpg",
@@ -108,7 +108,7 @@ width:"1000",
 height:"667"
 %}
 
-__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y, a mi parecer, es un poco angosta, ya que te encontrarás con muchos camiones y buses, así que te recomendamos tener mucho cuidado.
+__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado. 
 
 ### LAGUNA NEGRA
 
@@ -143,9 +143,9 @@ width:"781",
 height:"781"
 %}
 
-Algunos campesinos cuentan que durante la época de guerra entre liberales y conservadores, el asesino Sangrenegra arrojaba los cuerpos en esta laguna. Para aquellos que no conocen a Sangrenegra, cuyo verdadero nombre era Jacinto Cruz, fue un sanguinario asesino que operaba en las décadas de los 50 y 60 durante los enfrentamientos entre liberales y conservadores. Él fue responsable de un brutal método de tortura y asesinato conocido como "corbata colombiana" o "corte de franela". Se le atribuyen más de 377 homicidios.
+Algunos campesinos cuentan que durante la época de guerra entre liberales y conservadores, el asesino conocido como Sangrenegra arrojaba los cuerpos en esta laguna. Para aquellos que no conocen a Sangrenegra, cuyo verdadero nombre era Jacinto Cruz, fue un sanguinario asesino que operaba en las décadas de los 50 y 60 durante los enfrentamientos entre liberales y conservadores. Él fue responsable de un brutal método de tortura y asesinato conocido como 'corbata colombiana' o 'corte de franela'. Se le atribuyen más de 377 homicidios.
 
-Después de pasar esta laguna, estarás a 30 o 40 minutos para llegar a Murillo, Tolima.
+Después de pasar esta laguna, estarás a 30 o 40 minutos de llegar a Murillo, Tolima. 🌄
 
 ## HOSPEDAJE EN MURILLO TOLIMA 🛌
 
@@ -157,7 +157,7 @@ Murillo es un pueblo pequeño, pero cuenta con buenas ofertas  de hospedajes com
 
 ## RUTA A LOS TERMALES DE LA CABAÑA DESDE MURILLO TOLIMA 🚶🏼
 
-Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 30 minutos llegar a la entrada de los Termales. Allí nos dieron una pequeña charla sobre el recorrido que íbamos a hacer y nos prestaron bastones de senderismo. Además, nos colocaron una pulsera, sin la cual no podríamos ingresar a los Termales de La Cabaña 🕡🏞️.
+Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 30 minutos llegar a la entrada de los Termales. Allí nos dieron una pequeña charla sobre el recorrido que íbamos a hacer y nos prestaron bastones de senderismo. Además, nos colocaron una pulsera, sin la cual no podríamos ingresar a los Termales de La Cabaña 🏞️.
 
 __Recomendación:__ El recorrido es exigente, ya que subiremos hasta los 4.100 m.s.n.m, donde se encuentra la Laguna Corazón. En total, el recorrido dura aproximadamente 8 horas.
 
