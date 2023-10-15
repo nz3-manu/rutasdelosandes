@@ -55,13 +55,13 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
 
 <a name="tour-termales-cabaña" id="tour-termales-cabaña"></a>
 
-## TOUR A TERMALES DE LA CABAÑA ♨️
+## TOUR A LOS TERMALES DE LA CABAÑA ♨️ 🧳
 
 ❗ Ten en cuenta que **Para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva previa y vas acompañado por un guía.**
 
 _Anteriormente, el acceso a esta zona era libre, pero las personas que visitaban estos lugares no los cuidaban y dejaban mucha basura en los senderos. Los campesinos lograron recolectar bultos de basura en tan solo unas pocas semanas._
 
-### TOUR DESDE PEREIRA, MANIZALES O SANTA ROSA
+### TOUR DESDE PEREIRA O MANIZALES
 
 Algunas agencias del Eje Cafetero venden el tour saliendo desde Pereira, Manizales o Santa Rosa. El costo por persona es de alrededor de $530.000 pesos, válido para grupos de más de 4 personas.
 
@@ -89,25 +89,17 @@ Desde Murillo a los Termales de La Cabaña, el tour cuesta alrededor de $220.000
 - 🫶 Seguro de asistencia médica
 - 🎟️ Ingreso a: Termales de La Cabaña
 
-👉 <a href="https://www.randes.co/products/termales-la-cabana-desde-murillo" target="_blank" style="color:green;">Puedes ver información completa de este tour desde murillo, dando clic aquí 🌿🏞️</a>
+👉 <a href="https://www.randes.co/products/termales-la-cabana-desde-murillo" target="_blank" style="color:green;">Puedes ver información completa de este tour desde murillo, dando clic aquí</a>
 
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
 
-Para llegar a los Termales de La Cabaña, lo primero que hicimos fue llegar a Murillo-Tolima. Aquí te mostraremos cómo fue la experiencia del tour que tomamos desde Pereira. 😊
+Para llegar a los Termales de La Cabaña, lo primero que hicimos fue llegar a __Murillo-Tolima.__ Aquí te mostraremos cómo fue la experiencia del tour que tomamos desde Pereira. 😊
 
 Los paisajes que vimos nos dejaron atónitos; eran paisajes de montañas, páramos y al fondo el Nevado del Ruiz, una experiencia mágica. Desde Manizales a Murillo son aproximadamente 83 kilómetros, un trayecto de 3 a 4 horas en carro.
 
-En nuestro camino pudimos apreciar los siguientes paisajes.
+En nuestro camino pudimos apreciar los siguientes paisajes:
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/via-murillo.jpg",
-caption:"Foto: Nevado del Ruiz",
-width:"1000",
-height:"667"
-%}
-
-__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado. 
 
 ### LAGUNA NEGRA
 
@@ -124,6 +116,8 @@ height:"717"
 
 Los Termales del Sifón son aguas termales de color turquesa que se encuentran ubicadas dentro del Parque Natural Los Nevados, cerca del Nevado del Ruiz.
 
+Para ingresar tuvimos que pagar el ingreso.
+
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/termales-del-sifon.jpg",
 caption:"Foto: Termales del Sifón",
@@ -131,7 +125,21 @@ width:"1000",
 height:"563"
 %}
 
-### LAGUNA LA LLORONA
+### VISTA DEL NEVADO DEL RUIZ 
+
+Como estaba haciendo un hermoso día, pudimos apreciar una vista impresionante del Nevado del Ruiz en medio de los frailejones. Es una vista que muchos consideran mágica.
+
+{% include image.html,
+file:"rutas/tolima/termales-de-la-cabaña/via-murillo.jpg",
+caption:"Foto: Nevado del Ruiz",
+width:"1000",
+height:"667"
+%}
+
+__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado. 
+
+
+### LAGUNA LA LLORONA 
 
 Su nombre se debe, según algunos campesinos, a que está encantada y sienten presencia de personas. Otros aseguran que les han arrojado rocas e incluso han escuchado gritos al pasar por allí.
 
@@ -173,7 +181,7 @@ Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 3
 
 __Recomendación:__ El recorrido es exigente, ya que subiremos hasta los 4.100 m.s.n.m, donde se encuentra la Laguna Corazón. En total, el recorrido dura aproximadamente 8 horas.
 
-### LAGUNA CORAZÓN 💚
+### LAGUNA CORAZÓN 
 
 Desde donde nos dejó el transporte, comenzamos un duro ascenso por un bosque. Después, pasamos por fincas de ganado y continuamos para admirar los frailejones durante cerca de 4 horas, hasta llegar a la Laguna Corazón, que se encuentra a 4.100 m.s.n.m. 🏞️⛰️
 
@@ -184,7 +192,7 @@ width:"1000",
 height:"750"
 %}
 
-### VALLE DE ESPONJAS 🧽
+### VALLE DE ESPONJAS 
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
@@ -195,7 +203,7 @@ width:"1000",
 height:"750"
 %}
 
-### VISITA CASCADA DE LOS 7 COLORES 🌈
+### VISITA CASCADA DE LOS 7 COLORES 
 
 Un poco después de ver el Valle de Esponjas, continuamos caminando por cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores.
 
@@ -206,7 +214,7 @@ width:"1000",
 height:"750"
 %}
 
-### TERMALES LA CABAÑA ♨️
+### TERMALES LA CABAÑA 
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
@@ -217,7 +225,7 @@ width:"1000",
 height:"750"
 %}
 
-Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro turno para ingresar a los Termales. Ten en cuenta que solo se permite el ingreso a los Termales si se va con guía y se ha pagado el ingreso.
+Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro turno para ingresar a los Termales. Ten en cuenta que solo se permite el ingreso a los Termales si se va con guía y se cuenta con la manilla de ingreso.
 
 <a name="recomendaciones-termales-cabaña" id="recomendaciones-termales-cabaña   "></a>
 
