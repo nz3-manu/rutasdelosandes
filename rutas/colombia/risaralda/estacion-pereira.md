@@ -44,7 +44,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOUR A ESTACIÓN PEREIRA
 
-El valor del __tour a estación Pereira__ es en promedio de $60.000 Cop a $130.000 Cop, este valor depende del número  de personas que vayan. 
+El valor del __tour a estación Pereira__ es en promedio de $150.000 Cop a $320.000 Cop, este valor depende del número  de personas que vayan. 
 
 __El tour a estación Pereira incluye:__
 * 🚌 Transporte desde pereira 
@@ -54,7 +54,9 @@ __El tour a estación Pereira incluye:__
 * 🫶 Seguro de asistencia médica 
 * 👨 Guianza
 
-__<a href="https://forms.gle/aJKBXTwcWSce8KdH7" style="color:green;" target="_blank"> ¿Te gustaría visitar este lugar? 👉 déjanos tus datos aquí </a>__ 
+__<a href="https://www.randes.co/products/tour-estacion-pereira" style="color:green;" target="_blank"> Si quieres realizar expedición con un guía local puedes dar clic aquí. </a>__ 
+
+_Si ya has comprado nuestros productos y tienes el código que enviamos promocional, tendrás el 15% de descuento en esta ruta._
 
 <a name="llegar-estacion-pereira" id="llegar-estacion-pereira"></a> 
 
