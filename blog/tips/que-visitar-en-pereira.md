@@ -11,7 +11,7 @@ featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pere
 
 ## ¿QUÉ HACER EN PEREIRA?
 
-¿Qué hacer en Pereira?, o ¿Qué visitar en Pereira? Esta es una pregunta frecuente que realizan los viajeros al pasar por esta ciudad, que de cariño es llamada __"la querendona trasnochadora y morena"__ 😊🌆. En este post queremos ayudarte para que puedas escoger los lugares que más te gustaría visitar y no tengas remordimiento de haberte faltado 1 por visitar.
+¿Qué hacer en Pereira?, o ¿Qué visitar en Pereira? Esta es una pregunta frecuente que nos realizamos al pasar por una ciudad. En este post te queremos mostrarte algunos de los lugares que son consideramos los más lindo de esta región.
 
 __Información que encontrarás en este post:__
 
@@ -20,21 +20,25 @@ __Información que encontrarás en este post:__
 * <a href="#Coffe-tour-pereira" > Coffe tour cerca de Pereira </a>
 
 
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/blog/sierra-nevada-el-cocuy.html">See this post in English version 🇺🇸</a>]**
+
+
 Por último, si eres extranjero y quisieras contar con un guía que te acompañe a visitar esta hermosa ciudad, puedes dar clic en el siguiente enlace.
-
-
 
 👉 **<a href="https://wa.link/o4kphp" style="color:green;" target="_blank"> !Explorar Pereira con un guía bilingüe 👨‍🦱!</a>**
 
 ## DATO CURIOSO DE PEREIRA
 
-Pereira, o como tambien es conocida la "Perla del Otún" en la región cafetera de Colombia, encanta con su clima templado y su combinación de arquitectura colonial y moderna. La estatua "Bolívar Desnudo" es una curiosidad única en el país. Su Museo de Arte y sus cautivadores paisajes atraen a los amantes del arte y la naturaleza. ¡Una enriquecedora experiencia sumergida en la cultura cafetera colombiana te espera en Pereira!
+Fue fundada en 1863 en honor al abogado José Francisco Pereira Martínez, quien fue compañero de Bolívar y quiso establecer una ciudad cerca de la ciudad de Cartago Viejo.
+
+Pereira es conocida como "la Perla del Otún," "la Ciudad sin puertas," y cariñosamente le dicen "la Querendona, Trasnochadora y Morena." Antiguamente, era simplemente una ciudad de paso, ya que se encuentra ubicada entre las tres principales ciudades de Colombia: Bogotá, Medellín y Cali. Esta es la única ciudad de Colombia que cuenta con una estatua de "Bolívar Desnudo." También es conocida como la región cafetera de Colombia.
+
 
 <a name="lugar-visitar-pereira" id="lugar-visitar-pereira"></a>
 
 ## LUGARES PARA VISITAR EN PEREIRA
 
-Dado que estos lugares se encuentran en el centro de la ciudad, no se recomienda andar por ellos muy tarde en la noche, ya que podría ser peligroso. Como solemos decir en Colombia, "no hay que dar papaya".
+Dado que alguno de estos lugares se encuentran en el centro de la ciudad, no se recomienda andar por ellos muy tarde en la noche, ya que podría ser peligroso. Como solemos decir en Colombia, "no hay que dar papaya".
 
 ### #1 PLAZA DE BOLÍVAR 
 
@@ -46,7 +50,6 @@ La estatua "Bolívar Desnudo" en Pereira, Colombia, sorprende por su singularida
  width:"800",
  height:"533" 
 %}
-
 
 
 ### #2 MUSEO DE ARTE PEREIRA
@@ -82,9 +85,12 @@ Quizás estés buscando un poco más de aventura y contacto con la naturaleza, a
 
 ### TERMALES DE SAN VICENTE ♨️
 
-Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales.
+Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales ♨️⚕️.
 
-Los Termales de San Vicente se encuentran a las afueras del municipio de Santa Rosa de Cabal. Dado que para este lugar no hay rutas de transporte publivo, puede resultar un poco complicado llegar allí, pero ¡no te preocupes! Desde Pereira salen tours con transporte incluido que te llevarán hasta este maravilloso lugar y te traerán de regreso. Es una opción genial, especialmente si vas en grupo 🚗🌄👫.
+¿Dónde están ubicados los Termales de San Vicente? Los Termales de San Vicente se encuentran a las afueras del municipio de Santa Rosa de Cabal. Dado que no hay rutas de transporte público que lleguen hasta este lugar, puede resultar un poco complicado llegar allí, ¡pero no te preocupes! Desde Pereira, salen tours con transporte incluido que te llevarán hasta este maravilloso lugar y te traerán de regreso. Esta es una opción genial, especialmente si vas en grupo.
+
+A continuación te dejaremos un link en el cual podrás encontrar tour desde Pereira.
+
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/termales-san-vicente.jpg",
