@@ -3,7 +3,7 @@ layout: article
 title: ¿Qué hacer o qué visitar en Pereira?
 categories: blog
 seo_title: Que Visitar en Pereira - Rutas
-excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como arquitectónicos, en esta ciudad conocida como "La Querendona, Trasnochadora y Morena".
+excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como
 images_url: /images/blog/tips-montana/que-hacer-en-pereira
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pereira/featured.jpg
