@@ -1,5 +1,6 @@
 <head>
   <meta charset="utf-8" />
+  
    <!-- Load AMP -->
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <!-- Load amp-analytics -->
@@ -21,6 +22,7 @@
   <!-- seo title -->
   {% if seo_title %} {% assign title = seo_title %} {% else %} {% assign title =
   title %}{% endif %}
+
   <meta name="amp-google-client-id-api" content="googleanalytics" />
   <meta name="p:domain_verify" content="60a94ce360c86ef7f44098a262472bd4" />
   <meta name="B-verify" content="845495a2973743e68864405bbd7e35abb9cf42e9" />
@@ -88,7 +90,7 @@
   />
   <!-- common styles -->
   <style amp-custom>
-    {% include styles.css  %}
+  {% include styles.css %}
   </style>
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>

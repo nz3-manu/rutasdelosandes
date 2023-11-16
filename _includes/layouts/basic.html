@@ -63,30 +63,20 @@
 
   <body>
 
-    <amp-analytics type="gtag" data-credentials="include">
-      <script type="application/json">
-      {
-        "vars" : {
-          "gtag_id": "G-18WGN3CFGT",
-          "config" : {
-            "G-18WGN3CFGT": { "groups": "default" }
-          }
-        }
-      }
-      </script>
-    </amp-analytics>
-
     <!-- AMP Web Push Extension Configuration -->
     <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
 
-  
+    {% if jekyll.environment != "development" %}
+    {% if site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
+    {% endif %}
 
     {% include header.html %}
     <main class="page-content" aria-label="Content">
         {{ content }}
     </main>
  
-
 
   </body>
 
