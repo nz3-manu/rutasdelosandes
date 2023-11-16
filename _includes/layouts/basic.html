@@ -5,11 +5,11 @@
     
     <!-- Load AMP -->
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-    
+
     <!-- Load amp-analytics -->
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 
+    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
     <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
     <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
@@ -63,14 +63,23 @@
 
   <body>
 
+    <amp-analytics type="gtag" data-credentials="include">
+      <script type="application/json">
+      {
+        "vars" : {
+          "gtag_id": "G-18WGN3CFGT",
+          "config" : {
+            "G-18WGN3CFGT": { "groups": "default" }
+          }
+        }
+      }
+      </script>
+    </amp-analytics>
+
     <!-- AMP Web Push Extension Configuration -->
     <amp-install-serviceworker src="/service-worker.js" layout="nodisplay"></amp-install-serviceworker>
 
-    {% if jekyll.environment != "development" %}
-    {% if site.google_analytics %}
-    {% include google-analytics.html %}
-    {% endif %}
-    {% endif %}
+  
 
     {% include header.html %}
     <main class="page-content" aria-label="Content">
