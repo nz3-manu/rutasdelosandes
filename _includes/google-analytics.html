@@ -1,16 +1,26 @@
 
 <div id="google-analytics">
-    <type="gtag" data-credentials="include">
-        <script type="application/json">
-        {
-          "vars" : {
-            "gtag_id": "G-18WGN3CFGT",
-            "config" : {
-              "G-18WGN3CFGT": { "groups": "default" }
+  <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+      {
+        "vars": {
+          "gtag_id": "G-18WGN3CFGT",
+          "config": {
+            "G-18WGN3CFGT": { "groups": "default" }
+          }
+        },
+        "triggers": {
+          "button": {
+            "selector": "#tienda-title",
+            "on": "click",
+            "vars": {
+              "event_name": "tienda",
+              "method": "Google"
             }
           }
         }
-        </script>
-      </amp-analytics>
+      }
+    </script>
+  </amp-analytics>
 </div>
 
