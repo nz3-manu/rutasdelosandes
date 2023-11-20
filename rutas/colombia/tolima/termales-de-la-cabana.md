@@ -28,7 +28,7 @@ Entre los atractivos principales de este lugar están sus aguas termales, rodead
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/hot-springs-of-the-cabana.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/https://www.hikingintheandes.com/amp/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
 
 <a name="dato-termales-cabaña" id="dato-termales-cabaña"></a>
 
