@@ -52,14 +52,14 @@ __Actividad economica:__  antiguamente era la pesca, pero ya que solo se dedicar
 <a name="video-prado-tolima" id="video-prado-tolima"></a>
 
 
-## VIDEO DE LA RUTA A LA REPRESA DE PRADO TOLIMA
+## VIDEO DE LA RUTA A LA REPRESA DE PRADO 
 
 
-A continuación te mostramos un pequeño video mostrando los lugares que vimos en nuestro viaje a la represa de prado Tolima.
+A continuación te mostramos un pequeño video mostrando los lugares que vimos en nuestro viaje a la represa de prado en el departamento de Tolima.
 
 
 {% include youtube.html
-videoid:"1anGUPtjsMs",
+videoid:"1anGUPtjss",
 width:"480",
 height:"270",
 Caption:"videos de la ruta a la reserva prado"
@@ -72,7 +72,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 <a name="llegar-prado-tolima" id="llegar-prado-tolima"></a>
 
 
-## ¿CÓMO LLEGAR A PRADO TOLIMA?
+## ¿CÓMO LLEGAR A PRADO 🚐?
 
 ### DESDE BOGOTA:
 
@@ -91,7 +91,6 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 * __Telefono de empresa de transporte:__  <a href="tel:3202260200">
 3202260200</a> 
 
-lugares-prado-tolima
 
 <a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
 
@@ -130,11 +129,10 @@ A continuación te compartiremos un mapa donde podrás ver los lugares emblemát
 
 ### REPRESA DE PRADO  🚕
 
-Desde Prado a la represa hay 8 kilómetros, los cuales son totalmente pavimentados, una vez llegamos allí nos encontramos con los __servicios de parqueadero a:__
-* Moto: 8 mil pesos el día
-* Carro:  12 mil pesos el día
+Desde Prado a la represa hay 8 kilómetros, los cuales son totalmente pavimentados, una vez llegamos allí nos encontramos con los 🅿️ __servicios de parqueadero de:__ motos 6 mil pesos el día y carro:  11 mil pesos el día.
 
-Si no cuentas con transporte no hay problema 😎, podrás encontrar moto-carros 🛵 que te cobrarán aproximadamente __$8.000 pesos por trayecto__  para tomarlos solo tendrás que ir a un costado del parque principal.
+
+Si no cuentas con transporte no hay problema 😎, podrás encontrar moto-carros que te cobrarán aproximadamente $8.000 pesos por trayecto  para tomarlos solo tendrás que ir a un costado del parque principal.
 
 Una vez llegamos a la represa no ofrecian varios tours, __te queremos hacer la siguiente recomendación__ _mucha agencia brindan un tour el cual no es completo_, y es una lástima, ya que esta represa tienen lugares muy hermosos, así que asegurate de ir con agencias que si realicen este tour.
 
@@ -145,6 +143,7 @@ width:"1000",
 height:"564"
 %}
 
+__Advertencia:__ antes de llegar a la represa, tendran que pasar un tunel, deben de tener precausion y bajar la velocidad, y pitar antes de entrar o escuchar si viene alguien pitando para reducir la velocidad, el tunel es muy angosto y solo puede pasar un carro a la vez.
 
 <a name="mapa-prado-tolima" id="mapa-prado-tolima"></a>
 
@@ -167,26 +166,26 @@ A continuación te mostraremos, los tours que ofrecen la empresa con la cual est
 
 Aquí te mostraremos los diferentes tours que podrás
 
-### TOUR PASADIA BASIC
+### TOUR PASADIA MEDIANO
 
-* __Lugares que visitan:__
+* __Lugares que visitan:__ muro de Contencio, compuertas, boqueron de tena, isla de cuba parada con caminata natural, criadero de mojara, isla del del sol, hotel y por ultimo hotel donde almorzarán y podrán tomar un baño en la piscina.
 * __Duración:__ 4 horas
 * __Incluye:__ almuerzo, piscina natural,seguro medico, guía y transporte fluvial.
-* __Valor del tour:__ $50.000 pesos por personas.
+* __Valor del tour:__ $55.000 pesos por personas.
 
 
 ### TOUR PASADIA COMPLETO
 
-* __Lugares que visitan:__
+* __Lugares que visitan:__ Muro de contención, Compuertas, Boqueron de tena, laguna encantada (pueden bañar), cueva del mohan, cueva del angel, la Roca (mejor cabaña represa), islas de: Morgan, de cuba, del sol y por ultimo hotel donde almorzarán y podrán tomar un baño en la piscina.
 * __Duración:__ 6 horas
 * __Incluye:__ almuerzo, piscina natural,seguro medico, guía y transporte fluvial.
-* __Valor del tour:__ $ 80.0000 pesos por personas.
+* __Valor del tour:__ $ 85.0000 pesos por personas.
 
 ### TOUR 2 DÍAS Y 1 NOCHE
 
 * __Lugares que visitan:__
-* __Incluye:__ 1 noche de hospedaje, cena, desayuno, almuerzo, cena y desayuno
-* __Valor del tour:__ $ 80.0000 pesos por personas.
+* __Incluye:__ 1 noche de hospedaje, cena, desayuno, almuerzo, cena y desayuno, tour completo.
+* __Valor del tour:__ $ 340.0000 pesos por personas.
 
 __RECOMENDACIÓN:__ Si vas con un grupo de personas te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrian coordinar con el guía la hora de inicio del tour.
 
