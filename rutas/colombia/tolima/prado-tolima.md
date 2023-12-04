@@ -1,16 +1,16 @@
 ---
 layout: trail
-title: Embalse en Prado Tolima
+title: Represa De Prado Tolima
 categories: colombia
 seo_title: Guía completa de Prado Tolima  2024
 excerpt: Guía completa para visitar la reserva de Prado en el Tolima, conoce tours, hospedajes y transporte
-images_url: /images/rutas/tolima/prado-tolima
+images_url: /images/rutas/tolima/represa-prado
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
 ---
 
-# EMBALSE PRADO TOLIMA
+# REPRESA DE PRADO TOLIMA
 
 ¿Estás pensando viajar a este lugar y no sabes cuanto te podría costar llegar hasta allí? No te preocupes que aquí te mostraremos los precios de transporte, alimentación, hospedaje y diferentes tours que podrás realizar.
 
@@ -25,6 +25,7 @@ Así podrás planear mucho mejor tu viaje, si quisieras comprar el tour completo
 - <a href="#video-prado-tolima"> Vídeo de Prado Tolima</a>
 - <a href="#llegar-prado-tolima"> ¿Cómo llegar a Prado Tolima ? </a>
 - <a href="#tour-prado-tolima"> Tours disponibles en la represa de Prado</a>
+- <a href="#hospedaje-prado-tolima"> ¿Donde hospedarte en la represa de Prado?</a>
 - <a href="#recomendaciones-prado-tolima"> Recomendaciones finales para visitar Prado Tolima</a>
 
 
@@ -39,17 +40,11 @@ Empecemos con la aventura ⛰.
 
 ## DATO CURIOSO DE PRADO TOLIMA
 
+Prado era antiguamente habitado  por las tribus de los indios Poincos, hasta que fue descubierto por Gonzalo Jiménez de Quesada en 1545 y fue fundada en el 12 de agosto de 1781 con el nombre de aldea de nuestra Señora del Rosario de Chiquinquirá del río Prado y el 1 de enero de 1807 se trasladó la aldea al lugar que ocupa en la actualidad, en terrenos cedidos por Cristóbal Valdez Flórez, actualmente cuenta con una población de 7,607 habitantes.
 
-Sus campiñas fueron habitadas por las tribus de los indios Poincos, y fue descubierto por Gonzalo Jiménez de Quesada en 1545. El pueblo
-fue fundado el 12 de agosto de 1781 con el nombre de aldea de nuestra Señora del Rosario de Chiquinquirá del río Prado. En 1795 llegó a la
-aldea Francisco José de Caldas que realizó estudios sobre la fauna y la flora. El 1 de enero de 1807 se trasladó la aldea al lugar que ocupa en
-la actualidad, en terrenos cedidos por Cristóbal Valdez Flórez. Prado se encuentra ubicado en el oriente del Tolima, en una meseta a unos
-321 msnm en la margen derecha del río Magdalena y cruzado por su afluente, el río Prado. La fuente principal de ingresos proviene de la
-agricultura con cultivos de arroz, maíz, plátano y frutales, pesca y piscicultura, ganadería, avicultura y el turismo. El municipio es conocido
-como el Mar interior de Colombia.
+__Actividad economica:__  antiguamente era la pesca, pero ya que solo se dedicaron a pescar y no culticar el pescado, esto ya estan desapareciendo drentro de la represa, lo que ha hecho que muchas de estas familias que vivian de esta actividad tuvieron que buscar otras fuentes de ingresos como: agricultura con cultivos de arroz, maíz, plátano y frutales y piscicultura, ganadería, avicultura y el turismo
 
 
-Parafrasear 
 
 
 <a name="video-prado-tolima" id="video-prado-tolima"></a>
@@ -76,11 +71,21 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 ## ¿CÓMO LLEGAR A PRADO TOLIMA?
-* Desde Bogotá:valor aproximado $55.000 pesos
+
+### DESDE BOGOTA:
+* __Valor del pasaje es aproximadamente:__ $65.000 pesos.
+* __Horarios de salida son:__ apartir de las 4:10 am con una frecuencia de salida de 1 hora 5 ma, 6 am, 7 am hasta las 10 am, lo horarios de tarde se confirman en la mañana ya que se programan dependiendo del flujo de pasajeros que viajen.
+* __Duración de este trayecto es:__ 6 horas.
+* __Telefono de empresa de transporte:__  <a href="tel:3212144328">
+3212144328 </a>
 
 
-* Desde Ibagué: valor aproximado $27.000 pesos, sale desde las 6 am cada hora, empresa de buses transpurificación.
-
+### DESDE IBAGUE:
+* __Valor del pasaje es aproximadamente:__ $27.000 pesos
+* __Horarios de salida son:__ apartir de las 4:30 am con una frecuencia de salida de 1 hora 5:30 ma, 6:30 am, 7:30 am hasta las 5:00 pm.
+* __Duración de este trayecto es alrededor de:__ 3 horas.
+* __Telefono de empresa de transporte:__  <a href="tel:3202260200">
+3202260200</a> 
 
 ## LUGARES PARA VISITAR EN PRADO TOLIMA
 
@@ -93,16 +98,29 @@ arquitectura religiosa ni los materiales locales permitían mejores estructuras.
 de los cuales ha sido víctima.
 
 
--- Foto ---
+{% include image.html,
+file:"rutas/tolima/represa-prado/iglesia-prado.jpg",
+caption:"Foto: Parroquia de nuestra señora de chiquinquirá",
+width:"1000",
+height:"750"
+%}
 
 ### Monumento emblematico de Prado Tolima
 
 
-Este monumento se creó como homenaje a los pescadores, ya antiguamente este era una de las actividades principales en esta región 
--- Foto ---
+Este monumento se creó como homenaje a las familias de pescadores, esta estatua esta elaborado en cemento, fue elaborada por un artesano de Prado, esta estatua fue el remplazo del arco que daba la bienvenida a  que habia en este lugar el cual tenia mas de 100 años.
+
+{% include image.html,
+file:"rutas/tolima/represa-prado/monumento-emblematico.jpeg",
+caption:"Foto: Monumento emblematico de Prado Tolima",
+width:"1000",
+height:"1037"
+%}
 
 
-A continuación te compartiremos un mapa donde podrás ver los lugares emblemáticos para visitar en este lugar 
+A continuación te compartiremos un mapa donde podrás ver los lugares emblemáticos para visitar en Prado, tambien podrás ver  la ruta que se realizao en la represa de Prado 🚤.
+
+__Mapa de prado Lugares a visitar en prado Tolima__
 
 {% include iframe.html,
   type:"custom",
@@ -112,26 +130,54 @@ A continuación te compartiremos un mapa donde podrás ver los lugares emblemát
  
 ## RUTA A LA REPRESA DE PRADO TOLIMA 🚶🏼
 
-Lo primero que debes de saber es que desde El pueblo de prado a la represa hay 8 kilómetros, los cuales son totalmente pavimentados, y una vez al llegar allí encontraras servicio de parqueadero.
+Desde Prado a la represa hay 8 kilómetros, los cuales son totalmente pavimentados, una vez llegamos allí nos encontramos con los __servicios de parqueadero a:__
+* Moto:
+* Carro:
 
-Si no cuentas con transporte, podrás encontrar moto-carros que te cobrarán aproximadamente $8.000 pesos por trayecto($16.000 pesos) si vas solo o si vas con más personas te costaría un poco más económico.
+Si no cuentas con transporte no hay problema 😎, podrás encontrar moto-carros 🚕 que te cobrarán aproximadamente __$8.000 pesos por trayecto__  para tomarlos solo tendrás que ir a un costado del parque principal.
 
-Una vez en la represa podrás encontrar tour disponible, te queremos hacer la siguiente aclaración, mucha agencia brindan un tour el cual no es completo, y es una lástima, ya que esta represa tienen lugares muy hermosos.
+Una vez llegamos a la represa no ofrecian varios tours, __te queremos hacer la siguiente recomendación__ _mucha agencia brindan un tour el cual no es completo_, y es una lástima, ya que esta represa tienen lugares muy hermosos, así que asegurate de ir con agencias que si realicen este tour.
 
-Continuación te mostraremos, los tours que ofrece la empresa con la cual estamos trabajando en este lugar.
+
+A continuación te mostraremos, los tours que ofrece la empresa con la cual estamos trabajando en este lugar.
 <a name="tour-termales-cabaña" id="tour-termales-cabaña"></a>
 
-## DIFERENTES TOURS A LA RESERVA DE PRADO TOLIMA 🛶
+## TOURS EN LA RESERVA DE PRADO TOLIMA 🛶 
 
 Aquí te mostraremos los diferentes tours que podrás
 
-### Tour pasadía Básico $50.000 pesos por personas
+### TOUR PASADIA BASIC
 
-### Tour pasadía Completo $ 80.0000 pesos por persona
+* __Lugares que visitan:__
+* __Duración:__ 4 horas
+* __Incluye:__ almuerzo, piscina natural,seguro medico, guía y transporte fluvial.
+* __Valor del tour:__ $50.000 pesos por personas.
 
-### Tour 2 días y 1 noche Hospedaje (mínimo 2 personas)
 
-__RECOMENDACIÓN:__ Si vas con un grupo de personas te recomendamos hacer la reserva con anticipación, ya que llegas allá, posiblemente te llevabas la sorpresa de que no haya disponibilidad.
+### TOUR PASADIA COMPLETO
+
+* __Lugares que visitan:__
+* __Duración:__ 6 horas
+* __Incluye:__ almuerzo, piscina natural,seguro medico, guía y transporte fluvial.
+* __Valor del tour:__ $ 80.0000 pesos por personas.
+
+### TOUR 2 DÍAS Y 1 NOCHE
+
+* __Lugares que visitan:__
+* __Incluye:__ 1 noche de hospedaje, cena, desayuno, almuerzo, cena y desayuno
+* __Valor del tour:__ $ 80.0000 pesos por personas.
+
+__RECOMENDACIÓN:__ Si vas con un grupo de personas te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo y planear con el lanchero la hora de inicio del tour.
+
+👉 **<a href="https://wa.link/g3efuv" style="color:green;" target="_blank"> Clic para reservar tour aquí</a>**
+
+<a name="hospedarte-prado-tolima" id="hospedarte-prado-tolima"></a>
+
+## DONDE HOPEDARTE EN PRADO TOLIMA 🛏️
+
+En el pueblo de Prado podrás encontrar gran variedad de hospedajes, por lo general estos vale $50.000 pesos por persona, si piensas quedarte más de una noche en prado, te recomendaríamos hospedarte en algunas de las islas dentro de la represa.
+
+Puedes tomar el tour que cuenta con hospedaje, y si llegarás a necesitar una noche adicional puedes informar al momento de tomar el tour.
 
 
 
