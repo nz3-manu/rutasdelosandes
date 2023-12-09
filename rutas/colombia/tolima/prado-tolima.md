@@ -41,12 +41,15 @@ __Actividad económica:__  Una de las principales actividades económicas que se
 
 ## VIDEO DE LA RUTA A LA REPRESA DE PRADO
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que vimos en nuestro viaje a la represa de prado en el departamento de Tolima.
+
 {% include youtube.html
-videoid:"1anGUPtjss",
+videoid:"oD_H6rkN4Bc",
 width:"480",
 height:"270",
-Caption:"videos de la ruta a la reserva prado"
+Caption:"videos de la ruta a la Represa de Prado"
 %}
+
+
 Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 <a name="llegar-prado-tolima" id="llegar-prado-tolima"></a>
