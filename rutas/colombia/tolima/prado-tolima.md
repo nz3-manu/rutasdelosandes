@@ -9,10 +9,14 @@ viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
 ---
+
 # REPRESA DE PRADO TOLIMA
 
 ¿Estás pensando en viajar a este sitio y no sabes cuánto podría costar llegar allí? No te preocupes que aquí te mostraremos los precios de transporte, alimentos, alojamiento y diferentes tours que puedes hacer.
-Así podrás planear mucho mejor tu viaje, si quisieras comprar el tour completo puedes dar click aquí 👉 __<a href="https://wa.link/y1xngu" style="color:green;" target="_blank" >clic aquí </a>__
+Así podrás planear mucho mejor tu viaje.
+
+
+**🛶 <a href="https://wa.link/eovpg5" style="color:green;" target="_blank"> Puedes conocer nuestros planes a la Represa de Prado, solo dando clic aquí. 👈 </a>**
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -59,14 +63,14 @@ Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href
 ### DESDE BOGOTÁ:
 * __Valor del pasaje es aproximadamente:__ $65.000 pesos por persona.
 * __Horarios de salida son:__ Los buses con destino a Prado,Tolima desde la ciudad de Bogotá, salen a partir de las 4:10 am con una frecuencia de salida de 1 hora 5 minutos, 6:00 am, 7:00 am hasta las 10:00 am. Los horarios de salida de los buses en las horas de la tarde se confirman en el transcurso de la mañana ya que se programan dependiendo del flujo de pasajeros que viajen.
-* __Duración de este trayecto es:__ 6 horas.
+* __Duración de este trayecto es:__ 6 horas aproximadamente.
 * __Télefono de empresa de transporte:__  <a href="tel:3212144328">
 3212144328 </a>
 
 ### DESDE IBAGUÉ:
 * __Valor del pasaje es aproximadamente:__ $27.000 pesos por persona.
 * __Horarios de salida son:__ Los buses con destino a Prado, Tolima desde Ibagué salen a partir de las 4:30 am con una frecuencia de salida de 1 hora 5:30 ma, 6:30 am, 7:30 am hasta las 5:00 pm.
-* __Duración de este trayecto:__ El viaje tiene una duración aproximada de 3 horas.
+* __Duración de este trayecto:__ 2 horas aproximadamente.
 * __Telefono de empresa de transporte:__  <a href="tel:3202260200">
 3202260200</a>
 <a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
@@ -99,9 +103,11 @@ A continuación te compartiremos un mapa donde podrás ver los lugares emblemát
 
 ### REPRESA DE PRADO  🚕
 
-Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Una vez llegamos allí, nos encontramos con los 🅿️ __servicios de parqueadero de:__ motos que tiene un valor de $6000 COP mil pesos el día y para los carros, el precio es de $11000 COP. 
+Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Una vez llegamos allí, nos encontramos con los 🅿️ __servicios de parqueadero de:__ 
+* Motos: tiene un valor de $6.000 pesos el día.
+* Carros: tiene un valor de $11.000 pesos el día. 
 
-Si no cuentas con transporte no hay problema 😎, podrás encontrar motocarros que te cobrarán aproximadamente $8.000 COP  por trayecto. Para abordar un motocarro, solo tendrás que ir a un costado del parque principal.
+Si no cuentas con transporte no hay problema 😎, podrás encontrar motocarros que te cobrarán aproximadamente $8.000 pesos  por trayecto. Para abordar un motocarro, solo tendrás que ir a un costado del parque principal.
 
 Una vez llegamos a la represa nos ofrecieron varios tours, __te queremos hacer la siguiente recomendación__ _muchas agencia brindan un tour el cual no es completo__, y es una lástima, ya que esta represa tiene lugares muy hermosos, así que asegurate de ir con agencias que sí realicen este tour por completo.
 
@@ -138,20 +144,20 @@ Aquí te mostraremos los diferentes tours que podrás realizar.
 * __Lugares que visitan:__ muro de Contención, compuertas, boqueron de tena, isla de cuba parada con caminata natural, criadero de mojarra roja, isla del sol, y por último, el hotel donde puedes almorzar y tomar un baño en la piscina.
 * __Duración:__ 4 horas aproximadamente
 * __Incluye:__ almuerzo, piscina natural,seguro médico, guía y transporte fluvial.
-* __Valor del tour:__ $55.000 COP por persona.
+* __Valor del tour:__ $55.000 pesos por persona.
 
 ### TOUR PASADIA COMPLETO
 
 * __Lugares que visitan:__ Muro de contención, Compuertas, Boqueron de tena, laguna encantada (pueden bañar), cueva del mohán, cueva del ángel, la Roca (mejor cabaña represa), islas de: Morgan, de cuba, del sol y por último hotel donde podrán almorzar y tomar un baño en la piscina.
 * __Duración:__ 6 horas aproximadamente
 * __Incluye:__ almuerzo, piscina natural,seguro médico, guía y transporte fluvial.
-* __Valor del tour:__ $85.0000 COP por persona.
+* __Valor del tour:__ $85.0000 pesos por persona.
 
 ### TOUR 2 DÍAS Y 1 NOCHE
 
 * __Lugares que visitan:__  Muro de contención, Compuertas, Boqueron de tena, laguna encantada (pueden bañar), cueva del mohán, cueva del ángel, la Roca (mejor cabaña represa), islas de: Morgan, de cuba, del sol y por último hotel donde podrán almorzar y tomar un baño en la piscina.
 * __Incluye:__ 1 noche de hospedaje, cena, desayuno, almuerzo, cena y desayuno, tour completo.
-* __Valor del tour:__ $340.0000 COP por persona.
+* __Valor del tour:__ $340.0000 pesos por persona.
 
 __RECOMENDACIÓN:__ Si vas con un grupo de personas, te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrían coordinar con el guía la hora de inicio del tour.
 

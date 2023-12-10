@@ -14,7 +14,7 @@ trending: true
 
 __El Parque Nacional Natural El Cocuy__ se encuentra ubicado en la zona centro-oriental de Colombia. Tiene un área de 306.000 hectáreas y abarca varios pueblos del departamento de Boyacá, Casanare y Arauca.
 
-👉 **<a href="https://www.randes.co/products/tour-nevado-del-cocuy" style="color:green;" target="_blank"> Clic aquí para conocer el  tour al Nevado del Cocuy 🗻 .</a>**
+**<a href="https://wa.link/c9cpl1" style="color:green;" target="_blank"> Puedes conocer nuestros planes al Nevado del Cocuy 🗻, solo dando clic aquí. 👈 </a>**
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -218,7 +218,7 @@ __NOTA__: Se recomienda llegar a alguno de los municipios  donde están los punt
 
 ¿¿Quizás te estás preguntando cuánto cuesta ingresar al nevado del Cocuy?. Aquí se describirán los valores parte por parte.
 
-* __Valor ingreso al Nevado del Cocuy 🎟:__ Para los turistas colombianos menores de 25 años el valor de acceso es de $24.500 COP, y para los mayores de 25 años el valor es de $41.500 COP. Turistas extranjeros $55.000 Cop.
+* __Valor ingreso al Nevado del Cocuy 🎟:__ Para los turistas colombianos menores de 25 años el valor de acceso es de $24.500 COP, y para los mayores de 25 años el valor es de $45.500 COP. Turistas extranjeros $85.000 Cop.
 
 * __Seguro médico y de rescate ⛑:__ Es completamente obligatorio para ingresar a cualquier Parque Nacional del país, y su valor es de aproximadamente $8.900 COP por día.
 
@@ -232,7 +232,7 @@ Si eres de las personas que quieres reservar todo con tiempo, a continuación te
 
 Es de aclarar que hay 3 senderos los cuales se pueden hacer en la Sierra Nevada, está el sendero; __Ritacuba Blanco, Laguna grande de la Sierra y Pulpito del Diablo__, y cualquiera de los senderos que tomes en el tour, será el único que podrás recorrer ya que no da el tiempo para visitar los otros dos senderos restantes.
 
-### TOUR 3 DÍAS 2 
+### TOUR 3 DÍAS 2 NOCHES
 
 ### DÍA 1 (ACLIMATACIÓN)
 * 🍳 Desayuno
