@@ -61,7 +61,7 @@ En Norcasia podrás encontrar diferentes tipos de **planes turísticos al embals
 - **3 días y 2 días:** $460.000 Cop
 - **4 días y 3 días:** $780.000 Cop
  
-**Los tours a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida y 🛌 hospedaje.
+**Los tours de 2 días o más a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida y 🛌 hospedaje.
  
 👉 **<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank">  Ver más información del tour a Norcasia y río la Miel </a>.**
 
@@ -73,7 +73,7 @@ En Norcasia podrás encontrar diferentes tipos de **planes turísticos al embals
  
 En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
  
-### CÓMO LLEGAR DESDE MANIZALES A NORCASIA:
+### DESDE MANIZALES A NORCASIA:
  
 - **Coopuertos:** viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de $45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos. **Teléfono: <a href="tel: 3162714173"> 3162714173</a>**
  

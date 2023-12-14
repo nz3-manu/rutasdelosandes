@@ -38,6 +38,14 @@ Empecemos con la aventura ⛰.
 
 Prado fue habitado en el pasado por las tribus indígenas Poinco hasta su descubrimiento por Gonzalo Jimenez de Quesada en 1545. Fundada el 12 de agosto de 1781, recibe el nombre de Aldea de Nuestra Señora del Rosario de Chiquinquirá del Río Prado. El 1 de enero de 1807 se trasladó la aldea al lugar que ocupa en la actualidad, en terrenos cedidos por Cristóbal Valdez Flórez. En la actualidad cuenta con una población de 7.607 personas.
 
+<a href="https://www.randes.co/" target="_blank">
+{% include image.html,
+file:"publicidad-post/sombrero.png",
+caption:"banner-ropa",
+width:"1000",
+height:"300" %}
+</a>
+
 
 __Actividad económica:__  Una de las principales actividades económicas que se llevaban a cabo  en el pasado en Prado, Tolima, era la pesca; sin embargo,pese a que nunca tuvieron producción de peces, esta actividad económica está desapareciendo dentro de la represa. Esto ha causado que muchas de estas familias que dependían de la pesca, tuviesen que buscar otras fuentes de ingresos diferentes cómo: agricultura con cultivos de arroz, maíz, plátano, frutas y piscicultura, además de ganadería, avicultura y el turismo.
 
@@ -103,7 +111,7 @@ A continuación te compartiremos un mapa donde podrás ver los lugares emblemát
 
 ### REPRESA DE PRADO  🚕
 
-Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Una vez llegamos allí, nos encontramos con los 🅿️ __servicios de parqueadero de:__ 
+Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Una vez llegamos allí, nos encontramos con los __servicios de parqueadero:__ 
 * Motos: tiene un valor de $6.000 pesos el día.
 * Carros: tiene un valor de $11.000 pesos el día. 
 
