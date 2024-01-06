@@ -16,7 +16,7 @@ trending: true
 # NEVADO DEL COCUY
 
 
-En este post queremos contarte los inconvenientes que tuvimos al visitar este lugar, que por poco hacen que perdamos el viaje Guican, queremos que tu viaje sea lo mejor posible, y que puedas aprender de nuestra experiencia, en medio de la historia te daremos algunas recomendaciones.
+En este post,queremos compartir las molestias que tuvimos durante nuestra visita al Nevado del Cocuy, debido a que casi nos hacen perder nuestro viaje al Guican. Es por eso que queremos que tu viaje sea lo más cómodamente posible, y que puedas aprender de nuestra experiencia, a mitad de la historia, te daremos algunas recomendaciones.
 
 
 **<a href="https://www.randes.co/products/tour-nevado-del-cocuy" style="color:green;" target="_blank"> Si quieres evitar inconvenientes he ir con una agencia de viajes 🗻, clic aquí. 👈 </a>**
@@ -73,14 +73,12 @@ height:"200"
 
 
 
-En el interior del parque está la __Sierra Nevada del Cocuy__ 🗻, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 m, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que es la mayor masa de nieve en América del Sur.
+En el interior del parque natural del Cocuy, se encuentra la __Sierra Nevada del Cocuy__ 🗻, una formación montañosa con una longitud de unos 30 kilómetros. Los picos más altos son el Ritacuba Blanco, con 5330 metros, y el Ritacuba Negro, con 5300 m. También tiene 18 picos de nieve y numerosos lagos y cascadas. La Sierra Nevada del Cocuy también tiene el glaciar más grande del país, que es la mayor masa de nieve en América del Sur.
 
 
 
 
-Finalmente, en el extremo nororiental del parque, hay comunidades de la etnia U'wa, cuyas tradiciones siguen prácticamente intactas. Además, cabe señalar que el parque tiene todos los ecosistemas presentes en el país y una abundante fauna y flora.
-
-
+En el extremo nororiental del parque, hay comunidades de la etnia U'wa, cuyas tradiciones siguen prácticamente intactas. Además, cabe señalar que el parque tiene una gran variedad de ecosistemas que se encuentran presentes en el país y una abundante fauna y flora.
 
 
 {% include image.html,
@@ -112,12 +110,12 @@ height:"533"
 
 
 
-Tomamos un bus el cual sale directamente desde Bogotá o Tunja, acontinuación te mostraremos 2 opciones:
+Tomamos un bus el cual sale directamente desde Bogotá o Tunja. A continuación, te  mostraremos 2 opciones:
 
 
 
 
-* __Desde Bogota a Güicán Boyacá:__ La única empresa que presta este servicio se llama Expreso Paz del Río. Los horarios de salida son: 6:00 am, 2:00 pm, 6:00 pm, 8:00 pm, la duración del trayecto es de aproximadamente 11 horas. El precio del pasaje está alrededor de $100.000 Cop (Trayecto).
+* __Desde Bogota a Güicán Boyacá:__ La única empresa que presta este servicio, se llama Expreso Paz del Río. Los horarios de salida son: 6:00 am, 2:00 pm, 6:00 pm, 8:00 pm, la duración del trayecto es de aproximadamente 11 horas. El precio del pasaje está alrededor de $100.000 COP por persona (Trayecto).
 
 
 
@@ -127,7 +125,7 @@ Tomamos un bus el cual sale directamente desde Bogotá o Tunja, acontinuación t
 
 
 
-* __Desde Tunja a Güicán Boyacá:__ Puedes consultar con las siguientes empresas; Gacela y libertadores, ya que se intercalan ambas empresas, es decir, un día va una empresa de buses y al otro día va otra empresa. Los horarios que manejan son los siguientes: 9:00 am, 5:00 pm, 9:00 pm, 11:00 pm, la duración del trayecto es de aproximadamente 9 horas. El precio del pasaje es de $70.000 Cop (Trayecto).
+* __Desde Tunja a Güicán Boyacá:__ Puedes consultar con las siguientes empresas; Gacela y Libertadores, ya que se intercalan ambas compañías de buses; es decir, un día va una empresa de buses y al otro día va otra empresa. Los horarios que manejan son los siguientes: 9:00 am, 5:00 pm, 9:00 pm, 11:00 pm. La duración del trayecto es de aproximadamente 9 horas. El precio del pasaje es de $70.000 Cop (Trayecto).
 
 
 
@@ -147,7 +145,7 @@ Tomamos un bus el cual sale directamente desde Bogotá o Tunja, acontinuación t
 
 
 
-Una vez en Güicán nos dirigimos al hotel, algo curioso es que el hotel nos estaba ofreciendo paquetes turísticos, pero como ya íbamos con un guía que habíamos contactado con anterioridad, les dijimos a los del hotel que no necesitamos de ese servicio.
+Una vez en el Güicán, nos dirigimos hacia el hotel, algo curioso fue que el hotel nos estaba ofreciendo paquetes turísticos, pero como ya íbamos con un guía que habíamos contactado con anterioridad,les dijimos a los dueños del hotel que no necesitábamos el servicio de guía turística.
 
 
 
@@ -157,12 +155,12 @@ Una vez en Güicán nos dirigimos al hotel, algo curioso es que el hotel nos est
 
 
 
-Al siguiente día, a las 4:30 am, empezamos el camino para el Púlpito del Diablo, para nuestra sorpresa el guía no llegó y mandó un reemplazo, además de esto el carro en el que íbamos a realizar el tour no estaba en muy buenas condiciones y era algo peligroso, no habiendo más continuamos el camino en este carro.
+Al día siguiente, a las 4:30 am iniciamos el viaje al Púlpito del Diablo, y para nuestra sorpresa, el guía no llegó y envió un reemplazo. Además de eso, el coche en el que íbamos a hacer el recorrido no estaba en buenas condiciones y era un poco peligroso. Con todos los contratiempos antes mencionados, seguimos nuestro viaje en el vehículo que nos enviaron.
 
 
 
 
-Al llegar a la entrada del parque comenzamos el ascenso, el cual fue difícil, en el trayecto esperábamos interpretación ambiental por parte del guía, ya que solo caminamos y caminamos hasta llegar al púlpito, donde nos quedamos por un momento mientras almorzábamos, para continuar con el descenso.
+Cuando llegamos a la entrada del parque, comenzamos el ascenso, que fue difícil ya que el guía no tenía ni idea de las interpretaciones ambientales de la zona. Solo caminamos y caminamos hasta llegar al púlpito, donde nos quedamos un rato mientras almorzamos, para continuar el descenso.
 
 
 
@@ -177,7 +175,7 @@ El Pulpito del Diablo se caracteriza por ser una gigante roca con una altura de 
 
 
 
-__Distancia del sendero:__ 17 kilometros ida y vuelta.
+__Distancia del sendero:__ 17 kilómetros ida y vuelta.
 
 
 
@@ -186,7 +184,7 @@ __Distancia del sendero:__ 17 kilometros ida y vuelta.
 file:"rutas/boyaca/nevado-cocuy/pulpito-diablo.jpeg",
 caption:"Foto: Pulpito del Diablo en Sierra Nevada del Cocuy",
 width:"864",
-height:"1296"
+height:"1296"2
 %}
 
 
@@ -201,17 +199,20 @@ height:"1296"
 
 
 
-Al llegar al hotel nos encontramos con el administrador, el cual nos preguntó como nos había ido en el recorrido, les contamos todo lo sucedido; que el guía no había podido ir y envió alguien que no era guía y que el carro no estaba en óptimas condiciones, el administrador del hotel nos ofreció buscarnos un nuevo guía y un carro, el administrador del hotel nos dijo que para hacer este cambio Solo necesitabamos el registro que se habia hecho en parque nacionales para el siguiente serndero.
+Al llegar al hotel nos encontramos con el administrador, quien nos preguntó cómo nos había ido en el recorrido, le contamos todo lo sucedido; que el guía no había podido ir y envió alguien que no era guía certificado de la zona, el carro no estaba en óptimas condiciones, por lo que el administrador del hotel nos ofreció buscar un nuevo guía y un carro.
+
+
+Además, el administrador del hotel nos dijo que para hacer este cambio solo necesitábamos el registro que se había hecho en parques nacionales para el siguiente sendero.
 
 
 
 
-__NOTA:__ cada sendero tiene una capacidad de carga, así que se debe de hacer un registro para separar su cupo, cada registro va con las personas que vana a ir y con un guia local, importante esta parte ya que si no les pasara lo que nos paso a nosotros.
+__NOTA:__ Cada sendero tiene una capacidad de carga, así que se debe de hacer un registro para separar los cupos (limitados) por recorrido; cada registro va con las personas que van a ir y con un guia local. Esto es supremamente importante ya que pueden pasarles lo que nos pasó a nosotros.
 
 
 
 
-Así que llamamos al guía con el que habíamos contratado anteriormente la guianza le explicamos lo sucedido de porque no queríamos hacer el siguiente sendero con él, le pedimos que nos envía la documentación del registro del sendero que ya habíamos separado, pero nunca no lo envió, le contamos al administrador del hotel y nos dijo que no abria problema que con el registro anterior se podía ingresar, así que siendo así continuamos con el siguiente sendero.
+Así que llamamos al guía que habíamos contratado anteriormente para explicarle todo lo sucedido porque no queríamos hacer el siguiente sendero con él. le pedimos que nos enviara la documentación del registro del sendero que ya habíamos separado; sin embargo, nunca recibimos dicha documentación, le contamos al administrador del hotel y nos dijo que no habría problema que con el registro anterior se podía ingresar,siendo así, continuamos nuestro recorrido hacia el siguiente sendero.
 
 
 
@@ -221,17 +222,15 @@ Así que llamamos al guía con el que habíamos contratado anteriormente la guia
 
 
 
-Al día siguiente nos levantamos a las 6:00 am, el nuevo carro y el guía nos estaba esperando afuera del hotel, el camino estuvo muy bien, llegamos a las 6:30 a la entrada del parque.
+Al día siguiente nos levantamos a las 6:00 am, el carro nuevo y el guía nos estaba esperando afuera del hotel. Antes de iniciar el recorrido, nos aseguramos de que el carro estuviera en óptimas condiciones, y efectivamente, estaba en perfecto estado. Fue así como empezamos nuestro viaje hacia el parque natural al cual llegamos a las 6:30 am.
+
+
+Para sorpresa de todos nosotros, no nos permitieron el ingreso 😨, los funcionarios del parque nos dijeron que el guía del registro era diferente con el que estábamos. Así que, el guía tenía que enviarnos una autorización para hacer el cambio del guía.
 
 
 
 
-Para nuestra sorpresa no nos permitieron el ingreso 😨, los funcionarios del parque nos dijeron que el guia del registro era diferente con el que estabamos, así que  el guía tenía que enviarnos una autorización para hacer el cambio del guía.
-
-
-
-
-Así que llamamos de nuevo al guía, estuvimos llamando y enviándole mensajes, pero no nos contestaba, por fortuna el sendero aun contaba con disponibilidad así que tuvimos que esperar hasta las 8 am para hacer un nuevo registro o de lo contrarió no hubiéramos podido entrar.
+Entonces, llamamos de nuevo al guía que habíamos contratado, le enviamos mensajes de texto, pero no nos contestaba; por fortuna el sendero aún contaba con disponibilidad así que tuvimos que esperar hasta las 8 am para hacer un nuevo registro o de lo contrarió no hubiéramos podido entrar.
 
 
 
@@ -245,16 +244,7 @@ Después de hablar con los funcionarios del parque, nos comentaron que era comú
 
 
 
-Nota: Debes de saber si vas a hacer cambio de guía que se debe de pedir una autorización puede ser escrita, por parte del guía que está el registro y llevarla a la oficina principal de parque nacionales 1 día antes, menos mal este sendero lo íbamos a empezar a las 6:30 am solo tuvimos que esperara a hasta las 8 que abrian los oficinas, si hubiera sido el del púlpito no hubiéramos podido hacerlo.
-
-
-
-
-
-
-
-
-Después de muchos inconvenientes y papeleos, empezamos a lo que íbamos a caminar-
+__NOTA:__  Debes de saber que, si vas a hacer cambio de guía, se debe de pedir una autorización por escrito por parte del guía que está en el registro y llevarla a la oficina principal de parque nacionales un día antes. Menos mal,este sendero lo íbamos a empezar a las 6:30 am,tan solo tuvimos que esperar hasta las 8:00 AM que abrieran las oficinas. Si hubiera sido en la ruta del del púlpito, no hubiéramos podido acceder. Después de muchos inconvenientes y papeleos, retomamos con nuestro recorrido.
 
 
 
@@ -264,12 +254,12 @@ Después de muchos inconvenientes y papeleos, empezamos a lo que íbamos a camin
 
 
 
-Es la mayor masa glacial de Colombia conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 kilometros de ancho. Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
+Es la mayor masa glacial de Colombia, conformada por más de 25 picos cubiertos de hielo y nieve, en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud por 4 kilómetros de ancho. Es la punta más alta del nevado y por ende el __pico más alto de la Cordillera Oriental__, parte de la Cordillera de los Andes, en Colombia, solo superado en este país por los picos gemelos de la Sierra Nevada de Santa Marta. Está a 5.330 metros de altura.
 
 
 
 
-__Distancia del sendero:__ 14 kilometros ida y vuelta.
+__Distancia del sendero:__ 14 kilómetros ida y vuelta.
 
 
 
@@ -292,7 +282,7 @@ height:"562"
 
 
 
-Por razones de tiempo no pudimos visitar el último sendero que se puede realizar, pero aquí contaremos un poco se este
+Por razones de tiempo no pudimos visitar el último sendero que se puede realizar, pero aquí contaremos un poco se este imponente lugar.
 
 
 
@@ -332,12 +322,18 @@ height:"2480"
 
 
 __RECOMENDACIONES:__
-Si vas a contratar guías locales, debes de tener en cuenta las recomendaciones que dimos anteriormente, para que no termines teniendo una mala experiencia de no poder realizar algún sendero.
 
 
 
 
-Si quieres despreocuparse y tener la seguridad de que te puedan responder por el dinero o por cualquier inconveniente puedes contratar un tour de una agencia, la cual cuenta con hotel de ellos, agencia de viajes (guías calificados) y transporte garantizado.
+
+
+* Si vas a contratar guías locales, debes de tener en cuenta las recomendaciones que dimos anteriormente, para que no termines teniendo una mala experiencia de no poder realizar algún sendero.
+
+
+
+
+* Si quieres despreocuparte y tener la seguridad de que te puedan responder por el dinero o por cualquier inconveniente puedes contratar un tour de una agencia, la cual cuenta con hotel, agencia de viajes, guías calificados y transporte garantizado.
 
 
 
@@ -356,7 +352,7 @@ Si quieres despreocuparse y tener la seguridad de que te puedan responder por el
 
 
 
-Es de aclarar que hay 3 senderos los cuales se pueden hacer en la Sierra Nevada, está el sendero; __Ritacuba Blanco, Laguna grande de la Sierra y Pulpito del Diablo__, y cualquiera de los senderos que tomes en el tour, será el único que podrás recorrer ya que no da el tiempo para visitar los otros dos senderos restantes.
+Es de aclarar que hay 3 senderos los cuales se pueden hacer en la Sierra Nevada. Están __El Sendero a Ritacuba Blanco, Laguna Grande de la Sierra y Pulpito del Diablo__, y cualquiera de los senderos que tomes en el tour, será el único que podrás recorrer ya que el tiempo es poco para visitar los otros dos senderos restantes.
 
 
 
@@ -416,7 +412,7 @@ Si quieres ir con una excursión grupal puedes dejarnos tus datos y una vez comp
 
 
 
-Es muy importante ir bien preparado, pues las condiciones climáticas pueden variar rápidamente; ya que los ecosistemas que se visitarán se caracterizan por presentar temperaturas altas, temperaturas bajas, sol, lluvias, y rafagas de viento extremadamente fuertes. Por tanto, es indispensable contar con los implementos o la indumentaria básica personal como:
+Es muy importante ir bien preparado, pues las condiciones climáticas pueden variar rápidamente; ya que los ecosistemas que se visitarán, se caracterizan por presentar temperaturas altas, temperaturas bajas, sol, lluvias, y rafagas de viento extremadamente fuertes. Por tanto, es indispensable contar con los implementos o la indumentaria básica personal como:
 
 
 
@@ -450,6 +446,8 @@ Algunas de estas prendas las podrás adquirir en nuestra tienda en línea de mon
 
 
 * Si vas a contratar un, Guia local, debes asegurarte que sea alguien confiable y que les dé garantía por si presentara algún inconveniente, puede solucionarlo, al igual que el transporte.
+
+
 * Asegúrate que te envíen las planillas con los senderos que van a realizar, al igual que los seguros médicos.
 
 
