@@ -10,15 +10,33 @@ author: manuel
 trending: true
 ---
 
+
+
+
 # TERMALES DE LA CABAÑA
 
-Los Termales de la Cabaña se encuentran localizados en el municipio Murillo Tolima, en el área perteneciente al Parque de los Nevados, que comparte los departamentos de Quindío, Risaralda, Caldas y Tolima.
 
-👉 <a href="https://wa.link/owbmoc" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a>
+
+
+Aquí te mostraremos lo que necesitas saber para ir a los termales de la cabaña, debes tener en cuenta que __este lugar tiene una capacidad máxima de visitantes por días__, además de esto ellos cierran este lugar 2 días a la semana, así que si es temporada alta te aconsejamos hacer la reserva con mínimo 1 mes de anticipación.
+
+
+
+
+👉 <a href="https://www.randes.co/collections/tour-termales-de-la-cabana" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a>
+
+
+
 
 Entre los atractivos principales de este lugar están sus aguas termales, rodeadas de un paisaje de páramo y frailejones con colores muy particulares 🌈, lo que lo convierte en uno de los lugares únicos en Colombia.
 
+
+
+
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
+
+
+
 
 - <a href="#dato-termales-cabaña">Datos curiosos de Termales La Cabaña y Murillo</a>
 - <a href="#video-termales-cabaña">Vídeo de Termales La Cabaña</a>
@@ -26,23 +44,53 @@ Entre los atractivos principales de este lugar están sus aguas termales, rodead
 - <a href="#llegar-termales-cabaña">¿Cómo llegar a los Termales de La Cabaña?</a>
 - <a href="#recomendaciones-termales-cabaña">Recomendaciones finales para visitar los Termales La Cabaña</a>
 
+
+
+
 Empecemos con la aventura ⛰.
+
+
+
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/https://www.hikingintheandes.com/amp/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
 
+
+
+
 <a name="dato-termales-cabaña" id="dato-termales-cabaña"></a>
+
+
+
 
 ## DATO CURIOSO DE LOS TERMALES LA CABAÑA Y MURILLO
 
+
+
+
 Murillo fue fundada en 1872 por Ramón María Arana. La economía de Murillo se basa en la ganadería, la agricultura y el turismo. La iglesia de Murillo fue construida por personas de la comunidad en el año 1925, con ayuda del ciudadano alemán Don Rodolfo Hartman, quien llegó al pueblo desde su fundación. En el año 1926, los habitantes de Manizales le dieron el reloj que actualmente está en la iglesia. ⛪
+
+
+
 
 Los Termales de La Cabaña llevan ese nombre porque se encuentran en la vereda Cabaña. Son únicos en Colombia debido a sus aguas termales de colores que varían desde el azul hasta el verde más profundo, gracias a los minerales que se encuentran en la montaña. 🏞️
 
+
+
+
 <a name="video-termales-cabaña" id="video-termales-cabaña"></a>
+
+
+
 
 ## VIDEO DE LA RUTA A LOS TERMALES LA CABAÑA
 
+
+
+
 A continuación te mostramos un pequeño video de los Termales de La Cabaña.
+
+
+
 
 {% include youtube.html
 videoid:"eX0pKmjupYI",
@@ -51,57 +99,65 @@ height:"270",
 Caption:"Videos de Termales La Cabaña"
 %}
 
+
+
+
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>.
+
+
+
 
 <a name="tour-termales-cabaña" id="tour-termales-cabaña"></a>
 
+
+
+
 ## TOUR A LOS TERMALES DE LA CABAÑA ♨️ 🧳
+
 
 ❗ Ten en cuenta que **Para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva previa y vas acompañado por un guía.**
 
-_Anteriormente, el acceso a esta zona era libre, pero las personas que visitaban estos lugares no los cuidaban y dejaban mucha basura en los senderos. Los campesinos lograron recolectar bultos de basura en tan solo unas pocas semanas._
+Para hacer reserva lo puedes hacerlo directamente con la agencia de guías locales que están encargados del turismo en este lugar, el valor del paquete que ellos ofrecen es de alrededor $90.000 Pesos por persona, incluye; ingreso al sendero, seguro de asistencia médica y guianza tú tendrás que llegar hasta el punto de encuentro.
+ 
+### TOURS DISPONIBLES EN MURILLO 
 
-### TOUR DESDE PEREIRA O MANIZALES
 
-Algunas agencias del Eje Cafetero venden el tour saliendo desde Pereira, Manizales o Santa Rosa. El costo por persona es de alrededor de $530.000 pesos, válido para grupos de más de 4 personas.
+Este es el punto más cercano al cual podrás llegar para hacer este recorrido, algunas agencias, venden tours.
 
-**EL VALOR DEL TOUR INCLUYE:**
 
-- 🚙 Transporte desde Pereira o Manizales
-- 🛌 Hospedaje
-- 🍛 Alimentación
-- 👨 Guía
-- 🫶 Seguro de asistencia médica
-- 🎟️ Ingreso a: Termales del Sifón y Termales de La Cabaña
+* __Tour Pasadía incluye:__ desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+* __Tour 2 días y 1 noche incluye:__ 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
 
-👉 <a href="https://www.randes.co/products/termales-la-cabana-2-dias-1-noche" target="_blank" style="color:green;">Puedes ver información completa de este tour desde Pereira, dando clic aquí</a>
+👉  Aquí podrás ver toda la información disponible para los termales de la Cabaña  desde Murillo Tolima ♨️
+<a target="_blank" href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-murillo">aquí</a>.
 
-### TOUR DESDE MURILLO
 
-Desde Murillo a los Termales de La Cabaña, el tour cuesta alrededor de $220.000 pesos por persona. Este precio es válido para grupos de más de 4 personas.
+### TOURS DISPONIBLES DESDE PEREIRA O MANIZALES
 
-**EL VALOR DEL TOUR INCLUYE:**
+* __Tour Pasadía incluye:__ Transporte desde Pereira o Manizales, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+* __Tour 2 días y 1 noche incluye:__ Transporte desde Pereira o Manizales, 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
 
-- 🚙 Transporte desde Murillo
-- 🛌 Hospedaje
-- 🍛 Alimentación
-- 👨 Guía
-- 🫶 Seguro de asistencia médica
-- 🎟️ Ingreso a: Termales de La Cabaña
 
-👉 <a href="https://www.randes.co/products/termales-la-cabana-desde-murillo" target="_blank" style="color:green;">Puedes ver información completa de este tour desde murillo, dando clic aquí</a>
+👉  Aquí podrás ver toda la información disponible a los termales de la cabaña desde Pereira
+♨️ <a target="_blank" href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-pereira-o-manizales">aquí</a>.
+
 
 
 ## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
 
-Para llegar a los Termales de La Cabaña, lo primero que hicimos fue llegar a __Murillo-Tolima.__ Aquí te mostraremos cómo fue la experiencia del tour que tomamos desde Pereira. 😊
+__DESDE MANIZALES:__ Puedes tomar un bus de la empresa Rapido Tolima, el cual sale todos los días a las 7:00 am y 1:00 pm, el valor del pasajes es de aproximadamente $40.000 pesos, la duración del trayecto es de alrededor 3 horas.
 
-Los paisajes que vimos nos dejaron atónitos; eran paisajes de montañas, páramos y al fondo el Nevado del Ruiz, una experiencia mágica. Desde Manizales a Murillo son aproximadamente 83 kilómetros, un trayecto de 3 a 4 horas en carro.
+__DESDE BOGOTA:__  Puedes tomar un bus desde Bogota al Libano, el cual sale del terminal del sur apartir de las 4:30 am cada hora y medía y vale $70.000 pesos aproximadamente y el trayecto dura 5 horas la empresa es Rapido tolima,
 
-En nuestro camino pudimos apreciar los siguientes paisajes:
+
+Si viajas desde Manizales verás los siguientes Paisajes, es de aclarar que si vas en bus no se detendrán a ver estos lugares:
+
 
 
 ### LAGUNA NEGRA
+
+
+
 
 Esta es una majestuosa laguna de origen glaciar muy cerca del Nevado del Ruiz. Es un lugar de descanso para especies migratorias como aves y patos silvestres.
 
@@ -112,20 +168,7 @@ width:"1078",
 height:"717"
 %}
 
-### TERMALES DEL SIFÓN
-
-Los Termales del Sifón son aguas termales de color turquesa que se encuentran ubicadas dentro del Parque Natural Los Nevados, cerca del Nevado del Ruiz.
-
-Para ingresar tuvimos que pagar el ingreso.
-
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/termales-del-sifon.jpg",
-caption:"Foto: Termales del Sifón",
-width:"1000",
-height:"563"
-%}
-
-### VISTA DEL NEVADO DEL RUIZ 
+### VISTA DEL NEVADO DEL RUIZ
 
 Como estaba haciendo un hermoso día, pudimos apreciar una vista impresionante del Nevado del Ruiz en medio de los frailejones. Es una vista que muchos consideran mágica.
 
@@ -136,10 +179,10 @@ width:"1000",
 height:"667"
 %}
 
-__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado. 
+__Recomendación:__ Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado.
 
 
-### LAGUNA LA LLORONA 
+### LAGUNA LA LLORONA
 
 Su nombre se debe, según algunos campesinos, a que está encantada y sienten presencia de personas. Otros aseguran que les han arrojado rocas e incluso han escuchado gritos al pasar por allí.
 
@@ -154,14 +197,20 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CIx8q2qn
 
 Algunos campesinos cuentan que durante la época de guerra entre liberales y conservadores, el asesino conocido como Sangrenegra arrojaba los cuerpos en esta laguna. Para aquellos que no conocen a Sangrenegra, cuyo verdadero nombre era Jacinto Cruz, fue un sanguinario asesino que operaba en las décadas de los 50 y 60 durante los enfrentamientos entre liberales y conservadores. Él fue responsable de un brutal método de tortura y asesinato conocido como 'corbata colombiana' o 'corte de franela'. Se le atribuyen más de 377 homicidios.
 
+
 Después de pasar esta laguna, estarás a 30 o 40 minutos de llegar a Murillo, Tolima. 🌄
+
 
 ## HOSPEDAJE EN MURILLO TOLIMA 🛌
 
+
+
 Murillo es un pueblo pequeño, pero cuenta con buenas ofertas  de hospedajes como: hostales, hoteles o cabañas. Aquí te mencionaremos algunas opciones que puedes contemplar.
 
+
+
 - Casa Frailejon (Hostal): es un lugar comodo en el cual podran guardar motos.
-- Hostal Montañas Colombianas: 
+- Hostal Montañas Colombianas:
 - Hotel Cafetero
 
 <a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
@@ -179,9 +228,16 @@ height:"200"
 
 Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 30 minutos llegar a la entrada de los Termales. Allí nos dieron una pequeña charla sobre el recorrido que íbamos a hacer y nos prestaron bastones de senderismo. Además, nos colocaron una pulsera, sin la cual no podríamos ingresar a los Termales de La Cabaña 🏞️.
 
-__Recomendación:__ El recorrido es exigente, ya que subiremos hasta los 4.100 m.s.n.m, donde se encuentra la Laguna Corazón. En total, el recorrido dura aproximadamente 8 horas.
+{% include iframe.html,
+type:"custom",
+mid:"1oeY_dALrXJK6TIDVEmP6J73zRSIz3y4&hl=en&ehbc=2E312F",
+caption:"Ruta termales de la Cabaña"
+%}
 
-### LAGUNA CORAZÓN 
+
+__Información Técnica de la Ruta:__ Distancia 9,5 kilómetros, altitud máximas 3,970 m.s.n.m, altitud mínima 3,580 m.s.n.m, tiempo promedio de la ruta 8 horas.
+
+### LAGUNA CORAZÓN
 
 Desde donde nos dejó el transporte, comenzamos un duro ascenso por un bosque. Después, pasamos por fincas de ganado y continuamos para admirar los frailejones durante cerca de 4 horas, hasta llegar a la Laguna Corazón, que se encuentra a 4.100 m.s.n.m. 🏞️⛰️
 
@@ -192,7 +248,7 @@ width:"1000",
 height:"750"
 %}
 
-### VALLE DE ESPONJAS 
+### VALLE DE ESPONJAS
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
@@ -203,7 +259,7 @@ width:"1000",
 height:"750"
 %}
 
-### VISITA CASCADA DE LOS 7 COLORES 
+### VISITA CASCADA DE LOS 7 COLORES
 
 Un poco después de ver el Valle de Esponjas, continuamos caminando por cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores.
 
@@ -214,7 +270,7 @@ width:"1000",
 height:"750"
 %}
 
-### TERMALES LA CABAÑA 
+### TERMALES LA CABAÑA
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
@@ -231,12 +287,26 @@ Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro t
 
 ### RECOMENDACIONES FINALES PARA VISITAR LOS TERMALES LA CABAÑA
 
-- Debes hacer la reserva previa, ya que este lugar tiene una capacidad de carga de visitantes por día. Vimos algunos comentarios en internet de personas que intentaron ir por su cuenta y no les permitieron el ingreso.
+
+- Debes hacer la reserva previa, ya que __este lugar tiene una capacidad de carga de visitantes por día__. Vimos algunos comentarios en internet de personas que intentaron ir por su cuenta y no les permitieron el ingreso.
 
 - Los Termales de La Cabaña cierran dos dias a la semana para permitir el descanso del páramo.
 
 - Si no tienes transporte público y planeas viajar en autobús, ten en cuenta que los buses solo tienen unos horarios específicos.
 
-- Recuerda llevar: protector solar, chapstick, chaquetas rompevientos, buzos polares, guantes y un sombrero que te proteja del sol. Estas prendas las puedes encontrar en nuestra tienda en línea.
+- __Recuerda llevar:__ protector solar, chapstick, chaquetas rompevientos, buzos polares, guantes y un sombrero que te proteja del sol. Estas prendas las puedes encontrar en nuestra tienda en línea.
 
 Este es el fin de la ruta a los Termales de La Cabaña. **No te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+
+
+
+
+
+
+
+
+
+
+
+
+

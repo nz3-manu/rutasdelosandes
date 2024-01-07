@@ -172,6 +172,7 @@ __Advertencia:__ Antes de llegar a la represa, tendrán que pasar por un túnel 
 
 
 En el Mapa puedes ver: restaurantes, heladerías, y el lugar donde se toman los motocarros, ruta desde el pueblo de prado hasta la represa, y lugares que se visitan dentro de la represa.
+
 {% include iframe.html,
 type:"custom",
 mid:"1_fQsCcXD6OC7QeMCPw9eR-zs5S5Nesk&hl=es",
