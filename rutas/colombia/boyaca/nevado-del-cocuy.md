@@ -2,8 +2,8 @@
 layout: trail
 title: Nevado del Cocuy
 categories: colombia
-aseo_title: Nevado del Cocuy, Tour e información | Actualizada 2023
-excerpt: Explora la belleza natural del Nevado del Cocuy. Información sobre cómo llegar, clima, rutas de senderismo y más. ¡Prepárate para una aventura inolvidable en este paraíso montañoso!
+aseo_title: Nevado del Cocuy, Tour e información | Actualizada 2024
+excerpt: Explora la belleza natural del Nevado del Cocuy, Información sobre cómo llegar, clima, rutas de senderismo y más ¡Prepárate para una aventura inolvidable en este paraíso montañoso!
 images_url: /images/rutas/boyaca/nevado-cocuy
 viewranger: MTY2NDcwMQ==
 author: manuel
@@ -135,29 +135,26 @@ Tomamos un bus el cual sale directamente desde Bogotá o Tunja. A continuación,
 
 
 
-### PUEBLO DE GÜICÁN
+### SENDEROS EN EL NEVADO DEL COCUY
+
+A continuación te mostramos los 3 senderos habilitados que podrás hacer en el Nevado de Coucy, cada sendero para realizarlo te llevará 1 día.
+
+{% include iframe.html,
+type:"custom",
+mid:"1kufppdY62YJO8T1r1II3B--pM04TVJc&hl=en&ehbc=2E312F",
+caption:"Senderos disponibles en el nevado el cocuy"
+%}
 
 
 
 
-# DÍA 1
-
-
-
+### DÍA 1
 
 Una vez en el Güicán, nos dirigimos hacia el hotel, algo curioso fue que el hotel nos estaba ofreciendo paquetes turísticos, pero como ya íbamos con un guía que habíamos contactado con anterioridad,les dijimos a los dueños del hotel que no necesitábamos el servicio de guía turística.
 
-
-
-
-# DÍA 2 (PULPITO DEL DIABLO)
-
-
-
+### DÍA 2 (PULPITO DEL DIABLO)
 
 Al día siguiente, a las 4:30 am iniciamos el viaje al Púlpito del Diablo, y para nuestra sorpresa, el guía no llegó y envió un reemplazo. Además de eso, el coche en el que íbamos a hacer el recorrido no estaba en buenas condiciones y era un poco peligroso. Con todos los contratiempos antes mencionados, seguimos nuestro viaje en el vehículo que nos enviaron.
-
-
 
 
 Cuando llegamos a la entrada del parque, comenzamos el ascenso, que fue difícil ya que el guía no tenía ni idea de las interpretaciones ambientales de la zona. Solo caminamos y caminamos hasta llegar al púlpito, donde nos quedamos un rato mientras almorzamos, para continuar el descenso.
@@ -165,19 +162,13 @@ Cuando llegamos a la entrada del parque, comenzamos el ascenso, que fue difícil
 
 
 
-### DATO CURIOSO PULPITO DEL DIABLO
-
-
+#### DATO CURIOSO PULPITO DEL DIABLO
 
 
 El Pulpito del Diablo se caracteriza por ser una gigante roca con una altura de 70 metros y 150 metros de ancho. Algunas personas de la zona cuentan que su nombre proviene de una antigua leyenda, en la que dice que el diablo se sentaba en esa roca por las noches y empezaba a realizar maldades, provocando deshielos y deslizamientos de roca y nieve en este sector, de ahí los locales le dieron este particular nombre a esta roca __“Pulpito del Diablo”__ 😈.
 
 
-
-
 __Distancia del sendero:__ 17 kilómetros ida y vuelta.
-
-
 
 
 {% include image.html,
@@ -188,15 +179,7 @@ height:"1296"2
 %}
 
 
-
-
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487</a> </span>**
-
-
-
-
-
-
 
 
 Al llegar al hotel nos encontramos con el administrador, quien nos preguntó cómo nos había ido en el recorrido, le contamos todo lo sucedido; que el guía no había podido ir y envió alguien que no era guía certificado de la zona, el carro no estaba en óptimas condiciones, por lo que el administrador del hotel nos ofreció buscar un nuevo guía y un carro.
