@@ -139,6 +139,10 @@ Tomamos un bus el cual sale directamente desde Bogotá o Tunja. A continuación,
 
 A continuación te mostramos los 3 senderos habilitados que podrás hacer en el Nevado de Coucy, cada sendero para realizarlo te llevará 1 día.
 
+* __Sendero Ritacuba Blanco:__ Línea azul (20 kilometros en total)
+* __Sendero Laguna Grande:__ Línea naranja (14 kilometros en total)
+* __Sendero Pulpito del Diablo:__ Línea roja (18 kilometros en total)
+
 {% include iframe.html,
 type:"custom",
 mid:"1kufppdY62YJO8T1r1II3B--pM04TVJc&hl=en&ehbc=2E312F",
@@ -146,11 +150,9 @@ caption:"Senderos disponibles en el nevado el cocuy"
 %}
 
 
-
-
 ### DÍA 1
 
-Una vez en el Güicán, nos dirigimos hacia el hotel, algo curioso fue que el hotel nos estaba ofreciendo paquetes turísticos, pero como ya íbamos con un guía que habíamos contactado con anterioridad,les dijimos a los dueños del hotel que no necesitábamos el servicio de guía turística.
+Una vez en el Güicán, nos dirigimos hacia el hotel, algo curioso fue que el hotel nos estaba ofreciendo paquetes turísticos, pero como ya íbamos con un guía que habíamos contactado con anterioridad, les dijimos a los dueños del hotel que no necesitábamos el servicio de guía turística.
 
 ### DÍA 2 (PULPITO DEL DIABLO)
 
@@ -219,15 +221,11 @@ Entonces, llamamos de nuevo al guía que habíamos contratado, le enviamos mensa
 
 
 
+Menos mal,este sendero lo íbamos a empezar a las 6:30 am,tan solo tuvimos que esperar hasta las 8:00 AM que abrieran las oficinas. Si hubiera sido en la ruta del del púlpito, no hubiéramos podido acceder. Después de muchos inconvenientes y papeleos, retomamos con nuestro recorrido.
 
 
 
-Después de hablar con los funcionarios del parque, nos comentaron que era común que ofrecieran estos cambios de guías a los turistas.
-
-
-
-
-__NOTA:__  Debes de saber que, si vas a hacer cambio de guía, se debe de pedir una autorización por escrito por parte del guía que está en el registro y llevarla a la oficina principal de parque nacionales un día antes. Menos mal,este sendero lo íbamos a empezar a las 6:30 am,tan solo tuvimos que esperar hasta las 8:00 AM que abrieran las oficinas. Si hubiera sido en la ruta del del púlpito, no hubiéramos podido acceder. Después de muchos inconvenientes y papeleos, retomamos con nuestro recorrido.
+__NOTA:__  Debes de saber que, si vas a hacer cambio de guía, se debe de pedir una autorización por escrito por parte del guía que está en el registro y llevarla a la oficina principal de parque nacionales un día antes.
 
 
 

@@ -2,7 +2,7 @@
 layout: trail
 title:  Nevado del Ruiz
 categories: colombia
-seo_title: ▷ Nevado del Ruiz | Guía de viaje 2023
+seo_title: ▷ Nevado del Ruiz | Guía de viaje 2024
 excerpt: Guía completa para visitar el Nevado del Ruiz, descubre donde queda y como llegar y que hacer en el nevado del ruiz
 images_url: /images/rutas/caldas/ruiz
 viewranger: MTY2NDcwMQ==
