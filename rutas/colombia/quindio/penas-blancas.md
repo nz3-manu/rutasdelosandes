@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title: Peñas Blancas
 categories: colombia

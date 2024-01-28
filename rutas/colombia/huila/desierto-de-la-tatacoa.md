@@ -118,6 +118,7 @@ height:"300" %}
 
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
 <a name="senderos-desierto" id="senderos-desierto"></a>
+
 ## SENDEROS EN EL DESIERTO DE LA TATACOA
 Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los hospedajes disponibles.
 {% include iframe.html,
