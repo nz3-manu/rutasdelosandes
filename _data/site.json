@@ -1,0 +1,54 @@
+{
+  "title": "Rutas de los andes | Marca de ropa de senderismo y blog de viaje",
+  "logo": "/images/logo.png",
+  "pwa": "rutas de los andes",
+  "short_name": "rutas",
+  "brand_color": "white",
+  "main_collection": "rutas",
+  "icons": [
+    {
+      "src": "images/launcher-icon-1x.png",
+      "size": "48x48"
+    },
+    {
+      "src": "images/launcher-icon-2x.png",
+      "size": "96x96"
+    },
+    {
+      "src": "images/launcher-icon-4x.png",
+      "size": "192x192"
+    }
+  ],
+  "description": "Rutas de los andes es un pagina con contenido y productos pensado para esos amantes de la naturaleza.",
+  "lang": "es",
+  "fb_app_id": "1880022215651426",
+  "url": "https://rutasdelosandes.com",
+  "alternative_lang": "en",
+  "alternative_url": "http://hikingintheandes.com",
+  "email": "rutasdelosandes@gmail.com",
+  "fbpage": "https://www.facebook.com/rutasdelosandes0/",
+  "googlemaps_key": "AIzaSyAz1r9qDIaA7lGoMdW7VPpvic7JXZjCdls",
+  "instant_pages": "1078600055607267",
+  "permalink": "/:categories/:title",
+  "twitter": "RutasAndes",
+  "markdown": "kramdown",
+  "theme": "minima",
+  "menu_pages": [
+    {
+      "display": "Tienda",
+      "url": "https://www.randes.co/"
+    },
+    {
+      "display": "Rutas",
+      "url": "/"
+    },
+    {
+      "display": "Blog",
+      "url": "/blog"
+    },
+    {
+      "display": "Contacto",
+      "url": "/contacto"
+    }
+  ]
+}
