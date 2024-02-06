@@ -198,7 +198,7 @@ Aquí te mostraremos los diferentes tours que podrás realizar.
 * __Lugares que visitan:__ Muro de Contención, compuertas, Boqueron de tena, Isla de Cuba, parada con caminata natural, criadero de mojarra roja, Isla del Sol, y por último, el hotel donde puedes almorzar y tomar un baño en la piscina.
 * __Duración:__ 4 horas aproximadamente
 * __Incluye:__ Almuerzo, piscina natural,seguro médico, guía y transporte fluvial.
-* __Valor del tour:__ $55.000 pesos por persona.
+* __Valor del tour:__ <a target="_blank" href="https://www.randes.co/products/tour-a-la-represa-prado-pasadia-mediano">aquí</a>
 
 
 ### TOUR PASADIA COMPLETO
@@ -207,18 +207,11 @@ Aquí te mostraremos los diferentes tours que podrás realizar.
 * __Lugares que visitan:__ Muro de contención, compuertas, Boqueron de tena, Laguna Encantada (pueden bañar), Cueva del Mohán, Cueva del Ángel, la Roca (mejor cabaña represa), Islas de: Morgan, de Cuba, del Sol y por último u hotel donde podrán almorzar y tomar un baño en la piscina.
 * __Duración:__ 6 horas aproximadamente
 * __Incluye:__ Almuerzo, piscina natural,seguro médico, guía y transporte fluvial.
-* __Valor del tour:__ $85.0000 pesos por persona.
+* __Valor del tour:__ <a target="_blank" href="https://www.randes.co/products/tour-a-represa-prado-pasadia">aquí</a>
 
 
-### TOUR 2 DÍAS Y 1 NOCHE
 
-
-* __Lugares que visitan:__  Muro de contención, compuertas, Boqueron de tena, laguna Encantada (pueden bañar), Cueva del Mohán, Cueva del Ángel, la Roca (mejor cabaña represa), Islas de: Morgan, de Cuba, del Sol y por último un hotel donde podrán almorzar y tomar un baño en la piscina.
-* __Incluye:__ 1 noche de hospedaje, cena, desayuno, almuerzo, cena y desayuno, tour completo.
-* __Valor del tour:__ $340.0000 pesos por persona.
-
-
-__RECOMENDACIÓN:__ Si vas con un grupo de personas, te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrían coordinar con el guía la hora de inicio del tour.
+__RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrían coordinar con el guía la hora de inicio del tour._
 
 
 👉 **<a href="https://wa.link/g3efuv" style="color:green;" target="_blank"> Clic para reservar alguno de estos tours</a>**

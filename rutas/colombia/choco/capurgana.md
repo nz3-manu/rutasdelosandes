@@ -157,7 +157,7 @@ Dicho esto, una vez llegas a Necoclí, podrás encontrar diferentes opciones de 
 Nosotros como llegamos a las 5:00 pm a Necocli decidimos hospedarnos por 1 noche, para el día siguiente abordar la lancha hacia Capurganá.
 
 
-Las salidas en lancha empiezan a partir de las __7:00 am, pero les recomendamos llegar a las 6:30 am__, ya que las lanchas salen con el grupo de personas en orden de llegada al puerto, el valor en lancha es de aproximadamente __$85.000 COP__ por persona y por trayecto el cual dura aproximadamente 1 hora y media en lancha.
+Las salidas en lancha empiezan a partir de las __7:00 am, pero les recomendamos llegar a las 6:30 am__, ya que las lanchas salen con el grupo de personas en orden de llegada al puerto, el valor en lancha 🚤 es de aproximadamente __$85.000 COP__ por persona y por trayecto el cual dura aproximadamente 1 hora y media en lancha.
 
 
 En el puerto, funcionan dos empresas de lanchas. La más grande es la empresa Katamarán, la cual despacha lanchas todo el día, siempre y cuando, las lanchas llenen su cupo.
@@ -209,9 +209,7 @@ Al llegar a Zapsurro pudimos ver 2 hospedajes que cuentan con zona de camping.
 
 
 
-
-
-Nos decidimos por la segunda opción Sapzurro La Posada Hostal Camping, la escogimos porque tiene una zona amplia y no había más personas acampando, pero no nos percatamos de algo y __era que no contaba con zona para la cocina__, así que si van a preparar alimentos tendrán que hacerlo en partes donde no allá césped y como pequeña sorpresa en la noche llegan muchos sapos que caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅.
+Nos decidimos por la segunda opción Sapzurro La Posada Hostal Camping, la escogimos porque tiene una zona amplia y no había más personas acampando, pero no nos percatamos de algo y __era que no contaba con zona para la cocina__, así que si van a preparar alimentos tendrán que hacerlo en partes donde no allá césped y como pequeña sorpresa en la noche llegan muchos sapos 🐸 que caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅.
 
 
 <a name="csendero-capurgana" id="sendero-capurgana"></a>
@@ -230,7 +228,18 @@ Este sendero es de complejidad media, puesto que es algo inclinado, con peñasco
 
 ### LA PISCINA DE LOS DIOSES
 
-Es un sendero ubicado en pleno centro de la selva con una piscina de agua cristalina. Además, es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad de .
+es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad del mar y la fuerza de las olas al romper en el arrecife.
+
+--- foto --
+
+A la playa de la piscina de los Dioses también llegas caminando desde Capurganá y el recorrido tarda aproximadamente 10 minutos.
+
+
+
+### MIRADOR DEL CIELO
+
+
+Es un sendero ubicado en pleno centro de la selva con una piscina de agua cristalina. Además, es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad de la naturaleza, y apreciar la naturaleza de esta zona, como los monos, este sendero te recomendamos tener cuidado ya que van a tener que cruzar varias partes el rio, se recomienda hacer esta ruta con guía local.
 
 -- foto --
 
@@ -270,20 +279,19 @@ Al llegar a la montaña, encontrarás una base militar de Panamá y Colombia. Al
 
 Aqui te mostratemos los dististos tours que puedes tomar para ir a capurgana, o para hacer tours en lancha a los distintos lugares.
 
-### TOUR COMPLETO DE MEDELLIN
+### TOUR COMPLETO DESDE MEDELLIN
 
-Este tour incluye tiquetes de avion desde Medellin, hotele y alimentación, este paquete se debe reservar con anticipación.
+Este tour incluye: tiquetes de avion desde Medellin, hotele y alimentación, este paquete se debe reservar con anticipación.
 
 
 ### PASADÍA DESDE NECOCLÍ
 
-Uno de  los tours que vas se venden para este lugar es, un paseo en lancha de 1 día saliendo Neclí el cual visitan todas las playas en 1 día.
+Uno de  los tours que encontrarás desde Necocli para capurgana, es un paseo en lancha de 1 día, donde visitarán varias playas, ademas te darán el almuerzo, es una buena opción se cuentas con poco tiempo, este tour se debe reservar con anticipación ya que los cupos de las lanchas son limitados.
 
 
 ### PASADÍA DESDE CAPURGANA
 
-En capurgana tambíen vas a encontrar recorridos en lancha, donde visitaran las diferentes playas que mencionamos anteriormente.
-
+Al llegar a capurgana, vas a poder encontrar algunas lanchas que prestan el servicio de tour para algunas playas, estos recorridos dependen del numero de personas que vayan
 
 <a name="recomendacion-capurgana" id="recomendacion-capurgana"></a>
 
