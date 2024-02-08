@@ -1,0 +1,27 @@
+---
+layout: default
+title:  Rutas de los andes | Marca de ropa de senderismo y blog de viaje
+excerpt: Rutas de los andes es un pagina con contenido y productos pensado para esos amantes de la naturaleza.
+---
+
+<div class="articles">
+{% for ruta in collections.rutas %}
+{% if ruta.data.trending %}
+              <a class="article-link" href="{{ ruta.url }} ">
+                  <div class="article">
+                    <div class="scrim-top">
+                    </div>
+                    <div class="scrim-bottom">
+                    </div>
+                    <h3 class="article-title">{{ ruta.data.title }}</h3>
+                    <h4 class="article-subtitle">Por {{ site.data.authors[ruta.author].name}}, Jun 28</h4>
+                    <amp-img 
+                    layout="responsive" 
+                    width="581"
+                    height="304"
+                    src="{{ruta.data.images_url}}/featured.jpg"> 
+                  </div>
+              </a>
+{% endif %}
+{% endfor %}
+</div>

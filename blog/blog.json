@@ -1,0 +1,6 @@
+{
+  "layout": "article",
+  "tag": "blog",
+  "date": "Last Modified",
+  "permalink": "/amp/{{ page.filePathStem | remove_first: '/blog'}}.html"
+}

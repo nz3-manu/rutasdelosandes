@@ -1,0 +1,6 @@
+{
+  "layout": "trail",
+  "tag": "rutas",
+  "date": "Last Modified",
+  "permalink": "/amp/{{ page.filePathStem | remove_first: '/rutas'}}.html"
+}
