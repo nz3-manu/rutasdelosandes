@@ -62,22 +62,24 @@ El valor del del tour depende del número de personas que vayan, si van un fin d
 - 🛵 Transporte de Venecia a donde empieza el sendero: este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000x3=$18.000).
 - 🅿️ Si vas en carro particular o moto, podrás dejarlo donde comienza en sendero: el parqueadero tiene un costo de $15.000 pesos para carro y $8.000 para moto.
 
-**<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí.</a>**
+**<a href="https://www.randes.co/products/tour-a-cerro-tusa-en-venecia-antioquia" style="color:green;" target="_blank"> Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí.</a>**
 
 <a name="llegar-cerro-tusa" id="llegar-cerro-tusa"></a>
 
-## ¿CÓMO LLEGAR A CERRO TUSA ?
+## ¿CÓMO LLEGAR A CERRO TUSA DESDE MEDELLIN ?
 
+Lo primero que tienen que hacer es llegar al municipio de Venecia, a continuación te mostraremos como hacerlo en bus desde Medellín que es la ciudad más cercana.
 
-Una vez en Medellín, nos dirigimos hacia el terminal del sur donde tomamos el 🚌bus hacia Venecia, el cual sale cada hora desde las 6:15 am hasta las 6:15 pm, el valor del pasaje es de aproximadamente $16.000 pesos.
+## BUS DESDE MEDELLIN A VENECIA 🚌
 
-<ins> Te recomendamos tomar el bus de las 6:15, para que tengas tiempo de hacer el ascenso sin afanes </ins>
+Desde de el terminal del sur de medellin salen buses con destino a Venecia, con la empresa fredonia, __importante__, tienen que decir que van para Venecia, ya que tambien envían buses para fredonia, el bus sale apartir de las 6:00 am, con frecuencia de 1 hora hasta las 6:00 pm, este tarda en promedio 1:15 a 1:30 el reocrrido, el valor del pasaje es de $17.000 pesos por trayecto.
 
-Después de 2 horas y media llegamos a **Venecia (Antioquia)** . El bus nos dejó en el parque principal, tan solo faltó bajar del bus para ver este imponente cerro ⛰ que sobresalía en el horizonte. Es emocionante y un poco intimidante tener que subir hasta la cima, pero ese mismo temor nos impulsaba aún más a estar allí.
+<ins> Te recomendamos tomar el bus de las 6:00 am, para que tengas tiempo de hacer el ascenso sin afanes </ins>
 
-Después de conocer un poco del pueblo, nos encontramos con nuestro guía el cual ya tenia listo el transporte para ir hasta el altar de sacrificios; este es el punto más cercano para empezar el ascenso a **Cerro Tusa**.
+Después de 1:30 horas y media llegamos a **Venecia (Antioquia)** . El bus nos dejó en el parque principal, tan solo faltó bajar del bus para ver este imponente cerro ⛰ que sobresalía en el horizonte. Es emocionante y un poco intimidante tener que subir hasta la cima, pero ese mismo temor nos impulsaba aún más a estar allí.
 
-Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco más largo y no lo documentamos).
+Después de conocer un poco del pueblo, nos encontramos con nuestro guía, allí pagamos un adicional el cual no estaba en el valor del tour, un moto taxi que tiene cupo para 3 personas, como íbamos con salida grupal pudimos llenar el cupo de 3 personas y solo pagamos $6.000 pesos por ese trayecto. Al llegar a la base del cerro nos encontramos con las otras personas que iban en carro y motos.
+
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -88,7 +90,7 @@ Existe otro sendero desde el parque de Venecia hasta Cerro Tusa (este es un poco
 %}
 </a>
  
-Al llegar al altar de sacrificio el guía   nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el __ascenso a Cerro Tusa.__
+llegamos a un punto el cual se llama altar de sacrificio el guía   nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el __ascenso a Cerro Tusa.__
  
 <a name="lugares-cerro-tusa" id="lugares-cerro-tusa"></a> 
  
