@@ -21,7 +21,7 @@ A través de este post, encontrarás toda la información que debes tener en cue
 
 
 
-👉  __<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank">Si quieres realizar esta ruta, puedes dar clic aquí</a>__
+👉  __<a href="https://www.randes.co/products/tour-laguna-del-otun" style="color:green;" target="_blank">Si quieres realizar esta ruta, puedes dar clic aquí</a>__
 
 
 

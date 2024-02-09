@@ -14,8 +14,6 @@ trending: true
  
 El Nevado del Ruiz o como es llamado también __volcán Nevado del Ruiz__ está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
 
-  🏔️ __<a href="https://wa.link/n7a40m" style="color:green;" target="_blank"> ¿ Quieres realizar esta ruta con una agencia ?, 👉 clic aquí</a>__
-
  
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -28,7 +26,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#sendero-ruiz"> Ruta en el Nevado del Ruiz </a> 
 * <a href="#informacion-nevado-ruiz"> Descargar información para viajar por tu cuenta </a> 
 * <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a> 
-- <a href="#descargar-nevado-ruiz">Descargar información adicional del nevado del ruiz</a>
+
 
 Empecemos con la aventura ⛰.
 
@@ -66,7 +64,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOURS AL NEVADO DEL RUIZ 
 
-El valor del __tour al Nevado del Ruiz__   puede variar entre $250.000 COP a $550.000 COP esto depende del número de personas que van a ir.
+El valor del __tour al Nevado del Ruiz__  depende del número de personas que van a realizar el tour.
 
 __El tour al Nevado del Ruiz incluye:__
 * 🚌 Transporte desde Manizales o Pereira
@@ -77,6 +75,7 @@ __El tour al Nevado del Ruiz incluye:__
 * 👨 Guianza 
 
 Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:green;" target="_blank"> clic aquí</a>__ 👈
+
 
 
  
