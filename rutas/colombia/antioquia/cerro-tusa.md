@@ -49,22 +49,25 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOUR A CERRO TUSA
 
-En Venecia encontrarás varios guías locales, lo que te recomendamos es que contrates previamente el guía ya que es difícil encontrar guías el mismo día.
+El valor del del tour depende del número de personas que vayan, si van un fin de semana sábado o domingo el valor de este será de excursión grupal, si vas en semana el valor dependerá del número de personas con que tú vayas, para consultar el precio de este podrás ver la tabla de preció del tour.
 
-El valor del **tour podría costar entre $55.000 Cop a $140.000 Cop**, esto depende del numero de personas que vayan.
+### EL TOUR INCLUYE:
 
-**El tour a Cerro Tusa incluye:**
-
-- 🚗 Transporte de Venecia a Cerro Tusa
-- 🚗 Transporte de Cerro Tusa a Venecia
 - 👨 Guía local
 - 🫶 Seguro de asistencia médica
+- 🍎🍫 Refrigerio
 
-**<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quieres realizar expedición con un guía local puedes dar clic aquí.</a>**
+### EL TOUR NO INCLUYE:
+
+- 🛵 Transporte de Venecia a donde empieza el sendero: este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000x3=$18.000).
+- 🅿️ Si vas en carro particular o moto, podrás dejarlo donde comienza en sendero: el parqueadero tiene un costo de $15.000 pesos para carro y $8.000 para moto.
+
+**<a href="https://wa.link/o0drgc" style="color:green;" target="_blank"> Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí.</a>**
 
 <a name="llegar-cerro-tusa" id="llegar-cerro-tusa"></a>
 
 ## ¿CÓMO LLEGAR A CERRO TUSA ?
+
 
 Una vez en Medellín, nos dirigimos hacia el terminal del sur donde tomamos el 🚌bus hacia Venecia, el cual sale cada hora desde las 6:15 am hasta las 6:15 pm, el valor del pasaje es de aproximadamente $16.000 pesos.
 
