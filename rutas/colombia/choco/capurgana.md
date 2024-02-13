@@ -7,7 +7,6 @@ excerpt: Conoce como llegar a Capurgana, descubre costos de transporte, hospedaj
 images_url: /images/rutas/choco/capurgana
 viewranger: MTY2NDcwMQ==
 author: manuel
-trending: true
 ---
 
 # CAPURGANÁ
