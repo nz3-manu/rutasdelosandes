@@ -12,7 +12,9 @@ trending: true
 
 # ESTACIÓN PEREIRA
 
-Estación  Pereira es sin duda un __lugar para hacer senderismo cerca de Pereira,__ Para llegar a estación Pereira se tendrá que tomar;  Jeep, marranita o como también es llamado brujita y por último cruzar el rió Cauca en garrucha, si no sabes a qué medios de transporte me refiero te invito a seguir leyendo, ya que los explicaremos más adelante.
+Estación  Pereira es sin duda un __hermoso lugar natural para visitar cerca de Pereira,__ Para llegar a estación Pereira se tendrá que tomar;  Jeep, marranita o como también es llamado brujita y por último cruzar el rió Cauca en garrucha, si no sabes a qué medios de transporte me refiero te invito a seguir leyendo, ya que los explicaremos más adelante.
+
+__<a href="https://www.randes.co/products/tour-estacion-pereira" style="color:green;" target="_blank"> 👉🛤️ Clic aquí para ver información del tour a Estación Pereira. </a>__ 
 
 __EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -44,19 +46,17 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## TOUR A ESTACIÓN PEREIRA
 
-El valor del __tour a estación Pereira__ es en promedio de $150.000 Cop a $320.000 Cop, este valor depende del número  de personas que vayan. 
+El valor del __tour a estación Pereira__  depende del número de personas que vayan, para que salga más económico te recomendamos estar pendiente de las fechas grupales que hay disponibles, adicional si no hablas español y quisieras que la guianza fuera en: ingles, francés, portugués o italiano, puedes adquirir este servicio por un valor adicional.
 
-__El tour a estación Pereira incluye:__
+### EL TOUR A ESTACIÓN PEREIRA INCLUYE
+
 * 🚌 Transporte desde pereira 
 * 🛵 Transporte en marranita y garrucha 
-* 🥨 Snacks 
-* 🍝 Almuerzo 
 * 🫶 Seguro de asistencia médica 
 * 👨 Guianza
 
-__<a href="https://www.randes.co/products/tour-estacion-pereira" style="color:green;" target="_blank"> Si quieres realizar expedición con un guía local puedes dar clic aquí. </a>__ 
+__<a href="https://www.randes.co/products/tour-estacion-pereira" style="color:green;" target="_blank"> 👉🛤️ Clic aquí para ver información del tour a Estación Pereira. </a>__ 
 
-_Si ya has comprado nuestros productos y tienes el código que enviamos promocional, tendrás el 15% de descuento en esta ruta._
 
 <a name="llegar-estacion-pereira" id="llegar-estacion-pereira"></a> 
 
