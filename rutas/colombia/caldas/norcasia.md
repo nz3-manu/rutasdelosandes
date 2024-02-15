@@ -16,7 +16,7 @@ En este post te estaremos describiendo todo lo que debes saber antes de realizar
  
 Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
  
- __<a href="https://wa.link/jy3f6x" style="color:green;" target="_blank">Puedes conocer nuestros planes a Norcasia 🛶, solo dando clic aquí. 👈 </a>__
+ __<a href="https://wa.link/jy3f6x" style="color:green;" target="_blank"> 👉 clic aquí, para ver planes a Norcasia 🛶,   </a>__
  
 **EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
  
@@ -117,30 +117,9 @@ Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-### HOTEL BUENOS AIRES
+En Norcasia podrás encontrar gran variedad de hospedajes, los cuales están alrededor de $60.000 Pesos por persona, el consejo que te damos si no vas con un tour que incluya hospedaje es que hagas la reservación con tiempo, ya que en temporada alta posiblemente no encuentres hospedaje.
+Si vas en moto o carro, podrás encontrar tambien parqueaderos.
  
-Este hotel se encuentra a pocas cuadras del parque, en los cuartos del primer piso no funciona muy bien el internet(esto ya podría haber cambiado en el futuro).
- 
-- Hospedaje 🛏: $45.000 pesos por persona.
-- Parqueadero para moto y carro 🅿️: es gratis para clientes, el parqueadero se encuentra en zona con seguridad.
- 
-### HOTEL EL PESCADOR
- 
-Este hotel se encuentra a pocas cuadras del parque principal.
- 
-- Hospedaje 🛏: $40.000 pesos por persona.
-- Parqueadero para moto y carro 🅿️: es gratis para clientes, pero el parqueadero en un lote donde no hay seguridad.
- 
-Si lo tuyo es estar un más en contacto con la naturaleza podrás encontrar otros hospedajes en algunas fincas cerca al río la miel
- 
-### FINCA PUERTO RICO
- 
-- Hospedaje 🛏: $170.000 pesos por persona (incluye: desayuno, almuerzo y comida)
- 
-**Teléfono: <a href="tel: 3146154539"> 3146154539</a> o <a href="tel:3146154539"> 3146154539</a> Finca Puerto Rico.**
- 
-Si tienes algún hotel para recomendar nos puedes escribir a nuestras redes sociales para agregarlo.
-**Los precios de los hospedajes pueden cambian constantemente**
  
 <a name="lugares-norcasia" id="lugares-norcasia"></a>
  

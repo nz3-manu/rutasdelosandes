@@ -58,7 +58,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 
-__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros , el precio del tour es de $90.000 Cop por persona.
+__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros, al finalizar el tour podrán disfrutar de una hermosa cascada.
 
 **EL VALOR DEL TOUR INCLUYE:**
 
@@ -74,7 +74,7 @@ __El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am
 
 Para llegar a la reserva Barbas Bremen, se pueden tomar diferentes rutas, pero las que nos pareció más llamativa es la que habitualmente se hace desde la ciudad de Pereira.
 
-Para realizar este **recorrido hasta la reserva Barbar Bremen**, tomamos el bus 🚌 de las 6:00 AM, con destino hacia Yarumal, el cual pasa al frente del Centro Comercial Victoria (carrera 12), hay que aclarar que el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. Una vez llegamos a Yarumal vimos la entrada del Sendero Yarumal, lugar donde empieza la caminata y también donde nos estaba esperando el guía que habéamos contratado previamente.
+Para realizar este **recorrido hasta la reserva Barbar Bremen**, tomamos el bus 🚌 de las 6:00 AM, con destino hacia Yarumal, el cual pasa al frente del Centro Comercial Victoria (carrera 12), hay que aclarar que el bus pasa a partir de las 6:00 am cada 2 horas y tarda en promedio 2 horas en llegar a Yarumal. Una vez llegamos a Yarumal vimos la entrada del Sendero Yarumal.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
