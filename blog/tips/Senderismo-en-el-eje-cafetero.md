@@ -4,20 +4,19 @@ title: Rutas de Senderismo en el Eje Cafetero
 categories: blog
 seo_title: ⛰ Rutas de senderismo en el Eje Cafetero - Rutas
 excerpt: Excursiones, rutas, caminatas, lugares naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el Triángulo del Café.
-images_url: /images/blog/tips-montana/senderismo-en-el-eje-cafetero
+images_url: /images/blog/tips-montana/rutas-senderismo-eje-cafetero
 tags: TipsMontaña
-featured: https://rutasdelosandes.com/images/blog/tips-montana/senderismo-en-el-eje-cafetero/featured.jpg
+featured: https://rutasdelosandes.com/images/blog/tips-montana/rutas-senderismo-eje-cafetero/featured.jpg
 ---
 
 
 # RUTAS DE SENDERISMO EN EL EJE CAFETERO
 
 
-Apuesto que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta para hacer en tu paso por el Eje cafetero, así que estés tranquilo, aquí te mostraremos algunas rutas de senderismo que no te puedes perder en tu paso por este hermoso lugar.
+Apuesto que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta para hacer en tu paso por el Eje cafetero, así que estés tranquilo, aquí __te mostraremos algunas rutas de senderismo__ que no te puedes perder en tu paso por este hermoso lugar.
 
 
-Adicional a eso, te compartiremos los planes para visitar estos lugares por si lo quieres hacer con agencia, si no hablas mucho español también podrás tener la opción de contratar un guía bilingüe en: inglés 🏴󠁧󠁢󠁥󠁮󠁧󠁿, portugués 🇵🇹, francés 🇫🇷 o italiano 🇮🇹.
-
+Adicional a eso, dejáramos en cada ruta de senderismo que se muestra en este post el link para ver información y precio de tours, si no hablas mucho español también podrás tener la opción de contratar un __guía bilingüe__ en: inglés 🏴󠁧󠁢󠁥󠁮󠁧󠁿, portugués 🇵🇹, francés 🇫🇷 o italiano 🇮🇹.
 
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
@@ -37,56 +36,38 @@ No siendo más, empecemos ⛰️.
 ## ¿DÓNDE QUEDA EL EJE CAFETERO 🤔?
 
 
-El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de más fácil acceso desde cualquier lugar de Colombia, y aún más asequible desde las principales ciudades tales como: Medellín, Cali y Bogotá.
-
-
-<a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/ropa-randes.png",
-caption:"",
-width:"1000",
-height:"300" %}
-</a>
+El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de más fácil acceso desde las principales ciudades tales como: Medellín, Cali y Bogotá.
 
 
 Cabe mencionar que el Eje Cafetero está conformado por tres departamentos, los cuales son: Risaralda, Quindío y Caldas, los cuales forman un triángulo, de aquí su nombre triángulo de café ☕️.
 
 <a name="como-llegar-eje" id="como-llegar-eje"></a>
 
-## ¿CÓMO LLEGAR AL EJE CAFETERO 🚌?
+## ¿CÓMO LLEGAR AL EJE CAFETERO 🚌 ✈️?
+
+Para llegar al Eje Cafetero lo puedes hacer tanto en bus como en avíon, si estas programando tu viaje con tiempo prodrás encontrar excelente promociones de vuelos.
+
+### -> EN AVIÓN 🛩️
+
+Si vas en avión vas a encontrar mayor oferta de vuelos a la ciudad de pereira, ya que esta es la unica que cuenta con un aeropuerto internacional. Perira se encuentra en medio de las 2 ciudades (Manizales y Armenia) así que sera facil para desplazarte a cualquiera de estas 2, aquí te compartimos algunas aerolineas que prestan el servicio a pereira.
+
+- __Jetsmart:__ Es una compañia que llego nueva a Colombia, por tal motivo aun tiene algunas promociones
+- __Avianca:__ Una compañia con gran trayectoría que tambien opera para esta región.
 
 
-Para llegar al Eje Cafetero, lo puedes hacer en avión, ya que la ciudad de Pereira cuenta con un aeropuerto internacional y hay muchas promociones de vuelos desde Bogotá o Medellín para Pereira, si quieres mejor ir en bus, aquí te mostraremos algunos distancias.
+### -> EN BUS 🚐
 
+En bus vas a encontrar muchas mas alternativas y horarios de transporte ten encunta que de Armenia a pereira es más o menos 1 hora en bus, de Pereira a Manizales aproximadamente 50 minutos y de Manizales a Armenia son 2 horas:
 
-### TRANSPORTE DESDE ALGUNAS CIUDADES PRINCIPALES DE COLOMBIA HASTA PEREIRA
-
-
-- **Medellin a Pereira:** La distancia entre estas dos ciudades es de aproximadamente 215 kilómetros, cuyo recorrido en bus tarda alrededor de cinco a seis horas.
-- **Cali a Pereira:** hay una distancia de 219 km, que se recorre en unas cuatro horas en bus.
-- **Bogotá a Pereira:** hay una distancia aproximada de 357 km cuyo recorrido tarda alrededor de nueve horas y treinta minutos.
-
-
-### TRANSPORTE DESDE ALGUNAS CIUDADES PRINCIPALES DE COLOMBIA HASTA MANIZALES
-
-
-- **Medellín a Manizales:** El viaje desde Medellín a Manizales recorre una distancia de 198 km. por carretera y se completa en aproximadamente cuatro horas.
-- **Cali a Manizales:** hay una distancia aproximada de 214 km, que se recorre aproximadamente en cinco horas y veinte minutos.
-- **Bogotá a Manizales:** hay una distancia aproximada de 304 km y el tiempo de recorrido es aproximadamente cuatro horas.
-
-
-### TRANSPORTE DESDE ALGUNAS CIUDADES PRINCIPALES DE COLOMBIA HASTA ARMENIA
-
-
-- **Medellín a Armenia:** en promedio, el viaje dura aproximadamente seis horas y 115 minutos para recorrer la distancia de 191 km que separa las dos ciudades.
-- **Cali a Armenia:** hay una distancia aproximada de 154 km cuyo recorrido se hace en tres horas y treinta minutos.
-- **Bogotá a Armenia:** hay una distancia aproximada de 288.6 kms cuyo recorrido se hace en seis horas y cincuenta minutos.
+- __Desde Bogota hasta el Eje cafetero:__ tiempo promedio 10 horas.
+- __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 6 horas.
+- __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 5 horas.
 
 
 ## RUTAS DE SENDERISMO EN EL EJE CAFETERO  🥾 ⛰️ 
 
 
-El Eje Cafetero, como bien saben, abarca tres departamentos, que están ubicados geográficamente dentro de la cordillera de los Andes (centro-occidental), haciendo que sea un destino turístico lleno de montañas, altiplanos, páramos, ríos, ciénagas y bosques en los que podrás disfrutar de varios planes tales como: caminatas ecológicas en bosque o caminatas en páramos y nevados.
+El Eje Cafetero, como bien saben, abarca tres departamentos, que están ubicados geográficamente dentro de la cordillera de los Andes (centro-occidental), __haciendo que sea un destino turístico lleno de montañas,__ altiplanos, páramos, ríos, ciénagas y bosques en los que podrás disfrutar de varios planes tales como: caminatas ecológicas en bosque o caminatas en páramos y nevados.
 
 
 A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafetero:
@@ -111,8 +92,12 @@ __INFORMACIÓN TÉCNICA:__
 - __Inclinación del sendero:__ 1.950 a 2.010 m.s.n.m
 
 
-Foto
-
+{% include image.html,
+file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/barbas-bremen.jpg",
+caption:"Foto: Barbas Bremen",
+width:"1800",
+height:"1200"
+%}
 
 
 
@@ -122,7 +107,7 @@ Foto
 ### -> CASCADA LOS FRAILES 💦
 
 
-Es una hermosa cascada ubicada muy cerca de Pereira, es un sendero lleno de naturaleza y terminará en una cascada de cerca de 70 metros de alguna, es la más grande en el pereira.
+Es una hermosa cascada ubicada muy cerca de Pereira, es un sendero lleno de naturaleza y terminará en una cascada de cerca de 70 metros de altura.
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 4 Kilómetros
@@ -130,7 +115,12 @@ __INFORMACIÓN TÉCNICA:__
 - __Inclinación del sendero:__  1.730 a 1.850 m.s.n.m
 
 
-foto
+{% include image.html,
+file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cascada-los-frailes.jpg",
+caption:"Foto: Cascada Los Frailes",
+width:"1080",
+height:"800 "
+%}
 
 
 
@@ -172,8 +162,8 @@ __INFORMACIÓN TÉCNICA:__
 
 
 {% include image.html,
-file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
-caption:"Nevado Santa Isabel",
+file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cumbre-santa-isabel.jpg",
+caption:"Foto: Nevado Santa Isabel",
 width:"1080",
 height:"1349"
 %}
@@ -183,8 +173,7 @@ height:"1349"
 
 
 
-
-👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado santa Isabel</a>
+👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
 
 
 ### -> LAGUNA DEL OTÚN
@@ -197,15 +186,11 @@ __INFORMACIÓN TÉCNICA:__
 - __Inclinación del sendero:__ 3.935 a 4.144 m.s.n.m
 
 
-
-
-
-
 {% include image.html,
-file:"/blog/tips-montana/senderismo-en-el-eje-cafetero/cumbre-santa-isabel.jpg",
-caption:"Nevado Santa Isabel",
+file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/laguna-otun.jpg",
+caption:"Foto: Laguna del Otún",
 width:"1080",
-height:"1349"
+height:"607"
 %}
 
 
