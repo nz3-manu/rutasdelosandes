@@ -234,8 +234,13 @@ height:"940"
 %}
 </a>
 
-👉 <a href="https://www.randes.co/products/tour-laguna-del-otun" style="color: maroon;" target="_blank"> Link para ver a apartamento en Booking</a>
+👉 <a href="https://www.booking.com/hotel/co/monterosa-aptos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver este apartamento en Booking</a>
 
+### -> MÁS OPCIONES DE HOSPEDAJES EN (PEREIRA)
+
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tus necesidades de hospedaje en Pereira, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje tenga trayectoria en la plataforma de Booking.
+
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-594819&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Booking</a>
 
 ### -> THE COFFEE CLUB (MANIZALES)
 
@@ -250,9 +255,12 @@ height:"940"
 %}
 </a>
 
-👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver a apartamento en Booking</a>
+👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver este apartamento en Pereira</a>
 
+### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tus necesidades de hospedaje en Manizales, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje tenga trayectoria en la plataforma de Booking.
 
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
 
 
 Este es el fin del post Rutas de senderismo en el Eje Cafetero, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
