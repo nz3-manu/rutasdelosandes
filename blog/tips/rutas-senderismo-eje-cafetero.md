@@ -1,22 +1,22 @@
 ---
 layout: article
-title: Rutas de Senderismo en el Eje Cafetero
+title: 5 Rutas de Senderismo en el Eje Cafetero
 categories: blog
-seo_title: ⛰ Rutas de senderismo en el Eje Cafetero - Rutas
-excerpt: Excursiones, rutas, caminatas, lugares naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el Triángulo del Café.
+seo_title: ⛰ 5 Rutas de senderismo en el Eje Cafetero - Rutas
+excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el Triángulo del Café.
 images_url: /images/blog/tips-montana/rutas-senderismo-eje-cafetero
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/rutas-senderismo-eje-cafetero/featured.jpg
 ---
 
 
-# RUTAS DE SENDERISMO EN EL EJE CAFETERO
+# 5 RUTAS DE SENDERISMO EN EL EJE CAFETERO
 
 
-Apuesto que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta para hacer en tu paso por el Eje cafetero, así que estés tranquilo, aquí __te mostraremos algunas rutas de senderismo__ que no te puedes perder en tu paso por este hermoso lugar.
+Apuesto que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta para hacer en tu paso por el Eje cafetero, así que estés tranquilo, aquí __te mostraremos 5 rutas de senderismo__ 🥾 que no te puedes perder en tu paso por este hermoso lugar.
 
 
-Adicional a eso, dejáremos en cada ruta de senderismo que se muestra en este post el link para ver información y precios de tours, si no hablas mucho español también podrás tener la opción de ir con un __guía bilingüe__ en: inglés 🏴󠁧󠁢󠁥󠁮󠁧󠁿, portugués 🇵🇹, francés 🇫🇷 o italiano 🇮🇹.
+Adicional a eso, dejáremos en cada ruta de senderismo que se muestra en este post el link para ver información y precios de tours, si no hablas mucho español también podrás tener la opción de ir con un __guía bilingüe__  🇺🇸 🇫🇷. 
 
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
@@ -26,6 +26,7 @@ Adicional a eso, dejáremos en cada ruta de senderismo que se muestra en este po
 -  <a href="#como-llegar-eje"> ¿Cómo llegar al Eje Cafetero? </a> 
 -  <a href="#senderismo-baja-montana"> Rutas de senderismo de baja montaña en el Eje Cafetero </a>
 -  <a href="#senderismo-alta-montana"> Rutas de senderismo de alta montaña en el Eje Cafetero </a>
+-  <a href="#recomendaciones-para-tour"> Recomendaciones para tomar un Tour </a>
 -  <a href="#hospedaje-eje"> Hospedaje en el Eje cafetero.</a>
 
 
@@ -76,7 +77,7 @@ En bus vas a encontrar muchas mas alternativas y horarios de transporte ten encu
 - __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 5 horas.
 
 
-## RUTAS DE SENDERISMO EN EL EJE CAFETERO  🥾 ⛰️ 
+## RUTAS DE SENDERISMO EN EL EJE CAFETERO  🥾  
 
 
 El Eje Cafetero, como bien saben, abarca tres departamentos, que están ubicados geográficamente dentro de la cordillera de los Andes (centro-occidental), __haciendo que sea un destino turístico lleno de montañas,__ altiplanos, páramos, ríos, ciénagas y bosques en los que podrás disfrutar de varios planes tales como: caminatas ecológicas en bosque o caminatas en páramos y nevados.
@@ -86,13 +87,13 @@ A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafet
 
 <a name="senderismo-baja-montana" id="senderismo-baja-montana"></a>
 
-## RUTAS DE SENDERISMO DE BAJA MONTAÑA ⛰️
+## RUTAS DE SENDERISMO DE MEDIA MONTAÑA ⛰️
 
 
-La baja montaña son rutas en las cuales no verás inclinaciones elevadas (0 a 2.300 m.s.n.m.), por tal motivo no verás páramos o nevados, pero sí podrás ver paisajes de bosques con muchos ruidos de todo tipo de animalitos 🐒 🦜.
+La baja montaña son rutas en las cuales no verás inclinaciones elevadas (1.500 a 2.500 m.s.n.m.), por tal motivo no verás páramos o nevados, pero sí podrás ver paisajes de bosques con muchos ruidos de todo tipo de animalitos 🐒 🦜.
 
 
-### -> BARBAS BREMEN 🐒
+### -> #1 BARBAS BREMEN 🐒
 
 
 Este lugar se encuentra en Filandia Quindío, a solo 1 hora de Pereira, esta ruta está llena de mucha naturaleza, aquí podrás apreciar los monos aulladores 🦧, y terminar en una pequeña cascada en la cual te podrá abañar si así lo deseas.
@@ -116,7 +117,7 @@ height:"1200"
 👉 <a href="https://www.randes.co/products/tour-barbas-bremen" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Barbas Bremen </a>
 
 
-### -> CASCADA LOS FRAILES 💦
+### -> #2 CASCADA LOS FRAILES 💦
 
 
 Es una hermosa cascada ubicada muy cerca de Pereira, es un sendero lleno de naturaleza y terminará en una cascada de cerca de 70 metros de altura.
@@ -146,10 +147,10 @@ height:"1020"
 ## RUTAS DE SENDERISMO ALTA MONTAÑA EN EL EJE CAFETERO 🧗‍♂️
 
 
-Estas excursiones que te mostramos a continuación son de nivel de dificultad alto, muchos de estos subirán de 2.300 msnm a 5.200 msnm, en algunos de estos tendrán que caminar por nieve.
+Estas rutas que te mostramos a continuación son de nivel de dificultad alto, Solo se recomiendan para personas que hayan practicado senderimos, son rutas que van a estar entre 2.500 hasta 5.200 m.s.n.m, en algunas de estan van a tener que caminar en la nieve ❄️.
 
 
-### -> CERRO BRAVO ⛰️
+### -> #3 CERRO BRAVO 
 
 Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras, es un sendero de mucha exigencia, en parte del camino se encontrarán con piedras grandes, que harán difícil caminar, al final terminarán con una vista genial de 2 pequeñas lagunas.
 
@@ -167,10 +168,10 @@ height:"1333"
 
 
 
-👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Cerro Bravo </a>
+👉 <a href="https://www.randes.co/products/excursion-cerro-bravo-pasadia" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Cerro Bravo </a>
 
 
-### -> NEVADO SANTA ISABEL ☃️
+### -> #4 NEVADO SANTA ISABEL 
 
 
 El nevado Santa Isabel, se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔, el sendero es difícil, van a tener que caminar sobre la nieve, se recomienda para persona que cuenten con experiencia previa.
@@ -197,7 +198,7 @@ height:"1349"
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
 
 
-### -> LAGUNA DEL OTÚN 🥾
+### -> #5 LAGUNA DEL OTÚN 
 
 Esta es una de las rutas en la que podrás ver una de las lagunas más grandes que hay en el parque de los nevados, es una caminata con una dificultad moderada, no se recomienda para personas que tengan enfermedades pulmonares o cardiacas.
 
@@ -220,9 +221,16 @@ height:"607"
 👉 <a href="https://www.randes.co/products/tour-laguna-del-otun" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour a la Laguna del Otún</a>
 
 
-## TOURS QUE ENCONTRARAS
 
-Te recomendamos que armes tu plan como lo deseas, ten en cuenta que la duración de las rutas cortas (3 horas) se realizan en la mañana así que tendrás parte de la tarde y noche libre, así que podrás contar con tiempo para disfrutar de la ciudad, o de ir a los termales de Santa rosa, o visitar Salento, no incluimos estos sitios en este post porque queríamos que fuera solo de lugares de senderismo 🥾.
+<a name="recomendaciones-para-tour" id="recomendaciones-para-tour"></a>
+
+## RECOMENCADIONES PARA TOMAR UN TOURS 🥾🧳
+
+Te recomendamos que armes por día cada lugar que deseas visitar, ten en cuenta que la duración de las rutas cortas (3 horas) se realizan en la mañana así que tendrás parte de la tarde y noche libre, así que podrás contar con tiempo para disfrutar de la ciudad, o de ir a los termales de Santa rosa, o visitar Salento, no incluimos estos sitios en este post porque queríamos que fuera solo de lugares de senderismo 🥾.
+
+Las rutas, del Nevado Santa Isabel, solo se hace con previa reserva, si vas con un grupo de 3 o 4 personas será más fácil poder hacer esta excursión.
+
+__Nota:__ _Todos estos tours salen de Pereira, ya que como vimos anteriormente Pereira se encuntra en medío de las ciudades de Manizales y Armania._
 
 <a name="hospedaje-eje" id="hospedaje-eje"></a>
 
@@ -234,7 +242,7 @@ __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibim
 
 ### -> APARTAMENTOS AMOBLADOS (PEREIRA)
 
-Estos se encuentra en una zona muy tranquila de la ciudad, los apartamentos cuentan con: parqueadero, cocina (microondas, nevera), conexión inalámbrica a internet gratuita, TV de plasma, servicio de camarera de pisos. Esta zona a pesar de estar cerca de la ciudad está un poco resguardada del estrés de carros y de las multitudes, podrás encontrar varias opciones de acomodaciones.
+Estos se encuentra en una zona muy tranquila de la ciudad, los apartamentos __cuentan con:__ parqueadero, cocina (microondas, nevera), conexión inalámbrica a internet gratuita, TV de plasma, servicio de camarera de pisos. Esta zona a pesar de estar cerca de la ciudad está un poco resguardada del estrés de carros y de las multitudes, podrás encontrar varias opciones de acomodaciones.
 
 <a href="https://www.booking.com/hotel/co/monterosa-aptos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> 
 {% include image.html,
@@ -255,7 +263,7 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 
 ### -> THE COFFEE CLUB (MANIZALES)
 
-Ofrece alojamiento con: wifi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo, esta ubicado a 5,8 km del centro de manizales.
+Este hospedaje __cuenta con:__ wifi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo, esta ubicado a 5,8 km del centro de manizales.
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> 
 {% include image.html,
