@@ -26,7 +26,7 @@ Adicional a eso, dejáremos en cada ruta de senderismo que se muestra en este po
 -  <a href="#como-llegar-eje"> ¿Cómo llegar al Eje Cafetero? </a> 
 -  <a href="#senderismo-baja-montana"> Rutas de senderismo de baja montaña en el Eje Cafetero </a>
 -  <a href="#senderismo-alta-montana"> Rutas de senderismo de alta montaña en el Eje Cafetero </a>
--  <a href="#hospedaje-eje"> Opciones de hospedaje en el Eje cafetero.</a>
+-  <a href="#hospedaje-eje"> Hospedaje en el Eje cafetero.</a>
 
 
 No siendo más, empecemos ⛰️.
@@ -140,16 +140,6 @@ height:"1020"
 
 
 
-### -> COFFEE TOUR ☕️
-
-
-koky que bueno sería buscar una fica de coffe tour con una caminata y vista de pereira.
-
-
-No puedes dejar pasar la oportunidad de conocer como es el proceso del cafe, y saber como es el proceso para llegar hasta convertirse en una deliciosa tasa de cafe.
-
-
-
 
 <a name="senderismo-alta-montana" id="senderismo-alta-montana"></a>
 
@@ -157,6 +147,27 @@ No puedes dejar pasar la oportunidad de conocer como es el proceso del cafe, y s
 
 
 Estas excursiones que te mostramos a continuación son de nivel de dificultad alto, muchos de estos subirán de 2.300 msnm a 5.200 msnm, en algunos de estos tendrán que caminar por nieve.
+
+
+### -> CERRO BRAVO ⛰️
+
+Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras, es un sendero de mucha exigencia, en parte del camino se encontrarán con piedras grandes, que harán difícil caminar, al final terminarán con una vista genial de 2 pequeñas lagunas.
+
+__INFORMACIÓN TÉCNICA:__
+- __Distancia Total:__ 5 Kilómetros
+- __Duración Sendero:__ 1 día 
+- __Inclinación del sendero:__ 3.200 a 4.000 m.s.n.m
+
+{% include image.html,
+file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cerro-bravi.jpg",
+caption:"Foto: Cerro Bravo",
+width:"1000",
+height:"1333"
+%}
+
+
+
+👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Cerro Bravo </a>
 
 
 ### -> NEVADO SANTA ISABEL ☃️
@@ -168,7 +179,7 @@ El nevado Santa Isabel, se encuentra ubicado sobre la cordillera central de Colo
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 9,49 Kilómetros
 - __Duración Sendero:__ 2 días 1 noche
-- __Inclinación del sendero:__ 4.154  4.923 m.s.n.m
+- __Inclinación del sendero:__ 4.154 a 4.923 m.s.n.m
 
 
 {% include image.html,
@@ -215,7 +226,7 @@ Te recomendamos que armes tu plan como lo deseas, ten en cuenta que la duración
 
 <a name="hospedaje-eje" id="hospedaje-eje"></a>
 
-## OPCIONES DE HOSPEDAJES EN EL EJE CAFETERO 🏨
+## HOSPEDAJES EN EL EJE CAFETERO 🏨
 
 Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles, los hemos seleccionado de acuerdo a su ubicación, que sea zona segura, cuente con parqueadero y recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva confiable toralmente gratis.
 
