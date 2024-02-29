@@ -2,7 +2,7 @@
 layout: trail
 title:  Laguna del Otún
 categories: colombia
-seo_title: Laguna del Otún - Cómo llegar|Update 2023
+seo_title: Laguna del Otún - Cómo llegar|Update 2024
 excerpt: La laguna del Otún. Descubre cómo llegar desde Pereira y conoce algunas fechas de excursiones grupales
 images_url: /images/rutas/risaralda/laguna-del-otun
 viewranger:
@@ -324,21 +324,11 @@ A Continuación te compartimos el mapa de la ruta realizada en la Laguna de Otú
 
 ## RECOMENDACIONES FINALES PARA VISITAR LA LAGUNA DEL OTÚN
 
-
 * Ten presente que la carretera se encuentra en mal estado, así que se recomienda que la persona que maneje el carro tenga experiencia en este tipo de terrenos.
-
-
 * El ingreso al parque de los nevados está restringido a personas: mayores de 70 años y menores de 5 años o personas con enfermedades cardíacas.
-
-
 * Está prohibido el ingreso de mascotas y la pesca.
-
-
 * Llevar bastante agua para ir hidratándose en el camino y así evitar el mal de altura.
-
-
 * Llevar carpa impermeable, ya que este es un lugar donde la lluvia y los vientos son muy fuertes.
-
 
 <a name="hospedaje-laguna" id="hospedaje-laguna"></a>
 
@@ -357,9 +347,6 @@ Aquí te mostraremos algunas opciones de hospedaje que podrás tener en Pereira.
 
 El Ventiuna Hotel y Coliving está situado en Pereira, a 1,6 km de la plaza Bolívar de Pereira y a 2,5 km del parque botánico de Pereira. El hotel alberga un jardín y está cerca de varios lugares de interés famosos, a unos 500 metros del Museo de Arte de Pereira, a 1,6 km del monumento a los Fundadores y a 1,8 km de la catedral de Nuestra Señora de la Pobreza. Cuenta con recepción abierta las 24 horas, servicio de traslado, cocina compartida y WiFi gratuito.
 
-
-
-
 {% include image.html,
  file:"rutas/risaralda/laguna-del-otun/hotel-pereira.jpg",
 caption:"Foto Hotel en Pereira",
@@ -372,7 +359,6 @@ Puedes dar click 👉 <a href= "https://www.booking.com/hotel/co/veintiuna-hosta
 
 
 <a name="descargar-laguna" id="descargar-laguna"></a>
-
 
 ### DESCARGAR INFORMACIÓN DE ESTA RUTA 💾⛰️
 
