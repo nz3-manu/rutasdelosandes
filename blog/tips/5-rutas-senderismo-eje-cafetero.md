@@ -4,9 +4,9 @@ title: 5 Rutas de Senderismo en el Eje Cafetero
 categories: blog
 seo_title: ⛰ 5 Rutas de senderismo en el Eje Cafetero - Rutas
 excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti, te recomendaremos algunos tours en Eje Cafetero o como también es conocido el Triángulo del Café.
-images_url: /images/blog/tips-montana/rutas-senderismo-eje-cafetero
+images_url: /images/blog/tips-montana/5-rutas-senderismo-eje-cafetero
 tags: TipsMontaña
-featured: https://rutasdelosandes.com/images/blog/tips-montana/rutas-senderismo-eje-cafetero/featured.jpg
+featured: https://rutasdelosandes.com/images/blog/tips-montana/5-rutas-senderismo-eje-cafetero/featured.jpg
 ---
 
 
@@ -106,7 +106,7 @@ __INFORMACIÓN TÉCNICA:__
 
 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/barbas-bremen.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/barbas-bremen.jpg",
 caption:"Foto: Barbas Bremen",
 width:"1800",
 height:"1200"
@@ -128,7 +128,7 @@ __INFORMACIÓN TÉCNICA:__
 - __Inclinación del sendero:__  1.730 a 1.850 m.s.n.m
 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cascada-frailes.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cascada-frailes.jpg",
 caption:"Foto: Cascada los Frailes",
 width:"765",
 height:"1020"
@@ -160,7 +160,7 @@ __INFORMACIÓN TÉCNICA:__
 - __Inclinación del sendero:__ 3.200 a 4.000 m.s.n.m
 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cerro-bravi.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cerro-bravi.jpg",
 caption:"Foto: Cerro Bravo",
 width:"1000",
 height:"1333"
@@ -184,7 +184,7 @@ __INFORMACIÓN TÉCNICA:__
 
 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/cumbre-santa-isabel.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cumbre-santa-isabel.jpg",
 caption:"Foto: Nevado Santa Isabel",
 width:"1080",
 height:"1349"
@@ -210,7 +210,7 @@ __INFORMACIÓN TÉCNICA:__
 
 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/laguna-otun.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/laguna-otun.jpg",
 caption:"Foto: Laguna del Otún",
 width:"1080",
 height:"607"
@@ -246,7 +246,7 @@ Estos se encuentra en una zona muy tranquila de la ciudad, los apartamentos __cu
 
 <a href="https://www.booking.com/hotel/co/monterosa-aptos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/apartamento-pereira.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/apartamento-pereira.jpg",
 caption:"Foto: apartamento amoblado pereira",
 width:"1654",
 height:"940"
@@ -267,7 +267,7 @@ Este hospedaje __cuenta con:__ wifi gratis, parking privado gratis, cocina total
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> 
 {% include image.html,
-file:"/blog/tips-montana/rutas-senderismo-eje-cafetero/hospedaje-manizales.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/hospedaje-manizales.jpg",
 caption:"Foto: apartamento amoblado pereira",
 width:"1654",
 height:"940"
@@ -277,6 +277,7 @@ height:"940"
 👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver este apartamento en Pereira</a>
 
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
+
 A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tus necesidades de hospedaje en Manizales, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje tenga trayectoria en la plataforma de Booking.
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
