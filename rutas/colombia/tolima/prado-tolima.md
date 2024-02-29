@@ -26,7 +26,6 @@ Así podrás planear mucho mejor tu viaje.
 - <a href="#video-prado-tolima"> Vídeo de la ruta a la represa de Prado </a>
 - <a href="#llegar-prado-tolima"> ¿Cómo llegar a Prado? </a>
 - <a href="#lugares-prado-tolima"> Lugares turísticos para visitar en Prado </a>
-- <a href="#mapa-prado-tolima"> Mapa de los lugares visitados en prado </a>
 - <a href="#tour-prado-tolima"> Tours disponibles en la represa de Prado</a>
 - <a href="#hospedaje-prado-tolima"> Hospedajes disponibles en Prado</a>
 - <a href="#recomendaciones-prado-tolima"> Recomendaciones finales para visitar Prado</a>
@@ -159,10 +158,10 @@ height:"564"
 __Advertencia:__ _Antes de llegar a la represa, tendrán que pasar por un túnel por lo que deben de tener precaución, disminuir la velocidad, y pitar antes de entrar o escuchar si viene alguien pitando para reducir la velocidad. El túnel es muy angosto y solo puede pasar un carro a la vez._
 
 
-<a name="mapa-prado-tolima" id="mapa-prado-tolima"></a>
 
 
-## MAPA LUGARES VISITADOS EN PRADO 🗺️
+
+### ->  MAPA LUGARES VISITADOS EN PRADO 🗺️
 
 
 En el siguiente mapa puedes ver: restaurantes, heladerías, y el lugar donde se toman los motocarros, ruta desde el pueblo de prado hasta la represa, y lugares que se visitan dentro de la represa.
@@ -184,8 +183,9 @@ A continuación te mostraremos los tours que ofrece la empresa con la cual estam
 
 ## TOURS DISPONIBLES EN LA RESERVA DE PRADO  🛶
 
+Aquí te mostraremos los diferentes tours que podrás realizar en la represa de Prado, __ten en cuenta que estos tours tienen una capacidad mínima de personas__, ya que la lancha cobra lo mismo si es 1 o 10 personas a igual que el guía. 
 
-Aquí te mostraremos los diferentes tours que podrás realizar.
+En cada una de las opciones que mencionamos a continuación, podrás ver una tabla de precios para hacer el tour de manera privada, o si se completará el cupo de 10 personas la tarifa ya sería grupal y sería el valor que aparece en cada tour.
 
 
 ### -> TOUR PASADIA MEDIANO
