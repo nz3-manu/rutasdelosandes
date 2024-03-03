@@ -217,7 +217,40 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
 
-En el municipio de Prado encontrarás una gran variedad de alojamientos  que normalmente valen 50.000$ por persona. Si planeas quedarte más de una noche en Prado, Tolima, te recomendamos que te quedes en algunas de las islas dentro de la presa en Prado. Puedes tomar el tour que tiene alojamiento, y si necesitas una noche adicional puedes informar en el momento antes de realizar el tour.
+Acontinuación te mostraremos las distientas opciones de hospedaje que podrás encontrar en prado tolima.
+
+### -> HOSPEDAJE EN EL CENTRO DE PRADO
+
+Este hospedaje se encuentra en el pueblo, a solo media cuadra del parque principal, si vas en moto la podrás dejar guardada aquí no tiene costo adicional, si vas en carro, tendrás que dejarlo al frente del hospedaje (calle), en este hospedaje tambien podrás encontrar servicio de comida rápida, es un lugar tranquílo ya que los dueños viven tambien allí.
+
+__Nota:__ Este hospedaje es ideal si llegas en la noche y solo quisieras pasar la noche para hacer comenzar el tour al otro día.
+
+### --> HABITACIÓN 2 CAMAS SENCILLAS
+Esta habitación cuenta con: 2 camas sencillas, baño privado, ventilador, televisión, aire acondicionado.
+
+{% include image.html,
+file:"rutas/tolima/represa-prado/habitación-1.jpg",
+caption:"Foto: Habitación centro" ,
+width:"1024",
+height:"683"
+%}
+
+### --> HABITACIÓN 2 CAMAS DOBLES
+
+Esta habitación cuenta con: 2 camas dobles, donde se podrán acomodar 4 personas, cuenta con baño privado, televisión, ventilador y aire acondicionado.
+
+{% include image.html,
+file:"rutas/tolima/represa-prado/habitacion-2.jpg",
+caption:"Foto: Habitación centro" ,
+width:"1024",
+height:"683"
+%}
+
+
+### -> HOSPEDAJE DENTRO DE LA REPRESA
+
+Para llegar a este hospedaje debes de tener en cuenta que, vas a tener que pagar una lancha, el valor de hospedaje por persona es de: $130.000 pesos por persona, esto __incluye:__ desayuno, almuerzo, cena y derecho a uso de piscina.
+
 
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
