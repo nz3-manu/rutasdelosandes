@@ -3,7 +3,7 @@ layout: article
 title: 5 Rutas de Senderismo en el Eje Cafetero
 categories: blog
 seo_title: ⛰ 5 Rutas de senderismo en el Eje Cafetero - Rutas
-excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti, . Ademáste recomendaremos, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
+excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti. Además, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
 images_url: /images/blog/tips-montana/5-rutas-senderismo-eje-cafetero
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/5-rutas-senderismo-eje-cafetero/featured.jpg
@@ -11,9 +11,9 @@ featured: https://rutasdelosandes.com/images/blog/tips-montana/5-rutas-senderism
 
 # 5 RUTAS DE SENDERISMO EN EL EJE CAFETERO
 
-ApuestoTe apostamos que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta para hacer en tu paso por el Eje cafetero, . aAsí que estés quédate tranquilo, aque aquí __te mostraremos 5 rutas de senderismo__ 🥾 que no te puedes perder en tu paso por este hermoso lugar.n el Eje Cafetero
+Te apostamos que eres de esos amantes de la naturaleza, y estás buscando que no se te escape ninguna ruta en tu paso por el Eje cafetero. Así que quédate tranquilo, que aquí __te mostraremos 5 rutas de senderismo__ 🥾 que no te puedes perder en el Eje Cafetero
 
-Adicional a eso, te dejaremos el link para ver más información de cada rutadejáremos en cada ruta de senderismo que se muestra en este post el link para ver información  y precios de los tours, . En caso de que si nono hablases mucho español muy fluido Español, también podrás tener la opción de ir con un __guía bilingüe__  🇺🇸 🇫🇷.
+Adicional a eso, te dejaremos el link para ver más información de cada ruta y precios de los tours. En caso de que no hables muy fluido Español, también podrás tener la opción de ir con un __guía bilingüe__  🇺🇸 🇫🇷.
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
 
@@ -26,11 +26,11 @@ Adicional a eso, te dejaremos el link para ver más información de cada rutadej
 
 No siendo más, empecemos ⛰️.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/boyaca/sierra-nevada-el-cocuy.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/tipsmonta%C3%B1a/5-hiking-trails-coffee-axis.html">See this post in English version 🇺🇸</a>]**
 
 ## VIDEO DE LOS LUGARES QUE VERASVERÁS EN EL EJE CAFETERO
 
-A continuación te mostraremos un video mostrando los lugares que describimos en este post, este video cuenta con subtítulos en inglesinglés, así que si lo deseas puedes activarlos.
+A continuación te mostraremos un video mostrando los lugares que describimos en este post, este video cuenta con subtítulos en inglés, así que si lo deseas puedes activarlos.
 
 --- video 🔜 ---
 
@@ -40,33 +40,34 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## ¿DÓNDE QUEDA EL EJE CAFETERO 🤔?
 
-El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos de con más fácil acceso desde las principales ciudades tales como: Medellín, Cali y Bogotá.
+El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos con más fácil acceso desde las principales ciudades tales como: Medellín, Cali y Bogotá.
 
 
-Cabe resaltar que el Eje Cafetero está conformado por los departamentos deCabe mencionar que el Eje Cafetero está conformado por tres departamentos, los cuales son: __Risaralda, Quindío y Caldas__, los cuales forman un triánguloel triángulo del café, con las ciudades principales de colombia (Bogota, Medellin y Cali) de aquí su nombre triángulo de café o triangulo dorado.
-lo que la convierte en una de las zonas del país con mayor demanda gastronómica, cultural y cafetera. 
+Cabe resaltar que el Eje Cafetero está conformado por los departamentos de__Risaralda, Quindío y Caldas__,los cuales forman el triángulo del café, lo que la convierte en una de las zonas del país con mayor demanda gastronómica, cultural y cafetera. 
 <a name="como-llegar-eje" id="como-llegar-eje"></a>
 
 
 ## ¿CÓMO LLEGAR AL EJE CAFETERO ?
 
 
-Para llegar al Eje Cafetero lo puedes hacer tanto en bus como en avíonavión, . sSi estasestás programando tu viaje con tiempo prodrás, podrás encontrar excelenteexcelentes promociones de vuelos.
+Para llegar al Eje Cafetero lo puedes hacer tanto en bus como en avión. Si estás programando tu viaje con tiempo, podrás encontrar excelentes promociones de vuelos.
 
 
 ### -> EN AVIÓN 🛩️
 
 
-Si vas en Si vas a viajar al Eje Cafetero en avión , vas a encontrar mayor oferta de vuelos a la ciudad de pereiraPereira, ya que esta ees la unicaúnica ciudad que cuenta con un aeropuerto internacional. Pereira se encuentra en medio de las 2 ciudades (Manizales y Armenia) así que seraserá facilfácil para desplazarte a cualquiera de estas 2 ciudades del triángulo dorado del café, . aAquí te compartimos algunas aerolineasaerolíneas que prestan el servicio a pereira.
+Si vas a viajar al Eje Cafetero en avión, vas a encontrar mayor oferta de vuelos a la ciudad de Pereira, ya que es la única ciudad que cuenta con un aeropuerto internacional. Pereira se encuentra en medio de las 2 ciudades (Manizales y Armenia) así que será fácil para desplazarte a cualquiera de estas 2 ciudades del triángulo dorado del café. Aquí te compartimos algunas aerolíneas que prestan el servicio a pereira.
 
 
-- __Jetsmart:__ Es una compañiacompañía que llegollegó nueva a Colombia, por tal motivo aunaún tiene algunas promociones
-- __Avianca:__ Una compañiacompañía con gran trayectoría que tambientambién opera para esta región.
+- __Jetsmart:__ Es una compañía que llegó nueva a Colombia, por tal motivo aún tiene algunas promociones
+- __Avianca:__ Una compañía con gran trayectoría que también opera para esta región.
 
 
 ### -> EN BUS 🚐
 
-En bus vas a encontrar muchas masmás alternativas y horarios de transporte . tTen encunta en cuenta que de Armenia a pereira Pereira es más o menos 1 hora en bus, de Pereira a Manizales aproximadamente 50 minutos y de Manizales a Armenia son 2 horas:
+
+En bus vas a encontrar muchas más alternativas y horarios de transporte. Ten en cuenta que de Armenia a Pereira es más o menos 1 hora en bus, de Pereira a Manizales aproximadamente 50 minutos y de Manizales a Armenia son 2 horas:
+
 
 - __Desde Bogota hasta el Eje cafetero:__ tiempo promedio 10 horas.
 - __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 6 horas.
@@ -87,15 +88,13 @@ A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafet
 
 ## RUTAS DE SENDERISMO DE MEDIA MONTAÑA ⛰️
 
-
 La baja montaña son rutas en las cuales no verás inclinaciones elevadas (1.500 a 2.500 m.s.n.m.), por tal motivo no verás páramos o nevados, pero sí podrás ver paisajes de bosques con muchos ruidos de todo tipo de animalitos 🐒 🦜.
 
 
-### -> #1 BARBAS BREMEN 
+### -> #1 BARBAS BREMEN
 
 
-Este lugar se encuentra en Filandia Quindío, a solo 1 hora de Pereira, esta ruta está llena de mucha naturaleza, aquí podrás apreciar los monos aulladores 🦧, y terminar en una pequeña cascada en la cual te podrá abañarpodrás bañar si así lo deseas.
-
+Este lugar se encuentra en Filandia Quindío, a solo 1 hora de Pereira, esta ruta está llena de mucha naturaleza, aquí podrás apreciar los monos aulladores 🦧, y terminar en una pequeña cascada en la cual te podrás bañar si así lo deseas.
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 4 Kilómetros
@@ -110,9 +109,7 @@ width:"1800",
 height:"1200"
 %}
 
-
 👉 <a href="https://www.randes.co/products/tour-barbas-bremen" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Barbas Bremen </a>
-
 
 ### -> #2 CASCADA LOS FRAILES 
 
@@ -139,11 +136,11 @@ height:"1020"
 
 ## RUTAS DE SENDERISMO ALTA MONTAÑA EN EL EJE CAFETERO 🧗‍♂️
 
-Estas rutas que te mostramos a continuación son de nivel de dificultad altoa, Sosolo se recomiendan para personas que hayan practicado senderimossenderismo, s debido a que son rutas que van a estar entre 2.500 hasta 5.200 m.s.n.m, en algunas de estanestas van a tener que caminar en la nievevas a caminar en la nieve ❄️.
+Estas rutas que te mostramos a continuación son de nivel de dificultad alta, solo se recomiendan para personas que hayan practicado senderismo debido a que son rutas que van a estar entre 2.500 hasta 5.200 m.s.n.m, en algunas de estas vas a caminar en la nieve ❄️.
 
 ### -> #3 CERRO BRAVO
 
-Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras, . eEs un sendero de mucha exigencia, en gran parte del camino se encontrarán con piedras grandes, que harán las cuales harán un poco más demandante difícil caminar,el recorrido. aAl final terminarán con una vista genial de 2 pequeñas lagunas.
+Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras. Es un sendero de mucha exigencia, en gran parte del camino se encontrarán con piedras grandes, las cuales harán un poco más demandante el recorrido. Al final terminarán con una vista genial de 2 pequeñas lagunas.
 
 
 __INFORMACIÓN TÉCNICA:__
@@ -163,14 +160,12 @@ height:"1333"
 
 ### -> #4 NEVADO SANTA ISABEL
 
-El nevado Santa Isabel,  se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔, . eEl recorrido es demasiado exigente l sendero es difícil, van a ya que alcanzarán a caminar en la tenernieve que caminar sobre la nieve, . se recomiendaAntes de empezar con el recorrido,  se recomienda que las personas tengan experiencia previa en recorridos de alta montañapara persona que cuenten con experiencia previa. para que eviten sufrir el denominado mal de altura. 
+El nevado Santa Isabel se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔. El recorrido es demasiado exigente ya que alcanzarán a caminar en la nieve. Antes de empezar con el recorrido, se recomienda que las personas tengan experiencia previa en recorridos de alta montaña para que eviten sufrir el denominado mal de altura. 
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 9,49 Kilómetros
 - __Duración Sendero:__ 2 días 1 noche
 - __Inclinación del sendero:__ 4.154 a 4.923 m.s.n.m
-
-
 
 
 {% include image.html,
@@ -182,12 +177,13 @@ height:"1349"
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/p/CX90pdqFz26/"  target="_blank"> @juancanon.ph</a> </span>**
 
+
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
+
 
 ### -> #5 LAGUNA DEL OTÚN
 
 Esta es una de las rutas en la que podrás ver una de las lagunas más grandes que hay en el parque de los nevados, es una caminata con una dificultad moderada, no se recomienda para personas que tengan enfermedades pulmonares o cardiacas.
-
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 9,5 Kilómetros
@@ -206,16 +202,15 @@ height:"607"
 <a name="recomendaciones-para-tour" id="recomendaciones-para-tour"></a>
 
 
-## RECOMENCADIONESRECOMENDACIONES PARA TOMAR UN TOURS 🥾🧳
+## RECOMENDACIONES PARA TOMAR UN TOUR 🥾🧳
 
-
-Te recomendamos que armes por día cada lugar que deseas visitar, . tTen en cuenta que la duración de las rutas cortas (tardan alrededor de 3 horas) y se realizan en la mañana.  aAsí que tendrás parte de la tarde y noche libre, así que podráspor lo que podrás contar con tiempo para disfrutar de la ciudad, o de  ir a los termales de Santa rosaRosa de Cabal, o visitar Salento, no incluimos estos sitios en este post porque queríamos que fuera solo de lugares de senderismo 🥾.
+Te recomendamos que armes por día cada lugar que deseas visitar. Ten en cuenta que la duración de las rutas cortas (tardan alrededor de 3 horas) y se realizan en la mañana. Así que tendrás parte de la tarde y noche libre, por lo que podrás contar con tiempo para disfrutar de la ciudad, ir a los termales de Santa Rosa de Cabal, o visitar Salento, no incluimos estos sitios en este post porque queríamos que fuera solo de lugares de senderismo 🥾.
 
 
 Las rutas, del Nevado Santa Isabel, solo se hace con previa reserva, si vas con un grupo de 3 o 4 personas será más fácil poder hacer esta excursión.
 
 
-__Nota:__ _Todos estos tours salen de Pereira, ya que como vimosmencionamos anteriormente Pereira se encuntraencuentra en medíomedio de las ciudades de Manizales y Armania._Armenia._
+__Nota:__ _Todos estos tours salen de Pereira, ya que como mencionamos anteriormente Pereira se encuentra en medio de las ciudades de Manizales y Armenia._
 
 
 <a name="hospedaje-eje" id="hospedaje-eje"></a>
@@ -224,16 +219,16 @@ __Nota:__ _Todos estos tours salen de Pereira, ya que como vimosmencionamos ante
 ## HOSPEDAJES EN EL EJE CAFETERO 🏨
 
 
-Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles, l. Losas hemos seleccionado de acuerdo a su ubicación,  además, que sea zona se encuentren en zonas seguras, cuente con parqueadero y. Pero sobre todo, recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva de manera segura confiable toralmente gratis.y totalmente gratis. 
+Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles. Las hemos seleccionado de acuerdo a su ubicación, además, que se encuentren en zonas seguras, cuente con parqueadero. Pero sobre todo, recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva de manera segura y totalmente gratis. 
 
 
-__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que pusimos agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
 ### -> APARTAMENTOS AMOBLADOS (PEREIRA)
 
 
-Estos se encuentraencuentran en una zona muy tranquila de la ciudad, los apartamentos __cuentan con:__ parqueadero, cocina (microondas, nevera), conexión inalámbrica a internet gratuita, TV de plasma, servicio de camarera de pisos. Esta zona a pesar de estar cerca de la ciudad está un poco resguardada del estrés de carrosde los carros y de las multitudes, podrás encontrar varias opciones de acomodaciones.
+Estos se encuentran en una zona muy tranquila de la ciudad, los apartamentos __cuentan con:__ parqueadero, cocina (microondas, nevera), conexión inalámbrica a internet gratuita, TV de plasma, servicio de camarera de pisos. Esta zona a pesar de estar cerca de la ciudad está un poco resguardada del estrés de los carros y de las multitudes, podrás encontrar varias opciones de acomodaciones.
 
 
 <a href="https://www.booking.com/hotel/co/monterosa-aptos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
@@ -252,7 +247,7 @@ height:"940"
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (PEREIRA)
 
 
-A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tus necesidades  tu presupuestode hospedaje en Pereira, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje y que tenga trayectoria en la plataforma de Booking.
+A continuación te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje y que tenga trayectoria en la plataforma de Booking.
 
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-594819&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Booking</a>
@@ -261,7 +256,7 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 ### -> THE COFFEE CLUB (MANIZALES)
 
 
-Este hospedaje __cuenta con:__ wifi WiFi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo, . Este hospedaje estaestá ubicado a 5,8 km del centro de manizalesManizales.
+Este hospedaje __cuenta con:__ WiFi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo. Este hospedaje está ubicado a 5,8 km del centro de Manizales.
 
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
@@ -280,7 +275,7 @@ height:"940"
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
 
 
-A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tus necesidades de hospedaje en Manizales presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, qy ue el hospedaje tenga trayectoria en la plataforma de Booking.
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y ue el hospedaje tenga trayectoria en la plataforma de Booking.
 
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
