@@ -217,51 +217,101 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
 
-Acontinuación te mostraremos las distientas opciones de hospedaje que podrás encontrar en prado tolima.
+A continuación te mostraremos las distintas opciones de hospedaje que podrás encontrar en prado tolima, los hemos categorizado como:
+* __Hospedajes en el centro de prado:__ ideal para las personas que van a llegar en la noche.
+*__hospedaje en la represa de prado:__. ideal para personas que cuentan con más tiempo y quieran disfrutar más de este lugar.
 
 ### -> HOSPEDAJE EN EL CENTRO DE PRADO
 
-Este hospedaje se encuentra en el pueblo, a solo media cuadra del parque principal, si vas en moto la podrás dejar guardada aquí no tiene costo adicional, si vas en carro, tendrás que dejarlo al frente del hospedaje (calle), en este hospedaje tambien podrás encontrar servicio de comida rápida, es un lugar tranquílo ya que los dueños viven tambien allí.
+Este hospedaje se encuentra en el centro, a solo media cuadra del parque principal, si vas en moto la podrás dejar guardada aquí no tiene costo adicional 😉, si vas en carro, tendrás que dejarlo al frente del hospedaje (calle) o pagar un parqueadero. En este hospedaje tambien presntan el servicio de venta de comida rápida, este es un lugar tranquílo ya que los dueños viven tambien allí.
 
 __Nota:__ Este hospedaje es ideal si llegas en la noche y solo quisieras pasar la noche para hacer comenzar el tour al otro día.
 
-### --> HABITACIÓN 2 CAMAS SENCILLAS
-Esta habitación cuenta con: 2 camas sencillas, baño privado, ventilador, televisión, aire acondicionado.
+A continuación te mostraremos el tipo de habitaciones que tienen disponible.
+
+### --> HABITACIÓN CON 2 CAMAS SENCILLAS
+
+* __La habiatición cuenta con:__ 2 camas sencillas, baño privado, ventilador, televisión, aire acondicionado, wifi y parqueadero para moto.
+* __No incluye alimentación.__
 
 {% include image.html,
 file:"rutas/tolima/represa-prado/habitación-1.jpg",
-caption:"Foto: Habitación centro" ,
-width:"1024",
-height:"683"
+caption:"Foto: Habitación centro pequeña" ,
+width:"1200",
+height:"960"
 %}
 
-### --> HABITACIÓN 2 CAMAS DOBLES
+* __Valor habitación 2 personas:__ $55.000 Pesos por persona
 
-Esta habitación cuenta con: 2 camas dobles, donde se podrán acomodar 4 personas, cuenta con baño privado, televisión, ventilador y aire acondicionado.
+### --> HABITACIÓN CON 2 CAMAS DOBLES
+
+* __La habitación cuenta con:__ 2 camas dobles, donde se podrán acomodar a maximo 4 personas, cuenta con baño privado, televisión, ventilador, aire acondicionado, wifi, parqueadero para moto, 
+* __No incluye alimentación.__
 
 {% include image.html,
 file:"rutas/tolima/represa-prado/habitacion-2.jpg",
-caption:"Foto: Habitación centro" ,
+caption:"Foto: Habitación centro grande" ,
+width:"1024",
+height:"683"
+%}
+
+* __Valor habitación 2 personas:__ $60.000 Pesos por persona
+* __Valor habitación 4 personas:__ $45.000 Pesos por persona
+
+### -> HOSPEDAJE EN LA REPRESA DE PRADO
+
+Aquí te mostraremos las distintas opciones que tienes de hospedaje, dentro de la represa de prado, ten encuentra que si el hospedaje necesitas tomar lacha __debes de llegar antes de las 6:00 pm__ que es el tiempo permitido para navegar dentro de la represa.
+
+Si vas en carro o moto podrás dejarlo en paparqueadero de la represa, este tendrá un costo aproximado para las 24 horas de: moto de: $12.000 pesos, Carro: $20.000 pesos.
+
+
+### --> HOSPEDAJE EN EL MUELLE TURISTICO
+
+Este hospedaje se encuentra en todo el muelle turístico, no tendrás que pagar lancha, allí hay cerca restaurantes y supermercados, y disfrutar de una vista hermosa de esta represa.
+ 
+ * __El apartamento incluye:__ 2 camas dobles, cocina, nevera, utensilios de cocina y un colchón auxiliar.
+ * __No incluye:__ alimención y tarifa de parqueadero (tendrás que dejarlo en el parqueadero del muelle).
+
+{% include image.html,
+file:"rutas/tolima/represa-prado/hospedaje-muelle-turistico.png",
+caption:"Foto: Hospedaje en el Muelle turistico" ,
+width:"2000",
+height:"1600"
+%}
+
+* __Valor por pareja:__ $160.000 Pesos por pareja.
+* __Valor para 3 personas:__ $230.000 Pesos para 3 personas.
+* __Valor para 4 personas:__ $290.000 Pesos para grupo de 4 personas. 
+* __Valor para 5 personas:__ $320.000 Pesos para grupo de 5 personas (una persona dormirá en un colchón en el suelo)
+
+
+### --> HOSPEDAJE DENTRO DE LA REPRESA DE PRADO 
+
+Para llegar a este hospedaje debes de tener en cuenta que, vas a tener que pagar una lancha, el valor de hospedaje por persona es de: $130.000 pesos por persona.
+
+* __Incluye:__ desayuno, almuerzo, cena y derecho a uso de piscina. 
+* __No incluye:__ transporte de la represa hasta hospedaje, Tarifa de parqueadero de carro o moto dentro de la represa.
+
+__Importante:__ en la represa solo dejan transitar lanchas hasta las 6:30 pm así que debes llegar antes para que te puedan llevar al hospedaje.
+
+{% include image.html,
+file:"rutas/tolima/represa-prado/habitacion-2.jpg",
+caption:"Foto: Hospedaje represa" ,
 width:"1024",
 height:"683"
 %}
 
 
-### -> HOSPEDAJE DENTRO DE LA REPRESA
-
-Para llegar a este hospedaje debes de tener en cuenta que, vas a tener que pagar una lancha, el valor de hospedaje por persona es de: $130.000 pesos por persona, esto __incluye:__ desayuno, almuerzo, cena y derecho a uso de piscina.
-
-
+* __Valor por persona:__ $130.000 Pesos por persona.
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
 
 ## RECOMENDACIONES FINALES PARA VISITAR PRADO
+
 * En este lugar encontrarán muchos mosquitos, así que te recomendamos llevar repelentes.
 * Si viajas desde lejos te recomendamos hospedarte en un hotel en el pueblo solo 1 noche.
 * Si quieres quedarte un poco más de días, te recomendamos hospedarte en una isla, ya que encontrarás muchas más cosas para hacer.
-
-
 
 
 Este es el fin de la ruta a la represa de prado Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
