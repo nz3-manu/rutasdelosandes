@@ -2,7 +2,7 @@
 layout: trail
 title: Termales del Sifón
 categories: colombia
-seo_title: Termales del Sifón | Guía de viaje 2023
+seo_title: Termales del Sifón | Guía de viaje 2024
 excerpt: ♨️ Termales del Sifón es un lugar oculto  cerca a Manizales, se encuentra dentro del parque de los nevados, esta es una ruta para hacer senderismo cerca de Manizales.
 images_url: /images/rutas/caldas/sifon
 viewranger:
@@ -14,7 +14,7 @@ trending: true
 
 Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔 en Manizales, este es sin duda un lugar para visitar si estas viajando y no sabes **que hacer en Manizales**.
 
-👉  __<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:green;" target="_blank">Quieres consultar precios de un tour, puedes dar clic aquí</a>__
+__<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:maroon;" target="_blank">Si quieres evitar inconvenientes ♨️ he ir con una agencia de viajes local clic aquí👈</a>__
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -47,6 +47,8 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 ## TOUR A LOS TERMALES DEL SIFÓN 🧳
 
 Los __precios para el tour a la los termales del Sifón pueden variar__, esto dependerá del número de personas que vayan, ya que el transporte va a cobrar lo mismo si es 1 o 7 personas. Algunas agencias del Eje Cafetero hacen salidas programadas, así que te invitamos a ver el link que dejamos abajo de esta sección para ver más información.
+
+Si no hablas muy bien español también podrás hacer este recorrido con un guía bilingüe.
 
 ### -> EL TOUR A LOS TERMALES DEL  SIFÓN INCLUYE:
 

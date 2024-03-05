@@ -2,7 +2,7 @@
 layout: trail
 title: Norcasia
 categories: colombia
-seo_title: Norcasia y Río la Miel Guía | Actualizada 2023
+seo_title: Norcasia y Río la Miel Guía | Actualizada 2024
 excerpt: Norcasia es conocido por el Río la Miel y el embalse de Amaní, descubre dónde hospedarte  y lugares para visitar en Norcasia-caldas.
 images_url: /images/rutas/caldas/norcasia
 viewranger: MTY2NDcwMQ==
@@ -72,13 +72,13 @@ En Norcasia podrás encontrar diferentes tipos de **planes turísticos al embals
  
 En caso de que no cuenten con transporte y quieres ir en bus, aquí te mostraremos algunas opciones para que lo puedas hacer tú mismo:
  
-### DESDE MANIZALES A NORCASIA:
+### -> DESDE MANIZALES A NORCASIA:
  
 - **Coopuertos:** viaja directo a Norcasia todos los días a la 1:30 pm, el valor del pasaje es de $45.000, esta empresa también viaja hasta La Dorada caldas a partir de las 6 am hasta las 6 pm saliendo cada hora, duración del trayecto 5 horas (Manizales - La Dorada), valor pasaje $35.000 pesos. **Teléfono: <a href="tel: 3162714173"> 3162714173</a>**
  
 - **Rápido Tolima:** Sale todos los días a las 3 pm directo a Norcasia, valor pasaje $45.000, **Teléfono: <a href="tel: 3153914211"> 3153914211</a>**
  
-### DESDE ALGUNAS PRINCIPALES CIUDADES DE COLOMBIA A NORCASIA:
+### -> DESDE ALGUNAS PRINCIPALES CIUDADES DE COLOMBIA A NORCASIA:
  
 - **Medellín a La Dorada:** El valor del pasaje es de aproximadamente $52.000, algunas empresas son: Rapido ochoa, Expreso Brasilia, Coomotor, la duración del trayecto es alrededor de 6 horas,
  

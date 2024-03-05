@@ -2,7 +2,7 @@
 layout: trail
 title: Bahía Málaga
 categories: colombia
-seo_title: Bahía Málaga Actualizado 2023 | ¿Qué hacer y dónde hospedarse?
+seo_title: Bahía Málaga Actualizado 2024 | ¿Qué hacer y dónde hospedarse?
 excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahía Málaga, además, descubre cómo llegar a la Playa Juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
 images_url: /images/rutas/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
@@ -63,7 +63,7 @@ Quizás te estarás preguntando, ¿cómo se llega a Bahía Málaga?. Y es que pa
 
 __NOTA:__ _Algunas empresas de transporte en temporada alta habilitan rutas directas a buenaventura, puedes confirmar con los teléfonos que dejamos de cada una de las ciudades._
 
-#### DESDE BOGOTÁ A CALI
+### -> DESDE BOGOTÁ A CALI
 
 La distancia de Bogotá a Cali vía terrestre es de aproximadamente 519 Kilómetros. Para cubrir esta distancia, se emplean alrededor de 11 horas. Las empresas de buses que prestan el servicio hacia Cali son:
 
@@ -71,14 +71,14 @@ La distancia de Bogotá a Cali vía terrestre es de aproximadamente 519 Kilómet
 
 * __Empresa Expreso Palmira:__ El valor del pasaje tiene un costo de $100.000 COP por persona. Los horarios de salida de los buses de Expreso Palmira son: 9:00 AM, 10:30 AM, 11:45 AM,1:15 PM, 3:00 PM, 4:30 PM, 6:00 PM, 7:45 PM, 10:00 PM y 11:00 PM. Teléfono: <a href="tel: 3105452791 "> 3105452791 </a> o <a href="tel: 3112730419 "> 3112730419 </a>
 
-#### DESDE MEDELLÍN A CALI
+### -> DESDE MEDELLÍN A CALI
 En promedio, el viaje de Medellín a Cali dura aproximadamente 8 horas. Este es el tiempo que se tarda en recorrer la distancia de 329 kilómetros. Las empresas de buses que cubren este recorrido son:
 * __Empresa Arauca:__ El valor del pasaje por persona es de $90.000 COP. Los horarios de salida de los buses de Empresa Arauca son: 5:30 AM, 8:00 AM, 10:30 AM, 2:00 PM, 4:00 PM, 6:00 PM, 8:00 PM, 9:00 PM, 10:00 PM y 11:00 PM. Teléfono: <a href="tel: 313 649 0376 "> 313 649 0376 </a> o <a href="tel: 313 649 0359 "> 313 649 0359 </a>.
 
 * __Empresa Flota Magdalena:__ El valor del pasaje por persona es de $90.000 COP. Los horarios de salida de los buses de Empresa Arauca son: 5:30 AM, 8:00 AM, 10:30 AM, 2:00 PM, 4:00 PM, 6:00 PM, 8:00 PM, 9:00 PM, 10:00 PM y 11:00 PM. Teléfono:
 <a href="tel: (604) 42309452 "> (604) 42309452 </a>.
 
-#### DESDE PEREIRA A CALI
+### -> DESDE PEREIRA A CALI
 
 En promedio, el viaje a Cali desde la ciudad de Pereira dura aproximadamente 3hrs y 45 minutos. Es el tiempo estimado para cubrir los 178 kilómetros de distancia entre ambas ciudades. Las empresas de buses que prestan el servicio de transporte, son:
 
@@ -161,7 +161,7 @@ Ten en cuenta que si quieres hacer avistamiento de las __Ballenas Jorobadas__, d
 
 Una vez llegues a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__ en esta zona, aquí te mencionamos algunos de estos.
 
-### HOSPEDAJE EN LA LOMA DE CHUCHEROS YANEISY
+### -> HOSPEDAJE EN LA LOMA DE CHUCHEROS YANEISY
 
 Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeño acantilado tiene una vista hermosa del mar 🌊, en todo el frente de esta se podrá ver Juanchaco y ladrilleros.
 
@@ -175,7 +175,7 @@ __Aquí podrás encontrar los siguientes servicios:__
 - 🍛 Almuerzo
 - 🍛 Cena
 
-### HOSPEDAJE EN PLAYA JUAN DE DIOS
+### -> HOSPEDAJE EN PLAYA JUAN DE DIOS
 
 El hostal Playa Juan de Dios está ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza, ya que constantemente están haciendo campañas con voluntarios para limpiarlas.
 
@@ -188,7 +188,7 @@ __Aquí podrás encontrar los siguientes servicios:__
 - 🏠 Habitación privada para 2 personas
 - En este hospedaje no se presta la cocina ni sus alrededores para hacer de comer, por los que se tendrá que comprarla.
 
-### OTROS HOSPEDAJES DISPONIBLES EN BAHÍA MÁLAGA
+### -> OTROS HOSPEDAJES DISPONIBLES EN BAHÍA MÁLAGA
 
 También podrás encontrar otras alternativas de hospedajes dentro de Bahía Málaga en: Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares, ya que se haría muy extenso el artículo, estos hospedajes los podrás encontrar en google.
 
@@ -206,7 +206,7 @@ mid:"1FyUNYn0REPJyyWRY2wrBfXGsmakFHVFr&hl=es",
 caption:"mapa de Bahía Málaga"
 %}
 
-### LA LOMA DE CHUCHEROS
+### -> LA LOMA DE CHUCHEROS
 
 Este lugar al estar en un pequeño acantilado tiene una hermosa vista sobre el mar 🌊. Y por todo el frente, se podrá ver Juanchaco, ladrilleros y la base naval de Bahía Málaga.
 
@@ -219,7 +219,7 @@ width:"1200",
 height:"800"
 %}
 
-### PLAYA JUAN DE DIOS
+### -> PLAYA JUAN DE DIOS
 
 Esta playa es conocida por su limpieza, ya que constantemente hacen campaña con los voluntarios para limpiarla. Además de esto, en el fondo se puede ver una cueva que sale de la parte superior de un arroyo de agua dulce. Una vez que cruce esta cueva, encontrarás otra cueva un poco más grande donde podrá disfrutar de una agradable puesta de sol observando las aguas cristalinas del mar.
 
@@ -230,7 +230,7 @@ width:"1200",
 height:"800"
 %}
 
-### PLAYA DORADA
+### -> PLAYA DORADA
 
 Es conocida por tener una arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
 
@@ -249,7 +249,7 @@ __NOTA:__ _Recuerda llevar para esta ruta, chaqueta rompevientos, debido a que e
 
 Al día siguiente la emoción de todos nosotros era evidente, ya que ese día salimos a conocer la cascada la Sierpe y las 3 Marias.
 
-### DÍA #2
+### -> DÍA #2
 
 A las 8 de la mañana nos encontramos con nuestro guía que nos daba algunas recomendaciones previas para empezar esta hermosa aventura.
 
@@ -277,7 +277,7 @@ height:"800"
 
 ## ¿CÓMO REGRESAR DE BAHÍA MÁLAGA?
 
-### DÍA #3
+### -> DÍA #3
 
 Es recomendable salir en las horas de la mañana, ya que en la tarde es más probable que el mar se agite 🌊 (se vuelva turbulento) y se suspenda el tránsito de las lanchas.
 

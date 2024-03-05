@@ -14,7 +14,9 @@ trending: true
  
 El Nevado del Ruiz o como es llamado también __volcán Nevado del Ruiz__ está ubicado en el departamento de Caldas cerca a la ciudad de Manizales. 
 
- 
+__<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres evitar inconvenientes ♨️ he ir con una agencia de viajes local clic aquí👈</a>__ 
+
+
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 * <a href="#dato-ruiz" > Datos curiosos del Nevado del Ruiz</a> 
