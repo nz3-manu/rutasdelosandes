@@ -71,7 +71,7 @@ En bus vas a encontrar muchas más alternativas y horarios de transporte. Ten en
 
 - __Desde Bogota hasta el Eje cafetero:__ tiempo promedio 10 horas.
 - __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 6 horas.
-- __Desde Medellin  hasta el Eje cafetero:__ tiempo promedio 5 horas.
+- __Desde Cali hasta el Eje cafetero:__ tiempo promedio 5 horas.
 
 
 ## RUTAS DE SENDERISMO EN EL EJE CAFETERO  🥾 

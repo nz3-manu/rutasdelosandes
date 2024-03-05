@@ -14,7 +14,7 @@ trending: true
 
 Los Termales del Sifón son unas aguas termales de color turquesa, que se encuentran ubicados dentro del parque Natural los Nevados, cerca al nevado del Ruiz 🏔 en Manizales, este es sin duda un lugar para visitar si estas viajando y no sabes **que hacer en Manizales**.
 
-👉  __<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:green;" target="_blank">Quieres realizar esta ruta con una agencia ♨️?, puedes dar clic aquí</a>__
+👉  __<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:green;" target="_blank">Quieres consultar precios de un tour, puedes dar clic aquí</a>__
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -40,13 +40,15 @@ Empecemos con la aventura ⛰.
    caption:"Termales del Sifon" 
 %}
 
+Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
 <a name="tour-sifon" id="tour-sifon"></a>
 
 ## TOUR A LOS TERMALES DEL SIFÓN 🧳
 
-Los **precios para el tour a la los termales del Sifón** pueden variar desde $490.000 COP (Por persona) hasta $210.000 COP (Por persona) , esto dependerá del numero de personas que vayan, puedes escribirnos para consultar disponibilidad de salidas grupales o privadas.
+Los __precios para el tour a la los termales del Sifón pueden variar__, esto dependerá del número de personas que vayan, ya que el transporte va a cobrar lo mismo si es 1 o 7 personas. Algunas agencias del Eje Cafetero hacen salidas programadas, así que te invitamos a ver el link que dejamos abajo de esta sección para ver más información.
 
-**El Tour a los termales del Sifón incluye:**
+### -> EL TOUR A LOS TERMALES DEL  SIFÓN INCLUYE:
 
 - 🚙 Transporte desde Manizales o pereira en carro 4X4
 - 🥨 Desayuno
@@ -55,10 +57,11 @@ Los **precios para el tour a la los termales del Sifón** pueden variar desde $4
 - 👨 Guianza
 - 🫶 Seguro de asistencia médica
 
-👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar en un tour privado? puedes escribirnos </a>**
-
+👉  __<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:maroon;" target="_blank">Quieres consultar precios de un tour?, puedes dar clic aquí</a>__
 
 En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos tu información y una vez completemos el cupo te estaríamos contactando __<a href="https://forms.gle/ru6JAjhvi5abF7eh9" target="_blank"> llenar formulario aquí 👈</a>.__ 
+
+👉 **<a href="https://wa.link/wgmhgn" target="_blank" style="color:maroon;"> ¿Te gustaría visitar este lugar en un tour privado? puedes escribirnos </a>**
 
 <a name="llegar-Sifon" id="llegar-Sifon"></a>
 
@@ -66,14 +69,12 @@ En caso de que estés viajando solo y quieras unirte a un grupo, puedes dejarnos
 
 Nuestro viaje empezó desde el terminal de transporte de Manizales a las 5:30 am, donde nos recogió el 🚙 carro 4x4 que nos llevaría a este hermoso lugar.
 
-<ins> Debes de tener en cuenta que para llegar a este lugar no vas a encontrar transporte público </ins>
-
 Con cada kilómetro que avanzábamos dejábamos atrás los edificios y el ruido incesante de la ciudad, nos conectábamos cada vez mas con la majestuosidad de la naturaleza y esto conllevaba que las emoción se hiciesen más fuerte al ver los hermosos frailejones 🍃.
 
 Para climatizar nuestro cuerpo a la altura del paramo, tuvimos que bajar levemente los vidrios al carro, esto con el fin de que nuestros cuerpos se empezaran a adaptar al frío del paramo para no tener que sufrir el famoso mal de altura ( **<a href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html" target="_blank"> ver mal de altura</a>.** )🥶.
 
 
-### LAGUNA NEGRA 
+### -> LAGUNA NEGRA 
 
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la :
 __Laguna Negra__, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
@@ -88,7 +89,7 @@ __Laguna Negra__, aprovechamos un rato para comprar algo de desayuno, y tomar al
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>**
 
 
-### TERMALES DEL SIFÓN 
+### -> TERMALES DEL SIFÓN 
 
 Después de 1 hora de trayecto por la carretera destapada, donde pudimos observar hermosas vistas de paisajes montañosos, rocosos y llenos de frailejones, llegamos a un sector conocido como el Sifón, donde nos encontramos una pequeña casa la cual brinda el servicio de tienda 🏡 (solo van a encontrar snacks), allí pudimos abastecernos de algunos snacks como papitas y gaseosas. Adicionalmente, la casa tambien toma el registo de las personas quienes van a ingresar a Los Termales del Sifón.
 
@@ -130,10 +131,12 @@ Después de habernos desconectado del estrés de la un relajante baño en estas 
 ## HOSPEDAJE CERCA A LOS TERMALES DEL SIFÓN 🛌
 
 
-Los hospedajes que encontrarás en el recorrido hacia los termales del Sifón son limitados y además debes de saber que no se permite acampar dentro de los termales del Sifón, muchas personas optan por hospedarse en Manizales.
+Los hospedajes que encontrarás en el recorrido hacia los termales del Sifón son limitados y además __debes de saber que no se permite acampar dentro de los termales del Sifón, muchas personas optan por hospedarse en Manizales.__
+
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
-### HOSPEDAJE TERMALES DEL OTOÑO
+### -> HOSPEDAJE TERMALES DEL OTOÑO
 
 
 Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
@@ -145,29 +148,31 @@ caption:"Foto Hotel vía nevado del Ruiz",
 width:"1248",
 height:"727"
 %}
-Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
 
 
 
-### APARTAESTUDIO EN (MANIZALES)
+### -> THE COFFEE CLUB (MANIZALES)
 
 
-Este apartaestudio es ideal para parejas o familia que quieran tener su propio espacio como si estuvieran en casa, se encuentra a 5,8 km de la estación del teleférico de Manizales y ofrece alojamiento con WiFi gratuita y aparcamiento privado gratuito.
+Este hospedaje __cuenta con:__ WiFi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo. Este hospedaje está ubicado a 5,8 km del centro de Manizales.
 
 
+<a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
- file:"rutas/caldas/sifon/apartamento-manizales.png",
-caption:"Foto de apartaestudio en Manizales",
-width:"1248",
-height:"727"
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/hospedaje-manizales.jpg",
+caption:"Foto: apartamento amoblado pereira",
+width:"1654",
+height:"940"
 %}
+</a>
 
 
-Puedes dar clic 👉 <a href= "https://www.randes.co/products/aparta-estudio-en-manizales" target="_blank"> para reservar </a>
+👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para ver este apartamento en Pereira</a>
 
 
-### AYENDA 1131 CASA VALENCIA (MANIZALES)
+### -> AYENDA 1131 CASA VALENCIA (MANIZALES)
 
 
 Cuenta con recepción 24 horas, servicio de conserjería y WiFi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manziales.
@@ -181,14 +186,19 @@ height:"727"
 %}
 
 
-
-
-Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank"> para reservar </a>
-
-
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
 
 <a name="recomendaciones-sifon" id="recomendaciones-sifon"></a>
+
+
+### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
+
+
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y ue el hospedaje tenga trayectoria en la plataforma de Booking.
+
+
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
 
 ## RECOMENDACIONES PARA VISITAR LOS TERMALES DEL SIFÓN
 
@@ -196,6 +206,7 @@ Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-ma
 - En los termales no hay baños ni nada por el estilo, si necesitarán usar un baño, tendrán que ir de nuevo a la casa donde se pagó la entrada (tienda).
 - Los vehículos que van a este lugar en su mayoría son 4x4, vimos algunos automóviles pero sufren mucho por este terreno y más si llevan todo el cupo completo.
 - Ten en cuenta que los termales cierran a las 3 pm.
+- Llevar una botella de agua para quitarse el azufre de la cara, una vez vayan a salirse de los termales.
 
 
 
@@ -207,11 +218,7 @@ Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-ma
 Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Manizales.
 
 
-
-
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/camino-del-arriero.html" target="_blank"> Camino del Arriero</a>__
-
 
 Este es el fin de la ruta a Termales del Sifón, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
