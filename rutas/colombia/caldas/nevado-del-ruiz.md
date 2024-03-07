@@ -12,18 +12,19 @@ trending: true
  
 # NEVADO DEL RUIZ
  
-El Nevado del Ruiz o como es llamado también __volcán Nevado del Ruiz__ está ubicado en el departamento de Caldas cerca a la ciudad de Manizales, 
+El Nevado del Ruiz o como es llamado también __volcán Nevado del Ruiz__ está ubicado en el departamento de Caldas cerca a la ciudad de Manizales, aquí te mostraremos lo que necesitas saber para conocer este hermoso lugar, podrás ver precio de los ingresos y hospedajes cerca del nevado.
 
-__<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres evitar inconvenientes 🗻 he ir con una agencia de viajes local clic aquí 👈</a>__ 
+
+__<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres evitar inconvenientes 🗻 he ir con una agencia de viajes local, clic aquí 👈</a>__ 
 
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-* <a href="#video-ruiz"> Video  Nevado del Ruiz</a> 
-* <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a> 
+* <a href="#video-ruiz"> Video de la ruta al Nevado del Ruiz</a> 
 * <a href="#llegar-ruiz"> ¿Cómo llegar al Nevado del Ruiz?</a> 
 * <a href="#sendero-ruiz"> Sendero dentro del Nevado del Ruiz </a> 
 * <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a> 
+* <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a> 
 * <a href="#informacion-nevado-ruiz"> Descargar información adicional </a> 
 * <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a> 
 
@@ -48,7 +49,7 @@ Actualmente el volcán __Nevado del Ruiz se encuentra en alerta amarilla.__
  
 <a name="video-ruiz" id="video-ruiz"></a> 
 
-## VIDEO DE RUTA EN EL NEVADO DEL RUIZ
+## VIDEO DE LA RUTA EN EL NEVADO DEL RUIZ
 
 A continuación te mostraremos un video en el cual podrás ver como fue nuestro recorrido hacia el nevado del Ruiz.
  
@@ -56,29 +57,10 @@ A continuación te mostraremos un video en el cual podrás ver como fue nuestro 
    videoid:"1fVmDl0oiFE",
    width:"480",
    height:"270",
-   caption:"Nevado del Ruiz"
+   caption:"Vide: Ruta en el Nevado del Ruiz"
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
-
-
-<a name="tour-ruiz" id="tour-ruiz"></a> 
-
-## TOURS AL NEVADO DEL RUIZ 
-
-El valor del tour al Nevado del Ruiz depende del número de personas que lo vayan a realizar, debes de tener en cuenta que para allí no hay transporte público, y además el recorrido dentro del parque solo se puede hacer en carro.
-
-__EL TOUR AL NEVADO DEL RUIZ INCLUYE:__
-
-* 🚌 Transporte desde Manizales o Pereira
-* 🥨 Desayuno 
-* 🍝 Almuerzo 
-* 🫶 Seguro de asistencia médica 
-* ♨️ Ingreso a termales Tierra Viva
-* 👨 Guianza 
-
-Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:green;" target="_blank"> clic aquí</a>__ 👈
-
 
 
  
@@ -157,51 +139,54 @@ __Importante:__ <ins>_el Nevado del Ruiz se encuentra en alerta amarilla, por lo
  
 El recorrido tiene una duración aproximadamente de 3 horas, ten encuentra que este recorrido es en carro, ya que el nevado del Ruiz se encuentra en alerta amarilla, y se hace como una medida para prevenir cualquier emergencia que se pueda presentar, algunas paradas que realizamos fueron las siguientes:
 
- __MAPA DE LA RUTA REALIZADA EN EL NEVADO DEL RUIZ__
+### -> MAPA DE LA RUTA REALIZADA EN EL NEVADO DEL RUIZ
+
+A continuación te mostraremos el mapa de los lugares que visitamos en el nevado del Ruiz, esta ruta se realiza toda en carro, solo nos vamos a caminar en estos puntos que están en el mapa.
 
  {% include iframe.html,
    type:"custom",
    mid:"1Qkq6O-RLLIzsdaMKpMxCz6gumVfN2vQ&ehbc=2E312F",
-   caption:"Ruta dentro del Nevado del Ruiz "
+   caption:"Mapa: Ruta dentro del Nevado del Ruiz "
 %}
-
-
-
 
  
 ### -> SECTOR DE AGUACERALES
-tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
+
+Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
  
 {% include image.html,
  file:"rutas/caldas/ruiz/aguaserales.jpg",
- caption:"Foto de Aguacerales en el Nevado del ruiz",
+ caption:"Foto: Aguacerales en el Nevado del ruiz",
  width:"1200",
  height:"674"
 %}
  
 ### -> SECTOR DE ARENALES
+
  En este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️.
  
 {% include image.html,
   file:"rutas/caldas/ruiz/arenales.jpg",
- caption:"Foto de Arenales en el Nevado del ruiz",
+ caption:"Foto:  Arenales en el Nevado del ruiz",
  width:"1200",
  height:"674"
 %}
  
 ### -> SECTOR DE TUMBAS
 
-también llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indígenas que habitaban las zonas bajas.
+También llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y pagamento para las comunidades indígenas que habitaban las zonas bajas.
 
 En este sector observamos uno de los inmensos cráteres por donde bajo la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
  
 {% include image.html,
  file:"rutas/caldas/ruiz/tumbas-ruiz.jpg",
- caption:"Foto de sector tumbas en el Nevado del ruiz",
+ caption:"Foto: Sector tumbas en el Nevado del ruiz",
  width:"1200",
  height:"674"
 %}
+
+Este es el último punto al que se puede acceder, ya que por la alerta amarilla en la que se encuentra el nevado del Ruiz no se permite el ingreso a turistas hasta más arriba.
 
 <a name="hospedaje-ruiz" id="hospedaje-ruiz"></a> 
 
@@ -219,7 +204,7 @@ Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento
 
 {% include image.html,
  file:"rutas/caldas/sifon/hotel-otono.png",
-caption:"Foto Hotel vía nevado del Ruiz",
+caption:"Foto: Hotel vía nevado del Ruiz",
 width:"1248",
 height:"727"
 %}
@@ -248,7 +233,7 @@ Cuenta con recepción 24 horas, servicio de conserjería y WiFi gratuito en toda
 
 {% include image.html,
  file:"rutas/caldas/sifon/hotel-manizales.png",
-caption:"Foto Hotel en Manizales",
+caption:"Foto: Hotel en Manizales",
 width:"1248",
 height:"727"
 %}
@@ -263,19 +248,38 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
 
-<a name="descargar-nevado-ruiz" id="descargar-nevado-ruiz"></a> 
+
+<a name="tour-ruiz" id="tour-ruiz"></a> 
+
+## TOURS AL NEVADO DEL RUIZ 
+
+El valor del tour al Nevado del Ruiz depende del número de personas que lo vayan a realizar, debes de tener en cuenta que para allí no hay transporte público, y además el recorrido dentro del parque solo se puede hacer en carro.
+
+__EL TOUR AL NEVADO DEL RUIZ INCLUYE:__
+
+* 🚌 Transporte desde Manizales o Pereira
+* 🥨 Desayuno 
+* 🍝 Almuerzo 
+* 🫶 Seguro de asistencia médica 
+* ♨️ Ingreso a termales Tierra Viva
+* 👨 Guianza 
+
+Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:green;" target="_blank"> clic aquí</a>__ 👈
+
+
+<a name="informacion-nevado-ruiz" id="informacion-nevado-ruiz"></a> 
 
 ### DESCARGAR INFORMACIÓN DE ESTA RUTA 💾
 
 En esta sección podrás descargar información adicional, como: guías que operan en esta zona, información adicional de transporte, restaurantes cercanos con sus números de teléfonos y parqueaderos.
 
 
-__Si ya has realizado compras mayores a $230.000 pesos en nuestra tienda en linea podrás descargar esta información gratis__ con el Código que enviamos con tu pedido.
+_Si ya has realizado compras mayores a $230.000 pesos en nuestra tienda en linea podrás descargar esta información gratis_ con el Código que enviamos con tu pedido.
 
 
 __Nota:__ _Esta información no se deja pública, ya que esto perjudicaría la preservación de este lugar y a las empresas de turismo locales, así que esperamos que hagas un buen uso de esta._ 
 
-👉 💾 <a target="_blank" href="https://www.randes.co/products/informacion-nevado-del-ruiz">**Descargar información adicional del Nevado del Ruiz.**</a>
+👉 <a target="_blank" href="https://www.randes.co/products/informacion-nevado-del-ruiz">**Descargar información adicional del Nevado del Ruiz.**</a>
 
 
 <a name="otros-senderos-manizales" id="otros-senderos-manizales"></a> 
