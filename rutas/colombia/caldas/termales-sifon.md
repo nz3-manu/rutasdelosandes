@@ -177,7 +177,7 @@ height:"940"
 ### -> AYENDA 1131 CASA VALENCIA (MANIZALES)
 
 
-Cuenta con recepción 24 horas, servicio de conserjería y WiFi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manziales.
+Cuenta con recepción 24 horas, servicio de conserjería y Wifi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manizales.
 
 
 {% include image.html,

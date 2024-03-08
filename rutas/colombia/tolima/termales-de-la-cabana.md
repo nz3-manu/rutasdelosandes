@@ -25,15 +25,11 @@ Entre los atractivos principales de este lugar están sus aguas termales, rodead
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-
-
-
-- <a href="#dato-termales-cabaña">Datos curiosos de Termales La Cabaña y Murillo</a>
 - <a href="#video-termales-cabaña">Vídeo de Termales La Cabaña</a>
-- <a href="#tour-termales-cabaña">Información de Tours a Termales La Cabaña</a>
 - <a href="#llegar-termales-cabaña">¿Cómo llegar a los Termales La Cabaña?</a>
 - <a href="#mapa-termales-cabaña">Mapa de la ruta realizada en Termales La Cabaña</a>
 - <a href="#recomendaciones-termales-cabaña">Recomendaciones finales para visitar los Termales La Cabaña</a>
+- <a href="#tour-termales-cabaña">Información de Tours a Termales La Cabaña</a>
 - <a href="#información-termales-cabaña">Descargar información adicional de esta ruta</a>
 
 Empecemos con la aventura ⛰.
@@ -51,7 +47,7 @@ Los Termales de La Cabaña llevan ese nombre porque se encuentran en la vereda C
 
 <a name="video-termales-cabaña" id="video-termales-cabaña"></a>
 
-## VIDEO DE LA RUTA A LOS TERMALES LA CABAÑA
+## VIDEO DE LA RUTA A LOS TERMALES LA CABAÑA 🎥
 
 
 A continuación te mostramos un pequeño video de los Termales de La Cabaña.
@@ -66,55 +62,31 @@ Caption:"Videos de Termales La Cabaña"
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>.
 
+<a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
 
-<a name="tour-termales-cabaña" id="tour-termales-cabaña"></a>
+## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA 🚐?
 
-
-## TOUR A LOS TERMALES DE LA CABAÑA ♨️ 🧳
-
-
-Ten en cuenta que **Para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva previa y vas acompañado por un guía.**
+Nosotros hicimos nuestro viaje desde manizales, pero igual aquí te explicaremos como pudes llegar si lo vas a hacer desde otras ciudades.
 
 
-Para hacer reserva lo puedes hacerlo directamente con la agencia de guías locales que están encargados del turismo en este lugar, el valor del paquete que ellos ofrecen es de alrededor $90.000 Pesos por persona, incluye; ingreso al sendero, seguro de asistencia médica y guianza tú tendrás que llegar hasta el punto de encuentro, puedes descargar esta información al final del post.
+### -> DESDE MANIZALES
+
+Puedes tomar un bus de la empresa Rapido Tolima, el cual sale todos los días a las 7:00 am y 1:00 pm, el valor del pasajes es de aproximadamente $40.000 pesos, la duración del trayecto es de alrededor 3 horas.
 
 
-### TOURS DISPONIBLES EN MURILLO
-
-Este es el punto más cercano al cual podrás llegar para hacer este recorrido, algunas agencias, venden tours.
+###  -> DESDE BOGOTÁ 
+Puedes tomar un bus desde Bogota al Libano, el cual sale del terminal del sur apartir de las 4:30 am cada hora y medía y vale __$70.000 pesos__ aproximadamente y el trayecto dura 5 horas la empresa es Rapido Tolima, despues de estar en el libano tendrás que abordar otro transporte que sale cada hora con destino Murillo, el cual tardará 40 minutos.
 
 
 
-* __Tour Pasadía incluye:__ desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
-* __Tour 2 días y 1 noche incluye:__ 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+## RUTA A LOS TERMALES DE LA CABAÑA DESDE MANIZALES 
 
-Si vas a tomar un tour desde Murillo te recomendamos hacerlo con mucho de anticipación, ya que muchas de estas agencias llenan cupos muy rápido, lastimosamente no tenemos conocimiento contactos de agencia des Murillo.
-
-### TOURS DISPONIBLES DESDE PEREIRA O MANIZALES
+Como nosotros viajamos desde Manizales, te mostraremos los lugres que vimos, es de aclarar que si vas en bus no se detendrán a ver estos lugares, en nuestro caso íbamos con una excisión así que pudimos detenernos a apreciar mucho mejor.
 
 
-* __Tour Pasadía incluye:__ Transporte desde Pereira o Manizales, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
-* __Tour 2 días y 1 noche incluye:__ Transporte desde Pereira o Manizales, 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
-
-👉  Aquí podrás ver toda la información disponible a los termales de la cabaña desde Pereira
-♨️ <a target="_blank" href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-pereira-o-manizales">aquí</a>.
-
-
-## ¿CÓMO LLEGAR A LOS TERMALES DE LA CABAÑA?
-
-
-__DESDE MANIZALES:__ Puedes tomar un bus de la empresa Rapido Tolima, el cual sale todos los días a las 7:00 am y 1:00 pm, el valor del pasajes es de aproximadamente $40.000 pesos, la duración del trayecto es de alrededor 3 horas.
-
-
-__DESDE BOGOTÁ:__  Puedes tomar un bus desde Bogota al Libano, el cual sale del terminal del sur apartir de las 4:30 am cada hora y medía y vale __$70.000 pesos__ aproximadamente y el trayecto dura 5 horas la empresa es Rapido Tolima, despues de estar en el libano tendrás que abordar otro transporte que sale cada hora con destino Murillo, el cual tardará 40 minutos.
-
-Si viajas desde Manizales verás los siguientes Paisajes, es de aclarar que si vas en bus no se detendrán a ver estos lugares:
-
-
-### LAGUNA NEGRA
+### -> LAGUNA NEGRA
 
 Esta es una majestuosa laguna de origen glaciar muy cerca del Nevado del Ruiz. Es un lugar de descanso para especies migratorias como aves y patos silvestres.
-
 
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/laguna-negra.jpg",
@@ -124,7 +96,7 @@ height:"717"
 %}
 
 
-### VISTA DEL NEVADO DEL RUIZ
+### -> VISTA DEL NEVADO DEL RUIZ
 
 
 Como estaba haciendo un hermoso día, pudimos apreciar una vista impresionante del Nevado del Ruiz en medio de los frailejones. Es una vista que muchos consideran mágica.
@@ -141,7 +113,7 @@ height:"667"
 __RECOMENDACIÓN:__ _Ten en cuenta esto si vas en moto o carro: la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado._
 
 
-### LAGUNA LA LLORONA
+### -> LAGUNA LA LLORONA
 
 Su nombre se debe, según algunos campesinos, a que está encantada y sienten presencia de personas. Otros aseguran que les han arrojado rocas e incluso han escuchado gritos al pasar por allí.
 
@@ -168,31 +140,44 @@ Murillo es un pueblo pequeño, pero cuenta con buenas ofertas de hospedajes como
 Aquí te mencionaremos algunas opciones que puedes contemplar.
 
 
-- __Casa Frailejón (Hostal):__ ofrece habitaciones con baño compartido, habitaciones en acomodación múltiple, costo por persona es de aproximadamente $50.000 COP incluye desayuno; y $70.000 COP con baño privado, pero con las mismas características previas, aquí posiblemente puedan guardar moto.  __Número de contacto:__  <a href="tel:3123705421">
-3123705421</a>
+###  -> STELLARIUM GLAMPING
+
+Ofrece alojamiento con parking privado gratis y acceso a la bañera de hidromasaje. El alojamiento tiene bañera de hidromasaje y bañera de hidromasaje.
+
+Hay un baño privado totalmente equipado con ducha y artículos de aseo gratuitos.
 
 
-- __Hostal 7 colores:__ Este hostal se encuentra en todo el parque principal, cuenta con bonitas instalaciones. Ofrecen habitaciones con cama doble, baño privado y habitaciones con cama doble más camarote y baño compartido únicamente con otra habitación; cuentan con servicio de Wifi, y ducha de agua caliente. El costo es de 45.000 por persona en habitaciones con baño privado y en habitaciones con baño compartido 40.000 por persona.  __Número de contacto:__  <a href="tel:3154932602">
-3154932602</a>
-
-
-Hay muchos más hospedajes  en Murillo los cuales podrás encontrar en Google maps, no los nombramos todos ya que se haría muy extenso este post.
-
-<a name="llegar-termales-cabaña" id="llegar-termales-cabaña"></a>
-
-<a id="banner1" href="https://www.randes.co/" target="_blank">
+<a href="https://www.booking.com/hotel/co/stellarium-glamping.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"publicidad-post/chaqueta-randes.jpg",
-caption:"Banner Chaqueta",
-width:"480",
-height:"200"
+file:"rutas/tolima/termales-de-la-cabaña/glamping-en-murillo.jpg",
+caption:"Foto: glamping en murillo Tolima",
+width:"1650",
+height:"942"
 %}
 </a>
 
 
-## RUTA A LOS TERMALES DE LA CABAÑA DESDE MURILLO TOLIMA 🚶🏼
+👉 <a href="https://www.booking.com/hotel/co/stellarium-glamping.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar este Glamping en booking</a>
+
+###  -> PARAMOUNT HOSTEL
+
+Paramount Hostel está en Murillo. Esta casa o chalet ofrece wifi gratis, esta casa o chalet cuenta con 4 dormitorios, TV de pantalla plana y cocina.
+
+<a href="https://www.booking.com/hotel/co/paramount-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/tolima/termales-de-la-cabaña/hospedaje-en-murillo.jpg",
+caption:"Foto: hospedaje en murillo Tolima",
+width:"1638",
+height:"942"
+%}
+</a>
 
 
+👉 <a href="https://www.booking.com/hotel/co/paramount-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar este Glamping en booking</a>
+
+
+
+## SENDERO DENTRO DE LOS TERMALES DE LA CABAÑA  🚶🏼
 
 
 Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 30 minutos llegar a la entrada de los Termales. Allí nos dieron una pequeña charla sobre el recorrido que íbamos a hacer y nos prestaron bastones de senderismo. Además, nos colocaron una pulsera, sin la cual no podríamos ingresar a los Termales de La Cabaña 🏞️.
@@ -201,7 +186,7 @@ Desde Murillo, salimos a las 6:30 a.m. desde nuestro hospedaje. Nos tomó casi 3
 <a name="mapa-termales-cabaña" id="mapa-termales-cabaña"></a>
 
 
-### MAPA DE LA RUTA REALIZADA EN TERMALES LA CABAÑA
+### -> MAPA DE LA RUTA REALIZADA EN TERMALES LA CABAÑA
 
 A Continuación te mostraremos la ruta que realizamos caminando desde el inicio del sendero. Este sendero tiene una __distancia total de 9,4 kilómetros__; una  __altitud mínima de 3,581 m.s.n.m__ y una __altitud máxima de 3,953 m.s.n.m.__ Finalmente, tiene una exigencia catalogada por muchos viajeros como difícil. 
 
@@ -212,7 +197,7 @@ mid:"1oeY_dALrXJK6TIDVEmP6J73zRSIz3y4&hl=en&ehbc=2E312F",
 caption:"Ruta termales de la Cabaña"
 %}
 
-### LAGUNA CORAZÓN
+### -> LAGUNA CORAZÓN
 
 Desde donde nos dejó el transporte, comenzamos un duro ascenso por un bosque. Después, pasamos por fincas de ganado y continuamos para admirar los frailejones por casi 4 horas, hasta llegar a la Laguna Corazón, que se encuentra a 4.100 m.s.n.m. 🏞️⛰️
 
@@ -224,7 +209,7 @@ height:"750"
 %}
 
 
-### VALLE DE ESPONJAS
+### -> VALLE DE ESPONJAS
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
@@ -237,7 +222,7 @@ height:"750"
 %}
 
 
-### VISITA CASCADA DE LOS 7 COLORES
+### -> VISITA CASCADA DE LOS 7 COLORES
 
 Un poco después de ver el Valle de Esponjas, continuamos caminando por cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores.
 
@@ -249,7 +234,7 @@ width:"1000",
 height:"750"
 %}
 
-### TERMALES LA CABAÑA
+### ->TERMALES LA CABAÑA
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
@@ -261,6 +246,46 @@ height:"750"
 %}
 
 Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro turno para ingresar a los Termales. Ten en cuenta que solo se permite el ingreso a los Termales si se va con guía y se cuenta con la manilla de ingreso.
+
+
+<a name="tour-termales-cabaña" id="tour-termales-cabaña"></a>
+
+
+## TOUR A LOS TERMALES DE LA CABAÑA ♨️ 🧳
+
+
+Ten en cuenta que **Para ir a los Termales de La Cabaña, solo puedes hacerlo si tienes una reserva previa y vas acompañado por un guía.**
+
+
+### -> TOURS DISPONIBLES EN MURILLO
+
+Este es el punto más cercano al cual podrás llegar para hacer este recorrido, algunas agencias, venden tours.
+
+* __Tour Pasadía incluye:__ desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+* __Tour 2 días y 1 noche incluye:__ 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+
+Si vas a tomar un tour desde Murillo te recomendamos hacerlo con mucho de anticipación, ya que muchas de estas agencias llenan cupos muy rápido.
+
+### -> TOURS DISPONIBLES DESDE PEREIRA O MANIZALES
+
+* __Tour Pasadía incluye:__ Transporte desde Pereira o Manizales, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+* __Tour 2 días y 1 noche incluye:__ Transporte desde Pereira o Manizales, 1 noche de hospedaje, desayuno, almuerzo, ingreso a los termales, guianza y seguro de asistencia médica.
+
+👉  Aquí podrás ver toda la información disponible a los termales de la cabaña desde Pereira
+♨️ <a target="_blank" href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-pereira-o-manizales">aquí</a>.
+
+
+<a name="información-termales-cabaña" id="información-termales-cabaña"></a>
+
+
+### DESCARGAR INFORMACIÓN DE ESTA RUTA 💾
+
+En esta sección podrás descargar información adicional, como: guías que operan en esta zona, información adicional de transporte, restaurantes cercanos con sus números de teléfono, parqueaderos e información adicional de como llegar al nevado del Ruiz.
+
+__Esta información solo estará disponible para las personas que tengan suscripción la suscripción rutera__, esperamos que hagas un buen uso de esta información.
+
+
+👉 <a target="_blank" href="https://www.randes.co/products/informacion-adicional-de-termales-de-la-cabana">**Descargar información adicional de los termales de la cabaña 💾.**</a>
 
 <a name="recomendaciones-termales-cabaña" id="recomendaciones-termales-cabaña"></a>
 
@@ -275,20 +300,6 @@ Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro t
 - __Recuerda llevar:__ protector solar, chapstick, chaquetas rompevientos, buzos polares, guantes y un sombrero que te proteja del sol. Estas prendas las puedes encontrar en nuestra tienda en línea.
 
 
-<a name="información-termales-cabaña" id="información-termales-cabaña"></a>
-
-
-### DESCARGAR INFORMACIÓN DE ESTA RUTA 💾⛰️
-
-En esta sección podrás descargar información adicional, como: guías locales que operan en esta zona, información adicional de transporte, restaurantes cercanos con sus números de teléfonos y parqueaderos.
-
-
-__Si ya has realizado compras mayores a $230.000 pesos en nuestra tienda en linea podrás descargar esta información gratis__ con el Código que enviamos con tu pedido.
-
-
-__Nota:__ _Esta información no se deja pública, ya que esto perjudicaría la preservación de este lugar y a las empresas de turismo locales, así que esperamos que hagas un buen uso de esta._ 
-
-👉 💾 <a target="_blank" href="https://www.randes.co/products/informacion-adicional-de-termales-de-la-cabana">**Descargar información adicional de los termales de la cabaña.**</a>
 
 Este es el fin de la ruta a los Termales de La Cabaña. **No te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
