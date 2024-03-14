@@ -212,14 +212,14 @@ En cada una de las opciones que mencionamos a continuación, podrás ver una tab
 __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrían coordinar con el guía la hora de inicio del tour._
 
 
-<a name="hospedarte-prado-tolima" id="hospedarte-prado-tolima"></a>
+<a name="hospedaje-prado-tolima" id="hospedaje-prado-tolima"></a>
 
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
 
 A continuación te mostraremos las distintas opciones de hospedaje que podrás encontrar en prado tolima, los hemos categorizado como:
 * __Hospedajes en el centro de prado:__ ideal para las personas que van a llegar en la noche.
-*__hospedaje en la represa de prado:__. ideal para personas que cuentan con más tiempo y quieran disfrutar más de este lugar.
+* __Hospedaje en la represa de prado:__. ideal para personas que cuentan con más tiempo y quieran disfrutar más de este lugar.
 
 ### -> HOSPEDAJE EN EL CENTRO DE PRADO
 
@@ -287,22 +287,20 @@ height:"1600"
 
 ### --> HOSPEDAJE DENTRO DE LA REPRESA DE PRADO 
 
-Para llegar a este hospedaje debes de tener en cuenta que, vas a tener que pagar una lancha, el valor de hospedaje por persona es de: $130.000 pesos por persona.
+Este hospedaje se encuentra en todo el muelle turístico, no tendrás que pagar lancha, allí hay cerca restaurantes y supermercados, y disfrutar de una vista hermosa de esta represa.
 
-* __Incluye:__ desayuno, almuerzo, cena y derecho a uso de piscina. 
-* __No incluye:__ transporte de la represa hasta hospedaje, Tarifa de parqueadero de carro o moto dentro de la represa.
-
-__Importante:__ en la represa solo dejan transitar lanchas hasta las 6:30 pm así que debes llegar antes para que te puedan llevar al hospedaje.
+* __Incluye:__ uso de piscina y parqueadero. 
+* __No incluye alimentación.__
 
 {% include image.html,
-file:"rutas/tolima/represa-prado/habitacion-2.jpg",
+file:"rutas/tolima/represa-prado/hospeda-muelle-turistico.png",
 caption:"Foto: Hospedaje represa" ,
-width:"1024",
-height:"683"
+width:"800",
+height:"640"
 %}
 
 
-* __Valor por persona:__ $130.000 Pesos por persona.
+* __Valor por persona:__ $75.000 Pesos.
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
