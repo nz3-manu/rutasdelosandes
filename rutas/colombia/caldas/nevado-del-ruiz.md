@@ -26,14 +26,7 @@ El Parque Nacional Natural los Nevados contribuye a la protección de _ecosistem
 __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
 
-
-
-
-
-
-
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
-
 
 * <a href="#video-ruiz"> Video de la ruta al Nevado del Ruiz</a>
 * <a href="#llegar-ruiz"> ¿Cómo llegar al Nevado del Ruiz?</a>
@@ -42,21 +35,11 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a>
 * <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a>
 
-
 Empecemos con la aventura ⛰.
-
-
-
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
 
-
-
-
 <a name="dato-ruiz" id="dato-ruiz"></a>
-
-
-
 
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
 
@@ -66,9 +49,6 @@ Este hermoso volcán __es considerado como uno de los más altos de sudamérica_
 
 Debido a su historia, a lo largo del tiempo ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
 
-
-
-
 Además de su gran belleza, es conocido por el acontecimiento que ocurrió el  3 de noviembre de 1985, cuando hizo erupción  y  acabó con la cabecera urbana de Armero, donde hubo más de 31.000 personas fallecidas, considerada así como la segunda erupción más trágica de todo el siglo XX.
 
 
@@ -76,18 +56,10 @@ Actualmente el volcán __Nevado del Ruiz se encuentra en alerta amarilla.__
 <a name="video-ruiz" id="video-ruiz"></a>
 
 
-
-
-
-
 ## VIDEO DE LA RUTA EN EL NEVADO DEL RUIZ
 
 
-
-
 A continuación te mostraremos un video en el cual podrás ver como fue nuestro recorrido hacia el nevado del Ruiz.
-
-
 
 
 {% include youtube.html
@@ -96,39 +68,22 @@ A continuación te mostraremos un video en el cual podrás ver como fue nuestro 
  height:"270",
  caption:"Vide: Ruta en el Nevado del Ruiz"
 %}
+
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-
-
-
 <a name="llegar-ruiz" id="llegar-ruiz"></a>
-
-
-
-
-
-
-
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ 🚙?
 
 
 Para ir al Nevado del Ruiz, lo primero que tuvimos que hacer fue llegar a Manizales, allí nos recogió la agencia de viajes con quienes íbamos a realizar el tour.
 
+<ins>_Queremos hacer claridad que para llegar hasta la entrada del nevado del Ruiz no encontrarán transporte público._</ins> 
 
-
-
-<ins>_Queremos hacer claridad que para llegar hasta la entrada del nevado del Ruiz no encontrarán transporte público._</ins> Con cada kilómetro que avanzábamos dejábamos atrás los edificios y nos sumergimos aún más adentro de la flora del Parque Nacional Natural los nevados a tal punto que empezamos a encontrarnos con los hermosos frailejones 🍃. Para aclimatar nuestro cuerpo a la altura, el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío.
-
-
+Con cada kilómetro que avanzábamos dejábamos atrás los edificios y nos sumergimos aún más adentro de la flora del Parque Nacional Natural los nevados a tal punto que empezamos a encontrarnos con los hermosos frailejones 🍃. Para aclimatar nuestro cuerpo a la altura, el conductor nos recomendó abrir un poco las ventanas del carro y al hacerlo ya se podía sentir el frío.
 
 
 __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-altura-como-evitarlo.html">Te recomendamos leer para hacer esta ruta  "Que es el mal de altura y como evitarlo"</a>]__
-
-
-
-
-
 
 
 
@@ -136,8 +91,6 @@ __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-al
 
 
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra. Esta es una majestuosa laguna de origen glaciar muy cerca del Nevado del Ruiz. Es un lugar de descanso para especies migratorias como aves y patos silvestres.
-
-
 
 
 {% include image.html,
@@ -151,18 +104,10 @@ height:"608"
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotografia/"  target="_blank"> @deagfotografia</a> </span>__
 
 
-
-
-
-
-
-
 ### -> VISTA NEVADO DEL RUIZ
 
 
 Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camino hacia nuestra última parada en el sector llamado ‘’el arbolito’’, desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
-
-
 
 
 {% include image.html,
@@ -174,17 +119,9 @@ height:"1350"
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
 
-
-
 Después de esto, nos encontramos con la entrada al nevado del Ruiz. Ten en cuenta que este lugar solo tiene un horario para la venta de entradas, además de esto después de pagar el ingreso tendrán que asistir a una charla de cerca de media hora.
 
-
-
-
 ## VALOR DE INGRESO AL NEVADO DEL RUIZ
-
-
-
 
 Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas.__Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__
 
@@ -216,16 +153,10 @@ height:"200"
 ## SENDERO DENTRO DEL NEVADO DEL RUIZ 🚗
 
 
-
-
 El recorrido tiene una duración aproximadamente de 3 horas, teniendo en cuenta que este recorrido es en carro, ya que el nevado del Ruiz se encuentra en alerta amarilla, y se hace como una medida para prevenir cualquier emergencia que se pueda presentar. Algunas paradas que realizamos fueron las siguientes:
 
 
-
-
 ### -> MAPA DE LA RUTA REALIZADA EN EL NEVADO DEL RUIZ
-
-
 
 
 A continuación te mostraremos el mapa de los lugares que visitamos en el nevado del Ruiz, esta ruta se realiza toda en carro, solo vamos a caminar en estos puntos que están en el mapa.
@@ -244,13 +175,7 @@ A continuación te mostraremos el mapa de los lugares que visitamos en el nevado
 
 ### -> SECTOR DE AGUACERALES
 
-
-
-
 Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
-
-
-
 
 {% include image.html,
 file:"rutas/caldas/nevado-del-ruiz/aguaserales.jpg",
@@ -258,15 +183,10 @@ caption:"Foto: Aguacerales en el Nevado del ruiz",
 width:"1200",
 height:"674"
 %}
+
 ### -> SECTOR DE ARENALES
 
-
-
-
 En este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️.
-
-
-
 
 {% include image.html,
 file:"rutas/caldas/nevado-del-ruiz/arenales.jpg",
@@ -275,15 +195,7 @@ width:"1200",
 height:"674"
 %}
 
-
-
-
-
-
 ### -> SECTOR DE TUMBAS
-
-
-
 
 También llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y peregrinación para las comunidades indígenas que habitaban las zonas bajas. En este sector observamos uno de los inmensos cráteres por donde bajó la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
@@ -295,23 +207,11 @@ width:"1200",
 height:"674"
 %}
 
-
-
-
 Este es el último punto al que se puede acceder, ya que por la alerta amarilla en la que se encuentra el nevado del Ruiz no se permite el ingreso a turistas hasta más arriba.
-
-
-
 
 <a name="hospedaje-ruiz" id="hospedaje-ruiz"></a>
 
-
-
-
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ 🏨
-
-
-
 
 Los hospedajes que encontrarás en el recorrido hacia el Nevado del Ruiz son limitados y además __debés de saber que no se permite acampar dentro de esta área protegida.__
 
@@ -320,21 +220,9 @@ Los hospedajes que encontrarás en el recorrido hacia el Nevado del Ruiz son lim
 
 __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
-
-
-
 ### -> HOSPEDAJE TERMALES DEL OTOÑO (VÍA NEVADO DEL RUIZ)
 
-
-
-
 Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y Wifi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
-
-
-
-
-
-
 
 
 {% include image.html,
@@ -343,24 +231,13 @@ caption:"Foto: Hotel vía nevado del Ruiz",
 width:"1248",
 height:"727"
 %}
+
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
-
-
-
-
-
-
 
 
 ### -> THE COFFEE CLUB (MANIZALES)
 
-
-
-
 Este hospedaje __cuenta con:__ WiFi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo. Este hospedaje está ubicado a 5,8 km del centro de Manizales.
-
-
-
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
@@ -371,19 +248,12 @@ height:"940"
 %}
 </a>
 
-
-
-
 👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para ver este apartamento en Pereira</a>
-
-
-
 
 ### -> AYENDA 1131 CASA VALENCIA (MANIZALES)
 
 
 Cuenta con recepción 24 horas, servicio de conserjería y Wifi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manizales.
-
 
 {% include image.html,
 file:"rutas/caldas/sifon/hotel-manizales.png",
@@ -391,7 +261,6 @@ caption:"Foto: Hotel en Manizales",
 width:"1248",
 height:"727"
 %}
-
 
 
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
