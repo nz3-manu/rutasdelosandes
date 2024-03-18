@@ -201,6 +201,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
+
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg",
 caption:"Foto: Termales La Cabaña",
