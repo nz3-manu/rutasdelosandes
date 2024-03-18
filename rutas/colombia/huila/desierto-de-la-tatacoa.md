@@ -2,8 +2,8 @@
 layout: trail
 title: Desierto de la Tatacoa
 categories: colombia
-seo_title: Guía completa para ir al Desierto de la Tatacoa.
-excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.
+seo_title: Guía del Desierto de la Tatacoa 2024.
+excerpt: Descubre cómo llegar, dónde hospedarse e información de guías locales para visitar el desierto de la Tatacoa información actualizada al 2024.
 images_url: /images/rutas/huila/desierto-de-la-tatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
@@ -12,9 +12,9 @@ author: manuel
 
 # DESIERTO DE LA TATACOA
 
-En este post te mostraremos como fue nuestro experiencia viajdando al desierto de la Tatacoa, queremos aclarar que nosotros hicimos el tour por nuestra propia cuenta, si lo piensas hacer de esta forma __espero leas atentamente las recomendaciones que dejamos en cada seccíon__, para que asi evites tener inconvenientes como los que te contaremos en este blog.
+En este post te mostraremos como fue nuestro experiencia viajdando al desierto de la Tatacoa, queremos aclarar que nosotros hicimos el tour por nuestra propia cuenta, si lo piensas hacer de esta forma __espero leas atentamente las recomendaciones que dejamos en cada seccíon del post__, para que asi evites tener inconvenientes como los que te contaremos.
 
- Pero si despues de leer este post quiseiras ir con una agencia  tambien te dejaremos algunos planes que se manejan para allá y algunas recomendaciones, para que puedas elegir un buen plan.
+Pero si eres de los que quieres ir con una agencia, te dejaremos los planes que algunas agencias manejan para este destino y por supuesto te dejaremos algunas recomendaciones, para que puedas elegir un buen plan.
 
 👉 **<a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank"> Clic aquí para conocer el  tour al desiero de la Tatacoa 🐫 .</a>**
 
@@ -22,19 +22,20 @@ En este post te mostraremos como fue nuestro experiencia viajdando al desierto d
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 
-* <a href="#llegar-desierto"> Cómo llegar al  desiero de la Tatacoa</a>
-* <a href="#tour-desierto"> Tours disponible en el Desierto de Tatacoa </a>
-* <a href="#senderos-desierto"> Senderos en el desierto de la Tatacoa </a>
-* <a href="#hospedaje-desierto"> Hospedaje en el desierto de la Tatacoa </a>
+* <a href="#llegar-desierto"> ¿Cómo llegar al  desiero de la Tatacoa?</a>
+* <a href="#senderos-desierto"> Ruta realizada en desierto de la Tatacoa </a>
+* <a href="#hospedaje-desierto"> Hospedaje cerca del desierto de la Tatacoa </a>
+* <a href="#tour-desierto"> Tours disponible en el Desierto de la Tatacoa </a>
 * <a href="#recomendacion-desierto"> Recomendaciones para visitar el  desierto </a>
 * <a href="#rutas-de-senderismo-en-colombia"> Otras rutas de Senderismo en Colombia </a>
 
 Empecemos con la aventura ⛰.
 
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/huila/morrogacho-hill.html">See this post in English version 🇺🇸</a>]**
 
 ## DATO CURIOSO DEL DESIERTO DE LA TATACOA
 
-El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
+El Desierto de la Tatacoa es la __segunda zona árida más extensa de Colombia__ después de la península de la Guajira, es uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
 
 
 ## COSAS QUE NO TE PUEDES PERDER EN EL DESIERTO DE LA TATACOA
@@ -52,16 +53,13 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 </amp-carousel>
 
 
-<a name="llegar-desierto" id="llegar-desierto"></a>
+<a name="llegar-desierto" id="llegar-desierto"></a> 
 
 
 ## ¿CÓMO LLEGAR AL DESIERTO DE LA TATACOA 🚍?
 
 
-Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento del Huila:
-
-
-Si piensas ir en bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
+Lo primero que tuvimos que hacer fue llegar a la ciudad de Neiva, ubicado en el departamento del Huila, si piensas ir en bus te mostraremos la duración de trayecto, horario estimado de salida, precio aproximado del valor de transporte y empresas que hacen esta ruta, por otra parte si quiesieras viajer en avión te mostraremos cual es el aeropuerto más cercano.
 
 
 ### -> BOGOTÁ HASTA NEIVA
@@ -76,7 +74,11 @@ Si piensas ir en bus te mostraremos la duración de trayecto y un precio aproxim
 
 ### -> CALI HASTA NEIVA
 
- El valor del bus es aproximadamente $105.000 pesos, el tiempo promedio en llegada es de 10 horas, saliendo desde 11:45 pm, 2:00 am, 5:30 am 7:00 am,  la empresa de transporte que viaja se llama Coomotor
+ El valor del bus es aproximadamente $105.000 pesos, el tiempo promedio en llegada es de 10 horas, saliendo desde 11:45 pm, 2:00 am, 5:30 am 7:00 am,  la empresa de transporte que viaja se llama Coomotor.
+
+ ### -> AERPUERTO MÁS CERCANO
+
+Si quisieras ir en avión, el aeropuerto más cercano es el Aeropuerto Benito Salas en la ciudad de Neiva, ubicado a 62 kilómetros de Villavieja, si quisieras buscar vuelos te recomendamos la aplicación <a href="skyscanner.pxf.io/Nkx6JO" target="_blank"> skyscanner</a>, ya que te permitirá buscar promociones de diferentes aerolíneas.
 
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
@@ -117,9 +119,9 @@ Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  �
 
 <a name="senderos-desierto" id="senderos-desierto"></a>
 
-## SENDEROS EN EL DESIERTO DE LA TATACOA
+## RUTA REALIZADA EN EL DESIERTO DE LA TATACOA 🏜️
 
-A continuación te mostraremos el mapa del sendero realizado en el desierto de la Tatacoa, podrás ver los lugares que visitamos.
+A continuación te mostraremos el mapa de la ruta realizado en el desierto de la Tatacoa, donde podrás ver los lugares que visitamos, ten en cuenta que solo se realizó la ruta caminando en algunos tramos, como explicaremos más adelante.
 
 {% include iframe.html,
   type:"custom",
@@ -133,7 +135,7 @@ Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demor
 
 No hay nada mejor que refrescarse en una piscina en un día soleado ☀️, el valor de la entrada es aproximadamente $10.000 pesos.
 
-__Recomendación:__ si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegurate que el moto-carro que te vas a contratar sea de una empreza de confianza.
+__Recomendación:__ _si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegurate que el moto-carro que te vas a contratar sea de una empreza de confianza._
 
 <amp-instagram
   data-shortcode="BcbDE7SnP15"
@@ -188,7 +190,7 @@ Cuando estuvimos hospedados en el desierto a un extranjero se le robaron su equi
 
 Nosotros siempre usamos la plataforma Booking, ya que esta permite ver comentario de otros usuarios y hacer reserva muchas veces de forma gratuita y de forma segura, así que a continuación te mostraremos algunos hospedajes en el Villavieja, los elegimos por: calificación de clientes, localización, comodidad, parqueadero y precio.
 
-__Recomendación:__ _Algo que debes de tener en cuenta es que en el desierto de la Tatacoa el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia, además tampoco encontraran supermercados, así que si te gustan las comodidades te recomendamos el pueblo de Viallavieja._
+__Recomendación:__ _Algo que debes de tener en cuenta es que en el desierto de la Tatacoa el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia ademas no hay luz constante, además tampoco encontraran supermercados, así que si te gustan las comodidades te recomendamos el pueblo de Viallavieja._
 
 ### -> SOLARIS HOTEL
 
@@ -247,7 +249,7 @@ A continuación te dejamos el link de Booking en el cual podrás filtrar y busca
 <a name="tour-desierto" id="tour-desierto"></a>
 
 
-## ¿TOUR EN EL DESIERTO DE LA TATACOA 🚍?
+## TOURS DISPONIBLES EN EL DESIERTO DE LA TATACOA 🧳🐫
 
 El pueblo de Villa Vieja es el ultimo lugar antes de entrar al desierto de la Tatacoa, en este punto es donde inician los tours, allí vas a poder encontrar las siguientes opciones.
 
