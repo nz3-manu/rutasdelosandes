@@ -14,7 +14,7 @@ trending: true
 
 Aquí te mostraremos lo que necesitas saber para ir a los termales de la cabaña. No sólo eso, te compartiremos algunos hospedajes y rutas de buses. Es importante que tengas en cuenta que __este lugar tiene una capacidad máxima de visitantes por días__; además de esto, ellos cierran este lugar 2 días a la semana, así que si es temporada alta te aconsejamos hacer la reserva con mínimo 1 mes de anticipación.
 
-👉 <a href="https://www.randes.co/collections/tour-termales-de-la-cabana" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a>
+<a href="https://www.randes.co/collections/tour-termales-de-la-cabana" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia ♨️🌈? Puedes dar clic aquí</a> 👈
 
 
 Entre los atractivos principales de este lugar están, sus aguas termales las cuales están rodeadas de un paisaje de páramo y frailejones con colores muy particulares 🌈, lo que lo convierte en uno de los lugares únicos en Colombia.
@@ -33,6 +33,14 @@ Entre los atractivos principales de este lugar están, sus aguas termales las cu
 Empecemos con la aventura ⛰.
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
+
+<a href="https://www.randes.co/" target="_blank">
+{% include image.html,
+file:"publicidad-post/sombrero.png",
+caption:"banner-ropa",
+width:"1000",
+height:"300" %}
+</a>
 
 <a name="dato-termales-cabaña" id="dato-termales-cabaña"></a>
 
@@ -154,22 +162,27 @@ caption:"Mapa: Ruta realizada en los termales de la Cabaña"
 Desde donde nos dejó el transporte, comenzamos un duro ascenso por un bosque. Después, pasamos por fincas de ganado y continuamos para admirar los frailejones por casi 4 horas, hasta llegar a la Laguna Corazón, que se encuentra a 4.100 m.s.n.m. 🏞️⛰️
 
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/laguna-corazon.jpeg",
+file:"rutas/tolima/termales-de-la-cabaña/laguna-corazon.jpg",
 caption:"Foto: Laguna Corazón",
-width:"1000",
-height:"750"
+width:"1080",
+height:"864"
 %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/arielconcepcion23/"  target="_blank"> @arielconcepcion23 </a> </span>__
+
 
 ### -> VALLE DE ESPONJAS
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/valle-de-esponjas.jpeg",
+file:"rutas/tolima/termales-de-la-cabaña/valle-de-esponjas.jpg",
 caption:"Foto: Valle de Esponjas",
-width:"1000",
-height:"750"
+width:"1080",
+height:"1080"
 %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/paorodriguez.photo/"  target="_blank"> @paorodriguez.photo </a> </span>__
 
 ### -> CASCADA DE LOS 7 COLORES
 
@@ -182,17 +195,20 @@ width:"1000",
 height:"750"
 %}
 
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27/"  target="_blank"> @alejora.27 </a> </span>__
 
 ### ->TERMALES LA CABAÑA
 
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg",
+file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpeg",
 caption:"Foto: Termales La Cabaña",
-width:"1000",
-height:"750"
+width:"1080",
+height:"1351"
 %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/japilife/"  target="_blank"> @japilife </a> </span>__
 
 Una vez allí, nos dieron un pequeño refrigerio mientras esperábamos nuestro turno para ingresar a los Termales. Ten en cuenta que solo se permite el ingreso a los Termales si se va con guía y se cuenta con la manilla de ingreso.
 
@@ -212,7 +228,7 @@ Ofrece alojamiento con parking privado gratis y acceso a la bañera de hidromasa
 
 <a href="https://www.booking.com/hotel/co/stellarium-glamping.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/glamping-en-murillo.jpg",
+file:"rutas/tolima/termales-de-la-cabaña/hospedaje/glamping-en-murillo.jpg",
 caption:"Foto: glamping en murillo Tolima",
 width:"1650",
 height:"942"
@@ -227,7 +243,7 @@ Paramount Hostel está en Murillo. Esta casa o chalet ofrece wifi gratis, esta c
 
 <a href="https://www.booking.com/hotel/co/paramount-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/hospedaje-en-murillo.jpg",
+file:"rutas/tolima/termales-de-la-cabaña/hospedaje/hospedaje-en-murillo.jpg",
 caption:"Foto: hospedaje en murillo Tolima",
 width:"1638",
 height:"942"
@@ -263,6 +279,15 @@ Si vas a tomar un tour desde Murillo, te recomendamos hacerlo con mucho anticipa
  
 ♨️ <a target="_blank"  style="color: maroon;"  href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-pereira-o-manizales">Aquí podrás ver toda la información disponible a los termales de la cabaña desde Pereira </a> 👈.
 
+
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
+{% include image.html, 
+   file:"publicidad-post/chaqueta-randes.jpg", 
+   caption:"Banner ropa", 
+   width:"480", 
+   height:"200" 
+%}
+</a>
 
 <a name="recomendaciones-termales-cabaña" id="recomendaciones-termales-cabaña"></a>
 
