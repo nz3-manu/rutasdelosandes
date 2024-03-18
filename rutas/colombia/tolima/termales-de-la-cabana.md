@@ -29,7 +29,7 @@ Entre los atractivos principales de este lugar están sus aguas termales, rodead
 - <a href="#llegar-termales-cabaña">¿Cómo llegar a los Termales La Cabaña?</a>
 - <a href="#camino-termales-cabaña">Camino hacía los Termales La Cabaña</a>
 - <a href="#hotel-en-murillo">Hospedaje en Murillo</a>
-- <a href="#tour-termales-cabaña"> ¿Cuanto vale un Tours a ermales La Cabaña?</a>
+- <a href="#tour-termales-cabaña"> ¿Cuanto vale un Tours a termales La Cabaña?</a>
 - <a href="#recomendaciones-termales-cabaña">Recomendaciónes finales</a>
 
 Empecemos con la aventura ⛰.

@@ -308,6 +308,9 @@ height:"640"
 ## RECOMENDACIONES FINALES PARA VISITAR PRADO
 
 * En este lugar encontrarán muchos mosquitos, así que te recomendamos llevar repelentes.
+* Llevar buzos manga larga y sombrero para cubrirte del sol
+* Llevar traje de baño
+* Llevar abundante agua 
 * Si viajas desde lejos te recomendamos hospedarte en un hotel en el pueblo solo 1 noche.
 * Si quieres quedarte un poco más de días, te recomendamos hospedarte en una isla, ya que encontrarás muchas más cosas para hacer.
 

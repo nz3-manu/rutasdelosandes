@@ -270,7 +270,7 @@ Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-ma
 
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
 
-A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y que el hospedaje tenga trayectoria en la plataforma de Booking.
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios y tenga trayectoria en la plataforma de Booking.
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
 

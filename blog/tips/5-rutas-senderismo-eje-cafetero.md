@@ -247,7 +247,7 @@ height:"940"
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (PEREIRA)
 
 
-A continuación te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, que el hospedaje y que tenga trayectoria en la plataforma de Booking.
+A continuación te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios y que tenga trayectoria en la plataforma de Booking.
 
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-594819&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Booking</a>

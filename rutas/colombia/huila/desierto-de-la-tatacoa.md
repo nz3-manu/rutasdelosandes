@@ -4,7 +4,7 @@ title: Desierto de la Tatacoa
 categories: colombia
 seo_title: Guía completa para ir al Desierto de la Tatacoa.
 excerpt: El desierto de la Tatacoa es  la segunda zona árida más extensa de Colombia, descubre cómo llegar, dónde hospedarse y mucho más.
-images_url: /images/rutas/huila/desiertoTatacoa
+images_url: /images/rutas/huila/desierto-de-la-tatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
@@ -12,13 +12,9 @@ author: manuel
 
 # DESIERTO DE LA TATACOA
 
+En este post te mostraremos como fue nuestro experiencia viajdando al desierto de la Tatacoa, queremos aclarar que nosotros hicimos el tour por nuestra propia cuenta, si lo piensas hacer de esta forma __espero leas atentamente las recomendaciones que dejamos en cada seccíon__, para que asi evites tener inconvenientes como los que te contaremos en este blog.
 
-En este post encontrarás toda la información que necesitas saber para viajar al **desierto de la Tatacoa**.
-
-
-Dejaremos los precios tanto de transporte como hospedaje con el fin de que tengas una idea de cuanto te podrías costar conocer este lugar.
-Ten en cuenta que estos precios pueden haber cambiado, así te dejaremos los teléfonos de los hospedajes a los cuales podrás llamar para verificar esta información.
-
+ Pero si despues de leer este post quiseiras ir con una agencia  tambien te dejaremos algunos planes que se manejan para allá y algunas recomendaciones, para que puedas elegir un buen plan.
 
 👉 **<a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank"> Clic aquí para conocer el  tour al desiero de la Tatacoa 🐫 .</a>**
 
@@ -49,20 +45,11 @@ El Desierto de la Tatacoa es la segunda zona árida más extensa de Colombia des
 - Beber jugo de cactus.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider1.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider12.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider2.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desiertoTatacoa/slider3.JPG", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider1.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider12.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider2.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider3.JPG", width:"800", height:"600" %}
 </amp-carousel>
-
-<a name="tour-desierto" id="tour-desierto"></a>
-
-
-## ¿TOUR EN EL DESIERTO DE LA TATACOA 🚍?
-
-A continuación te mostraremos los diferentes tour disponibles que encuentras en el desierto de la Tatacoa, ten en cuenta que estos son ofrecidos por empresas locales, si llegarás a tener algun inconveniente con ellos no lo puedes hacer saber.
-
-👉 <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank">Aquí podrás ver todas las opciones de los tours disponibles </a>
 
 
 <a name="llegar-desierto" id="llegar-desierto"></a>
@@ -77,13 +64,19 @@ Lo primero que tuvimos que hacer fue llegar a Neiva ubicado en el departamento d
 Si piensas ir en bus te mostraremos la duración de trayecto y un precio aproximado del valor de transporte desde estas ciudades:
 
 
-- **Bogotá hasta Neiva:** El valor del bus es aproximado de $50.000 pesos, el tiempo promedio es de 6 horas.
+### -> BOGOTÁ HASTA NEIVA
+
+ El valor del bus es de aproximadamente $85.000 pesos, sale desde el terminal del sur, apartir de las 2:15 am con una frecuencia aproximada de 1 hora (3:15 am, 4:15 am etc..), el nombre de la empresa es Cootranshuila.
 
 
-- **Medellín hasta Neiva:** El valor del bus es aproximadamente de $78.000 pesos, el tiempo promedio en llegada es de 13 horas.
+### -> MEDELLÍN HASTA NEIVA
+
+ El valor del bus es aproximadamente $120.000 pesos, el tiempo promedio en llegada es de 13 horas, la empresa que viaja es Coomotor, Bolivariano, estos salena apartir de las 2:00 pm, con una frecuencia aproximada de 2 horas.
 
 
-- **Cali hasta Neiva:** El valor del bus es aproximadamente de $65.000 pesos, el tiempo promedio en llegada es de 10 horas.
+### -> CALI HASTA NEIVA
+
+ El valor del bus es aproximadamente $105.000 pesos, el tiempo promedio en llegada es de 10 horas, saliendo desde 11:45 pm, 2:00 am, 5:30 am 7:00 am,  la empresa de transporte que viaja se llama Coomotor
 
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
@@ -94,16 +87,19 @@ width:"480",
 height:"200" %}
 </a>
 
-Una vez en Neiva (huila) tuvimos que tomar un bus con destino al pueblo de __Villavieja en el huila__, la duración del trayecto es de 90 minutos, el valor del pasaje es de $9.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
+
+Una vez en Neiva (huila) tuvimos que tomar un bus con destino al pueblo de __Villavieja en el huila__, la duración del trayecto es de 90 minutos, el valor del pasaje es de $15.000 pesos, los horarios de salida son a partir de las 5 am hasta las 6 pm con una frecuencia de media hora.
 
 __Te  mostramos el mapa del recorrido de Neiva a Villavieja por si vas en moto o carro:__
 
 {% include iframe.html,
   type:"custom",
   mid:"17_j3onCljRXLzCgYw_cdZNus-zYvlZzU&hl=es",
-  caption:"Mapa de Neiva a Villavieja"
+  caption:"Mapa del trayecto: Neiva a Villavieja"
 %}
+
 Una vez en __Villavieja__ aprovechamos para visitar el museo paleontológico 🏛,  los horarios de funcionamiento son de lunes a domingo de: 8am a 12:00 pm y 2:00 pm a 6:00 pm. Valor de la entrada es $3.000 pesos.
+
 Antes de ir al desierto de la Tatacoa se aconseja comprar las cosas que necesitemos como abundante  agua ya que en el desierto es un poco más caro.
 
 
@@ -117,22 +113,27 @@ height:"300" %}
 
 
 Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  🏜, para tomar el mototaxi tuvimos que ir hasta el parque de Villavieja, en este lugar se encuentran las diferentes empresas.
+
+
 <a name="senderos-desierto" id="senderos-desierto"></a>
 
 ## SENDEROS EN EL DESIERTO DE LA TATACOA
-Te compartimos el mapa de los lugares que visitamos dentro del desierto y de los hospedajes disponibles.
+
+A continuación te mostraremos el mapa del sendero realizado en el desierto de la Tatacoa, podrás ver los lugares que visitamos.
+
 {% include iframe.html,
   type:"custom",
   mid:"1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es",
-  caption:"Mapa desierto de la Tatacoa "
+  caption:"Mapa: Ruta realizada en eldesierto de la Tatacoa "
 %}
 
-### DÍA #1
+### -> DÍA #1
 
 Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demoró mas o menos 30 minutos. Esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la __piscina natural en medio del desierto 🏜🏊🏼__.
 
-No hay nada mejor que refrescarse en una piscina en un día soleado ☀️.
-El valor de la entrada es aproximadamente $10.000 pesos.
+No hay nada mejor que refrescarse en una piscina en un día soleado ☀️, el valor de la entrada es aproximadamente $10.000 pesos.
+
+__Recomendación:__ si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegurate que el moto-carro que te vas a contratar sea de una empreza de confianza.
 
 <amp-instagram
   data-shortcode="BcbDE7SnP15"
@@ -141,60 +142,18 @@ El valor de la entrada es aproximadamente $10.000 pesos.
   height="450"
   layout="responsive">
 </amp-instagram>
-Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, te mostraremos algunas de la posibles opciones que encontramos:
 
 
+Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, listaremos las opciones disponibles de hospedarte en la sección de hospedajes.
 
 
-<a name="hospedaje-desierto" id="hospedaje-desierto"></a>
-
-## HOSPEDAJES EN EL DESIERTO DE LA TATACOA 🛏️🏜️
-
-### HOSTAL LA TRANQUILIDAD
-
-Este es uno de los más económicos que se encuentran en esta zona, los servicios que ofrecen son los siguientes:
-* Zonas de camping 🏕.
-* Zona de hamacas.
-* Habitaciones compartidas.
-* Habitaciones privadas 🛏.
-* Comidas desde 🍛.
-
-__Por favor confirmar disponibilidad, teléfono: <a href="tel:3112433455"> 3112433455</a> hostal la tranquilidad.__
-
-### HOSTAL NOCHES DE SATURNO
-
-Este hostal cuenta con un poco más de comodidades y entre esas está que cuentan con una piscina,  veamos algunos precios que se manejan allí:
-* Zona de camping 🏕.
-* Habitaciones privadas 🛏.
-* Almuerzo 🍛.
-* Desayunos 🥟.
-
-__Por favor confirmar disponibilidad, teléfono:<a href="tel:3133055898"> 3133055898</a> hostal Noches de Saturno.__
-Si quieres algo con mucha más comodidad y tranquilidad te tenemos la siguiente opción.
+### -> DÍA #2
 
 
-Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo de $20.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm hasta las 9pm.
-
+Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲 las cuales renta allá.
 
 {% include image.html,
-  file:"rutas/huila/desiertoTatacoa/Observatorio.jpg",
-  height:"900",
-  width:"1200",
-  caption:"Observatorio"
-%}
-
-
-### DÍA #2
-
-
-Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲, valor 1 hora por $12.000 pesos. También alquilan caballos 🐴, valor 1 hora por $25.000 pesos.
-
-
-**Todos los precios mencionados anteriormente pueden variar en temporada alta.**
-
-
-{% include image.html,
-  file:"rutas/huila/desiertoTatacoa/cuzco.jpg",
+  file:"rutas/huila/desierto-de-la-tatacoa/cuzco.jpg",
   height:"555",
   width:"740",
   caption:"Región del desierto de la Tatacoa rojizo “Cuzco”"
@@ -204,11 +163,102 @@ Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que n
 Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
 
 
-Este es el final de esta aventura cabe aclarar que los precios mencionados anteriormente pueden variar, pero sabemos que estos te darán una idea de cuánto te saldrá visitar este lugar.
+Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo aproximado de $30.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm hasta las 9pm.
+
+
+{% include image.html,
+  file:"rutas/huila/desierto-de-la-tatacoa/Observatorio.jpg",
+  height:"900",
+  width:"1200",
+  caption:"Foto: Observatorio en el Desierto"
+%}
 
 
 Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
 
+
+
+<a name="hospedaje-desierto" id="hospedaje-desierto"></a>
+
+## HOSPEDAJES EN EL DESIERTO DE LA TATACOA 🛏️🏜️
+
+Los hospedajess que dejaremos a continución son hospedajes en el pueblo de Villavieja, estos quedan solo a 15 minutos del desierto de la Tatacoa, si quisieras reservar un hotel u hostal en el desierto de la tatacoa, te hacemos la recomendación que elijas un hospedajes que tengas buena calificaciones y si utilizan aplicaciones de reservas como Booking o Airbnb mucho mejor.
+
+Cuando estuvimos hospedados en el desierto a un extranjero se le robaron su equipaje 🥲 y, ya que el hospedaje no tenia  un registro de las personas que estaban hospedados, así que no pudieron identificar a la persona.
+
+Nosotros siempre usamos la plataforma Booking, ya que esta permite ver comentario de otros usuarios y hacer reserva muchas veces de forma gratuita y de forma segura, así que a continuación te mostraremos algunos hospedajes en el Villavieja, los elegimos por: calificación de clientes, localización, comodidad, parqueadero y precio.
+
+__Recomendación:__ _Algo que debes de tener en cuenta es que en el desierto de la Tatacoa el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia, además tampoco encontraran supermercados, así que si te gustan las comodidades te recomendamos el pueblo de Viallavieja._
+
+### -> SOLARIS HOTEL
+
+Este hospedaje se encuentraen en todo el centro del pueblo de Villavieja, este  hotel es libre de humo así que es ideal pasar con tu familia, en este hospedaje  podrás encontrar:
+
+ * Salón de uso común, terraza, restaurante y bar en Villavieja. 
+ * Wifi gratis en todo el alojamiento.
+ * Bañera de hidromasaje y karaoke.
+ * Parqueadero totalmente gratis
+ * El aeropuerto más cercano (Aeropuerto Benito Salas) está a 62 km del alojamiento.
+
+<a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+
+{% include image.html,
+  file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa-2.jpg",
+  height:"513",
+  width:"900",
+  caption:"Foto: Hotel desierto de la Tatacoa Solaris"
+%}
+
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
+
+### -> CASA HOTEL ESTELAR
+
+Este hotel se encuentra en el centro de Villavieja a solo 1 cuadra del museo y 1 cuadra del parque principal, este hospedaje cuenta con: 
+
+* Salón de uso común, bar, 
+* Parking privado gratis, TV de pantalla plana, 
+* El alojamiento dispone de servicio de traslado de pago para ir o volver del aeropuerto.
+* El personal de la recepción 24 horas puede dar consejos sobre la zona.
+* En el hotel se sirve todas las mañanas un desayuno americano.
+
+<a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+
+{% include image.html,
+  file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa.jpg",
+  height:"507",
+  width:"900",
+  caption:"Foto: Hotel desierto de la Tatacoa"
+%}
+
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
+
+
+### -> MÁS OPCIONES DE HOSPEDAJES CERCA DEL DESIERTO DE LA TATACOA
+
+A continuación te dejamos el link de Booking en el cual podrás filtrar y buscar más hospedajes de acuerdo a tus necesidades, __recomendaciones para elegir un alojamiento:__ que cuente con buenos comentarios y que tenga trayectoria en la plataforma de Booking.
+
+
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-601474&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Booking</a>
+
+<a name="tour-desierto" id="tour-desierto"></a>
+
+
+## ¿TOUR EN EL DESIERTO DE LA TATACOA 🚍?
+
+El pueblo de Villa Vieja es el ultimo lugar antes de entrar al desierto de la Tatacoa, en este punto es donde inician los tours, allí vas a poder encontrar las siguientes opciones.
+
+- <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa/products/pasadia-desiero-tatacoa" style="color: maroon;"  target="_blank"> Padía</a>
+-  <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa/products/tour-desiero-de-la-tatacoa-2-dias-1-noche" style="color: maroon;"  target="_blank"> 2 días y 1 noche</a>
+-  <a href="https://www.randes.co/products/tour-desiero-tatacoa-3-dias-2-noches" style="color: maroon;"  target="_blank"> 3 días y 2 noche</a>
+Te recomendamos hospedarte en el pueblo de Villavieja, allí encuentras más comodidad, ya que muchas partes del desierto no cuenta con agua potable y no encuentras supermercado ni nada por el estilo.
+__NOTA:__ Debes de tener encuenta que las agencias no venden tours grupales, todos van a ser personalizados, así que entre más personas vayan más economico sará.
+
+
+👉 <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank">Aquí podrás ver todas las opciones de los tours disponibles </a>
 
 <a name="recomendacion-desierto" id="recomendacion-desierto"></a>
 
@@ -219,8 +269,6 @@ Espero que esta información te haya sido útil, y solo te queremos decir gracia
 - Llevar ropa adecuada como: buzos manga larga con protección solar, buff para cubrirse del polvo, pantalones de tela delgada o licras que tengan protección solar.
 - Muchas personas deciden hospedarse en el pueblo Villa Vieja, ya que allí van a tener muchas mas comodidades.
 - Los mejores meses para visitar el Desierto de la Tatacoa son; junio, julio y agosto, ya que son considerados los meses más secos y donde el cielo está más claro para la observación de estrellas
-
-
 
 
 <a name="rutas-de-senderismo-en-colombia" id="rutas-de-senderismo-en-colombia"></a>
