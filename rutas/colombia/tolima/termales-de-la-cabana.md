@@ -1,6 +1,6 @@
 ---
 layout: trail
-title: Termales de la cabaña
+title: Termales De La Cabaña
 categories: colombia
 seo_title: ▷ Termales La Cabaña | Guía de viaje 2024
 excerpt: Conoce la información necesaria para visitar los Termales de la Cabaña, así como opciones de hospedaje en Murillo, precios de tours y transporte.
@@ -202,7 +202,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
 {% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpeg",
+file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg",
 caption:"Foto: Termales La Cabaña",
 width:"1080",
 height:"1351"
