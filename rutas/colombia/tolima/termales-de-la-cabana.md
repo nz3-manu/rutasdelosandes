@@ -205,8 +205,8 @@ Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora
 {% include image.html,
 file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg",
 caption:"Foto: Termales La Cabaña",
-width:"1080",
-height:"1351"
+width:"900",
+height:"1126"
 %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/japilife/"  target="_blank"> @japilife </a> </span>__
