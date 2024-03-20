@@ -3,8 +3,8 @@ layout: trail
 title:  Nevado del Ruiz
 categories: colombia
 seo_title: ▷ Nevado del Ruiz | Guía de viaje 2024
-excerpt: Guía completa para visitar el Nevado del Ruiz, descubre dónde queda y como llegar y qué hacer en el nevado del Ruiz
-images_url: /images/rutas/caldas/ruiz
+excerpt: Guía completa para visitar el Nevado del Ruiz, descubre dónde queda, hospedajes cercanos, como llegar y qué hacer en el nevado del Ruiz
+images_url: /images/rutas/caldas/nevado-del-ruiz
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
@@ -94,7 +94,7 @@ En el camino aprovechamos para hacer algunas paradas y observar los diferentes p
 
 
 {% include image.html,
-file:"rutas/caldas/ruiz/laguna-negra.jpeg",
+file:"rutas/caldas/nevado-del-ruiz/laguna-negra.jpeg",
 caption:"Foto de Laguna Negra",
 width:"1080",
 height:"608"
@@ -111,7 +111,7 @@ Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camin
 
 
 {% include image.html,
-file:"rutas/caldas/ruiz/nevado-del-ruiz.jpg",
+file:"rutas/caldas/nevado-del-ruiz/nevado-del-ruiz.jpg",
 caption:"Foto de Laguna Negra",
 width:"1280",
 height:"1350"
