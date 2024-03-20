@@ -119,9 +119,11 @@ Ahora ya estamos listos para seguir nuestro camino al desierto de la Tatacoa  �
 
 <a name="senderos-desierto" id="senderos-desierto"></a>
 
-## RUTA REALIZADA EN EL DESIERTO DE LA TATACOA 🏜️
+## RUTA EN EL DESIERTO DE LA TATACOA 🏜️
 
-A continuación te mostraremos el mapa de la ruta realizado en el desierto de la Tatacoa, donde podrás ver los lugares que visitamos, ten en cuenta que solo se realizó la ruta caminando en algunos tramos, como explicaremos más adelante.
+A continuación te mostraremos el mapa de la ruta realizada en el desierto de la Tatacoa, donde podrás ver los lugares que visitamos, ten en cuenta que solo se realizó la ruta caminando en algunos tramos, como explicaremos más adelante.
+
+__NOTA:__ _Si va en carro, o moto vas a poder entrar con hasta el desierto, algunas veces cuando es temporada alta restringen el ingreso de carros particulares, ya que dificultan la movilidad para los demás turistas._
 
 {% include iframe.html,
   type:"custom",
@@ -135,7 +137,7 @@ Desde Villavieja tomamos un mototaxi hasta la región los hoyos el cual se demor
 
 No hay nada mejor que refrescarse en una piscina en un día soleado ☀️, el valor de la entrada es aproximadamente $10.000 pesos.
 
-__Recomendación:__ _si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegurate que el moto-carro que te vas a contratar sea de una empreza de confianza._
+__Recomendación:__ _si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegurate que el carro o moto-carro que vayas a contratar este afiliado a una empresa de transporte de confianza._
 
 <amp-instagram
   data-shortcode="BcbDE7SnP15"
@@ -146,13 +148,13 @@ __Recomendación:__ _si no cuentas con transporte y vas a realizar el recorrido 
 </amp-instagram>
 
 
-Después de haber tomado un refrescante baño, es hora de ir a donde nos vamos a hospedar, listaremos las opciones disponibles de hospedarte en la sección de hospedajes.
+Después de haber tomado un refrescante baño, regresamos de nuevo a nuestro hospedaje, _listaremos las opciones disponibles de hospedarte en la sección de hospedajes._
 
 
 ### -> DÍA #2
 
 
-Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza. Este recorrido lo hicimos en bicicleta 🚲 las cuales renta allá.
+Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que nos hacía falta “Cuzco” esta región se caracteriza por ser de tierra un poco más rojiza.
 
 {% include image.html,
   file:"rutas/huila/desierto-de-la-tatacoa/cuzco.jpg",
@@ -162,10 +164,10 @@ Al siguiente día salimos a recorrer la región del desierto de la Tatacoa que n
 %}
 
 
-Una vez de haber recorrido parte del desierto de la Tatacoa en bicicleta nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
+Una vez de haber recorrido parte del desierto de la Tatacoa nada más refrescante para quitar la sed que tomar “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares ya que es un poco complicado cargarlos en el hostal.
 
 
-Una vez en nuestro hospedaje dejamos las cosas y vamos al Observatorio Astronómico que tiene un costo aproximado de $30.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠. El horario es todos los días de 7pm hasta las 9pm.
+Una vez en nuestro hospedaje dejamos las cosas para ir al Observatorio Astronómico que tiene un costo aproximado de $30.000 pesos. Si no sabes nada de astronomía 🙄 tranquilo que la charla empieza explicando todos estos conceptos de una forma muy básica 😉🔭🌠, el horario es todos los días de 7pm hasta las 9pm.
 
 
 {% include image.html,
@@ -184,17 +186,18 @@ Espero que esta información te haya sido útil, y solo te queremos decir gracia
 
 ## HOSPEDAJES EN EL DESIERTO DE LA TATACOA 🛏️🏜️
 
-Los hospedajess que dejaremos a continución son hospedajes en el pueblo de Villavieja, estos quedan solo a 15 minutos del desierto de la Tatacoa, si quisieras reservar un hotel u hostal en el desierto de la tatacoa, te hacemos la recomendación que elijas un hospedajes que tengas buena calificaciones y si utilizan aplicaciones de reservas como Booking o Airbnb mucho mejor.
+A continución te mostraremos algunas opciones de hoteles y hostales que encontramos disponibles las separamos es 2 partes, __hospedajes en Villavieja y hospedaje dentro del desierto de la Tatacoa__, cada uno de los hospedajes tiene el link para reservar en Booking. En nuestros viajes siempre usamos la plataforma Booking, ya que esta permite ver la calificaion que tiene cada hospedaje y ademas permite hacer reserva muchas veces de forma gratuita y de forma segura.
 
-Cuando estuvimos hospedados en el desierto a un extranjero se le robaron su equipaje 🥲 y, ya que el hospedaje no tenia  un registro de las personas que estaban hospedados, así que no pudieron identificar a la persona.
+__NOTA:__ De estos hospedajes no estamos recibiendo nada a cambio, solo Booking nos da una pequeña comisión cuando realizan la reserva por los links que dejamos en cada uno de estos.
 
-Nosotros siempre usamos la plataforma Booking, ya que esta permite ver comentario de otros usuarios y hacer reserva muchas veces de forma gratuita y de forma segura, así que a continuación te mostraremos algunos hospedajes en el Villavieja, los elegimos por: calificación de clientes, localización, comodidad, parqueadero y precio.
 
-__Recomendación:__ _Algo que debes de tener en cuenta es que en el desierto de la Tatacoa el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia ademas no hay luz constante, además tampoco encontraran supermercados, así que si te gustan las comodidades te recomendamos el pueblo de Viallavieja._
+### HOSPEDAJES EN VILLAVIEJA 
 
-### -> SOLARIS HOTEL
+Villavieja es el pueblo más cercano al desierto de la Tatacoa,  esta a solo 15 minutos en carro o moto, allí encontras supermercados y gran variedad de restauranstes, a continución te mostraremos las mejores opciones que hospedaje que encontramos en Villavieja.
 
-Este hospedaje se encuentraen en todo el centro del pueblo de Villavieja, este  hotel es libre de humo así que es ideal pasar con tu familia, en este hospedaje  podrás encontrar:
+#### -> SOLARIS HOTEL 
+
+Este hospedaje se encuentraen en todo el centro del pueblo de Villavieja, es un lugar libre de humo así que es ideal para estar con tu familia, en este hospedaje encontrarás:
 
  * Salón de uso común, terraza, restaurante y bar en Villavieja. 
  * Wifi gratis en todo el alojamiento.
@@ -208,14 +211,14 @@ Este hospedaje se encuentraen en todo el centro del pueblo de Villavieja, este  
   file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa-2.jpg",
   height:"513",
   width:"900",
-  caption:"Foto: Hotel desierto de la Tatacoa Solaris"
+  caption:"Foto: Hotel en Villavieja"
 %}
 
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
 
-### -> CASA HOTEL ESTELAR
+#### -> CASA HOTEL ESTELAR 
 
 Este hotel se encuentra en el centro de Villavieja a solo 1 cuadra del museo y 1 cuadra del parque principal, este hospedaje cuenta con: 
 
@@ -226,17 +229,66 @@ Este hotel se encuentra en el centro de Villavieja a solo 1 cuadra del museo y 1
 * En el hotel se sirve todas las mañanas un desayuno americano.
 
 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-
 {% include image.html,
   file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa.jpg",
   height:"507",
   width:"900",
-  caption:"Foto: Hotel desierto de la Tatacoa"
+  caption:"Foto: Hotel en Villavieja"
 %}
-
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
+
+### HOSPEDAJES DENTRO DEL DESIERTO DE LA TATACOA
+
+Algo que debes de tener en cuenta es que en el desierto de la Tatacoa el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia, además no la electricidad que hay es por paneles o por plantas de energía, tampoco encontraran supermercados y por último, la señal de celular no es muy buena, solo funciona algunos operadores cerca del observatorio astronómico.
+
+A continución te mostraremos las mejores opciones de hospedaje que encontramos en el Desierto de la Tatacoa.
+
+### -> ALOJAMIENTO CASA DE CAMPO LOS CACTUS 
+
+Este alojamiento se encuentra cerca al Observatorio Astronomico, cuenta con: 
+
+- Jardín, restaurante de cocina latinoamericana.
+- Parking privado gratis.
+- Las habitaciones del alojamiento tienen baño privado con ducha y artículos de aseo.
+- Algunas habitaciones también ofrecen vistas a la montaña.
+- En el hotel se puede disfrutar de un desayuno continental.
+- La zona es ideal para practicar ciclismo, hay alquiler de bicicletas.
+- Ofrece servicio de traslado de pago para ir o volver del aeropuerto.
+
+<a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+  file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto.jpg",
+  height:"518",
+  width:"900",
+  caption:"Foto: Hotel en el desierto de la Tatacoa"
+%}
+</a>
+
+
+👉 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en Alojamiento casa de campo los cactus</a>
+
+### -> POSADA TURÍSTICA NOCHES DE SATURNO
+Este alojamiento se encuentra cerca al Observatorio Astronomico, cuenta con: 
+
+- Restaurante de cocina local, bar y parking privado gratis.
+- Todas las unidades incluyen baño privado con ducha y artículos de aseo. 
+
+<a href="hospedaje-en-el-desierto-2" target="_blank">
+{% include image.html,
+  file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto.jpg",
+  height:"518",
+  width:"900",
+  caption:"Foto: Hotel dentro del desierto de la Tatacoa 2"
+%}
+</a>
+
+
+👉 <a href="hospedaje-en-el-desierto-2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en Posada turística noches de saturno</a>
+
+
+__IMPORTANTE:__ _Cuando estuvimos hospedados en el desierto a un extranjero se le robaron su equipaje 🥲 y, ya que el hospedaje no tenia un registro de las personas que estaban hospedados, no pudieron identificar a la persona, para hacer el respectivo denuncio_
 
 
 ### -> MÁS OPCIONES DE HOSPEDAJES CERCA DEL DESIERTO DE LA TATACOA
@@ -256,8 +308,8 @@ El pueblo de Villa Vieja es el ultimo lugar antes de entrar al desierto de la Ta
 - <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa/products/pasadia-desiero-tatacoa" style="color: maroon;"  target="_blank"> Padía</a>
 -  <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa/products/tour-desiero-de-la-tatacoa-2-dias-1-noche" style="color: maroon;"  target="_blank"> 2 días y 1 noche</a>
 -  <a href="https://www.randes.co/products/tour-desiero-tatacoa-3-dias-2-noches" style="color: maroon;"  target="_blank"> 3 días y 2 noche</a>
-Te recomendamos hospedarte en el pueblo de Villavieja, allí encuentras más comodidad, ya que muchas partes del desierto no cuenta con agua potable y no encuentras supermercado ni nada por el estilo.
-__NOTA:__ Debes de tener encuenta que las agencias no venden tours grupales, todos van a ser personalizados, así que entre más personas vayan más economico sará.
+
+__NOTA:__ _Debes de tener encuenta que las agencias no venden tours grupales, todos van a ser personalizados, así que entre más personas vayan más economico sará._
 
 
 👉 <a href="https://www.randes.co/collections/tours-desierto-de-la-tatacoa" style="color:green;" target="_blank">Aquí podrás ver todas las opciones de los tours disponibles </a>
@@ -268,9 +320,9 @@ __NOTA:__ Debes de tener encuenta que las agencias no venden tours grupales, tod
 ## RECOMENDACIONES FINALES PARA VISITAR EL DESIERTO DE LA TATACOA
 
 
-- Llevar ropa adecuada como: buzos manga larga con protección solar, buff para cubrirse del polvo, pantalones de tela delgada o licras que tengan protección solar.
-- Muchas personas deciden hospedarse en el pueblo Villa Vieja, ya que allí van a tener muchas mas comodidades.
-- Los mejores meses para visitar el Desierto de la Tatacoa son; junio, julio y agosto, ya que son considerados los meses más secos y donde el cielo está más claro para la observación de estrellas
+- __Llevar ropa adecuada como:__ buzos manga larga con protección solar, buff para cubrirse del polvo, pantalones de tela delgada o licras que tengan protección solar y gafas,_<a target="_blank"  style="color: black;"  href="https://www.randes.co/"> estas prendas las puedes encontrar en nuestra tienda en línea. </a>_
+- Muchas personas deciden hospedarse en el pueblo Villavieja, ya que allí van a tener muchas mas comodidades.
+- Los mejores meses para visitar el Desierto de la Tatacoa son; junio, julio y agosto, ya que son considerados los meses más secos y donde el cielo está más claro para la observación de estrellas.
 
 
 <a name="rutas-de-senderismo-en-colombia" id="rutas-de-senderismo-en-colombia"></a>
