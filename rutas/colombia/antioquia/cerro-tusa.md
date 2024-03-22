@@ -51,26 +51,24 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 El valor del del tour depende del número de personas que vayan, si van un fin de semana sábado o domingo el valor de este será de excursión grupal, si vas en semana el valor dependerá del número de personas con que tú vayas, para consultar el precio de este podrás ver la tabla de preció del tour.
 
-### EL TOUR INCLUYE:
+### -> EL TOUR INCLUYE:
 
 - 👨 Guía local
 - 🫶 Seguro de asistencia médica
-- 🍎🍫 Refrigerio
 
-### EL TOUR NO INCLUYE:
+### -> EL TOUR NO INCLUYE:
 
-- 🛵 Transporte de Venecia a donde empieza el sendero: este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000x3=$18.000).
-- 🅿️ Si vas en carro particular o moto, podrás dejarlo donde comienza en sendero: el parqueadero tiene un costo de $15.000 pesos para carro y $8.000 para moto.
+- 🛵 __Transporte de Venecia a donde empieza el sendero:__ este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000x3=$18.000).
 
 **<a href="https://www.randes.co/products/tour-a-cerro-tusa-en-venecia-antioquia" style="color:green;" target="_blank"> Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí.</a>**
 
 <a name="llegar-cerro-tusa" id="llegar-cerro-tusa"></a>
 
-## ¿CÓMO LLEGAR A CERRO TUSA DESDE MEDELLIN ?
+## ¿CÓMO LLEGAR A CERRO TUSA DESDE MEDELLIN 🚌?
 
 Lo primero que tienen que hacer es llegar al municipio de Venecia, a continuación te mostraremos como hacerlo en bus desde Medellín que es la ciudad más cercana.
 
-## BUS DESDE MEDELLIN A VENECIA 🚌
+### -> BUS DESDE MEDELLIN A VENECIA 
 
 Desde de el terminal del sur de medellin salen buses con destino a Venecia, con la empresa fredonia, __importante__, tienen que decir que van para Venecia, ya que tambien envían buses para fredonia, el bus sale apartir de las 6:00 am, con frecuencia de 1 hora hasta las 6:00 pm, este tarda en promedio 1:15 a 1:30 el reocrrido, el valor del pasaje es de $17.000 pesos por trayecto.
 
@@ -106,7 +104,7 @@ Desde el comienzo del sendero hasta la **cima de Cerro Tusa** son aproximadament
   caption:"Ruta Municipio de Venecia hasta Cerro Tusa"
 %}
 
-### EL CAMINO CONSTA DE 3 PARTES
+### -> EL CAMINO CONSTA DE 3 PARTES
 
 - **La primera parte:** es camino por potreros, allí tuvimos que pasar por portillos o broches para el ganado🐮 ¡Es muy importante dejar cerrados los broches! En este punto es muy fácil perderse ya que no hay un sendero demarcado. Una vez pasamos por los potreros empezamos un ascenso el cual fue exigente, donde no había mucha vegetación y era muy fácil deslizarse.
 

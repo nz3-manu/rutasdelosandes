@@ -40,7 +40,7 @@ Pereira es conocida como "la Perla del Otún," "la Ciudad sin puertas," y cariñ
 
 Dado que alguno de estos lugares se encuentran en el centro de la ciudad, no se recomienda andar por ellos muy tarde en la noche, ya que podría ser peligroso. Como solemos decir en Colombia, "no hay que dar papaya".
 
-### #1 PLAZA DE BOLÍVAR 
+### -> #1 PLAZA DE BOLÍVAR 
 
 La estatua "Bolívar Desnudo" en Pereira, Colombia, sorprende por su singularidad al representar al Libertador Simón Bolívar sin espada ni caballo, en una imagen más íntima y vulnerable. Esta curiosa obra escultural es un atractivo cultural en el corazón de la ciudad, simbolizando el aprecio por su patrimonio histórico y la contribución de Bolívar a la independencia de Colombia. ¡Una joya artística que cautiva tanto a locales como a visitantes en esta encantadora ciudad cafetera! ☕🇨🇴
 
@@ -52,7 +52,7 @@ La estatua "Bolívar Desnudo" en Pereira, Colombia, sorprende por su singularida
 %}
 
 
-### #2 MUSEO DE ARTE PEREIRA
+### -> #2 MUSEO DE ARTE PEREIRA
 
 El Museo de Arte de Pereira, ubicado cerca del terminal de transporte de Pereira, es un verdadero tesoro cultural que alberga colecciones contemporáneas y tradicionales. Este fascinante espacio ofrece a los visitantes una amplia variedad de obras artísticas, desde pinturas y esculturas hasta exhibiciones temporales de artistas locales e internacionales. ¡Una visita imperdible para sumergirse en el arte y la creatividad en el corazón de Pereira! 🖼️
 
@@ -64,7 +64,7 @@ El Museo de Arte de Pereira, ubicado cerca del terminal de transporte de Pereira
  height:"570"
 %}
 
-### #3 PASEO POR CABLE AÉREO 
+### -> #3 PASEO POR CABLE AÉREO 
 
 
  El Cable Aéreo de Pereira es una emocionante atracción turística que te lleva a disfrutar de impresionantes vistas panorámicas de la ciudad. A bordo de las cabinas, podrás apreciar la belleza de los paisajes cafeteros y las montañas circundantes. ¡Es una experiencia única y emocionante para explorar Pereira desde las alturas y capturar momentos inolvidables! 🚡 🌄
@@ -83,7 +83,7 @@ El Museo de Arte de Pereira, ubicado cerca del terminal de transporte de Pereira
 
 Quizás estés buscando un poco más de aventura y contacto con la naturaleza, aquí te mostraremos algunos de los tours que podrías hacer.
 
-### TERMALES DE SAN VICENTE ♨️
+### -> TERMALES DE SAN VICENTE ♨️
 
 Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales ♨️⚕️.
 
@@ -102,7 +102,7 @@ A continuación te dejaremos un link en el cual podrás encontrar tour desde Per
 
 👉 **<a href="https://www.randes.co/products/tour-barbas-bremen" style="color:#971717;" target="_blank"> Descubre Termales de San Vicente desde Pereira. ¡Reserva ahora! 🔗 Reserva aquí</a>**
 
-### BARBAS BREMEN 🐒
+### -> BARBAS BREMEN 🐒
 
 Esta es sin duda una de las rutas más visitadas por turistas, ya que es una caminata corta de aproximadamente 4 kilómetros, y terminaran en una hermosa casada, si cuentan con suerte podrán ver los monos aulladores 🐒.
 Este lugar se encuentra en Finlandia, Quindío, desde Pereira es aproximadamente a 1 hora en bus.
@@ -120,7 +120,7 @@ Este lugar se encuentra en Finlandia, Quindío, desde Pereira es aproximadamente
 
 
 
- ### ESTACIÓN PEREIRA 🚠
+ ### -> ESTACIÓN PEREIRA 🚠
 
 
 Estación Pereira es una ruta que, sin duda, encanta debido a la belleza de sus paisajes y con un poco de aventura que la convierte en un recorrido inolvidable para familias y amigos. 
