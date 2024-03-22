@@ -3,7 +3,7 @@ layout: article
 title: ¿Qué hacer o qué visitar en Pereira?
 categories: blog
 seo_title: Que Visitar en Pereira - Rutas
-excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como
+excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como arquitectónicos.
 images_url: /images/blog/tips-montana/que-hacer-en-pereira
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pereira/featured.jpg
@@ -11,7 +11,7 @@ featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pere
 
 ## ¿QUÉ HACER EN PEREIRA?
 
-¿Qué hacer en Pereira?, o ¿Qué visitar en Pereira? Esta es una pregunta frecuente que nos realizamos al pasar por una ciudad. En este post te queremos mostrarte algunos de los lugares que son consideramos los más lindo de esta región.
+Esta es una pregunta frecuente que se hacen los viajeros al pasar por una nueva ciudad. En este post te queremos mostrarte algunos de los lugares que son consideramos los más lindo de esta región.
 
 __Información que encontrarás en este post:__
 
