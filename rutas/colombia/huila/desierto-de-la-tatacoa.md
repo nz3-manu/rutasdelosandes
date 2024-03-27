@@ -30,7 +30,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/huila/morrogacho-hill.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/huila/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
 
 ## DATO CURIOSO DEL DESIERTO DE LA TATACOA
 
@@ -44,10 +44,9 @@ El Desierto de la Tatacoa es la __segunda zona árida más extensa de Colombia__
 - Beber jugo de cactus.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider1.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider12.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider2.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider3.JPG", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider1.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider2.jpg", width:"800", height:"600" %}
+{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider3.JPG", width:"800", height:"600" %}
 </amp-carousel>
 
 <a name="llegar-desierto" id="llegar-desierto"></a>
@@ -134,7 +133,7 @@ caption:"Mapa: Ruta realizada en eldesierto de la Tatacoa "
 
 Desde Villavieja tomamos un mototaxi hasta la región conocida como los hoyos, el cual se demoró más o menos 30 minutos. Esta es la región más apartada del desierto de la Tatacoa y es allí donde se encuentra la __piscina natural en medio del desierto 🏜🏊🏼__.
 
-#### -> DESIERTO GRIS SECTOR LOS HOYOS
+#### --> DESIERTO GRIS SECTOR LOS HOYOS
 
 No hay mejor plan que refrescarse en una piscina en un día soleado ☀️. Así que si quieres ingresar a la piscina, el valor de la entrada es aproximadamente $10.000 pesos, en ella podrán disfrutar de un refrescante baño y observar las dunas de color gris que caracteriza esta parte del desierto.
 
@@ -143,13 +142,12 @@ En este sector hay un sendero el cual tiene una duración de 2 horas, por cuesti
 
 __Recomendación:__ _si no cuentas con transporte y vas a realizar el recorrido por tu cuenta, asegúrate de que el carro o moto-carro que vayas a contratar este afiliado a una empresa de transporte de confianza, ya que muchas veces te ofrecerán servicio de transporte personas particulares._
 
-<amp-instagram
-data-shortcode="BcbDE7SnP15"
-data-captioned
-width="600"
-height="450"
-layout="responsive">
-</amp-instagram>
+{% include image.html,
+file:"rutas/huila/desierto-de-la-tatacoa/piscina-en-el-desierto.jpg",
+height:"1350",
+width:"1080",
+caption:"Foto: piscina en medio del desierto"
+%}
 
 Después de haber tomado un refrescante baño, regresamos de nuevo a nuestro hospedaje, _les daremos las opciones disponibles de hospedarte en la sección de hospedajes._
 
@@ -165,11 +163,13 @@ La región de Cuzco se caracteriza por ser de tierra un poco más rojiza, el sen
 __RECOMENDACIÓN:__ _debes de saber que en el desierto hay serpientes cascabel 🐍, muchas de estas se encuentran por senderismo que no son transitados por los turistas, es por esto que se recomienda realizar el recorrido con la supervisión de un guía local_
 
 {% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/cuzco.jpg",
-height:"555",
-width:"740",
-caption:"Región del desierto de la Tatacoa rojizo “Cuzco”"
+file:"rutas/huila/desierto-de-la-tatacoa/region-cuzco.jpg",
+height:"1350",
+width:"1080",
+caption:"Foto: Región del desierto de la Tatacoa rojizo “Cuzco”"
 %}
+
+
 
 Una vez de haber recorrido parte del desierto de la Tatacoa nada más refrescante para quitar la sed que tomar un “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares, ya que es un poco complicado cargarlos en el hospedaje.
 
@@ -181,9 +181,9 @@ Una vez en nuestro hospedaje dejamos las cosas para ir al Observatorio Astronóm
 
 
 {% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/Observatorio.jpg",
-height:"900",
-width:"1200",
+file:"rutas/huila/desierto-de-la-tatacoa/observatorio-astronomico.jpg",
+height:"890",
+width:"772",
 caption:"Foto: Observatorio en el Desierto"
 %}
 
@@ -203,13 +203,13 @@ A continuación te mostraremos algunas opciones de hoteles y hostales que encont
 __NOTA:__ De estos hospedajes no estamos recibiendo nada a cambio, solo Booking nos da una pequeña comisión cuando realizan la reserva por los links que dejamos en cada uno de estos.
 
 
-### HOSPEDAJES EN VILLAVIEJA
+### -> HOSPEDAJES EN VILLAVIEJA
 
 
 Villavieja es el pueblo más cercano al desierto de la Tatacoa,  está a solo 15 minutos en carro o moto, allí encontrarás supermercados y gran variedad de restaurantes. A continuación te mostraremos las mejores opciones de hospedaje que encontramos en Villavieja.
 
 
-#### -> SOLARIS HOTEL
+#### --> SOLARIS HOTEL
 
 
 Este hospedaje se encuentran en todo el centro del pueblo de Villavieja, es un lugar libre de humo así que es ideal para estar con tu familia, en este hospedaje encontrarás:
@@ -232,7 +232,7 @@ caption:"Foto: Hotel en Villavieja"
 
 👉 <a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
 
-#### -> CASA HOTEL ESTELAR
+#### --> CASA HOTEL ESTELAR
 
 Este hotel se encuentra en el centro de Villavieja a solo 1 cuadra del museo y 1 cuadra del parque principal, este hospedaje cuenta con:
 
@@ -256,13 +256,13 @@ caption:"Foto: Hotel en Villavieja"
 👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
 
 
-### HOSPEDAJES DENTRO DEL DESIERTO DE LA TATACOA
+### -> HOSPEDAJES DENTRO DEL DESIERTO DE LA TATACOA
 
 Algo que debes de tener en cuenta es que en el desierto de la Tatacoa, el agua es escasa y la poca que sale del grifo algunas veces no es muy limpia, además la electricidad que hay es por paneles o por plantas de energía, tampoco encontrarán supermercados y por último, la señal de celular no es muy buena, solo funciona algunos operadores cerca del observatorio astronómico.
 
 A continuación te mostraremos las mejores opciones de hospedaje que encontramos en el Desierto de la Tatacoa.
 
-### -> ALOJAMIENTO CASA DE CAMPO LOS CACTUS
+### --> ALOJAMIENTO CASA DE CAMPO LOS CACTUS
 
 Este alojamiento se encuentra cerca al Observatorio Astronómico, cuenta con:
 
@@ -289,7 +289,7 @@ caption:"Foto: Hotel en el desierto de la Tatacoa"
 👉 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en Alojamiento casa de campo los cactus</a>
 
 
-### -> POSADA TURÍSTICA NOCHES DE SATURNO
+### --> POSADA TURÍSTICA NOCHES DE SATURNO
 
 Este alojamiento se encuentra cerca al Observatorio Astronómico y cuenta con:
 
