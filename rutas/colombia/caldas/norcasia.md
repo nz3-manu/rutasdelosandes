@@ -23,8 +23,8 @@ Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares
 - <a href="#dato-norcasia"> Datos curiosos de Norcasia</a>
 - <a href="#tour-norcasia"> Tours a Norcasia </a>
 - <a href="#llegar-nocasia"> ¿Cómo llegar a Norcasia? </a>
-- <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#lugares-norcasia"> Lugares turísticos en Norcasia</a>
+- <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#recomendaciones-norcasia"> Recomendaciones finales para visitar Norcasia</a>
  
 <a name="dato-norcasia" id="dato-norcasia"></a>
@@ -112,13 +112,6 @@ Después de una rica cena, nos fuimos a descansar, ya que al siguiente día empe
 
  
 Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia en caso de que tengas algún problema con tu alojamiento.
- 
-<a name="hospedaje-norcasia" id="hospedaje-norcasia"></a>
- 
-## HOSPEDAJE EN NORCASIA 🛌
- 
-En Norcasia podrás encontrar gran variedad de hospedajes, los cuales están alrededor de $60.000 Pesos por persona, el consejo que te damos si no vas con un tour que incluya hospedaje es que hagas la reservación con tiempo, ya que en temporada alta posiblemente no encuentres hospedaje.
-Si vas en moto o carro, podrás encontrar tambien parqueaderos.
  
  
 <a name="lugares-norcasia" id="lugares-norcasia"></a>
@@ -225,6 +218,70 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
 %}
  
 **<span class="advise"> Foto por: Victor </span>**
+
+<a name="hospedaje-norcasia" id="hospedaje-norcasia"></a>
+ 
+## HOSPEDAJE EN NORCASIA 🛌
+ 
+Aquí te mostraremos las mejores de opciones de hospedaje, nos basamos en las recomendaciones de viajeros a norcasia y de la puntuación de la plataforma booking, nosotros siempre usamos esta plataforma ya que es una forma segura para hacer reservas de alojamientos.
+
+
+### -> ECOHOTEL CAMPO ALEGRE 
+
+Se encuntra en el centro de Norcasia, dispone de: Parqueadero, piscina, bañera de hidromasaje al aire libre. Además, alberga un bar restaurante. El establecimiento ofrece servicio de masaje, paseos ecológicos a caballo y excursiones al embalse de Amaní.
+
+Este complejo está ubicado en un entorno natural y tranquilo y dispone baño privado en casi todas las habitaciones. También hay una cocina compartida equipada con horno, nevera y mesa de comedor y un balcón con vistas panorámicas al jardín, al río y las montañas. Todas las habitaciones están equipadas con ventilador.
+
+<a href="https://www.booking.com/hotel/co/cabanas-campo-alegre.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/caldas/norcasia/hospedaje/ecohotel-campo.jpg",
+caption:"Foto: Ecohotel en norcasia",
+width:"900",
+height:"514"
+%}
+</a>
+
+ 👉 <a href= "https://www.booking.com/hotel/co/cabanas-campo-alegre.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
+
+
+### -> ECOHOTEL CAMPO ALEGRE
+
+Se encuentra ubicado en el centro de Norcasia, este alojamiento ofrece: parking privado gratis, wifi gratis y acceso a un balcón.
+
+El apartamento de 3 dormitorios tiene sala de estar con TV de pantalla plana por cable y reproductor de Blu-ray, y cocina totalmente equipada con nevera. Hay toallas y ropa de cama en el apartamento.
+
+
+<a href="https://www.booking.com/hotel/co/comoda-casa-en-sector-tranquilo-cerca-al-parque-casa-agradable-para-disfrutar-co.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/caldas/norcasia/hospedaje/casa-central.jpg",
+caption:"Foto: casa hotel en norcasia, 1 piso y 2 piso",
+width:"900",
+height:"514"
+%}
+</a>
+
+ 👉 <a href= "https://www.booking.com/hotel/co/comoda-casa-en-sector-tranquilo-cerca-al-parque-casa-agradable-para-disfrutar-co.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
+
+
+### -> HOTEL CASA DE TEJA
+
+Hotel Casa de Teja se encuentra a 7,1 km del centro de  Norcasia y dispone de: vistas al jardín, wifi gratis y parking privado gratis.
+Hay un baño privado totalmente equipado con ducha y artículos de aseo gratuitos.
+También hay un jardín ideal para relajarse.
+
+
+<a href="https://www.booking.com/hotel/co/casa-de-teja-norcasia.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/caldas/norcasia/hospedaje/casa-hotel.jpg",
+caption:"Foto: Casa hotel en norcasia",
+width:"1644",
+height:"698"
+%}
+</a>
+
+ 👉 <a href= "https://www.booking.com/hotel/co/casa-de-teja-norcasia.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
+
+ 
  
 <a name="recomendaciones-norcasia" id="recomendaciones-norcasia"></a>
 

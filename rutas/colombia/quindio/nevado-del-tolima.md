@@ -16,13 +16,13 @@ En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolim
 
 **<a href="https://wa.link/yg6ads" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí </a>**
 
-**En este post encontrarás la siguiente información:**
+**EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-- Datos Curiosos del Nevado del Tolima
-- Video de la Ruta realizada al Nevado del Tolima
-- Precios del tour al Nevado del Tolima
-- ¿Cómo llegar al nevado del Tolima?
-- Ruta hasta la cumbre del nevado del Tolima
+- <a href="#lugares-tolima"> Video de la Ruta realizada al Nevado del Tolima</a>
+- <a href="#como-tolima">¿Cómo llegar al nevado del Tolima? </a>
+- <a href="#sendero-cumbre-tolima"> Ruta hasta la cumbre del nevado del Tolima </a>
+- <a href="#como-tolima"> Hospedaje cerca al nevado del Tolima </a>
+- <a href="#tour-tolima"> Recomendaición para tomar un tour al Nevado del Tolima </a>
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
 
@@ -35,6 +35,8 @@ Su nombre Dulima, se remonta hace más de 400 años (durante la conquista españ
 Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo quemada sino que un enviado del dios fuego la cubrió para purificarla y su espíritu trascendiera para ser la diosa de las nieves que duerme en las profundidades del Nevado del Tolima, donde descansan los sabios.
 
 [Fuente: <a target="_blank" href="https://ibanasca.wordpress.com/2012/11/21/ibanasca-la-diosa-de-las-nieves/"> ibanasca </a>]
+
+<a name="lugares-tolima" id="lugares-tolima"></a>
 
 ## VIDEO DE LA RUTA REALIZADA AL NEVADO DEL TOLIMA
 
@@ -55,6 +57,8 @@ Los tours grupales por lo general son los fines de semana, debes de tener en cue
 **RECOMENDACIÓN PARA ELEGIR UN TOUR:** <ins> _Asegurate que la agencia con la cual vas a ir cuente con todos la documentación para hacer este tipo de actividades, y además cuente con el aval de Parques Nacionales._ </ins>
 
 Si quieres más información de este tour o quieres reservar, puedes dar **<a href="https://wa.link/yg6ads" target="_blank"> clic aquí. </a>**
+
+<a name="como-tolima" id="como-tolima"></a>
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
