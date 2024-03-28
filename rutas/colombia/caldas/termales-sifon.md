@@ -143,14 +143,16 @@ __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibim
 
 Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
 
-
+<a href="https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
  file:"rutas/caldas/sifon/hotel-otono.png",
 caption:"Foto Hotel vía nevado del Ruiz",
 width:"1248",
 height:"727"
 %}
-Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+</a>
+
+👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking </a>
 
 
 
@@ -171,7 +173,7 @@ height:"940"
 </a>
 
 
-👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para ver este apartamento en Pereira</a>
+👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
 
 
 ### -> AYENDA 1131 CASA VALENCIA (MANIZALES)
@@ -188,7 +190,7 @@ height:"727"
 %}
 
 
-Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
 
 
 <a name="recomendaciones-sifon" id="recomendaciones-sifon"></a>
@@ -200,7 +202,7 @@ Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-ma
 A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios y tenga trayectoria en la plataforma de Booking.
 
 
-👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver más opciones de hospedaje en Manizales</a>
 
 ## RECOMENDACIONES PARA VISITAR LOS TERMALES DEL SIFÓN
 

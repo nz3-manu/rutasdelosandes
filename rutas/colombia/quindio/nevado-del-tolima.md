@@ -51,11 +51,6 @@ A continuación te mostramos un pequeño **video del Nevado del Tolima** , donde
 
 Los tours grupales por lo general son los fines de semana, debes de tener en cuenta de hacer la reservación como mínimo con 1 mes de anticipación. Si vas con un grupo de amigos podrías realizar un tour privado para el nevado del Tolima, a continuación te mostramos la tabla de precios.
 
-- 1 Persona: $2'500.000 COP
-- 2 personas: $1'800.000 COP
-- 3 personas: $1'700.000 COP
-- 4 personas: $1'500.000 COP
-- 5 personas: $1'300.000 COP
 
 **RECOMENDACIÓN PARA ELEGIR UN TOUR:** <ins> _Asegurate que la agencia con la cual vas a ir cuente con todos la documentación para hacer este tipo de actividades, y además cuente con el aval de Parques Nacionales._ </ins>
 

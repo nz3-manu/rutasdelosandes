@@ -43,7 +43,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 El Eje cafetero o también conocido como el triángulo del café, se encuentra en la zona centro-occidental de la Cordillera de los Andes; por esta razón, al estar ubicado en la parte central de la Cordillera, hace que sea uno de los sitios turísticos con más fácil acceso desde las principales ciudades tales como: Medellín, Cali y Bogotá.
 
 
-Cabe resaltar que el Eje Cafetero está conformado por los departamentos de__Risaralda, Quindío y Caldas__,los cuales forman el triángulo del café, lo que la convierte en una de las zonas del país con mayor demanda gastronómica, cultural y cafetera. 
+Cabe resaltar que el Eje Cafetero está conformado por los departamentos de __Risaralda, Quindío y Caldas__,los cuales forman el triángulo del café, lo que la convierte en una de las zonas del país con mayor demanda gastronómica, cultural y cafetera. 
 <a name="como-llegar-eje" id="como-llegar-eje"></a>
 
 
@@ -219,7 +219,7 @@ __Nota:__ _Todos estos tours salen de Pereira, ya que como mencionamos anteriorm
 ## HOSPEDAJES EN EL EJE CAFETERO 🏨
 
 
-Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles. Las hemos seleccionado de acuerdo a su ubicación, además, que se encuentren en zonas seguras, cuente con parqueadero. Pero sobre todo, recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva de manera segura y totalmente gratis. 
+Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles. Las hemos seleccionado de acuerdo a su ubicación, además, que se encuentren en zonas seguras, cuente con parqueadero. Pero sobre todo, recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva de manera segura. 
 
 
 __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
@@ -269,7 +269,7 @@ height:"940"
 </a>
 
 
-👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver este apartamento en Pereira</a>
+👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
 
 
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
@@ -278,7 +278,7 @@ height:"940"
 A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y ue el hospedaje tenga trayectoria en la plataforma de Booking.
 
 
-👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver más opciones de hospedaje disponible en Manizales</a>
+👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver más opciones de hospedaje en Manizales</a>
 
 
 Este es el fin del post Rutas de senderismo en el Eje Cafetero, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

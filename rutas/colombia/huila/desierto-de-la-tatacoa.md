@@ -149,6 +149,9 @@ width:"1080",
 caption:"Foto: piscina en medio del desierto"
 %}
 
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/p/la_vidademike/" target="_blank"> @la_vidademike </a> </span>**
+
+
 Después de haber tomado un refrescante baño, regresamos de nuevo a nuestro hospedaje, _les daremos las opciones disponibles de hospedarte en la sección de hospedajes._
 
 ### -> DÍA #2
@@ -169,6 +172,8 @@ width:"1080",
 caption:"Foto: Región del desierto de la Tatacoa rojizo “Cuzco”"
 %}
 
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/p/la_vidademike/" target="_blank"> @la_vidademike </a> </span>**
+
 
 
 Una vez de haber recorrido parte del desierto de la Tatacoa nada más refrescante para quitar la sed que tomar un “jugo de cactus🍹😋”; esta es una bebida típica de la zona. La heladería queda cerca del Observatorio Astronómico 🔭, aquí podrán aprovechar para cargar los celulares, ya que es un poco complicado cargarlos en el hospedaje.
@@ -186,6 +191,10 @@ height:"890",
 width:"772",
 caption:"Foto: Observatorio en el Desierto"
 %}
+
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/p/Bv2sP1_n9r3/" target="_blank"> @ruahugo </a> </span>**
+
+
 
 
 Espero que esta información te haya sido útil, y solo te queremos decir gracias por llegar hasta aquí.
