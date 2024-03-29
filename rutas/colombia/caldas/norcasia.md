@@ -223,7 +223,10 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
  
 ## HOSPEDAJE EN NORCASIA 🛌
  
-Aquí te mostraremos las mejores de opciones de hospedaje, nos basamos en las recomendaciones de viajeros a norcasia y de la puntuación de la plataforma booking, nosotros siempre usamos esta plataforma ya que es una forma segura para hacer reservas de alojamientos.
+Aquí te mostraremos las mejores de opciones de hospedaje, nos basamos en las recomendaciones de viajeros que visitaron norcasia y de la puntuación de estos en la plataforma de Booking, nosotros siempre usamos esta plataforma ya que es una forma segura para hacer reservas de alojamientos.
+
+
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
 ### -> ECOHOTEL CAMPO ALEGRE 
