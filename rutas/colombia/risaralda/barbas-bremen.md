@@ -16,6 +16,8 @@ La reserva Barbas Bremen se encuentra localizada entre los __municipios de Filan
 
 Entre los atractivos de la reserva está la gran biodiversidad de aves lo que favorece el avistamiento 🐦, tambien se pueden observar manadas de monos aulladores 🐒, cuyos aullidos se escuchan a kilómetros de distancia.
 
+Aquí te dejaremos información de hospedaje en Filandia, sus correspondientes link par hacer la reserva, también te dejaremos información de como llegar a Filandia y tours que podrás encontrar en Filandia.
+
 👉  __<a href="https://wa.link/y1xngu" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia 🐒?, puedes dar clic aquí</a>__
 
 **EN ESTE POST DE LA RESERBA BARBAS BREMEN ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
@@ -23,8 +25,8 @@ Entre los atractivos de la reserva está la gran biodiversidad de aves lo que fa
 - <a href="#dato-barbas-bremen"> Datos curioso de la reserva Barbas Bremen</a>
 - <a href="#video-barbas-bremen"> Video de la ruta a la reserva Barbas Bremen </a>
 - <a href="#llegar-barbas-bremen"> ¿Cómo llegar a la reserva Barbas Bremen </a>
-- <a href="#hospedaje-barbas-bremen"> Hospedaje en Filandia </a>
-- <a href="#tour-barbas-bremen"> Tours a la reserva Barbas Bremen </a>
+- <a href="#hospedaje-barbas-bremen"> Mejores hospedaje en Filandia </a>
+- <a href="#tour-barbas-bremen"> Tours disponibles a la reserva Barbas Bremen </a>
 - <a href="#recomendaciones-barbas-bremen"> Recomendaciones finales para visitar la reserva Barbas Bremen</a>
 
 Empecemos con la aventura ⛰.
@@ -39,7 +41,7 @@ El nombre del “Río Barbas” tiene una historia muy particular que cuentan lo
 
 <a name="video-barbas-bremen" id="video-barbas-bremen"></a>
 
-## VIDEO DE LA RUTA A LA RESERVA BARBAS BREMEN
+## VIDEO DE LA RUTA EN EL BARBAS BREMEN 🎥
 
 A continuación te mostramos un pequeño video de la reserva Barbas Bremen te mostraremos como fue nuestro reorrido en esta **ruta de senderismo en el Eje Cafetero.**
 
@@ -55,17 +57,13 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 <a name="llegar-barbas-bremen" id="llegar-barbas-bremen"></a>
 
-## ¿CÓMO LLEGAR A LA RESERVA BARBAS BREMEN ?
+## ¿CÓMO LLEGAR AL BARBAS BREMEN 🚐?
 
 Para llegar a la reserva de Barbas Bremen, tuvimos que llegar hasta el municipio de Filandia Quindio, aquí te mostraremos las formas de hacerlo desde Pereira o si te encuentras en Salento.
 
-### -> DESDE PEREIRA A FILANDIA
+* __DESDE PEREIRA A FILANDIA:__ Desde el terminal de Pereira podrán tomar un bus de la empresa Expreso Alcalá, el cual sale a partir de las 7 am, el valor de este es de aproximadamente $12.000 pesos, la duración del trayecto es de aproximadamente 1 hora.
 
-Desde el terminal de Pereira podrán tomar un bus de la empresa Expreso Alcalá, el cual sale a partir de las 7 am, el valor de este es de aproximadamente $12.000 pesos, la duración del trayecto es de aproximadamente 1 hora.
-
-### ->  DESDE SALENTO A FILANDIA 
-
-Desde Salento vas a encontrar jeeps que salen desde el parque principal, estos salen cada 2 horas, a partir de las 7 am, se recomienda llegar antes para separar cupo, la duración del trayecto es de aproximadamente 1 hora.
+* __DESDE SALENTO A FILANDIA:__ Desde Salento vas a encontrar jeeps que salen desde el parque principal, estos salen cada 2 horas, a partir de las 7 am, se recomienda llegar antes para separar cupo, la duración del trayecto es de aproximadamente 1 hora.
 
 
 
@@ -77,10 +75,10 @@ width:"1000",
 height:"300" %}
 </a>
 
-Al llegar a filandia nos encontramos con el guía el cual nos explico hacerca del recorrido que ibamos a realizar, este tiene una duración de aproximadamente 3 horas, son en total 4 kilometros.
+Al llegar a Filandia nos encontramos con el guía, el cual nos explicó acerca del recorrido que íbamos a realizar y de las recomendaciones que deberíamos tener para hacer el recorrido, el sendero tiene una duración de aproximadamente 3 horas, son en total 4 kilómetros.
 
 
-__NOTA:__ _Si no vas con guía no podrás hacer este recorrido, ya que tendrán que pasar por predios privados, como mostraremos a continuación._
+__NOTA:__ _Para ingresar al sendero tendrán que pasar por predios privados, como mostraremos a continuación, así que si no vas con guía vas a tener problemas con los dueños de estas fincas._
 
 ## RUTA EN LA RESERVA BARBAS BREMEN 🛏️
 
@@ -91,7 +89,7 @@ Dicho sonido nos alcanzó a inquietar un poco; hasta que alguien notó que el so
 
 
 {% include image.html,
-  file:"rutas/risaralda/barbasBremen/featured.jpg",
+  file:"rutas/risaralda/barbas-bremen/featured.jpg",
  caption:"Mono aullador",
  width:"1800",
  height:"1200"
@@ -99,19 +97,18 @@ Dicho sonido nos alcanzó a inquietar un poco; hasta que alguien notó que el so
 
 Tras haber hecho una pequeña pausa para avistar los monos aulladores, continuamos con nuestro recorrido hasta una pequeña cascada.
 
-El último trayecto para bajar al rió fue por unas rocas la cual estaba algo resbalosa, para nuestra sorpresa el rió estaba totalmente cristalino y habían algunas parte hondas donde se podía sumergir 🏊‍♂️.
 
 {% include image.html,
-  file:"rutas/risaralda/barbasBremen/rio-basbas.jpg",
+  file:"rutas/risaralda/barbas-bremen/cascada-barbas.jpeg",
  caption:"Cascada en el Barbas Bremen",
- width:"800",
- height:"600"
+ width:"1200",
+ height:"751"
 %}
 
 Este recorrido realmente fue una experiencia mágica en el sentido de poder estar disfrutando de la naturaleza y además de poder escuchar el sonido de los monos aulladores, que para sorpresa de todos, son unos animales realmente cautivadores y exóticos que hacen que la Reserva Barbas Bremen sea un sitio para visitar una y mil veces.
 
 
-__NOTA:__  _No todos cuentan con tanta suerte de ver los monos aulladores de como los pudimos ver nosotros_
+__NOTA:__  _No todos cuentan con tanta suerte de ver los monos aulladores de como los pudimos ver nosotros._
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
@@ -183,7 +180,7 @@ El desayuno está disponible cada mañana e incluye opciones a la carta, america
 <a href="https://www.booking.com/hotel/co/granja-rancho-ventura-filandia.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 
 {% include image.html,
-file:"rutas/risaralda/barbas-bremen/hospedaje/tukawa-hotel.jpg",
+file:"rutas/risaralda/barbas-bremen/hospedaje/rancho-ventura.jpg",
 caption:"Foto: Hotel en Filandia",
 width:"900",
 height:"517"
@@ -196,11 +193,14 @@ height:"517"
 
 ## TOUR A LA RESERVA BARBAS BREMEN 🧳
 
-__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am y 12 pm, este tiene una duración de 3 horas son aproximadamente 4 kilómetros, al finalizar el tour podrán disfrutar de una hermosa cascada.
+__El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am o 12 pm (algunas veces lo cambian a la 1 pm), este tiene una duración de 3 horas son aproximadamente 4 kilómetros, al finalizar el tour podrán disfrutar de una hermosa pequeña cascada.
+
+
+__NOTA:__ _Debes de tener en cuenta que para cada horario de salida (9 am o 12 pm), solo se permite ingresar con 12 personas como máximo, en temporada alta te recomendamos hacer la reserva con tiempo._
 
 **EL VALOR DEL TOUR INCLUYE:**
 
-- 🚙 Transporte
+- 🚙 Transporte en jeep desde filandia
 - 👨 Guía
 - 🫶 Seguro de asistencia médica
 
@@ -213,7 +213,7 @@ __El tour comienza desde Filandia-Quindío__, Los horarios de salida son de 9 am
 
 - Los monos aulladores algunas veces pueden tornarse agresivos y te harán pasar un mal momento, así que te recomendamos ir con un guía ya que ellos están capacitados para controlar estas situaciones.
 - Los mosquitos podrían contagiarte de algunas enfermedades que tengan los monos, así que se recomienda ir con camiseta manga larga y leggins.
-- El Rió Barbas se caracteriza por ser impredecible, así que se recomienda no estar en el cuando esta lloviendo.
-- Algunos puntos cuentan con casetas hechas en guadua donde podremos comer, por favor NO dejar basuras en estos sitios.
+- Debes de hacer silencio al momento de estar en el sendero, ya que los monitos pueden asustarse y los más pequeños por intentar cruzar rápido pueden caerse de los árboles.
+- __Llevar la ropa adecuada:__ Tenis o botas con buen agarre, pantalones de tela elástica y buzos manga larga, estos lo puedes comprar en nuestra tienda en línea, 👉 <a target="_blank" href="https://www.randes.co/">aquí</a>
 
 Este es el fin de la ruta a Barbas Bremen, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
