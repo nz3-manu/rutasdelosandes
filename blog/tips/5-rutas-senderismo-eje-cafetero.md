@@ -244,7 +244,7 @@ height:"940"
 👉 <a href="https://www.booking.com/hotel/co/monterosa-aptos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Link para ver este apartamento en Booking</a>
 
 
-### -> MÁS OPCIONES DE HOSPEDAJES EN (PEREIRA)
+### -> MÁS OPCIONES DE HOSPEDAJES EN PEREIRA
 
 
 A continuación te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios y que tenga trayectoria en la plataforma de Booking.
@@ -272,10 +272,10 @@ height:"940"
 👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
 
 
-### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
+### -> MÁS OPCIONES DE HOSPEDAJES EN MANIZALES
 
 
-A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y ue el hospedaje tenga trayectoria en la plataforma de Booking.
+A continuación de te dejamos el link de Booking en el cual podrás filtrar y buscar más apartamentos de acuerdo a tu presupuesto, __recomendaciones para elegir un hospedaje:__ que cuente con buenos comentarios, y que el hospedaje tenga trayectoria en la plataforma de Booking.
 
 
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver más opciones de hospedaje en Manizales</a>

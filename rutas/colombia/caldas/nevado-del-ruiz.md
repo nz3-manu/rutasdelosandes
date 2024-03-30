@@ -18,11 +18,6 @@ El Nevado del Ruiz o conocido también como __volcán Nevado del Ruiz__,es un vo
 
 El Parque Nacional Natural los Nevados contribuye a la protección de _ecosistemas_ de bosque alto-andino,humedales, _páramos y glaciares_. Aquí te mostraremos lo que necesitas saber para conocer este hermoso lugar, podrás ver el precio de los ingresos y hospedajes cerca del nevado.
 
-
-
-
-
-
 __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
 
@@ -162,15 +157,11 @@ El recorrido tiene una duración aproximadamente de 3 horas, teniendo en cuenta 
 A continuación te mostraremos el mapa de los lugares que visitamos en el nevado del Ruiz, esta ruta se realiza toda en carro, solo vamos a caminar en estos puntos que están en el mapa.
 
 
-
-
 {% include iframe.html,
  type:"custom",
  mid:"1Qkq6O-RLLIzsdaMKpMxCz6gumVfN2vQ&ehbc=2E312F",
  caption:"Mapa: Ruta dentro del Nevado del Ruiz"
 %}
-
-
 
 
 ### -> SECTOR DE AGUACERALES
@@ -316,8 +307,6 @@ Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfru
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/camino-del-arriero.html" target="_blank"> Camino del Arriero</a>__
-
-
 
 
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

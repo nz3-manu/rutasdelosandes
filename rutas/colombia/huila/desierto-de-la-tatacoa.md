@@ -218,18 +218,15 @@ __NOTA:__ De estos hospedajes no estamos recibiendo nada a cambio, solo Booking 
 Villavieja es el pueblo más cercano al desierto de la Tatacoa,  está a solo 15 minutos en carro o moto, allí encontrarás supermercados y gran variedad de restaurantes. A continuación te mostraremos las mejores opciones de hospedaje que encontramos en Villavieja.
 
 
-#### --> SOLARIS HOTEL
+#### --> HV SUEÑO REAL TATACOA
 
 
-Este hospedaje se encuentran en todo el centro del pueblo de Villavieja, es un lugar libre de humo así que es ideal para estar con tu familia, en este hospedaje encontrarás:
+Se encuentra cerca del centro de Villavieja, es hospedaje cuenta con:
 
-* Salón de uso común, terraza, restaurante y bar en Villavieja.
-* Wifi gratis en todo el alojamiento.
-* Bañera de hidromasaje y karaoke.
-* Parqueadero totalmente gratis.
-* El aeropuerto más cercano (Aeropuerto Benito Salas) está a 62 km del alojamiento.
+* Jardín, salón compartido, bar, bañera de hidromasaje, recepción abierta las 24 horas y servicio de habitaciones.
+* Las habitaciones del Hotel Sueño Real Tatacoa están equipadas con TV de pantalla plana y baño privado con artículos de aseo gratuitos.
 
-<a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+<a href="https://www.booking.com/hotel/co/sueno-real-tatacoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
 file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa-2.jpg",
 height:"513",
@@ -239,7 +236,7 @@ caption:"Foto: Hotel en Villavieja"
 </a>
 
 
-👉 <a href="https://www.booking.com/hotel/co/solaris-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
+👉 <a href="https://www.booking.com/hotel/co/sueno-real-tatacoa.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar por Booking</a>
 
 #### --> CASA HOTEL ESTELAR
 
@@ -262,7 +259,28 @@ caption:"Foto: Hotel en Villavieja"
 %}
 </a>
 
-👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en casa Hotel Estelar</a>
+👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar por Booking</a>
+
+
+#### --> LUNA DEL DESIERTO TATACOA (ECONOMICO)
+
+Este se encuentra en Villavieja cuenta con:
+- Wifi gratis y se ofrece parking privado por un suplemento.
+- Cada habitación incluye armario.
+- Cada habitación está equipada con baño compartido con ducha.
+
+
+<a href="https://www.booking.com/hotel/co/luna-del-desierto.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+
+{% include image.html,
+file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-economico-desierto-tatacoa.jpg",
+height:"507",
+width:"900",
+caption:"Foto: Hotel en Villavieja"
+%}
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/luna-del-desierto.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar por Booking</a>
 
 
 ### -> HOSPEDAJES DENTRO DEL DESIERTO DE LA TATACOA
@@ -295,7 +313,7 @@ caption:"Foto: Hotel en el desierto de la Tatacoa"
 
 
 
-👉 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en Alojamiento casa de campo los cactus</a>
+👉 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar por Booking</a>
 
 
 ### --> POSADA TURÍSTICA NOCHES DE SATURNO
@@ -305,16 +323,16 @@ Este alojamiento se encuentra cerca al Observatorio Astronómico y cuenta con:
 - Restaurante de cocina local, bar y parking privado gratis.
 - Todas las unidades incluyen baño privado con ducha y artículos de aseo.
 
-<a href="hospedaje-en-el-desierto-2" target="_blank">
+<a href="https://www.booking.com/hotel/co/posada-turistica-noches-de-saturno-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto.jpg",
+file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto-2.jpg",
 height:"518",
 width:"900",
 caption:"Foto: Hotel dentro del desierto de la Tatacoa 2"
 %}
 </a>
 
-👉 <a href="hospedaje-en-el-desierto-2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar en Posada turística noches de saturno</a>
+👉 <a href="https://www.booking.com/hotel/co/posada-turistica-noches-de-saturno-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Link para reservar por Booking</a>
 
 __IMPORTANTE:__ _Cuando estuvimos hospedados en el desierto a un extranjero se le robaron su equipaje 🥲 y, ya que el hospedaje no tenía un registro de las personas que estaban hospedados, no pudieron identificar a la persona, para hacer el respectivo denuncio._
 
