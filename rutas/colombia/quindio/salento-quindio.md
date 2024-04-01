@@ -18,11 +18,11 @@ __Nota:__ <ins>_En caso de que quieras realizar alguna de las rutas con guías l
  
 __EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:__
  
-* <a href="#llegar-salento"> Cómo llegar a Salento? </a>
-* <a href="#hospedaje-salento"> Hospedaje en Salento </a>    
+* <a href="#llegar-salento"> Cómo llegar a Salento? </a>   
 * <a href="#que-hacer-salento"> ¿Qué hacer en Salento? </a>
 * <a href="#sendero-valle-cocora"> Rutas de senderismo en el Valle del  Cocora </a>
 * <a href="#mapa-valle-cocora"> Mapa ruta circular en el valle del Cocora </a>
+* <a href="#hospedaje-salento"> Hospedaje en Salento </a> 
 * <a href="#recomendacion-salento"> Recomendaciones Finales
 Salento</a>
  
@@ -37,17 +37,17 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindi
 * Vista del valle del Cocora y miradores.
  
 <amp-carousel width="1040" height="800" layout="responsive" type="slides" autoplay delay="1500">
-       {% include image.html, file:"rutas/quindio/salento/slider/1.jpg", width:"921", height:"708" %}
-       {% include image.html, file:"rutas/quindio/salento/slider/2.jpg", width:"1040", height:"800" %}
-       {% include image.html, file:"rutas/quindio/salento/slider/3.jpg", width:"938", height:"721" %}  
-       {% include image.html, file:"rutas/quindio/salento/slider/4.jpg", width:"938", height:"721" %}  
+       {% include image.html, file:"rutas/quindio/salento/slider/1.jpg", width:"900", height:"692" %}
+       {% include image.html, file:"rutas/quindio/salento/slider/2.jpg", width:"900", height:"692" %}
+       {% include image.html, file:"rutas/quindio/salento/slider/3.jpg", width:"900", height:"692" %}  
+       {% include image.html, file:"rutas/quindio/salento/slider/4.jpg", width:"900", height:"692" %}  
 </amp-carousel>
  
 <a name="llegar-salento" id="llegar-salento"></a>
  
 ## ¿CÓMO LLEGAR A SALENTO 🚌?
  
-### DESDE PEREIRA A SALENTO
+### -> DESDE PEREIRA A SALENTO
  
 Desde el Terminal de Transporte de Pereira, debes abordar un bus con destino a Quindío, el cual sale cada  hora a partir de las 6:30 am, cuyo tiquete tiene un costo aproximado de $9.000 pesos (2 USD). El tiempo estimado para llegar a Salento es de 1 hora y 30 minutos (una hora y treinta minutos).
  
@@ -59,11 +59,6 @@ width:"480",
 height:"200" %}
 </a>
  
-<a name="hospedaje-salento" id="hospedaje-salento"></a>
- 
-## HOSPEDAJES EN SALENTO
- 
-En Salento podrás encontrar una gran variedad de hoteles, hostales y/o glampings, los cuales los puedes buscar en diferentes sitios web tales como __www.booking.com__  o __www.hostelworld.com.__ Si vas a realizar este viaje en familia, necesitarás algo más personalizado, por tal motivo, puedes escribirnos y te daremos todos los detalles que necesites para este tipo de viaje. Mayor información puedes escribirnos <a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a>
  
 <a name="que-hacer-salento" id="que-hacer-salento"></a>
  
@@ -88,7 +83,7 @@ A Continuación, te mostraremos algunos recorridos que podrás realizar y disfru
  
 En el valle del Cocora encontrarás muchos senderos para visitar, desde cascadas, ríos, páramos o incluso Nevados. Aquí te mostraremos unos senderos que podrás realizar con familia o amigos. Además, te dejamos recomendaciones para que evites cometer errores que son muy frecuentes en la mayoría de personas que visitan el Valle del Cocora. 
  
-### SENDERO VALLE DEL COCORA MIRADOR DE LAS PALMAS (RUTA FAMILIAR)
+### -> SENDERO VALLE DEL COCORA MIRADOR DE LAS PALMAS (RUTA FAMILIAR)
  
 La ruta del __mirador de las palmas__ es ideal si estás viajando con tu familia, ya que este mirador cuenta con una vista completa de las palmas de cera, a su vez, podrás avistar al loro orejiamarillo y al perico cachetidorado los cuales son muy habituales en esta zona del Valle del Cocora.
  
@@ -111,14 +106,14 @@ Todas las estructuras donde se pueden tomar la fotos fueron estratégicamente po
  
 {% include image.html,
  file:"rutas/quindio/salento/mirador-cocora.jpg",
- caption:"Foto mirador Cocora",
+ caption:"Foto: mirador Cocora",
  width:"700",
  height:"393"
 %}
  
 Si continúan caminando por el sendero de los miradores,  al final del recorrido podrán encontrar la entrada al próximo sendero, a continuación te lo explicaremos. 
  
-###  SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA
+###  -> SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA
  
 Para llegar a este punto se deben pasar los miradores que mencionamos anteriormente y continuar el recorrido, en el cual se empieza a ver una carretera destapada, y por último, se llega a una finca que cuenta con una vista de un emblemático cerro del Quindío, el cual tiene por nombre ̈Cerro Morro Gacho¨, este es el cerro más alto del departamento de Quindío. Si quieres saber mas acerca de este  sitio, puedes echarle un vistazo a nuestro post <a target="_blank" href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html">Cerro Morro Gacho</a>.
  
@@ -135,7 +130,7 @@ Para llegar desde el valle del Cocora hasta esta finca son aproximadamente 3,5 k
  
 <ins> Algunas fincas como: la finca la Montaña y la casa de los Colibríes cobran por pasar por sus predios</ins>
  
-### SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA-CASA DEL COLIBRÌ
+### -> SENDERO VALLE DEL COCORA-FINCA LA MONTAÑA-CASA DEL COLIBRÍ
  
 Después de haber pasado por los miradores y haber llegado a la finca la montaña, empezará un sendero de herradura con piedras, el cual al llover se puede volver algo peligroso ya que el agua que baja de los senderos suele bajar con bastante fuerza; por lo que es recomendable transitar por estas zonas con calzado adecuado. 
  
@@ -150,7 +145,7 @@ El camino __desde el valle del Cocora hasta la casa del Colibrí es de aproximad
  
 Para los amantes de los pájaros este es un buen lugar para disfrutar de varias especies de colibríes 🐦.
  
-#### REGRESO DE LA CASA DEL COLIBRÍ
+#### -> REGRESO DE LA CASA DEL COLIBRÍ
  
 El regreso hasta el valle del Cocora, se realiza por otro camino, el cual no se encuentra muy señalizado y en algunos tramos se tiene que cruzar varias veces el río por unos puentes, __que muchas veces en invierno estos puentes se los lleva el río__, así que es algo complicado para cruzar, por eso te recomendamos hacer estos senderos con guías locales ya que ellos están más informado del estado de estos caminos.
    
@@ -175,6 +170,51 @@ __Mapa ruta Circular: valle del cocora,finca la montaña, casa del colibrí__
     mid:"1wnxudE2P5T07GrgeJGagTpNsEic&hl=es",
     caption:"Mapa: Valle del Cocora, finca la montaña, casa del colibrí"
 %}
+
+<a name="hospedaje-salento" id="hospedaje-salento"></a>
+ 
+## HOSPEDAJES EN SALENTO 🛏️
+ 
+Aquí te mostraremos algunos hospedajes que tienen la mejor puntuación de la plataforma Booking y además son los más reconocidos en Salento, por la atención que prestan y la localización, ya que como sabes algunos hospedajes se van a encontrar cerca de discotecas o bares lo cual es un problema si quieres dormir temprano.
+
+
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+
+
+### -> ECOHOTEL PIEDEMONTE 
+
+Este hospedaje __cuenta con:__ jardín, parking privado gratis, terraza y restaurante. Este alojamiento ofrece servicio de habitaciones y servicio de conserjería, además de wifi gratis en todo el alojamiento. Algunas habitaciones del alojamiento incluyen un balcón con vistas a la montaña.
+
+Las habitaciones de este alojamiento incluyen zona de estar, TV de pantalla plana con canales vía satélite y caja fuerte. Cada habitación incluye cafetera y baño privado con ducha y secador de pelo. Algunas de las habitaciones tienen cocina con lavavajillas. Todas las habitaciones cuentan con nevera.
+
+<a href="https://www.booking.com/hotel/co/ecohotel-piedemonte.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/quindio/salento/hospedaje/ecohotel-en-salento.jpg",
+caption:"Foto: Ecohotel Piedemonte",
+width:"900",
+height:"512"
+%}
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/ecohotel-piedemonte.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
+
+### -> HOSTAL LA CASA DE LILI
+
+Este hostal está ubicado en una de las calles principales de Salento, a pocas cuadras del parque, por este motivo no se va a escuchar mucho ruido de las discotecas, este hospedaje cuenta con cocina compartida, servicio 24 horas de recepción.
+
+
+<a href="https://www.booking.com/hotel/co/hostal-la-casa-de-lili.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/quindio/salento/hospedaje/hostal-en-salento.jpg",
+caption:"Foto: Hostal la casa de lili",
+width:"900",
+height:"512"
+%}
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/hostal-la-casa-de-lili.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
+
+
  
 <a name="recomendacion-salento" id="recomendacion-salento"></a>
  
