@@ -23,8 +23,8 @@ __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundant
 - <a href="#llegar-malaga"> ¿Cómo llegar a Bahía Málaga? </a>
 - <a href="#que-encontrarás"> ¿Qué encontrarás en Bahía Málaga? </a>
 - <a href="#tour-malaga"> Tour a Bahía Málaga. </a>
-- <a href="#hospedaje-málaga"> Hospedajes cercanos de Bahía Málaga. </a>
-- <a href="#sendero-málaga"> Senderos por playas cercanas. </a>
+- <a href="#hospedaje-malaga"> Hospedajes cercanos de Bahía Málaga. </a>
+- <a href="#sendero-malaga"> Senderos por playas cercanas. </a>
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
@@ -155,42 +155,8 @@ Ten en cuenta que si quieres hacer avistamiento de las __Ballenas Jorobadas__, d
 
 👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Clic aquí Para más información del tour</a> 🚣.** 
 
-<a name="hospedaje-malaga" id="hospedaje-malaga"></a>
 
-## HOSPEDAJES EN BAHÍA MÁLAGA 🛌
-
-Una vez llegues a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__ en esta zona, aquí te mencionamos algunos de estos.
-
-### -> HOSPEDAJE EN LA LOMA DE CHUCHEROS YANEISY
-
-Este se encuentra en un lugar conocido como la loma de Chucheros, este lugar por estar en un pequeño acantilado tiene una vista hermosa del mar 🌊, en todo el frente de esta se podrá ver Juanchaco y ladrilleros.
-
-Este lugar es atendido en su mayoría por integrantes de una familia y pobladores de la zona que te harán sentir como en familia.
-
-__Aquí podrás encontrar los siguientes servicios:__
-
-- 🛏 Habitaciones
-- ⛺️ Camping
-- 🥟 Desayuno
-- 🍛 Almuerzo
-- 🍛 Cena
-
-### -> HOSPEDAJE EN PLAYA JUAN DE DIOS
-
-El hostal Playa Juan de Dios está ubicado en una reserva natural de 80 hectáreas, sus instalaciones quedan al frente de la playa que lleva su mismo nombre “Playa Juan de Dios”, esta playa es conocida por su limpieza, ya que constantemente están haciendo campañas con voluntarios para limpiarlas.
-
-Al fondo se puede apreciar una cueva que desprende de la parte superior un chorro de agua dulce, al cruzar por esta cueva te encontrarás con otra cueva un poco mayor donde se puede disfrutar de un lindo atardecer mirando las aguas cristalinas del mar.
-
-__Aquí podrás encontrar los siguientes servicios:__
-
-- 🛏 Cama en habitación compartida 2 noches
-- ⛺️ Camping
-- 🏠 Habitación privada para 2 personas
-- En este hospedaje no se presta la cocina ni sus alrededores para hacer de comer, por los que se tendrá que comprarla.
-
-### -> OTROS HOSPEDAJES DISPONIBLES EN BAHÍA MÁLAGA
-
-También podrás encontrar otras alternativas de hospedajes dentro de Bahía Málaga en: Juanchaco, Ladrilleros, la Barra, La Plata, Miramar y La Sierpe, no pondremos en este post los nombres de los hospedajes en cada uno de estos lugares, ya que se haría muy extenso el artículo, estos hospedajes los podrás encontrar en google.
+<a name="sendero-malaga" id="sendero-malaga"></a>
 
 ## SENDEROS POR PLAYAS CERCANAS 🚶‍♂️🏖
 
@@ -284,6 +250,60 @@ Es recomendable salir en las horas de la mañana, ya que en la tarde es más pro
 Horarios de salida de las lanchas en Bahía Málaga 🚤: 12 p.m, 4 p.m.
 
 Debes tener en cuenta que los horarios de los autobuses desde el Terminal de Buenaventura hacia algunos destinos en el país solo están disponibles hasta las 4 p.m.
+
+
+<a name="hospedaje-malaga" id="hospedaje-malaga"></a>
+
+## HOSPEDAJES EN BAHÍA MÁLAGA 🛌
+
+Una vez llegues a visitar el Parque Nacional Natural Bahía Málaga, podrás hospedarte en pueblos o veredas aledañas al Parque Natural, por eso hay varias __opciones de Hospedaje__ en esta zona, aquí te mencionamos algunos de estos.
+
+
+quí te mostraremos algunos hospedajes que tienen la mejor puntuación de la plataforma Booking y además son los más reconocidos en Salento, por la atención que prestan y la localización, ya que como sabes algunos hospedajes se van a encontrar cerca de discotecas o bares lo cual es un problema si quieres dormir temprano.
+
+
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+
+
+### -> SURF HOUSE ESTILO LIBRE (PLAYA DE LADRILLEROS)
+
+Este hospedaje es ideal si vas viajando con; amigos, familia o solo, ya que cuenta con habitaciones compartidas o habitaciones privadas.
+
+__Este hospedaje ofrece:__ 
+* Salón compartido, bar, el establecimiento alberga un restaurante de cocina latinoamericana.
+* Las habitaciones están equipadas con armario. Algunos alojamientos tienen un patio.
+
+<a href="https://www.booking.com/hotel/co/surf-house-estilo-libre.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/valle/bahia-malaga/hospedaje/hostal-ladrilleros.jpg",
+caption:"Foto: Hostal Surf House",
+width:"900",
+height:"512"
+%}
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/surf-house-estilo-libre.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
+
+### -> HOSTAL LILIANA (PLAYA DE JUANCHACO)
+
+Este hospedaje como el anteterior es ideal si vas viajando con amigos, solo o en familia, ya que cuenta con habitaciones compartidas o habitaciones privadas y politcas libre de humo, esta alfrente de la playa.
+
+__Este hospedaje ofrece:__ 
+* Servicio de conserjería, habitaciones libres de humo, jardín, wifi gratis.
+* Cada habitación está equipada con armario, TV de pantalla plana, baño privado, ropa de cama y toallas, las habitaciones cuentan con nevera.
+
+<a href="https://www.booking.com/hotel/co/hostal-liliana-buenaventura1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/valle/bahia-malaga/hospedaje/hostal-juanchaco.jpg",
+caption:"Foto: Hostal Liliana",
+width:"900",
+height:"512"
+%}
+</a>
+
+👉 <a href="https://www.booking.com/hotel/co/hostal-liliana-buenaventura1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
+
+
 
 Este es el fin de la ruta a Bahía Málaga, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
