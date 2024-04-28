@@ -10,16 +10,11 @@ viewranger: MTM4MjU4NA==
 author: manuel
 ---
 
-
 # ALTO DEL NUDO
 
 El Alto del Nudo o Serranía Alto del nudo es un lugar muy cerca a Pereira, en el cual podrás disfrutar de: naturaleza un mágico mirador o si eres amante de las aves, en este lugar podrás hacer avistamiento de aves 🦜.
 
-
-👉 __<a href="https://wa.link/pl584l" target="_blank" style="color:green;"> Puedes reservar el tour con un guía local dando clic aquí </a>__
-
-
-
+👉 __<a href="https://wa.link/dzdo49" target="_blank" style="color:green;"> Puedes reservar el tour con un guía local dando clic aquí </a>__
 
 **EN ESTE POST DEL ALTO DEL NUDO ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -59,6 +54,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 
 ## ¿CÓMO LLEGAR AL ALTO DEL NUDO 🛣🚌?
+
 La reserva serrania  Alto el nudo se encuentra en el Departamento de Risaralda exactamente en los municipios de Marsella y Dosquebras, esta reserva cuenta con 2 entradas, la primera es por la casa de la CARDER de Marsella y la segunda es por la casa de la CARDER de Dosquebradas.
 
 

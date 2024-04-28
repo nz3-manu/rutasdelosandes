@@ -13,6 +13,8 @@ author: manuel
  
  
 Se trata de un parque natural situado en el Parque Regional de Ucumarí situado en el departamento de Risaralda, en el municipio de Pereira. __La pastora__ es un lugar adecuado para aquellas personas que les gusta disfrutar de una excelente aventura, ya que es un sendero acompañado de hermosos paisajes llenos de fauna y flora. Además, se puede disfrutar de las diferentes cascadas que hay en esta reserva natural, a su vez podrás disfrutar por completo del río Otún el cual abarca todo el recorrido de la reserva natural.
+
+👉 __<a href="https://wa.link/ax7mfj" target="_blank" style="color:green;"> Puedes reservar el tour con un guía local dando clic aquí </a>__
  
  
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
