@@ -28,6 +28,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#hospedaje-chipre-manizales"> Hospedaje en Chipre </a>
 * <a href="#hospedaje-zona-centro-manizales"> Hospedaje en el Centro Histórico </a>
 * <a href="#hospedaje-terminal-manizales"> Hospedaje cerca al terminal de Manizales</a>
+* <a href="#hospedaje-cerca-termales"> Hospedajes en termales </a>
 
 Empecemos con la aventura ⛰.
 
@@ -38,32 +39,21 @@ Empecemos con la aventura ⛰.
 <a name="mapa-zona chipre" id="mapa-zona chipre"></a>
 
 
-## MAPA DE ZONAS PARA HOSPEDARSE EN MANIZALES
+## MAPA DE ZONAS PARA HOSPEDARSE EN MANIZALES 🗺️
+
+A continuación te mostraremos el mapa de la ciudad de Manizales, donde ponemos algunos puntos de referencia, los cuales explicaremos más adelante.
+
+{% include image.html, file:"/blog/tips-montana/hospedaje-en-manizales/mapa-manizales.jpg", caption:"Mapa: zonas de hospedajes en Manizales", width:"1000", height:"633" %}
 
 
-### -> Sector de Chipre
+### -> 1. SECTOR DE CHIPRE
 
 Reconocido por ser uno de los puntos de encuentros de los habitantes de la ciudad de Manizales ya que en esta zona se encuentran lugares de esparcimiento tanto familiares como para compartir con amigos. Hay que mencionar que la ciudad de Manizales es famosa por ser una ciudad universitaria ya que cuenta con 5 universidades acreditadas a nivel nacional.
-
 
 También, es catalogada como una de las ciudades de aprendizaje UNESCO ya que ofrece infraestructura de alto nivel para los estudiantes y alternativas como oficina de la bici y tarjeta zona para el beneficio de ellos.
 
 
-
-
-<a href="https://rutasdelosandes.com/amp/tips/que-visitar-en-pereira.html" target="_blank">
-{% include image.html, file:"/blog/tips-montana/hospedaje-en-pereira/que-hacer-en-pereira.jpg", caption:"", width:"1600", height:"480" %}
-</a>
-
-
-### -> Sector de Chipre
-
- Comúnmente conocida por ser la zona rosa de la ciudad de Manizales, la cual está ubicada por la Avenida 12 de Octubre. En esta zona rosa podrás disfrutar de bebidas, comidas rápidas, pasajes peatonales, cafeterías, y zonas de deportivas
-
-
-Asimismo, puedes disfrutar de una vista 360 grados de gran parte de la ciudad desde la Torre de Chipre o la Torre al Cielo; de igual manera, puedes visitar el monumento a los colonizadores. Para llegar a esta zona de la ciudad desde la zona centro, puedes hacerlo en bus, o en taxi el recorrido dura aproximadamente 8 a 10 minutos.
-
-### -> Sector de la Catedral Basílica Metropolitana o centro histórico
+### -> 2. SECTOR CENTRO 
 
 Famosa por ser la catedral más alta de Colombia con una altura de aproximadamente 106 metros, y 2.300 metros cuadrados y una capacidad para 5.000 personas, que se impone en la carrera 22 de la capital caldense
 
@@ -71,18 +61,17 @@ Famosa por ser la catedral más alta de Colombia con una altura de aproximadamen
 Y en esta misma calle 22 de la ciudad de Manizales, se encuentra el centro histórico, En ella se encuentra la antigua estación de bomberos de Manizales, que data de los años 60. En esta parte de la ciudad, puedes encontrar gran variedad de comercio religioso, y gran variedad de restaurantes. 
 
 
-### -> Sector del Terminal
+### -> 3. SECTOR DEL TERMINAL
 
  Ubicada en la comuna 9, la comuna universitaria en donde están gran parte de los establecimientos comerciales distribuidos en los barrios  Fátima, Aranjuez y Malhabar con 142, 96 y 76 establecimientos, respectivamente. En esta zona podrás encontrar diferentes lugares de esparcimiento deportivo, como también hospedaje, y zonas residenciales. Además, desde el terminal podrás tener acceso al cable aéreo el cual cruza por gran parte de la ciudad. 
 
-### ->Villamaria
+### -> 4. VILLAMARIA
 
 Este es el municipio más cercano de Manizales, el cual se encuentra a tan solo 15 minutos del casco urbano de la ciudad. Relativamente puedes llegar a la ciudad de Manizales desde Villamaría sin ningún problema ya que el flujo vehicular no es tan concurrido como lo es en el centro de la ciudad. 
 
 
 En este hermoso municipio, podrás disfrutar de diferentes actividades como avistamiento de aves, recorridos religiosos y un paseo por el cable. 
 
-{% include image.html, file:"/blog/tips-montana/hospedaje-en-pereira/mapa-zonas-pereira.png", caption:"Mapa: zonas de hospedajes en pereira", width:"1653", height:"1164" %}
 
 
 
@@ -191,7 +180,7 @@ El Hotel Ana Carolina destaca por su céntrica ubicación, sus tarifas accesible
 
 
 <a href="https://www.booking.com/hotel/co/ana-carolina.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html, file:"/blog/tips-montana/hospedaje-en-manizales/hotel-ana-carolina.jpg", caption:"Apartamento amoblado por días zona rosa Pereira", width:"1000", height:"573" %}
+{% include image.html, file:"/blog/tips-montana/hospedaje-en-manizales/hotel-ana-carolina.jpg", caption:"Apartamento amoblado por días zona rosa de Manizales", width:"1000", height:"573" %}
 </a>
 
 
@@ -215,7 +204,7 @@ Este hotel se encuentra a tan solo 2 kilómetros del terminal de transportes de 
 
 * __El precio promedio de este hospedaje es:__ de $90.000 pesos por pareja 
 
-* __Características del hospedaje campestre:__ Artículos de aseo gratuitos, Ducha, Servicio de streaming (como Netflix),Toallas, Ropa de cama, Escritorio, TV, y canales por cable
+* __Características del hospedaje:__ Artículos de aseo gratuitos, Ducha, Servicio de streaming (como Netflix),Toallas, Ropa de cama, Escritorio, TV, y canales por cable
 
 
 * __Atracciones cercanas:__ a 3,8 km de Cable Aéreo de Manizales, El aeropuerto (Aeropuerto de La Nubia) está a 6 km.
@@ -232,9 +221,10 @@ Este hotel se encuentra a tan solo 2 kilómetros del terminal de transportes de 
 ### -> APARTAMENTO NUEVO CONTIGUO A ESTACIÓN DE BUSES
 
 Este alojamiento es algo más costoso pero es el hotel más cercano al terminal de buses de Manizales, ya que se encuentra a menos de 1 kilómetro, al cual podrás llegar caminando puesto que esta zona es relativamente tranquila para los transeúntes. 
+
 * __El precio promedio de este hospedaje es:__ $146.000 pesos aproximadamente por pareja 
 
-* __Características del hospedaje campestre:__ El apartamento de 2 dormitorios dispone de sala de estar con TV de pantalla plana y cocina totalmente equipada con nevera. Hay toallas y ropa de cama en el apartamento.
+* __Características del hospedaje:__ El apartamento de 2 dormitorios dispone de sala de estar con TV de pantalla plana y cocina totalmente equipada con nevera. Hay toallas y ropa de cama en el apartamento.
 * __Servicios adicionales:__ Cocina,  Lavadora,  Servicio de streaming (como Netflix),  Ropa de cama, Escritorio,  Entrada privada,  Nevera, Zona de cocina, Libros, DVD o música para niños, Detector de monóxido de carbono
 
 * __Atracciones cercanas:__ El aeropuerto (Aeropuerto de La Nubia) está a 5 km., a 5,7 km del Cable Aéreo de Manizales, a 2,2 kilómetros del Parque los Fundadores, y a 2 kilómetros del Parque de la Mujer de Manizales
@@ -245,6 +235,50 @@ Este alojamiento es algo más costoso pero es el hotel más cercano al terminal 
 </a>
 
 👉 **<a href="https://www.booking.com/hotel/co/apartamento-para-estrenar-en-los-cambulos.es.html?aid=1491718&sid=6b3d9cad67fd248218e9025c17d34c37&all_sr_blocks=1166788701_389298001_2_0_0;checkin=2024-05-29;checkout=2024-05-30;dest_id=-591834;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=1166788701_389298001_2_0_0;hpos=1;matching_block_id=1166788701_389298001_2_0_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=1166788701_389298001_2_0_0__14535000;srepoch=1714235120;srpvid=50607374f0d300f8;type=total;ucfs=1&#hotelTmpl" style="color:#971717;" target="_blank">Clic aquí para reservar en esta finca gratis, por booking</a>**
+
+
+
+<a name="hospedaje-cerca-termales" id="hospedaje-cerca-termales"></a>
+
+
+## ALOJAMIENTOS EN TERMALES DE MANIZALES 🛏️♨️
+
+Aqui te mostraremos 2 de los hospedajes más emblematicos de Manizales, son ideales para disfrutar de unas vacaciones inolvidables con tu familia o pareja.
+
+
+### -> TERMALES DEL OTOÑO
+
+El establecimiento Termales El Otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
+
+
+* __El precio promedio de este hospedaje es de:__ $350.000 pesos en adelante por pareja 
+
+* __Características del hospedaje:__ Las habitaciones del establecimiento Termales El Otoño están decoradas con suelo de parquet y muebles elegantes. Tienen TV y algunas incluyen chimenea.
+* __Servicios:__ El spa ofrece tratamientos de belleza. También hay piscinas termales cubiertas y al aire libre. El volcán Nevado del Ruiz se encuentra a 40 km.
+* __Alimentación:__ El restaurante del establecimiento sirve platos de comida internacional y especialidades regionales.
+
+<a href="https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html, file:"/blog/tips-montana/hospedaje-en-manizales/termales-otono.jpg", caption:"Hotel termales del otoño en Maniza", width:"1000", height:"573" %}
+</a>
+
+
+👉 **<a href="https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para reservar en esta finca gratis, por booking</a>**
+
+### -> TERMALES DEL RUIZ
+
+El Hotel Termales del Ruiz alberga un restaurante y sirve un desayuno gratuito. Está situado en Termales, a 54 km de Manizales, y cuenta con piscina al aire libre y WiFi gratuita.
+
+* __El precio promedio de este hospedaje es de:__ $420.000 pesos en adelante por pareja 
+
+* __Características del hospedaje:__ Las habitaciones son modernas y tienen suelo de madera, iluminación suave y baño privado con superficies de mármol, ducha con mampara de cristal, lavamanos de cristal y artículos de aseo gratuitos. Se proporciona ropa de cama.
+* __Servicios:__ El Hotel Termales del Ruiz cuenta con bar, recepción 24 horas y servicio de venta de entradas. En el establecimiento y en los alrededores se pueden practicar diversas actividades, como senderismo. Hay aparcamiento gratuito.
+
+<a href="https://www.booking.com/hotel/co/termales-del-ruiz.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html, file:"/blog/tips-montana/hospedaje-en-manizales/termales-del-ruiz.jpg", caption:"Hotel termales del Ruiz", width:"1000", height:"573" %}
+</a>
+
+
+👉 **<a href="https://www.booking.com/hotel/co/termales-del-ruiz.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para reservar en esta finca gratis, por booking</a>**
 
 
 
