@@ -14,7 +14,7 @@ trending: true
 
 Estación  Pereira es sin duda un __hermoso lugar natural para visitar cerca de Pereira,__ Para llegar a estación Pereira se tendrá que tomar;  Jeep, marranita o como también es llamado brujita y por último cruzar el rió Cauca en garrucha, si no sabes a qué medios de transporte me refiero te invito a seguir leyendo, ya que los explicaremos más adelante.
 
-__<a href="https://www.randes.co/products/tour-estacion-pereira" style="color:green;" target="_blank"> 👉🛤️ Clic aquí para ver información del tour a Estación Pereira. </a>__ 
+__<a href="https://wa.link/suczhr" style="color:green;" target="_blank"> 👉🛤️ Clic aquí para ver información del tour a Estación Pereira. </a>__ 
 
 __EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 

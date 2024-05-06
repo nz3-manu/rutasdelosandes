@@ -15,14 +15,12 @@ featured: https://rutasdelosandes.com/images/blog/tips-montana/hospedaje-en-mani
 Somos conscientes de la ansiedad que se genera cuando llegas a una ciudad que no conoces, e inmediatamente te preguntas, _¿cuál es la mejor zona para hospedarse?_, ¿dónde podemos encontrar hoteles?. Es por eso que aquí te daremos una breve descripción de Manizales. 
 
 
-Además, en este post hemos dividido la ciudad en dos áreas principales: Zona Chipre, El Cable y Zona Centro. Asimismo, incluiremos algunos hospedajes tanto en la zona de Chipre como en la zona centro o el sector del Terminal de Transportes de Manizales. 
+Además, en este post hemos dividido la ciudad en dos áreas principales: Zona Chipre, Zona Centro y Zona Terminal de Transportes. Además, dejaremos una descripción de dónde se encuentra Villamaría, un municipio que está contiguo a Manizales.
 
-
-Para cada alojamiento que mencionamos a continuación, te dejaremos un enlace para que puedas realizar una reserva a través de la plataforma Booking. Como comentábamos antes, siempre utilizamos esta plataforma cuando viajamos porque es muy intuitiva y segura para realizar todas nuestras reservas.
+En cada una de estas zonas te compartiremos algunos alojamientos para que puedas realizar una reserva a través de la plataforma Booking. Como mencionábamos antes, siempre utilizamos esta plataforma cuando viajamos porque es muy intuitiva y segura para realizar todas nuestras reservas.
 
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
-
 
 * <a href="#mapa-zona chipre"> Mapa de zonas para hospedarse en Manizales </a>
 * <a href="#hospedaje-chipre-manizales"> Hospedaje en Chipre </a>
@@ -73,9 +71,7 @@ Este es el municipio más cercano de Manizales, el cual se encuentra a tan solo 
 En este hermoso municipio, podrás disfrutar de diferentes actividades como avistamiento de aves, recorridos religiosos y un paseo por el cable. 
 
 
-
-
-_En este punto del post, queremos aclarar que nosotros no buscamos recibir dinero por los hospedajes que estamos describiendo. Solo hacemos una pequeña reseña de comentarios, precios, características principales para incluirlos en este post. Solo recibiremos una comisión, la cual nos paga Booking si ustedes hacen la reserva (la cual es gratis), a través del link que dejamos aquí._
+__Nota:__ _En este punto del post, queremos aclarar que nosotros no buscamos recibir dinero por los hospedajes que estamos describiendo. Solo hacemos una pequeña reseña de comentarios, precios, características principales para incluirlos en este post. Solo recibiremos una comisión, la cual nos paga Booking si ustedes hacen la reserva (la cual es gratis), a través del link que dejamos aquí._
 
 <a name="hospedaje-chipre-manizales" id="hospedaje-chipre-manizales"></a>
 
@@ -84,7 +80,7 @@ _En este punto del post, queremos aclarar que nosotros no buscamos recibir diner
 
 Como mencionamos anteriormente, el sector de Chipre es conocido por ser la zona rosa de la ciudad, en el cual podrás disfrutar tanto en familia como con amigos, ya que puedes disfrutar de la vista 360 grados de la ciudad desde la Torre de Chipre asimismo podrás visitar el monumento a los colonizadores. Si eres amante del café y la gastronomía, en este sector de la ciudad encontrarás gran variedad de comida y de cafés de la región 
 
-__Recomendación:__ Como bien se sabe, esta zona es muy concurrida y tiene mucha economía por lo que los turistas y habitantes consumen demasiados productos, y en algunas ocasiones se encuentra sucio por lo que te sugerimos, cuando visites este lugar, buscar lugares disponibles para arrojar la basura ya que no se puede perder la esencia de este hermoso lugar de la ciudad. 
+__Recomendación:__ _Como bien se sabe, esta zona es muy concurrida y tiene mucha economía por lo que los turistas y habitantes consumen demasiados productos, y en algunas ocasiones se encuentra sucio por lo que te sugerimos, cuando visites este lugar, buscar lugares disponibles para arrojar la basura ya que no se puede perder la esencia de este hermoso lugar de la ciudad._
 
 ### -> APARTAMENTO 602
 

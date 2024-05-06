@@ -14,7 +14,7 @@ trending: true
 
 En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
 
-**<a href="https://wa.link/yg6ads" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí </a>**
+**<a href="https://wa.link/u14qrw" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí </a>**
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
@@ -82,13 +82,13 @@ Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 ki
    caption:"Mapa valle del cocora hasta Arenales"
 %}
 
-### DÍA #1
+### -> DÍA #1
 
 Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales.
 
 Continuamos nuestro camino y con cada paso que dábamos dejamos atrás las palmas de cera y nos adentramos más en bosque, cruzamos algunos puentes y pasamos cerca de la casa de los colibrí, que hasta la fecha este lugar se encuentra cerrado.
 
-### ESTRELLA DE AGUA
+### -> ESTRELLA DE AGUA
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/estrellaAgua.jpg",
@@ -126,7 +126,7 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 ## HOSPEDAJE CERCA AL NEVADO DEL TOLIMA
 
-Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula :(.
+Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula.
 
 Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
 
