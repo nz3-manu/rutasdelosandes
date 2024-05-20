@@ -138,14 +138,16 @@ Conocer la belleza de los Parques Naturales Nacionales de Colombia se ha convert
 
 Así que, si piensas realizar este tour y disfrutar de los bellos paisajes, manglares, cascadas y enorme selva tropical, a continuación te compartiremos toda la información del __Tour a Bahía Málaga__ y te daremos algunas recomendaciones para elegir el que mejor se ajuste a tu presupuesto de viaje.
 
-Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto. El tour tiene un precio aproximado de $690.000 COP Por persona.
+Lo primero que debes de saber es que, el tour inicia en el muelle turístico de Buenaventura, así que tendrás que llegar hasta ese punto.
 
 **El tour de 3 días y 2 noches incluye:**
+
+Este es uno de los tours que ha gustado más a las personas que viajan a este hermoso lugar.
 
 * 🚣 transporte en lancha desde Buenaventura
 * 🥨 Desayuno
 * 🛌 Hospedaje
-* 🍝 Almuerzo
+* 🍝 Cena
 * 🚣 Tour en lancha
 * 👨 Guía local y seguro de asistencia médica.
 
