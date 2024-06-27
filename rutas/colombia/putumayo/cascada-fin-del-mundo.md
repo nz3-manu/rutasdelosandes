@@ -2,10 +2,10 @@
 layout: trail
 title: Cascada el Fin del mundo
 categories: colombia
-seo_title: Cascada el fin del mundo 
-excerpt: 
+seo_title: Cascada el fin del Mundo 
+excerpt: Guia de viaje para visitar la cascada el fin del Mundo en Mocoa, transporte, hospedaje y tours disponibles.
 images_url: /images/rutas/putumayo/cascada-fin-del-mundo
-viewranger: MjA5NTkzMg==
+viewranger: MTYzNjQzOA==
 author: manuel
 ---
 
@@ -19,14 +19,14 @@ Si estás leyendo esta publicación, tal vez estés buscando información para v
 
 - <a href="#donde-queda-fin-del-mundo"> ¿Dónde queda la cascada el fin del mundo? </a>
 - <a href="#llegar-fin-del-mundo"> ¿Cómo llegar hasta la cascada el fin del mundo?</a>
-- <a href="#que-encontrarás"> Video de la ruta a la cascada el fin del mundo </a>
-- <a href="#tour-mocoa"> Tour disponible en Mocoa </a>
-- <a href="#hospedaje-mocoa">Hospedajes cercanos  de la cascada, el fin del mundo. </a>
+- <a href="#que-encontrarás"> Video de la ruta a la cascada el fin del mundo.</a>
+- <a href="#tour-mocoa"> Tour disponible en Mocoa. </a>
+- <a href="#hospedaje-mocoa">Hospedajes en Mocoa. </a>
 - <a href="#otros-lugares-mocoa">Otros lugares que no te puedes perder de visitar cerca de Mocoa. </a>
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/putumayo/bahia-malaga.html"> See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/putumayo/the-end-of-the-world-waterfall.html"> See this post in English version 🇺🇸</a>]**
 
 ## DATOS CURIOSOS DE LA CASCADA EL FIN DEL MUNDO
 
@@ -52,7 +52,7 @@ width:"480",
 height:"200"
 %}
 </a>
-<a name="llegar-malaga" id="llegar-malaga"></a>
+<a name="llegar-fin-del-mundo" id="llegar-fin-del-mundo"></a>
 
 
 ## ¿CÓMO LLEGAR A LA CASCADA EL FIN DEL MUNDO 🚍✈️?
@@ -82,6 +82,8 @@ Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 ho
 
 - __Transipiales:__ Esta empresa despacha dos buses al día, 10:00 am y 2:45 pm, y el precio del pasaje es de $120.000 
  
+<a name="que-encontrarás" id="que-encontrarás"></a>
+
 ## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO
 
 
@@ -96,20 +98,20 @@ caption:"Video de ruta a la cascada el fin del mundo"
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-<a name="tour-malaga" id="tour-malaga"></a>
+<a name="tour-mocoa" id="tour-mocoa"></a>
 
 ## TOURS DISPONIBLES EN MOCOA 🧳
 
 👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Click aquí Para más información del tour</a> 🚣.**
 
-<a name="sendero-malaga" id="sendero-malaga"></a>
+
+<a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
 
 ## HOSPEDAJES MOCOA 🛌
 
 Si tienes pensado viajar a Mocoa, ten en cuenta las siguientes opciones de hospedajes para que empieces a planear tu viaje. Acá tenemos las siguientes alternativas:
 
 ### -> HOTEL LUIS ÁNGEL 
-
 
 Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
 
@@ -199,27 +201,53 @@ height:"946"
 👉 **<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
 
-## RUTA O CAMINO AL FIN DEL MUNDO EN MOCOA 🛌
+<a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
+
+## SENDERO AL FIN DEL MUNDO EN MOCOA ⛰️
 
 
-Para llegar a la Cascada del Fin del Mundo, lo primero que debes hacer estando en Mocoa, es abordar un bus hasta Villagarzón y bajarse en el lugar conocido como Posada Dantayaco, el cual es el punto inicial de la caminata hacia la reserva natural donde se encuentra la cascada y tiene un precio de $30.000 por persona.
+Desde la ciudad de Mocoa, se debe abordar un bus hasta Villagarzón y __bajarse en el lugar conocido como Posada Dantayaco__, el cual es el punto inicial donde comienza el sendero. El valor del ingreso al sendero es de $30.000 Pesos por persona, vamos a dejar el contacto para que puedan hacer la reserva si así lo desean o consultar si esta abierto, ya que algunas veces cierran el ingreso al sendero para hacer mantenimiento __teléfono:__  <a href="tel:3208964500"> 3208964500</a>
 
---- Foto cascada del fin del mundo--- 
+__Nota:__ _Al llamar puedes decir que viste la información en el Blog de viajes de rutas de los Andes, de esta forma nos ayudas para que sepan que todo este trabajo que hicimos con estas comunidades si está dando frutos_ 🥺.
 
+Durante todo el recorrido podrán observar gran biodiversidad de flora y fauna presente de esta región, además podrás ver 2 cascadas antes de llegar a la cascada el Fin del Mundo, a continuación te las mostraremos.
 
-Una vez estando en la Cascada del Fin del Mundo, podrás disfrutar de las aguas cristalinas, además de bañarse en los pozos y quebradas naturales como Quebrada Dantayaco, los Pozos Danta, Almorzadero y Pozo Negro considerado el más profundo el cual alcanza los 10 metros de profundidad. 
+### -> MAPA SENDERO AL FIN DEL MUNDO
 
+Aquí podrás ver la información del sendero, con sus respectivos puntos de interes, acontinuación te compartimos algunos datos tecnicos de esta ruta:
 
-Finalmente, está Pozo Golondrina el cual es el más visitado. En el cual, podrás disfrutar de los contrastes del agua debido a las variaciones de profundidades. Esta cascada tiene una altura promedio de 7 metros, ideal para nadar 
-
-
-Y por supuesto, disfrutar de la Cascada del Fin del Mundo, la cual es una cascada que tiene una caída de 75 metros, y para llegar a la cima, se debe ascender por senderos inclinados con un nivel de exigencia moderada que tardan hasta 3 horas. Una vez estando en la cima,esta imponente cascada se convierte en un increíble mirador llamado Serranía del Churumbelo
-
-
-_## NOTA:_ Durante el recorrido, recuerda que hay un camino dentro de una propiedad privada, el cual permite descender para observar la cascada desde la parte baja, esto lo hace una empresa y tiene un valor de $6.000 por persona
+- Distancia: 4,21 km.
+- Altitud Minima: 511 m.s.n.m
+- Altitud Maxima: 870 m.s.n.m
 
 
-## OTRAS RUTAS QUE NO TE PUEDES PERDER CERCA DE MOCOA 🛌
+{% include iframe.html,
+ type:"custom",
+ mid:"1j5YBFoorjkJ_SqRMGVMd0mBaoJT0ILU&hl=es&ehbc=2E312F",
+ caption:"Mapa: Ruta dentro del sendero Fin del mundo"
+%}
+
+### -> POZO DE LA DANTA
+Falta describir un poco más, 
+
+ --- Foto ---  
+
+### -> POZO COLONDRINA
+
+ Pozo Golondrina el cual es el más visitado. En el cual, podrás disfrutar de los contrastes del agua debido a las variaciones de profundidades. Esta cascada tiene una altura promedio de 7 metros, ideal para nadar.
+
+ --- Foto ---  
+
+### -> CASCADA FIN DEL MUNDO
+
+Es una cascada que tiene una caída de 75 metros, y para llegar a la cima, se debe ascender por senderos inclinados con un nivel de exigencia moderada que tardan hasta 3 horas. Una vez estando en la cima,esta imponente cascada se convierte en un increíble mirador llamado Serranía del Churumbelo.
+
+--- Foto cascada del fin del mundo --- 
+
+__NOTA:__ _Durante el recorrido, recuerda que hay un camino dentro de una propiedad privada, el cual permite descender para observar la cascada desde la parte baja, esto lo hace una empresa y tiene un valor de $6.000 por persona._
+
+
+## OTRAS RUTAS QUE NO TE PUEDES PERDER CERCA DE MOCOA 🍃
 
 ### -> CAÑÓN DEL MANDIYACO
 
@@ -252,6 +280,4 @@ Durante la primera parte del recorrido, se pasa por algunas viviendas  hasta lle
 Una vez estando en la cascada, podrás divisar en todo su esplendor, además, disfrutar de un merecido baño, disfrutar de las aguas cristalinas y el sonido que produce.
 
 
-
-
-<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
+Este es el fin del post de la cascada el Fin del Mundoa, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
