@@ -17,10 +17,10 @@ Si estás leyendo esta publicación, tal vez estés buscando información para v
 
  __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-- <a href="#donde-fin-del-mundo"> ¿Dónde queda la cascada el fin del mundo? </a>
-- <a href="#llegar-fin-del-mundo"> ¿Cómo llegar hasta la cascada el fin del mundo?</a>
 - <a href="#que-encontrarás"> Video de la ruta a la cascada el fin del mundo.</a>
-- <a href="#tour-mocoa"> Tour disponible en Mocoa. </a>
+- <a href="#llegar-fin-del-mundo"> ¿Cómo llegar hasta la cascada el fin del mundo?</a>
+- <a href="#desdero-fin-mundo">Sendero a la Cascada Fin del Mundo</a>
+- <a href="#tour-mocoa">Tour disponible en Mocoa. </a>
 - <a href="#hospedaje-mocoa">Hospedajes en Mocoa. </a>
 - <a href="#rutas-cerca-mocoa">Otros rutas cerca de Mocoa. </a>
 
@@ -38,29 +38,35 @@ La Cascada del Fin del Mundo es llamada así debido al color de sus aguas y su p
 
 Es además reconocida por su belleza natural. Debido a la transición entre la Región Amazónica y Andina, lo convierte en un lugar idóneo para que disfrutes de selvas espesas y densas como de montañas imponentes de la cordillera Andina.
 
-<a name="donde-fin-del-mundo" id="donde-fin-del-mundo"></a>
+<a name="que-encontrarás" id="que-encontrarás"></a>
 
-## ¿DÓNDE QUEDA LA CASCADA EL FIN DEL MUNDO?
+## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO
 
-La Cascada el Fin del Mundo __se encuentra a 632.3 km de Bogotá__ (capital de colombia), exactamente en la vereda San José del Pepino __a 6 kilómetros de Mocoa ciudad capital del departamento de Putumayo__, este departamento está cerca de la frontera del Ecuador, solo lo divide el río San Miguel.
 
-En la siguiente sección te mostraremos las formas de llegar a Mocoa, ya sea en bus o en avión.
-
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.jpg",
-caption:"Banner chaqueta",
+{% include youtube.html,
+videoid:"6U9bYSD1Ak",
 width:"480",
-height:"200"
+height:"270",
+layout="responsive", controls, autoplay,
+caption:"Video de ruta a la cascada el fin del mundo"
 %}
-</a>
-<a name="llegar-fin-del-mundo" id="llegar-fin-del-mundo"></a>
 
+
+Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+
+<a name="llegar-fin-del-mundo" id="llegar-fin-del-mundo"></a>
 
 ## ¿CÓMO LLEGAR A LA CASCADA EL FIN DEL MUNDO 🚍✈️?
 
 
 Lo primero que debes de hacer es llegar a Mocoa ubicado en el departamento de Putumayo. Es importante que sepas que en este momento, __Mocoa no dispone de un aeropuerto__. Sin embargo, hay dos opciones cercanas: el Aeropuerto de Cananguchal, que está a 20 minutos en el municipio de Villagarzón, y el Aeropuerto 3 de Mayo, que se encuentra a 2 horas en el municipio de Puerto Asís.
+
+### -> ¿DÓNDE QUEDA LA CASCADA EL FIN DEL MUNDO?
+
+La Cascada el Fin del Mundo __se encuentra a 632.3 km de Bogotá__ (capital de colombia), exactamente en la vereda San José del Pepino __a 6 kilómetros de Mocoa ciudad capital del departamento de Putumayo__, este departamento está cerca de la frontera del Ecuador, solo lo divide el río San Miguel.
+
+En la siguiente sección te mostraremos las formas de llegar a Mocoa en bus.
 
 ### -> DESDE CALI A MOCOA
 
@@ -84,129 +90,8 @@ Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 ho
 
 - __Transipiales:__ Esta empresa despacha dos buses al día, 10:00 am y 2:45 pm, y el precio del pasaje es de $120.000 
  
-<a name="que-encontrarás" id="que-encontrarás"></a>
 
-## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO
-
-
-{% include youtube.html,
-videoid:"6U9bYSD1EAk",
-width:"480",
-height:"270",
-layout="responsive", controls, autoplay,
-caption:"Video de ruta a la cascada el fin del mundo"
-%}
-
-
-Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
-
-<a name="tour-mocoa" id="tour-mocoa"></a>
-
-## TOURS DISPONIBLES EN MOCOA 🧳
-
-
-
-
-👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Click aquí Para más información del tour</a> 🚣.**
-
-
-<a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
-
-## HOSPEDAJES MOCOA 🛌
-
-Si tienes pensado viajar a Mocoa, ten en cuenta las siguientes opciones de hospedajes para que empieces a planear tu viaje. Acá tenemos las siguientes alternativas:
-
-### -> HOTEL LUIS ÁNGEL 
-
-Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
-
-* __Precio promedio:__ El valor de hospedaje por persona es de $65.000 Pesos.
-
-* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
-
-* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto. 
-
-<a href="https://www.booking.com/hotel/co/luis-angel-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/hotel-luis-angel.jpg",
-caption:"Foto: Hotel Luis Angel",
-width:"1640",
-height:"946"
-%}
-</a>
-
-👉 **<a href="https://www.booking.com/hotel/co/luis-angel-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-### -> POSADA KAUAI
-
-Este alojamiento se encuentra en la zona rural de Mocoa, muy agradable para conectarse con la naturaleza, ideal para hospedarse con tu pareja. Este hotel incluye los siguientes servicios.
-
-* __Precio promedio:__ El valor de hospedaje por persona es de $90.000 Pesos.
-
-* __Lugares cercanos:__ A 2,6 kilómetros se encuentra el Parque Central Mocoa y a 18 kilómetros el Aeropuerto Villa Garzón
-
-* __Servicios:__ Parqueadero gratis, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto y baño privado. 
-
-<a href="https://www.booking.com/hotel/co/posada-kauai.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/posada-kauai.jpg",
-caption:"Foto: Pasada Kauai",
-width:"1638",
-height:"946"
-%}
-</a>
-
-👉 **<a href="https://www.booking.com/hotel/co/posada-kauai.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-### ->HOTELES TOP EN MOCOA 
-
-
-Si eres de los que no escatiman en gastos a la hora de planear un viaje y te gusta buscar hospedajes sin importar su precio, acá te tenemos algunas opciones 
-
-
-### -> HOSTEL HUACA 
-
-
-Es un hostel encantador rodeado de naturaleza ideal para tener momentos de privacidad con tu familia o pareja. El hostel incluye las siguientes características. 
-
-* __Precio promedio:__ El valor de hospedaje por persona es de $125.800
-* __Lugares cercanos:__ A 5 kilómetros se encuentra el Parque Central Mocoa y a 12 kilómetros el Aeropuerto Villa Garzón
-
-* __Servicios:__ Cocina compartida, piscina al aire libre, Wifi gratis, y artículos de aseo. 
-
-<a href="https://www.booking.com/hotel/co/huaca-huaca-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/huaca-huaca-hostel.jpg",
-caption:"Foto: Hostel Huaca ",
-width:"1638",
-height:"946"
-%}
-</a>
-
-👉 **<a href="https://www.booking.com/hotel/co/huaca-huaca-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-
-### -> HOTEL PATIO BONITO
-
-El Hotel Patio Bonito se encuentra en Mocoa y dispone de jardín. Todas las habitaciones disponen de TV de pantalla plana con canales vía satélite y baño privado. Además, incluye:
-
-* __Precio promedio:__ El valor de hospedaje por persona es de $120.000
-* __Lugares cercanos:__ Se encuentra a pocos metros del Parque Villanatalia, y Monumento al olvido; a 200 metros del parquecito y a 500 metros del Parque Villa Mocoa.
-* __Servicios:__ Aire acondicionado, baño privado, TV de pantalla plana, Wifi gratis, armario, implementos de aseo personal gratuito. 
-
-<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/hotel-patio-bonito.jpg",
-caption:"Foto: Hotel Patio Bonito",
-width:"1638",
-height:"946"
-%}
-</a>
-
-👉 **<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-
-<a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
+<a name="desdero-fin-mundo" id="desdero-fin-mundo"></a>
 
 ## SENDERO AL FIN DEL MUNDO EN MOCOA ⛰️
 
@@ -235,12 +120,31 @@ Durante todo el recorrido podrán observar gran biodiversidad de flora y fauna p
 - __POZO DE LA DANTA__  
 
 El Pozo de la Danta se distingue por sus aguas cristalinas y tranquilas, que permiten una visión clara del lecho del río con sus hermosas y coloridas rocas.
+
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/pozo-de-la-danta.jpg",
+caption:"Foto: Pozo de la danta",
+width:"1080",
+height:"810"
+%}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/imferzzz/"  target="_blank"> @imferzzz </a> </span>__
+
  
 - __POZO GOLONDRINA__
 
  Pozo Golondrina el cual es el más visitado. En el cual, podrás disfrutar de los contrastes del agua debido a las variaciones de profundidades. Esta cascada tiene una altura promedio de 7 metros, ideal para nadar.
 
 Después del Pozo de Golondrina, por fin llegarán al último destino.
+
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/pozo-golondrina.jpg",
+caption:"Foto: Pozo Golondrina",
+width:"1080",
+height:"607"
+%}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/yener_ordonez/"  target="_blank"> @dyener_ordonez </a> </span>__
 
 ### -> CASCADA FIN DEL MUNDO
 
@@ -256,7 +160,113 @@ height:"1350"
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CbbR39wMysz/?igsh=MWx1aGV3OTNlMzlzdQ%3D%3D"  target="_blank"> @diegonzalez </a> </span>__
 
 
-__NOTA:__ _Durante el recorrido, recuerda que hay un camino dentro de una propiedad privada, el cual permite descender para observar la cascada desde la parte baja, esto lo hace una empresa y tiene un valor de $6.000 por persona._
+<a name="tour-mocoa" id="tour-mocoa"></a>
+
+## TOURS DISPONIBLES EN MOCOA 🧳
+
+
+👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Click aquí Para más información del tour</a> 🚣.**
+
+
+<a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
+
+## HOSPEDAJES EN MOCOA 🛌
+
+Si tienes pensado viajar a Mocoa, ten en cuenta las siguientes opciones de hospedajes para que empieces a planear tu viaje. Acá tenemos las siguientes alternativas, las dividimos en hospedajes economicos y lo más top:
+
+### -> HOTELES ECONOMICOS EN MOCOA 
+
+Si estás buscando solo un lugar para descansar sin muchos lujos aquí te dejaremos algunas opciones.
+
+### --> HOTEL LUIS ÁNGEL 
+
+Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+
+* __Precio promedio:__ El valor de hospedaje por persona es de $65.000 Pesos.
+
+* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
+
+* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto. 
+
+<a href="https://www.booking.com/hotel/co/luis-angel-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/hotel-luis-angel.jpg",
+caption:"Foto: Hotel Luis Angel",
+width:"1640",
+height:"946"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/luis-angel-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+### -->  POSADA KAUAI
+
+Este alojamiento se encuentra en la zona rural de Mocoa, muy agradable para conectarse con la naturaleza, ideal para hospedarse con tu pareja. Este hotel incluye los siguientes servicios.
+
+* __Precio promedio:__ El valor de hospedaje por persona es de $90.000 Pesos.
+
+* __Lugares cercanos:__ A 2,6 kilómetros se encuentra el Parque Central Mocoa y a 18 kilómetros el Aeropuerto Villa Garzón
+
+* __Servicios:__ Parqueadero gratis, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto y baño privado. 
+
+<a href="https://www.booking.com/hotel/co/posada-kauai.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/posada-kauai.jpg",
+caption:"Foto: Pasada Kauai",
+width:"1638",
+height:"946"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/posada-kauai.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+### HOTELES TOP EN MOCOA 🥇🛌
+
+
+Si eres de los que no escatiman en gastos a la hora de planear un viaje y te gusta buscar hospedajes sin importar su precio, acá te tenemos algunas opciones: 
+
+
+#### -->  HOSTEL HUACA 
+
+Es un hostel encantador rodeado de naturaleza ideal para tener momentos de privacidad con tu familia o pareja. El hostel incluye las siguientes características. 
+
+* __Precio promedio:__ El valor de hospedaje por persona es de $125.800
+* __Lugares cercanos:__ A 5 kilómetros se encuentra el Parque Central Mocoa y a 12 kilómetros el Aeropuerto Villa Garzón
+
+* __Servicios:__ Cocina compartida, piscina al aire libre, Wifi gratis, y artículos de aseo. 
+
+<a href="https://www.booking.com/hotel/co/huaca-huaca-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/huaca-huaca-hostel.jpg",
+caption:"Foto: Hostel Huaca ",
+width:"1638",
+height:"946"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/huaca-huaca-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+
+#### --> HOTEL PATIO BONITO
+
+El Hotel Patio Bonito se encuentra en Mocoa y dispone de jardín. Todas las habitaciones disponen de TV de pantalla plana con canales vía satélite y baño privado. Además, incluye:
+
+* __Precio promedio:__ El valor de hospedaje por persona es de $120.000
+* __Lugares cercanos:__ Se encuentra a pocos metros del Parque Villanatalia, y Monumento al olvido; a 200 metros del parquecito y a 500 metros del Parque Villa Mocoa.
+* __Servicios:__ Aire acondicionado, baño privado, TV de pantalla plana, Wifi gratis, armario, implementos de aseo personal gratuito. 
+
+<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/putumayo/cascada-fin-del-mundo/hospedaje-mocoa/hotel-patio-bonito.jpg",
+caption:"Foto: Hotel Patio Bonito",
+width:"1638",
+height:"946"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+
 
 <a name="rutas-cerca-mocoa" id="rutas-cerca-mocoa"></a>
 
