@@ -42,14 +42,7 @@ Es además reconocida por su belleza natural. Debido a la transición entre la R
 
 ## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO
 
-
-{% include youtube.html,
-videoid:"6U9bYSD1Ak",
-width:"480",
-height:"270",
-layout="responsive", controls, autoplay,
-caption:"Video de ruta a la cascada el fin del mundo"
-%}
+--- Próximamente ---
 
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
@@ -164,8 +157,9 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CbbR39wM
 
 ## TOURS DISPONIBLES EN MOCOA 🧳
 
+Si eres de las personas que quiere tener todo planeado al momento de hacer tu viaje, y pagar una agencia que te brinde todo, aquí te mostraremos algunos tour disponibles.
 
-👉 **<a href="https://www.randes.co/products/tour-a-bahia-malaga-3-dias-2-noches" style="color:green;" target="_blank"> Click aquí Para más información del tour</a> 🚣.**
+__Nota:__ _Debes de saber que los tours son económicos si vas en grupo, ya que no vas a encontrar en Mocoa agencias que tengan salidas programadas para hacer excursiones grupales._
 
 
 <a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>

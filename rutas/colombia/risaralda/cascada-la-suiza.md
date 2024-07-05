@@ -64,9 +64,19 @@ En el sendero veran paisajes de bosques con muchos animalitos y aves, por estar 
 Algunos paisajes que veras son los siguientes:
 
 
+__Recomendación:__ _Durante el sendero vas a encontrar algunos puentes hechos en madera, al pasar debes tener mucho cuidado, ya que son muy resbalosos, algunas personas se han resbalado y se han lastimado algunos de gravedad._
 
 
-__Recomendación:__ Durante el sendero vas a encontrar algunos puentes hechos en madera, al pasar debes tener mucho cuidado, ya que son muy resbalosos, algunas personas se han resbalado y se han lastimado algunos de gravedad.
+Despues de una agradable caminata llegarán a la cascada
+
+{% include image.html,
+file:"rutas/risaralda/cascada-los-frailes/cascada-los-frailes.jpg",
+caption:"Foto: cascada Los Frailes",
+width:"800",
+height:"700"
+%}
+
+
 
 ## TOURS DISPONIBLES A ESTA CASCADA 🧳
 
