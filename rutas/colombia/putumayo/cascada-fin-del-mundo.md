@@ -22,6 +22,7 @@ Si estás leyendo esta publicación, tal vez estés buscando información para v
 - <a href="#desdero-fin-mundo">Sendero a la Cascada Fin del Mundo</a>
 - <a href="#tour-mocoa">Tour disponible en Mocoa. </a>
 - <a href="#hospedaje-mocoa">Hospedajes en Mocoa. </a>
+- <a href="#recomendaciones-mocoa">Recomendaciones finales. </a>
 - <a href="#rutas-cerca-mocoa">Otros rutas cerca de Mocoa. </a>
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
@@ -40,12 +41,12 @@ Es además reconocida por su belleza natural. Debido a la transición entre la R
 
 <a name="que-encontrarás" id="que-encontrarás"></a>
 
-## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO
+## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO 🎥
 
 --- Próximamente ---
 
 
-Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí.</a>
 
 
 <a name="llegar-fin-del-mundo" id="llegar-fin-del-mundo"></a>
@@ -63,25 +64,34 @@ En la siguiente sección te mostraremos las formas de llegar a Mocoa en bus.
 
 ### -> DESDE CALI A MOCOA
 
-Desde Cali a Mocoa, el __recorrido tarda en promedio 11 horas y 30 minuos__, tomando la via ruta 20 y Mocoa-Pitalito, __el trayecto es de aproximadamente 413 kilometros__, la empresa que presta el servicio de transporte hacia Mocoa desde Cali es:
+Desde Cali a Mocoa, el __recorrido tarda en promedio 11 horas y 30 minuos__, tomando la via ruta 20 y Mocoa-Pitalito, __el trayecto es de aproximadamente 413 kilometros__, tiene un precio promedio __por trayecto de $110.000 pesos por persona__. La empresa que presta el servicio de transporte hacia Mocoa desde Cali es:
 
-- __Transipiales:__ esta empresa sale 1 vez al día tipo 16:15 pm, el valor del pasaje es en promedio $110.000 pesos.
+- __Transipiales:__ esta empresa sale 1 vez al día tipo 16:15 pm.
 
 ### -> DESDE MEDELLÍN A MOCOA
 
-Para llegar a Mocoa desde Medellín, el __tiempo estimado es de 19 horas y 20 minutos aproximadamente__, tomando la Autopista Medellín-Bogotá. __Este recorrido comprende 901,6 kilómetros entre ambos destinos__. La empresa de buses que presta el servicio hacia Mocoa desde Medellín es:
+Para llegar a Mocoa desde Medellín, el __tiempo estimado es de 19 horas y 20 minutos aproximadamente__, tomando la Autopista Medellín-Bogotá. __Este recorrido comprende 901,6 kilómetros entre ambos destinos__, tiene un precio promedio __por trayecto de $114.000 pesos por persona__. La empresa de buses que presta el servicio hacia Mocoa desde Medellín es:
 
-- __Coomotor:__ Los buses de la empresa salen 2 veces al día y los horarios son 2:00 pm y 7:45 pm. El precio del pasaje por persona es de $144,500 Pesos. 
+- __Coomotor:__ Los buses de la empresa salen 2 veces al día y los horarios son 2:00 pm y 7:45 pm.
 
 ### -> DESDE BOGOTÁ A MOCOA
 
-Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 horas y 30 minutos__ tomando la vía Neiva-San Agustín. Este recorrido tiene una __distancia de alrededor de 632,3 kilómetros__. Las empresas de buses que prestan el servicio de Bogotá a Mocoa son:
+Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 horas y 30 minutos__ tomando la vía Neiva-San Agustín. Este recorrido tiene una __distancia de alrededor de 632,3 kilómetros__, tiene un precio promedio __por trayecto de $120.000 pesos por persona__. Las empresas de buses que prestan el servicio de Bogotá a Mocoa son:
 
-- __Coomotor:__ Los buses de la empresa Coomotor salen desde las 7:30 am, 8:15 am, 2:30 pm, 3:30 pm, 4:30 pm, y 5:15 pm. El valor del pasaje por persona hacia Mocoa, es de $105.000.
+- __Coomotor:__ Los buses de la empresa Coomotor salen desde las 7:30 am, 8:15 am, 2:30 pm, 3:30 pm, 4:30 pm, y 5:15 pm.
 
-- __Bolivariano:__ Esta empresa tiene un solo turno, y es el de las 8:30 pm y el valor del pasaje es de $78.000 por persona. 
+- __Transipiales:__ Esta empresa despacha dos buses al día, 10:00 am y 2:45 pm.
 
-- __Transipiales:__ Esta empresa despacha dos buses al día, 10:00 am y 2:45 pm, y el precio del pasaje es de $120.000 
+
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% include image.html,
+    file:"publicidad-post/sombrero.png",
+    caption:"Banner Ropa Senderismo",
+    width:"1000",
+    height:"300"
+%}
+</a>
+
  
 
 <a name="desdero-fin-mundo" id="desdero-fin-mundo"></a>
@@ -89,7 +99,7 @@ Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 ho
 ## SENDERO AL FIN DEL MUNDO EN MOCOA ⛰️
 
 
-Desde la ciudad de Mocoa, se debe abordar un bus hasta Villagarzón y __bajarse en el lugar conocido como Posada Dantayaco__, el cual es el punto inicial donde comienza el sendero. El valor del ingreso al sendero es de $30.000 Pesos por persona, vamos a dejar el contacto para que puedan hacer la reserva si así lo desean o consultar si esta abierto, ya que algunas veces cierran el ingreso al sendero para hacer mantenimiento __teléfono:__  <a href="tel:3208964500"> 3208964500</a>
+Desde la ciudad de Mocoa, se debe abordar un bus hasta Villagarzón y __bajarse en el lugar conocido como Posada Dantayaco__, el cual es el punto inicial donde comienza el sendero. El valor del ingreso al sendero es de $30.000 Pesos por persona, vamos a dejar el contacto para que puedan hacer la reserva si así lo desean o consultar si esta abierto, ya que algunas veces cierran el ingreso al sendero para hacer mantenimiento __teléfono:__  <a href="tel:3208964500"> 3208964500</a>.
 
 __Nota:__ _Al llamar puedes decir que viste la información en el Blog de viajes de rutas de los Andes, de esta forma nos ayudas para que sepan que todo este trabajo que hicimos con estas comunidades si está dando frutos_ 🥺.
 
@@ -98,8 +108,8 @@ __Nota:__ _Al llamar puedes decir que viste la información en el Blog de viajes
 Aquí podrás ver la información del sendero, con sus respectivos puntos de interes, acontinuación te compartimos algunos datos tecnicos de esta ruta:
 
 - __Distancia:__ 4,21 km.
-- __Altitud Minima:__ 511 m.s.n.m
-- __Altitud Maxima:__ 870 m.s.n.m
+- __Altitud Minima:__ 511 m.s.n.m.
+- __Altitud Maxima:__ 870 m.s.n.m.
 
 
 {% include iframe.html,
@@ -157,9 +167,18 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CbbR39wM
 
 ## TOURS DISPONIBLES EN MOCOA 🧳
 
-Si eres de las personas que quiere tener todo planeado al momento de hacer tu viaje, y pagar una agencia que te brinde todo, aquí te mostraremos algunos tour disponibles.
+Si eres de las personas que quiere tener todo organizado al momento de llegar a tu destino, aquí te mostraremos los tours que pudimos encontrar al visitar este lugar.
 
-__Nota:__ _Debes de saber que los tours son económicos si vas en grupo, ya que no vas a encontrar en Mocoa agencias que tengan salidas programadas para hacer excursiones grupales._
+### -> TOUR 4 DIAS 3 NOCHES
+
+Este es uno de los tour que las agencias más ofrecen en este lugar, y es uno de los más cortos que pudimos encontrar, este tour incluye:
+- 🍽️ Alimentación por el día del tour.
+- 🏨 Hospedaje.
+- 🚐 Transporte a lugares turísticos.
+- 🌄 Visita a: Hornoyaco, Cascada Fin del Mundo y Reserva Donde se Oculta el Sol.
+
+
+__Nota:__ _Debes de saber que si vas en grupo de aproximadamente 10 personas el tour les saldrá casi a mitad depreció que si fueras solo 1 persona_
 
 
 <a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
@@ -214,7 +233,7 @@ height:"946"
 
 👉 **<a href="https://www.booking.com/hotel/co/posada-kauai.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
-### HOTELES TOP EN MOCOA 🥇🛌
+### HOTELES TOP EN MOCOA
 
 
 Si eres de los que no escatiman en gastos a la hora de planear un viaje y te gusta buscar hospedajes sin importar su precio, acá te tenemos algunas opciones: 
@@ -260,6 +279,31 @@ height:"946"
 
 👉 **<a href="https://www.booking.com/hotel/co/patio-bonito-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
+
+
+<a name="recomendaciones-mocoa" id="recomendaciones-mocoa"></a>
+
+## RECOMENDACIONES FINALES 📋
+
+Aqui te daremos algunas recomendaciones que debes de tener en cuenta al momento de ir a Mocoa y a la cascada el Fin del mundo.
+
+### --> FIEBRE AMARILLA
+
+En Putumayo se han reportado 3 casos fatales de fiebre amarilla a la fecha de 27 de marzo del 2024, así que si cuentas con esta vacuna puedes llevar el certificado.
+
+### --> TIPO DE ROPA ADECUADA 
+
+En mocoa la temperatura promedio ronda los 20 a 29 grados centigrados, ademas de esto es una zona humeda, asi que aconsejamos llevar el siguiente tipo de prendas para ir a la cascada.
+
+- 👟 Usa calzado con buen agarre, no suelas lisas.
+- 🏃‍♂️ Se recomienda prendas tipo licra para que se te haga mucho más fácil caminar por el sendero.
+- 🩱 Llevar traje de baño si decides bañarte.
+- 👕 Lleva ropa de secado rápido, recuerda que esta es una zona tropical húmeda.
+- 🌞🦟 Se recomienda buzos de manga larga para cubrirte del sol y de los mosquitos, al igual que sombreros.
+- ⏰ Realiza el regreso antes de las 3 pm desde las Cascadas Fin del Mundo.
+
+
+¿No sabes dónde comprar estas prendas? <a target="_blank" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
 
 
 <a name="rutas-cerca-mocoa" id="rutas-cerca-mocoa"></a>
