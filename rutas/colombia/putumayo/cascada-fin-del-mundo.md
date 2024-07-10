@@ -115,7 +115,7 @@ Aquí podrás ver la información del sendero, con sus respectivos puntos de int
 {% include iframe.html,
  type:"custom",
  mid:"1j5YBFoorjkJ_SqRMGVMd0mBaoJT0ILU&hl=es&ehbc=2E312F",
- caption:"Mapa: Ruta dentro del sendero Fin del mundo"
+ caption:"Mapa: Ruta dentro del sendero cascada Fin del mundo"
 %}
 
 Durante todo el recorrido podrán observar gran biodiversidad de flora y fauna presente de esta región, ademas veran 2 lugares que resaltan durante este recorrido los cuales son:

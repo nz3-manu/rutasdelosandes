@@ -35,7 +35,17 @@ Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
 La Cascada Los Frailes es un salto de agua de 70 metros de altura proveniente del paramillo de Santa Rosa, se encuentra ubicada en predios de la empresa Aguas y Aguas de Pereira. Desde el año 2017.
 
-Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia cierta porque de su origen, algunos aseguran que en este lugar hacian ceremonia los padres franciscanos
+Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia cierta porque de su origen, algunos aseguran que en este lugar hacian ceremonia los padres franciscanos.
+
+
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% include image.html,
+    file:"publicidad-post/sombrero.png",
+    caption:"Banner Ropa Senderismo",
+    width:"1000",
+    height:"300"
+%}
+</a>
 
 <a name="llegar-cascada-los-frailes" id="llegar-cascada-los-frailes"></a>
 
@@ -44,11 +54,10 @@ Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia 
 La cascada de los frailes o como también es conocida la Suiza __se encuentra en la vereda la Suiza a 18 kilómetros de Pereira__, debes de saber que para llegar allí es un poco complejo, ya que el transporte público solo tiene ruta algunas veces en el día, y este los dejara en la vía principal, de allí tendrán que caminar alrededor de 10 minutos para llegar al punto de encuentro. 
 
 
-- __En bus desde pereira:__ Puedes tomar el bus al frente del centro comercial victoria, este pasa con una frecuencia de 1 hora, saliendo a partir de las &:00 am.
+- __En bus desde pereira:__ Puedes tomar el bus al frente del centro comercial victoria (calle 17), empresa de transporte la Florida, este Sale de lunes a viernes a las 9 am, el te dejará en la vía principal (ver mapa), Sabados y domingos sale a las 7 am.
+__Nota:__ Asegurate que el bus cubra la ruta la Florida, la Suiza y el Cedral.
 
-- __En transporte privado:__ debes de saber que la última parte de la carretera no está pavimentada, al llegar allí van a encontrar parqueaderos, los cuales están incluido
-
--- Mapa --
+- __En transporte privado:__ debes de saber que la última parte de la carretera no está pavimentada, al llegar allí van a encontrar parqueaderos, los cuales están incluido.
 
 
 
@@ -65,15 +74,47 @@ La cascada de los frailes o como también es conocida la Suiza __se encuentra en
 El sendero comienza en la casa en la casa de la finca buenos aires, en este lugar hay parqueadero en el cual los que van en carro o moto lo podrán deja allí totalmente gratis. El sendero tiene una duración de 2.5 kilometros de distancia, son aproximadente 3 horas.
 
 
--- mapa --
+### -> MAPA DEL SENDERO REALIZADO
 
+Aquí podrás ver la información del sendero, con sus respectivos puntos de interes, acontinuación te compartimos algunos datos tecnicos de esta ruta:
 
-__Nota:__ _El sendero es privado, tienen una puerta con reja y candado que solo los guías tienen la llaves._
+- __Distancia Total:__ 3,42 km.
+- __Altitud Minima:__ 1.936 m.s.n.m.
+- __Altitud Maxima:__ 1.860 m.s.n.m.
+
+{% include iframe.html,
+ type:"custom",
+ mid:"1fJYE19CDD7rMMEM-FAeA0Y-t00Xzp6w&hl=es&ehbc=2E312F",
+ caption:"Mapa: Ruta dentro del sendero cascada lo Frailes"
+%}
+
+Si vas en Bus te dejata donde esta el icono del bus en el mapa, el trayecto que tendrás que caminar es el que esta en naranja.
+
+__Recomendación:__ _de regreso es algo dificil encontrar transporte, si te gusta caminar podrías ir hasta la vereda la Florida, hasta allí llegan los buses con mayor frecuencia este trayecto es de 6.5 kilometros._
+
 
 En el sendero veran paisajes de bosques con muchos animalitos y aves, por estar esta reserva dentro de predios privados podrán disfrutar de sonidos naturales ya que no hay fincas cercanas ni tampaco carreteras donde se escuche el ruido de vehiculos.
 
-Algunos paisajes que veras son los siguientes:
+{% include image.html,
+file:"rutas/risaralda/cascada-los-frailes/mono-aullador.jpg",
+caption:"Foto: Mono aullador",
+width:"1000",
+height:"667"
+%}
 
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/andrescardona.co/"  target="_blank"> andrescardona.co</a> </span>__
+
+Si cuentan con suerte podrán los monos aulladores, la pava, como también la pava andina que es una ave endémica de esta región.
+
+
+{% include image.html,
+file:"rutas/risaralda/cascada-los-frailes/pava.jpg",
+caption:"Foto: Pava",
+width:"1000",
+height:"710"
+%}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/andrescardona.co/"  target="_blank"> andrescardona.co</a> </span>__
 
 __Recomendación:__ _Durante el sendero vas a encontrar algunos puentes hechos en madera, al pasar debes tener mucho cuidado, ya que son muy resbalosos, algunas personas se han resbalado y se han lastimado algunos de gravedad._
 
