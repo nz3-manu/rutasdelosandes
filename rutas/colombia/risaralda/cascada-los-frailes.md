@@ -22,7 +22,6 @@ Aquí te mostraremos cómo llegar a esta hermosa cascada, tanto si vas con trans
 - <a href="#video-cascada-los-frailes"> Video de la ruta realizada en la Cascada los frales.</a>
 - <a href="#llegar-cascada-los-frailes"> ¿Cómo llegar hasta la cascada los frailes?</a>
 - <a href="#tour-cascada-los-frailes"> Tour para visitar la Cascada los Frailes. </a>
-- <a href="#hospedaje-cascada-suiza"> Hospedajes en Pereira. </a>
 - <a href="#recomendaciones-finales"> Recomendaciones finales </a>
 
 
@@ -47,6 +46,14 @@ Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia 
 %}
 </a>
 
+
+
+<a name="video-cascada-los-frailes" id="video-cascada-los-frailes"></a>
+
+## VIDEO DE LA RUTA REALIZADA A LA CASCADA LOS FRAILES
+
+
+-- video ---
 <a name="llegar-cascada-los-frailes" id="llegar-cascada-los-frailes"></a>
 
 ## ¿CÓMO LLEGAR A LA CASCADA LOS FRAILES 🚍?
@@ -67,12 +74,6 @@ Estos buses salen en promedio cada hora, al frente del centro comercial victoria
 Si cuentas con carro o moto, debes de saber que despues de la vereda la florida hasta la vereda la suiza este tramo no esta paviemntado, son en promedio 6 kilometros de carretera destapada, al llegar al punto de encuentro podrán dejar el carro en el parqueadero.
 
 
-<a name="video-cascada-los-frailes" id="video-cascada-los-frailes"></a>
-
-## VIDEO DE LA RUTA REALIZADA A LA CASCADA LOS FRAILES
-
-
--- video ---
 <a name="llegar-cascada-suiza" id="llegar-cascada-suiza"></a>
 
 ## SENDERO A LA CASCADA LOS FRAILES ⛰️
@@ -145,19 +146,19 @@ Debes de tener en cuenta que los días en los que se puede hacer el tour con una
 __Debes de tener encuenta que tendrás que llegar pon tu cuenta hasta la finca Buenos Aires donde comienza el tour__, si no sabes como hacerlo te recomiendo ver la sección del este post que se llama "Cómo llegar a la cascada los Frailes".
 
 __INCLUYE:__
-- 🚶 Ingreso al sendero
-- 🍽️ Almuerzo
-- 🏥 Seguro de asistencia médica
-- 🗺️ Guianza con interpretación ambiental
--❌🚌 Este recorrido es sin transporte desde Pereira.
+- 🚶 Ingreso al sendero.
+- 🍽️ Almuerzo.
+- 🏥 Seguro de asistencia médica.
+- 🗺️ Guianza con interpretación ambiental.
+- ❌🚌 Este recorrido es sin transporte desde Pereira.
 
 __HORARIOS DE SALIDA:__
-- Viernes: 🕚 11:00 am
-- Sábado y domingo: 🕘 9:00 am y 🕚 11:00 am
+- Viernes: 🕚 11:00 am.
+- Sábado y domingo: 🕘 9:00 am y 🕚 11:00 am.
 
 Si quisieras información del transporte podrás verlo en el siguiente link.
 
-__<a href="https://www.randes.co/products/tour-cascada-los-frailes" style="color:green;" target="_blank"> 👉💦 Clic aquí para ver información del tour. </a>__ 
+__<a href="https://www.randes.co/products/tour-cascada-los-frailes" style="color:green;" target="_blank"> 👉💦 Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí. </a>__ 
 
 <a name="recomendaciones-finales" id="recomendaciones-finales"></a>
 
