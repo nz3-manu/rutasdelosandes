@@ -33,7 +33,7 @@ Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
 ## DATOS CURIOSOS DE LA CASCADA LOS FRAILES
 
-La Cascada Los Frailes es un salto de agua de 70 metros de altura proveniente del paramillo de Santa Rosa, se encuentra ubicada en predios de la empresa Aguas y Aguas de Pereira. Desde el año 2017.
+La Cascada Los Frailes __es un salto de agua de 70 metros de altura proveniente del paramillo de Santa Rosa__, se encuentra ubicada en predios de la empresa Aguas y Aguas de Pereira. Desde el año 2017.
 
 Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia cierta porque de su origen, algunos aseguran que en este lugar hacian ceremonia los padres franciscanos.
 
@@ -51,14 +51,20 @@ Algunos pobladores contaron que el nombre de esta cascada no se sabe sa ciencia 
 
 ## ¿CÓMO LLEGAR A LA CASCADA LOS FRAILES 🚍?
 
-La cascada de los frailes o como también es conocida la Suiza __se encuentra en la vereda la Suiza a 18 kilómetros de Pereira__, debes de saber que para llegar allí es un poco complejo, ya que el transporte público solo tiene ruta algunas veces en el día, y este los dejara en la vía principal, de allí tendrán que caminar alrededor de 10 minutos para llegar al punto de encuentro. 
+La cascada de los frailes o como también es conocida la Suiza __se encuentra en la vereda la Suiza a 18 kilómetros de Pereira__, debes de saber que el transporte público solo tiene algunas rutas en el día, aquí te mostraremos algunas rutas de buses y recomendaciones para tener en cuenta si vas en transporte privado.
 
 
-- __En bus desde pereira:__ Puedes tomar el bus al frente del centro comercial victoria (calle 17), empresa de transporte la Florida, este Sale de lunes a viernes a las 9 am, el te dejará en la vía principal (ver mapa), Sabados y domingos sale a las 7 am.
-__Nota:__ Asegurate que el bus cubra la ruta la Florida, la Suiza y el Cedral.
+### ->  DESDE PEREIRA HASTA VEREDA LA SUIZA
 
-- __En transporte privado:__ debes de saber que la última parte de la carretera no está pavimentada, al llegar allí van a encontrar parqueaderos, los cuales están incluido.
+Puedes tomar la chiva al frente del centro comercial victoria (calle 17), el nombre de la __empresa es transporte la Florida__, este Sale de lunes a viernes a las 9 am,  Sabados y domingos sale a las 7 am. El transporte te dejará en la vía principal (ver mapa) de allí __tendrás que caminar aproximadamente 500 metros hasta llegar al punto de encuentro__.
 
+### ->  DESDE PEREIRA HASTA VEREDA LA FLORIDA
+
+Estos buses salen en promedio cada hora, al frente del centro comercial victoria (calle 17), ten en cuenta que esta ruta te dejará en la vereda la florida de allí __tendrás que caminar aproximadamente 6 kilómetros hasta llegar al punto de  encuentro__, esta opción muchas personas la hacen para regresar a Pereira.
+
+### ->  EN TRANSPORTE PRIVADO
+
+Si cuentas con carro o moto, debes de saber que despues de la vereda la florida hasta la vereda la suiza este tramo no esta paviemntado, son en promedio 6 kilometros de carretera destapada, al llegar al punto de encuentro podrán dejar el carro en el parqueadero.
 
 
 <a name="video-cascada-los-frailes" id="video-cascada-los-frailes"></a>
@@ -132,25 +138,26 @@ height:"700"
 
 ## TOURS DISPONIBLES A ESTA CASCADA 🧳
 
-Debes de tener en cuenta que los días en los que se puede hacer el tour con una excrusión grupal, para que sea más economico son los días: viernes, Sabado y Domingo, si lo quisieras un día diferente a los mencionados sería ya una excursión, puedes ver una tabla con los precios de este.
+Debes de tener en cuenta que los días en los que se puede hacer el tour con una __excrusión grupal son : viernes, Sabado y Domingo__, si lo quisieras un día diferente a los mencionados sería una excursión privada y el valor sería diferente, puedes ver una tabla con los precios de este.
 
 ### -> SIN TRANSPORTE
 
+__Debes de tener encuenta que tendrás que llegar pon tu cuenta hasta la finca Buenos Aires donde comienza el tour__, si no sabes como hacerlo te recomiendo ver la sección del este post que se llama "Cómo llegar a la cascada los Frailes".
+
 __INCLUYE:__
-- Ingreso al senderos
-- Almuerzo
-- Seguro de asistencias medica
+- 🚶 Ingreso al sendero
+- 🍽️ Almuerzo
+- 🏥 Seguro de asistencia médica
+- 🗺️ Guianza con interpretación ambiental
+-❌🚌 Este recorrido es sin transporte desde Pereira.
 
-Debes de tener encuenta que tendrás que llegar pon tu cuenta hasta la finca Buenos Aires donde comienza el tour, si no sabes como hacerlo te recomiendo ver la sección del post cómo llegar.
+__HORARIOS DE SALIDA:__
+- Viernes: 🕚 11:00 am
+- Sábado y domingo: 🕘 9:00 am y 🕚 11:00 am
 
-### -> CON TRANSPORTE
+Si quisieras información del transporte podrás verlo en el siguiente link.
 
-Esta opción se recomienda si vas con varias personas o familia ya que no vas a tener que esperar por horarios de buses, este tour incluye:
-
-- Transporte desde Pereira
-- Ingreso al senderos
-- Almuerzo
-- Seguro de asistencias medica
+__<a href="https://www.randes.co/products/tour-cascada-los-frailes" style="color:green;" target="_blank"> 👉💦 Clic aquí para ver información del tour. </a>__ 
 
 <a name="recomendaciones-finales" id="recomendaciones-finales"></a>
 
