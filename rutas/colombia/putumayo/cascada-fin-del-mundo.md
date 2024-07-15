@@ -27,7 +27,7 @@ Si estás leyendo esta publicación, tal vez estés buscando información para v
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/putumayo/the-end-of-the-world-waterfall.html"> See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/putumayo/fin-del-mundo-waterfall.html"> See this post in English version 🇺🇸</a>]**
 
 ## DATOS CURIOSOS DE LA CASCADA EL FIN DEL MUNDO
 
