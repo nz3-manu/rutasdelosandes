@@ -47,9 +47,20 @@ Algunos pobladores cuentan que el nombre de esta cascada no se sabe a ciencia ci
 <a name="video-cascada-los-frailes" id="video-cascada-los-frailes"></a>
 
 
-## VIDEO DE LA RUTA REALIZADA A LA CASCADA LOS FRAILES
+## VIDEO DE LA RUTA REALIZADA A LA CASCADA LOS FRAILES 🎥
 
--- video ---
+A continuación, te mostraremos el video de la ruta realizada a la Cascada Los Frailes. ¡No olvides suscribirte a nuestro canal de YouTube para más aventuras y contenido emocionante!
+
+
+{% include youtube.html
+  videoid:"FepmKxWPzks",
+  width:"480",
+  height:"270",
+  caption:"Video: Ruta Cascada los frailes"
+%}
+
+Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
 
 <a name="llegar-cascada-los-frailes" id="llegar-cascada-los-frailes"></a>
 
