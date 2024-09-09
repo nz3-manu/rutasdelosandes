@@ -16,8 +16,6 @@ author: manuel
 Si estás leyendo esta publicación, tal vez estés buscando información para visitar esta cascada. Es por eso que vamos a mostrarte videos de este lugar, mapa GPS, recomendación de alojamiento, precios de transporte, si eres de las personas que quieren tener tu viaje planeado con antelación, te dejaremos información de paquetes turísticos que encontrás en Mocoa.
 
 
-👉 __<a href="https://www.randes.co/collections/avistamiento-de-las-ballenas" style="color:green;" target="_blank">Haz clic aquí para ver tour disponible en Mocoa 💦.</a>__
-
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -81,14 +79,14 @@ A continuación te mostraremos las empresas de buses que salen para este destino
 #### DESDE CALI A MOCOA
 
 
-Desde Cali a Mocoa, el __recorrido tarda en promedio 11 horas y 30 minuos__, tomando la via ruta 20 y Mocoa-Pitalito, __el trayecto es de aproximadamente 413 kilometros__, tiene un precio promedio __por trayecto de $110.000 pesos por persona__. La empresa que presta el servicio de transporte hacia Mocoa desde Cali es:
+Desde Cali a Mocoa, el recorrido tarda en promedio 11 horas y 30 minuos, tomando la via ruta 20 y Mocoa-Pitalito, el trayecto es de aproximadamente 413 kilometros, tiene un precio promedio _por trayecto de $110.000 pesos por persona_. La empresa que presta el servicio de transporte hacia Mocoa desde Cali es:
 - __Transipiales:__ esta empresa sale 1 vez al día tipo 16:15 pm.
 
 
 #### DESDE MEDELLÍN A MOCOA
 
 
-Para llegar a Mocoa desde Medellín, el __tiempo estimado es de 19 horas y 20 minutos aproximadamente__, tomando la Autopista Medellín-Bogotá. __Este recorrido comprende 901,6 kilómetros entre ambos destinos__, tiene un precio promedio __por trayecto de $150.000 pesos por persona__. La empresa de buses que presta el servicio hacia Mocoa desde Medellín es:
+Para llegar a Mocoa desde Medellín, el tiempo estimado es de 19 horas y 20 minutos aproximadamente, tomando la Autopista Medellín-Bogotá. Este recorrido comprende 901,6 kilómetros entre ambos destinos, tiene un precio promedio _por trayecto de $150.000 pesos por persona_. La empresa de buses que presta el servicio hacia Mocoa desde Medellín es:
 
 
 - __Coomotor:__ Los buses de la empresa salen 2 veces al día y los horarios son 2:00 pm y 7:45 pm.
@@ -96,7 +94,7 @@ Para llegar a Mocoa desde Medellín, el __tiempo estimado es de 19 horas y 20 mi
 
 #### DESDE BOGOTÁ A MOCOA
 
-Para llegar a Mocoa desde la ciudad de Bogotá, el __tiempo estimado es de 12 horas y 30 minutos__ tomando la vía Neiva-San Agustín. Este recorrido tiene una __distancia de alrededor de 632,3 kilómetros__, tiene un precio promedio __por trayecto de $120.000 pesos por persona__. Las empresas de buses que prestan el servicio de Bogotá a Mocoa son:
+Para llegar a Mocoa desde la ciudad de Bogotá, el tiempo estimado es de 12 horas y 30 minutos tomando la vía Neiva-San Agustín. Este recorrido tiene una distancia de alrededor de 632,3 kilómetros, tiene un precio promedio _por trayecto de $120.000 pesos por persona_. Las empresas de buses que prestan el servicio de Bogotá a Mocoa son:
 - __Coomotor:__ Los buses de la empresa Coomotor salen desde las 7:30 am, 8:15 am, 2:30 pm, 3:30 pm, 4:30 pm, y 5:15 pm.
 - __Transipiales:__ Esta empresa despacha dos buses al día, 10:00 am y 2:45 pm.
   
@@ -130,7 +128,7 @@ Si vas en moto o carro vas a poder encontrar un parqueadero cerca de la entrada,
 
 Al llegar a la entrada del sendero vas a tener que pagar $30.000 Pesos por persona (precio 2024) y te pondrán una manilla con la que podrás ingresar, te dejamos el contacto para que puedan hacer la reserva si así lo desean o consultar si esta abierto, ya que algunas veces cierran el ingreso al sendero para hacer mantenimiento __teléfono:__ <a href="tel:3113403572"> 3113403572</a>.
 
-__Importante:__ Al ingresar al sendero vas a encontrar en algunos puntos un guía que te dará información, _pero de resto vas a estar solo en todo el camino_, así que debes tener cuidado a las recomendaciones que damos en est post.
+__Importante:__ _Al ingresar al sendero vas a encontrar en algunos puntos un guía que te dará información, _pero de resto vas a estar solo en todo el camino_, así que debes tener cuidado a las recomendaciones que damos en est post._
 
 ### -> MAPA DEL SENDERO REALIZADO
 
@@ -157,7 +155,7 @@ Durante todo el recorrido podrán observar gran biodiversidad de flora y fauna p
 El Pozo de la Danta se distingue por sus aguas cristalinas y tranquilas, que permiten una visión clara del lecho del río con sus hermosas y coloridas rocas, antiguamente en esta zona se podían ver las dantas, pero debido a que no habia un control las personas las cazaban, de aqui su nombre.
 
 
-__Nota:__ En este lugar no se permite danar, ya que las piedras son muy lisas y podrían resbalar.
+__Nota:__ _En este lugar no se permite danar, ya que las piedras son muy lisas y podrían resbalar._
 
 
 {% include image.html,
@@ -167,7 +165,7 @@ width:"1000",
 height:"875"
 %}
 
-__Nota:__ Para llegar a este lugar todo el camino es subiendo, en algunas partes hay unas rocas que son lisas, así que se recomiendan llevar tenis de buen agarre.
+__Nota:__ _Para llegar a este lugar todo el camino es subiendo, en algunas partes hay unas rocas que son lisas, así que se recomiendan llevar tenis de buen agarre._
 
 Después de caminar por 1 minuto llegarás a este otro pozo en el cual si podrás nadar y hacer saltos si así lo decides 😅.
 
@@ -179,6 +177,8 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27
 
 
 Pozo Golondrina este es un de los más visitado. En el cual, podrás disfrutar de los contrastes del agua debido a las variaciones de profundidades. Esta cascada tiene una altura promedio de 7 metros, ideal para nadar.
+
+En este lugar se encuentra un restaurante, les aconsejamos encargar el almuerzo antes de continuar a la siguiente y última cascada.
 
 
 {% include image.html,
@@ -198,10 +198,9 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/yener_ordo
 ### -> CASCADA FIN DEL MUNDO
 
 
-Es una cascada que tiene una caída de 75 metros, desde el pozo de las golondrinas hasta este puento son aproximadamente 10 minutos, deben tener mucho cuidado ya que tienen que cruzar por piedras resvalozas y cruzar el rio, al final nos estará esperando un guía con su respectivo arnes para que puedas tomarte la foto.
+Desde el pozo de las golondrinas hasta este puento son aproximadamente 10 minutos, deben tener mucho cuidado ya que tienen que cruzar por piedras resvalozas y cruzar el rio, al final nos estará esperando un guía con su respectivo arnes para que puedas tomarte la foto.
 
-
-Ya que como decia don Jesus (el potenciador turistico de esta zona), si se llegarán a caer de aqui sería el fin de su mundo.
+Esta cascada tiene una caída de 75 metros, debes tener cuidado ya que como decia don Jesus (el que descubrio este lugar), si se llegarán a caer de aqui __sería el fin de su mundo__.
 
 
 {% include image.html,
@@ -230,17 +229,13 @@ Si eres de las personas que quiere tener todo organizado al momento de llegar a 
 
 
 Este es uno de los tour que las agencias más ofrecen en este lugar, y es uno de los más cortos que pudimos encontrar, este tour incluye:
-- 🍽️ Alimentación por el día del tour.
-- 🏨 Hospedaje.
-- 🚐 Transporte a lugares turísticos.
-- 🌄 Visita a: Hornoyaco, Cascada Fin del Mundo y Reserva Donde se Oculta el Sol.
+- 🍽️ __Alimentación:__ 3 desayunos, 3 almuerzos y 3 cenas.
+- 🏨 __Hospedaje:__ 3 noches
+- 🚐 __Transporte:__ Dentro de mocoa a los lugares turísticos.
+- 🌄 __Lugares a Visitar:__ Hornoyaco, Cascada Fin del Mundo y Reserva Donde se Oculta el Sol.
+- 🌄 __Seguros e ingresos:__ Pago seguro de asistencia médica e ingresos a senderos.
 
-
-
-
-__Nota:__ _Debes de saber que si vas en grupo de aproximadamente 10 personas el tour les saldrá casi a mitad depreció que si fueras solo 1 persona_
-
-
+__Valor del Tour:__ El tour para 1 persona tiene un precio aproximado de __$1'550.000 Pesos__, si vas con más personas este valor puede disminuir.
 
 
 <a name="hospedaje-mocoa" id="hospedaje-mocoa"></a>
@@ -314,7 +309,7 @@ height:"946"
 * __HOTEL CUARTO PRIVADO:__ La zona más económica que pudimos encontrar fue _alrededor del terminal de transporte_, algunas de estas pueden dejar la moto adentro del hotel, pero debes saber que muchos de estos cuartos no cuentan con muchas comodidades, además algunos no son muy aseados 😅 y no cuentan con seguridad, el valor de estos hospedajes son desde $30.000 pesos por habitación privada y derecho a guardar moto, no los dejamos ya hasta la fecha no se encuentran en Google Maps o Booking.
 
 
-* __HOSTAL:__ Si buscas algo más económico, ya sería un hostal el cual da un servicio de habitaciones compartidas, este alquila camas muy económicas con el fin de ayudar a artistas callejeros o mochileros, el valor de la cama es de alrededor $10.000 pesos por persona con derecho a cocina.
+* __HOSTAL LA CASA PLENITUD:__ Si buscas algo más económico, ya sería un hostal el cual da un servicio de habitaciones compartidas, este alquila camas muy económicas con el fin de ayudar a artistas callejeros o mochileros, el valor de la cama es de alrededor $10.000 pesos por persona con derecho a cocina.
 
 
 ### -> HOTELES TOP EN MOCOA
@@ -398,6 +393,8 @@ En mocoa la temperatura promedio ronda los 20 a 29 grados centigrados, ademas de
 
 - __Sendero al fin del mundo:__ Debes saber que si no vas con una agencia, el recorrido lo vas a tener que hacer solo, debes tener cuidado de las piedras lisas.
 
+- __Alimentación:__ Durante el recorrido a la Cascada el fin del Mundo vas a encontrar un restaurante. y si piensas desayunar o almorzar en Mocoa, al frente de la estación de policías de Mocoa (parque principal) vas a encontrar un restaurante muy económicos (es donde comen algunos policías).
+
 
 <a name="rutas-cerca-mocoa" id="rutas-cerca-mocoa"></a>
 
@@ -405,7 +402,7 @@ En mocoa la temperatura promedio ronda los 20 a 29 grados centigrados, ademas de
 
 
 - __CAÑÓN DEL MANDIYACO:__ Ubicada en el kilómetro 25 de la vía que conduce a Pitalito se encuentra está maravilla natural de origen volcánico donde la fuerza del agua ha logrado formar imponentes formaciones y se encuentra en la zona limítrofe entre el Cauca y Putumayo.
--  __CASCADA OJO DE DIOS:__ Esta es una cascada majestuosa debido al flujo de agua que pasa por en medio de la roca, y se ve como si la fuerte roca brotara un potente chorro de agua con una caída de 35 metros, dando la impresión de que éste fuera su yacimiento. Para ingresar a esta cascada, se deben pagar $15.000.
+-  __CASCADA OJO DE DIOS:__ Esta es una cascada majestuosa debido al flujo de agua que pasa por en medio de la roca, y se ve como si la fuerte roca brotara un potente chorro de agua con una caída de 35 metros, dando la impresión de que éste fuera su yacimiento.
 - __HORNOYACO:__ Esta es una imponente cascada de unos 55 metros de altura, ubicada en la vereda El Zarzal que limita con el parque natural Los Churumbelos. Para llegar a esta maravillosa cascada, se debe cruzar el puente colgante sobre el Río Mocoa.
 
 
