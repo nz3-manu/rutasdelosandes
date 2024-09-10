@@ -117,17 +117,97 @@ Una vez desembarcamos en Capurganá, el dueño de la lancha nos dijo que era el 
 Si eres de esas personas que les gusta la rumba 🍾, el ocio, comodidades como: corresponsales bancarios, restaurantes, supermercados, etc... Pueden hospedarse en Capurganá, por otra parte, si vas en plan de leer un libro y que nadie incomode, Sapzurro será tu mejor opción.
 
 
-### -> HOSPEDAJE EN CAPURGANÁ
+### -> HOSPEDAJE EN CAPURGANÁ 
 
 
 En Capurganá, los hospedajes varían desde __$50.000 COP hasta $80.000 COP__ por persona y por noche, tambien vas a poder encontrar zonas de camping ⛺️ por un precio de alrededor __$30.000 pesos__ por persona, debes tener encuenta que las zonas de camping en capurgana no quedan alfrente de la playa.
 
+### -> HOTELES ECONOMICOS EN CAPURGANÁ
 
-## ->  HOSPEDAJE EN SAPZURRO
+
+Si estás buscando un hospedaje bueno bonito y barato te dejaremos aquí albunas opciones, o si eres de las personas que que estas buscando algo solo para pasar la noche y seguir tu camino en la mañana te dejaremos una opción aldfinal de este post.
+
+
+#### BLUE BAYOU
+
+
+Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+
+
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
+* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
+* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+
+
+<a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/choco/capurgana-choco/hospedaje-capurgana/BlueBayou.capurgana.jpg",
+caption:"Foto: Hotel Blue Bayou",
+width:"1200",
+height:"688"
+%}
+</a>
+
+
+👉 **<a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+
+#### RECICLARTE GALERÍA HOSTAL
+
+Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
+* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
+* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+
+<a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/choco/capurgana-choco/hospedaje-capurgana/Reciclarte-galería-hostal.jpg",
+caption:"Foto: Reciclarte Galería Hostal",
+width:"1000",
+height:"578"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+#### HOSPEDAJES MUCHO MAS ECONOMICOS 
+
+* __CAMPING EN CAPURGANA:__ En capurgana vas a poner encontrar zonas de camping por un precio de $20.000 pesos por persona, debes saber que los hospedajes en capurgana no quedan cerca de la playa.
+
+
+### -> HOSPEDAJE EN SAPZURRO
+
+#### CASA HOTEL LA MARIELA
+
+Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
+* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
+* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+
+<a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/choco/capurgana-choco/hospedaje-capurgana/Casa-hotel-la-mariela.jpg",
+caption:"Foto: Casa Hotel La Mariela",
+width:"1000",
+height:"580"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
+
+
+
 
 
 Por otra parte, en Sapzurro es más limitado todo en cuanto a restaurantes, tiendas de abarrotes, lo que hace que sean muy pocos los turistas que frecuentan este corregimiento para hospedarse, son muchos los que solo visitan sus playas y regresan a capurgana.
 
+
+
+#### HOSPEDAJES MUCHO MAS ECONOMICOS 
+
+* __CAMPING EN SAPZURRO:__ En capurgana vas a poner encontrar zonas de camping por un precio de $20.000 pesos por persona, debes saber que los hospedajes en capurgana no quedan cerca de la playa.
 
 Aun así, podrás encontrar diferentes opciones de hospedaje y también, zonas de camping.
 

@@ -3,26 +3,23 @@ layout: trail
 title: Cascada el Fin del mundo
 categories: colombia
 seo_title: Cascada el Fin del Mundo
-excerpt: Guia de viaje para visitar la cascada el fin del Mundo en Mocoa, conoce; transporte, hospedaje y tours disponibles, viaja como un local.
+excerpt: Guía de viaje para visitar la cascada el fin del Mundo en Mocoa, conoce; transporte, hospedaje y tours disponibles, viaja como un local.
 images_url: /images/rutas/putumayo/cascada-fin-del-mundo
 viewranger: MTYzNjQzOA==
 author: manuel
 ---
-
 
 # CASCADA EL FIN DEL MUNDO
 
 
 Si estás leyendo esta publicación, tal vez estés buscando información para visitar esta cascada. Es por eso que vamos a mostrarte videos de este lugar, mapa GPS, recomendación de alojamiento, precios de transporte, si eres de las personas que quieren tener tu viaje planeado con antelación, te dejaremos información de paquetes turísticos que encontrás en Mocoa.
 
-
-
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 
 - <a href="#que-encontrarás"> Video de la ruta a la cascada el fin del mundo.</a>
-- <a href="#llegar-fin-del-mundo"> ¿Donde queda la cascada el fin del mundo?</a>
-- <a href="#desdero-fin-mundo">Sendero a la Cascada Fin del Mundo</a>
+- <a href="#llegar-fin-del-mundo"> ¿Donde queda la cascada el fin del mundo y como llegar?</a>
+- <a href="#desdero-fin-mundo">Sendero y mapa a la Cascada Fin del Mundo</a>
 - <a href="#tour-mocoa">Tour disponible en Mocoa</a>
 - <a href="#hospedaje-mocoa">Hospedajes en Mocoa</a>
 - <a href="#recomendaciones-mocoa">Recomendaciones finales</a>
@@ -178,7 +175,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27
 
 Pozo Golondrina este es un de los más visitado. En el cual, podrás disfrutar de los contrastes del agua debido a las variaciones de profundidades. Esta cascada tiene una altura promedio de 7 metros, ideal para nadar.
 
-En este lugar se encuentra un restaurante, les aconsejamos encargar el almuerzo antes de continuar a la siguiente y última cascada.
+__Nota:__ _En este lugar se encuentra un restaurante, les aconsejamos encargar el almuerzo antes de continuar a la siguiente y última cascada._
 
 
 {% include image.html,
@@ -243,12 +240,14 @@ __Valor del Tour:__ El tour para 1 persona tiene un precio aproximado de __$1'55
 
 ## HOSPEDAJES EN MOCOA 🛌
 
+Aquí te mostraremos las mejores de opciones de hospedaje, nos basamos en las recomendaciones de viajeros que visitaron Mocoa y de la puntuación de estos en la plataforma de Booking, nosotros siempre usamos esta plataforma ya que es una forma segura para hacer reservas de alojamientos.
 
-Si tienes pensado viajar a Mocoa, ten en cuenta las siguientes opciones de hospedajes para que empieces a planear tu viaje. Acá tenemos las siguientes alternativas, las dividimos en __hospedajes economicos y lo más top:__
 
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+
+Los hospedajes los dividimos en hospedajes economicos y lo mas top.
 
 ### -> HOTELES ECONOMICOS EN MOCOA
-
 
 Si estás buscando un hospedaje bueno bonito y barato te dejaremos aquí albunas opciones, o si eres de las personas que que estas buscando algo solo para pasar la noche y seguir tu camino en la mañana te dejaremos una opción aldfinal de este post.
 
@@ -275,9 +274,6 @@ height:"946"
 
 
 👉 **<a href="https://www.booking.com/hotel/co/luis-angel-mocoa.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-
-__Si quisieres un lugar más económico para hospedarte donde puedas dejar la moto__, te recomendamos buscar por la zona del terminal, aunque debes de saber que es una no muy recomendada para transitar muy tarde de la noche, los hospedajes que encontraras con residencias.
 
 
 #### POSADA KAUAI

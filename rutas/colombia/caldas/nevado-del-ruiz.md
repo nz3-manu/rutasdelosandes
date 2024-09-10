@@ -207,8 +207,6 @@ Este es el último punto al que se puede acceder, ya que por la alerta amarilla 
 Los hospedajes que encontrarás en el recorrido hacia el Nevado del Ruiz son limitados y además __debés de saber que no se permite acampar dentro de esta área protegida.__
 
 
-
-
 __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 ### -> HOSPEDAJE TERMALES DEL OTOÑO (VÍA NEVADO DEL RUIZ)
