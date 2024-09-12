@@ -198,31 +198,13 @@ height:"580"
 👉 **<a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
 
-
-
-
 Por otra parte, en Sapzurro es más limitado todo en cuanto a restaurantes, tiendas de abarrotes, lo que hace que sean muy pocos los turistas que frecuentan este corregimiento para hospedarse, son muchos los que solo visitan sus playas y regresan a capurgana.
-
-
 
 #### HOSPEDAJES MUCHO MAS ECONOMICOS 
 
-* __CAMPING EN SAPZURRO:__ En capurgana vas a poner encontrar zonas de camping por un precio de $20.000 pesos por persona, debes saber que los hospedajes en capurgana no quedan cerca de la playa.
+* __CAMPING EN SAPZURRO:__ En Sapzurro vas a poder encontrar zonas de camping por un precio de $25.000 pesos a $30.000 Pesos por persona,  estos hospedajes se encuentrana mano izquierda de donde te dejan las lancha, los nombres de los hospedajes son; Hospedaje el El Chileno y Sapzurro La Posada Hostal& Camping, estos 2 quedan uno cerca del otro.
 
-Aun así, podrás encontrar diferentes opciones de hospedaje y también, zonas de camping.
-
-
-Al llegar a Zapsurro pudimos ver 2 hospedajes que cuentan con zona de camping.
-
-* Hospedaje el ‘’El Chileno’’: Habitacion para pareja: $120.000 con vista al mar , zona de camping $30.000 pesos por persona, para zona de camping recomendamos este hospedaje, ya que te lo contaremos más adelante.
-
-
-* Sapzurro La Posada Hostal& Camping: valor habitación desde $122.000 pesos por persona con desayuno incluido, y zona de camping
-
-* Hospedaje Paraíso Cangrejales, este está ubicado al otro costado de Zapsurro, cuenta con unas payas linda, este hospedaje cuenta con muchas más comodidades que las que mencionamos anteriormente.
-
-
-Nos decidimos por la segunda opción Sapzurro La Posada Hostal Camping, la escogimos porque tiene una zona amplia y no había más personas acampando, pero no nos percatamos de algo y __era que no contaba con zona para la cocina__, así que si van a preparar alimentos tendrán que hacerlo en partes donde no allá césped y como pequeña sorpresa en la noche llegan muchos sapos 🐸 que caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅.
+__Recomendación:__ _Por estar estas zonas cerca a la montaña en la noche vas a resibir la visita algunos amigos inesperados sapos 🐸, ue caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅._
 
 
 <a name="csendero-capurgana" id="sendero-capurgana"></a>
