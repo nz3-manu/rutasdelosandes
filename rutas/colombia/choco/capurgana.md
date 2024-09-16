@@ -12,21 +12,17 @@ author: manuel
 
 # CAPURGANÁ
 
-
 En este post te mostraremos cómo llegar a Capurganá, un atractivo destino turístico para propios y extraños,el cual se caracteriza por su biodiversidad y bellas playas. Además, también te compartiremos las horas de salida de los botes, así como los alojamientos en Capurganá.
-
 
 Finalmente, te daremos algunas recomendaciones que debes de tener en cuenta a la hora de hospedarte, ya que todo depende de donde vayas a alojarte en Sapzurro o Capurgana.
 
 
-
-
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-*  <a href="#como-capurgana" > ¿Donde Queda Capurgana?</a>
-*  <a href="#hospedaje-capurgana" > Senderos En Capurganá Y Sapzurro</a>
-*  <a href="#tour-capurgana" > Tours Disponibles A Capurganá</a>
-*  <a href="#como-capurgana" >  Hospedajes Disponibles</a>
+*  <a href="#como-capurgana" > ¿Donde Queda Capurgana y como llegar?</a>
+*  <a href="#hospedaje-capurgana" > Rutas en Capurganá y Sapzurro</a>
+*  <a href="#tour-capurgana" > Tours disponibles para Capurganá</a>
+*  <a href="#como-capurgana" >  Hospedajes disponibles</a>
 *  <a href="#recomendacion-capurgana" > Recomendaciones Finales</a>
 
 
@@ -34,8 +30,6 @@ A continuación, te mostraremos toda la información de la ruta __Capurganá y S
 
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/choco/capurgana.html">See this post in English version 🇺🇸</a>]**
-
-
 
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">
@@ -63,31 +57,14 @@ Sus playas están rodeadas de aguas completamente cristalinas de un color azul l
 También se encuentra Sapzurro, otro corregimiento en el municipio de Acandí-Chocó. Y su nombre particular proviene del hecho de que lleva el nombre de una rana en el área llamada Sapzurro. Se desconoce si este mito es verdadero o no.
 
 
-
-
 <a name="como-capurgana" id="como-capurgana"></a>
-
-
 
 
 ## ¿DONDE QUEDA CAPURGANA Y COMO LLEGAR ✈️🚐?
 
-
-Capurganá es un corregimiento de Acandí cerca de la frontera con Panamá, perteneciente al departamento de Chocó, para llegar a Capurganá lo puedes hacer por tierra, llegando Necoclí perteneciente al departamento de Antioquia ubicado a 391 kilómetros de su capital Medellín y después tendrán que tomar un barco para llegar a este lugar que tarda en promedio 1 hora y 30 minutos.
-
+Capurganá es un corregimiento de Acandí, cerca de la frontera con Panamá, que pertenece al departamento de Chocó. Para llegar a Capurganá, puedes hacerlo por tierra, llegando a Necoclí, que pertenece al departamento de Antioquia y se encuentra a 391 kilómetros de su capital, Medellín. Desde Necoclí, deberás tomar un barco que tarda en promedio 1 hora y 30 minutos en llegar a Capurganá.
 
 Aquí te mostraremos cómo llegar desde Necoclí en bus o en avión desde las principales ciudades de Colombia.
-
-### ->  EN BUS HASTA NECOCLÍ 
-
-
-* __DESDE MEDELLÍN HASTA NECOCLÍ:__ Desde Medellín se aborda el bus de la empresa Sotras Urba, este sale del terminal del norte, el trayecto tiene una duración de 10 horas, sale a partir de las 6:30 am y aproximadamente cada 2 horas hasta las 10:00 pm, el __valor del transporte es de alrededor de $92.000 pesos__, Teléfono de empresa de transporte: <a href="tel:3173310050">
-3173310050 </a>
-
-
-* __DESDE BOGOTÁ A NECOCLÍ:__ Consultamos con algunas empresas de buses de Bogotá, y la única opción que nos dieron fue tomar un bus de Bogotá-Medellín, y de Medellín uno a Necoclí, como lo mencionamos anteriormente.
-
-__RECOMENDACIÓN:__ _Sí, vas a viajar en carro particular, o en moto, vas a tener que dejar tú vehículos en Necoclí, asegúrate de encontrar un parqueadero cubierto, ya que el sol allí es demasiado fuerte, además que sea un lugar que cuente con seguridad._
 
 ### ->  EN AVIÓN 🛫
 
@@ -97,33 +74,45 @@ El aeropuerto Capurganá lleva el nombre de _Narciza Navas de Capurganá_, debes
 
 * __DESDE MEDELLÍN A CAPURGANA EN AVIÓN:__ Capurganá cuenta con Aeropuerto propio, el cual tiene aeronaves que salen de Medellín hasta Capurganá, el cual dura alrededor de 1 hora aproximadamente y tiene un valor que oscila entre los 400.000 COP hasta los 5200.000 COP dependiendo de la aerolínea, una de la Aerolínea que viaja para allá es <a target="_blank" href="https://www.pacificatravel.com.co/"> Pacificatravel.</a>
 
+* __DESDE BOGOTA A ACANDÍ EN AVIÓN:__ Salen desde el aeropuerto El Dorado, en Bogotá, con una escala en Medellín. El valor del vuelo oscila entre 883.000 COP y 950.000 COP. Una de las aerolíneas que ofrece este servicio es <a target="_blank" href="https://www.satena.com/">Satena</a>, pero ten en cuenta que llega hasta Acandí. Desde allí, deberás tomar una lancha hasta Capurganá, que tarda aproximadamente 40 minutos.
 
-##  NECOCLÍ HASTA CAPURGANÁ 🛶
-
-Necocli es un municipio que hace parte del departamento de antioquia tiene aproximadamente 72.000 habitantes, Si vas en: bus, moto o carro, este es uno de los puntos más cerno para llegar Capurgana, allí tendras que tomar una lancha las cuales salen
-a partir de las __7:00 am, pero les recomendamos llegar a las 6:30 am__, ya que las lanchas salen con el grupo de personas en orden de llegada al puerto, el valor en lancha 🚤 es de aproximadamente $85.000 COP por persona y por trayecto el cual dura aproximadamente 1 hora y media en lancha.
-
-Para tomar la lancha se debe de ir al puerto, donde encoontrarán  dos empresas de lanchas. La más grande es la empresa Catamarán, la cual despacha lanchas todo el día, siempre y cuando, las lanchas llenen su cupo.
-
-__NOTA:__ _Necocli es municipio relativamente grande, con abundante comercio y también es el paso de muchos migrantes que van para Estados Unidos por el Tapón del Darién._
+### -> EN BUS HASTA NECOCLÍ 
 
 
-__RECOMENDACIÓN DE ALGUNOS HOSPEDAJES EN NECOCLÍ CON PARQUEADERO 🅿️:__ 
+* __DESDE MEDELLÍN HASTA NECOCLÍ:__ Desde Medellín se aborda el bus de la empresa Sotras Urba, este sale del terminal del norte, el trayecto tiene una duración de 10 horas, sale a partir de las 6:30 am y aproximadamente cada 2 horas hasta las 10:00 pm, el __valor del transporte es de alrededor de $92.000 pesos__, Teléfono de empresa de transporte: <a href="tel:3173310050">
+3173310050 </a>
 
-- 👉 **<a href="https://www.booking.com/hotel/co/almirante-rag.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Hotel Almirante Rag</a>**
-- 👉 **<a href="https://www.booking.com/hotel/co/cabanas-la-moraleja-paraiso-costero.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Cabañas La Moraleja Paraíso Costero</a>**
 
-__NOTA:__ _Recuerda siempre hacer la reserva por Booking así tendrás garantía de una plataforma para que no te llegue a pasar que te cancelen la reserva a última hora._
+* __DESDE BOGOTÁ A NECOCLÍ:__ Consultamos con algunas empresas de buses de Bogotá, y la única opción que nos dieron fue tomar un bus de Bogotá-Medellín, y de Medellín uno a Necoclí, como lo mencionamos anteriormente.
 
+###  ->  DESDE NECOCLÍ HASTA CAPURGANÁ 🛥️
+
+Al llegar a Necoclí, deberás tomar una lancha, que comienza a salir a _partir de las 7:00 a.m._. Sin embargo, te recomendamos llegar a las 6:30 a.m., ya que las lanchas parten en el orden de llegada de los pasajeros al puerto. El costo del trayecto es de aproximadamente $90.000 COP por persona y tiene una duración de alrededor de 1 hora y media.
+
+Para tomar la lancha, deberás dirigirte al puerto, donde encontrarás dos empresas de transporte marítimo. La más grande es Catamarán, que despacha lanchas durante todo el día, siempre y cuando se complete el cupo necesario de pasajeros.
+
+__NOTA:__ _Necoclí es un municipio relativamente grande, con un comercio activo y es un punto de paso para muchos migrantes que se dirigen hacia Estados Unidos a través del Tapón del Darién. Si viajas en vehículo, es importante que busques un parqueadero con seguridad. A continuación, te dejamos algunas recomendaciones de hospedajes que cuentan con parqueadero_
+
+
+__RECOMENDACIÓN DE ALGUNOS HOSPEDAJES EN NECOCLÍ CON PARQUEADERO 🅿️:__
+
+
+Nosotros siempre realizamos las reservas a través de la plataforma Booking, ya que nos brinda la seguridad de contar con un servicio confiable, evitando así problemas como cancelaciones de última hora o cargos adicionales inesperados por parte del hotel.
+
+- **<a href="https://www.booking.com/hotel/co/almirante-rag.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Hotel Almirante Rag</a>**
+- **<a href="https://www.booking.com/hotel/co/cabanas-la-moraleja-paraiso-costero.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Cabañas La Moraleja Paraíso Costero</a>**
+
+
+Una vez en Capurganá, podrás explorar los distintos senderos disponibles que te mostraremos aquí. Cada uno ofrece una experiencia única y te permitirá disfrutar de la naturaleza y los paisajes de la región caribe.
 
 <a name="csendero-capurgana" id="sendero-capurgana"></a>
 
-## SENDEROS EN CAPURGANÁ Y SAPZURRO 🌊
+## RUTAS EN CAPURGANÁ Y SAPZURRO 🌊
 
-Aquí dividimos los senderos entre Capurganá y Sapzurro, ya que algunos lugares están más cerca saliendo de uno de estos dos sitios que del otro. Esto te permitirá planificar cuántos días quedarte en Capurganá, visitar los lugares que desees y luego ir a Sapzurro para pasar algunas noches y conocer lo que te falte.
+Hemos dividido los senderos entre Capurganá y Sapzurro, para que puedas planificar mejor tu visita. Esto te permitirá decidir cuántos días quedarte en cada lugar y aprovechar al máximo los sitios de interés cercanos.
 
 
-### -> SENDEROS EN CAPURGANÁ 
+### -> RUTA EN CAPURGANÁ 
 
 Aquí te dejamos algunos de los senderos más visitados por turistas cuando visitan este lugar.
 
@@ -186,7 +175,7 @@ __DATOS TECNICOS:__
 -- FOTO -- 
 
 
-### -> SENDEROS EN SAPZURRO
+### -> RUTA EN SAPZURRO
 
 Sapzurro es famoso por tener unas de las playas más bonitas del Mar Caribe en las que te podrás conectar con la naturaleza y maravillarte con el encanto de las aguas cristalinas.
 
