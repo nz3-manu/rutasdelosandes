@@ -317,7 +317,7 @@ El Reciclarte Galería Hostal se encuentra en Capurganá, a 100 metros de la pla
 
 <a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/choco/capurgana/hospedaje-capurgana/Reciclarte-galería-hostal.jpg",
+file:"rutas/choco/capurgana/hospedaje-capurgana/Reciclarte-galeria-hostal.jpg",
 caption:"Foto: Reciclarte Galería Hostal",
 width:"1000",
 height:"578"
