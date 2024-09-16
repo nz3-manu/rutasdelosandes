@@ -4,7 +4,7 @@ title: Capurgana
 categories: colombia
 aseo_title: Capurganá-Chocó, Guia completa | Actualizada 2024
 excerpt: Conoce como llegar a Capurganá, descubre costos de transporte, hospedaje y consejos para hacer mucho mejor este viaje.
-images_url: /images/rutas/chocó/capurganá
+images_url: /images/rutas/choco/capurgana
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
@@ -44,11 +44,9 @@ height:"200"
 
 <a name="dato-capurgana" id="dato-capurgana"></a>
 
-
 ## DATOS CURIOSOS DE CAPURGANÁ
 
-
-Capurganá es un corregimiento del municipio de Acandí-Chocó, ubicado en la frontera con Panamá, a pocos kilómetros de la exuberante y extensa selva de Darién. Su nombre, que en español traduce __’’TIERRA DEL AJÍ__, se debe a que fue bautizado por los Kunas, antiguas comunidades indígenas quienes habitaron la isla hasta finales del Siglo XX hasta que fueron desplazados por comunidades afrodescendientes provenientes de Cartagena.
+Capurganá es un corregimiento del municipio de Acandí-Chocó, ubicado en la frontera con Panamá, a pocos kilómetros de la exuberante y extensa selva de Darién. Su nombre, que en español traduce __’’TIERRA DEL AJÍ’’__, se debe a que fue bautizado por los Kunas, antiguas comunidades indígenas quienes habitaron la isla hasta finales del Siglo XX hasta que fueron desplazados por comunidades afrodescendientes provenientes de Cartagena.
 
 
 Sus playas están rodeadas de aguas completamente cristalinas de un color azul limpio y claro por los fondos arenosos. Además cuenta con un aeropuerto llamado El Navas, construido por los mismos habitantes de la zona con sus mismos fondos hace un poco más de 20 años.
@@ -107,7 +105,7 @@ Una vez en Capurganá, podrás explorar los distintos senderos disponibles que t
 
 <a name="csendero-capurgana" id="sendero-capurgana"></a>
 
-## RUTAS EN CAPURGANÁ Y SAPZURRO 🌊
+## RUTAS EN CAPURGANÁ Y SAPZURRO 
 
 Hemos dividido los senderos entre Capurganá y Sapzurro, para que puedas planificar mejor tu visita. Esto te permitirá decidir cuántos días quedarte en cada lugar y aprovechar al máximo los sitios de interés cercanos.
 
@@ -146,7 +144,15 @@ __DATOS TECNICOS:__
 - __Tiempo total:__ 3 horas.
 - __Color de la linea en el mapa:__ Verde.
 
--- FOTO -- 
+{% include image.html,
+file:"rutas/choco/capurgana/bahia-aguacate.jpg",
+caption:"Bahia aguacate",
+width:"1080",
+height:"1349"
+%}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/melocapurgana/"  target="_blank"> @melocapurgana </a> </span>__
+
 
 #### LA PISCINA DE LOS DIOSES
 
@@ -158,8 +164,14 @@ __DATOS TECNICOS:__
 - __Tiempo total:__ 2 horas.
 - __Color de la linea en el mapa:__ Morado.
 
--- FOTO -- 
+{% include image.html,
+file:"rutas/choco/capurgana/Piscina-de-los-dioses.jpg",
+caption:"Piscina De Los Dioses",
+width:"1080",
+height:"1079"
+%}
 
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/valentinapuertaosorio/"  target="_blank"> @valentinapuertaosorio </a> </span>__
 
 #### MIRADOR DEL CIELO
 
@@ -172,8 +184,14 @@ __DATOS TECNICOS:__
 - __Color de la linea en el mapa:__ Vinotinto.
 
 
--- FOTO -- 
+{% include image.html,
+file:"rutas/choco/capurgana/Reserva-natural-el-cielo.jpg",
+caption:"Reserva Natural el Cielo Mirador",
+width:"1024",
+height:"576"
+%}
 
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/lilianajuvinao/"  target="_blank"> @lilianajuvinao </a> </span>__
 
 ### -> RUTA EN SAPZURRO
 
@@ -217,6 +235,9 @@ caption:"Playa la Miel",
 width:"1000",
 height:"875"
 %}
+
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27/"  target="_blank"> @alejora.27 </a> </span>__
 
 
 Al llegar a la montaña, encontrarás una base militar de Panamá y Colombia. Al final del descenso desde la montaña a la playa, tendrá que pagar aproximadamente $3.000 COP para ingresar a las playas de Panamá.
