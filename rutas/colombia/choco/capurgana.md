@@ -3,31 +3,39 @@ layout: trail
 title: Capurgana
 categories: colombia
 aseo_title: Capurganá-Chocó, Guia completa | Actualizada 2024
-excerpt: Conoce como llegar a Capurgana, descubre costos de transporte, hospedaje y consejos para hacer mucho mejor este viaje.
-images_url: /images/rutas/choco/capurgana
+excerpt: Conoce como llegar a Capurganá, descubre costos de transporte, hospedaje y consejos para hacer mucho mejor este viaje.
+images_url: /images/rutas/chocó/capurganá
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
 
+
 # CAPURGANÁ
 
-En este post te mostraremos cómo llegar a Capurganá, un popular destino turístico para turistas de todo el mundo, por su biodiversidad y bellas playas. Además, también compartiremos las horas de salida de los botes, así como los alojamientos en Capurganá.
 
-Finalmente, te daremos algunas recomendaciones que debes de tener en cuenta al hospedarte, ya que todo depende de donde vayas a hospedarte en Sapzurro o Capurgana.
+En este post te mostraremos cómo llegar a Capurganá, un atractivo destino turístico para propios y extraños,el cual se caracteriza por su biodiversidad y bellas playas. Además, también te compartiremos las horas de salida de los botes, así como los alojamientos en Capurganá.
+
+
+Finalmente, te daremos algunas recomendaciones que debes de tener en cuenta a la hora de hospedarte, ya que todo depende de donde vayas a alojarte en Sapzurro o Capurgana.
+
+
 
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-*  <a href="#dato-capurgana" > Datos curiosos de Capurganá</a>
-*  <a href="#como-capurgana" > ¿Cómo llegar a Capurganá?</a>
-*  <a href="#como-capurgana" > Hospedajes disponibles</a>
-*  <a href="#hospedaje-capurgana" > Senderos en Capurganá </a>
-*  <a href="#tour-capurgana" > Tour disponibles a Capurgana</a>
-*  <a href="#recomendacion-capurgana" > Recomendaciones finales para visitar Capurganá</a>
+*  <a href="#como-capurgana" > ¿Donde Queda Capurgana?</a>
+*  <a href="#hospedaje-capurgana" > Senderos En Capurganá Y Sapzurro</a>
+*  <a href="#tour-capurgana" > Tours Disponibles A Capurganá</a>
+*  <a href="#como-capurgana" >  Hospedajes Disponibles</a>
+*  <a href="#recomendacion-capurgana" > Recomendaciones Finales</a>
+
 
 A continuación, te mostraremos toda la información de la ruta __Capurganá y Sapzurro__ . Sin más preámbulo, empecemos ⛰.
 
+
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/choco/capurgana.html">See this post in English version 🇺🇸</a>]**
+
+
 
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">
@@ -39,156 +47,319 @@ height:"200"
 %}
 </a>
 
+
 <a name="dato-capurgana" id="dato-capurgana"></a>
+
 
 ## DATOS CURIOSOS DE CAPURGANÁ
 
-Capurganá es un corregimiento del municipio de Acandí-Chocó, ubicado en la frontera con Panamá, a pocos kilómetros de la exuberante y extensa selva de Darién. Su nombre, que en español traduce __’’TIERRA DEL AJÍ__, se debe a que fue bautizado por los Kunas, antiguas comunidades indígenas quienes habitaron la isla hasta finales del Siglo XX hasta que fueron desplazados por comunidades afrodescendientes provenientes de Cartagena.
 
+Capurganá es un corregimiento del municipio de Acandí-Chocó, ubicado en la frontera con Panamá, a pocos kilómetros de la exuberante y extensa selva de Darién. Su nombre, que en español traduce __’’TIERRA DEL AJÍ__, se debe a que fue bautizado por los Kunas, antiguas comunidades indígenas quienes habitaron la isla hasta finales del Siglo XX hasta que fueron desplazados por comunidades afrodescendientes provenientes de Cartagena.
 
 
 Sus playas están rodeadas de aguas completamente cristalinas de un color azul limpio y claro por los fondos arenosos. Además cuenta con un aeropuerto llamado El Navas, construido por los mismos habitantes de la zona con sus mismos fondos hace un poco más de 20 años.
 
 
-También se encuentra Sapzurro, otro corregimiento en el municipio de Acandí-Chocó. Y su nombre particular proviene del hecho de que lleva el nombre de una rana en el área llamada Sapzurro. Se desconoce si ese mito es verdadero o no.
+También se encuentra Sapzurro, otro corregimiento en el municipio de Acandí-Chocó. Y su nombre particular proviene del hecho de que lleva el nombre de una rana en el área llamada Sapzurro. Se desconoce si este mito es verdadero o no.
+
+
 
 
 <a name="como-capurgana" id="como-capurgana"></a>
 
 
-## ¿CÓMO LLEGAR A CAPURGANÁ 🚐 🛫?
 
 
-Lo que debes de saber es que para Capurgana solo se puede llegar en lancha o avión, si vas en bus tendrás que llegar a Necoclí, este es un municipio antioqueño que limita con el norte con el mar caribe, está ubicado a 391 kilómetros de su capital Medellín.
+## ¿DONDE QUEDA CAPURGANA Y COMO LLEGAR ✈️🚐?
 
 
+Capurganá es un corregimiento de Acandí cerca de la frontera con Panamá, perteneciente al departamento de Chocó, para llegar a Capurganá lo puedes hacer por tierra, llegando Necoclí perteneciente al departamento de Antioquia ubicado a 391 kilómetros de su capital Medellín y después tendrán que tomar un barco para llegar a este lugar que tarda en promedio 1 hora y 30 minutos.
 
 
-### -> DESDE MEDELLÍN HASTA NECOCLÍ EN BUS 🚐
+Aquí te mostraremos cómo llegar desde Necoclí en bus o en avión desde las principales ciudades de Colombia.
+
+### ->  EN BUS HASTA NECOCLÍ 
 
 
-Desde Medellín se aborda el bus de la empresa Sotras Urba, este sale del terminal del norte, el trayecto tiene una duración de 10 horas, sale a partir de las 6:30 am y aproximadamente cada 2 horas hasta las 10:00 pm, el __valor del transporte es de alrededor de $92.000 pesos__, Teléfono de empresa de transporte: <a href="tel:3173310050">
+* __DESDE MEDELLÍN HASTA NECOCLÍ:__ Desde Medellín se aborda el bus de la empresa Sotras Urba, este sale del terminal del norte, el trayecto tiene una duración de 10 horas, sale a partir de las 6:30 am y aproximadamente cada 2 horas hasta las 10:00 pm, el __valor del transporte es de alrededor de $92.000 pesos__, Teléfono de empresa de transporte: <a href="tel:3173310050">
 3173310050 </a>
 
 
-### -> DESDE MEDELLÍN A CAPURGANA EN AVIÓN 🛬
-
-
-Como mencionamos anteriormente, Capurganá cuenta con Aeropuerto propio, el cual tiene aeronaves que salen de Medellín hasta Capurganá, el cual dura alrededor de 1 hora aproximadamente y tiene un valor que oscila entre los 400.000 COP hasta los 5200.000 COP dependiendo de la aerolínea, una de la Aerolínea que viaja para allá es Pacificatravel.
-
-
-
-### -> DESDE BOGOTÁ A NECOCLÍ  🚐
-
-
-Consultamos con algunas empresas de buses de Bogotá, y la única opción que nos dieron fue tomar un bus de Bogotá-Medellín, y de Medellín uno a Necoclí, como lo mencionamos anteriormente.
-
+* __DESDE BOGOTÁ A NECOCLÍ:__ Consultamos con algunas empresas de buses de Bogotá, y la única opción que nos dieron fue tomar un bus de Bogotá-Medellín, y de Medellín uno a Necoclí, como lo mencionamos anteriormente.
 
 __RECOMENDACIÓN:__ _Sí, vas a viajar en carro particular, o en moto, vas a tener que dejar tú vehículos en Necoclí, asegúrate de encontrar un parqueadero cubierto, ya que el sol allí es demasiado fuerte, además que sea un lugar que cuente con seguridad._
 
-##  NECOCLÍ HASTA CAPURGANA 🛶
-
-Como bien se sabe, Necoclí es la tierra del jugador de fútbol, Juan Guillermo Cuadrado. Además de ser la tierra del deportista colombiano, es un municipio relativamente grande, con abundante comercio y tambien es el paso de muchos migrantes que van para estados Unidos por el Tapon del Darien .
+### ->  EN AVIÓN 🛫
 
 
-Dicho esto, una vez llegas a Necoclí, podrás encontrar diferentes opciones de hospedaje tanto en hoteles como en hostales, y los precios varían desde los __$60.000 COP hasta los $120.000 COP la noche por persona__.
+El aeropuerto Capurganá lleva el nombre de _Narciza Navas de Capurganá_, debes tener en cuenta que hay otro aeropuerto que queda en Acandí el cual lleva el nombre de _Alcides Fernández_, este queda a unos 40 minutos en lancha de Capurganá, para que lo tengas en cuenta, al momento de comprar tus tiquetes.
 
 
-Nosotros como llegamos a las 5:00 pm a Necocli decidimos hospedarnos por 1 noche, para el día siguiente abordar la lancha hacia Capurganá.
+* __DESDE MEDELLÍN A CAPURGANA EN AVIÓN:__ Capurganá cuenta con Aeropuerto propio, el cual tiene aeronaves que salen de Medellín hasta Capurganá, el cual dura alrededor de 1 hora aproximadamente y tiene un valor que oscila entre los 400.000 COP hasta los 5200.000 COP dependiendo de la aerolínea, una de la Aerolínea que viaja para allá es <a target="_blank" href="https://www.pacificatravel.com.co/"> Pacificatravel.</a>
 
 
-Las salidas en lancha empiezan a partir de las __7:00 am, pero les recomendamos llegar a las 6:30 am__, ya que las lanchas salen con el grupo de personas en orden de llegada al puerto, el valor en lancha 🚤 es de aproximadamente __$85.000 COP__ por persona y por trayecto el cual dura aproximadamente 1 hora y media en lancha.
+##  NECOCLÍ HASTA CAPURGANÁ 🛶
+
+Necocli es un municipio que hace parte del departamento de antioquia tiene aproximadamente 72.000 habitantes, Si vas en: bus, moto o carro, este es uno de los puntos más cerno para llegar Capurgana, allí tendras que tomar una lancha las cuales salen
+a partir de las __7:00 am, pero les recomendamos llegar a las 6:30 am__, ya que las lanchas salen con el grupo de personas en orden de llegada al puerto, el valor en lancha 🚤 es de aproximadamente $85.000 COP por persona y por trayecto el cual dura aproximadamente 1 hora y media en lancha.
+
+Para tomar la lancha se debe de ir al puerto, donde encoontrarán  dos empresas de lanchas. La más grande es la empresa Catamarán, la cual despacha lanchas todo el día, siempre y cuando, las lanchas llenen su cupo.
+
+__NOTA:__ _Necocli es municipio relativamente grande, con abundante comercio y también es el paso de muchos migrantes que van para Estados Unidos por el Tapón del Darién._
 
 
-En el puerto, funcionan dos empresas de lanchas. La más grande es la empresa Katamarán, la cual despacha lanchas todo el día, siempre y cuando, las lanchas llenen su cupo.
+__RECOMENDACIÓN DE ALGUNOS HOSPEDAJES EN NECOCLÍ CON PARQUEADERO 🅿️:__ 
+
+- 👉 **<a href="https://www.booking.com/hotel/co/almirante-rag.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Hotel Almirante Rag</a>**
+- 👉 **<a href="https://www.booking.com/hotel/co/cabanas-la-moraleja-paraiso-costero.en.html?aid=1491718&no_rooms=1&group_adults=2"  target="_blank">Cabañas La Moraleja Paraíso Costero</a>**
+
+__NOTA:__ _Recuerda siempre hacer la reserva por Booking así tendrás garantía de una plataforma para que no te llegue a pasar que te cancelen la reserva a última hora._
 
 
-Durante el recorrido van a ver algunos emigrantes quienes cruzan el tapón del Darién, quienes desembarcan en Capurganá, y traspasan la frontera hacia Panamá.
+<a name="csendero-capurgana" id="sendero-capurgana"></a>
+
+## SENDEROS EN CAPURGANÁ Y SAPZURRO 🌊
+
+Aquí dividimos los senderos entre Capurganá y Sapzurro, ya que algunos lugares están más cerca saliendo de uno de estos dos sitios que del otro. Esto te permitirá planificar cuántos días quedarte en Capurganá, visitar los lugares que desees y luego ir a Sapzurro para pasar algunas noches y conocer lo que te falte.
 
 
-Una vez desembarcamos en Capurganá, el dueño de la lancha nos dijo que era el pueblo más grande del Chocó, y alrededor hay varios corregimientos, uno de ellos es Sapzurro, el cual es el que está ubicado en la frontera con Panamá.
+### -> SENDEROS EN CAPURGANÁ 
+
+Aquí te dejamos algunos de los senderos más visitados por turistas cuando visitan este lugar.
+
+#### MAPA DE LAS RUTAS REALIZADAS EN CAPURGANA Y SAPZURRO
+
+En el mapa puedes observar 5 lineas, cada una de estas lineas corresponde a un sendero.
+
+- __Linea vinottindo:__ Reserva al cielo desde Capurgana
+- __Linea verde:__ Bahia aguacate dede Capurgana
+- __Linea morada:__ Piscina de los Dioses desde Capurgana
+- __Linea amarilla:__ Playa la Miel desde Capurgana
+- __Linea azul:__ Playa Cabo tiburon desde Sapzurro.
+
+
+{% include iframe.html,
+type:"custom",
+mid:"12_A2OB2ZpuMXY1l4YaP4GvjLmf1UOY0&hl=es&ehbc=2E312F",
+caption:"Mapa: Rutas de senderismo en Capurgana"
+%}
+
+ 
+#### BAHÍA AGUACATE
+
+
+La caminata transcurre por playas rocosas y bosques, llevando hasta una bahía con una playa de arena negra y piedras. Durante el verano, el oleaje suele ser fuerte. Es recomendable llevar agua potable y almuerzo, aunque al llegar a la bahía también puedes encargar un delicioso almuerzo de pescado fresco.
+
+Para aprovechar mejor la experiencia, se sugiere comenzar la caminata temprano. El regreso puede hacerse a pie o en lancha, según prefieras.
+
+__DATOS TECNICOS:__
+- __Distancia total:__ 5,4 kilometros.
+- __Tiempo total:__ 3 horas.
+- __Color de la linea en el mapa:__ Verde.
+
+-- FOTO -- 
+
+#### LA PISCINA DE LOS DIOSES
+
+
+Se trata de una piscina natural de agua salada, creada por formaciones rocosas, cuyo nivel de agua se renueva con las mareas. Es un pozo profundo que cuenta con cuerdas de seguridad para mayor protección. Es fundamental elegir un buen calzado, ya que las rocas suelen ser resbalosas y podrían provocar caídas.
+
+__DATOS TECNICOS:__
+- __Distancia total:__ 2 kilometros.
+- __Tiempo total:__ 2 horas.
+- __Color de la linea en el mapa:__ Morado.
+
+-- FOTO -- 
+
+
+#### MIRADOR DEL CIELO
+
+
+Es un sendero ubicado en pleno centro de la selva con una piscina de agua cristalina. Además, es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad de la naturaleza, y apreciar la naturaleza de esta zona, como los monos. En este sendero te recomendamos tener cuidado, ya que van a tener que cruzar varias partes del río, se recomienda tener los tenis adecuados he ir con un guía local.
+
+__DATOS TECNICOS:__
+- __Distancia total:__ 4,7 kilometros.
+- __Tiempo total:__ 4 horas.
+- __Color de la linea en el mapa:__ Vinotinto.
+
+
+-- FOTO -- 
+
+
+### -> SENDEROS EN SAPZURRO
+
+Sapzurro es famoso por tener unas de las playas más bonitas del Mar Caribe en las que te podrás conectar con la naturaleza y maravillarte con el encanto de las aguas cristalinas.
+
+__NOTA:__ De capurgana hasta Sapzurro hay un sendero de aproximadamente 5,4 kilometros por la montaña, donde tendran que pagar un ingreso para pasar por este lugar, es una ascenso un poco fuerte.
+
+#### CABO TIBURÓN
+
+
+Entre los diferentes senderos en Sapzurro, está el recorrido hacia Cabo Tiburón, el cual es famoso porque fue el lugar donde se han grabado varias ediciones del Desafío. Esta ruta la podrás realizar en unos 20-30 minutos, ida y vuelta tardará al menos 1 hora desde el centro de Sapzurro.
+
+__DATOS TECNICOS:__
+
+- __Distancia total:__  4,4 kilometros.
+- __Tiempo total:__ 1 horas.
+- __Color de la linea en el mapa:__ Azul.
+
+
+{% include image.html,
+file:"rutas/choco/capurgana/cabo-tiburon.jpeg",
+caption:"Cabo Tiburón",
+width:"1000",
+height:"875"
+%}
+
+#### PLAYA LA MIEL
+
+
+La otra ruta que pueden hacer, y por cierto, es la razón de que muchas personas van a este lugar, es para visitar Playa La Miel, la cual se encuentra en Panamá, y tiene una distancia de 1.5 Kilómetros desde Sapzurro hasta la playa, la cual podrás realizar en unos 30 minutos yendo hasta el fondo de la playa subiendo unas escaleras hasta el pico de la montaña.
+
+__DATOS TECNICOS:__
+
+- __Distancia total:__ 3 kilometros.
+- __Tiempo total:__ 2 horas.
+- __Color de la linea en el mapa:__ Naranja.
+
+{% include image.html,
+file:"rutas/choco/capurgana/la-miel.jpeg",
+caption:"Playa la Miel",
+width:"1000",
+height:"875"
+%}
+
+
+Al llegar a la montaña, encontrarás una base militar de Panamá y Colombia. Al final del descenso desde la montaña a la playa, tendrá que pagar aproximadamente $3.000 COP para ingresar a las playas de Panamá.
+
+
+<a name="tour-capurgana" id="tour-capurgana"></a>
+
+
+##  TOUR DISPONIBLE 🧳
+
+Aquí te mostraremos los distintos tours que puedes tomar para ir a capurgana tanto si quisieras un plan todo incluido desde Medellin o un pasadía desde Necoclí.
+
+
+### -> TOUR COMPLETO DESDE MEDELLÍN
+
+Este tour es ideal si quieres un viaje con mas comodidad, donde no tengas que conducir por muchas horas y despes tomar una lancha para llegar hasta allí. 
+
+__INCLUYE:__
+
+- Traslado Medellín en avión 
+- 3 dias de alojamiento en Hotel 
+- Alimentación: Desayuno, almuerzo y cena por noche de alojamiento
+- Bar abierto; Todo servido por tragos de 2pm a 9pm; licores importados y cocteles de la casa 
+- Utilización de piscina, jacuzzi y discoteca
+- Uso de TV y WiFi en zonas comunes
+- Seguro hotelero
+- Tarjeta de asistencia médica
+- Lugares a visitar: Excursión marítima a Sapzurro y La Miel con almuerzo
+
+__Valor del tour por persona:__ $2.220.000 Pesos o $2.475.000 Pesos en temporada alta.
+
+
+
+### -> PASADÍA DESDE NECOCLÍ
+
+Uno de  los tours que encontrarás desde Necoclí para Capurgana, es un paseo en lancha de 1 día, donde visitarán algunos sitios turisticos de Capurgana y Sapzurro.
+
+__INCLUYE:__
+- Lugares a visitar: Sapzurro y  La miel (Panama).
+- Almuerzo
+- Transporte en lancha desde Necoclí
+- Seguro de asistencia médica
+
+__Valor del tour por persona:__ $190.000 Pesos por persona
+
 
 
 <a name="hospedaje-capurgana" id="hospedaje-capurgana"></a>
 
+
 ## HOSPEDAJES DISPONIBLE 🛏️
 
 
-Si eres de esas personas que les gusta la rumba 🍾, el ocio, comodidades como: corresponsales bancarios, restaurantes, supermercados, etc... Pueden hospedarse en Capurganá, por otra parte, si vas en plan de leer un libro y que nadie incomode, Sapzurro será tu mejor opción.
+Aquí te mostraremos las diferentes opciones de hospedaje que encontramos. Debes saber que Capurganá se encuentra a 15 minutos en lancha de Sapzurro, hemos puesto los links de reserva a través de Booking, ya que es muy segura y en la cual nunca hemos tenido problemas al momento de hacer reservas o cancelaciones.
 
 
-### -> HOSPEDAJE EN CAPURGANÁ 
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
-En Capurganá, los hospedajes varían desde __$50.000 COP hasta $80.000 COP__ por persona y por noche, tambien vas a poder encontrar zonas de camping ⛺️ por un precio de alrededor __$30.000 pesos__ por persona, debes tener encuenta que las zonas de camping en capurgana no quedan alfrente de la playa.
 
-### -> HOTELES ECONOMICOS EN CAPURGANÁ
+### -> HOSPEDAJE EN CAPURGANÁ
 
 
-Si estás buscando un hospedaje bueno bonito y barato te dejaremos aquí albunas opciones, o si eres de las personas que que estas buscando algo solo para pasar la noche y seguir tu camino en la mañana te dejaremos una opción aldfinal de este post.
+Si eres de esas personas que les gusta la rumba 🍾 Y comodidades como: restaurantes, supermercados Y corresponsales bancarios  etc... te recomendamos hospedarte en Capurganá.
 
 
 #### BLUE BAYOU
 
 
-Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+El Blue Bayou Capurganá es un establecimiento recientemente reformado situado en Capurganá, a 300 metros de la playa de Capurganá, y ofrece jardín y vistas al jardín.
 
-
-* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
-* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
-* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $320.640 pesos
+* __Lugares cercanos:__ A 250 metros, se encuentra la playa Capurganá, y a 1.9 kilometros, Reserva Natural El Cielo
+* __Servicios:__ Vista del patio interior, Baño privado, TV de pantalla plana, WiFi gratis, Artículos de aseo gratuitos, Ducha y servicio de Streaming como Netflix
 
 
 <a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/choco/capurgana-choco/hospedaje-capurgana/BlueBayou.capurgana.jpg",
+file:"rutas/choco/capurgana/hospedaje-capurgana/BlueBayou.capurgana.jpg",
 caption:"Foto: Hotel Blue Bayou",
 width:"1200",
 height:"688"
 %}
 </a>
 
-
 👉 **<a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
 
 #### RECICLARTE GALERÍA HOSTAL
 
-Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
 
-* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
-* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
-* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+El Reciclarte Galería Hostal se encuentra en Capurganá, a 100 metros de la playa de Capurganá, se caracteriza por tener las siguientes características propias de un hotel top:
+
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $300.000 Pesos.
+* __Lugares cercanos:__ A tan solo 1,2 kilómetros se encuentra el Parque Natural el Cielo, a 50 metros, Playa Capurganá  y a 4,4 kilómetros, Playa Sapzurro.l
+* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratuitos, ventilador, refrigerador y terraza.
+
 
 <a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/choco/capurgana-choco/hospedaje-capurgana/Reciclarte-galería-hostal.jpg",
+file:"rutas/choco/capurgana/hospedaje-capurgana/Reciclarte-galería-hostal.jpg",
 caption:"Foto: Reciclarte Galería Hostal",
 width:"1000",
 height:"578"
 %}
 </a>
 
+
 👉 **<a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
-#### HOSPEDAJES MUCHO MAS ECONOMICOS 
 
-* __CAMPING EN CAPURGANA:__ En capurgana vas a poner encontrar zonas de camping por un precio de $20.000 pesos por persona, debes saber que los hospedajes en capurgana no quedan cerca de la playa.
+####  ZONAS DE CAMPING EN CAPURGANÁ
+
+* __JARAVID HOSTAL:__ En Capurganá vas a encontrar zonas de camping por un precio de $25.000 pesos por persona. Debes saber que los hospedajes en Capurganá no quedan cerca de la playa.
 
 
 ### -> HOSPEDAJE EN SAPZURRO
 
+En Sapzurro es más limitado encontrar gran variedad de restaurantes o incluso tiendas de abarrotes, por esta razón muchos hoteles cuentan con restaurantes, donde ofrecen gran variedad de menús, además debes de saber que no vas a encontrar corresponsal bancarios para retirar dinero.
+
 #### CASA HOTEL LA MARIELA
 
-Este hotel se encuentra cerca al Monumento al olvido y al barrio La Esmeralda. Este hotel se caracteriza por ser low-cost e incluye lo siguiente:
+El Casa Hotel La Mariela se encuentra en Sapzurro, a 1,6 km de la playa de Capurganá y a 2,6 km de Playas Sapzurro y ofrece habitaciones con aire acondicionado y baño privado, además tiene las siguientes características de un hotel top
 
-* __Precio promedio:__ El valor de hospedaje para 2 personas es de $95.000 Pesos.
-* __Lugares cercanos:__ A tan solo 100 metros se encuentra el Parque Central Mocoa, a menos de 1 kilómetro, se encuentran restaurantes y cafeterías.
-* __Servicios:__ Televisor pantalla plana, Wifi gratis, artículos de aseo gratis, ventilador, gimnasio y traslado al aeropuerto.
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $631.800 aproximadamente
+* __Lugares cercanos:__ A 1,5 kilometros de las principales cafeterías, bares y restaurantes, y a 1,9 kilómetros del Parque Natural El Cielo
+* __Servicios:__ Servicio de habitación, Wi Fi, restaurante, desayuno, aire acondicionado, baño privado, patio, y smart TV con canales satelitales. 
+
 
 <a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/choco/capurgana-choco/hospedaje-capurgana/Casa-hotel-la-mariela.jpg",
+file:"rutas/choco/capurgana/hospedaje-capurgana/Casa-hotel-la-mariela.jpg",
 caption:"Foto: Casa Hotel La Mariela",
 width:"1000",
 height:"580"
@@ -198,123 +369,68 @@ height:"580"
 👉 **<a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
 
-Por otra parte, en Sapzurro es más limitado todo en cuanto a restaurantes, tiendas de abarrotes, lo que hace que sean muy pocos los turistas que frecuentan este corregimiento para hospedarse, son muchos los que solo visitan sus playas y regresan a capurgana.
+#### CAFE DEL MAR SAPZURRO
 
-#### HOSPEDAJES MUCHO MAS ECONOMICOS 
+El Cafe del Mar Sapzurro ofrece vistas al mar y alojamiento con jardín y balcón a unos pasos de Playas Sapzurro. Este establecimiento frente al mar ofrece acceso a una terraza.También  tiene las siguientes características: 
 
-* __CAMPING EN SAPZURRO:__ En Sapzurro vas a poder encontrar zonas de camping por un precio de $25.000 pesos a $30.000 Pesos por persona,  estos hospedajes se encuentrana mano izquierda de donde te dejan las lancha, los nombres de los hospedajes son; Hospedaje el El Chileno y Sapzurro La Posada Hostal& Camping, estos 2 quedan uno cerca del otro.
-
-__Recomendación:__ _Por estar estas zonas cerca a la montaña en la noche vas a resibir la visita algunos amigos inesperados sapos 🐸, ue caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅._
-
-
-<a name="csendero-capurgana" id="sendero-capurgana"></a>
-
-## SENDEROS EN CAPURGANÁ 🚤
-
-En Capurganá y Sapzurro podrás encontrar diferentes senderos, los cuales podrás realizar mientras disfrutas de la estadía en esta hermosa Isla. A continuación te describiremos los dos senderos que vimos.
-
-### ->  BAHÍA AGUACATE
-Este recorrido se hace a pie desde el Hostal Playas de Capurgana a tan solo 1 Kilómetro del pueblo. Cuando sales del pueblo, se toma la ruta que sale del aeropuerto de Capurganá, además, se cruza por el río Capurganá el cual conduce hasta Bahía Aguacate.
-
--- foto --
-
-Este sendero es de complejidad media, puesto que es algo inclinado, con peñascos al borde del mar y en el barranco, encontrarás unas barras de soporte. Este recorrido es de aproximadamente 2.7 kilómetros y podrás realizarlo en 2 horas y media dependiendo del estado del sendero.
+* __Precio promedio:__ El valor de hospedaje para 2 personas es de $900.000 Pesos.
+* __Lugares cercanos:__ A 4,2 Kilómetros se encuentra el Parque Natural El Cielo, y a 400 metros podrás encontrar pizzerías, restaurantes y bares. 
+* __Servicios:__ Balcón, vista al mar, baño privado, vista del río, vista a la smontañas, Zona de comedor, zona libre, lavadora, cocina, baños privados con elementos de aseo gratuitos.
 
 
-### -> LA PISCINA DE LOS DIOSES
-
-es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad del mar y la fuerza de las olas al romper en el arrecife.
-
+<a href="https://www.booking.com/hotel/co/cafe-del-mar-sapzurro.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/choco/ruiz/tumbas-ruiz.jpg",
-caption:"Foto: Piscina de los Frailes",
-width:"765",
-height:"1020"
-%}
-
-A la playa de la piscina de los Dioses también llegas caminando desde Capurganá y el recorrido tarda aproximadamente 10 minutos.
-
-
-
-### -> MIRADOR DEL CIELO
-
-
-Es un sendero ubicado en pleno centro de la selva con una piscina de agua cristalina. Además, es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad de la naturaleza, y apreciar la naturaleza de esta zona, como los monos, este sendero te recomendamos tener cuidado ya que van a tener que cruzar varias partes el rio, se recomienda hacer esta ruta con guía local.
-
--- foto --
-
-A la playa de la piscina de los Dioses también llegas caminando desde Capurganá y el recorrido tarda aproximadamente 10 minutos.
-
-
-## SENDEROS EN SAPZURRO
-
-Sapzurro es famoso por tener unas de las playas más bonitas del Mar Caribe en las que te podrás conectar con la naturaleza y maravillarte con el encanto de las aguas cristalinas.
-
--- foto --
-
-
-
-### -> CABO TIBURON
-
-Entre los diferentes senderos en Sapzurro, está el recorrido hacia Cabo Tiburón, con una distancia de 4.5 Kilómetros, el cual es famoso porque fue el lugar donde se han grabado varias ediciones del Desafío. Esta ruta la podrás realizar en unos 20-30 minutos, ida y vuelta tardará al menos 1 hora desde el centro de Sapzurro.
-
-{% include image.html,
-file:"rutas/choco/ruiz/cabo-tiburon.jpeg",
-caption:"Foto: playa cabo de tiburon",
+file:"rutas/choco/capurgana/hospedaje-capurgana/cafe-del-mar-sapzurro.jpg",
+caption:"Foto: Cafe Del Mar Sapzurro",
 width:"1000",
-height:"875"
+height:"571"
 %}
-
-### -> PLAYA LA MIEL
-
-La otra ruta que pueden hacer, y por cierto, es la razón de que muchas personas vayan a este lugar, es para visitar Playa La Miel, la cual se encuentra en Panamá, y tiene una distancia de 1.5 Kilómetros desde Sapzurro hasta la playa, la cual podrás realizar en unos 30 minutos yendo hasta el fondo de la playa subiendo unas escaleras hasta el pico de la montaña.
-
-{% include image.html,
-file:"rutas/choco/ruiz/playa-la-miel.jpg",
-caption:"Foto: Play la Miel",
-width:"765",
-height:"1020"
-%}
+</a>
 
 
-Al llegar a la montaña, encontrarás una base militar de Panamá y Colombia. Al final del descenso desde la montaña a la playa, tendrá que pagar aproximadamente $3.000 COP para ingresar a las playas de Panamá.
-
-<a name="tour-capurgana" id="tour-capurgana"></a>
-
-## TOUR DISPONIBLE EN CAPURGANA 🧳
-
-Aqui te mostratemos los dististos tours que puedes tomar para ir a capurgana, o para hacer tours en lancha a los distintos lugares.
-
-### -> TOUR COMPLETO DESDE MEDELLIN
-
-Este tour incluye: tiquetes de avion desde Medellin, hotele y alimentación, este paquete se debe reservar con anticipación.
+👉 **<a href="https://www.booking.com/hotel/co/cafe-del-mar-sapzurro.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
 
 
-### -> PASADÍA DESDE NECOCLÍ
-
-Uno de  los tours que encontrarás desde Necocli para capurgana, es un paseo en lancha de 1 día, donde visitarán varias playas, ademas te darán el almuerzo, es una buena opción se cuentas con poco tiempo, este tour se debe reservar con anticipación ya que los cupos de las lanchas son limitados.
+#### ZONAS DE CAMPING
 
 
-### PASADÍA DESDE CAPURGANA
+* __CAMPING EN SAPZURRO:__ En Sapzurro, podrás encontrar zonas de camping por un precio de 25.000 a 35.000 pesos por persona (precio 2024). Estos hospedajes se ubican a mano izquierda de donde te deja la lancha (puerto) o si vas caminando desde Capurganá por el sendero, son los primeros que te encontrarás, Los nombres de los hospedajes son: El Chileno y Sapzurro La Posada Hostal & Camping, ambos ubicados uno al lado del otro. 
 
-Al llegar a capurgana, vas a poder encontrar algunas lanchas que prestan el servicio de tour para algunas playas, estos recorridos dependen del numero de personas que vayan
+
+__RECOMENDACIÓN:__ 
+* _Por estar la zonas de camping cerca a la montaña en la noche vas a recibir la visitas de algunos amigos inesperados sapos 🐸, que caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅._
+* _Algunas zonas de camping no cuentan con instalaciones adecuadas para campistas, ya que no disponen de un lugar para cocinar, por lo que es importante que verifiques bien antes de reservar._
 
 <a name="recomendacion-capurgana" id="recomendacion-capurgana"></a>
 
-### RECOMENDACIONES FINALES
 
+## RECOMENDACIONES FINALES
 
 A continuación te compartiremos algunas recomendaciones que debes de tener en cuenta para que tu estadía sea lo más agradable y placentera posible, y que puedas disfrutar de todas las maravillas de ese rincón de Colombia que conecta con Panamá.
 
+### -> TIPO DE ROPA ADECUADA
+
+
+En Capurgana la temperatura promedio ronda los 20 a 29 grados centígrados, además de esto es una zona húmeda, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
+
+- 👟 Usa calzado con buen agarre, no suelas lisas (van a tener que cruzar rocas lisas)
+- 🏃‍♂️ Se recomienda prendas tipo licra para que se te haga mucho más fácil caminar por el sendero.
+- 🩱 Llevar traje de baño o ropa de cambio, ya que se van a mojar.
+- 👕 Lleva ropa de secado rápido, recuerda que esta es una zona tropical húmeda.
+- 🦟 Se recomienda buzos de manga larga para cubrirte del sol y de los mosquitos, al igual que sombreros.
+
+
+¿No sabes dónde comprar prendas de excelente calidad para este tipo de aventura? <a target="_blank" style="color:green;" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
+
+
+### OTRAS RECOMENDACIONES
+
 - Debes llevar tu documento original además del pasaporte en caso de que no seas colombiano.
-- Traer ropa ligera de algodón, pantalones, shorts, camisas de manga larga y manga corta, zapatos que se puedan mojar, tenis y traje de baño.
-- No olvides traer productos personales como pasta de dientes, protector solar y repelente de insectos.
 - Como Capurganá se ubica cerca al tapón del Darién, se recomienda inmunizarse con la vacuna contra la malaria y la fiebre amarilla.
 - Si toma medicamentos de uso personal, no olvide traerlos.
-- En caso tal de que vayas a acampar, asegúrate de que las instalaciones sean las adecuadas e idóneas para su uso
+- En caso tal de que vayas a acampar, asegúrate de que las instalaciones sean las adecuadas e idóneas para su uso.
 - Abstenerse de comprar y recolectar conchas, corales, animales, pieles y plumas en los destinos que visite, ya que estas prácticas amenazan los ecosistemas de la zona.
 - No arrojes basura al mar, a la playa o a los lugares aledaños que visites, y utiliza responsablemente la bolsa biodegradable que te entregarán en el hotel.
-- Si viaja con menores de edad distintos de sus hijos, llevar consigo una autorización escrita de ambos padres firmada y autenticada ante notario, utilizándose a ser el tutor del menor durante el viaje.
 - Hay que recordar que el tráfico de fauna y flora, la explotación sexual comercial de niños y adolescentes, el tráfico de bienes de interés cultural y la discriminación y exclusión de poblaciones vulnerables son delitos penados por la legislación colombiana.
 
 
@@ -322,7 +438,47 @@ Este es el fin de la ruta de Capurganá y Sapzurro, __no te olvides de seguirnos
 
 
 
-<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
+<span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar, precios tomados al 2024 </span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
