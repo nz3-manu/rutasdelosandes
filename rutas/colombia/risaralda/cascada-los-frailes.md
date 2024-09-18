@@ -13,6 +13,10 @@ author: manuel
 
 La cascada los Frailes o cascada la Suiza como también es llamada, es manejada por una asociación de guías locales cuya labor es ayudar por medio del turismo comunitario, comprando todo lo necesario para realizar los tours con productos de la comunidad.
 
+
+👉  __<a href="https://www.randes.co/products/tour-cascada-los-frailes" style="color:green;" target="_blank">¿Quieres realizar esta ruta con una agencia local 🍃?, puedes dar clic aquí</a>__
+
+
 Aquí te mostraremos cómo llegar a esta hermosa cascada, tanto si vas con transporte público como si vas en transporte privado.
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
