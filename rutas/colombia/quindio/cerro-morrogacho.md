@@ -14,7 +14,7 @@ trending: true
 
 En este post, te mostraremos toda la información relacionada acerca de la ruta a **Cerro Morrogacho**. Un destino turístico que se encuentra en el Eje Cafetero más concretamente en el Departamento del Quindío.
 
-**<a href="https://wa.link/azrd3l" target="_blank" style="color:green;"> ¿Quieres hacer esta ruta con un guía? click aquí</a>** 👈
+**<a href="https://www.randes.co/products/tour-a-cerro-morro-gacho" target="_blank" style="color:green;"> ¿Quieres realizar esta ruta con una agencia local 🍃?, puedes dar clic aquí</a>** 👈
 
 Morrogacho, es una de las rutas más difíciles de Senderismo en el Eje Cafetero la cual es muy frecuentada por muchos aventureros 🤠.
 
