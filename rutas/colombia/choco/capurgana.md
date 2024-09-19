@@ -20,9 +20,9 @@ Finalmente, te daremos algunas recomendaciones que debes de tener en cuenta a la
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 *  <a href="#como-capurgana" > ¿Donde Queda Capurgana y como llegar?</a>
-*  <a href="#hospedaje-capurgana" > Rutas en Capurganá y Sapzurro</a>
+*  <a href="#csendero-capurgana" > Rutas en Capurganá y Sapzurro</a>
 *  <a href="#tour-capurgana" > Tours disponibles para Capurganá</a>
-*  <a href="#como-capurgana" >  Hospedajes disponibles</a>
+*  <a href="#hospedaje-capurgana" >  Hospedajes disponibles</a>
 *  <a href="#recomendacion-capurgana" > Recomendaciones Finales</a>
 
 
@@ -64,7 +64,7 @@ Capurganá es un corregimiento de Acandí, cerca de la frontera con Panamá, que
 
 Aquí te mostraremos cómo llegar desde Necoclí en bus o en avión desde las principales ciudades de Colombia.
 
-### ->  EN AVIÓN 🛫
+### ->  EN AVIÓN 
 
 
 El aeropuerto Capurganá lleva el nombre de _Narciza Navas de Capurganá_, debes tener en cuenta que hay otro aeropuerto que queda en Acandí el cual lleva el nombre de _Alcides Fernández_, este queda a unos 40 minutos en lancha de Capurganá, para que lo tengas en cuenta, al momento de comprar tus tiquetes.
@@ -83,7 +83,7 @@ El aeropuerto Capurganá lleva el nombre de _Narciza Navas de Capurganá_, debes
 
 * __DESDE BOGOTÁ A NECOCLÍ:__ Consultamos con algunas empresas de buses de Bogotá, y la única opción que nos dieron fue tomar un bus de Bogotá-Medellín, y de Medellín uno a Necoclí, como lo mencionamos anteriormente.
 
-###  ->  DESDE NECOCLÍ HASTA CAPURGANÁ 🛥️
+###  ->  DESDE NECOCLÍ HASTA CAPURGANÁ 
 
 Al llegar a Necoclí, deberás tomar una lancha, que comienza a salir a _partir de las 7:00 a.m._. Sin embargo, te recomendamos llegar a las 6:30 a.m., ya que las lanchas parten en el orden de llegada de los pasajeros al puerto. El costo del trayecto es de aproximadamente $90.000 COP por persona y tiene una duración de alrededor de 1 hora y media.
 
@@ -105,7 +105,7 @@ Una vez en Capurganá, podrás explorar los distintos senderos disponibles que t
 
 <a name="csendero-capurgana" id="sendero-capurgana"></a>
 
-## RUTAS EN CAPURGANÁ Y SAPZURRO 
+## RUTAS EN CAPURGANÁ Y SAPZURRO 🚶
 
 Hemos dividido los senderos entre Capurganá y Sapzurro, para que puedas planificar mejor tu visita. Esto te permitirá decidir cuántos días quedarte en cada lugar y aprovechar al máximo los sitios de interés cercanos.
 
@@ -273,17 +273,18 @@ __Valor del tour por persona:__ $2.220.000 Pesos o $2.475.000 Pesos en temporada
 
 ### -> PASADÍA DESDE NECOCLÍ
 
-Uno de  los tours que encontrarás desde Necoclí para Capurgana, es un paseo en lancha de 1 día, donde visitarán algunos sitios turisticos de Capurgana y Sapzurro.
+Uno de los tours que encontrarás desde Necoclí, es un paseo en lancha de 1 día, donde visitarán algunos sitios turísticos de esta región.
 
 __INCLUYE:__
-- Lugares a visitar: Sapzurro y  La miel (Panama).
-- Almuerzo
-- Transporte en lancha desde Necoclí
-- Seguro de asistencia médica
+- Transporte marítimo desde Necoclí ida y regreso.
+- Tour por Playa Soledad, Sapzurro y La Miel (frontera Colombo-panameña) .
+- Alimentación (almuerzo).
+- Refrigerio abordo.
+- Seguro de asistencia médica.
 
-__Valor del tour por persona:__ $190.000 Pesos por persona
 
 
+👉 **<a href="https://www.randes.co/products/capurgana-pasadia-desde-necocli" style="color:#971717;" target="_blank">Ver  información del pasadía </a>**
 
 <a name="hospedaje-capurgana" id="hospedaje-capurgana"></a>
 
@@ -414,7 +415,7 @@ __RECOMENDACIÓN:__
 <a name="recomendacion-capurgana" id="recomendacion-capurgana"></a>
 
 
-## RECOMENDACIONES FINALES
+## RECOMENDACIONES FINALES 📋
 
 A continuación te compartiremos algunas recomendaciones que debes de tener en cuenta para que tu estadía sea lo más agradable y placentera posible, y que puedas disfrutar de todas las maravillas de ese rincón de Colombia que conecta con Panamá.
 
