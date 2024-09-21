@@ -290,9 +290,27 @@ height:"698"
 
 ### RECOMENDACIONES FINALES PARA VISITAR NORCASIA
 
-* __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río__
+A continuación te compartiremos algunas recomendaciones que debes de tener en cuenta para que tu estadía sea lo más agradable y placentera posible, y que puedas disfrutar de todas las maravillas de ese rincón de Colombia.
 
- 
+### -> TIPO DE ROPA ADECUADA
+
+
+En Capurgana la temperatura promedio ronda los 20 a 29 grados centígrados, además de esto es una zona húmeda, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
+
+- 👟 Usa calzado con buen agarre, no suelas lisas (van a tener que cruzar rocas lisas).
+- 🏃‍♂️ Se recomienda prendas tipo licra para que se te haga mucho más fácil caminar por el sendero.
+- 🩱 Llevar traje de baño o ropa de cambio, ya que se van a mojar.
+- 👕 Lleva ropa de secado rápido, recuerda que esta es una zona tropical húmeda.
+- 🦟 Se recomienda buzos de manga larga para cubrirte del sol y de los mosquitos, al igual que sombreros.
+* - __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río__
+
+
+¿No sabes dónde comprar prendas de excelente calidad para este tipo de aventura? <a target="_blank" style="color:green;" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
+
+
+
+### OTRAS RECOMENDACIONES
+
 * Si eres de las personas que te gusta viajar, pero no te gustan las multitudes, evita ir los fines de semana con puente (lunes o viernes festivo) porque te podrías encontrar con muchos viajeros.
  
 * En Norcasia no van a encontrar cajeros disponibles así que te recomendamos llevar dinero, además las redes de algunos operadores colapsan para usar internet.

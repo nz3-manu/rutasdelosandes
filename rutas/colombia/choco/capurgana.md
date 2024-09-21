@@ -269,7 +269,11 @@ __INCLUYE:__
 
 __Valor del tour por persona:__ $2.220.000 Pesos o $2.475.000 Pesos en temporada alta.
 
+### -> GUÍA LOCAL EN CAPURGANA
 
+Es importante que realices estos senderos en compañía de un local, ya que, como mencionamos anteriormente, a la fecha en que escribimos este post, estos caminos son transitados por migrantes. Por ello, si vas solo, te recomendamos hacerlo con un guía local. El costo del guía depende de los senderos que desees recorrer y del número de personas con el que vayas.
+
+👉 **<a href="https://wa.link/oiojve" style="color:#971717;" target="_blank">clic aquí para consultar guía local  </a>**
 
 ### -> PASADÍA DESDE NECOCLÍ
 
@@ -408,7 +412,7 @@ height:"571"
 * __CAMPING EN SAPZURRO:__ En Sapzurro, podrás encontrar zonas de camping por un precio de 25.000 a 35.000 pesos por persona (precio 2024). Estos hospedajes se ubican a mano izquierda de donde te deja la lancha (puerto) o si vas caminando desde Capurganá por el sendero, son los primeros que te encontrarás, Los nombres de los hospedajes son: El Chileno y Sapzurro La Posada Hostal & Camping, ambos ubicados uno al lado del otro. 
 
 
-__RECOMENDACIÓN:__ 
+__RECOMENDACIÓN PARA EL CAMPING:__ 
 * _Por estar la zonas de camping cerca a la montaña en la noche vas a recibir la visitas de algunos amigos inesperados sapos 🐸, que caminarán por la zona de camping, así que deben de cerrar las carpas para no encontrarse con un pequeño intruso durmiendo con ustedes 😅._
 * _Algunas zonas de camping no cuentan con instalaciones adecuadas para campistas, ya que no disponen de un lugar para cocinar, por lo que es importante que verifiques bien antes de reservar._
 
