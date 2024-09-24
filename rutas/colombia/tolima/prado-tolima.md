@@ -216,42 +216,16 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
 
-Aquí te mostraremos las diferentes opciones de hospedaje que encontramos. Hemos puesto los links de reserva a través de Booking, ya que es muy segura y en la cual nunca hemos tenido problemas al momento de hacer reservas o cancelaciones.
+Te mostraremos las diferentes opciones de hospedaje que encontramos en Prado, clasificadas en: económicos, de precio medio y de lujo. Hemos incluido los enlaces de reserva a través de Booking, una plataforma muy segura en la que nunca hemos tenido problemas para realizar reservas o cancelaciones
 
 __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
-
-#### PRADO PARADISE
-
-
-Prado Paradise, que tiene jardín y terraza, dispone de alojamiento en Prado con wifi gratis y vistas al jardín. Esta villa también tiene piscina privada.
-
-La villa dispone de 6 dormitorios y una cocina completamente equipada con nevera y horno. Hay toallas y ropa de cama en la villa.
-
-* __Precio promedio:__ El valor de hospedaje para 10 personas es de alrededor $2.100.000 pesos.
-* __Lugares cercanos:__ El aeropuerto (Aeropuerto de Ibagué) está a 127 km.
-* __Servicios:__ Piscina, Wifi gratis, Parking privado, la villa dispone de 6 dormitorios, 1 cocina completamente equipada con nevera, horno, toallas y ropa de cama en la villa.
+#### CASA DE LAS GUACAMAYAS (ECONOMICO)
 
 
-<a href="https://www.booking.com/hotel/co/prado-paradise.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/prado-paradise.jpg",
-caption:"Foto: Prado Paradise",
-width:"1000",
-height:"575"
-%}
-</a>
+Este lugar es ideal si vas en familia, ya que se permite el ingreso de mascotas. Además, cuenta con actividades que se pueden realizar cerca de de este hopedaje, este hospedaje cuenta con 2 habitaciones.
 
-👉 **<a href="https://www.booking.com/hotel/co/prado-paradise.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
-
-
-#### CASA DE LAS GUACAMAYAS
-
-
-Cuenta con 2 dormitorios, TV de pantalla plana vía satélite, zona de comedor, cocina con horno y sala de estar. Hay toallas y ropa de cama en la casa o chalet.
-.
-
-* __Precio promedio:__ El valor de hospedaje para 8 personas es de alrededor $960.000 pesos.
+* __Precio promedio:__ El valor de hospedaje para 8 personas es de $489.000 pesos a $960.000 pesos.
 * __Lugares cercanos:__ El aeropuerto (Aeropuerto de Ibagué) está a 89 km.
 * __Servicios:__ Ofrece jardín, salón de uso común y terraza. acceso a un restaurante y piscina, cuenta con 2 dormitorios, TV de pantalla plana vía satélite, zona de comedor, cocina con horno y sala de estar. Hay toallas y ropa de cama.
 
@@ -267,8 +241,7 @@ height:"575"
 
 👉 **<a href="https://www.booking.com/hotel/co/casa-de-las-guacamayas.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
-
-#### CABAÑA EN PRADO TOLIMA
+#### CABAÑA EN PRADO TOLIMA (PRECIO MEDIO)
 
 Tiene 7 dormitorios, 5 baños, ropa de cama, toallas, TV de pantalla plana con canales vía satélite, zona de comedor, cocina totalmente equipada y terraza con vistas a la montaña. Hay parking privado.
 
@@ -289,6 +262,25 @@ height:"575"
 👉 **<a href="https://www.booking.com/hotel/co/cabana-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
 
+ #### ISLA PRIVADA AL INTERIOR DE COLOMBIA EN PRADO TOLIMA (DE LUJO)
+
+Este hospedaje es ideal para ir con amigos o en reuniones familiares. Dispone de una casa totalmente equipada para disfrutar de unas vacaciones fantásticas.
+
+* __Precio promedio:__ El valor de hospedaje para 15 personas es de alrededor $5.040.000 pesos.
+* __Lugares cercanos:__ El aeropuerto más cercano (Aeropuerto de Ibagué) está a 123 km.
+* __Servicios:__ con aire acondicionado consta de 8 dormitorios independientes, una sala de estar, una cocina totalmente equipada y 9 baños. Se ofrece TV de pantalla plana. 
+
+
+<a href="https://www.booking.com/hotel/co/isla-privada-al-interior-de-colombia-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+{% include image.html,
+file:"rutas/tolima/represa-prado/hospedaje/hospedaje-top-prado.jpg",
+caption:"Foto: Casa de las Guacamayas",
+width:"1000",
+height:"575"
+%}
+</a>
+
+👉 **<a href="https://www.booking.com/hotel/co/isla-privada-al-interior-de-colombia-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
@@ -318,8 +310,6 @@ En Prado la temperatura promedio ronda los 22 a 33 grados centígrados, además 
 
 
 Este es el fin de la ruta a la represa de prado Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
-
-
 
 
 
