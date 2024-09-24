@@ -18,7 +18,7 @@ trending: true
 Así podrás planear mucho mejor tu viaje.
 
 
-**🛶 <a href="https://wa.link/eovpg5" style="color:green;" target="_blank"> Puedes conocer nuestros planes a la Represa de Prado, solo dando clic aquí. 👈 </a>**
+**🛶 <a href="https://www.randes.co/collections/tour-en-prado-tolima" style="color:green;" target="_blank"> Puedes conocer nuestros planes a la Represa de Prado, solo dando clic aquí. 👈 </a>**
 
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
@@ -200,7 +200,6 @@ En cada una de las opciones que mencionamos a continuación, podrás ver una tab
 
 ### -> TOUR PASADIA COMPLETO
 
-
 * __Lugares que visitan:__ Muro de contención, compuertas, Boqueron de tena, Laguna Encantada (pueden bañar), Cueva del Mohán, Cueva del Ángel, la Roca (mejor cabaña represa), Islas de: Morgan, de Cuba, del Sol y por último u hotel donde podrán almorzar y tomar un baño en la piscina.
 * __Duración:__ 6 horas aproximadamente
 * __Incluye:__ Almuerzo, piscina natural,seguro médico, guía y transporte fluvial.
@@ -217,102 +216,105 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
 
-A continuación te mostraremos las distintas opciones de hospedaje que podrás encontrar en prado tolima, los hemos categorizado como:
-* __Hospedajes en el centro de prado:__ ideal para las personas que van a llegar en la noche.
-* __Hospedaje en la represa de prado:__. ideal para personas que cuentan con más tiempo y quieran disfrutar más de este lugar.
+Aquí te mostraremos las diferentes opciones de hospedaje que encontramos. Hemos puesto los links de reserva a través de Booking, ya que es muy segura y en la cual nunca hemos tenido problemas al momento de hacer reservas o cancelaciones.
 
-### -> HOSPEDAJE EN EL CENTRO DE PRADO
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
-Este hospedaje se encuentra en el centro, a solo media cuadra del parque principal, si vas en moto la podrás dejar guardada aquí no tiene costo adicional 😉, si vas en carro, tendrás que dejarlo al frente del hospedaje (calle) o pagar un parqueadero. En este hospedaje tambien presntan el servicio de venta de comida rápida, este es un lugar tranquílo ya que los dueños viven tambien allí.
 
-__Nota:__ Este hospedaje es ideal si llegas en la noche y solo quisieras pasar la noche para hacer comenzar el tour al otro día.
+#### PRADO PARADISE
 
-A continuación te mostraremos el tipo de habitaciones que tienen disponible.
 
-### --> HABITACIÓN CON 2 CAMAS SENCILLAS
+Prado Paradise, que tiene jardín y terraza, dispone de alojamiento en Prado con wifi gratis y vistas al jardín. Esta villa también tiene piscina privada.
 
-* __La habiatición cuenta con:__ 2 camas sencillas, baño privado, ventilador, televisión, aire acondicionado, wifi y parqueadero para moto.
-* __No incluye alimentación.__
+La villa dispone de 6 dormitorios y una cocina completamente equipada con nevera y horno. Hay toallas y ropa de cama en la villa.
 
+* __Precio promedio:__ El valor de hospedaje para 10 personas es de alrededor $2.100.000 pesos.
+* __Lugares cercanos:__ El aeropuerto (Aeropuerto de Ibagué) está a 127 km.
+* __Servicios:__ Piscina, Wifi gratis, Parking privado, la villa dispone de 6 dormitorios, 1 cocina completamente equipada con nevera, horno, toallas y ropa de cama en la villa.
+
+
+<a href="https://www.booking.com/hotel/co/prado-paradise.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/tolima/represa-prado/habitación-1.jpg",
-caption:"Foto: Habitación centro pequeña" ,
-width:"1200",
-height:"960"
+file:"rutas/tolima/represa-prado/hospedaje/prado-paradise.jpg",
+caption:"Foto: Prado Paradise",
+width:"1000",
+height:"575"
 %}
+</a>
 
-* __Valor habitación 2 personas:__ $55.000 Pesos por persona
+👉 **<a href="https://www.booking.com/hotel/co/prado-paradise.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
-### --> HABITACIÓN CON 2 CAMAS DOBLES
 
-* __La habitación cuenta con:__ 2 camas dobles, donde se podrán acomodar a maximo 4 personas, cuenta con baño privado, televisión, ventilador, aire acondicionado, wifi, parqueadero para moto, 
-* __No incluye alimentación.__
+#### CASA DE LAS GUACAMAYAS
 
+
+Cuenta con 2 dormitorios, TV de pantalla plana vía satélite, zona de comedor, cocina con horno y sala de estar. Hay toallas y ropa de cama en la casa o chalet.
+.
+
+* __Precio promedio:__ El valor de hospedaje para 8 personas es de alrededor $960.000 pesos.
+* __Lugares cercanos:__ El aeropuerto (Aeropuerto de Ibagué) está a 89 km.
+* __Servicios:__ Ofrece jardín, salón de uso común y terraza. acceso a un restaurante y piscina, cuenta con 2 dormitorios, TV de pantalla plana vía satélite, zona de comedor, cocina con horno y sala de estar. Hay toallas y ropa de cama.
+
+
+<a href="https://www.booking.com/hotel/co/casa-de-las-guacamayas.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/tolima/represa-prado/habitacion-2.jpg",
-caption:"Foto: Habitación centro grande" ,
-width:"1024",
-height:"683"
+file:"rutas/tolima/represa-prado/hospedaje/casa-de-las-guacamayas.jpg",
+caption:"Foto: Casa de las Guacamayas",
+width:"1000",
+height:"575"
 %}
+</a>
 
-* __Valor habitación 2 personas:__ $60.000 Pesos por persona
-* __Valor habitación 4 personas:__ $45.000 Pesos por persona
-
-### -> HOSPEDAJE EN LA REPRESA DE PRADO
-
-Aquí te mostraremos las distintas opciones que tienes de hospedaje, dentro de la represa de prado, ten encuentra que si el hospedaje necesitas tomar lacha __debes de llegar antes de las 6:00 pm__ que es el tiempo permitido para navegar dentro de la represa.
-
-Si vas en carro o moto podrás dejarlo en paparqueadero de la represa, este tendrá un costo aproximado para las 24 horas de: moto de: $12.000 pesos, Carro: $20.000 pesos.
+👉 **<a href="https://www.booking.com/hotel/co/casa-de-las-guacamayas.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
 
-### --> HOSPEDAJE EN EL MUELLE TURISTICO
+#### CABAÑA EN PRADO TOLIMA
 
-Este hospedaje se encuentra en todo el muelle turístico, no tendrás que pagar lancha, allí hay cerca restaurantes y supermercados, y disfrutar de una vista hermosa de esta represa.
- 
- * __El apartamento incluye:__ 2 camas dobles, cocina, nevera, utensilios de cocina y un colchón auxiliar.
- * __No incluye:__ alimención y tarifa de parqueadero (tendrás que dejarlo en el parqueadero del muelle).
+Tiene 7 dormitorios, 5 baños, ropa de cama, toallas, TV de pantalla plana con canales vía satélite, zona de comedor, cocina totalmente equipada y terraza con vistas a la montaña. Hay parking privado.
 
+* __Precio promedio:__ El valor de hospedaje para 12 personas es de alrededor $2.040.000 pesos.
+* __Lugares cercanos:__ El aeropuerto más cercano (Aeropuerto de Ibagué) está a 123 km.
+* __Servicios:__ Ofrece un balcón con vistas a la piscina y al río, además de piscina al aire libre abierta todo el año, piscina cubierta y centro de fitness. Este alojamiento ofrece mesa de billar y ping pong. 
+
+
+<a href="https://www.booking.com/hotel/co/cabana-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
 {% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje-muelle-turistico.png",
-caption:"Foto: Hospedaje en el Muelle turistico" ,
-width:"2000",
-height:"1600"
+file:"rutas/tolima/represa-prado/hospedaje/cabana-en-prado-tolima.jpg",
+caption:"Foto: Casa de las Guacamayas",
+width:"1000",
+height:"575"
 %}
+</a>
 
-* __Valor por pareja:__ $160.000 Pesos por pareja.
-* __Valor para 3 personas:__ $230.000 Pesos para 3 personas.
-* __Valor para 4 personas:__ $290.000 Pesos para grupo de 4 personas. 
-* __Valor para 5 personas:__ $320.000 Pesos para grupo de 5 personas (una persona dormirá en un colchón en el suelo)
+👉 **<a href="https://www.booking.com/hotel/co/cabana-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
 
 
-### --> HOSPEDAJE DENTRO DE LA REPRESA DE PRADO 
-
-Este hospedaje se encuentra en todo el muelle turístico, no tendrás que pagar lancha, allí hay cerca restaurantes y supermercados, y disfrutar de una vista hermosa de esta represa.
-
-* __Incluye:__ uso de piscina y parqueadero. 
-* __No incluye alimentación.__
-
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospeda-muelle-turistico.png",
-caption:"Foto: Hospedaje represa" ,
-width:"800",
-height:"640"
-%}
-
-
-* __Valor por persona:__ $75.000 Pesos.
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
 
-## RECOMENDACIONES FINALES PARA VISITAR PRADO
+## RECOMENDACIONES FINALES 📋
 
-* En este lugar encontrarán muchos mosquitos, así que te recomendamos llevar repelentes.
-* Llevar buzos manga larga y sombrero para cubrirte del sol
-* Llevar traje de baño
-* Llevar abundante agua 
-* Si viajas desde lejos te recomendamos hospedarte en un hotel en el pueblo solo 1 noche.
-* Si quieres quedarte un poco más de días, te recomendamos hospedarte en una isla, ya que encontrarás muchas más cosas para hacer.
+
+Aquí te daremos algunas recomendaciones que debes de tener en cuenta al momento de visitar la represa de Prado y también al visitar algunos lugares naturales.
+
+### -> TIPO DE ROPA ADECUADA
+
+En Prado la temperatura promedio ronda los 22 a 33 grados centígrados, además de esto es una zona seca, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
+
+
+- 🌞 Lleva buzos con protección solar y sombreros, ya que el sol es muy fuerte.
+- 🩱Lleva traje de baño o ropa de cambio, ya que te vas a mojar.
+- 🦟 Lleva repelente, ya que en esta zona hay muchos mosquitos.
+
+
+¿No sabes dónde comprar prendas de excelente calidad para este tipo de aventura? <a target="_blank" style="color:green;" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
+
+### -> OTRAS RECOMENDACIONES
+
+* Si vas a llegar de noche a Prado, te recomendamos hospedarte en un hotel en el pueblo.
+* Si deseas quedarte más días, te sugerimos hospedarte en una isla, donde encontrarás muchas más actividades.
+* La navegabilidad por la represa está permitida solo hasta las 6 p.m. Si te hospedarás en una de las islas, te recomendamos llegar antes para tomar la lancha.
 
 
 Este es el fin de la ruta a la represa de prado Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
