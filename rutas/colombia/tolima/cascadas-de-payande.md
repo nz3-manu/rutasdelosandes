@@ -18,10 +18,7 @@ trending: true
 
 
 
-Esta ruta es ideal si lo vas a hacer en familia, ya que cuenta con todas las comodidades, por otra parte si eres de las personas que les gusta el senderismo y disfrutar de la tranquilidad de la naturaleza esta ruta no es para ti.
-
-
-Gran parte de los videos que hay en internet de este lugar muchos son cuando no se había construido todas estas edificaciones.
+Esta ruta es ideal para recorrer en familia, ya que cuenta con todas las comodidades: senderos, restaurantes, baños, entre otros. Sin embargo, si lo que buscas es disfrutar de la tranquilidad de la naturaleza, te recomendamos visitarla entre semana, ya que los fines de semana suele haber demasiadas personas.
 
 
 
@@ -55,9 +52,7 @@ Empecemos con la aventura ⛰.
 ## DATO CURIOSO DE CASCADA DE PAYANDE
 
 
-
-
-Antiguamente, el acceso a esta cascada era difícil, lo que convertía este lugar en un sitio visitado principalmente por amantes del senderismo. Actualmente, cuenta con escaleras y zonas de parqueo, lo que facilita el acceso para todas las personas. Sin embargo, encontrarán música a alto volumen de algunos restaurantes y una gran afluencia de personas.
+Se llama las cascadas de Payande, ya que se componen de 6 cascadas, una seguida de otra. Algunos locales afirman que esta cascada se alimenta de aguas subterráneas, ya que esta zona del Tolima es muy rica en pozos de agua subterráneos. Esto explicaría la claridad de sus aguas y el característico tono azulado que adquieren al reflejar los rayos del sol, resaltando aún más su belleza natural.
 
 
 <a href="https://www.randes.co/" target="_blank">
@@ -83,8 +78,6 @@ __Actividad económica:__
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que vimos en nuestro viaje a la cascada de payande en el departamento de Tolima.
 
 
-
-
 {% include youtube.html
 videoid:"oD_H6rkN4Bc",
 width:"480",
@@ -107,9 +100,6 @@ Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href=
 
 ## ¿CÓMO LLEGAR HASTA PAYANDE 🚐?
 
-
-
-
 ### -> DESDE BOGOTÁ:
 
 
@@ -124,7 +114,6 @@ Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href=
 
 ### -> DESDE IBAGUÉ:
 
-
 * __Valor del pasaje es de aproximadamente:__ $27.000 pesos por persona.
 * __Horarios de salida:__ Los buses con destino a Prado, Tolima desde Ibagué salen a partir de las 4:30 am con una frecuencia de salida de 1 hora 5:30 am, 6:30 am, 7:30 am hasta las 5:00 pm.
 * __Duración de este trayecto es de:__ 2 horas aproximadamente.
@@ -133,16 +122,7 @@ Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href=
 <a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
 
 
-
-
-
-
-
-
 ### ->  MAPA LUGARES VISITADOS EN PAYANDÉ 🗺️
-
-
-
 
 
 
@@ -153,49 +133,23 @@ caption:"Ruta en Prado Tolima"
 %}
 
 
-
-
 A continuación te mostraremos los tours que ofrece la empresa con la cual estamos trabajando en este lugar. Ten en cuenta que, no todas las empresas manejan los mismos tours.
-
-
 
 
 ## HOSPEDAJES DISPONIBLES EN PAYANDÉ  🛏️
 
-
 En Payande no vas a encontrar muchas opciones de hospedaje, así que te recomendamos hospedarte mejor en Ibagué. A continuación te compartiremos algunas opciones de hospedaje.
 
-
 __Nota:__ Hay un lugar el cual tiene zona de camping y hospedaje, es una finca muy hermosa con una cascada, pero es algo complicado, ya que se tiene que pasar por predios privados,  y los dueños tienen que pedir permisos con días de anticipación.
-
-
 
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
 
-
-## RECOMENDACIONES FINALES PARA VISITAR LAS CASCADAS DE PAYANDE
-
+## RECOMENDACIONES FINALES PARA VISITAR PAYANDE
 * Si buscas conectar con la naturaleza y olvidarte un poco del estrés de la ciudad, te recomendamos ir en semana, ya que en un fin de semana vas a encontrar muchas personas.
-* El recorrido a todas las 6 cascadas se puede hacer en un tiempo total de 40 minutos, ya lo demás depende del tiempo que quieras pasar en estas.
-* 
-
-
-
+* El recorrido a las 6 cascadas se puede hacer en  40 minutos, ya lo demás depende del tiempo que quieras pasar en estas.
+* Las cascadas las cierras a las 4:30 pm
 
 Este es el fin de la ruta a la represa de prado Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
-
-
-
-
-
-
-
-
-
-
-
-
-
 

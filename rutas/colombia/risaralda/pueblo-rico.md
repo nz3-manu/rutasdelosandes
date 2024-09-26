@@ -119,7 +119,7 @@ __Nota:__ _Debemos de preservar más nuestras raíces, ya que a muchos de nosotr
 En nuestro recorrido por el municipio de Pueblo Rico, pudimos encontrar gran variedad de hospedajes, aquí te mostraremos algunos.
 
 
-* __RESTAURANTE Y HOSPEDAJE LA CUCHARA:__ Este se encuentra en todo el parque principal, enseguida de una discoteca, así que si te incomoda el ruido te recomendamos tomar las habitaciones del fondo. El hospedaje por persona es alrededor de $25.000 Pesos, el almuerzo en este lugar es de $12.000 Pesos y desayuno $6.000 Pesos.
+* __RESTAURANTE Y HOSPEDAJE LA CUCHARA:__ Este se encuentra en todo el parque principal, enseguida de una discoteca, así que si te incomoda el ruido te recomendamos tomar las habitaciones del fondo. El hospedaje por persona es alrededor de $30.000 Pesos, el almuerzo en este lugar es de $15.000 Pesos y desayuno $8.000 Pesos.
 
 
 📞 **Teléfono: <a href="tel: 3218005762"> 3218005762</a>**
@@ -195,11 +195,9 @@ Desde este punto del río (Amurrapa) se puede realizar algunas otras rutas. Y s�
 
 
 * __SANTUARIO DE LOS MURCIÉLAGOS:__ También conocido como los senderos de los locos: por este sendero podrán observar, osos de anteojo, guaguas, pumas, áteles, entre otras especies. Y tiene una duración aproximada de 3 horas.
-📞 **Contacto de guia local:  <a href="tel: (+57) 3137932231"> 3137932231</a>**
 
 
 ### EL SENDERO DEL INDIO
-
 
 Esta es una ruta de aproximadamente 8 kilómetros, donde te encontraras con hermosos paisajes de bosque y aves como:
 
@@ -218,6 +216,7 @@ width:"2880",
 height:"1612"
 %}
 
+ 👉 <a href= "https://wa.link/tfyldl" style="color: maroon;" target="_blank"> Clic aquí, para información de tours</a>
 
 <a name="recomendaciones-pueblorico" id="recomendaciones-pueblorico"></a>
 
@@ -238,7 +237,7 @@ height:"1612"
 
 
 Aquí te mostraremos algunas rutas de __senderismo cerca de Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o simplemente, hacer avistamiento de aves cerca de Pereira ⛰🦅.
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/laguna-del-otun.html" target="_blank"> Laguna del Otún</a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo </a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
 
