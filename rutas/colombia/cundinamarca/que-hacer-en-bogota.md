@@ -1,21 +1,27 @@
 ---
 draft: true
 layout: trail
-title:   qué hacer en Bogotá
-categories: colombia
-seo_title: ⛰ Que hacer y qué visitar en Bogotá.
+title:   Qué hacer en Bogotá
+categories: Colombia
+seo_title: ⛰ Qué hacer y qué visitar en Bogotá.
 excerpt: Te mostraremos los lugares que deberías visitar y también te dejaremos algunas recomendaciones de hospedaje.
 images_url : /images/rutas/cundinamarca/que-hacer-en-bogota
-viewranger: 
+viewranger:
 author: manuel
 ---
 
 
-# QUE HACER EN BOGOTÁ
+
+
+# QUÉ HACER EN BOGOTÁ
+
+
 
 
 Sabemos lo difícil que puede ser querer visitar una ciudad y no saber qué lugares explorar. A continuación, te mostraremos los sitios que debes visitar en Bogotá, así como algunas rutas de senderismo cercanas. También sabemos que estás buscando hospedaje, por lo que te recomendaremos algunas opciones.
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
+
+
 
 
 -  <a href="#donde-queda-eje"> ¿Dónde queda el Eje Cafetero?  </a>
@@ -24,22 +30,35 @@ Sabemos lo difícil que puede ser querer visitar una ciudad y no saber qué luga
 -  <a href="#hospedaje-bogota"> Opciones de hospedaje en Bogotá</a>
 
 
+
+
 No siendo más, empecemos ⛰️.
+
+
 
 
 ## DATO CURIOSO DE BOGOTÁ 🧑‍🏫
 
 
+
+
 Bogotá, originalmente conocida como Bacatá, fue habitada por los pueblos indígenas Muiscas y Chibchas, quienes vivían en aldeas pequeñas y gobernados por un líder llamado el Zipa. Con la llegada de los españoles en el siglo XVI, liderados por Gonzalo Jiménez de Quesada, Bacatá fue transformada en una ciudad más grande, primero llamada Santa Fe de Bacatá y luego Nuestra Señora de la Esperanza. A lo largo de su historia, la ciudad ha pasado por importantes eventos, como la Expedición Botánica y la lucha por la independencia, que culminó el 20 de julio de 1810. En el siglo XX, Bogotá creció significativamente y se convirtió en el Distrito Capital de Colombia, albergando actualmente a cerca de 8 millones de habitantes y destacándose por su rica diversidad cultural y su historia.
+
+
 
 
 <a name="que-hacer-bogota" id="que-hacer-bogota"></a>
 
 
+
+
 ## QUÉ HACER EN LA CIUDAD DE BOGOTÁ  🏙️
 
 
+
+
 Bogotá, al ser la capital de Colombia, ofrece una gran diversidad de museos y culturas de todo el país. Aquí te mostraremos qué debes visitar, tanto en la ciudad como en las rutas de senderismo cercanas a Bogotá, para disfrutar con la familia.
+
 
 {% include iframe.html,
 type:"custom",
@@ -47,9 +66,12 @@ mid:"1WPvlhoOZyUyTjQv2nmYdoUU3J1QKWfM&hl=es&ehbc=2E312F",
 caption:"Mapa: de lugares para visitar en Bogota"
 %}
 
+
 ### -> PLAZA DE MERCADO DE PALO QUEMADO
 
+
 Se cuenta que el barrio Paloquemao recibió su nombre de un árbol seco y quemado cerca de la avenida 19 en Bogotá. Este nombre también se utilizó para la plaza de mercado, diseñada en 1972 por los arquitectos Dicken Castro y Jacques Mosseri. Esta plaza es visitada por personas que desean disfrutar de platos típicos de la región o simplemente conseguir frutas y víveres en general para el hogar.
+
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/palo-quemado.jpg",
@@ -59,15 +81,22 @@ height:"1333"
 %}
 
 
+
+
 ### -> VISITAR MUSEOS
 
+
 En Bogotá existen infinidad de museos, aquí te mostraremos los más emblemáticos, debes de saber que los domingos algunos museos son gratis en Bogotá.
+
 
 - __Museo del oro:__ El Museo del Oro, fundado por el Banco de la República en 1939, preserva objetos de orfebrería precolombina de Colombia. Desde 1968, su moderno edificio alberga más de 26,000 piezas en tres pisos, junto con piezas de cerámica y otros materiales. Actualmente, la exhibición del segundo piso está en renovación.
 - __Museo Botero:__ El Museo Botero alberga una de las más importantes colecciones de arte internacional en Latinoamérica. Gracias a la donación de Fernando Botero en 2000 al Banco de la República, el público puede acceder gratuitamente a 208 obras, 123 de Botero y 85 de renombrados artistas internacionales.
 
 
+
+
 - __Museo Nacional de Colombia:__ Ofrece exposiciones temporales de historia, arte y arqueología, tanto nacionales como internacionales. Además, cuenta con una programación cultural y académica variada que incluye conferencias, conciertos, teatro, danza y proyecciones audiovisuales.
+
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/chorro-de-quebevo.jpg",
@@ -75,11 +104,16 @@ caption:"Foto: Chorro de Quevedo",
 width:"1000",
 height:"1333"
 %}
+
+
 
 
 ### -> CHORRO DE QUEVEDO:
 
+
 Se dice que fue nombrado así porque en 1832 el padre Quevedo instaló un chorro de agua para facilitar el acceso a los habitantes. Es un lugar histórico importante en Bogotá, conocido por la tradicional chicha y los actos culturales que se realizan los viernes y sábados por la noche.
+
+
 
 
 {% include image.html,
@@ -89,28 +123,42 @@ width:"1000",
 height:"1333"
 %}
 
+
 ###  ->  LA PUERTA FALSA
 
+
 El restaurante más antiguo en funcionamiento es «La Puerta Falsa», fundado en 1816 y famoso por sus tamales y chocolate.
+
+
 
 
 <a name="rutas-en-bogota" id="rutas-en-bogota"></a>
 
 
+
+
 ## RUTAS DE SENDERISMO CERCA DE BOGOTÁ ⛰️
+
 
 Aquí te mostraremos algunas de las caminatas que puedes hacer. Además de ofrecer paisajes hermosos, estas rutas son parte importante de la cultura Muisca que habitaba esta zona. En cada descripción, incluimos la distancia total del sendero y la elevación, para que puedas tener una idea de la dificultad.
 
 
+
+
 ### -> PARQUE CHINGAZA
 
-Debes saber que el parque chingada cuenta con muchas entradas, ya que está conformado por 11 municipios, aquí se muestra el sendero a la laguna de Siecha por el sector de Guasca, Cundinamarca, 
+
+Debes saber que el parque chingada cuenta con muchas entradas, ya que está conformado por 11 municipios, aquí se muestra el sendero a la laguna de Siecha por el sector de Guasca, Cundinamarca,
+
+
 
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 5,2 Kilómetros
 - __Duración Sendero:__ 5 horas
 - __Inclinación del sendero:__ 3.300 a 3.700 m.s.n.m
+
+
 
 
 {% include image.html,
@@ -120,19 +168,28 @@ width:"1000",
 height:"750"
 %}
 
+
 👉 <a href="https://www.randes.co/products/tour-barbas-bremen" style="color: maroon;" target="_blank"> Clic aquí para ver información completa de esta ruta</a>
+
+
 
 
 ### -> LAGUNA DE GUATAVITA ⚜️
 
 
+
+
 Es una hermosa laguna de color verde esmeralda, es famosa allí fue donde los españoles llegaron a buscar el dorado, este sendero esta en muy buen estado y señalizado, se tiene que entrar con un guía el cual los acompañara hasta una parte del sendero.
+
+
 
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 3,5 Kilómetros
 - __Duración Sendero:__ 2 horas
 - __Inclinación del sendero:__  2.730 a 3.050 m.s.n.m
+
+
 
 
 {% include image.html,
@@ -143,17 +200,24 @@ height:"750"
 %}
 
 
+
+
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información completa de la laguna de Guatavita</a>
+
 
 ### -> ROCA DE SUESCA 🧗
 
 
+
+
 Suesca fue la primera población de Colombia que se inició en la escalada de rocas en 1938. Las rocas de Suesca alcanzan una altura de hasta 120 metros y tienen aproximadamente 3 kilómetros de extensión.
+
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ depende del sendero, el camino circular a la roca son 6 kilometros.
 - __Duración Sendero:__ 5 horas
 - __Inclinación del sendero:__  2,584 a 2,684 m.s.n.m
+
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/rocas-de-suesca.jpg",
@@ -162,30 +226,30 @@ width:"1000",
 height:"750"
 %}
 
+
 <a name="hospedaje-bogota" id="hospedaje-bogota"></a>
 
-## DÓNDE HOSPEDARTE EN EL BOGOTÁ 🏨
 
-En Bogotá hay una gran variedad de sitios turísticos, por lo cual hemos preparado para ti, algunos alojamientos de manera estratégica a fin de que se acomoden a tus necesidades. Si quieres estar cerca de museos, y la parte histórica en el centro de la ciudad o  si buscas un lugar tranquilo solo para descansar-
+## ¿DÓNDE HOSPEDARTE EN EL BOGOTÁ 🏨?
 
-### HOTELES TOP DE BOGOTÁ 
-En esta sección te mostraremos los mejores hoteles que encontramos, nos basamos en la referencia que nos hacían lo viajeros que habían visitado esta ciudad. 
+En Bogotá encontrarás una gran variedad de opciones de hospedaje. Nos hemos tomado el tiempo de categorizarlas en tres niveles: lo más top, precio medio y económico. Para seleccionar estos hospedajes, utilizamos la plataforma Booking, basándonos en criterios como los comentarios de los clientes, la ubicación y la trayectoria de los establecimientos.
+
+
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+
+
+### HOTELES TOP DE BOGOTÁ
+
+En esta sección te mostraremos los mejores hoteles que encontramos. Noos basamos en la referencia que nos han hecho los viajeros que han visitado esta ciudad.
 
 #### -> HAB HOTEL BOGOTÁ
 
 Este hotel se encuentra en el barrio Chapinero, que está cerca del centro histórico de Bogotá. Además, esta zona es muy tranquila, ideal si deseas descansar después de un largo viaje, en este hotel se permite el ingreso a mascotas 🐶.
 
 
-__CUENTA CON:__
-- WIFI gratis en todo el establecimiento.
-- Parqueadero privado gratis.
-- Servicio de sauna y baño turco.
-- Servicio de restaurante. 
-- Desayuno tipo buffet.
-- Centro fitness. 
-- __Lugares cerca:__ 
-- __Precio promedio del hospedaje:__ El valor es desde $588.000 a $900.000 pesos para 2 personas, esto depende de los servicios que incluya
-
+- __Cuenta con:__ WIFI gratis en todo el establecimiento, parqueadero privado gratis, servicio de sauna y baño turco,servicio de restaurante, desayuno tipo buffet yCentro fitness.
+- __Lugares cerca:__ Plaza de Bolívar, Centro de Convenciones Gonzalo Jiménez De Quesada, Edificio Tequendama, el aeropuerto más cercano (Aeropuerto internacional de El Dorado) está a 10 km del alojamiento. 
+- __Precio promedio del hospedaje:__ El valor es desde $588.000 a $900.000 pesos para 2 personas. Esto depende de los servicios que incluya. 
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/hab-hotel-bogota.jpg",
@@ -193,69 +257,130 @@ caption:"Foto: Hotel Hab Hotel Bogotá",
 width:"1000",
 height:"576"
 %}
- 
+
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/hab-bogota.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+
 
 #### -> TEQUENDAMA SUITES BOGOTÁ
 
-Este hotel cuenta con una excelente ubicación dentro de la ciudad. Su comodidad y sus instalaciones te harán sentir en el mejor lugar. 
+Este hotel cuenta con una excelente ubicación dentro de la ciudad. Su comodidad y sus instalaciones te harán sentir en el mejor lugar.
 
-__CUENTA CON:__
-- WIFI gratis en todo el establecimiento.
-- Parqueadero privado gratis.
-- Servicio de sauna y baño turco.
-- Servicio de restaurante. 
-- Desayuno tipo buffet.
-- Centro fitness. 
-- __Lugares cerca:__ 
- __Precio promedio del hospedaje:__ El valor está alrededor de $548.000 pesos para 2 personas.
+- __Cuenta con__ WIFI gratis en todo el establecimiento, Parqueadero privado gratis, Servicio de sauna y baño turco, Servicio de restaurante, Desayuno tipo buffet y Centro fitness.
+- __Lugares cerca:__  Plaza de Bolívar, Centro de Convenciones Gonzalo Jiménez De Quesada, Edificio Tequendama, el aeropuerto más cercano (Aeropuerto internacional de El Dorado) está a 10 km del alojamiento. 
+__Precio promedio del hospedaje:__ El valor está alrededor de $548.000 pesos para 2 personas.
 
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/tequendama-suites-bogota.jpg",
-caption:"Foto: Hotel Tequendama Suites Bogotá",
+caption:"Foto: Hotel Tequendama Suites Hotel",
 width:"1000",
 height:"576"
 %}
- 
+
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/crowne-plaza-tequendama-suites.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
 
-### HOTELES PRECIO MEDIO EN BOGOTÁ
+#### -> APARTAMENTO CENTENARI
 
+Este hotel ofrece un excelente servicio de su personal con lo cual quedarás muy satisfecho.
 
-#### -> APARTAMENTO CENTENARI 
+- __Cuenta con:__ WIFI gratis y una terraza, 2 dormitorios que cuentan con sala de estar con TV de pantalla plana, Cocina totalmente equipada con nevera y un baño con bañera o ducha.
+- __Lugares cerca:__ Aproximadamente 3,2 km de la Plaza de Bolívar, 3,5 km de Plazoleta del Chorro de Quevedo, A 4 km del Centro Internacional de Negocios, Exposiciones, Corferias y plaza de Paloquemao a pocas cuadras.
+- __Precio promedio del hospedaje:__ Este hospedaje cuenta con un precio aproximado de $280.000 pesos con impuestos. Ideal para una familia de cuatro personas.
 
-
-Este hotel ofrece un excelente servicio de su personal con lo cual quedarás muy satisfecho. 
-
-__CUENTA CON:__
-- WIFi gratis y una terraza. 
-- 2 dormitorios que cuentan con sala de estar con TV de pantalla plana.
-- Cocina totalmente equipada con nevera.
-- Un baño con bañera o ducha. 
-- __Lugares cerca:__ Aproximadamente 3,2 km de la Plaza de Bolívar, 3,5 km de Plazoleta del Chorro de Quevedo, a 4 km del Centro Internacional de Negocios y Exposiciones - Corferias y plaza de Paloquemao a poca cuadras. 
-
- __Precio promedio del hospedaje:__ Este hospedaje cuenta con un precio aproximado de $280.000 con impuestos. Ideal para una familia de cuatro personas. 
 
 {% include image.html,
-file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/parque-chingaza.jpg",
+file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/apartamento-centenari.jpg",
 caption:"Foto: Hotel Apartamento Centenari",
 width:"1000",
 height:"576"
 %}
 
+
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/apartamento-centenari.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+
+
+### HOTELES DE PRECIO MEDIO EN BOGOTÁ
+
+Este apartado de hoteles es especial para ir con amigos. 
+
+#### -> ULUCAHO HOSTEL
+Este hostal ofrece grandes comodidades a los usuarios, que les permitirá hacer caminatas nocturnas en sitios de interés. 
+
+- __Cuenta con__ WIFI gratis, Piscina y sala con TV compartida, Servicio de Tipis, Baño privado o compartido y Piscina compartida totalmente equipada.
+- __Lugares cerca:__  El aeropuerto Internacional Del Dorado se encuentra a 14 km del hostal, Zona de la Candelaria, Plaza de Bolívar y  el Museo de Oro a 10 minutos a pie, Chorro de Quevedo, 2 minutos a pie.
+- __Precio promedio del hospedaje:__ Con un precio aproximado de $270.000 pesos por dos noches el Ulucaho Hostel es una gran elección. 
+
+{% include image.html,
+file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/ulucaho-hostel.jpg",
+caption:"Foto: Ulucaho Hostel",
+width:"1000",
+height:"576"
+%}
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/ulucaho-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+
+
+#### -> VIAGGIO URBANO BUSINESS
+
+Este hostal ofrece una gran comodidad para sus huéspedes. Con un servicio de sus encargados excepcional podrás disfrutar de una agradable estancia. 
+
+- __Cuenta con:__ WIFI gratis, Cocina privada tipo americana, Sala de estar con televisión por cable, Algunas opciones tienen caja fuerte, Baño privado y ducha, Parqueadero gratis y desayuno tipo buffet.
+- __Lugares cerca:__  Aeropuerto Internacional El Dorado a 13 km de distancia de hotel, Cerro de Monserrate a 4 Km del Viaggio Urbano business. 
+- __Precio promedio del hospedaje:__  Este hospedaje tiene un precio mínimo aproximado en sus habitaciones de unos $360.000 pesos por dos noches.
+
+{% include image.html,
+file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/hotel-viaggio-urbano-business.jpg",
+caption:"Foto: Viaggio Urbano Business",
+width:"1000",
+height:"576"
+%}
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/viaggio-apartamentos-amoblados.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
 
 ### HOTELES ECONÓMICOS EN BOGOTÁ
 
 Si eres de las personas que no solo quiere un lugar para descansar, sin muchas comodidades, aquí te mostraremos algunas opciones que puedes tener en cuenta.
 
+#### -> HOTEL LAS COLONIAS
 
+Este hotel cuenta con una gran ubicación y una excelente atención por parte de su personal. Donde podrás descansar a gusto para seguir viajando lo más pronto posible.
 
-Este es el fin del post que hacer en Bogotá, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+- __Cuenta con:__  Parqueadero privado,WIFI gratis, terraza y restaurante, habitaciones con TV, baño privado, ropa de cama y toallas.
+- __Lugares cerca:__ La plaza Bolívar se encuentra a una distancia de 3,3 Km, 1,9 Km del palacio de Lievano, A 2,6 Km de la casa de los comuneros, Biblioteca Luis Ángel Arango está a 4,2 km del alojamiento, Centro Internacional de Negocios y Exposiciones está a 4,8 km., Aeropuerto Internacional El Dorado se encuentra a 12 km del alojamiento.
+- __Precio promedio del hospedaje:__
+El Hotel las colonias tiene habitaciones que rondan los $170.000 pesos por dos noches, como precio mínimo aproximadamente. 
 
+{% include image.html,
+file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/hotel-las-colonias.jpg",
+caption:"Foto: Hotel Las Colonias",
+width:"1000",
+height:"576"
+%}
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/las-colonias-bogota.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+ 
+
+#### -> EMBASSY ON HOLIDAYS
+
+Este alojamiento posee una gran comodidad y una ubicación privilegiada que dará una experiencia muy agradable a sus huéspedes.
+
+- __Cuenta con:__ WIFI gratis, Servicio de habitaciones, Adaptaciones a personas con movilidad reducida.   
+- __Lugares cerca:__  A 14 min a pie del Centro Internacional de Negocios y Exposiciones, a 5,2 km del Estadio El Campín, la biblioteca Luis Angel Arango queda a unos 6,7 km del lugar, el Centro Comercial Unicentro está a unos 12 km del lugar. 
+- __Precio promedio del hospedaje:__ cuenta en su precio mínimo con habitaciones que rondan desde los $216.000 pesos por dos noches en una habitación de una cama doble para dos personas. 
+
+{% include image.html,
+file:"rutas/cundinamarca/que-hacer-en-bogota/hospedajes-en-bogota/hotel-embassy-on-holidays.jpg",
+caption:"Foto: Hotel Embassy On Holidays ",
+width:"1000",
+height:"576"
+%}
+
+Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/embassy-on-holidays.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
+ 
+
+Este es el fin del post sobre qué hacer en Bogotá, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
 
 
