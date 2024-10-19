@@ -45,7 +45,7 @@ Empecemos con la aventura ⛰.
 
 
 
-## DATO CURIOSO DE CASCADA DE PAYANDE
+## DATO CURIOSO DE CASCADA DE PAYANDE 🧑‍🏫
 
 
 Se llaman las cascadas de Payande o cascadas de Chicala, ya que se componen de 6 cascadas, una seguida de otra. Algunos locales afirman que esta cascada se alimenta de aguas subterráneas, ya que esta zona del Tolima es muy rica en pozos de agua subterráneos. Esto explicaría la claridad de sus aguas y el característico tono azulado que adquieren al reflejar los rayos del sol, resaltando aún más su belleza natural.

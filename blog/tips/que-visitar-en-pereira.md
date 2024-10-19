@@ -27,7 +27,7 @@ Por último, si eres extranjero y quisieras contar con un guía que te acompañe
 
 👉 **<a href="https://wa.link/o4kphp" style="color:green;" target="_blank"> !Explorar Pereira con un guía bilingüe 👨‍🦱!</a>**
 
-## DATO CURIOSO DE PEREIRA
+## DATO CURIOSO DE PEREIRA 🧑‍🏫
 
 Fue fundada en 1863 en honor al abogado José Francisco Pereira Martínez, quien fue compañero de Bolívar y quiso establecer una ciudad cerca de la ciudad de Cartago Viejo.
 

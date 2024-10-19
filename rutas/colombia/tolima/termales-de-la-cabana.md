@@ -44,7 +44,7 @@ height:"300" %}
 
 <a name="dato-termales-cabaña" id="dato-termales-cabaña"></a>
 
-## DATO CURIOSO DE LOS TERMALES LA CABAÑA Y MURILLO
+## DATO CURIOSO DE LOS TERMALES LA CABAÑA Y MURILLO 🧑‍🏫
 
 Ubicado a tan solo 144 kilómetros de Ibagué, este hermoso municipio fundado en 1872 aún conserva sus raíces paisas y boyacenses. Cabe resaltar que su economía se basa en la ganadería, la agricultura y el turismo. 
 

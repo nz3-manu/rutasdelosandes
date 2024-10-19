@@ -14,7 +14,7 @@ author: manuel
 
 En este post encontrarás toda la información que necesitas saber para conocer los Chorros De Don Lolo.
 
-## DATO CURIOSO DE LOS CHORROS DE DON LOLO
+## DATO CURIOSO DE LOS CHORROS DE DON LOLO 🧑‍🏫
 
 Los Chorros De Don Lolo se encuentran a 1.5 kilómetros de la carretera hacia termales de San Vicente. Están ubicados en una zona boscosa donde se aprecia la belleza de la naturaleza y la inmensidad de esta cascada, que sobresale por encima de los árboles, haciéndolos ver diminutos.
 

@@ -54,9 +54,7 @@ Empecemos con la aventura ⛰.
 
 
 
-
-
-## DATO CURIOSO DE LA RESERVA BARBAS BREMEN
+## DATO CURIOSO DE LA RESERVA BARBAS BREMEN 🧑‍🏫
 
 
 El nombre del “Río Barbas” tiene una historia muy particular que cuentan los abuelos 👴; “un día Don Abraham se internó en el bosque en busca de una vaca, pero un felino devoró al anciano, dejando encima de la roca sus largas barbas y algunos restos de su cuerpo desde ese momento el río se llama Río Barbas.”

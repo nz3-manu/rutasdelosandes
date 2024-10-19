@@ -10,7 +10,7 @@ author: manuel
 trending: true
 ---
 
-# PARAMILLO DEL QUINDÍO
+# PARAMILLO DEL QUINDÍO 
 
 En este post te contaremos como fue nuestra **excursion al Paramillo del Quindío**, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
 
@@ -18,7 +18,7 @@ Ya si quisieras visitar este lugar con una agencia puedes escribirnos a través 
 
 **<a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank" style="color:green;"> 👉 puedes consultar excursiones grupales o privadas aquí </a>**
 
-# DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO
+## DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO 🧑‍🏫
 
 El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
 

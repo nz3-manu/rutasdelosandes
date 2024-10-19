@@ -52,7 +52,7 @@ A continuación te compartiremos el vídeo de las __rutas de senderismo en Puebl
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí.</a>
 
 
-## DATO CURIOSO DE PUEBLO RICO 🧐
+## DATO CURIOSO DE PUEBLO RICO 🧑‍🏫
 
 
 Pueblo Rico se encuentra a 97 kilómetros de la ciudad de Pereira. De igual manera está ubicado sobre el costado oriental de la cordillera occidental y cuenta con un territorio de 1020 km² aproximadamente, lo que lo convierte en el municipio con mayor extensión del departamento de Risaralda y __uno de los que alberga mayor riqueza natural en este departamento__ 🐸 ⛰.

@@ -28,7 +28,7 @@ Empecemos con la aventura ⛰.
 
 <a name="dato-peñas-blancas" id="dato-peñas-blancas"></a>
 
-# DATO CURIOSO DE PEÑAS BLANCAS
+## DATO CURIOSO DE PEÑAS BLANCAS 🧑‍🏫
 
 Esta majestuosa peña de 280 metros de altura se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Este lugar está lleno de leyendas Quimbayas ya que en este lugar era donde vivía el Cacique Calarcá hace más de 400 años, el era un hombre fuerte, de facciones duras que media casi 1,90 metros fue uno de los pocos a quien los españoles no pudieron dominar durante la Conquista.
 

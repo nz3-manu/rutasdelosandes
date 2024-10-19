@@ -32,7 +32,7 @@ Empecemos con la aventura ⛰.
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
 <a name="dato-laguna" id="dato-laguna"></a>
 
-## DATO CURIOSO DE LA LAGUNA DEL OTÚN
+## DATO CURIOSO DE LA LAGUNA DEL OTÚN 🧑‍🏫
 
 La Laguna del Otún es un embalse natural localizado en el departamento de Risaralda, más precisamente en el Parque Nacional Natural Los Nevados. La __La Laguna del Otún__ cuenta con una extensión de aproximadamente 1.5 kms y una profundidad que ronda los 70 metros. 
 

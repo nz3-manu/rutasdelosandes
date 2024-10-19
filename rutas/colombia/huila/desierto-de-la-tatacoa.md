@@ -32,7 +32,7 @@ Empecemos con la aventura ⛰.
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/huila/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
 
-## DATO CURIOSO DEL DESIERTO DE LA TATACOA
+## DATO CURIOSO DEL DESIERTO DE LA TATACOA 🧑‍🏫
 
 El Desierto de la Tatacoa es la __segunda zona árida más extensa de Colombia__ después de la península de la Guajira. Por lo tanto, lo convierte en uno de los escenarios naturales más atractivos de Colombia que ocupa 330 kilómetros cuadrados de tierra de color ocre y gris con pincelazos del verde de los cactus. El Desierto de la Tatacoa tiene dos colores característicos: ocre en el sector del Cuzco y gris en la zona de Los Hoyos.
 
