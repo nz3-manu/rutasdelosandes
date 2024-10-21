@@ -13,14 +13,16 @@ author: manuel
 # ¿QUÉ HACER EN BOGOTÁ?
 
 
-Sabemos lo difícil que puede ser querer visitar una ciudad y no saber donde hospedarte o que lugares visitar. A continuación, te mostraremos algunos sitios que deberías visitar en tu paso por Bogotá, así como algunas rutas de senderismo cercanas.
+Sabemos lo difícil que puede ser querer visitar una ciudad y no saber dónde hospedarte o qué lugares visitar. A continuación, te mostraremos algunos sitios que deberías conocer durante tu paso por Bogotá, así como algunas rutas de senderismo cercanas. Si deseas alquilar un carro o moto, en la sección de recomendaciones te dejamos algunas opciones
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
 
--  <a href="#donde-queda-eje"> ¿Dónde queda el Eje Cafetero?  </a>
 -  <a href="#que-hacer-bogota"> ¿Que hacer en la ciudad de Bogotá? </a>
 -  <a href="#rutas-en-bogota"> Rutas de senderismo Cerca de Bogotá </a>
+-  <a href="#tours-en-bogota"> Tours disponibles en Bogota</a>
 -  <a href="#hospedaje-bogota"> Opciones de hospedaje en Bogotá</a>
+-  <a href="#recomendaciones-bogota"> Recomendaciones finales para visitar Bogotá</a>
+
 
 No siendo más, empecemos ⛰️🏙️.
 
@@ -74,19 +76,18 @@ En Bogotá existen infinidad de museos, aquí te mostraremos los más emblemáti
 
 
 {% include image.html,
-file:"rutas/cundinamarca/que-hacer-en-bogota/chorro-de-quebevo.jpg",
-caption:"Foto: Chorro de Quevedo",
-width:"1000",
-height:"1333"
+file:"rutas/cundinamarca/que-hacer-en-bogota/museo-del-oro.jpg",
+caption:"Foto: Museo del Oro",
+width:"1080",
+height:"810"
 %}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/museodeloro/"  target="_blank"> @museodeloro </a> </span>__
 
 ### -> CHORRO DE QUEVEDO:
 
 
 Se dice que fue nombrado así porque en 1832 el padre Quevedo instaló un chorro de agua para facilitar el acceso a los habitantes. Es un lugar histórico importante en Bogotá, conocido por la tradicional chicha y los actos culturales que se realizan los viernes y sábados por la noche.
-
-
-
 
 {% include image.html,
 file:"rutas/cundinamarca/que-hacer-en-bogota/chorro-de-quebevo.jpg",
@@ -95,10 +96,13 @@ width:"1000",
 height:"1333"
 %}
 
-
 ###  ->  LA PUERTA FALSA
 
 Si lo tuyo no es comer en una plaza de mercado, podrías visitar el que es considerado el restaurante más antiguo en el cual fue fundado en 1816 y famoso por sus tamales y chocolate, tiene el nombre como «La Puerta Falsa».
+
+###  ->  MONSERRATE
+
+Monserrate es una montaña icónica en Bogotá, conocida por ofrecer vistas panorámicas de la ciudad. En su cima se encuentra el Santuario del Señor Caído, un lugar de peregrinación religiosa. Se puede acceder caminando, en teleférico o en funicular. Además de su importancia espiritual, Monserrate cuenta con restaurantes y tiendas de artesanías. Es un destino popular entre turistas y locales por su belleza natural y significado cultural.
 
 <a name="rutas-en-bogota" id="rutas-en-bogota"></a>
 
@@ -160,6 +164,16 @@ height:"750"
 %}
 
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información completa de las rocas de Suesca</a>
+
+
+<a name="tours-en-bogota" id="tours-en-bogota"></a>
+
+
+## TOURS DISPONIBLES EN BOGOTA 🧳
+
+Aquí te dejamos algunas opciones de tours que podrás tomar, tanto para visitar los lugares turísticos dentro de la ciudad de Bogotá como para explorar sitios naturales fuera de la ciudad.
+
+- __<a href="https://www.guruwalk.com/bogota"  target="_blank"> Guruwalk:</a>__ Aquí en esta página podrás encontrar una gran variedad de tours que puedes hacer en la ciudad de Bogotá. Muchos de estos tours cuentan con guías que hablan inglés y español.
 
 
 <a name="hospedaje-bogota" id="hospedaje-bogota"></a>
@@ -325,6 +339,15 @@ height:"576"
 
  👉 <a href= "https://www.booking.com/hotel/co/embassy-on-holidays.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí para reservar este hospedaje por Booking </a>
  
+<a name="recomendaciones-bogota" id="recomendaciones-bogota"></a>
+
+## RECOMENDACIONES FINALES PARA VISITAR BOGOTA 📋
+
+- __Tráfico:__ Bogotá tiene muchos problemas de movilidad, lo que dificultará desplazarte de un lugar a otro. Se recomienda evitar las horas pico, de 7 a 9 AM y de 5 a 8 PM. En la zona de La Calera, donde se encuentran el Parque Chingaza y la Laguna de Guatavita, que mencionamos en este post, los fines de semana los ciclistas suelen usar esta ruta, lo que complica aún más la movilidad. Un trayecto que normalmente toma 40 minutos puede convertirse en un viaje de 2 horas.
+- __Renta de carros:__ Si quieres alquilar un carro, te recomendamos usar la plataforma Rentcars, la cual es muy confiable.
+- __Hospedaje:__ Procura reservar por medio de una aplicación como Booking, ya que así evitarás inconvenientes por cancelaciones o porque tu reserva no aparezca. Siempre usamos esta plataforma en nuestros viajes y nos ha ido muy bien.
+- __Seguridad:__ Una de las modalidades de robo más comunes en Bogotá es el "carterista" (pickpocket). Ten cuidado con tus pertenencias en zonas turísticas y evita salir tarde en la noche.
+- __Visita Chingaza:__ Para visitar el Parque Chingaza es obligatorio contar con un guía, de lo contrario no te permitirán el ingreso. Además, debes pagar los seguros correspondientes.
 
 Este es el fin del post sobre qué hacer en Bogotá, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
