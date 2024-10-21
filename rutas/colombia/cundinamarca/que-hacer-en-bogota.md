@@ -13,7 +13,7 @@ author: manuel
 # ¿QUÉ HACER EN BOGOTÁ?
 
 
-Sabemos lo difícil que puede ser querer visitar una ciudad y no saber dónde hospedarte o qué lugares visitar. A continuación, te mostraremos algunos sitios que deberías conocer durante tu paso por Bogotá, así como algunas rutas de senderismo cercanas. Si deseas alquilar un carro o moto, en la sección de recomendaciones te dejamos algunas opciones
+Sabemos lo difícil que puede ser visitar una ciudad que no conoces, ya que siempre surgen preguntas como: ¿dónde me puedo hospedar?, ¿qué lugares visitar? o ¿dónde alquilar un auto o moto? A continuación, te presentamos una guía de viaje de Bogotá, con algunas rutas de senderismo cercanas. Al final, te dejamos algunas recomendaciones sobre seguridad, tráfico y sitios para alquilar vehículos.
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
 
@@ -344,7 +344,7 @@ height:"576"
 ## RECOMENDACIONES FINALES PARA VISITAR BOGOTA 📋
 
 - __Tráfico:__ Bogotá tiene muchos problemas de movilidad, lo que dificultará desplazarte de un lugar a otro. Se recomienda evitar las horas pico, de 7 a 9 AM y de 5 a 8 PM. En la zona de La Calera, donde se encuentran el Parque Chingaza y la Laguna de Guatavita, que mencionamos en este post, los fines de semana los ciclistas suelen usar esta ruta, lo que complica aún más la movilidad. Un trayecto que normalmente toma 40 minutos puede convertirse en un viaje de 2 horas.
-- __Renta de carros:__ Si quieres alquilar un carro, te recomendamos usar la plataforma Rentcars, la cual es muy confiable.
+- __Renta de carros:__ Si quieres alquilar un carro, te recomendamos usar la plataforma <a href="https://www.rentcars.com/es/?requestorid=8926&utm_source=rutasdelosandes.com&utm_medium=afiliado-link" target="_blank">Rentcars</a>, la cual es muy confiable,  <a href="https://www.rentcars.com/es/?requestorid=8926&utm_source=rutasdelosandes.com&utm_medium=afiliado-link" target="_blank" style="color: maroon;" > 👉 Haz clic aquí para ir al sitio web de Rentcars.</a>
 - __Hospedaje:__ Procura reservar por medio de una aplicación como Booking, ya que así evitarás inconvenientes por cancelaciones o porque tu reserva no aparezca. Siempre usamos esta plataforma en nuestros viajes y nos ha ido muy bien.
 - __Seguridad:__ Una de las modalidades de robo más comunes en Bogotá es el "carterista" (pickpocket). Ten cuidado con tus pertenencias en zonas turísticas y evita salir tarde en la noche.
 - __Visita Chingaza:__ Para visitar el Parque Chingaza es obligatorio contar con un guía, de lo contrario no te permitirán el ingreso. Además, debes pagar los seguros correspondientes.
