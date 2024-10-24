@@ -38,9 +38,22 @@ Esta leyenda creció tanto que llegó a los españoles, quienes buscaron incansa
 <a name="como-llegar-guatavita" id="como-llegar-guatavita"></a>
 
 ## ¿CÓMO LLEGAR A LA LAGUNA DE GUATAVITA 🚐?
+Si no cuentas con transporte, aquí te mostramos la mejores opciones para llegar, si piensas viajar un fin de semana o puente festivo 🍾💃 lo primero que debes hacer es llegar al pueblo de Guatavita el cual esta ubicado a 75 kilometros de Bogotá. Si vas a viajar en temporada baja aquí te mostraremos tambien la mejor opción.
 
+### 1º  LLEGAR AL PUEBLO DE GUATAVITA
 
-Si no cuentas con transporte privado, deberás tomar un bus desde el Terminal del Norte con destino a Guatavita. Los buses salen a partir de las 5:40 a.m. con una frecuencia aproximada de 30 minutos, y el último servicio es alrededor de las 9:00 p.m. La empresa es Flota Valle de Tenza, y su número de WhatsApp es 3108277440.
+Debes tomar un bus desde la Terminal del Norte de Bogotá con destino al pueblo de Guatavita. Los buses salen a partir de las 5:40 a.m. con una frecuencia aproximada de 30 minutos hasta las 10:00 p.m. El pasaje tiene un costo aproximado de $13,000 pesos y el trayecto dura 1 hora y 30 minutos, son en total 75 kilometros.
+
+Puedes verificar los horarios de salida de los buses llamando a Flota Valle de Tenza al siguiente número: <a href="tel:3108277440">3108277440</a>.
+
+### 2º DESDE EL PUEBLO DE GUATAVITA A LA LAGUNA DE GUATAVITA
+
+La Laguna de Guatavita se encuentra a proximadamente a  30 minutos del pueblo de Guatavita (15,4 kilometros), tienes dos opciones para llegar hasta allí:
+
+- __Opción 1, fin de semana o temporada alta:__ Al estar en el pueblo de Guatavita, debes tomar un bus que solo sale los fines de semana o en temporada alta (puentes festivos) con dirección a la Laguna de Guatavita. El valor del pasaje es de aproximadamente $10,000 pesos.
+- __Opción 2, temporada baja:__ Pide al conductor del bus en el que vienes de Bogotá que te deje en el desvío hacia la Laguna de Guatavita (puedes ver señalización en el mapa que dejamos más abajo ⚠️). Desde allí, hay un recorrido de 7 kilometros en subida que puedes caminar en aproximadamente 1 hora y 30 minutos.
+
+__NOTA:__ _En la parte de las recomendaciones dejamos los enlaces por si deseas alquilar un vehículo._
 
 
 ## LUGARES PARA CONOCER EN GUATAVITA ⚜️
@@ -60,7 +73,7 @@ En este mapa podrás ver algunos sitios de interés que encontramos en nuestro r
 
 ### -> PUEBLO DE GUATAVITA
 
-No puedes dejar de visitar el maravilloso pueblo de Guatavita, conocido por su arquitectura colonial y sus casas blancas. En el parque principal, encontrarás una escultura de una balsa de oro, que hace referencia a la leyenda de "El Dorado" y representa la embarcación que el cacique usaba para navegar por la laguna de Guatavita.
+No puedes pasar por alto para visitar este maravilloso pueblo de Guatavita, conocido por su arquitectura colonial y sus casas blancas. En el parque principal, encontrarás una escultura de una balsa de oro ⚜️, que hace referencia a la leyenda de "El Dorado" y representa la embarcación que el cacique usaba para navegar por la laguna de Guatavita.
 
 Este pueblo se construyó en 1960, después de que el original fuera inundado para la construcción del embalse de Tominé, que abastece de agua a Bogotá.
 
@@ -74,19 +87,18 @@ height:"1411" %}
 
 ### -> LAGUNA DE GUATAVITA 
 
-Esta ruta se realiza completamente por un sendero privado y debe hacerse con la compañía de un guía. Es un recorrido de aproximadamente 3.2 kilómetros 🛤️. El sendero está en muy buen estado, por lo que es una ruta que se puede hacer con niños o en familia 👨‍👩‍👧‍👦. Ten en cuenta que, al ser una reserva, no se permite el ingreso de mascotas 🐕🚫.
+Esta ruta se realiza completamente por un sendero privado y debe hacerse con la compañía de un guía. __Es un recorrido de aproximadamente 2.8 kilómetros__ 🛤️. El sendero está en muy buen estado, por lo que es una ruta que se puede hacer con niños o en familia 👨‍👩‍👧‍👦. Ten en cuenta que, al ser una reserva, no se permite el ingreso de mascotas 🐕🚫.
 
 
 Al final del recorrido, se llega a tres miradores desde los cuales se puede apreciar la laguna de Guatavita, con su característico color verde esmeralda. Al costado izquierdo, se puede ver una grieta en forma de V, donde rompieron la montaña para drenar el agua de la laguna, lo que provocó que perdiera 54 metros de profundidad. Todo esto lo hicieron en su intento por encontrar El Dorado.
 
-__Nota:__ Al finalizar el recorrido, saldrán por otra parte. Para llegar al punto donde iniciaron la caminata, tendrán que caminar 3 kilómetros, o si no desean caminar, podrán tomar un bus que sale del parque y los lleva al inicio del sendero.
+__Nota:__ _Al finalizar el recorrido, saldrán por otra parte. Para llegar al punto donde iniciaron la caminata, tendrán que caminar 3 kilómetros, o si no desean caminar, podrán tomar un bus que sale del parque y los lleva al inicio del sendero._
 
 {% include image.html,
 file:"rutas/cundinamarca/laguna-de-guatavita/laguna-de-guatavita.jpg",
 caption:"Foto: Tercer Mirador de Laguna de Guatavita",
 width:"1000",
 height:"750" %}
-
 
 
 <a name="tours-suesca" id="tours-guatavita"></a>
