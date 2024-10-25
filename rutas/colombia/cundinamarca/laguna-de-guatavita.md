@@ -13,16 +13,17 @@ author: manuel
 # LAGUNA DE GUATAVIA 
 
 
-Si llegaste a este post porque tienes dudas sobre cómo llegar a la laguna de Guatavita, aquí te daremos toda la información necesaria para facilitar tu visita. Si te preguntas si es una ruta familiar, quédate hasta el final del post para descubrirlo 😅. Además, compartiremos hospedajes cercanos y recomendaciones, incluyendo agencias para rentar autos.
+Si llegaste a este post, es porque tienes dudas sobre cómo llegar a la Laguna de Guatavita. Aquí te daremos toda la información necesaria para facilitar tu visita. Si no conoces la historia de este lugar, te invitamos a leer este post 🫣. Además, compartiremos opciones de hospedajes cercanos, recomendaciones y agencias para rentar autos.
 
-
-* <a href="#cómo-llegar-guatavita"> Cómo llegar hasta la Laguna de Guatavita</a>
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+* <a href="#como-llegar-guatavita"> Cómo llegar hasta la Laguna de Guatavita</a>
 * <a href="#lugares-guatavita"> Lugares para conocer en guatavita  </a>
-* <a href="#llegar-guatavita"> Tours disponibles desde Bogota</a>
+* <a href="#tour-guatavita"> Tours disponibles desde Bogota</a>
 * <a href="#hospedaje-guatavita"> Donde Hospedarse en la Laguna de Guatavita</a> 
 * <a href="#recomendacion-guatavita"> Recomendaciones finales</a>
 
 
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/cundinamarca/laguna-de-guatavita/lake-guatavita.html">See this post in English version 🇺🇸</a>]**
 
 
 Si eres amante de las rutas con mucha historia y paisajes hermosos, este es tu lugar.
@@ -56,12 +57,14 @@ La Laguna de Guatavita se encuentra a proximadamente a  30 minutos del pueblo de
 __NOTA:__ _En la parte de las recomendaciones dejamos los enlaces por si deseas alquilar un vehículo._
 
 
+<a name="lugares-guatavita" id="lugares-guatavita"></a>
+
 ## LUGARES PARA CONOCER EN GUATAVITA ⚜️
 
 Guatavita es un pueblo pequeño, pero lleno de historia. Muchos afirman que este lugar fue clave en la colonización de Latinoamérica, ya que aquí nació la leyenda de "El Dorado," la ciudad de oro que los españoles buscaron incansablemente.
 
 
-__MAPA DE LA RUTA REALIZADA EN LA LAGUNA DE GUATAVITA__
+__MAPA DE LA RUTA REALIZADA EN LA LAGUNA DE GUATAVITA:__
 
 En este mapa podrás ver algunos sitios de interés que encontramos en nuestro recorrido, así como el camino que realizamos en la laguna de Guatavita.
 
@@ -101,13 +104,19 @@ width:"1000",
 height:"750" %}
 
 
-<a name="tours-suesca" id="tours-guatavita"></a>
+<a name="tour-guatavita" id="tour-guatavita"></a>
 
 ## TOURS A LA LAGUNA DE GUATAVITA ⚜️🧳
 
-- __Laguna de Guatavita y la Catedral de Sal de Zipaquirá:__ En esta excursión desde Bogotá, incluye transporte en autobús o minibús, clic aquí para reservar.
+Aquí te mostraremos algunos tours que salen desde Bogotá, elegimos algunas empresas locales que cuentan con buenas recomendaciones.
 
-Este es el fin de la ruta a la Laguna de Guatavita, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+### -> LAGUNA DE GUATAVITA Y LA CATEDRAL DE SAL DE ZIPAQUIRÁ
+
+ Este tour inicia en Bogotá, los recogen en bus o microbus, los lugares que visitarán son: Laguna de Guatavita y la catedral de sal, este recorrido tarde en promedio de 11 a 13 horas, el ingreso a mascotas esta prohibido.
+
+ 👉 <a href= "https://www.booking.com/hotel/co/cabana-vista-al-lago-tomine-y-naturaleza-guatavita.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar este tour puedes dar clic aquí </a>
+
+
 
 <a name="hospedaje-guatavita" id="hospedaje-guatavita"></a>
 
@@ -280,18 +289,20 @@ height:"576"
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/venta-del-espino-zipaquira.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
 
-<a name="recomendacion-suesca" id="recomendacion-suesca"></a>
+<a name="recomendacion-guatavita" id="recomendacion-guatavita"></a>
 
 
 ## -> RECOMENDACIONES FINALES 📋
 
 Aquí te daremos algunas recomendaciones que debes tener en cuenta al visitar la laguna dé Guatavita.
 
-- __Entrada al parque:__ El parque lo abren de 8 am a 3:30 pm, se recomienda estar temprano, ya que se atiende por hora de llegada, 
+- __Entrada al parque:__ El parque lo abren de 8 am a 4:00 pm, se recomienda estar temprano, ya que se atiende por hora de llegada, valor de la entrada es de $18.000 COP para Colombianos y extranjeros $25.5000 COP.
+- __Cierre del parque:__ El parque cierra los lunes, y si es lunes festivo, cerrará el martes.
 - __Prohibido el ingreso:__  Prohibido el ingreso a: mascotas, personas en estado de embarazo y personas con cirugías recientes.
 - __Ropa adecuada:__ El clima en Guatavita es impredecible y algo frío debido a su altitud (2988 m s. n. m). Se recomienda llevar chaquetas impermeables.
-- __¿Si vas solo cuánto vale?:__ ellos allá manejan una tarifa de ingreso, por personas si vas solo te vinculan a otro grupo, así que relájate que no podrás hacerlo sin problema
+- __¿Si vas solo cuánto vale?:__ ellos allá manejan una tarifa de ingreso independiente si no hay muchas personas, el guía sale con las personas que hay en el momento.
 
 
 ¿No sabes dónde comprar estas prendas? <a target="_blank" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
 
+Este es el fin de la ruta a la Laguna de Guatavita, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
