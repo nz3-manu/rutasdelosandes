@@ -12,22 +12,26 @@ author: manuel
 
 # ROCAS DE SUESCA
 
-En este post encontrarás toda la información que necesitas saber para visitar las rocas de Suesca te indicaremos:
+Si estás leyendo esto, es porque tienes dudas sobre este lugar sobre esta ruta. Aquí te explicaremos la ruta, compartiremos opciones de hospedaje y zonas de camping, y también te dejaremos enlaces si deseas contratar un tour. Esperamos que disfrutes de este post.
 
+__EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+* <a href="#dato-suesca"> Dato curioso de la Roca de Suesca</a>
 * <a href="#como-llegar-suesca"> Cómo llegar hasta las Rocas de Suesca</a>
-* <a href="#hospedaje-suesca"> Donde Hospedarse en Suesca</a>  
-* <a href="#llegar-suesca"> Tours disponibles en las Rocas de Suesca </a>
 * <a href="#lugares-suesca"> Lugares para conocer en Suesca </a>
-* <a href="#recomendacion-suesca"> Recomendaciones finales</a>
 * <a href="#tours-suesca"> Tours disponibles en la Roca de Suesca</a>
+* <a href="#hospedaje-suesca"> Donde Hospedarse en Suesca</a>  
+* <a href="#recomendacion-suesca"> Recomendaciones finales</a>
+
 
 Si eres amante de la escalada 🧗este es sin duda un lugar que debes visitar.
 
-## DATOS CURIOSO DE LAS ROCAS DE SUESCA
+<a name="dato-suesca" id="dato-suesca"></a>
 
-En la época de la colonización de los españoles, esta roca sirvió de refugio para los indígenas muiscas que habitaban esta zona, ya que cuenta con numerosas cuevas que usaban también para guardar sus tesoros.
-Suesca fue la primera población de Colombia que se inició en la escalada de rocas en 1938. Las rocas de Suesca alcanzan una altura de hasta 120 metros y tienen aproximadamente 3 kilómetros de extensión.
-Este importante lugar es uno de los lugares más importantes para practicar escalada en Colombia, alberga más de 400 rutas de escalada en roca de diferentes modalidades y todos los niveles de dificultad.
+## DATOS CURIOSO DE LAS ROCAS DE SUESCA 🧑‍🏫
+
+Durante la época de la colonización española, esta roca fue un refugio para los indígenas muiscas que habitaban la zona, ya que cuenta con numerosas cuevas que utilizaban también para guardar sus tesoros. 🪨 Suesca fue la primera población de Colombia en iniciarse en la escalada de rocas, en 1938. 
+
+Las rocas de Suesca alcanzan alturas de hasta 120 metros y se extienden aproximadamente 3 kilómetros. Este lugar es uno de los sitios principales para practicar escalada en Colombia, con más de 400 rutas de escalada en roca de diferentes modalidades y niveles de dificultad. 🧗‍♀️
 
 
 <a name="como-llegar-suesca" id="como-llegar-suesca"></a>
@@ -35,16 +39,90 @@ Este importante lugar es uno de los lugares más importantes para practicar esca
 
 ## ¿CÓMO LLEGAR HASTA LAS ROCAS DE SUESCA 🚐?
 
-Suesca es un municipio de Cundinamarca que se encuentra a 59 kilómetros de la capital de Colombia, Bogotá. Para llegar a Suesca, puedes tomar un bus en la terminal Norte de Bogotá, que cuesta alrededor de $14.000 pesos, y el recorrido dura aproximadamente 1 h 30 min.
-Si vas en vehículo particular, la carretera está completamente pavimentada y encontrarás una gran variedad de parqueaderos en el lugar.
+Suesca es un municipio de Cundinamarca que se encuentra a 59 kilómetros de la capital de Colombia, Bogotá. Para llegar a Suesca, puedes tomar un bus en la terminal Norte de Bogotá, el cual tiene un valor aproximado de $14.000 pesos, y el recorrido dura aproximadamente 1 h 30 min. Si vas en vehículo particular, la carretera está completamente pavimentada y encontrarás una gran variedad de parqueaderos en el lugar.
+
+__NOTA:__ _Si vas en transporte público, debes decirle al conductor que te deje en la entrada de las rocas de Suesca, ya que si no te dejara en el pueblo, y tendrán que caminar 2 kilómetros para llegar a la entrada._
+
+
+<a name="lugares-suesca" id="lugares-suesca"></a>
+
+
+## LUGARES PARA CONOCER CERCA DE SUESCA 🧗
+
+
+Suesca cuenta con varios lugares para visitar, aquí solo te mostraremos los lugares cercanos a la roca de suescar, ya que hay otros luagares que quedan un poco más lejos y son en predios privados.
+
+
+__MAPA DE LAS RUTA REALIZADA EN LAS ROCAS DE SUESCA:__
+
+
+Debes de saber que en esta ruta que se muestra a continuación van a tener que pasar por predios privados, así que aconsejamos hacer esta caminata con una guía local.
+
+
+{% include iframe.html
+  type:"custom"
+  mid:"1BAy66YGYLP7gD10zv03QSag6FTanNiI&hl=es&ehbc=2E312F"
+  caption:"Mapa Ruta en las rocas de Suesca"
+%}
+
+### -> ROCA DE SUESCA
+
+Esta roca mide 2,000 metros de largo, y su altura varía entre 20 y 130 metros. Aquí podrás practicar escalada; si no tienes experiencia, te recomendamos hacerlo con una empresa que cuente con los seguros necesarios, como el Registro Nacional de Turismo, seguros médicos y guias certificados.
+
+
+{% include image.html,
+file:"rutas/cundinamarca/roca-suesca/roca-de-suesca.jpg",
+caption:"Foto: Roca de Suesca",
+width:"1400",
+height:"1050" %}
+
+### -> CUEVA DENTRO DE LA PIEDRA DE SUESCA
+
+
+Al inicio del sendero hay una cueva de aproximadamente 20 metros de largo que termina en un pozo de agua. No se recomienda realizar este recorrido sin la compañía de un guía, ya que hay tramos muy estrechos y resbaladizos.
+
+
+{% include image.html,
+file:"rutas/cundinamarca/roca-suesca/cueva-roca-suesca.jpg",
+caption:"Foto: Cueva en la Roca de Suesca",
+width:"800",
+height:"1421" %}
+
+### -> MIRADOR DE SUESCA
+
+
+Este mirador se encuentra en el sendero junto a las vías del tren. Se recomienda subir con el equipo de protección adecuado y con el acompañamiento de un guía. El otro mirador está a 10 minutos de los parqueaderos (ver mapa)
+
+{% include image.html,
+file:"rutas/cundinamarca/roca-suesca/mirador-suesca.jpg",
+caption:"Foto: Roca de Suesca",
+width:"1000",
+height:"750" %}
+
+<a name="tours-suesca" id="tours-suesca"></a>
+
+
+## TOURS EN LAS ROCAS DE SUESCA 🪨 🧳
+
+El valor de la ruta de escalada depende de la altura que desees escalar. A continuación, te mostraremos el precio del tour para principiantes. Ten en cuenta que es necesario hacer una reserva previa para participar en estos tours.
+
+### -> ESCALADA PARA PRINCIPIANTES
+
+Una ruta de aproximadamente 30 mertros de escalada, tiene un tiempo promedio de 20 a 25 minutos.
+
+__INCLUYE:__
+- Equipo completo de escalada
+- Guía certificado
+- __Valor por persona:__ De aproximadamente $60.000 Pesos.
+
 
 <a name="hospedaje-suesca" id="hospedaje-suesca"></a>
 
 ## HOSPEDAJE EN SUESCA 🛏️
 
-Suesca es un municipio pequeño, por lo que las opciones de hospedaje son limitadas. Te aconsejamos hacer la reserva con tiempo para evitar inconvenientes, te dejamos los link para reservar por medio de la plataforma Booking, ya que siempre es la que usamos al viajar y nunca hemos tenido inconvenientes.
+Suesca es un municipio pequeño, por lo que las opciones de hospedaje son limitadas. Te aconsejamos hacer la reserva con anticipación para evitar inconvenientes. Aquí te mostraremos algunos hospedajes que seleccionamos con base en su ubicación, precio y calificación de usuarios. Si deseas reservar, te dejamos los enlaces a través de la plataforma Booking, que es la que siempre usamos al viajar y con la cual nunca hemos tenido inconvenientes.
 
-__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes 🥺, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
 ### -> HOPEDAJE CASONA QUESADA (OPCIÓN FAMILIAR)
@@ -111,60 +189,10 @@ height:"576"
 
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/escala-suesca.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
-<a name="lugares-suesca" id="lugares-suesca"></a>
 
+### -> ZONAS DE CAMPING
 
-## LUGARES PARA CONOCER CERCA DE SUESCA 🧗
-
-
-Suesca cuenta con varios lugares para visitar, aquí solo te mostraremos los lugares cercanos a la roca de suescar, ya que hay otros luagares que quedan un poco más lejos y son en predios privados.
-
-
-__MAPA DE LAS RUTA REALIZADA EN LAS ROCAS DE SUESCA__
-
-
-Debes de saber que en esta ruta que se muestra a continuación van a tener que pasar por predios privados, así que aconsejamos hacer esta caminata con una guía local.
-
-
-{% include iframe.html
-  type:"custom"
-  mid:"1BAy66YGYLP7gD10zv03QSag6FTanNiI&hl=es&ehbc=2E312F"
-  caption:"Mapa Ruta en las rocas de Suesca"
-%}
-
-### -> ROCA DE SUESCA
-
-Esta roca mide 2.000 metros de largo y la altura oscila entre los 20 metros hasta los 130 mde altura, aquí podras escarlar, si no tienes experiencia te recomendamos hacer esto con una empresa que cuente con los respectivos seguros, para que estes seguro.
-
-
-{% include image.html,
-file:"rutas/cundinamarca/roca-suesca/roca-de-suesca.jpg",
-caption:"Foto: Roca de Suesca",
-width:"1400",
-height:"1050" %}
-
-### -> CUEVA DENTRO DE LA PIEDRA DE SUESCA
-
-
-Al inicio del sendero hay una cueva de aproximadamente 20 metros de largo que termina en un pozo de agua. No se recomienda realizar este recorrido sin la compañía de un guía, ya que hay tramos muy estrechos y resbaladizos.
-
-
-{% include image.html,
-file:"rutas/cundinamarca/roca-suesca/cueva-roca-suesca.jpg",
-caption:"Foto: Cueva en la Roca de Suesca",
-width:"800",
-height:"1421" %}
-
-### -> MIRADOR DE SUESCA
-
-
-Este mirador se encuentra en el sendero junto a las vías del tren. Se recomienda subir con el equipo de protección adecuado y con el acompañamiento de un guía. El otro mirador está a 10 minutos de los parqueaderos (ver mapa)
-
-{% include image.html,
-file:"rutas/cundinamarca/roca-suesca/mirador-suesca.jpg",
-caption:"Foto: Roca de Suesca",
-width:"1000",
-height:"750" %}
+Cerca de la roca de Suesca, también encontrarás lugares para acampar. Los precios van desde aproximadamente $30,000 pesos por persona si llevas tu propia carpa, y $50,000 pesos si prefieres alquilar una en el lugar. Estos precios pueden variar un poco en el futuro; la información es actualizada para el año 2024.
 
 <a name="recomendacion-suesca" id="recomendacion-suesca"></a>
 
@@ -179,23 +207,6 @@ Aquí te daremos algunas recomendaciones que debes tener en cuenta al visitar la
 - __Ruta de senderismo:__ la ruta circular que se muestra en este post, se pasa por fincas privadas, por este motivo se recomienda hacer el sendero con guías locales ya que como ha pasado en mcuhos lugares estos senderos los pueden cerrar.
 
 ¿No sabes dónde comprar estas prendas? <a target="_blank" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
-
-
-<a name="tours-suesca" id="tours-suesca"></a>
-
-
-## TOURS EN LAS ROCAS DE SUESCA 🪨 🧳
-
-El valor de la ruta de escalada depende de la altura que desees escalar. A continuación, te mostraremos el precio del tour para principiantes. Ten en cuenta que es necesario hacer una reserva previa para participar en estos tours.
-
-### -> PRINCIPIANTES
-
-Una ruta de aproximadamente 30 mertros de escalada, tiene un tiempo promedio de 20 a 25 minutos.
-
-__INCLUYE:__
-- Equipo completo de escalada
-- Guía certificado
-- __Valor por persona:__ Este valor es aproximado $60.000
  
 
 Este es el fin de la rutas a las rocas de Suesca, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

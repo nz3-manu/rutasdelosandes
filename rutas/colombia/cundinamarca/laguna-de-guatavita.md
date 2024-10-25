@@ -16,6 +16,7 @@ author: manuel
 Si llegaste a este post, es porque tienes dudas sobre cómo llegar a la Laguna de Guatavita. Aquí te daremos toda la información necesaria para facilitar tu visita. Si no conoces la historia de este lugar, te invitamos a leer este post 🫣. Además, compartiremos opciones de hospedajes cercanos, recomendaciones y agencias para rentar autos.
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
+* <a href="#dato-guatavita"> Dato curioso de la Laguna de Guatavita</a>
 * <a href="#como-llegar-guatavita"> Cómo llegar hasta la Laguna de Guatavita</a>
 * <a href="#lugares-guatavita"> Lugares para conocer en guatavita  </a>
 * <a href="#tour-guatavita"> Tours disponibles desde Bogota</a>
@@ -28,6 +29,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Si eres amante de las rutas con mucha historia y paisajes hermosos, este es tu lugar.
 
+<a name="dato-guatavita" id="dato-guatavita"></a>
 
 ## DATOS CURIOSO DE LA LAGUNA DE GUATAVITA 🧑‍🏫
 
@@ -52,10 +54,9 @@ Puedes verificar los horarios de salida de los buses llamando a Flota Valle de T
 La Laguna de Guatavita se encuentra a proximadamente a  30 minutos del pueblo de Guatavita (15,4 kilometros), tienes dos opciones para llegar hasta allí:
 
 - __Opción 1, fin de semana o temporada alta:__ Al estar en el pueblo de Guatavita, debes tomar un bus que solo sale los fines de semana o en temporada alta (puentes festivos) con dirección a la Laguna de Guatavita. El valor del pasaje es de aproximadamente $10,000 pesos.
-- __Opción 2, temporada baja:__ Pide al conductor del bus en el que vienes de Bogotá que te deje en el desvío hacia la Laguna de Guatavita (puedes ver señalización en el mapa que dejamos más abajo ⚠️). Desde allí, hay un recorrido de 7 kilometros en subida que puedes caminar en aproximadamente 1 hora y 30 minutos.
+- __Opción 2, temporada baja:__ Pide al conductor del bus en el que vienes de Bogotá que te deje en el desvío hacia la Laguna de Guatavita (puedes ver señalización en el mapa que dejamos más abajo ⚠️).Desde allí, hay un recorrido de 7 kilómetros en subida, la carretera no está pavimentada pero consideramos que está en buen estado.
 
-__NOTA:__ _En la parte de las recomendaciones dejamos los enlaces por si deseas alquilar un vehículo._
-
+__NOTA:__ _Si vas en carro o moto, en el camino hay algunos lugares que tienen una vista hermosa del embalse de Tominé. Si quisieras alquilar un carro y no sabes donde hacerlo, puedes dar  <a href="https://www.rentcars.com/es/?requestorid=8926&utm_source=rutasdelosandes.com&utm_medium=afiliado-link" style="color: maroon;" target="_blank">👉 clic aquí para ir al sitio web de Rentcars.</a>_
 
 <a name="lugares-guatavita" id="lugares-guatavita"></a>
 

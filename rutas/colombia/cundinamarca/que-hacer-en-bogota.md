@@ -16,7 +16,7 @@ author: manuel
 Sabemos lo difícil que puede ser visitar una ciudad que no conoces, ya que siempre surgen preguntas como: ¿dónde me puedo hospedar?, ¿qué lugares visitar? o ¿dónde alquilar un auto o moto? A continuación, te presentamos una guía de viaje de Bogotá, con algunas rutas de senderismo cercanas. Al final, te dejamos algunas recomendaciones sobre seguridad, tráfico y sitios para alquilar vehículos.
 
 **INFORMACIÓN QUE ENCONTRARÁS EN ESTE POST:**
-
+- <a href="#dato-bogota"> DatoS curiosoS de Bogotá</a>
 -  <a href="#que-hacer-bogota"> ¿Que hacer en la ciudad de Bogotá? </a>
 -  <a href="#rutas-en-bogota"> Rutas de senderismo Cerca de Bogotá </a>
 -  <a href="#tours-en-bogota"> Tours disponibles en Bogota</a>
@@ -28,8 +28,9 @@ No siendo más, empecemos ⛰️🏙️.
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/cundinamarca/what-to-do-in-bogota.html">See this post in English version 🇺🇸</a>]**
 
+<a name="dato-bogota" id="dato-bogota"></a>
 
-## DATO CURIOSO DE BOGOTÁ 🧑‍🏫
+## DATOS CURIOSOS DE BOGOTÁ 🧑‍🏫
 
 Bogotá, originalmente conocida como Bacatá, fue habitada por los pueblos indígenas Muiscas y Chibchas, quienes vivían en aldeas pequeñas y gobernados por un líder llamado el Zipa. Con la llegada de los españoles en el siglo XVI, liderados por Gonzalo Jiménez de Quesada, Bacatá fue transformada en una ciudad más grande, primero llamada Santa Fe de Bacatá y luego Nuestra Señora de la Esperanza. A lo largo de su historia, la ciudad ha pasado por importantes eventos, como la Expedición Botánica y la lucha por la independencia, que culminó el 20 de julio de 1810. En el siglo XX, Bogotá creció significativamente y se convirtió en el Distrito Capital de Colombia, albergando actualmente a cerca de 8 millones de habitantes y destacándose por su rica diversidad cultural y su historia.
 
