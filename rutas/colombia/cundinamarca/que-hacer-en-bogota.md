@@ -69,7 +69,6 @@ height:"1333"
 
 En Bogotá existen infinidad de museos, aquí te mostraremos los más emblemáticos, debes de saber que los domingos algunos museos son gratis en Bogotá.
 
-
 - __Museo del oro:__ El Museo del Oro, fundado por el Banco de la República en 1939, preserva objetos de orfebrería precolombina de Colombia. Desde 1968, su moderno edificio alberga más de 26,000 piezas en tres pisos, junto con piezas de cerámica y otros materiales. Actualmente, la exhibición del segundo piso está en renovación.
 - __Museo Botero:__ El Museo Botero alberga una de las más importantes colecciones de arte internacional en Latinoamérica. Gracias a la donación de Fernando Botero en 2000 al Banco de la República, el público puede acceder gratuitamente a 208 obras, 123 de Botero y 85 de renombrados artistas internacionales.
 
