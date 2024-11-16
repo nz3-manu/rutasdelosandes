@@ -19,11 +19,11 @@ author: manuel
 Debes saber que el bosque de pandora solo se llama a este Bosque que queda dentro de un Ecopoarque, los otros lugares quedan fuera de esta Ecoparque.
 
 
-* <a href="#cómo-llegar-pandora"> Cómo llegar hasta el Bosque de pandora</a>
-* <a href="#lugares-pandora"> Lugares turísticos que hay en este lugar</a>
-* <a href="#tour-pandora"> Tours disponibles para el Bosque de Pandora</a>
-* <a href="#hospedaje-pandora"> Donde Hospedarse cerca al bosque de Pandora</a>
-* <a href="#recomendacion-pandora"> Recomendaciones finales</a>
+* <a href="#como-llegar-bosque-pandora"> Cómo llegar hasta el Bosque de pandora</a>
+* <a href="#lugares-bosque-pandora"> Lugares turísticos que hay en este lugar</a>
+* <a href="#tour-bosque-pandora"> Tours disponibles para el Bosque de Pandora</a>
+* <a href="#hospedaje-bosque-pandora"> Donde Hospedarse cerca al bosque de Pandora</a>
+* <a href="#recomendacion-bosque-pandora"> Recomendaciones finales</a>
 
 
 
@@ -36,7 +36,7 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/santan
 
 ## DATOS CURIOSOS DEL PEÑON SANTANDER 🧑‍🏫
 
-El Peñón, Santander, alberga uno de los sistemas de cavernas más grandes de Colombia, con más de 40 cuevas como La Tronera y Caverna El Oro. Sus impresionantes formaciones y ecosistema subterráneo lo convierten en un destino único para los amantes de la naturaleza y la aventura. 🦇
+El Peñón, Santander, alberga uno de los sistemas de Cavernas más grandes de Colombia, con más de 40 cuevas como La Tronera y Caverna El Oro. Sus impresionantes formaciones y ecosistema subterráneo lo convierten en un destino único para los amantes de la naturaleza y la aventura. 🦇
 
 Su economía se basa en la agricultura (café y maíz), la ganadería y el turismo, impulsado por atractivos naturales, lo que brinda nuevas oportunidades de desarrollo.
 
@@ -53,26 +53,29 @@ El conflicto armado en Colombia ha afectado a El Peñón, Santander, principalme
 El bosque de Pandora se encuentra en el municipio de del Peñón en Santander, a pesar de que es de Santander, se encuentra alejando de su capital Bucaramanga a unos 269.7 kilómetros, curiosamente está más cerca de Bogotá, aquí te mostraremos como llegar desde las principales ciudades de Colombia.
 
 
-- __Como llegar desde Medellín:__
-- __Como llegar desde Bogotá:__
-- __Como llegar desde Cali:__
+- __Como llegar desde Medellín:__  Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y queda a mitad de camino entre Medellin/Bucaramanga.
+- __Cómo llegar desde Bogotá:__ Debes tomar un bus desde el Terminal de Salitre (Bogotá). Algunas de las empresas que operan este trayecto son: Copetran, Concorde, Autoboy, Omega, Libertadores, entre otras. __Este viaje tarda aproximadamente 4 horas para llegar a Barbosa-Santander__. Los horarios de salida son cada 20 minutos, desde las 03:00 a.m. hasta las 09:00 p.m.
+
+Una vez en Barbosa, tendrás que tomar otro transporte hasta El Peñón, Santander. __Este trayecto dura aproximadamente 4 horas__.
+
+__Recomendación:__ Algunas personas optan por tomar un bus de Bogotá a Vélez, Santander. Sin embargo, debes saber que esta carretera es destapada y se recomienda viajar en un vehículo 4x4.
 
 
-
+<a name="lugares-bosque-pandora" id="lugares-bosque-pandora"></a>
 
 ## LUGARES PARA CONOCER EN EL PEÑÓN SANTANDER 🔮🍃
 
 
-Algo que debes de saber es que el Bosque de pandora se llama en específicamente al bosque, el cual queda en un Ecoparque, en este mismo Ecoparque hay otro lugar el cual se llama caverna del Oro, puedes ver más abajo el mapa para ver a más detalle.
+Algo que debes de saber es que el Bosque de pandora se llama en específicamente al bosque, el cual queda en un Ecoparque, en este mismo Ecoparque hay otro lugar el cual se llama Caverna del Oro, puedes ver más abajo el mapa para ver a más detalle.
 
 
 __MAPA DE LA RUTA REALIZADA EN EL PEÑÓN SANTANDER__
 
 
-En el mapa podrás ver 3 rutas, las cuales son: Bosque de Pandora (Azul), Caverna del Oro(Vinotinto) y caverna la Tronera (naranja), la cual puedes ver que está por otro camino y queda fuera de este Ecoparque.
+En el mapa podrás ver 3 rutas, las cuales son: __Bosque de Pandora (Azul), Caverna del Oro(Vinotinto) y Caverna la Tronera (naranja)__, la cual puedes ver que está por otro camino y queda fuera de este Ecoparque.
 
 
-__NOTA:__ Hay muchas más rutas en este pueblo, pero solo documentamos estas, ya que son las más emblemáticas, algo que debes tener en cuenta es que estos lugares son en predios privados y solo permiten el ingreso con guías.
+__NOTA:__ _Hay muchas más rutas en este pueblo, pero solo documentamos estas, ya que son las más emblemáticas, algo que debes tener en cuenta es que estos lugares son en predios privados y solo permiten el ingreso con guías._
 
 
 {% include iframe.html
@@ -87,17 +90,17 @@ caption:"Mapa Ruta en el peñón Santander"
 Pandora hace referencia a la película Avatar, donde aparece un planeta que albergaba un ecosistema lleno de flora y fauna 🌿 deslumbrantes y fascinantes. Aunque Pandora es ficticia, muchos lugares con paisajes increíbles han adoptado este nombre, y este lugar, ubicado en El Peñón, Santander, no es la excepción. Con paisajes de unas piedras gigantescas llenas de musgo que hacen túneles naturales y vegetación que parece flotar en medio de las rocas. 🪨
 
 {% include image.html,
-file:"rutas/santander/bosque-de-pandora/laguna-de-guatavita.jpg",
+file:"rutas/santander/bosque-de-pandora/bosque-de-pandora.jpg",
 caption:"Foto: Bosque de Pandora",
-width:"1000",
-height:"750" %}
+width:"1080",
+height:"1350" %}
 
-__<span class="advise"> Foto por:  <a href="https://www.instagram.com/santander_sin_limites?igsh=MW55bzQzY3U5eHI2Mg%3D%3D"  target="_blank"> @santander_sin_limites</a> </span>__
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/losviajesdelkin/"  target="_blank"> @slosviajesdelkin</a> </span>__
 
 
 ### -> CAVERNA EL ORO
 
-La Caverna El Oro en El Peñón, Santander, es una de las más grandes y complejas de Colombia, con túneles y galerías que se extienden por varios kilómetros. En su interior alberga estalactitas y estalagmitas formadas durante miles de años, además de ecosistemas únicos de especies adaptadas a la oscuridad, como insectos y murciélagos. Es un lugar ideal para los amantes de la espeleología y la naturaleza.
+La Caverna El Oro en El Peñón, Santander, se dice que esta es una de las más grandes y complejas de Colombia, con túneles que se extienden por varios kilómetros. En su interior alberga estalactitas y estalagmitas formadas durante miles de años, además de ecosistemas únicos de especies adaptadas a la oscuridad, como insectos y murciélagos. Es un lugar ideal para los amantes de la espeleología y la naturaleza.
 
 {% include image.html,
 file:"rutas/santander/bosque-de-pandora/caverna-el-oro.jpg",
@@ -109,8 +112,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/santander_
 
 ### -> CAVERNA LA TRONERA
 
-La Caverna La Tronera se destaca por su entrada en forma de orificio que permite el paso de luz 🌄, creando un ambiente único. Con pasajes estrechos y profundos, es un destino ideal para espeleólogos y aventureros, además de albergar interesantes formaciones minerales y especies de murciélagos.
-
+La Caverna La Tronera se destaca por su entrada en forma de orificio que permite el paso de luz 🌄, creando un una vista hermoso de sus paredes. Es un destino ideal para espeleólogos y aventureros, además de albergar interesantes formaciones minerales y especies de murciélagos.
 {% include image.html,
 file:"rutas/santander/bosque-de-pandora/caverna-de-la-tronera.jpg",
 caption:"Foto: Cueva la Tronera",
@@ -120,7 +122,7 @@ height:"1225" %}
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/santander_sin_limites?igsh=MW55bzQzY3U5eHI2Mg%3D%3D"  target="_blank"> @santander_sin_limites</a> </span>__
 
 
-<a name="tour-pandora" id="tour-pandora"></a>
+<a name="tour-bosque-pandora" id="tour-bosque-pandora"></a>
 
 
 ## TOURS DISPONIBLES AL BOSQUE DE PANDORA 🌳🧳
@@ -137,9 +139,6 @@ Aquí te mostraremos los diferentes tour que podrás encontrar al llegar al Peñ
 
 
 <a name="hospedaje-bosque-pandora" id="hospedaje-bosque-pandora"></a>
-
-
-
 
 ## HOSPEDAJE DISPONIBLE 🛏️
 
@@ -211,7 +210,7 @@ height:"576"
 
 Puedes dar clic 👉 <a href= "https://www.booking.com/hotel/co/lindo-y-acogedor-aparta-estudio.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> para reservar </a>
 
-<a name="recomendacion-suesca" id="recomendacion-suesca"></a>
+<a name="recomendacion-bosque-pandora" id="recomendacion-bosque-pandora"></a>
 
 
 ## -> RECOMENDACIONES FINALES 📋
