@@ -52,13 +52,19 @@ El conflicto armado en Colombia ha afectado a El Peñón, Santander, principalme
 
 El bosque de Pandora se encuentra en el municipio de del Peñón en Santander, a pesar de que es de Santander, se encuentra alejando de su capital Bucaramanga a unos 269.7 kilómetros, curiosamente está más cerca de Bogotá, aquí te mostraremos como llegar desde las principales ciudades de Colombia.
 
+### CÓMO LLEGAR DESDE MEDELLIN 
 
-- __Como llegar desde Medellín:__  Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y queda a mitad de camino entre Medellin/Bucaramanga.
-- __Cómo llegar desde Bogotá:__ Debes tomar un bus desde el Terminal de Salitre (Bogotá). Algunas de las empresas que operan este trayecto son: Copetran, Concorde, Autoboy, Omega, Libertadores, entre otras. __Este viaje tarda aproximadamente 4 horas para llegar a Barbosa-Santander__. Los horarios de salida son cada 20 minutos, desde las 03:00 a.m. hasta las 09:00 p.m.
+- __#1 Desde Medellin a Puerto Berrio__  
 
-Una vez en Barbosa, tendrás que tomar otro transporte hasta El Peñón, Santander. __Este trayecto dura aproximadamente 4 horas__.
+Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y queda a mitad de camino entre Medellin/Bucaramanga.
 
-__Recomendación:__ Algunas personas optan por tomar un bus de Bogotá a Vélez, Santander. Sin embargo, debes saber que esta carretera es destapada y se recomienda viajar en un vehículo 4x4.
+### CÓMO LLEGAR DESDE BOGOTÁ 
+
+* __#1 Desde Bogota a Barbosa-Santander:__ Debes tomar un bus desde el Terminal de Salitre (Bogotá) con destino Barbosa-Santander. Algunas de las empresas que operan este trayecto son: Copetran, Concorde, Autoboy, Omega, Libertadores, entre otras. __Este viaje tarda aproximadamente 4 horas para llegar a Barbosa-Santander__. Los horarios de salida son aproximadamente cada 20 minutos, desde las 03:00 a.m. hasta las 09:00 p.m.
+
+* __#2 Barbosa-Santander al Peñon-Santander:__ Una vez en Barbosa, tendrás que tomar otro transporte hasta El Peñón, Santander, la empresa que viaja desde allí es Contransricaurte. __Este trayecto dura aproximadamente 2:30 horas__, el horario de salida son aproximadamente: 6:00 am 8:00 am y 10:45 am, para confirmar estos horarios puede llamar: <a href="tel:3106795357">3106795357</a>, la carretera es destapada.
+
+__Recomendación:__ Algunas personas optan por tomar un bus de Bogotá a Vélez, Santander. Sin embargo, debes saber que esta carretera muchas veces puede estar en mal estado.
 
 
 <a name="lugares-bosque-pandora" id="lugares-bosque-pandora"></a>
