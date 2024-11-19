@@ -54,9 +54,11 @@ El bosque de Pandora se encuentra en el municipio de del Peñón en Santander, a
 
 ### CÓMO LLEGAR DESDE MEDELLIN 
 
-- __#1 Desde Medellin a Puerto Berrio__  
+- __#1 Desde Medellin(Antioquia) a Puerto Araújo(Santander):__ Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y queda a mitad de camino entre Medellin/Bucaramanga.
 
-Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y queda a mitad de camino entre Medellin/Bucaramanga.
+- __#2 Puerto Araújo hasta Vélez:__ Debes tomar un bus hasta Vélezalgunas veces encontrarás este bus directo, otras veces te tocará hacer transbordo en Cimitarra. Una vez estés en Vélez, tomas un colectivo hacia El Peñón (Santander), los horarios de estos buses no los sabemos 🥺.
+
+__NOTA:__ _Los trayectos mencionados aquí son rutas compartidas por algunos viajeros. Esta información es solo de carácter informativo, ya que es posible que dichas rutas cambien en el futuro._
 
 ### CÓMO LLEGAR DESDE BOGOTÁ 
 
@@ -64,7 +66,7 @@ Desde Medellin, tiene que tomar un bus  toca uno que vaya por Puerto Berrio y qu
 
 * __#2 Barbosa-Santander al Peñon-Santander:__ Una vez en Barbosa, tendrás que tomar otro transporte hasta El Peñón, Santander, la empresa que viaja desde allí es Contransricaurte. __Este trayecto dura aproximadamente 2:30 horas__, el horario de salida son aproximadamente: 6:00 am 8:00 am y 10:45 am, para confirmar estos horarios puede llamar: <a href="tel:3106795357">3106795357</a>, la carretera es destapada.
 
-__Recomendación:__ Algunas personas optan por tomar un bus de Bogotá a Vélez, Santander. Sin embargo, debes saber que esta carretera muchas veces puede estar en mal estado.
+__Recomendación:__ _Las carreteras que transitarás en invierno pueden ser difíciles y podrían presentar derrumbes. Por eso, te recomendamos optar por tours que incluyan transporte, así evitarás dolores de cabeza._
 
 
 <a name="lugares-bosque-pandora" id="lugares-bosque-pandora"></a>
