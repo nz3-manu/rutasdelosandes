@@ -83,7 +83,7 @@ El Museo de Arte de Pereira, ubicado cerca del terminal de transporte de Pereira
 
 Quizás estés buscando un poco más de aventura y contacto con la naturaleza, aquí te mostraremos algunos de los tours que podrías hacer.
 
-### -> TERMALES DE SAN VICENTE ♨️
+### -> TERMALES  ♨️
 
 Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales ♨️⚕️.
 
@@ -93,14 +93,15 @@ A continuación te dejaremos un link en el cual podrás encontrar tour desde Per
 
 
 {% include image.html,
- file:"/blog/tips-montana/que-hacer-en-pereira/termales-san-vicente.jpg",
- caption:"Foto termales de San Vicente",
- width:"600",
- height:"500"
+ file:"/blog/tips-montana/que-hacer-en-pereira/termales-san-vicente.jpeg",
+ caption:"Foto termales cerca de Pereira",
+ width:"1080",
+ height:"1350"
 %}
 
 
-👉 **<a href="https://www.randes.co/products/tour-barbas-bremen" style="color:#971717;" target="_blank"> Descubre Termales de San Vicente desde Pereira. ¡Reserva ahora! 🔗 Reserva aquí</a>**
+👉 **<a href="https://www.randes.co/products/termales-de-santa-rosa-pasadia" style="color:#971717;" target="_blank">
+Haz clic aquí para descubrir los planes a Termales desde Pereira. ♨️🌿</a>**
 
 ### -> BARBAS BREMEN 🐒
 
@@ -123,13 +124,11 @@ Este lugar se encuentra en Finlandia, Quindío, desde Pereira es aproximadamente
  ### -> ESTACIÓN PEREIRA 🚠
 
 
-Estación Pereira es una ruta que, sin duda, encanta debido a la belleza de sus paisajes y con un poco de aventura que la convierte en un recorrido inolvidable para familias y amigos. 
+sta ruta combina paisajes espectaculares con un toque de aventura, ideal para disfrutar en familia o con amigos.
 
-Este lugar se encuentra aproximadamente a 1 hora de Pereira. Durante esta ruta, tendrás la oportunidad de contemplar el río Cauca, el segundo río más importante de Colombia. 
+A solo 1 hora de Pereira, tendrás la oportunidad de admirar el imponente río Cauca, el segundo más importante de Colombia, y cruzarlo en una auténtica garrucha. Si no sabes lo que es una garrucha, puedes verlo en el enlace que compartimos.
 
-No solo lo observarás, sino que también lo cruzarás en una garrucha. Si no sabes lo que es una garrucha, encontrarás información detallada en el enlace que dejamos debajo de la foto, junto con un video de esta emocionante experiencia.
-
-
+Además, a tan solo 30 minutos de caminata, te espera una hermosa cascada que hará de este recorrido una experiencia inolvidable.
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/estacion-pereira.jpg",
@@ -139,7 +138,8 @@ No solo lo observarás, sino que también lo cruzarás en una garrucha. Si no sa
 %}
 
 
-Ver más información de la ruta a estación pereira <a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Clic aquí </a>
+👉 **<a href="https://www.randes.co/products/tour-estacion-pereira" target="_blank" style="color:#971717;" target="_blank"> Clic aquí para conocer el tour a Estación Pereira ⛰️🚠.</a>**
+
 
 <a name="Coffe-tour-pereira" id="Coffe-tour-pereira"></a>
 
@@ -160,7 +160,8 @@ No es para menos conocer un poco de la cultura cafetera, y qué mejor manera de 
 
 
 
-Este es es el final de nuestro post que hacer o visitar en pereira.
+Visita nuestra tienda en línea y encuentra productos de excelente calidad, hechos en Colombia.
+👉 <a href="https://www.randes.co/" target="_blank"> Haz clic aquí para explorar la tienda 🏬</a>
 
 
 
