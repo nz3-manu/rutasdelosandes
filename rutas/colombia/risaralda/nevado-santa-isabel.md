@@ -2,7 +2,7 @@
 layout: trail
 title: Nevado Santa Isabel
 categories: colombia
-seo_title: Nevado Santa Isabel|Guía de viaje 2024
+seo_title: Nevado Santa Isabel|Guía de viaje 2025
 Excerpt: Nevado Santa Isabel, cómo llegar, agencias al nevado Santa Isabel, hospedaje y mejor temporada del año para visitarlo.
 images_url: /images/rutas/risaralda/nevado-santa-isabel
 viewranger:
@@ -34,7 +34,7 @@ En este post te contaremos como fue nuestra experiencia al hacer cumbre al nevad
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/santa-isabel-summit.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="dato-santa" id="dato-santa"></a>
@@ -75,7 +75,7 @@ __El Nevado Santa Isabel será el próximo nevado en perder completamente su gla
 Lo que debes saber es que para ir a este nevado, Parques Nacionales cuenta con un cupo limitado para visitar este lugar por días, así que  te aconsejamos hacer la **reservación del tour** con anticipación.
 
 
-El precio para hacer cumbre al nevado Santa Isabel, puede variar entre $1'050.000 COP a $1'850.000 COP (Valor por persona), este valor depende del numero de personas que vayan.
+El precio para hacer cumbre al nevado Santa Isabel, puede variar entre $1'150.000 COP a $1'850.000 COP (Valor por persona), este valor depende del numero de personas que vayan.
 
 
 __El tour incluye:__ 
