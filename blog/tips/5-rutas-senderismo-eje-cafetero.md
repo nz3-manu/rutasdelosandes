@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 5 Rutas de Senderismo en el Eje Cafetero
+title: 6 Rutas de Senderismo en el Eje Cafetero
 categories: blog
-seo_title: ⛰ 5 Rutas de senderismo en el Eje Cafetero - Rutas
-excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti. Además, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
+seo_title: ⛰ 6 Rutas de senderismo en el Eje Cafetero - Rutas
+excerpt: 6 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti. Además, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
 images_url: /images/blog/tips-montana/5-rutas-senderismo-eje-cafetero
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/5-rutas-senderismo-eje-cafetero/featured.jpg
@@ -86,9 +86,9 @@ A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafet
 <a name="senderismo-baja-montana" id="senderismo-baja-montana"></a>
 
 
-## RUTAS DE SENDERISMO DE MEDIA MONTAÑA ⛰️
+## RUTAS DE SENDERISMO FAMILIARES⛰️
 
-La baja montaña son rutas en las cuales no verás inclinaciones elevadas (1.500 a 2.500 m.s.n.m.), por tal motivo no verás páramos o nevados, pero sí podrás ver paisajes de bosques con muchos ruidos de todo tipo de animalitos 🐒 🦜.
+Las siguientes rutas no requieren un gran esfuerzo físico ni experiencia en senderismo, por lo que son ideales para disfrutar de una tarde agradable con familia o amigos.
 
 
 ### -> #1 BARBAS BREMEN
@@ -131,6 +131,30 @@ height:"1020"
 
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour a la Cascada los Frailes</a>
 
+
+### -> #3 NEVADO DEL RUIZ
+
+A la fecha en que grabamos este video, el Nevado del Ruiz se encuentra en alerta amarilla desde 2012. Por esta razón, el recorrido dentro del parque solo se puede realizar hasta un sector llamado Tumbas, donde es poco probable ver nieve. Además, el recorrido debe hacerse en vehículo, aunque los visitantes pueden descender en algunos puntos autorizados y caminar por estas zonas. Esta medida se adoptó para facilitar la evacuación de los turistas en caso de una emergencia dentro del parque.
+
+Si tu intención es ver nieve o hacer un muñeco de nieve, esta no es la ruta para ti. Pero si quieres disfrutar de paisajes de páramo y espectaculares vistas de alta montaña sin tener que esforzarte caminando, esta es la ruta ideal.
+
+__INFORMACIÓN TÉCNICA:__
+- __Distancia Total:__ 500 metros
+- __Duración Sendero:__ 3 horas
+- __Inclinación del sendero:__  3.930 a 4.200 m.s.n.m
+
+{% include image.html,
+ file:"/blog/tips-montana/lugares-ver-nieve-colombia/nevado-del-ruiz.jpg",
+ caption:"Foto: Nevado del Ruiz",
+ width:"1200",
+ height:"675"
+%}
+
+__<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
+
+
+👉 <a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al nevado del ruiz </a>
+
 <a name="senderismo-alta-montana" id="senderismo-alta-montana"></a>
 
 
@@ -138,7 +162,7 @@ height:"1020"
 
 Estas rutas que te mostramos a continuación son de nivel de dificultad alta, solo se recomiendan para personas que hayan practicado senderismo debido a que son rutas que van a estar entre 2.500 hasta 5.200 m.s.n.m, en algunas de estas vas a caminar en la nieve ❄️.
 
-### -> #3 CERRO BRAVO
+### -> #4 CERRO BRAVO
 
 Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras. Es un sendero de mucha exigencia, en gran parte del camino se encontrarán con piedras grandes, las cuales harán un poco más demandante el recorrido. Al final terminarán con una vista genial de 2 pequeñas lagunas.
 
@@ -150,7 +174,7 @@ __INFORMACIÓN TÉCNICA:__
 
 
 {% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cerro-bravi.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cerro-bravo.jpg",
 caption:"Foto: Cerro Bravo",
 width:"1000",
 height:"1333"
@@ -158,9 +182,14 @@ height:"1333"
 
 👉 <a href="https://www.randes.co/products/excursion-cerro-bravo-pasadia" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Cerro Bravo </a>
 
-### -> #4 NEVADO SANTA ISABEL
+### -> #5 NEVADO SANTA ISABEL
 
-El nevado Santa Isabel se encuentra ubicado sobre la cordillera central de Colombia, tiene una altitud de 4.965 metros sobre el nivel del mar 🏔. El recorrido es demasiado exigente ya que alcanzarán a caminar en la nieve. Antes de empezar con el recorrido, se recomienda que las personas tengan experiencia previa en recorridos de alta montaña para que eviten sufrir el denominado mal de altura. 
+El Nevado Santa Isabel es uno de los próximos nevados en convertirse en paramillo, término que se utiliza para referirse a un nevado que ha perdido su nieve. 
+Es importante aclarar que el acceso a esta parte del nevado solo está permitido a través de agencias avaladas por el Parque de los Nevados. Además, la carretera no está en buenas condiciones. Se menciona esto porque en algunas ocasiones se han encontrado vehículos atascados en el pantano al intentar subir sin una reserva previa.
+
+Volviendo a la subida al Santa Isabel, esta se realiza en dos días:
+Día 1: Acondicionamiento.
+Día 2: Ascenso a la cumbre (aproximadamente 10 horas de caminata).
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 9,49 Kilómetros
@@ -181,9 +210,11 @@ height:"1349"
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
 
 
-### -> #5 LAGUNA DEL OTÚN
+### -> #6 LAGUNA DEL OTÚN
 
-Esta es una de las rutas en la que podrás ver una de las lagunas más grandes que hay en el parque de los nevados, es una caminata con una dificultad moderada, no se recomienda para personas que tengan enfermedades pulmonares o cardiacas.
+La Laguna del Otún es una de las más grandes del Parque de los Nevados. Para llegar allí, primero se debe viajar en carro durante aproximadamente 3 horas. En invierno, el camino puede volverse complicado, y no es raro ver motos o carros atascados en el barro.
+
+Una vez en la entrada del parque, comienza la caminata de 9 kilómetros, que toma alrededor de 6 horas. La ruta se encuentra a una altitud que varía entre los 3.900 y 4.200 metros sobre el nivel del mar. Es un recorrido de dificultad moderada y no se recomienda para personas con enfermedades pulmonares o cardíacas.
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 9,5 Kilómetros
@@ -208,9 +239,6 @@ Te recomendamos que armes por día cada lugar que deseas visitar. Ten en cuenta 
 
 
 Las rutas, del Nevado Santa Isabel, solo se hace con previa reserva, si vas con un grupo de 3 o 4 personas será más fácil poder hacer esta excursión.
-
-
-__Nota:__ _Todos estos tours salen de Pereira, ya que como mencionamos anteriormente Pereira se encuentra en medio de las ciudades de Manizales y Armenia._
 
 
 <a name="hospedaje-eje" id="hospedaje-eje"></a>
