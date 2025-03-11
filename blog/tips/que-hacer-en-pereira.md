@@ -2,8 +2,8 @@
 layout: article
 title: ¿Qué hacer o qué visitar en Pereira?
 categories: blog
-seo_title: Que Visitar en Pereira - Rutas
-excerpt: Descubre qué visitar y qué hacer en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como arquitectónicos.
+seo_title: Que hacer en Pereira - Rutas
+excerpt: Descubre qué hacer y que visitar en Pereira. No puedes dejar de conocer estos hermosos lugares, tanto naturales como arquitectónicos.
 images_url: /images/blog/tips-montana/que-hacer-en-pereira
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/que-hacer-en-pereira/featured.jpg
@@ -77,20 +77,37 @@ El Museo de Arte de Pereira, ubicado cerca del terminal de transporte de Pereira
 %}
 
 
+## #4 COFFE TOUR, O TOUR DEL CAFE ☕
+
+No es para menos conocer un poco de la cultura cafetera, y qué mejor manera de hacerlo que en una de las regiones con mayor tradición en Colombia, conocida como el Triángulo del Café. En esta región, podrás disfrutar de una gran variedad de tours del café, donde te mostrarán el proceso de siembra, recolección, secado y, finalmente, el trillado. Además, tendrás la oportunidad de degustar una rica taza de café.
+
+
+{% include image.html,
+ file:"/blog/tips-montana/que-hacer-en-pereira/tour-del-cafe.jpg",
+ caption:"Foto tour Coffe Tour",
+ width:"672",
+ height:"454"
+%}
+
+
+👉 **<a href="https://wa.link/hna0ec" style="color:#971717;" target="_blank">  Clic aquí para conocer el tour del café en Pereira ☕️.</a>**
+
+
 <a name="lugares-naturales-visitar-pereira" id="lugares-naturales-visitar-pereira"></a>
 
-## RUTAS NATURALES CERCA DE PEREIRA
+## 4 RUTAS CERCA DE PEREIRA
 
-Quizás estés buscando un poco más de aventura y contacto con la naturaleza, aquí te mostraremos algunos de los tours que podrías hacer.
+Si buscas un poco más de aventura y contacto con la naturaleza, aquí te mostraremos algunas rutas que deberías explorar. Son recorridos cortos, ideales para disfrutar en familia.
 
-### -> TERMALES  ♨️
+Además, te dejaremos algunas recomendaciones si prefieres la aventura de alta montaña.
 
-Este lugar es definitivamente ideal para visitar con familia y amigos. Nada es más relajante que un baño caliente después de haber estado viajando durante horas. Como dato curioso, muchas personas aseguran que estas aguas tienen propiedades medicinales ♨️⚕️.
+### -> #1 TERMALES  ♨️
 
-¿Dónde están ubicados los Termales de San Vicente? Los Termales de San Vicente se encuentran a las afueras del municipio de Santa Rosa de Cabal. Dado que no hay rutas de transporte público que lleguen hasta este lugar, puede resultar un poco complicado llegar allí, ¡pero no te preocupes! Desde Pereira, salen tours con transporte incluido que te llevarán hasta este maravilloso lugar y te traerán de regreso. Esta es una opción genial, especialmente si vas en grupo.
+Estos termales se encuentran en el municipio de Santa Rosa, a tan solo una hora y media de Pereira. Son ideales para disfrutar en familia. Aquí encontrarás varios servicios, como lodoterapia, masajes, etc.
+
+__Una recomendación:__ en temporada alta (diciembre y enero), es importante comprar los ingresos con anticipación, ya que, si llegas el mismo día a adquirirlos, es posible que ya no haya disponibilidad.
 
 A continuación te dejaremos un link en el cual podrás encontrar tour desde Pereira.
-
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/termales-san-vicente.jpeg",
@@ -103,11 +120,11 @@ A continuación te dejaremos un link en el cual podrás encontrar tour desde Per
 👉 **<a href="https://www.randes.co/products/termales-de-santa-rosa-pasadia" style="color:#971717;" target="_blank">
 Haz clic aquí para descubrir los planes a Termales desde Pereira. ♨️🌿</a>**
 
-### -> BARBAS BREMEN 🐒
+### -> #2 RESERVA BREMEN 🐒
 
-Esta es sin duda una de las rutas más visitadas por turistas, ya que es una caminata corta de aproximadamente 4 kilómetros, y terminaran en una hermosa casada, si cuentan con suerte podrán ver los monos aulladores 🐒.
-Este lugar se encuentra en Finlandia, Quindío, desde Pereira es aproximadamente a 1 hora en bus.
+La Reserva Barbas Bremen abarca los municipios de Pereira y Filandia. En la parte de Pereira, conocida como Reserva Barbas Bremen, la logística para recibir turistas es limitada, ya que es difícil encontrar guías, el transporte es restringido y, en temporada de lluvias, la carretera puede presentar problemas.
 
+Por esta razón, te mostraremos la ruta de la Reserva Bremen en Filandia, donde la organización para recibir turistas es mucho mejor. El recorrido dura aproximadamente tres horas y finaliza en una pequeña cascada.
 
 
 {% include image.html,
@@ -120,15 +137,14 @@ Este lugar se encuentra en Finlandia, Quindío, desde Pereira es aproximadamente
 👉 **<a href="https://www.randes.co/products/tour-barbas-bremen" style="color:#971717;" target="_blank"> Clic aquí para conocer el tour a la Reserva Barbas Bremen 🌳🐒.</a>**
 
 
+ ### -> #3 ESTACIÓN PEREIRA 🚠
 
- ### -> ESTACIÓN PEREIRA 🚠
 
+Esta ruta combina paisajes espectaculares con un toque de aventura, ideal para disfrutar en familia o con amigos.
 
-sta ruta combina paisajes espectaculares con un toque de aventura, ideal para disfrutar en familia o con amigos.
+A solo una hora de Pereira, tendrás la oportunidad de admirar el imponente río Cauca, el segundo más importante de Colombia, y cruzarlo en una auténtica garrucha. Si no sabes qué es una garrucha, puedes verlo en el enlace que compartimos.
 
-A solo 1 hora de Pereira, tendrás la oportunidad de admirar el imponente río Cauca, el segundo más importante de Colombia, y cruzarlo en una auténtica garrucha. Si no sabes lo que es una garrucha, puedes verlo en el enlace que compartimos.
-
-Además, a tan solo 30 minutos de caminata, te espera una hermosa cascada que hará de este recorrido una experiencia inolvidable.
+Además, tras una caminata de tan solo 30 minutos, te espera una hermosa cascada que hará de este recorrido una experiencia inolvidable.
 
 {% include image.html,
  file:"/blog/tips-montana/que-hacer-en-pereira/estacion-pereira.jpg",
@@ -143,20 +159,29 @@ Además, a tan solo 30 minutos de caminata, te espera una hermosa cascada que ha
 
 <a name="Coffe-tour-pereira" id="Coffe-tour-pereira"></a>
 
-## COFFE TOUR, O TOUR DEL CAFE ☕
+### #4 RESERVA ALTO DEL NUDO 🔭
 
-No es para menos conocer un poco de la cultura cafetera, y qué mejor manera de hacerlo que en una de las regiones con mayor tradición en Colombia, conocida como el Triángulo del Café. En esta región, podrás disfrutar de una gran variedad de tours del café, donde te mostrarán el proceso de siembra, recolección, secado y, finalmente, el trillado. Además, tendrás la oportunidad de degustar una rica taza de café.
+La Reserva El Alto del Nudo es un hermoso sendero de aproximadamente 6 kilómetros que atraviesa un bosque lleno de naturaleza. Se encuentra a 40 minutos de Pereira.
+
+Si planeas ir en carro o moto, ten en cuenta que no hay parqueaderos y que el sendero comienza en un punto y termina en otro. El recorrido tiene una duración aproximada de 5 horas.
+
+Es ideal para quienes disfrutan de caminar, ya que no es un sendero muy exigente, aunque cuenta con algunas partes inclinadas. Al final, serás recompensado con una vista espectacular de Pereira y Dosquebradas.
 
 
 {% include image.html,
- file:"/blog/tips-montana/que-hacer-en-pereira/tour-del-cafe.jpg",
- caption:"Foto tour Coffe Tour",
- width:"672",
- height:"454"
+ file:"/blog/tips-montana/que-hacer-en-pereira/reserva-alto-del-nudo.jpg",
+ caption:"Foto: reserva alto del nudo",
+ width:"1080",
+ height:"719"
 %}
 
+👉 **<a href="https://www.randes.co/products/tour-estacion-pereira" target="_blank" style="color:#971717;" target="_blank"> Clic aquí para conocer el tour al alto del Nudo⛰️🔭.</a>**
 
-👉 **<a href="https://wa.link/hna0ec" style="color:#971717;" target="_blank">  Clic aquí para conocer el tour del café en Pereira ☕️.</a>**
+### OTRAS RUTAS PERO DE ALTA MONTAÑA
+
+- <a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> LAGUNA DEL OTUN:</a> Estas ruta se recomienta para personas que tengan experiencia haciendo senderismo, no hay transporte publico, así que es mejor si van 4 personas como minimo para que salga mas economico.
+
+- <a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> NEVADO SANTA ISABEL:</a> Esta ruta es solo recomendado para persona que tengan experiencia, es de 2 días y se debe de hacer la reserva previa.
 
 
 
