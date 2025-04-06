@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 6 Rutas de Senderismo en el Eje Cafetero
+title: 5 Rutas de Senderismo en el Eje Cafetero
 categories: blog
-seo_title: ⛰ 6 Rutas de senderismo en el Eje Cafetero - Rutas
-excerpt: 6 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti. Además, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
+seo_title: ⛰ 5 Rutas de senderismo en el Eje Cafetero - Rutas
+excerpt: 5 Excursiones naturales en el Eje Cafetero, si eres amante de la naturaleza este post es para ti. Además, te recomendaremos algunos tours en el Eje Cafetero o como también es conocido el Triángulo del Café.
 images_url: /images/blog/tips-montana/5-rutas-senderismo-eje-cafetero
 tags: TipsMontaña
 featured: https://rutasdelosandes.com/images/blog/tips-montana/5-rutas-senderismo-eje-cafetero/featured.jpg
@@ -111,26 +111,33 @@ height:"1200"
 
 👉 <a href="https://www.randes.co/products/tour-barbas-bremen" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Barbas Bremen </a>
 
-### -> #2 CASCADA LOS FRAILES 
+### -> #2 CASCADAS LOS CHORROS
 
-Es una hermosa cascada ubicada muy cerca de Pereira, es un sendero lleno de naturaleza y terminará en una cascada de cerca de 70 metros de altura.
+Esta cascada se encuentra en el Parque Regional Natural Ucumarí, a aproximadamente 1 hora y 30 minutos de Pereira. Es un sendero con abundante vegetación, ideal si te gusta el avistamiento de aves. La caminata tiene una longitud aproximada de 12 kilómetros, y gran parte del recorrido transcurre sobre roca, lo que la hace un poco exigente. Por ello, es importante caminar con precaución. En este caso, los bastones de senderismo serán una excelente idea.
 
 
 __INFORMACIÓN TÉCNICA:__
-- __Distancia Total:__ 4 Kilómetros
-- __Duración Sendero:__ 3 horas
-- __Inclinación del sendero:__  1.730 a 1.850 m.s.n.m
+- __Distancia Total:__ 12 Kilómetros
+- __Duración Sendero:__ 8 horas
+- __Inclinación del sendero:__  1.730 a 1.950 m.s.n.m
 
 
 {% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cascada-frailes.jpg",
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cascada-los-chorros.jpg",
 caption:"Foto: Cascada los Frailes",
-width:"765",
-height:"1020"
+width:"1800",
+height:"1013"
 %}
 
-👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour a la Cascada los Frailes</a>
+👉 <a href="https://www.randes.co/collections/tours/products/tour-a-la-pastora" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour A la Cascadas los Chorros</a>
 
+
+<a name="senderismo-alta-montana" id="senderismo-alta-montana"></a>
+
+
+## RUTAS DE SENDERISMO ALTA MONTAÑA EN EL EJE CAFETERO 🧗‍♂️
+
+Estas rutas que te mostramos a continuación ofrecen paisajes variados: verás nevados, páramos y frailejones. Cada una tiene un nivel de dificultad diferente, así que te aconsejamos prestar atención a las recomendaciones.
 
 ### -> #3 NEVADO DEL RUIZ
 
@@ -152,37 +159,10 @@ __INFORMACIÓN TÉCNICA:__
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
-
 👉 <a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al nevado del ruiz </a>
 
-<a name="senderismo-alta-montana" id="senderismo-alta-montana"></a>
 
-
-## RUTAS DE SENDERISMO ALTA MONTAÑA EN EL EJE CAFETERO 🧗‍♂️
-
-Estas rutas que te mostramos a continuación son de nivel de dificultad alta, solo se recomiendan para personas que hayan practicado senderismo debido a que son rutas que van a estar entre 2.500 hasta 5.200 m.s.n.m, en algunas de estas vas a caminar en la nieve ❄️.
-
-### -> #4 CERRO BRAVO
-
-Esta ruta se encuentra en Manizales, exactamente en la vía que comunica a Manizales con Fresno Tolima, en la vía que se llama alto de letras. Es un sendero de mucha exigencia, en gran parte del camino se encontrarán con piedras grandes, las cuales harán un poco más demandante el recorrido. Al final terminarán con una vista genial de 2 pequeñas lagunas.
-
-
-__INFORMACIÓN TÉCNICA:__
-- __Distancia Total:__ 5 Kilómetros
-- __Duración Sendero:__ 1 día
-- __Inclinación del sendero:__ 3.200 a 4.000 m.s.n.m
-
-
-{% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/cerro-bravo.jpg",
-caption:"Foto: Cerro Bravo",
-width:"1000",
-height:"1333"
-%}
-
-👉 <a href="https://www.randes.co/products/excursion-cerro-bravo-pasadia" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Cerro Bravo </a>
-
-### -> #5 NEVADO SANTA ISABEL
+### -> #4 NEVADO SANTA ISABEL
 
 El Nevado Santa Isabel es uno de los próximos nevados en convertirse en paramillo, término que se utiliza para referirse a un nevado que ha perdido su nieve. 
 Es importante aclarar que el acceso a esta parte del nevado solo está permitido a través de agencias avaladas por el Parque de los Nevados. Además, la carretera no está en buenas condiciones. Se menciona esto porque en algunas ocasiones se han encontrado vehículos atascados en el pantano al intentar subir sin una reserva previa.
@@ -210,7 +190,7 @@ height:"1349"
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
 
 
-### -> #6 LAGUNA DEL OTÚN
+### -> #5 LAGUNA DEL OTÚN
 
 La Laguna del Otún es una de las más grandes del Parque de los Nevados. Para llegar allí, primero se debe viajar en carro durante aproximadamente 3 horas. En invierno, el camino puede volverse complicado, y no es raro ver motos o carros atascados en el barro.
 
