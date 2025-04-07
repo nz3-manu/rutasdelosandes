@@ -93,8 +93,8 @@ Estas rutas que te mostramos a continuación ofrecen paisajes variados, llenos d
 
 ### -> #1 BARBAS BREMEN
 
+Esta reserva, ubicada en Filandia, Quindío, a solo una hora de Pereira, es hogar de los monos aulladores. Si tienes suerte, podrás verlos o escucharlos. Estos monos emiten un sonido que puede percibirse hasta a 4.8 kilómetros de distancia, gracias a un hueso hioides agrandado en su garganta, el cual actúa como un gran resonador. Son los machos quienes emiten estos sonidos para delimitar su territorio.
 
-Este lugar se encuentra en Filandia Quindío, a solo 1 hora de Pereira, esta ruta está llena de mucha naturaleza, aquí podrás apreciar los monos aulladores 🦧, y terminar en una pequeña cascada en la cual te podrás bañar si así lo deseas.
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 4 Kilómetros
@@ -141,9 +141,9 @@ Estas rutas que te mostramos a continuación ofrecen paisajes variados: verás n
 
 ### -> #3 NEVADO DEL RUIZ
 
-A la fecha en que grabamos este video, el Nevado del Ruiz se encuentra en alerta amarilla desde 2012. Por esta razón, el recorrido dentro del parque solo se puede realizar hasta un sector llamado Tumbas, donde es poco probable ver nieve. Además, el recorrido debe hacerse en vehículo, aunque los visitantes pueden descender en algunos puntos autorizados y caminar por estas zonas. Esta medida se adoptó para facilitar la evacuación de los turistas en caso de una emergencia dentro del parque.
+A la fecha de escribir este post, el Nevado del Ruiz se encuentra en alerta amarilla desde 2012. Por esta razón, el recorrido dentro del parque solo se puede realizar hasta un sector llamado Tumbas, donde es poco probable ver nieve. Además, el recorrido debe hacerse en vehículo, aunque los visitantes pueden descender en algunos puntos autorizados y caminar por estas zonas. Esta medida se adoptó para facilitar la evacuación de los turistas en caso de una emergencia dentro del parque.
 
-Si tu intención es ver nieve o hacer un muñeco de nieve, esta no es la ruta para ti. Pero si quieres disfrutar de paisajes de páramo y espectaculares vistas de alta montaña sin tener que esforzarte caminando, esta es la ruta ideal.
+Si tu intención es ver o tocar la nieve, esta no es la ruta para ti. Pero si quieres disfrutar de paisajes de páramo y espectaculares vistas de alta montaña sin tener que esforzarte caminando, esta es la ruta ideal.
 
 __INFORMACIÓN TÉCNICA:__
 - __Distancia Total:__ 500 metros
@@ -168,11 +168,11 @@ El Nevado Santa Isabel es uno de los próximos nevados en convertirse en paramil
 Es importante aclarar que el acceso a esta parte del nevado solo está permitido a través de agencias avaladas por el Parque de los Nevados. Además, la carretera no está en buenas condiciones. Se menciona esto porque en algunas ocasiones se han encontrado vehículos atascados en el pantano al intentar subir sin una reserva previa.
 
 Volviendo a la subida al Santa Isabel, esta se realiza en dos días:
-Día 1: Acondicionamiento.
-Día 2: Ascenso a la cumbre (aproximadamente 10 horas de caminata).
+__Día 1:__ Acondicionamiento.
+__Día 2:__ Ascenso a la cumbre (aproximadamente 10 horas de caminata).
 
 __INFORMACIÓN TÉCNICA:__
-- __Distancia Total:__ 9,49 Kilómetros
+- __Distancia Total:__ 13,49 Kilómetros
 - __Duración Sendero:__ 2 días 1 noche
 - __Inclinación del sendero:__ 4.154 a 4.923 m.s.n.m
 
@@ -289,4 +289,4 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 👉 <a href="https://www.booking.com/searchresults.en.html?city=-591834&aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver más opciones de hospedaje en Manizales</a>
 
 
-Este es el fin del post Rutas de senderismo en el Eje Cafetero, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+Este es el fin del post Rutas de 5 rutas de senderismo en el Eje Cafetero, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
