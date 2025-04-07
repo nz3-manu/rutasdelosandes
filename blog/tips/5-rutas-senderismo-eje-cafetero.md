@@ -19,8 +19,8 @@ Adicional a eso, te dejaremos el link para ver más información de cada ruta y 
 
 -  <a href="#donde-queda-eje"> ¿Dónde queda el Eje Cafetero?  </a>
 -  <a href="#como-llegar-eje"> ¿Cómo llegar al Eje Cafetero? </a>
--  <a href="#senderismo-baja-montana"> Rutas de senderismo de baja montaña en el Eje Cafetero </a>
--  <a href="#senderismo-alta-montana"> Rutas de senderismo de alta montaña en el Eje Cafetero </a>
+-  <a href="#senderismo-baja-montana"> Rutas de senderismo de baja montaña </a>
+-  <a href="#senderismo-alta-montana"> Rutas de senderismo de alta montaña </a>
 -  <a href="#recomendaciones-para-tour"> Recomendaciones para tomar un Tour </a>
 -  <a href="#hospedaje-eje"> Hospedaje en el Eje cafetero.</a>
 
@@ -86,9 +86,9 @@ A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafet
 <a name="senderismo-baja-montana" id="senderismo-baja-montana"></a>
 
 
-## RUTAS DE SENDERISMO FAMILIARES⛰️
+## RUTAS DE BAJA MONTAÑA⛰️
 
-Las siguientes rutas no requieren un gran esfuerzo físico ni experiencia en senderismo, por lo que son ideales para disfrutar de una tarde agradable con familia o amigos.
+Estas rutas que te mostramos a continuación ofrecen paisajes variados, llenos de naturaleza y cascadas. Si te gusta el avistamiento de aves, estos lugares serán perfectos para ti. En algunas de estas rutas necesitarás un poco más de experiencia que en otras, así que tenlo en cuenta al planear tu aventura.
 
 
 ### -> #1 BARBAS BREMEN
@@ -135,7 +135,7 @@ height:"1013"
 <a name="senderismo-alta-montana" id="senderismo-alta-montana"></a>
 
 
-## RUTAS DE SENDERISMO ALTA MONTAÑA EN EL EJE CAFETERO 🧗‍♂️
+## RUTAS DE SENDERISMO ALTA MONTAÑA 🧗‍♂️
 
 Estas rutas que te mostramos a continuación ofrecen paisajes variados: verás nevados, páramos y frailejones. Cada una tiene un nivel de dificultad diferente, así que te aconsejamos prestar atención a las recomendaciones.
 
