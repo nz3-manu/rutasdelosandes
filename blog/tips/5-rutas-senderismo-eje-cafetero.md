@@ -86,9 +86,9 @@ A continuación te mostraremos algunas rutas que podrás visitar en el Eje Cafet
 <a name="senderismo-baja-montana" id="senderismo-baja-montana"></a>
 
 
-## RUTAS DE BAJA MONTAÑA⛰️
+## RUTAS DE MEDIA MONTAÑA⛰️
 
-Estas rutas que te mostramos a continuación ofrecen paisajes variados, llenos de naturaleza y cascadas. Si te gusta el avistamiento de aves, estos lugares serán perfectos para ti. En algunas de estas rutas necesitarás un poco más de experiencia que en otras, así que tenlo en cuenta al planear tu aventura.
+Las rutas que te mostramos a continuación ofrecen paisajes variados, llenos de naturaleza y cascadas. Si te gusta el avistamiento de aves, estos lugares serán perfectos para ti. En algunas de estas rutas necesitarás un poco más de experiencia que en otras, así que tenlo en cuenta al planear tu aventura. Estas rutas se encuentran entre los 1.501 y los 2.500 metros sobre el nivel del mar.
 
 
 ### -> #1 BARBAS BREMEN
@@ -137,7 +137,7 @@ height:"1013"
 
 ## RUTAS DE SENDERISMO ALTA MONTAÑA 🧗‍♂️
 
-Estas rutas que te mostramos a continuación ofrecen paisajes variados: verás nevados, páramos y frailejones. Cada una tiene un nivel de dificultad diferente, así que te aconsejamos prestar atención a las recomendaciones.
+Las rutas que te mostramos a continuación ofrecen paisajes variados: encontrarás nevados, páramos y frailejones. Cada una tiene un nivel de dificultad diferente, por lo que te recomendamos prestar atención a las indicaciones. Estas rutas se caracterizan por estar entre los 2.501 y los 5.500 metros sobre el nivel del mar
 
 ### -> #3 NEVADO DEL RUIZ
 
@@ -162,7 +162,28 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
 👉 <a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al nevado del ruiz </a>
 
 
-### -> #4 NEVADO SANTA ISABEL
+### -> #4 LAGUNA DEL OTÚN
+
+La Laguna del Otún es una de las más grandes del Parque de los Nevados. Para llegar allí, primero se debe viajar en carro durante aproximadamente 3 horas. En invierno, el camino puede volverse complicado, y no es raro ver motos o carros atascados en el barro.
+
+Una vez en la entrada del parque, comienza la caminata de 9 kilómetros, que toma alrededor de 6 horas. La ruta se encuentra a una altitud que varía entre los 3.900 y 4.200 metros sobre el nivel del mar. Es un recorrido de dificultad moderada y no se recomienda para personas con enfermedades pulmonares o cardíacas.
+
+__INFORMACIÓN TÉCNICA:__
+- __Distancia Total:__ 9,5 Kilómetros
+- __Duración Sendero:__ 8 horas
+- __Inclinación del sendero:__ 3.935 a 4.144 m.s.n.m
+
+{% include image.html,
+file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/laguna-otun.jpg",
+caption:"Foto: Laguna del Otún",
+width:"1080",
+height:"607"
+%}
+
+👉 <a href="https://www.randes.co/products/tour-laguna-del-otun" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour a la Laguna del Otún</a>
+
+
+### -> #5 NEVADO SANTA ISABEL
 
 El Nevado Santa Isabel es uno de los próximos nevados en convertirse en paramillo, término que se utiliza para referirse a un nevado que ha perdido su nieve. 
 Es importante aclarar que el acceso a esta parte del nevado solo está permitido a través de agencias avaladas por el Parque de los Nevados. Además, la carretera no está en buenas condiciones. Se menciona esto porque en algunas ocasiones se han encontrado vehículos atascados en el pantano al intentar subir sin una reserva previa.
@@ -190,42 +211,26 @@ height:"1349"
 👉 <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel</a>
 
 
-### -> #5 LAGUNA DEL OTÚN
-
-La Laguna del Otún es una de las más grandes del Parque de los Nevados. Para llegar allí, primero se debe viajar en carro durante aproximadamente 3 horas. En invierno, el camino puede volverse complicado, y no es raro ver motos o carros atascados en el barro.
-
-Una vez en la entrada del parque, comienza la caminata de 9 kilómetros, que toma alrededor de 6 horas. La ruta se encuentra a una altitud que varía entre los 3.900 y 4.200 metros sobre el nivel del mar. Es un recorrido de dificultad moderada y no se recomienda para personas con enfermedades pulmonares o cardíacas.
-
-__INFORMACIÓN TÉCNICA:__
-- __Distancia Total:__ 9,5 Kilómetros
-- __Duración Sendero:__ 8 horas
-- __Inclinación del sendero:__ 3.935 a 4.144 m.s.n.m
-
-{% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/laguna-otun.jpg",
-caption:"Foto: Laguna del Otún",
-width:"1080",
-height:"607"
-%}
-
-👉 <a href="https://www.randes.co/products/tour-laguna-del-otun" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour a la Laguna del Otún</a>
 
 <a name="recomendaciones-para-tour" id="recomendaciones-para-tour"></a>
 
 
 ## RECOMENDACIONES PARA TOMAR UN TOUR 🥾🧳
 
-Te recomendamos que armes por día cada lugar que deseas visitar. Ten en cuenta que la duración de las rutas cortas (tardan alrededor de 3 horas) y se realizan en la mañana. Así que tendrás parte de la tarde y noche libre, por lo que podrás contar con tiempo para disfrutar de la ciudad, ir a los termales de Santa Rosa de Cabal, o visitar Salento, no incluimos estos sitios en este post porque queríamos que fuera solo de lugares de senderismo 🥾.
+Sabemos lo difícil que puede ser viajar sin saber si las agencias que ofrecen los tours son seguras o no. Por eso, aquí te compartimos agencias con las que ya hemos tomado planes y con las que trabajamos actualmente. Si llegas a tener algún inconveniente, no dudes en escribirnos.
 
+__TE RECOMENDAMOS:__ 
 
-Las rutas, del Nevado Santa Isabel, solo se hace con previa reserva, si vas con un grupo de 3 o 4 personas será más fácil poder hacer esta excursión.
+- Planear tu viaje con anticipación, especialmente si quieres visitar lugares como la Laguna del Otún o el Nevado Santa Isabel. Estos destinos son mucho más económicos si los haces en grupo. 
+- Si cuentas con cédula de extranjería colombiana, infórmaselo a la agencia antes de tomar el tour, así evitarás el cobro adicional de $50.000 que Parques Nacionales cobra a los extranjeros. 🥾
+- Las rutas al Nevado Santa Isabel solo se realizan con reserva previa. En temporada alta, los cupos pueden agotarse hasta con tres meses de anticipación.
+
 
 
 <a name="hospedaje-eje" id="hospedaje-eje"></a>
 
 
 ## HOSPEDAJES EN EL EJE CAFETERO 🏨
-
 
 Sabemos lo difícil que es llegar a una ciudad y __no saber: donde hospedarte, ¿donde dejar el carro o moto, es seguro el barrio?__, aquí te mostraremos algunas opciones disponibles. Las hemos seleccionado de acuerdo a su ubicación, además, que se encuentren en zonas seguras, cuente con parqueadero. Pero sobre todo, recomendaciones de clientes de la plataforma Booking en la cual podrás hacer la reserva de manera segura. 
 
