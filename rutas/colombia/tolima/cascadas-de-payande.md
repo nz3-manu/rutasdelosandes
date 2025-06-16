@@ -7,25 +7,16 @@ excerpt: Guía completa para visitar la cascada de Payande, conoce transporte de
 images_url: /images/rutas/tolima/represa-prado
 viewranger: MTYzNjQxOQ==
 author: manuel
-trending: true
 ---
-
 
 
 # CASCADAS DE PAYANDE O CASCADA DE CHICALA
 
-
-
 Esta ruta es ideal para recorrer en familia, ya que cuenta con todas las comodidades: senderos, restaurantes, baños, entre otros. Sin embargo, si lo que buscas es disfrutar de la tranquilidad de la naturaleza, te recomendamos visitarla entre semana, ya que los fines de semana suele haber demasiadas personas.
-
 
 **🛶 <a href="https://wa.link/eovpg5" style="color:green;" target="_blank"> Puedes conocer nuestros planes a la Represa de Prado, solo dando clic aquí. 👈 </a>**
 
-
-
-
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
-
 
 - <a href="#video-payande-tolima"> Vídeo del camino en las cascadas de Payande</a>
 - <a href="#llegar-payande-tolima"> ¿Cómo llegar a Payande? </a>

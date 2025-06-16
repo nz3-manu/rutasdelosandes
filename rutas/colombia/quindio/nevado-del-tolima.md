@@ -16,6 +16,8 @@ En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolim
 
 **<a href="https://wa.link/u14qrw" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí </a>**
 
+__<a href="https://www.randes.co/products/tour-nevado-del-tolima" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
+
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
 - <a href="#lugares-tolima"> Video de la Ruta realizada al Nevado del Tolima</a>

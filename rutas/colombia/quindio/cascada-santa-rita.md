@@ -12,11 +12,11 @@ author: manuel
 
 Las cascadas de Santa Rita se encuentran en la vereda Boquia, que pertenece al municipio de Salento en el departamento del Quindío. En esta región en 1926 se empezó a realizar una de las obras más ambiciosas para esta época: el Ferrocarril que comunicaría a Armenia con Ibagué, una obra que prometía progreso para toda la región, pero que por múltiples razones en el año de 1948 se suspendió la construcción de esta importante obra.
 
-**<a href="https://rutasdelosandes.com/tips/Senderismo-en-el-eje-cafetero.html" style="color:green;" target="_blank"> Quizas te interese ver el post 👉 rutas de senderismo en el Eje Cafetero</a>**
+**<a href="https://rutasdelosandes.com/amp/tips/5-rutas-senderismo-eje-cafetero.html" style="color:green;" target="_blank"> [Quizás te interese ver el post: 5 rutas de senderismo en el Eje Cafetero]</a>**
 
 Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferrocarril.
 
-## ¿Qué encontrarás en la Cascada Santa Rita 🏞?
+## ¿QUÉ ENCONTRARÁS EN LA CASCADA SANTA RITA 🏞?
 
 {% include youtube.html,
     videoid:"wsWmrXU8xFo",
@@ -27,7 +27,7 @@ Aún en Boquía se pueden ver los túneles y el puente donde iba a pasar el Ferr
 
 Suscríbete a nuestro canal de youtube dando click <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-## ¿Cómo llegar a la Cascada Santa Rita 🚌🚗🛵?
+## ¿CÓMO LLEGAR A LA CASCADA SANTA RITA 🚌🚗🛵?
 
 Para llegar a las cascadas de Santa Rita tuvimos que tomar un bus con destino Salento y nos bajamos en la vereda Boquía. El valor del pasaje es de $7.000 Pesos desde el terminal de Pereira, el bus sale a partir de las 6:30 am con una frecuencia de 1 hora.
 También puedes tomar el bus desde Armenia hasta Salento.
@@ -44,7 +44,7 @@ Después de tomar el bus nos tardamos aproximadamente 40 minutos para llegar a B
 
 **Recuerda minimizar el uso de plástico cuando vas a la montaña**, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 
-## El camino a la Cascada Santa Rita 🚶🏼🐕
+## EL CAMINO A LA CASCADA SANTA RITA 🚶🏼🐕
 
 Desde la vereda Boquía hasta la entrada del sendero hay aproximadamente 1 kilómetro, el camino está en buen estado, nos tardamos 40 minutos caminando para llegar a la finca Santa Rita.
 
@@ -71,7 +71,7 @@ width:"1920",
 height:"1080"
 %}
 
-## ¿Cómo regresar de la Cascada Santa Rita 🚌🏡?
+## ¿CÓMO REGRESAR DE LA CASCADA SANTA RITA 🚌🏡?
 
 Después de bañarnos en el agua fría, decidimos regresar antes de las 4:00 pm para tomar el bus que pasa por Boquía y contar con la suerte de que nos pudieran llevar, ya que los fines de semana es casi imposible tomar un bus después de las 4:00 pm por el número de viajeros que vienen de salento. Después de esperar y no contar con suerte tuvimos que tomar un bus e irnos hasta salento y de allí tomar otro de regreso.
 
