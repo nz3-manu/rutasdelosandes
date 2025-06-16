@@ -84,9 +84,9 @@ Aquí te mostraremos algunas opción para llegar a prado, desde algunas ciudades
 3202260200</a>
 <a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
 
-## PUEBLO DE PRADO  🚣🏼‍♂️
+## LLEGADA AL PUEBLO DE PRADO  🚣🏼‍♂️
 
-Una vez en Prado, verás que es un pueblo pequeño, con una población aproximada de 3.900 personas. Allí encontrarás pocas opciones de servicios como cajeros o corresponsales bancarios.
+Una vez en Prado, verás que es un pueblo pequeño, con una población aproximada de 3.900 personas. Allí encontrarás pocas opciones de servicios como cajeros o corresponsales bancarios, así que les recomendamos llevar efectivo, las opciones de restaurantes para comprar almuerzo podrán encontrar con facilidad, pero en la noche es algo complecado encontrar comida, solo encotrán comida rapida.
 
 {% include image.html,
 file:"rutas/tolima/represa-prado/monumento-emblematico.jpeg",
@@ -95,20 +95,24 @@ width:"1000",s
 height:"1037"
 %}
 
-Este monumento se creó como homenaje a las familias de pescadores. Ésta inmensa estatua de cemento fue construida por un diseñador de Prado, Tolima quién reemplazó el arco que le daba la bienvenida a los habitantes y turistas. __Dicho arco tenía ya alrededor de 100 años de haber sido construido__ pero fue reemplazado por un concepto más emblemático que refleja una de las principales actividades económicas del pueblo.
+Este monumento es señal de que estan entrando a Prado, este se creó como homenaje a las familias de pescadores. Fue construida por un diseñador de Prado, Tolima quién reemplazó el arco que le daba la bienvenida a los habitantes y turistas. __Dicho arco tenía ya alrededor de 100 años de haber sido construido__ pero fue reemplazado por un concepto más emblemático que refleja una de las principales actividades económicas del pueblo.
 
 ### -> ¿COMO LLEGAR A LA REPRESA DE PRADO?
 
-Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Una vez llegamos allí, nos encontramos con los __servicios de parqueadero:__
+Desde Prado a la represa hay alrededor de 8 kilómetros, los cuales están totalmente pavimentados. Si no cuentas con transporte no hay problema 😎, podrás encontrar motocarros que te cobrarán aproximadamente $8.000 pesos  por trayecto. Para abordar un motocarro, solo tendrás que ir a un costado del parque principal.
+
+
+Una vez llegamos al muelle turistico, nos encontramos con los __servicios de parqueadero:__
 * __Motos:__ tiene un valor de $6.000 pesos el día.
 * __Carros:__ tiene un valor de $11.000 pesos el día.
 
-Si no cuentas con transporte no hay problema 😎, podrás encontrar motocarros que te cobrarán aproximadamente $8.000 pesos  por trayecto. Para abordar un motocarro, solo tendrás que ir a un costado del parque principal.
-
-Una vez llegamos a la represa, nos encontramos con la persona que habíamos contratado el tour, haya nos encontramos algunas personas que estaban buscando que los vincularon a un tour ellos iban un poco borrchos 🍻, el lanchero los vinculo en un grupo que iba con una familia, muchas veces esto puede ocasionar problemas en estos grupos.
+__Advertencia:__ _Antes de llegar a la represa, tendrán que pasar por un túnel por lo que deben de tener precaución, disminuir la velocidad, y pitar antes de entrar o escuchar si viene alguien pitando para reducir la velocidad. El túnel es muy angosto y solo puede pasar un carro a la vez._
 
 
-__RECOMENDACIÓN:__ muchas de las personas que tienen lanchas no tienen la experiencia ni pericia para manejar estas lanchas, incluso nos contaban de algunos que no hacían los debidos trámites en los puertos para no pagar los seguros o no los llevaban a todos los lugares para no gastar más gasolina.
+Al llegar a la represa, nos recibió el conductor de la lancha (lanchero) 👨‍✈️. Poco antes de zarpar, unas personas pidieron unirse al grupo, pero al tratarse de un tour privado, buscaron otra lancha. Estas personas estaban tomando alcohol y iban algo animadas 🎵😅, y finalmente fueron integradas a un grupo con una familia y una pareja que buscaban tour. Más tarde, el lanchero nos comentó que esto suele causar inconvenientes, ya que algunos van bebiendo y con música a alto volumen en las lanchas, mientras otros solo quieren disfrutar de la naturaleza. En los tours grupales, todos deben adaptarse a las decisiones del grupo.
+
+
+__RECOMENDACIÓN:__ En la represa no hay mucho control sobre las personas que ofrecen tours. Muchos compran lanchas buscando una oportunidad de negocio, pero algunos no tienen experiencia en estos recorridos o sus embarcaciones no están en buen estado. Incluso, escuchamos casos de lancheros que evitan hacer los trámites respectivos en el muelle para ahorrarse ese dinero. Por eso pueden notarse diferencias entre los tours.
 
 
 {% include image.html,
@@ -117,8 +121,6 @@ caption:"Foto: Represa de Prado",
 width:"1000",
 height:"564"
 %}
-
-__Advertencia:__ _Antes de llegar a la represa, tendrán que pasar por un túnel por lo que deben de tener precaución, disminuir la velocidad, y pitar antes de entrar o escuchar si viene alguien pitando para reducir la velocidad. El túnel es muy angosto y solo puede pasar un carro a la vez._
 
 
 ### ->  MAPA DE LUGARES VISITADOS EN PRADO 🗺️
@@ -154,9 +156,7 @@ height:"1333"
 
 ### -> LAGUNA ENCANTADA
 
-
 Este punto no muchas personas van, ya que están cobrando el ingreso que es $2.500 por persona, deben tener cuidado y nadar con los chalecos en este lugar, ya que esta laguna tiene una profundidad de 40 metros.
-
 
 {% include image.html,
 file:"rutas/tolima/represa-prado/laguna-encantada.jpg",
@@ -194,13 +194,13 @@ height:"1333"
 
 Esta pequeña cascada solo se ve en invierno, ya que en verano esta seca.
 
-
 {% include image.html,
 file:"rutas/tolima/represa-prado/cascada.jpg",
 caption:"Foto: cascada",
 width:"1000",
 height:"1333"
 %}
+
 ### -> RESTAURANTE
 
 En este punto fue donde almorzamos, debemos aclarar que cada agencia maneja su restaurante, en este que estuvimos nosotros cuenta con: piscinas, tienen juegos de mesa, hamacas, pero debes saber que en temporada alta puede llenarse estas instalaciones.
@@ -215,7 +215,7 @@ height:"563"
 
 ## TOURS DISPONIBLES EN LA RESERVA DE PRADO  🛶
 
-Aquí te mostraremos los diferentes tours que podrás realizar en la represa de Prado, __ten en cuenta que estos tours tienen una capacidad mínima de personas__, ya que la lancha cobra lo mismo si es 1 o 10 personas a igual que el guía.
+Aquí te mostraremos los diferentes tours que podrás realizar en la represa de Prado, __ten en cuenta que estos tours tienen una capacidad mínima de personas__, ya que la lancha cobra lo mismo si es 1 o 10 personas.
 
 En cada una de las opciones que mencionamos a continuación, podrás ver una tabla de precios para hacer el tour de manera privada, o si se completará el cupo de 10 personas la tarifa ya sería grupal y sería el valor que aparece en cada tour.
 
@@ -244,8 +244,6 @@ En cada una de las opciones que mencionamos a continuación, podrás ver una tab
 
 
 __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la reserva con anticipación, ya que podrían separar una lancha para ir solo con tu grupo de amigos, y así podrían coordinar con el guía la hora de inicio del tour._
-
-
 
 
 <a name="hospedaje-prado-tolima" id="hospedaje-prado-tolima"></a>
