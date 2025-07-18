@@ -19,8 +19,8 @@ Así podrás planear mucho mejor tu viaje.
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
 - <a href="#video-prado-tolima"> Vídeo de la ruta a la represa de Prado </a>
-- <a href="#llegar-prado-tolima"> ¿Cómo llegar a Prado? </a>
-- <a href="#lugares-prado-tolima"> Lugares turísticos para visitar en Prado </a>
+- <a href="#llegar-prado-tolima"> ¿Cómo llegar al pueblo de Prado? </a>
+- <a href="#lugares-prado-tolima"> Lugares emblematicos en la represa de Prado </a>
 - <a href="#tour-prado-tolima"> Tours disponibles en la represa de Prado</a>
 - <a href="#hospedaje-prado-tolima"> Hospedajes disponibles en Prado</a>
 - <a href="#recomendaciones-prado-tolima"> Recomendaciones finales para visitar Prado</a>
@@ -82,9 +82,8 @@ Aquí te mostraremos algunas opción para llegar a prado, desde algunas ciudades
 * __Duración de este trayecto es de:__ 2 horas aproximadamente.
 * __Telefono de empresa de transporte:__  <a href="tel:3202260200">
 3202260200</a>
-<a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
 
-## LLEGADA AL PUEBLO DE PRADO  🚣🏼‍♂️
+### -> PUEBLO DE PRADO  🚣🏼‍♂️
 
 Una vez en Prado, verás que es un pueblo pequeño, con una población aproximada de 3.900 personas. Allí encontrarás pocas opciones de servicios como cajeros o corresponsales bancarios, así que les recomendamos llevar efectivo, las opciones de restaurantes para comprar almuerzo podrán encontrar con facilidad, pero en la noche es algo complecado encontrar comida, solo encotrán comida rapida.
 
@@ -138,6 +137,7 @@ caption:"Ruta en Prado Tolima"
 
 A continuación te mostraremos los tours que ofrece la empresa con la cual estamos trabajando en este lugar. Ten en cuenta que, no todas las empresas manejan los mismos tours.
 
+<a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
 
 ## LUGARES MÁS EMBLEMÁTICOS PARA VISITAR EN LA REPRESA DE PRADO 🛶
 

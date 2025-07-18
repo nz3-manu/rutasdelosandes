@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Bosque de Pandora 
 categories: colombia
