@@ -7,7 +7,6 @@ excerpt: Descubre cómo llegar a los cerros Mavicure, donde conseguir tour o si 
 images_url: /images/rutas/inirida/cerros-de-mavicure
 viewranger: MTY2NDcwMQ==
 author: manuel
-trending: true
 ---
 
 
@@ -38,7 +37,7 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guaini
 
 <a name="dato-ruiz" id="dato-ruiz"></a>
 
-## DATOS CURIOSOS 
+## DATOS CURIOSOS 📚 
 
 __Historia de las comunidades:__
 Inírida es que su nombre significa "espejito de sol" y está asociado a una leyenda sobre una hermosa princesa indígena que habitaba en el Cerro Pajarito, cerca de este también se encuentran los cerros Mavacure y el Cerro Mono. 
@@ -58,12 +57,12 @@ __Datos de Flora y Fauna:__
 
 <a name="video-mavicure" id="video-mavicure"></a>
 
-## VIDEO DE LA RUTA A LOS CERROS DE MAVECURE
+## VIDEO DE LA RUTA A LOS CERROS DE MAVECURE  🎥
 
 En este videos te mostraremos como fue nuestro viaje por inirida, podras ver las recomendaciones en cada sección del video 
 
 {% include youtube.html
- videoid:"1fVmDl0oiFE",
+ videoid:"1fVmDloiFE",
  width:"480",
  height:"270",
  caption:"Vide: Ruta a los cerros de Mavicure"
@@ -74,7 +73,7 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 <a name="llegar-mavicure" id="llegar-mavicure"></a>
 
 
-## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE ✈️?
+## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE 🛵 ✈️?
 
 Como los vuelos salen la mayoria de las veces de Bogota, te daremos algunas recomendaciones de parqueadero y hospedaje en la ciudad de bogota cerca del aeropuerto.
 
@@ -88,7 +87,7 @@ Nosotros ibamos en moto así que la dejamos en un parqueadero que se llama _Parq
 
 __Recomendación de este Parqueadero:__ Cuando nosotros regresabamos del viaje y llamamos para que nos recogieran como lo habian dicho nos dijerón que en 1 hora nos recogian, pero despues de 1 hora no llamo el señor del carro que estaba barado y nos toco tomar un Uber. Debes saber que las motos quedan al aire libre, y allí no guardan cascos, por ultimo de este parqueadero no estamos recibiendo nada, solo que nos parece util dar esta información, si tienen uno mejor nos pueden recomendar, para nosotros ponerlo en nuestra pagina.
 
-####  __HOSPEDAJE CERCANO AL AEROPUERTO:__ 
+####  HOSPEDAJE CERCANO AL AEROPUERTO
 
 Aqui te mostratemos algunos hospedajes que nos recomendarón en nuestro paso por Bogota, de estos hospedajes no estamos recibiendo nada a cambio, si tienen alguna sugerencia de hospedaje nos lo pueden decir.
 
@@ -114,7 +113,6 @@ A continuación te mostraremos el mapa de los lugares que visitamos en nuestro r
  mid:"1XOxZ5R1XqihudJdmgWR6uS62VkMGY_U&hl=es&ehbc=2E312F",
  caption:"Mapa: Ruta realizada en inirida"
 %}
-
 
 ### -> CERROS DE MAVECURE
 
@@ -152,7 +150,6 @@ height:"900"
 
 ### -> DELFÍNES ROSADOS O TONINAS
 
-
 Existen varios puntos en donde pueden ver toninas, en invierno podrán visitar la laguna de la bruja y llegar en lancha hasta este lugar, si es verano quizás les toque caminar un poco para llegar a esta laguna, en el video mostramos estaba inundada así que por los antiguos caminos que eran sendero entro la lancha.
 
 
@@ -184,33 +181,9 @@ height:"672"
 
 __Nota:__ en este lugar no se pueden bañar, ya que  hay fauna peligrosa como el cocodrilo del Orinoco.
 
-
-## -> CAÑO VITINA
-
-
-Este es un lugar que debe de estar en tu lista, las agencias no van a este lugar así que te tocaría ir por tu cuenta, pero ten en cuenta este lugar queda aproximadamente a 14 kilómetros del pueblo de Inírida, lee los consejos para que no te pase lo mismo que a nosotros.
-
-
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
-caption:"Foto: Caño vitina",
-width:"1200",
-height:"1371"
-%}
-
-
-__Recomendación:__ 
-- Antes de tomar el motocarro, Pregunta primero cuánto vale, ya que a nosotros nos pasó que nos dieron un valor e íbamos 2 personas, y cuando nos bajamos y pagamos nos dijeron que el valor era por persona.
-- Además, debes tener en cuenta que para este lugar cobran el ingreso, pero no tienen aviso de precios(hasta la fecha que viajamos), por esta razón te recomendamos que vayas con alguien, muchas personas van con los guías que hacen el recorrido.
-- Por ultimo ala llegar a este lugar tencuidado de tus objetos personales, cuando te este bañando.
-
-
-<a name="tours-mavecure" id="tours-mavecure"></a>
-
 ## -> FLOR DE INIRIDA
 
-
-No te puedes ir de Inírida sin conocer esta flor, la cual la llaman la flor eterna, aseguran que puede durar aproximadamente 1 año sin marchitarse.
+No te puedes ir de Inírida sin conocer esta flor, la cual la llaman la flor eterna, aseguran que puede durar aproximadamente 1 año sin marchitarse: muchas agencias llevan a ver estas flores en algunas reservas ecologicas donde te cuentan un poco de esta flor.
 
 
 {% include image.html,
@@ -219,6 +192,22 @@ caption:"Foto: Flor Eterna de Inirida",
 width:"1200",
 height:"1600"
 %}
+
+
+## -> CAÑO VITINA (NO VAN CON AGENCIA)
+
+Las agencias no van a este lugar así que te tocaría ir por tu cuenta, pero ten en cuenta este lugar queda aproximadamente a 14 kilómetros del pueblo de Inírida, puedes tomar un moto carro, antes de tomar el motocarro, Pregunta primero cuánto vale, ya que muchas veces les cobran más a turistas, pregunten siempre cuanto vale, a nosotros no paso que nos cobrarón un valor y al pagarlo nos dijerón que era por persona.
+
+{% include image.html,
+file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
+caption:"Foto: Caño vitina",
+width:"1200",
+height:"1371"
+%}
+
+__Recomendación Para visitar este lugar:__ 
+- Debes tener en cuenta que para este lugar cobran el ingreso, pero no tienen aviso de precios(hasta la fecha que viajamos), por esta razón te recomendamos que consulte los precios de ingresos y transporte, con los guías que vas atomar el tour.
+- Por ultimo, cuando te esten bañando en estas hermosas aguas, ponerle cuidado a tus objetos personales.
 
 <a name="tour-mavicure" id="tour-mavicure"></a>
 
