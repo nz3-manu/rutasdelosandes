@@ -7,10 +7,10 @@ excerpt: Descubre cómo llegar a los cerros Mavicure, donde conseguir tour o si 
 images_url: /images/rutas/inirida/cerros-de-mavicure
 viewranger: MTY2NDcwMQ==
 author: manuel
+trending: true
 ---
 
-
-# CERROS DE MAVECURE
+# CERROS DE MAVICURE
 
 Te estás preguntando si compro el tiquete de avión y busco un tour directamente allá, o si mejor compro un tour antes de ir. Nosotros te contaremos nuestra experiencia, no fuimos con agencias y fue un error de nuestra parte, pero al menos nos sirvió para poder contarte nuestra experiencia con ustedes. En cada sección de nuestro blog te dejaremos recomendación para que no te pase lo mismo.
 
@@ -19,15 +19,15 @@ Te estás preguntando si compro el tiquete de avión y busco un tour directament
 __<a href="https://wa.link/3g0r7v" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
 
-
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
-
+* <a href="#dato-curioso-mavicure"> Datos curiosos Mavicure</a>
+* <a href="#dato-curioso-mavicure"> Video de la ruta a Mavicure</a>
 * <a href="#video-mavicure"> Video de la ruta a Mavicure</a>
-* <a href="#llegar-mavicure"> ¿Cómo llegar a Mavicure?</a>
+* <a href="#llegar-mavicure"> ¿Cómo llegar a los Cerros de Mavicure?</a>
 * <a href="#sendero-mavicure">  Lugares para visitar en Inírida</a>
 * <a href="#tour-mavicure"> Tours disponibles para cerro Mavicure</a>
-* <a href="#hospedaje-mavicure"> Hospedajes en Inirida</a>
+* <a href="#hospedaje-mavicure"> Hospedajes disponibles</a>
 
 
 Empecemos con la aventura ⛰.
@@ -35,7 +35,7 @@ Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guainia/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
 
-<a name="dato-ruiz" id="dato-ruiz"></a>
+<a name="dato-curioso-mavicure" id="dato-curioso-mavicure"></a>
 
 ## DATOS CURIOSOS 📚 
 
