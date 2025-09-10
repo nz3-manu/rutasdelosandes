@@ -12,9 +12,7 @@ trending: true
 
 # CERROS DE MAVICURE
 
-Te estás preguntando si compro el tiquete de avión y busco un tour directamente allá, o si mejor compro un tour antes de ir. Nosotros te contaremos nuestra experiencia, no fuimos con agencias y fue un error de nuestra parte, pero al menos nos sirvió para poder contarte nuestra experiencia con ustedes. En cada sección de nuestro blog te dejaremos recomendación para que no te pase lo mismo.
-
-
+Te estarás preguntando. _¿es necesario ir con agencia o se puede hacer este recorrido solo?._ o tal vez te preguntes todos pueden subir a Mavicure o es muy duficil el ascenso, aquí te aclariamos todas estas dudas ademas en cada sección de este blog te dejaremos recomendación para las tengas presentes al momento de tu viaje.
 
 __<a href="https://wa.link/3g0r7v" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
@@ -39,10 +37,24 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guaini
 
 ## DATOS CURIOSOS 📚 
 
-__Historia de las comunidades:__
-Inírida es que su nombre significa "espejito de sol" y está asociado a una leyenda sobre una hermosa princesa indígena que habitaba en el Cerro Pajarito, cerca de este también se encuentran los cerros Mavacure y el Cerro Mono. 
+Aquí te mostraremos toda la información respecto a los cerros de mavicure como tambien de su flora y fauna.
 
-__Datos Cientificos Cerros Mavicure:__
+### -> HISTORIA DE LAS COMUNIDADES DE LOS CERROS MAVICURE
+
+Inírida es que su nombre significa "espejito de sol" y está asociado a una leyenda sobre una hermosa princesa indígena que habitaba en el Cerro Pajarito.
+
+Se cuenta que, en la cabecera del río Inírida, vivía una niña de apenas 11 o 12 años, reconocida por su gran belleza. Un hombre de la comunidad estaba perdidamente enamorado de ella, aunque sus sentimientos no eran correspondidos.
+
+Cuando la niña llegó a su primer periodo menstrual, la tradición indígena dictaba que debía permanecer aislada durante 15 días, con acceso únicamente para su madre.
+
+El enamorado, aprovechando las fiestas del pueblo, logró entrar al lugar de reclusión y le dio de beber una pusana: una bebida amorosa elaborada con plantas sagradas de los Cerros de Mavicure. Sin embargo, el hechizo no surtió el efecto esperado. La niña no se enamoró de él, sino que quedó profundamente atraída por los majestuosos cerros.
+
+Desorientada por la bebida, pero guiada por aquel sentimiento, abandonó su comunidad y comenzó a caminar entre los valles. Antes de llegar al cerro que tanto la llamaba, dejó como recuerdo un dije de plata, motivo por el cual ese lugar pasó a conocerse como Cerro Plata.
+
+Finalmente, alcanzó el Cerro Pajarito. La leyenda cuenta que la montaña se abrió para recibir a la joven princesa y darle refugio en su interior. Desde entonces, en la roca se distingue una pequeña ventana: la entrada por donde ella se fundió para siempre con el espíritu de la montaña.
+
+### -> INFORMACIÓN CIENTIFICA DE LOS CERROS MAVICURE
+
 Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás que es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
 
 _¿Te preguntarás, si toda la tierra tiene la misma antigüedad porque hay montañas más viejas que otras?_ Todo es gracias a que en el centro de la tierra hay magma, y este está en constante movimiento, imagínate una olla con agua caliente y cada vez que esta se calienta más, el agua del fondo asciende y la fría baja a este movimiento se le llama movimiento convectivo y es el que hace que se desplacen las placas tectónicas, que se encuentran por encima del magma.
@@ -51,7 +63,8 @@ _¿Te preguntarás qué pasa si 2 placas tectónicas chocan entre sí?_ Esto fue
 
 Hace 335 millones de años existía 1 continente el cual se llamaba Pangea, este continente se fracturó por la fuerza que ejercían las placas tectónicas y se fue desplazando a los continentes que conocemos hoy. Como último dato, el Escudo Guayanés(que comprende parte de Colombia, Venezuela, Guyana y brasil) por ser una estructura tan resistente, este no se partió, sino que se vino completo para el continente de las Américas. 
 
-__Datos de Flora y Fauna:__
+### -> INFORMACIÓN FLORA Y FAUNA 
+
 - Cuenta con 55 clases de peces de las 106 especies migratorias de Colombia.
 - Cuenta con una flor endémica  que se llama "Flor de Inírida" es conocida como la "Flor Eterna" porque, al secarse, mantiene su forma y puede durar por años. 
 
@@ -75,11 +88,20 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 ## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE 🛵 ✈️?
 
-Como los vuelos salen la mayoria de las veces de Bogota, te daremos algunas recomendaciones de parqueadero y hospedaje en la ciudad de bogota cerca del aeropuerto.
+La formas más facil es ir en avión la mayoria de vuelos salen con mayor frecuencia de Bogota, así que te daremos algunas recomendaciones de: parqueadero y hospedaje cerca del aeropuerto.
 
 ### -> EN AVIÓN
 
-Esta es la forma más fácil de ir a los cerros de Mavecure, hasta el momento solo hay vuelos con Satena, este tarda en promedio 1 hora y 30 minutos en llegar. Los vuelos salen desde Bogota y Villavicencio, algunas veces desde otras ciudades Como Medellin si se completara el cupo mínimo de personas para operar el vuelo.
+Hasta el momento solo hay vuelos con la aerolinea Satena hasta la Ciudad de Inirida (logar donde estan los cerros de Mavicure). Las 2 ciudades donde salen vuelos directos(sin conexiones) son las siguientes:
+
+- __Vuelo desde Bogota:__ essta ruta la opera Satena, el vuelo tarda en promedio 1 hora y 30 minutos para llegar a Inirida, los horarios de salida son; 8 am y 2 pm, el valor  de cada trayecto puede costar entre $400.000 a $600.000 pesos, dependiendo de la temporada que lo compres.
+
+
+- __Vuelo desde Villavicencio__ Esta ruta  la opera Satena, el vuelo tarda en promedio 1 hora y 50 minutos para llegar a Inirida, ten encuenta que no sale todos los días. El preció por trayecto es en promedio de $350.00 pesos a $550.000 pesos  dependiendo de la temporada que lo compres, los horarios de salida son a las 7:00 am y 12:00 pm.
+
+
+__Nota:__ Queremos aclarar que algunas veces salen vuelos desde algunas otras ciudades pero muchas veces son vuelos con conexión a las 2 cidades que te mostramos, los precios que pusimos aquí son a la fecha del 2025.
+
 
 #### PARQUEADERO CERCANO DEL AEROPUERTO
 
