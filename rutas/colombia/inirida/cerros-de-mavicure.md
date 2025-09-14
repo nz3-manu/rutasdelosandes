@@ -138,7 +138,7 @@ __RECOMENDACIÓN:__ _Solo bañarse en los lugares autorizados, ya que el río pu
 
 ### -> MAPA DE LOS LUGARES VISITADOS INÍRIDA
 
-A continuación te mostraremos el mapa de los lugares que visitamos en nuestro recorrido por Inírida, puedes darle clic a cada uno de estos para ver más información. Debemos de aclarar que Caño Vitina lo visitamos por nuestra cuenta como también lo hicimos con la comunidad del Paujil.
+A continuación te mostraremos el mapa de los lugares que visitamos en nuestro recorrido por Inírida, puedes darle clic a cada uno de estos para ver más información. Debemos de aclarar que Caño Vitina lo visitamos por nuestra cuenta como también lo hicimos con la comunidad del Paujil (Estos dos lugares se pueden visitar el mismo día).
 
 {% include iframe.html,
 type:"custom",
@@ -148,9 +148,9 @@ caption:"Mapa: Ruta realizada en Inírida"
 
 ### -> CERROS DE MAVICURE
 
-Si quieres saber la historia de este cerro, más a detalle puedes ir a la sección Datos curiosos, aquí explicaremos un poco más y te hablaremos sobre la dificultad además de algunos técnicos sobre la ruta.
+Si quieres conocer la historia de este cerro con más detalle, visita la sección “Datos curiosos”. Aquí te contaremos la dificultad de la ruta y algunos datos técnicos.
 
-El ascenso es algo complicado, cuando estábamos allá algunas personas de edad se frustraron porque las agencias no les habían dicho que se subía por cuerdas, escalas hechas de madera pegada a la roca para después llegar hasta el final, para ver más detalles ver video.
+El ascenso puede resultar exigente si no tienes experiencia en senderismo. Cuando estuvimos allí, algunas personas mayores se frustraron porque las agencias no les informaron que hay tramos con cuerdas y escaleras de madera fijadas a la roca hasta casi el final. Para más detalles puedes ver nuestro video de la ruta.
 
 __DATOS TECNICOS ASCENSO A CERROS MAVICURE:__
 - __Distancia Total:__ 1,2 Kilómetros.
