@@ -243,7 +243,7 @@ __NOTA:__ _nosotros compramos algunos de estos productos como Ají picante en po
 
 ### -> CAÑO VITINA (LAS AGENCIAS NO VAN A ESTE LUGAR)
 
-A este lugar tendrás que ir por tu cuenta, ya que las agencias no van. Este lugar queda aproximadamente a 14 kilómetros del pueblo de Inírida en moto carro 🛵, El valor del moto carro por trayecto es en promedio es de $25.000 pesos, tiene cupo máximo de 3 personas. Antes de llegar a este lugar tienen un peaje con una cuerda en la carretera, y para pasar te cobrarán $2.000 pesos por personas, además no tienen avisos precios hasta la fecha que fuimos en septiembre 2025.
+A este lugar tendrás que ir por tu cuenta, ya que las agencias no van. Este lugar queda aproximadamente a 14 kilómetros del pueblo de Inírida en moto carro 🛵, El valor del moto carro por trayecto es en promedio es de $25.000 pesos, tiene cupo máximo de 3 personas. Antes de llegar a este lugar tienen un peaje artesanal con una cuerda en la carretera, y para pasar te cobrarán $2.000 pesos por personas, además no tienen avisos de precios hasta la fecha que fuimos en septiembre 2025.
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
@@ -253,9 +253,8 @@ height:"666"
 %}
 
 __RECOMENDACIÓN:__ 
-- Allí no van a encontrar señal telefónica, así que lleva efectivo, si van en semana no van a encontrar una tiendas, donde comprar gaseosas, papas fritas y cosas básicas, si vas un fin de semana quizás están vendiendo almuerzos.
-- Si eres extranjero, te aconsejamos ir con alguien de confianza para evitar que te cobren más dinero, a nosotros nos pasó que nos cobraron más en los precios de transporte.
-- Mientras disfrutas del baño en estas aguas, cuida tus cosas. A nosotros se nos fue la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta! 😅
+- _Allí no van a encontrar señal telefónica, así que lleva efectivo, si van en semana solo van a poder comprar; gaseosas, papas fritas y cosas básicas, si vas un fin de semana quizás estén vendiendo almuerzos._
+- _Mientras disfrutas del baño en estas aguas, cuida tus objetos personales. A nosotros se nos fue la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta!_ 😅
 
 <a name="tour-mavicure" id="tour-mavicure"></a>
 
@@ -316,13 +315,13 @@ Si quisieres ver más al detalle este tour o reservar __<a href="https:https://w
 <a name="hospedaje-mavicure" id="hospedaje-mavicure"></a>
 
 
-## HOSPEDAJE DISPONIBLE 🛏️
+## HOSPEDAJES DISPONIBLES 🛏️
 
 Aquí te contaremos lo que pudimos ver en nuestro viaje respecto a hospedaje, y te daremos algunas recomendaciones, para que no tengas inconvenientes a elegir uno.
 
 ### -> HOSPEDAJE EN EL PUEBLO DE INÍRIDA
 
-Puedes encontrar hospedaje desde $70.000 pesos en adelante, muchos de estos hospedajes se encuentran en Google Maps y en cuanto la alimentación puede costar desde $15.000 pesos.
+Puedes encontrar hospedajes desde $70.000 pesos en adelante. La mayoría aparecen en Google Maps, ya que en Booking o Airbnb no suelen figurar muchos. En cuanto a la alimentación, los precios pueden empezar desde $15.000 pesos.
 
 ### -> HOSPEDAJE CERCA DE LOS CERROS DE MAVECURE
 
