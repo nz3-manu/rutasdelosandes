@@ -16,7 +16,7 @@ Los Cerros de Mavicure son uno de los lugares más impresionantes de Colombia: e
 
 Si estás leyendo este post, seguramente es porque ya tienes en mente conocerlos y quizá te estés preguntando: __¿Conviene ir con agencia o por cuenta propia? ¿Es difícil subir a Mavicure? ¿Es seguro viajar a esta zona de Colombia?__ 🤔
 
-En este blog te vamos a aclarar todas estas dudas y, además, en cada sección encontrarás recomendaciones prácticas que te servirán para planear tu viaje. También queremos compartirte nuestra experiencia personal, para que no solo tengas la información útil, sino también una idea real de cómo se vive la aventura en los Cerros de Mavicure. 🌿⛰️
+En este blog te vamos a aclarar todas estas dudas y, además, en cada sección encontrarás recomendaciones prácticas que te servirán para planear tu viaje. También queremos compartirte nuestra experiencia personal, para que tengas una idea real de cómo se vive la aventura en los Cerros de Mavicure. 🌿⛰️
 
 __<a href="https://wa.link/3g0r7v" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
@@ -37,44 +37,26 @@ __[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guaini
 
 ## DATOS CURIOSOS 📚
 
-Aquí te mostraremos toda la información respecto a los cerros de Mavicure como también de su flora y fauna.
+Aquí, en esta sección, te compartiremos información recolectada por la comunidad y respaldada en textos científicos acerca de los Cerros de Mavicure. Para explicar mejor algunos aspectos, te daremos una pequeña clase sobre placas tectónicas, ya que no queremos que pienses que estas montañas son solo grandes rocas: en realidad, encierran una historia geológica muy antigua y fascinante.
 
-### -> HISTORIA DE LA DIOSA DE INÍRIDA
-
-Esta historia tiene varias versiones; aquí va la que nos compartió la guía de la comunidad El Venado: Cuentan que en la parte alta del río Inírida, vivía una niña muy hermosa. Un hombre de su comunidad estaba perdidamente enamorado de ella, pero sus sentimientos no eran correspondidos. Desesperado, decidió darle de beber una Pusana, una poción preparada con plantas de los Cerros de Mavicure que, según la tradición, hacía que quien la tomara se enamorara de la persona que la ofrecía.
-
-
-Sin embargo, la poción no surtió el efecto esperado: la niña no se enamoró de él, sino que empezó a sentir una atracción inexplicable hacia uno de los cerros. Desorientada por la bebida, pero guiada por aquel sentimiento, abandonó su comunidad y comenzó a caminar entre los valles. En su recorrido pasó por los siguientes cerros:
-
-
-- __Cerro Diablo:__ donde se decía que se escuchaban tambores y que los niños que cruzaban desaparecían.
-- __Cerro Mono:__ que en tiempos antiguos fue hogar de numerosos monos.
-- __Cerro Plata:__ donde dejó un dije de plata para que la recordaran.
-- __Cerro Pajarito:__ La leyenda cuenta que la montaña se abrió para recibir a la joven y darle refugio en su interior. 
-
-Hoy en día aún puede observarse en el cerro una abertura, considerada la entrada por donde la montaña se abrió.
-
-Por último el nombre Inírida significa “espejito de sol” en lengua indígena.
-
-
-### -> INFORMACIÓN DE LOS CERROS MAVICURE
+### -> CERROS DE MAVICURE
 
 Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás qué es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
+EL
+Te preguntarás, si toda la tierra tiene la misma edad _¿porque hay montañas más antiguas que otras?_ 
+Pensemos en una olla con agua caliente: la base se calienta y hace que el agua más caliente suba a la superficie, mientras que la más fría baja. Algo parecido ocurre en el interior de la Tierra, donde el calor interno hace que las rocas y otros materiales se muevan lentamente, como si estuvieran semi-derretidos: los más calientes ascienden y los más fríos descienden, generando un proceso llamado convección. En este video puedes ver cómo, al calentarse, el material interno genera corrientes que desplazan la superficie. Lo mismo ocurre con las placas tectónicas de la litosfera.
 
 
-_Te preguntarás, ¿si toda la tierra tiene la misma edad porque hay montañas más antiguas que otras?_ Todo es gracias a que en el centro de la tierra hay magma, y este está en constante movimiento. Imagínate una olla con agua hirviendo y cada vez que esta se calienta más, el agua del fondo asciende y la fría baja a este movimiento se le llama movimiento convectivo y es el que hace que se desplacen las placas tectónicas, que se encuentran por encima del magma.
-
-
-__¿Te preguntarás qué pasa si 2 placas tectónicas chocan entre sí?__ Esto fue lo que pasó con la cordillera de los Andes, donde chocaron  las 2 placas tectónicas: Nazca (oceánica), y la placa Sudamericana(continental).
-
+__¿Te preguntarás qué pasa si 2 placas tectónicas chocan entre sí?__  Eso ocurrió en la cordillera de los Andes, que empezó a formarse hace unos 200 millones de años, aunque su mayor crecimiento se dio en los últimos 65 millones de años. Nació del choque entre la placa de Nazca (oceánica), que se hunde bajo la placa Sudamericana (continental), y que todavía hoy sigue empujando la cordillera hacia arriba.
 
 Hace 335 millones de años existía un continente el cual se llamaba Pangea, este continente se fracturó por la fuerza que ejercían las placas tectónicas y se fue desplazando a los continentes que conocemos hoy. Como último dato, el Escudo Guayanés(que comprende parte de Colombia, Venezuela, Guyana y Brasil) por ser una estructura tan resistente, este no se partió, sino que se vino completo para el continente de las Américas.
 
+### -> PRINCESA INIRIDA
 
-### -> INFORMACIÓN DE FLORA Y FAUNA
+La leyenda cuenta que había una joven de gran belleza llamada Inírida, tan hermosa como difícil de conquistar. Un hombre, obsesionado con ella, pidió consejo a un sabedor (guía espiritual de la comunidad), quien le recomendó preparar una pusana (poción de amor elaborada con plantas).
 
-- Cuenta con 55 clases de peces de las 106 especies migratorias de Colombia.
-- Cuenta con una flor endémica  que se llama "Flor de Inírida" es conocida como la "Flor Eterna" porque, al secarse, mantiene su forma y puede durar cerca de 1 o 2 años.
+Sin embargo, al darle esta bebida, nada salió como esperaba: Inírida comenzó a sufrir intensos dolores y a sentir una atracción misteriosa que la llamaba desde la selva. Caminó hasta llegar al Cerro Pajarito, donde experimentó una paz indescriptible. Entonces, la montaña se abrió para recibirla y, desde ese día, dicen que Inírida habita en su interior como diosa protectora. Aún hoy puede verse en la roca la “ventana” por donde entró, desde donde vigila y cuida estas tierras.
+
 
 <a name="video-mavicure" id="video-mavicure"></a>
 
@@ -131,9 +113,11 @@ Aquí te mostraremos algunos hospedajes que nos recomendaron en nuestro paso por
 
 ## LUGARES PARA VISITAR EN INÍRIDA 🚣
 
-En Inírida hay muchos lugares hermosos para visitar; varios se encuentran en territorios de comunidades indígenas y se llega en lancha (ver mapa). Si te preguntas por la seguridad, la mayoría de estos sitios están protegidos por las propias comunidades, en nuestro viaje no vimos ningún grupo armado ni situaciones similares. En cada lugar que visitamos te daremos recomendaciones para que tu viaje sea aún mejor.
+En Inírida hay muchos lugares hermosos para visitar; varios de ellos se encuentran dentro de territorios indígenas. Cada comunidad es responsable del cuidado de los senderos y de la seguridad en estos espacios.
 
-__RECOMENDACIÓN:__ _Solo bañarse en los lugares autorizados, ya que el río puede verse tranquilo, pero este puede tener corrientes fuertes en algunas partes, y por favor si no sabes nadar informar al guía y no quitarte el chaleco, ya que en las zonas permitidas aunque no tenga corrientes fuertes tiene parte honda._
+Este territorio fue afectado por la violencia en el pasado y, al estar en zona de frontera, las comunidades suelen ser muy cuidadosas con las personas que llegan solas. Por eso, siempre se recomienda recorrer estos lugares acompañado por miembros de las comunidades locales.
+
+__RECOMENDACIÓN:__ _Si viajas en verano, te recomendamos llevar buzos de manga larga con protección solar y pantalones de secado rápido. Todos estos productos los puedes encontrar en nuestra página web._
 
 
 ### -> MAPA DE LOS LUGARES VISITADOS INÍRIDA
@@ -150,14 +134,17 @@ caption:"Mapa: Ruta realizada en Inírida"
 
 Si quieres conocer la historia de este cerro con más detalle, visita la sección “Datos curiosos”. Aquí te contaremos la dificultad de la ruta y algunos datos técnicos.
 
-El ascenso puede resultar exigente si no tienes experiencia en senderismo. Cuando estuvimos allí, algunas personas mayores se frustraron porque las agencias no les informaron que hay tramos con cuerdas y escaleras de madera fijadas a la roca hasta casi el final. Para más detalles puedes ver nuestro video de la ruta.
-
 __DATOS TECNICOS ASCENSO A CERROS MAVICURE:__
 - __Distancia Total:__ 1,2 Kilómetros.
 - __Duración Sendero:__ 4 horas (2 horas subiendo).
 - __Inclinación del sendero:__ 92 a 1.200 m.s.n.m.
 
-__RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen agarre, ya que como viste se debe subir por la roca y si ha llovido puede ser muy liso, también evita subir perritos de la comunidad, ya  que unos turistas lo hicieron y el perrito se cayó de la roca y murió 🐶🥺._
+El ascenso puede resultar exigente si no tienes experiencia en senderismo. Cuando estuvimos allí, algunas personas mayores se frustraron porque las agencias no les informaron que hay tramos con cuerdas y escaleras de madera fijadas a la roca hasta casi el final. Para más detalles puedes ver nuestro video de la ruta.
+
+Desde la cima del cerro de Mavicure se pueden apreciar varios cerros; unos de los más emblemáticos son:
+- __Cerro Mono:__ en la antigüedad  fue hogar de numerosos monos.
+- __Cerro Plata:__ Su nombre podría deberse a los destellos plateados que reflejan sus aguas y rocas al sol.
+- __Cerro Pajarito:__ Donde la princesa Inírida descansa
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/cerros-mavicure.jpg",
@@ -165,6 +152,8 @@ caption:"Foto:  Cerros Mavicure",
 width:"1200",
 height:"674"
 %}
+
+__RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen agarre, ya que como viste se debe subir por la roca y si ha llovido puede ser muy liso, también evita subir perritos de la comunidad, ya  que unos turistas lo hicieron y el perrito se cayó de la roca y murió 🐶🥺._
 
 ### -> CAÑO SAN JOAQUÍN
 
@@ -176,6 +165,8 @@ caption:"Foto:  Caño San Joaquín",
 width:"1200",
 height:"900"
 %}
+
+__NOTA:__ _En esta zona, en las tardes suele haber muchos zancudos, así que te recomendamos llevar repelente._
 
 ### -> DELFINES ROSADOS O TONINAS
 
