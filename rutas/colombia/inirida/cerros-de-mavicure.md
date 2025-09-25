@@ -77,29 +77,28 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
 
 <a name="llegar-mavicure" id="llegar-mavicure"></a>
 
-## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE 🛵 ✈️?
+## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE ✈️?
 
-La forma más fácil es ir en avión, la mayoría de vuelos salen con mayor frecuencia de Bogotá, así que te daremos algunas recomendaciones acerca de: parqueadero y hospedaje cerca del aeropuerto.
+Los Cerros de Mavicure se encuentran en el departamento de Guainía, cerca de la ciudad de Inírida, en la frontera con Venezuela. La forma más fácil de llegar es en avión. 
 
-### -> EN AVIÓN
+### -> VUELOS HACIA INÍRIDA
 
-Hasta el momento solo hay vuelos con la aerolínea Satena hasta la Ciudad de Inírida (lugar donde están los cerros de Mavicure). Las 2 ciudades donde salen vuelos directos(sin conexiones) son las siguientes:
+Hasta el momento solo hay vuelos con la aerolínea Satena. Las 2 ciudades donde salen vuelos directos(sin conexiones) son las siguientes:
 
-- __Vuelo desde Bogotá:__ esta ruta es operada por Satena, el vuelo tarda en promedio 1 hora y 30 minutos para llegar a Inírida, los horarios de salida son; 8 am y 2 pm, el valor  de cada trayecto puede costar entre $400.000 a $600.000 pesos, dependiendo de la temporada que lo compres.
+- __Desde Bogotá:__ El vuelo tarda en promedio 1 hora y 30 minutos para llegar a Inírida, los horarios de salida son; 8 am y 2 pm, el valor  de cada trayecto puede costar entre $400.000 a $600.000 pesos, dependiendo de la temporada que lo compres.
 
-- __Vuelo desde Villavicencio__ Esta ruta  es opera por Satena, el vuelo tarda en promedio 1 hora y 50 minutos para llegar a Inírida, ten en cuenta que no sale todos los días. Él preció por trayecto es en promedio de $350.00 pesos a $550.000 pesos  dependiendo de la temporada que lo compres, los horarios de salida son a las 7:00 am y 12:00 pm.
+- __Desde Villavicencio__ El vuelo tarda en promedio 1 hora y 50 minutos para llegar a Inírida, ten en cuenta que no sale todos los días. Él preció por trayecto es en promedio de $350.00 pesos a $550.000 pesos  dependiendo de la temporada que lo compres, los horarios de salida son a las 7:00 am y 12:00 pm.
 
 __NOTA:__ _Queremos aclararte que algunas veces salen vuelos desde otras ciudades, pero muchas veces son vuelos con conexión a las 2 ciudades que te mostramos, los precios que pusimos aquí son a la fecha del mes de julio del 2025._
 
 
 #### PARQUEADERO CERCANO DEL AEROPUERTO
 
+Nosotros íbamos en moto y la dejamos en un parqueadero llamado Parquea y Vuela, el cual encontramos por internet. Allí ofrecen el servicio de transporte gratis al aeropuerto, aunque lo malo es que en ocasiones puede tardar hasta 30 minutos. El valor del parqueadero en 2025 es de $8.000 pesos para moto por 24 horas.
 
-Nosotros íbamos en moto así que la dejamos en un parqueadero que se llama _Parquea y Vuela_ este lo encontramos por internet y además prestan el servicio de transporte gratis al aeropuerto, lo malo es que muchas veces puede demorar hasta 30 minutos. El valor del parqueadero, en el 2025, cuesta $8.000 pesos para moto las 24 horas.
+Al regresar del viaje, llamamos para que nos recogieran, tal como nos habían indicado. Sin embargo, nos dijeron que llegarían en 1 hora, y al cumplirse ese tiempo nos llamaron para avisarnos que el carro estaba varado. Finalmente, nos tocó tomar un Uber. 😅. 
 
-Cuando nosotros regresamos del viaje y llamamos para que nos recogieran cómo nos lo habían dicho, nos dijeron que en 1 hora llegaban por nosotros para recogernos, pero después de 1 hora nos llamaron del parqueadero con la noticia de que el carro estaba varado y nos tocó tomar un Uber 😅. 
-
-__RECOMENDACIÓN:__ Debes saber que las motos quedan al aire libre, y allí no guardan cascos. Queremos aclarar que no tenemos ningún convenio con este parqueadero. Sin embargo, nos parece útil dar esta información. Si encontraste un parqueadero que ofrezca mejores servicios, nos pueden escribir por nuestras diferentes redes sociales: rutasdelosandes. 
+__RECOMENDACIÓN:__ _Debes saber que las motos quedan al aire libre y allí no guardan cascos. Queremos aclarar que no tenemos ningún convenio con este parqueadero; sin embargo, nos parece útil compartir esta información. Si conoces un parqueadero que ofrezca mejores servicios, puedes escribirnos a través de nuestras redes sociales: @rutasdelosandes._
 
 
 ####  HOSPEDAJE CERCANO AL AEROPUERTO
@@ -115,9 +114,9 @@ Aquí te mostraremos algunos hospedajes que nos recomendaron en nuestro paso por
 
 En Inírida hay muchos lugares hermosos para visitar; varios de ellos se encuentran dentro de territorios indígenas. Cada comunidad es responsable del cuidado de los senderos y de la seguridad en estos espacios.
 
-Este territorio fue afectado por la violencia en el pasado y, al estar en zona de frontera, las comunidades suelen ser muy cuidadosas con las personas que llegan solas. Por eso, siempre se recomienda recorrer estos lugares acompañado por miembros de las comunidades locales.
+Este territorio fue afectado por la violencia en el pasado y, al estar en zona de frontera, las comunidades suelen ser muy cuidadosas con las personas extrañas que lleguen solas. Por eso, siempre se recomienda recorrer estos lugares acompañado por miembros de las comunidades locales.
 
-__RECOMENDACIÓN:__ _Si viajas en verano, te recomendamos llevar buzos de manga larga con protección solar y pantalones de secado rápido. Todos estos productos los puedes encontrar en nuestra página web._
+__RECOMENDACIÓN:__ _Si viajas en verano, te recomendamos llevar buzos de manga larga con protección solar y pantalones de secado rápido 👖. Todos estos productos los puedes encontrar en nuestra página web. No olvides llevar también tu repelente y protector solar 🧴🦟_
 
 
 ### -> MAPA DE LOS LUGARES VISITADOS INÍRIDA
@@ -132,19 +131,19 @@ caption:"Mapa: Ruta realizada en Inírida"
 
 ### -> CERROS DE MAVICURE
 
-Si quieres conocer la historia de este cerro con más detalle, visita la sección “Datos curiosos”. Aquí te contaremos la dificultad de la ruta y algunos datos técnicos.
+Para llegar a la entrada de los Cerros de Mavicure desde el pueblo de Inírida, el recorrido en lancha tarda en promedio 1 hora y 30 minutos, son aproximadamente 67 kilómetros. Si quieres conocer la historia de este cerro con más detalle, visita la sección “Datos curiosos”. Aquí te contaremos la dificultad de la ruta y algunos datos técnicos.
 
 __DATOS TECNICOS ASCENSO A CERROS MAVICURE:__
-- __Distancia Total:__ 1,2 Kilómetros.
+- __Distancia Total:__ 2,3 Kilómetros.
 - __Duración Sendero:__ 4 horas (2 horas subiendo).
-- __Inclinación del sendero:__ 92 a 1.200 m.s.n.m.
+- __Inclinación aproximada del sendero:__ 92 a 372 m.s.n.m.
 
-El ascenso puede resultar exigente si no tienes experiencia en senderismo. Cuando estuvimos allí, algunas personas mayores se frustraron porque las agencias no les informaron que hay tramos con cuerdas y escaleras de madera fijadas a la roca hasta casi el final. Para más detalles puedes ver nuestro video de la ruta.
+El ascenso puede resultar exigente si no tienes experiencia en senderismo. Cuando estuvimos allí, algunas personas mayores se frustraron al ver lo inclinado que era el camino, ya que muchas veces las agencias no informan que hay tramos con cuerdas y escaleras de madera fijadas a la roca. (Para más detalles, puedes ver nuestro video de la ruta).
 
-Desde la cima del cerro de Mavicure se pueden apreciar varios cerros; unos de los más emblemáticos son:
+Una vez en la cima del Cerro de Mavicure, se pueden apreciar varios cerros; algunos de los más emblemáticos son:
 - __Cerro Mono:__ en la antigüedad  fue hogar de numerosos monos.
 - __Cerro Plata:__ Su nombre podría deberse a los destellos plateados que reflejan sus aguas y rocas al sol.
-- __Cerro Pajarito:__ Donde la princesa Inírida descansa
+- __Cerro Pajarito:__ Donde la princesa Inírida descansa.
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/cerros-mavicure.jpg",
@@ -153,11 +152,11 @@ width:"1200",
 height:"674"
 %}
 
-__RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen agarre, ya que como viste se debe subir por la roca y si ha llovido puede ser muy liso, también evita subir perritos de la comunidad, ya  que unos turistas lo hicieron y el perrito se cayó de la roca y murió 🐶🥺._
+__RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen agarre, ya que como viste se debe subir por  rocas y si ha llovido puede ser muy liso, también evita subir perritos de la comunidad, ya  que unos turistas lo hicieron y el perrito se cayó de la roca y murió 🐶🥺._
 
 ### -> CAÑO SAN JOAQUÍN
 
-Este es un trayecto que queda cerca de los cerros de Mavicure, por lo general se hace el mismo día, este es un lugar donde podrán bañarse y pasar un tiempo agradable. Desde la entrada de los Cerros de Mavicure a este lugar en lancha son aproximadamente 15 minutos.
+Este lugar se encuentra a unos 15 minutos en lancha desde la entrada a los Cerros de Mavicure. Por lo general, se visita el mismo día del recorrido de los cerros de Mavicure. Este lugar es conocido por el color rojizo de sus aguas, que crean un paisaje hermoso. Durante el verano, el nivel del río baja y aparecen hermosas playas de arena clara, perfectas para descansar o darse un baño refrescante. En temporada de lluvias, en cambio, el caudal aumenta y las playas desaparecen, ofreciendo un panorama completamente distinto.
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/cano-san-juaquin.jpeg",
@@ -166,7 +165,7 @@ width:"1200",
 height:"900"
 %}
 
-__NOTA:__ _En esta zona, en las tardes suele haber muchos zancudos, así que te recomendamos llevar repelente._
+__RECOMENDACIÓN:__ _En esta zona, después de las 3:00 p.m., comienzan a aparecer muchos zancudos, por lo que te recomendamos llevar repelente. Además, debes tener cuidado al bañarte en estas aguas, ya que cuentan con zonas profundas._
 
 ### -> DELFINES ROSADOS O TONINAS
 
@@ -185,9 +184,9 @@ __<span class="advise"> Foto por:  <a href="https://www.wwf.org.co/"  target="_b
 
 ### -> ESTRELLA FLUVIAL
 
-Es el lugar donde se junta el río Guaviare, río Atabapo y río Inírida y con el río Orinoco, fue declarado Patrimonio natural en el 2014 por Humedal Ramsar, ya que es de suma importancia ecológica mundial.
+Es el punto donde confluyen los ríos Guaviare, Atabapo e Inírida con el imponente río Orinoco, en plena frontera natural entre Colombia y Venezuela. En 2014 fue declarado Humedal Ramsar, un reconocimiento internacional que resalta su enorme importancia ecológica a nivel mundial.
 
-Este lugar queda río arriba, dirección contraria de los cerros Mavicure. Del pueblo Inírida en lancha queda a 46 kilómetros.
+Este paraíso natural se encuentra río arriba, en dirección contraria a los Cerros de Mavicure, a aproximadamente 46 kilómetros en lancha desde el pueblo de Inírida.
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/estrella-fluvial.jpg",
@@ -198,11 +197,11 @@ height:"1346"
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/diegonzalez/"  target="_blank"> @diegonzalez </a> </span>__
 
-__RECOMENDACIÓN:__  en este lugar no se pueden bañar, ya que  hay fauna peligrosa como el cocodrilo del Orinoco.
+__RECOMENDACIÓN:__  _en este lugar no se pueden bañar, ya que  hay fauna peligrosa como el cocodrilo del Orinoco._
 
 ### -> FLOR DE INÍRIDA
 
-No te puedes ir de Inírida sin conocer esta flor, la cual la llaman la flor eterna, aseguran que puede durar aproximadamente 1 año sin marchitarse: muchas agencias llevan a ver estas flores en algunas reservas ecológicas donde te cuentan un poco de esta flor.
+No te puedes ir de Inírida sin conocer la famosa flor eterna. Dicen que puede durar aproximadamente un año sin marchitarse. Muchas agencias incluyen en sus recorridos la visita a reservas ecológicas donde podrás ver estas flores y aprender más sobre ellas.
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/flor-inirida.jpg",
@@ -213,11 +212,29 @@ height:"1600"
 
 __RECOMENDACIÓN:__  _Las flores se pueden comprar en Inírida y te las permiten llevar en el avión. Procura mantenerlas a la sombra y, si las pones en un florero, que sea sin agua, ya que así durarán mucho más._
 
-### -> MUESTRA DE ARTESANÍAS
+### -> CAÑO VITINA (LAS AGENCIAS NO VAN A ESTE LUGAR)
 
-Como sabes, cada atractivo turístico es administrado por la comunidad que habita en la zona. Por ejemplo, los Cerros de Mavicure están bajo la administración de la comunidad El Venado. Esta comunidad cobra un valor de ingreso que se destina tanto al mantenimiento de los senderos como al apoyo de sus habitantes.
+Como a este lugar las agencias no van, decidimos conocerlo por nuestra cuenta con alguien que habíamos conocido días antes. Nos cobró un valor por llevarnos hasta allá.
 
-Sin embargo, no todas las comunidades cuentan con atractivos turísticos de este tipo. _Por esta razón, se busca que los visitantes también conozcan sus artesanías y tradiciones, de manera que puedan generar ingresos y dinamizar su economía local._
+Como queríamos documentar la experiencia para nuestro blog, le preguntamos cuánto costaba la entrada. Muy seguro, nos dijo que eran $70.000 pesos por persona 😅. Más tarde, hablando con personas de la comunidad, descubrimos que en realidad costaba apenas $2.000 pesos.
+
+En cuanto al transporte, el trayecto en motocarro vale alrededor de $25.000 pesos (máximo 3 personas). Este lugar queda a unos 14 kilómetros del pueblo de Inírida.
+
+__ÚLTIMO DATO:__ _el motocarro te deja justo frente a estas hermosas aguas rojizas. Si haces tu viaje con una agencia, ellos pueden darte contactos de transporte confiables para llegar hasta allí._
+
+
+{% include image.html,
+file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
+caption:"Foto: Caño vitina",
+width:"1200",
+height:"666"
+%}
+
+__RECOMENDACIÓN:__ 
+- _Allí no hay señal telefónica de Movistar, Claro ni Tigo. Si viajas entre semana, únicamente encontrarás a la venta gaseosas, papas fritas y productos básicos. En cambio, si vas un fin de semana, es posible que ofrezcan almuerzos, pero ten en cuenta que solo reciben pagos en efectivo._
+- _Si eres extranjero, mejor visita estos lugares con alguien de la zona 😉. Así te evitas que te cobren de más por el transporte o el recorrido para entrar._
+- _Mientras disfrutas del baño en estas aguas, cuida tus objetos personales. A nosotros se nos cayó la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta!_ 😅
+
 
 ### COMUNIDAD EL PAUJIL (ALGUNAS AGENCIAS NO VAN A ESTE LUGAR)
 
@@ -231,21 +248,6 @@ height:"1600"
 %}
 
 __NOTA:__ _nosotros compramos algunos de estos productos como Ají picante en polvo, para traer como presentes, pero en el aeropuerto no nos lo dejaron pasar, en el equipaje de mano ni de bodega, para que los tengas en cuenta_
-
-### -> CAÑO VITINA (LAS AGENCIAS NO VAN A ESTE LUGAR)
-
-A este lugar tendrás que ir por tu cuenta, ya que las agencias no van. Este lugar queda aproximadamente a 14 kilómetros del pueblo de Inírida en moto carro 🛵, El valor del moto carro por trayecto es en promedio es de $25.000 pesos, tiene cupo máximo de 3 personas. Antes de llegar a este lugar tienen un peaje artesanal con una cuerda en la carretera, y para pasar te cobrarán $2.000 pesos por personas, además no tienen avisos de precios hasta la fecha que fuimos en septiembre 2025.
-
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
-caption:"Foto: Caño vitina",
-width:"1200",
-height:"666"
-%}
-
-__RECOMENDACIÓN:__ 
-- _Allí no van a encontrar señal telefónica, así que lleva efectivo, si van en semana solo van a poder comprar; gaseosas, papas fritas y cosas básicas, si vas un fin de semana quizás estén vendiendo almuerzos._
-- _Mientras disfrutas del baño en estas aguas, cuida tus objetos personales. A nosotros se nos fue la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta!_ 😅
 
 <a name="tour-mavicure" id="tour-mavicure"></a>
 
