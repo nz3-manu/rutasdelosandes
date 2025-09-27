@@ -214,14 +214,18 @@ __RECOMENDACIÓN:__  _Las flores se pueden comprar en Inírida y te las permiten
 
 ### -> CAÑO VITINA (LAS AGENCIAS NO VAN A ESTE LUGAR)
 
-Como a este lugar las agencias no van, decidimos conocerlo por nuestra cuenta con alguien que habíamos conocido días antes. Nos cobró un valor por llevarnos hasta allá.
+Este lugar se encuentra a 14 kilómetros del pueblo de Inírida y es famoso por sus aguas rojizas. Como muchas agencias no lo incluyen en sus recorridos, decidimos visitarlo por nuestra cuenta. Sin embargo, cometimos algunos errores que queremos contarte para que no te pase lo mismo:
 
-Como queríamos documentar la experiencia para nuestro blog, le preguntamos cuánto costaba la entrada. Muy seguro, nos dijo que eran $70.000 pesos por persona 😅. Más tarde, hablando con personas de la comunidad, descubrimos que en realidad costaba apenas $2.000 pesos.
+- __Error 1: No consultar previamente el precio de ingreso:__
+Al llegar, encontramos un “peaje humano” con una cuerda atravesada en el camino, donde se debía pagar para ingresar. No había tabla de precios y la persona que nos acompañaba nos dijo que costaba $35.000 por persona. Más tarde, mientras nos bañábamos, conocimos a unos turistas que nos contaron que el valor real era de solo $2.000 por persona (septiembre 2025).
 
-En cuanto al transporte, el trayecto en motocarro vale alrededor de $25.000 pesos (máximo 3 personas). Este lugar queda a unos 14 kilómetros del pueblo de Inírida.
+- __Error 2: No dejar claro el valor del transporte:__
+Nos habían dicho que el trayecto costaba $20.000, pero al recogernos, el conductor del motocarro quiso cobrarnos $40.000, argumentando que, como subió solo, equivalía a dos viajes.
 
-__ÚLTIMO DATO:__ _el motocarro te deja justo frente a estas hermosas aguas rojizas. Si haces tu viaje con una agencia, ellos pueden darte contactos de transporte confiables para llegar hasta allí._
+- __Error 3: Ir con guías no recomendados por agencias:__
+Hacer el recorrido con alguien que no tenga empresa o que no venga recomendado por agencias puede generar cambios inesperados en los precios y menos seguridad durante el tour.
 
+__ÚLTIMO DATO:__ _El motocarro te deja justo al frente del lugar donde puedes bañarte 🏊. Si piensas darte un chapuzón desde el puente, ten en cuenta que el agua no es muy profunda._
 
 {% include image.html,
 file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
@@ -328,11 +332,10 @@ Hay 2 hospedajes cerca de los cerros de Mavicure, y cada uno de estos son admini
 
 __RECOMENDACIÓN:__ _Estos hospedajes quedan retirados del pueblo de Inírida, aproximadamente a una hora y media; en temporada alta, es mejor hacer la reserva con antelación._
 
+
 ## RECOMENDACIONES FINALES PARA VISITAR LOS CERROS DE MAVICURE 🏅
 
-
 Aquí te diremos todas las recomendaciones que te dimos en este post,  recomendaciones como: parqueaderos, qué tour tomar, hospedaje, lugares adicionales para visitar.
-
 
 - __Parqueadero en Bogotá:__ Nosotros dejamos nuestra moto en un parqueadero llamado _Parquea y Vuela_ (puedes buscarlos en Google), deben saber las motos quedan al aire libre, tienen una van que lleva gratis al aeropuerto, pero para que los recojan después pueden presentar retrasos.
 - __Como Elegir un Tours:__ Te recomendamos ir con agencias que sean seguras y te den garantía por cualquier inconveniente que se pueda presentar, en nuestra página recomendamos algunos tours.
