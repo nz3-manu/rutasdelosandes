@@ -239,7 +239,6 @@ __RECOMENDACIÓN:__
 - _Si eres extranjero, mejor visita estos lugares con alguien de la zona 😉. Así te evitas que te cobren de más por el transporte o el recorrido para entrar._
 - _Mientras disfrutas del baño en estas aguas, cuida tus objetos personales. A nosotros se nos cayó la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta!_ 😅
 
-
 ### COMUNIDAD EL PAUJIL (ALGUNAS AGENCIAS NO VAN A ESTE LUGAR)
 
 Este es un lugar tipo plaza de mercado, donde las personas llevan sus productos para la venta. Los fines de semana la actividad es mucho mayor, ya que hay más vendedores ofreciendo sus productos. Para llegar allí, nos cobraron $6.000 pesos en motocarro; la carretera se encuentra en buen estado. Nos recomendaron tomar una bebida típica de la que se llama Manaca, es un jugo preparado a base de açai.
@@ -320,17 +319,23 @@ Aquí te contaremos lo que pudimos ver en nuestro viaje respecto a hospedaje, y 
 
 Puedes encontrar hospedajes desde $70.000 pesos en adelante. La mayoría aparecen en Google Maps, ya que en Booking o Airbnb no suelen figurar muchos. En cuanto a la alimentación, los precios pueden empezar desde $15.000 pesos.
 
-### -> HOSPEDAJE CERCA DE LOS CERROS DE MAVECURE
+### -> HOSPEDAJE CERCA DE LOS CERROS DE MAVICURE
 
-Hay 2 hospedajes cerca de los cerros de Mavicure, y cada uno de estos son administrados por sus comunidades; Comunidad Venado y comunidad el Remanso, las agencias hacen la reserva con tiempo y llevan comida para que ellos puedan preparles a los visitantes, ya que allí no cuentan con comida disponible para la venta.
+Hay dos hospedajes cerca de los Cerros de Mavicure, ambos administrados por sus comunidades:
 
-- __¿Cómo son estas instalaciones?__ _las habitaciones no tienen muchos lujos, y muchas son compartidas, no tienen puertas y los baños quedan aproximadamente a 20 metros del hospedaje, puedes ver video(estamos hablando del hospedaje de la comunidad el venado)_
+- __Comunidad Venado:__ este hospedaje está ubicado al costado de los Cerros de Mavicure.
 
-- __¿Hay eslectricidad?__ _Cuentan con plantas eléctricas que funcionan a determinadas horas del día, a las 9 pm la están apagando._
+- __Comunidad El Remanso:__ este hospedaje se encuentra frente a los cerros de Mavicure, cruzando el río Inírida, a un costado del Cerro Pajarito.
 
-- __¿Hay señal telefónica?:__ _si tienes señal de Claro o Tigo podrás tener internet, además allí solo hay planta de energía y la prenden muchas veces después de las 6 pm hasta las 10 pm_
+Aquí te mostraremos la instalación del Hospedaje El Venado, aunque creemos que las condiciones en el Hospedaje El Remanso son similares.
 
-__RECOMENDACIÓN:__ _Estos hospedajes quedan retirados del pueblo de Inírida, aproximadamente a una hora y media; en temporada alta, es mejor hacer la reserva con antelación._
+- __¿Cómo son las instalaciones?__ _Las habitaciones son sencillas, la mayoría compartidas. No cuentan con puertas y los baños están a unos 20 metros del hospedaje. (El video corresponde al hospedaje de la Comunidad Venado)._
+
+- __¿Hay electricidad?__ _Sí, pero solo con plantas eléctricas que funcionan en determinados horarios. Por lo general, a las 9:00 p.m. las apagan._
+
+- __¿Hay señal telefónica?:__ _Si tienes línea de Claro o Tigo, podrás tener señal._
+
+__RECOMENDACIÓN:__ _Estos hospedajes están ubicados a una hora y media del pueblo de Inírida. En temporada alta es mejor hacer la reserva con anticipación. Ellos no cuentan con comida lista para la venta; por lo general, las agencias llevan los alimentos y las comunidades se encargan de prepararlos._
 
 
 ## RECOMENDACIONES FINALES PARA VISITAR LOS CERROS DE MAVICURE 🏅

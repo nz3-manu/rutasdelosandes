@@ -14,6 +14,8 @@ author: manuel
 
 Si estás leyendo esta publicación, tal vez estés buscando información para visitar esta cascada. Es por eso que te vamos a mostrar algunos videos de este lugar, mapa, GPS, recomendación de alojamiento, precios de transporte, si eres de las personas que quieren tener tu viaje planeado con antelación, te dejaremos información de paquetes turísticos que encontrarás en Mocoa.
 
+__<a href="https://www.randes.co/products/cascada-el-fin-del-mundo" style="color:maroon;" target="_blank"> Si quieres ir de forma segura 💦 con una agencia de viajes local, clic aquí 👈</a>__
+
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 - <a href="#que-encontrarás"> Video de la ruta a la cascada el fin del mundo.</a>
@@ -93,7 +95,8 @@ Desde la ciudad de Mocoa, se debe abordar un bus con destino a Villagarzón y __
 
 Si vas en moto o carro vas a poder encontrar un parqueadero cerca de la entrada, allí también hay una tienda y restaurante.
 
-Al llegar a la entrada del sendero vas a tener que pagar $30.000 Pesos por persona (precio 2024), y te pondrán una manilla con la que podrás ingresar; acá te dejamos el contacto para que puedan hacer la reserva si así lo desean o consultar si está abierto, ya que algunas veces cierran el ingreso al sendero para hacer mantenimiento __teléfono:__ <a href="tel:3113403572"> 3113403572</a>.
+Al llegar a la entrada del sendero deberás pagar $35.000 pesos por persona (precio 2025). Allí te entregarán una manilla que te permitirá ingresar. Te recomendamos consultar previamente si el sendero está abierto, ya que en ocasiones cierran el acceso para realizar mantenimiento.
+
 
 __Importante:__ _Al ingresar al sendero vas a encontrar que en algunos puntos un guía te dará información, _pero de resto vas a estar solo en todo el camino_, así que debes tener cuidado a las recomendaciones que damos en est post._
 
@@ -101,10 +104,10 @@ __Importante:__ _Al ingresar al sendero vas a encontrar que en algunos puntos un
 
 Aquí podrás ver la información del punto de encuentro para ingresar al sendero, puntos de interés como cascadas.
 
-__Datos tecnicos de esta ruta:__
-- __Distancia:__ 4,21 km.
-- __Altitud Minima:__ 511 m.s.n.m.
-- __Altitud Maxima:__ 870 m.s.n.m.
+__DATOS TECNICOS ASCENSO A LA CASCADA FIN DEL MUNDO:__
+- __Distancia Total:__ 8,7 km.
+- __Duración del Sendero:__ 6 horas (3 horas subiendo).
+- __Inclinación aproximada del sendero:__ 511 - 870  m.s.n.m.
 
 {% include iframe.html,
 type:"custom",
@@ -173,6 +176,16 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CbbR39wM
 ## TOURS DISPONIBLES EN MOCOA 🧳
 
 Si eres de las personas que quiere tener todo organizado al momento de llegar a tu destino, aquí te mostraremos los tours que pudimos encontrar al visitar este lugar.
+
+### -> TOUR 1 DIA (PASADIA)
+Si cuentas con poco tiempo y quisieras solo visitar la cascada el Fin del mundo de una forma segura con guía este sería tu plan perfecto.
+
+__TOUR INCLUYE:__
+- 🚶 Ingreso al sendero.
+- 🏥 Seguro de asistencia médica.
+- 🗺️ Guianza.
+
+Si quisieres ver más al detalle este tour o reservar  <a style="color:#971717;" href="https://www.randes.co/products/cascada-el-fin-del-mundo"  target="_blank"> Ver tour aquí </a> 👈
 
 ### -> TOUR 4 DÍAS 3 NOCHES
 
