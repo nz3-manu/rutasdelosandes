@@ -65,7 +65,7 @@ Sin embargo, al darle esta bebida, nada salió como esperaba: Inírida comenzó 
 En este video te mostraremos cómo fue nuestro viaje por Inírida, podrás ver las recomendaciones en cada sección del video.
 
 {% include youtube.html
-videoid:"1fVmDloiFE",
+videoid:"H3WtqNRPw6E",
 width:"480",
 height:"270",
 caption:"Vide: Ruta a los cerros de Mavicure"
@@ -327,7 +327,7 @@ Hay dos hospedajes cerca de los Cerros de Mavicure, ambos administrados por sus 
 
 - __Comunidad El Remanso:__ este hospedaje se encuentra frente a los cerros de Mavicure, cruzando el río Inírida, a un costado del Cerro Pajarito.
 
-Aquí te mostraremos la instalación del Hospedaje El Venado, aunque creemos que las condiciones en el Hospedaje El Remanso son similares.
+Aquí te mostramos las instalaciones del Hospedaje El Venado, aunque creemos que las condiciones en el Hospedaje El Remanso son muy similares.
 
 - __¿Cómo son las instalaciones?__ _Las habitaciones son sencillas, la mayoría compartidas. No cuentan con puertas y los baños están a unos 20 metros del hospedaje. (El video corresponde al hospedaje de la Comunidad Venado)._
 
