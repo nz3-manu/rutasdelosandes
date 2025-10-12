@@ -25,13 +25,13 @@ __EN ESTE POST ENCONTRARÁS LAS SIGUIENTES SECCIONES:__
 * <a href="#dato-curioso-mavicure"> Datos curiosos</a>
 * <a href="#video-mavicure"> Video de la ruta a Mavicure</a>
 * <a href="#llegar-mavicure"> ¿Cómo llegar a los Cerros de Mavicure?</a>
-* <a href="#sendero-mavicure">  Lugares para visitar en Inírida</a>
+* <a href="#sendero-mavicure"> Lugares para visitar en Inírida</a>
 * <a href="#tour-mavicure"> Tours disponibles</a>
 * <a href="#hospedaje-mavicure"> Hospedajes disponibles</a>
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guainia/nevado-del-ruiz.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/guainia/cerros-de-mavicure.html">See this post in English version 🇺🇸</a>]__
 
 <a name="dato-curioso-mavicure" id="dato-curioso-mavicure"></a>
 
@@ -98,7 +98,7 @@ Nosotros íbamos en moto y la dejamos en un parqueadero llamado Parquea y Vuela,
 
 Al regresar del viaje, llamamos para que nos recogieran, tal como nos habían indicado. Sin embargo, nos dijeron que llegarían en 1 hora, y al cumplirse ese tiempo nos llamaron para avisarnos que el carro estaba varado. Finalmente, nos tocó tomar un Uber. 😅. 
 
-__RECOMENDACIÓN:__ _Debes saber que las motos quedan al aire libre y allí no guardan cascos. Queremos aclarar que no tenemos ningún convenio con este parqueadero; sin embargo, nos parece útil compartir esta información. Si conoces un parqueadero que ofrezca mejores servicios, puedes escribirnos a través de nuestras redes sociales: @rutasdelosandes._
+__RECOMENDACIÓN:__ _Debes saber que las motos quedan al aire libre y allí no guardan cascos. Queremos aclarar que no tenemos ningún convenio con este parqueadero; sin embargo, nos parece útil compartir esta información. Si conoces un parqueadero que ofrezca mejores servicios, puedes escribirnos a través de nuestras redes sociales: <a href="https://www.instagram.com/rutasdelosandes/"  target="_blank"> @rutasdelosandes. </a>_
 
 
 ####  HOSPEDAJE CERCANO AL AEROPUERTO
