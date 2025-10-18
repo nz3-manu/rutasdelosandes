@@ -39,7 +39,14 @@ Lleva el nombre de La Cascada del Fin del Mundo, debido a que don Jesús Huaca a
 
 ## VIDEO DE LA RUTA REALIZADA A LA CASCADA EL FIN DEL MUNDO 🎥
 
---- Próximamente ---
+En este video te mostraremos cómo fue nuestro viaje a Mocoa, podrás ver las recomendaciones en cada sección del video.
+
+{% include youtube.html
+videoid:"1ZSsUFkXxHQ",
+width:"480",
+height:"270",
+caption:"Vide: Ruta a los cerros de Mavicure"
+%}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí.</a>
 
