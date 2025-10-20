@@ -14,6 +14,9 @@ author: manuel
 
 En este post te mostraremos cómo llegar a Capurganá, un atractivo destino turístico para propios y extraños,el cual se caracteriza por su biodiversidad y bellas playas. Además, también te compartiremos las horas de salida de los botes, así como los alojamientos en Capurganá.
 
+__<a href="https://www.randes.co/collections/capurgana" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
+
+
 Finalmente, te daremos algunas recomendaciones que debes de tener en cuenta a la hora de hospedarte, ya que todo depende de donde vayas a alojarte en Sapzurro o Capurgana.
 
 
@@ -140,8 +143,8 @@ La caminata transcurre por playas rocosas y bosques, llevando hasta una bahía c
 Para aprovechar mejor la experiencia, se sugiere comenzar la caminata temprano. El regreso puede hacerse a pie o en lancha, según prefieras.
 
 __DATOS TECNICOS:__
-- __Distancia total:__ 5,4 kilometros.
-- __Tiempo total:__ 3 horas.
+- __Distancia total:__ 9,4 kilometros(cada trayecto:4,7 km).
+- __Tiempo total:__ 2 horas.
 - __Color de la linea en el mapa:__ Verde.
 
 {% include image.html,
@@ -160,8 +163,8 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/melocapurg
 Se trata de una piscina natural de agua salada, creada por formaciones rocosas, cuyo nivel de agua se renueva con las mareas. Es un pozo profundo que cuenta con cuerdas de seguridad para mayor protección. Es fundamental elegir un buen calzado, ya que las rocas suelen ser resbalosas y podrían provocar caídas.
 
 __DATOS TECNICOS:__
-- __Distancia total:__ 2 kilometros.
-- __Tiempo total:__ 2 horas.
+- __Distancia total:__ 2 kilometros (cada trayecto: 1 km).
+- __Tiempo trayecto:__ 1 horas.
 - __Color de la linea en el mapa:__ Morado.
 
 {% include image.html,
@@ -179,8 +182,8 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/valentinap
 Es un sendero ubicado en pleno centro de la selva con una piscina de agua cristalina. Además, es un lugar espectacular donde simplemente puedes disfrutar de la majestuosidad de la naturaleza, y apreciar la naturaleza de esta zona, como los monos. En este sendero te recomendamos tener cuidado, ya que van a tener que cruzar varias partes del río, se recomienda tener los tenis adecuados he ir con un guía local.
 
 __DATOS TECNICOS:__
-- __Distancia total:__ 4,7 kilometros.
-- __Tiempo total:__ 4 horas.
+- __Distancia total:__ 9,4 kilometros (cada trayecto:4,7 Km)
+- __Tiempo trayecto:__ 2 horas.
 - __Color de la linea en el mapa:__ Vinotinto.
 
 
@@ -206,8 +209,8 @@ Entre los diferentes senderos en Sapzurro, está el recorrido hacia Cabo Tiburó
 
 __DATOS TECNICOS:__
 
-- __Distancia total:__  4,4 kilometros.
-- __Tiempo total:__ 1 horas.
+- __Distancia total:__  4,4 kilometros (cada trayecto:2,2 Km).
+- __Tiempo trayecto:__ 1 horas.
 - __Color de la linea en el mapa:__ Azul.
 
 
@@ -225,8 +228,8 @@ La otra ruta que pueden hacer, y por cierto, es la razón de que muchas personas
 
 __DATOS TECNICOS:__
 
-- __Distancia total:__ 3 kilometros.
-- __Tiempo total:__ 2 horas.
+- __Distancia total:__ 3 kilometros (cada trayecto:1,5 Km).
+- __Tiempo total:__ 1 horas.
 - __Color de la linea en el mapa:__ Naranja.
 
 {% include image.html,
@@ -235,7 +238,6 @@ caption:"Playa la Miel",
 width:"1000",
 height:"875"
 %}
-
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27/"  target="_blank"> @alejora.27 </a> </span>__
 
@@ -248,32 +250,28 @@ Al llegar a la montaña, encontrarás una base militar de Panamá y Colombia. Al
 
 ##  TOUR DISPONIBLE 🧳
 
-Aquí te mostraremos los distintos tours que puedes tomar para ir a capurgana tanto si quisieras un plan todo incluido desde Medellin o un pasadía desde Necoclí.
+Aquí te mostraremos algunos de los tours que puedes tomar para visitar Capurganá.
+Debes saber que estos tours no incluyen el transporte desde Necoclí hasta Capurganá.
+Lo ideal para visitar este lugar es quedarte mínimo 2 noches, así podrás disfrutarlo un poco más.
 
 
-### -> TOUR COMPLETO DESDE MEDELLÍN
+### -> TOUR 3 DIAS 2 NOCHES
 
-Este tour es ideal si quieres un viaje con mas comodidad, donde no tengas que conducir por muchas horas y despes tomar una lancha para llegar hasta allí. 
+Podrás visitar playas hermosas como Playa La Miel en Panamá y Sapzurro, además de recorrer el pueblo de Capurganá y disfrutar de algunas playas cercanas.
 
-__INCLUYE:__
+__Estos tours incluyen:__ 2 días de hospedaje, alimentación durante los días del tour, seguro de asistencia médica y guía local.
 
-- Traslado Medellín en avión 
-- 3 dias de alojamiento en Hotel 
-- Alimentación: Desayuno, almuerzo y cena por noche de alojamiento
-- Bar abierto; Todo servido por tragos de 2pm a 9pm; licores importados y cocteles de la casa 
-- Utilización de piscina, jacuzzi y discoteca
-- Uso de TV y WiFi en zonas comunes
-- Seguro hotelero
-- Tarjeta de asistencia médica
-- Lugares a visitar: Excursión marítima a Sapzurro y La Miel con almuerzo
 
-__Valor del tour por persona:__ $2.220.000 Pesos o $2.475.000 Pesos en temporada alta.
+👉 **<a href="https://www.randes.co/products/capurgana-pasadia-desde-necocli" style="color:#971717;" target="_blank">clic aquí para ver más información del tour </a>**
 
-### -> GUÍA LOCAL EN CAPURGANA
 
-Es importante que realices estos senderos en compañía de un local, ya que, como mencionamos anteriormente, a la fecha en que escribimos este post, estos caminos son transitados por migrantes. Por ello, si vas solo, te recomendamos hacerlo con un guía local. El costo del guía depende de los senderos que desees recorrer y del número de personas con el que vayas.
+### -> TOUR 4 DIAS 3 NOCHES
 
-👉 **<a href="https://wa.link/oiojve" style="color:#971717;" target="_blank">clic aquí para consultar guía local  </a>**
+Este tour de 4 días es ideal si cuentas con más tiempo. Podrás disfrutar de increíbles lugares como Playa La Miel en Panamá, Zapsurro y la reserva El Mirador El Cielo, además de descubrir la belleza y tranquilidad del pueblo de Capurganá, un verdadero paraíso caribeño rodeado de naturaleza.
+
+__Estos tours incluyen:__ 3 días de hospedaje, alimentación durante el tour, seguro de asistencia médica y guía local.
+
+👉 **<a href="https://www.randes.co/products/capurgana-4-dias-3-noches" style="color:#971717;" target="_blank">clic aquí para ver más información del tour </a>**
 
 ### -> PASADÍA DESDE NECOCLÍ
 

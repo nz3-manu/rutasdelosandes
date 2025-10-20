@@ -295,7 +295,7 @@ A continuación te compartiremos algunas recomendaciones que debes de tener en c
 ### -> TIPO DE ROPA ADECUADA
 
 
-En Capurgana la temperatura promedio ronda los 20 a 29 grados centígrados, además de esto es una zona húmeda, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
+En Norcasia la temperatura promedio ronda los 20 a 29 grados centígrados, además de esto es una zona húmeda, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
 
 - 👟 Usa calzado con buen agarre, no suelas lisas (van a tener que cruzar rocas lisas).
 - 🏃‍♂️ Se recomienda prendas tipo licra para que se te haga mucho más fácil caminar por el sendero.
