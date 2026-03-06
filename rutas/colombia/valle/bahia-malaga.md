@@ -28,7 +28,7 @@ __Bahía Málaga__ es sin duda alguna, un lugar mágico conocido por su abundant
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/valle/bahia-malaga.html"> See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/valle/bahia-malaga.html"> See this post in English version 🇺🇸</a>]**
 
 ## DATOS CURIOSOS DE BAHÍA MÁLAGA
 

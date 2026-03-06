@@ -26,7 +26,7 @@ Adicional a eso, te dejaremos el link para ver más información de cada ruta y 
 
 No siendo más, empecemos ⛰️.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/tipsmonta%C3%B1a/5-hiking-trails-coffee-axis.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/lake-otun">See this post in English version 🇺🇸</a>]**
 
 ## VIDEO DE LOS LUGARES QUE VERASVERÁS EN EL EJE CAFETERO
 

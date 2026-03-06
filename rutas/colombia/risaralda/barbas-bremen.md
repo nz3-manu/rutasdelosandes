@@ -46,7 +46,7 @@ Aquí te dejaremos toda la información acerca de los hospedajes en Filandia, su
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="dato-barbas-bremen" id="dato-barbas-bremen"></a>

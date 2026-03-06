@@ -32,7 +32,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/caldas/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
 
 <a name="dato-ruiz" id="dato-ruiz"></a>
 

@@ -29,7 +29,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 Una vez dicho esto, ¡empecemos con la aventura ⛰!
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/los-Frailes-waterfall.html"> See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/los-frailes-waterfall"> See this post in English version 🇺🇸</a>]**
 
 
 ## DATOS CURIOSOS DE LA CASCADA LOS FRAILES

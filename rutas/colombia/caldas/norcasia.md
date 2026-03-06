@@ -35,7 +35,7 @@ Norcasia es considerado como el municipio más joven del departamento de Caldas,
  
 Norcasia además está ubicada al oriente caldense, a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
  
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/norcasia-caldas.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/caldas/norcasia-caldas.html">See this post in English version 🇺🇸</a>]**
  
 ## VIDEO DE LUGARES A VISITAR EN NORCASIA
  

@@ -27,7 +27,7 @@ __EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/pereira-station.html"> See this post in english version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/pereira-station.html"> See this post in english version 🇺🇸</a>]__
 
 <a name="video-estacion-pereira" id="video-estacion-pereira"></a> 
 

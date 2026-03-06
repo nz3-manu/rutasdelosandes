@@ -29,7 +29,8 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 Empecemos con la aventura ⛰.
 
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/lake-otun.html"> See this post in english version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/lake-otun"> See this post in english version 🇺🇸</a>]__
+
 <a name="dato-laguna" id="dato-laguna"></a>
 
 ## DATO CURIOSO DE LA LAGUNA DEL OTÚN 🧑‍🏫

@@ -34,7 +34,7 @@ En este post te contaremos como fue nuestra experiencia al hacer cumbre al nevad
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/santa-isabel-summit.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/santa-isabel-summit.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="dato-santa" id="dato-santa"></a>
