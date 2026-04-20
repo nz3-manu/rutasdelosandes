@@ -250,101 +250,105 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
+Aqui te mostraremos algunas opciones de hospedaje, hemos categorizado los hospedajes por capacidad de persona que caben en este
 
+#### HABITACIONES PARA PAREJA O FAMILIA EN EL CENTRO PRADO 
 
-Te mostraremos las diferentes opciones de hospedaje que encontramos en Prado, clasificadas en: económicos, de precio medio y de lujo. Hemos incluido los enlaces de reserva a través de Booking, una plataforma muy segura en la que nunca hemos tenido problemas para realizar reservas o cancelaciones
+Está una habitación, se encuentra en una casa, la cual tienen una heladería y venta de comida rapida, los dueños viven en esta también y tienen habitaciones para rentar.
 
+__EL PRECIO:__ en promedio de $60.000 pesos por persona,el valor depende del numero de personas.
 
-__NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
+__LA HABITACIÓN INCLUYE:__
+- 🛏️ 2 camas dobles de 1,40 metros
+- 🛁 Baño privado
+- 💨 Aire acondicionado 
+- 📶 WiFi incluido
+- 🅿️ Parqueadero para moto (las guardan cuando cierren la heladeria, en el día queda afuera)
 
+__NO INCLUYE:__ Alimentación, si tienes carro tendrías que dajerlo afuera.
 
-#### CASA DE LAS GUACAMAYAS (ECONOMICO)
-
-Este lugar es ideal si vas en familia, ya que se permite el ingreso de mascotas. Además, cuenta con actividades que se pueden realizar cerca de de este hopedaje, este hospedaje cuenta con 2 habitaciones.
-
-
-* __Precio promedio:__ El valor de hospedaje para 8 personas es de $489.000 pesos a $960.000 pesos.
-* __Lugares cercanos:__ El aeropuerto (Aeropuerto de Ibagué) está a 89 km.
-* __Servicios:__ Ofrece jardín, salón de uso común y terraza. acceso a un restaurante y piscina, cuenta con 2 dormitorios, TV de pantalla plana vía satélite, zona de comedor, cocina con horno y sala de estar. Hay toallas y ropa de cama.
-
-
-<a href="https://www.booking.com/hotel/co/casa-de-las-guacamayas.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-
+<a 
+href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hopedaje-para-2-personas" target="_blank">
 
 {% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/casa-de-las-guacamayas.jpg",
-caption:"Foto: Casa de las Guacamayas",
-width:"1000",
-height:"575"
+file:"rutas/tolima/represa-prado/hospedaje/habitaciones-privada.png",
+caption:"Foto: habitaciones en prado",
+width:"1200",
+height:"675"
+%}
+</a>
+
+👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hopedaje-para-2-personas" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
+
+
+
+#### APARTAMENTO EN LA REPRESA DE PRADO (MAXIMO 6 PERSONAS)
+
+
+Este hospedaje se encuentra en todo el muelle turístico, no tendrás que pagar lancha, allí hay cerca, restaurantes y supermercados, y disfrutar de una vista hermosa de esta represa.
+
+
+__EL PRECIO:__ en promedio de $80.000 pesos por persona, el valor depende del numero de personas.
+
+__LA HABITACIÓN INCLUYE:__
+- 🛏️ 2 camas dobles de 1,40 m
+- 🍳 Cocina equipada (nevera + utensilios)
+- 🛏️ Colchón auxiliar disponible
+- 📶 WiFi incluido
+__NO INCLUYE:__ alimentación y tarifa de parqueadero (tendrás que dejarlo en el parqueadero del muelle).
+
+
+
+<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" target="_blank">
+{% include image.html,
+file:"rutas/tolima/represa-prado/hospedaje/apartamento-muelle.png",
+caption:"Foto: Hospedaje Prado",
+width:"1200",
+height:"675"
 %}
 </a>
 
 
-👉 **<a href="https://www.booking.com/hotel/co/casa-de-las-guacamayas.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
-
-
-#### CABAÑA EN PRADO TOLIMA (PRECIO MEDIO)
-
-
-Tiene 7 dormitorios, 5 baños, ropa de cama, toallas, TV de pantalla plana con canales vía satélite, zona de comedor, cocina totalmente equipada y terraza con vistas a la montaña. Hay parking privado.
-
-
-* __Precio promedio:__ El valor de hospedaje para 12 personas es de alrededor $2.040.000 pesos.
-* __Lugares cercanos:__ El aeropuerto más cercano (Aeropuerto de Ibagué) está a 123 km.
-* __Servicios:__ Ofrece un balcón con vistas a la piscina y al río, además de piscina al aire libre abierta todo el año, piscina cubierta y centro de fitness. Este alojamiento ofrece mesa de billar y ping pong.
+👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
 
 
 
-<a href="https://www.booking.com/hotel/co/cabana-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+#### CASA EN EL CENTRO DE PRADO TOLIMA (MAXIMO 14 PERSONAS)
+
+
+Ubicado estratégicamente cerca del parque principal, este alojamiento ofrece fácil acceso a servicios esenciales como restaurantes y farmacias, siendo la opción ideal para familias. Una ventaja competitiva es su baja presencia de mosquitos en comparación con otros hospedajes situados en el corazón de la reserva.
+
+
+__EL PRECIO:__  El valor de hospedaje depende del numero de personas pero en promedio es entre $60.000 Pesos a $90.000 pesos.
+
+__LA HABITACIÓN INCLUYE:__
+- 4 habitaciones: 🛏️ 7 camas dobles de 1,40m, 3 con baño privado
+- 🚽 2 baños publicos
+- 🍳 Cocina equipada (nevera + utensilios)
+- 📍 Ubicación hospedaje: al lado de la iglesia
+- 🚗 Garaje para 2 carros (si no son muy grandes) &nbsp;
+- 📶 WiFi incluido
+
+__NO INCLUYE:__ Alimentación.
+
+
+<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-maximo-para-12-personas" target="_blank">
 {% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/cabana-en-prado-tolima.jpg",
-caption:"Foto: Casa de las Guacamayas",
-width:"1000",
-height:"575"
+file:"rutas/tolima/represa-prado/hospedaje/hospedaje-12-personas.png",
+caption:"Foto: Hospedaje para maximo 14",
+width:"1200",
+height:"675"
 %}
 </a>
 
 
-👉 **<a href="https://www.booking.com/hotel/co/cabana-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
-
-
-
-
-#### ISLA PRIVADA AL INTERIOR DE COLOMBIA EN PRADO TOLIMA (DE LUJO)
-
-
-Este hospedaje es ideal para ir con amigos o en reuniones familiares. Dispone de una casa totalmente equipada para disfrutar de unas vacaciones fantásticas.
-
-
-* __Precio promedio:__ El valor de hospedaje para 15 personas es de alrededor $5.040.000 pesos.
-* __Lugares cercanos:__ El aeropuerto más cercano (Aeropuerto de Ibagué) está a 123 km.
-* __Servicios:__ con aire acondicionado consta de 8 dormitorios independientes, una sala de estar, una cocina totalmente equipada y 9 baños. Se ofrece TV de pantalla plana.
-
-
-
-
-<a href="https://www.booking.com/hotel/co/isla-privada-al-interior-de-colombia-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/hospedaje-top-prado.jpg",
-caption:"Foto: Casa de las Guacamayas",
-width:"1000",
-height:"575"
-%}
-</a>
-
-
-👉 **<a href="https://www.booking.com/hotel/co/isla-privada-al-interior-de-colombia-en-prado-tolima.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Clic aquí para mayor información de la reserva en booking</a>**
+👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-maximo-para-12-personas" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
-
-
-
 ## RECOMENDACIONES FINALES 📋
-
-
 
 
 Aquí te daremos algunas recomendaciones que debes de tener en cuenta al momento de visitar la represa de Prado y también al visitar algunos lugares naturales.
