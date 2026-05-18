@@ -39,7 +39,7 @@ A continuación te mostramos un pequeño **video del Paramillo del Quindío** , 
 
 ## TOUR AL PARAMILLO DEL QUINDIO
 
-Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero **reservar la excursion** con tiempo, el precio de este tour es de $700.000 Cop hasta $1'700.000 Cop, esto es dependiendo del numero personas, si quieres realizar el tour con alguna de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
+Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero **reservar la excursion** con tiempo, el precio de este tour es de $1'300.000 Cop hasta $2'400.000 Cop, esto es dependiendo del numero personas, si quieres realizar el tour con alguna de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
 
 **<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad al Paramillo del Quindio</a>** 👈
 
