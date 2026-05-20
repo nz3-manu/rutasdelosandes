@@ -80,13 +80,13 @@ __Nota:__ _En Toche no van a encontrar cajeros automáticos, corresponsales banc
 
 Aquí te mostraremos los lugares turísticos que visitamos en todo el recorrido que hicimos, puedes ver el mapa donde podrás ver los sitios de interés, podras ver 2 tipos de líneas:
 
-- 🛵 línea Blanca: Es la que hicimos en moto 
+- 🛵 línea Roja: Es la que hicimos en moto 
 - 🥾 línea Negra: Es la que hicimos caminando
 
 {% include iframe.html,
 type:"custom",
-mid:"1_fQsCcXD6OC7QeMCPw9eR-zs5S5Nesk&hl=es",
-caption:"Ruta en Prado Tolima"
+mid:"16k9LD0MjRdkT2HIeEkXkezg83QGYvp8&hl=es&ehbc=2E312F",
+caption:"Ruta Volcán Machín desde Salento"
 %}
 
 ### -> LA CARBONERA
@@ -104,9 +104,9 @@ height:"900"
 
 ### -> CRATER DEL VOLCAN MACHIN
 
-Una vez salimos de la carbonera continuamos por unos 7 kilómetros hasta llegar a Toche, tomamos la via que es subiendo hasta llegar hasta encontrar 2 caminos (ver mapa) allí tomamos el camino a mano izquierda por aproximadamente 5 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
+Una vez salimos de la carbonera continuamos por unos 14 kilómetros hasta llegar a Toche, tomamos la via que es subiendo por aproximadamente 10.6 kilometros hasta encontrar 2 caminos (ver mapa) allí tomamos el camino a mano izquierda por aproximadamente 3,1 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
 
-Los últimos 2 kilómetros de carretera antes de llegar a la finca estaban en tan mal estado que nos tocó empujar algunas motos para que pudieran subir, habían personas que iban en un carro y les tocó devolverse en este punto🥲.
+Los últimos 600 Metros de carretera antes de llegar a la finca(cráter del volcán Machín) estaban en tan mal estado que nos tocó empujar algunas motos para que pudieran subir, habían personas que iban en un carro y les tocó devolverse en este punto🥲.
 
 Una vez estando en la finca, pedimos permiso para dejar las motos allí y empezar el ascenso para ver a las fumadoras. 
 
@@ -124,9 +124,15 @@ __Recomendación:__ _En esta finca ofrecen zona de camping, pero ten en cuenta q
 
 ### -> FUMAROLAS
 
-Para subir a las fumarolas tuvimos que caminar desde donde dejamos las motos; fueron unos 2 kilómetros, todo en ascenso. Hay partes con mucha inclinación y también de pantano, lo que lo hace más complicado si ha llovido.
 
-__Datos curioso:__ _A diferencia de otros volcanes, el Machín no huele tanto a azufre. Sus fumarolas expulsan principalmente vapor de agua y dióxido de carbono (CO₂), creando una atmósfera densa y única donde se siente la respiración de la tierra._
+Para subir a las fumarolas caminamos desde donde dejamos las motos. En total es un recorrido corto pero muy exigente, todo en ascenso, con partes de mucha inclinación y presencia de lodo (pantano) ya que había llovido recientemente.
+
+__ESTADISTICAS DE ESTE TRAYECTO:__
+- __Distancia subiendo:__ 0.96 km (aproximadamente 1 km)
+- __Tiempo promedio Subiendo:__ 54 minutos
+- __Desnivel positivo (Ascenso):__ 200 metros 
+
+__Datos curioso:__ _A diferencia de otros volcanes, el Machín no huele a azufre. Sus fumarolas expulsan principalmente vapor de agua y dióxido de carbono ($CO_2$), creando una atmósfera densa y única donde se siente, de primera mano, la respiración de la tierra._
 
 
 {% include image.html,
@@ -138,8 +144,15 @@ height:"675"
 
 ### -> ESTALAGMITAS
 
-Tomamos las motos de nuevo y regresamos por el mismo camino por el que subimos hasta encontrar el desvío (ver mapa). Allí continuamos por aproximadamente 5 kilómetros por una carretera destapada, pero en buen estado.
-Vimos un letrero justo al borde de la carretera; esta fue la señal de que habíamos llegado. Desde la entrada, tuvimos que caminar por cerca de 1 kilómetro, todo en descenso, hasta llegar a las estalagmitas.
+Tomamos las motos de nuevo y regresamos por el mismo camino por el que subimos hasta encontrar el desvío (ver mapa). Allí continuamos por aproximadamente 3 kilómetros por una carretera destapada, pero en buen estado.
+
+Vimos un letrero justo al borde de la vía; esta fue la señal de que habíamos llegado. Desde la entrada, tuvimos que caminar cerca de 800 metros, todo en descenso, hasta llegar a las estalagmitas.
+
+__ESTADISTICAS DE ESTE TRAYECTO:__
+- __Distancia total:__ 800 metros
+- __Tiempo promedio Bajando:__ 10 minutos
+- __Desnivel Negativo (Bajando):__ 91 metros 
+
 
 __Dato curioso:__ _¿Sabes la diferencia entre estalactitas y estalagmitas? Las estalactitas, con "T" de Techo, cuelgan; y las estalagmitas, con "M" de Mesa o de Suelo, crecen hacia arriba._
 
