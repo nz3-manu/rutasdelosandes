@@ -91,7 +91,12 @@ caption:"Ruta Volcán Machín desde Salento"
 
 ### -> LA CARBONERA
 
-Este lugar está a 18 kilómetros de Salento, en la misma vía Salento-Toche. Este lugar alberga el bosque de palmas de cera más grande del planeta. Alberga más de 600.000 palmas (el 80% de la población mundial), superando por completo la densidad del Valle de Cocora.
+Este lugar está a 26 kilómetros de Salento, en la misma vía Salento-Toche. Este lugar alberga el bosque de palmas de cera más grande del planeta. Alberga más de 600.000 palmas (el 80% de la población mundial), superando por completo la densidad del Valle de Cocora.
+
+__ESTADISTICAS DE ESTE TRAYECTO:__
+- __Distancia total:__ 1.45 km 
+- __Tiempo promedio :__ 1 hora, 25 minutos
+- __Desnivel Negativo (Bajando):__ 207 metros de desnivel negativo
 
 __Dato curioso:__ _Gracias a los nutrientes de antiguos suelos volcánicos, las palmas de cera alcanzan alturas asombrosas y una densidad única en la cordillera. El resultado es un paisaje místico, donde la niebla se funde con la selva y la imponente historia geológica del territorio._
 
