@@ -14,6 +14,9 @@ trending: true
 
 En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos para que no te lleves las mismas sorpresas, ya que muchos videos no hablan del estado de la carretera ni de los hospedajes.
 
+¿Buscas una aventura única y sin multitudes? Si quieres explorar estos destinos con el respaldo de expertos en la región, <a target="_blank" href="https://www.randes.co/collections/la-carbonera-volcan-machin">  da clic aquí</a>
+
+
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
 - <a href="#video-volcan-machin"> Vídeo de la ruta al Volcán Machín</a>
@@ -107,6 +110,7 @@ width:"1200",
 height:"900"
 %}
 
+
 ### -> CRATER DEL VOLCAN MACHIN
 
 Una vez salimos de la carbonera continuamos por unos 14 kilómetros hasta llegar a Toche, tomamos la via que es subiendo por aproximadamente 10.6 kilometros hasta encontrar 2 caminos (ver mapa) allí tomamos el camino a mano izquierda por aproximadamente 3,1 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
@@ -185,7 +189,7 @@ __INCLUYE:__
 - 🍽️ Almuerzo
 - 🥾 Visita a la cascada en medio del bosque natural
 
-👉 <a href="https://www.randes.co/products/tour-a-la-represa-prado-pasadia-mediano" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
+👉 <a href="https://www.randes.co/products/expedicion-autentica-carbonera-tochecito" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
 
 ### TOURS A LA CARBONERA Y VOLCAN MACHÍN
 
@@ -200,7 +204,7 @@ __INCLUYE:__
 - 👙 Entrada a las piscinas termales del Machín
 - 🪨 Entrada y tour por las estalagmitas
 
-👉 <a href="https://www.randes.co/products/tour-a-la-represa-prado-pasadia-mediano" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
+👉 <a href="https://www.randes.co/products/tour-bosque-palmas-la-carbonera" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
 
 __⚠️ Importante:__ _Si estás pensando en hacer esta ruta por tu cuenta y no tienes un vehículo 4x4, debes saber que la carretera tiene tramos bastante difíciles y exigentes._
 
