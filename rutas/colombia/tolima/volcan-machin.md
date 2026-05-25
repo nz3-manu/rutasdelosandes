@@ -3,7 +3,7 @@ layout: trail
 title: Volcán Machín
 categories: colombia
 seo_title: Guía completa para visitar el Volcán Machín (2026)
-Excerpt: ¿Planeas visitar el Volcán Machín? Te contamos cómo llegar desde Salento o Ibagué, estado de la vía, qué hacer en Toche, tours y hospedajes. ¡Evita sorpresas! 
+excerpt: ¿Planeas visitar el Volcán Machín? Te contamos cómo llegar desde Salento o Ibagué, estado de la vía, qué hacer en Toche, tours y hospedajes. ¡Evita sorpresas!
 images_url: /images/rutas/tolima/volcan-machin
 viewranger: MTYzNjQxOQ==
 author: manuel
@@ -22,7 +22,7 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 - <a href="#video-volcan-machin"> Vídeo de la ruta al Volcán Machín</a>
 - <a href="#llegar-volcan-machin"> ¿Cómo llegar al Volcán Machín? </a>
 - <a href="#lugares-volcan-machin"> Lugares visitados en la ruta al Volcán Machín </a>
-- <a href="#tour-volcan-machin"> Tours disponible en esta zona</a>
+- <a href="#tours-volcan-machin"> Tours disponibles en esta zona</a>
 - <a href="#hospedaje-volcan-machin"> Hospedajes disponibles en esta zona</a>
 - <a href="#recomendaciones-volcan-machin"> Recomendaciones finales para visitar Volcán Machín</a>
 
@@ -37,9 +37,9 @@ __El Secreto del Gigante Joven:__ Al ser el volcán más joven de la cordillera 
 
 Para entender su poder, los físicos y vulcanólogos miden la energía de estos eventos en megatones de TNT. La última gran erupción de este gigante liberó una energía térmica tan masiva que equivale a la detonación simultánea de más de 50.000 bombas como la de Hiroshima. No es una exageración: la presión de los gases atrapados bajo su caldera convierte al Machín en la estructura geológica potencialmente más explosiva de Colombia.
 
-__Un cataclismo que cambió el mapa:__ Hace unos 800 o 900 años ocurrió esa última actividad mayor. Fue una erupción pliniana(es una de las erupciones volcánicas más violentas ) tan brutal que los flujos piroclásticos (nubes de ceniza y gas ardiente) y los lahares (flujos de lodo) transformaron por completo la geografía de la región, rediseñando lo que hoy conocemos como los valles de Armenia, la cuenca del río Coello y parte de las llanuras del Tolima.
+__Un cataclismo que cambió el mapa:__ Hace unos 800 o 900 años ocurrió esa última actividad mayor. Fue una erupción pliniana —una de las más violentas del mundo— tan brutal que los flujos piroclásticos (nubes de ceniza y gas ardiente) y los lahares (flujos de lodo) transformaron por completo la geografía de la región, rediseñando lo que hoy conocemos como los valles de Armenia, la cuenca del río Coello y parte de las llanuras del Tolima.
 
-__Vida sobre la ceniza:__ Pero la naturaleza siempre encuentra su equilibrio. Hoy, debido a la enorme cantidad de nutrientes que esos suelos volcánicos antiguos aportan a la tierra, las palmas de cera logran alcanzar alturas asombrosas y crecer en densidades que no se ven en otras partes de la cordillera. El resultado es un paisaje místico, un refugio donde la niebla choca con la vegetación selvática y la imponente historia volcánica del territorio.
+__Vida sobre la ceniza:__ Pero la naturaleza siempre encuentra su equilibrio. Hoy en día, la despensa agrícola y la exuberante vegetación de la región existen gracias a esos suelos antiguos, que quedaron cargados de minerales vitales. Es un territorio místico donde la niebla de la cordillera choca con la selva, recordándonos que la vida florece con fuerza sobre los vestigios de un pasado volcánico.
 
 <a href="https://www.randes.co/" target="_blank">
 {% include image.html,
@@ -71,11 +71,11 @@ Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href
 Lo primero que debimos hacer fue llegar a Toche (Tolima). Nosotros elegimos la ruta desde Salento, pero si están en alguno de los siguientes puntos, también pueden armar su viaje desde allí:
 
 - __Desde Ibagué o Cajamarca:__ Supimos que desde ambos municipios salen Jeeps públicos hacia Toche.
-- __Desde Salento (Nuestra ruta):__ Esta es la que les mostraremos en este post. No confirmamos si hay Jeeps públicos haciendo este trayecto, así que nosotros lo hicimos en moto. Nos tocó un camino de tierra y piedra (carretera destapada) de aproximadamente 27 kilómetros hasta llegar al pueblo.
+- __Desde Salento (Nuestra ruta):__ Esta es la que les mostraremos en este post. No confirmamos si hay Jeeps públicos haciendo este trayecto, así que nosotros lo hicimos en moto. Nos tocó un camino de tierra y piedra (carretera destapada) de aproximadamente 43 kilómetros hasta llegar a Toche.
 
 Un consejo por experiencia: Todo el recorrido desde Salento es destapado. Si ha llovido mucho los días anteriores, la carretera se pone bastante complicada y pesada para transitar, ¡así que viajen con cuidado!
 
-__Nota:__ _En Toche no van a encontrar cajeros automáticos, corresponsales bancarios ni grandes supermercados, solo tiendas locales muy básicas. Lleven buen efectivo,._
+__Nota:__ _En Toche no van a encontrar cajeros automáticos, corresponsales bancarios ni grandes supermercados, solo tiendas locales muy básicas. Lleven suficiente dinero en efectivo._
 
 <a name="lugares-volcan-machin" id="lugares-volcan-machin"></a>
 
@@ -96,10 +96,12 @@ caption:"Ruta Volcán Machín desde Salento"
 
 Este lugar está a 26 kilómetros de Salento, en la misma vía Salento-Toche. Este lugar alberga el bosque de palmas de cera más grande del planeta. Alberga más de 600.000 palmas (el 80% de la población mundial), superando por completo la densidad del Valle de Cocora.
 
-__ESTADISTICAS DE ESTE TRAYECTO:__
+__Nota:__ _Para acceder a este sendero se cobra una entrada. También debes saber que la ruta no está muy bien señalizada._
+
+__ESTADÍSTICAS DE ESTE TRAYECTO:__
 - __Distancia total:__ 1.45 km 
-- __Tiempo promedio :__ 1 hora, 25 minutos
-- __Desnivel Negativo (Bajando):__ 207 metros de desnivel negativo
+- __Tiempo promedio:__ 1 hora, 25 minutos
+- __Desnivel negativo (bajando):__ 207 metros de desnivel negativo
 
 __Dato curioso:__ _Gracias a los nutrientes de antiguos suelos volcánicos, las palmas de cera alcanzan alturas asombrosas y una densidad única en la cordillera. El resultado es un paisaje místico, donde la niebla se funde con la selva y la imponente historia geológica del territorio._
 
@@ -113,9 +115,9 @@ height:"900"
 
 ### -> CRATER DEL VOLCAN MACHIN
 
-Una vez salimos de la carbonera continuamos por unos 14 kilómetros hasta llegar a Toche, tomamos la via que es subiendo por aproximadamente 10.6 kilometros hasta encontrar 2 caminos (ver mapa) allí tomamos el camino a mano izquierda por aproximadamente 3,1 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
+Una vez salimos de la carbonera continuamos unos 14 kilómetros hasta llegar a Toche. Allí tomamos la vía en ascenso durante 10.6 kilómetros hasta encontrar un cruce de dos caminos (ver mapa); seguimos por la izquierda unos 3.1 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
 
-Los últimos 600 Metros de carretera antes de llegar a la finca(cráter del volcán Machín) estaban en tan mal estado que nos tocó empujar algunas motos para que pudieran subir, habían personas que iban en un carro y les tocó devolverse en este punto🥲.
+Los últimos 600 Metros de carretera antes de llegar a la finca(cráter del volcán Machín) estaban en tan mal estado que nos tocó empujar algunas motos para que pudieran subir, había personas que iban en un carro y les tocó devolverse en este punto🥲.
 
 Una vez estando en la finca, pedimos permiso para dejar las motos allí y empezar el ascenso para ver a las fumadoras. 
 
@@ -136,17 +138,17 @@ __Recomendación:__ _En esta finca ofrecen zona de camping, pero ten en cuenta q
 
 Para subir a las fumarolas caminamos desde donde dejamos las motos. En total es un recorrido corto pero muy exigente, todo en ascenso, con partes de mucha inclinación y presencia de lodo (pantano) ya que había llovido recientemente.
 
-__ESTADISTICAS DE ESTE TRAYECTO:__
+__ESTADÍSTICAS DE ESTE TRAYECTO:__
 - __Distancia subiendo:__ 0.96 km (aproximadamente 1 km)
-- __Tiempo promedio Subiendo:__ 54 minutos
+- __Tiempo promedio subiendo:__ 54 minutos
 - __Desnivel positivo (Ascenso):__ 200 metros 
 
-__Datos curioso:__ _A diferencia de otros volcanes, el Machín no huele a azufre. Sus fumarolas expulsan principalmente vapor de agua y dióxido de carbono ($CO_2$), creando una atmósfera densa y única donde se siente, de primera mano, la respiración de la tierra._
+__Dato curioso:__ _A diferencia de otros volcanes, el Machín no huele a azufre. Sus fumarolas expulsan principalmente vapor de agua y dióxido de carbono ($CO_2$), creando una atmósfera densa y única donde se siente, de primera mano, la respiración de la tierra._
 
 
 {% include image.html,
 file:"rutas/tolima/volcan-machin/fumarolas.jpg",
-caption:"Foto: Cima del voncal Machin fumarolas",
+caption:"Foto: Cima del volcán Machin fumarolas",
 width:"1200",
 height:"675"
 %}
@@ -155,12 +157,12 @@ height:"675"
 
 Tomamos las motos de nuevo y regresamos por el mismo camino por el que subimos hasta encontrar el desvío (ver mapa). Allí continuamos por aproximadamente 3 kilómetros por una carretera destapada, pero en buen estado.
 
-Vimos un letrero justo al borde de la vía; esta fue la señal de que habíamos llegado. Desde la entrada, tuvimos que caminar cerca de 800 metros, todo en descenso, hasta llegar a las estalagmitas.
+Vimos un letrero justo al borde de la vía; esa fue la señal de que habíamos llegado. Desde la entrada, tuvimos que caminar cerca de 800 metros, todo en descenso, hasta llegar a las estalagmitas.
 
-__ESTADISTICAS DE ESTE TRAYECTO:__
+__ESTADÍSTICAS DE ESTE TRAYECTO:__
 - __Distancia total:__ 800 metros
-- __Tiempo promedio Bajando:__ 10 minutos
-- __Desnivel Negativo (Bajando):__ 91 metros 
+- __Tiempo promedio bajando:__ 10 minutos
+- __Desnivel negativo (bajando):__ 91 metros 
 
 
 __Dato curioso:__ _¿Sabes la diferencia entre estalactitas y estalagmitas? Las estalactitas, con "T" de Techo, cuelgan; y las estalagmitas, con "M" de Mesa o de Suelo, crecen hacia arriba._
@@ -172,7 +174,7 @@ width:"600",
 height:"800"
 %}
 
-<a name="tour-volcan-machin" id="tour-volcan-machin"></a>
+<a name="tours-volcan-machin" id="tours-volcan-machin"></a>
 
 ## TOURS DISPONIBLES EN ESTA ZONA 🌋
 
@@ -189,7 +191,7 @@ __INCLUYE:__
 - 🍽️ Almuerzo
 - 🥾 Visita a la cascada en medio del bosque natural
 
-👉 <a href="https://www.randes.co/products/expedicion-autentica-carbonera-tochecito" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
+👉 <a href="https://www.randes.co/products/expedicion-autentica-carbonera-tochecito" style="color: maroon;" target="_blank"> Clic aquí para ver información de este Tour</a>
 
 ### TOURS A LA CARBONERA Y VOLCAN MACHÍN
 
@@ -204,7 +206,7 @@ __INCLUYE:__
 - 👙 Entrada a las piscinas termales del Machín
 - 🪨 Entrada y tour por las estalagmitas
 
-👉 <a href="https://www.randes.co/products/tour-bosque-palmas-la-carbonera" style="color: maroon;" target="_blank"> Clic aquí para ver información de de este Tour</a>
+👉 <a href="https://www.randes.co/products/tour-bosque-palmas-la-carbonera" style="color: maroon;" target="_blank"> Clic aquí para ver información de este Tour</a>
 
 __⚠️ Importante:__ _Si estás pensando en hacer esta ruta por tu cuenta y no tienes un vehículo 4x4, debes saber que la carretera tiene tramos bastante difíciles y exigentes._
 
@@ -220,12 +222,12 @@ __Nota:__ _Hay un hospedaje cerca del cráter del volcán Machín, pero ten en c
 
 Este hospedaje se encuentra en el casco urbano de Toche, lo que facilita el acceso a tiendas y restaurantes. Cuenta con habitaciones privadas para parejas y opciones de habitaciones compartidas.
 
-__EL PRECIO:__ en promedio de $60.000 pesos por persona a $80.000 pesos por persona.
+__EL PRECIO:__ El precio promedio va de $60.000 a $80.000 pesos por persona.
 
 __TIPO DE HOSPEDAJE:__
 - Habitación privada: 🛏️ 1 camas dobles
 - Habitación compartida: 🛏️ 4 camas sencillas
-- Todas las habitaciónes tienen baños privados
+- Todas las habitaciones tienen baño privado
 
 
 {% include image.html,
@@ -258,7 +260,7 @@ caption:"Foto: Hospedaje Zona de Camping",
 width:"1200",
 height:"675"
 %}
-</a>
+
 
 👉 **<a href="https://wa.link/21fqkv" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
@@ -266,9 +268,9 @@ height:"675"
 
 ## RECOMENDACIONES FINALES PARA VISITAR EL VOLCÁN MACHÍN
 
-* No es recomendable visitarlo en invierno por el estado de las vias.
-* El último tramo para subir al cráter del volcán es el tramo más malo del camino, podrían dejar la moto o carro en una finca y subir caminando y después volver.
-* Si vas a dormir en esta zona te recomendamos hospedarte en un hotel Toche o en alguna zona que cuente con termales.
+* No es recomendable visitarlo en invierno por el estado de las vías.
+* El último tramo para subir al cráter del volcán es el tramo en peor estado del camino, podrían dejar la moto o carro en una finca y subir caminando y después volver.
+* Si vas a dormir en esta zona te recomendamos hospedarte en un hotel en Toche o en alguna zona que cuente con termales.
 
 Este es el fin de la ruta al volcán Machín, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
