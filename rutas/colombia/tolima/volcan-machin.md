@@ -1,6 +1,6 @@
 ---
 layout: trail
-title: Volcan Machin
+title: Volcán Machín
 categories: colombia
 seo_title: Guía completa para visitar el Volcán Machín (2026)
 Excerpt: ¿Planeas visitar el Volcán Machín? Te contamos cómo llegar desde Salento o Ibagué, estado de la vía, qué hacer en Toche, tours y hospedajes. ¡Evita sorpresas! 
@@ -14,7 +14,7 @@ trending: true
 
 En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos para que no te lleves las mismas sorpresas, ya que muchos videos no hablan del estado de la carretera ni de los hospedajes.
 
-¿Buscas una aventura única y sin multitudes? Si quieres explorar estos destinos con el respaldo de expertos en la región, <a target="_blank" href="https://www.randes.co/collections/la-carbonera-volcan-machin">  da clic aquí</a>
+**🌋 <a href="https://www.randes.co/collections/la-carbonera-volcan-machin" style="color:green;" target="_blank"> Puedes conocer diferentes planes dando clic aquí. 👈 </a>**
 
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
@@ -56,7 +56,7 @@ height:"300" %}
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
 
 {% include youtube.html
-videoid:"oD_H6rkN4Bc",
+videoid:"oD_H6rkN4B",
 width:"480",
 height:"270",
 Caption:"video de la ruta al volcan Machin"
@@ -83,8 +83,8 @@ __Nota:__ _En Toche no van a encontrar cajeros automáticos, corresponsales banc
 
 Aquí te mostraremos los lugares turísticos que visitamos en todo el recorrido que hicimos, puedes ver el mapa donde podrás ver los sitios de interés, podras ver 2 tipos de líneas:
 
-- 🛵 línea Roja: Es la que hicimos en moto 
-- 🥾 línea Negra: Es la que hicimos caminando
+- 🛵 __línea Roja:__ Es la que hicimos en moto 
+- 🥾 __línea Negra:__ Es la que hicimos caminando
 
 {% include iframe.html,
 type:"custom",
@@ -227,7 +227,6 @@ __TIPO DE HOSPEDAJE:__
 - Habitación compartida: 🛏️ 4 camas sencillas
 - Todas las habitaciónes tienen baños privados
 
-<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" target="_blank">
 
 {% include image.html,
 file:"rutas/tolima/volcan-machin/hospedaje/hotel-en-toche.png",
@@ -235,9 +234,9 @@ caption:"Foto: Hospedaje en Toche",
 width:"1200",
 height:"675"
 %}
-</a>
 
-👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
+
+👉 **<a href="https://wa.link/0zgvu6" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
 ### ZONA DE CAMPING EN TOCHE 🛏️
 
@@ -252,7 +251,6 @@ __TIPO DE ZONA DE CAMPING:__
 - 🅿️ Zona de parqueo para carros o motos al lado del hospedaje.
 - ♨️ Acceso a baños termales.
 
-<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" target="_blank">
 
 {% include image.html,
 file:"rutas/tolima/volcan-machin/hotel-en-toche.png",
@@ -262,7 +260,7 @@ height:"675"
 %}
 </a>
 
-👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
+👉 **<a href="https://wa.link/21fqkv" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
 <a name="recomendaciones-volcan-machin" id="recomendaciones-volcan-machin"></a>
 
