@@ -28,7 +28,7 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/volcan-machin.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/tolima/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
 <a name="dato-prado-tolima" id="dato-prado-tolima"></a>
 
 ## DATO CURIOSO DEL VOLCÁN MACHÍN
