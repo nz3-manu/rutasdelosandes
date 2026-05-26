@@ -47,7 +47,7 @@ file:"publicidad-post/sombrero.png",
 caption:"banner-ropa",
 width:"1000",
 height:"300" %}
-</a>
+</a> 
 
 <a name="video-volcan-machin" id="video-volcan-machin"></a>
 
@@ -56,8 +56,8 @@ height:"300" %}
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
 
 {% include youtube.html
-videoid:"oD_H6rkN4B",
-width:"480",
+videoid:"-CbhegdpsX8",
+width:"480", 
 height:"270",
 Caption:"video de la ruta al volcan Machin"
 %}
