@@ -14,7 +14,7 @@ trending: true
 
 Visitar la Sierra Nevada del Cocuy es el sueño de cualquier montañista, pero su logística puede ser compleja. Durante nuestra primera expedición, enfrentamos contratiempos con la coordinación y guías no certificados que casi ponen en riesgo nuestro viaje. Hemos preparado esta guía para que tú aprendas de nuestra experiencia y realices esta aventura con total seguridad.
 
-**<a href="https://www.randes.co/products/tour-nevado-del-cocuy" style="color:green;" target="_blank"> Si quieres evitar inconvenientes he ir con una agencia de viajes 🗻, clic aquí. 👈 </a>**
+**<a href="https://www.randes.co/products/tour-nevado-del-cocuy" style="color:green;" target="_blank"> Si quieres evitar inconvenientes e ir con una agencia 🗻, clic aquí. 👈 </a>**
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -207,7 +207,7 @@ Algunas de estas prendas las podrás adquirir en nuestra tienda en línea de mon
 
 ### RECOMENDACIONES FINALES PARA VISITAR EL NEVADO DEL COCUY
 
-* Si vas a contratar un, Guia local, debes asegurarte que sea alguien confiable y que les dé garantía por si presentara algún inconveniente, puede solucionarlo, al igual que el transporte.
+* Si vas a contratar un guía local, debes asegurarte que sea alguien confiable y que les dé garantía por si presentara algún inconveniente, puede solucionarlo, al igual que el transporte.
 * Asegúrate que te envíen las planillas con los senderos que van a realizar, al igual que los seguros médicos.
 * Por último, para ingresar al parque van a tener que asistir previamente a una charla, si no la han realizado no podrán ingresar
 
