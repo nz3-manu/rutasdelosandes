@@ -1,16 +1,16 @@
 ---
 layout: trail
-title:  Cerros de Mavicure
+title:  Cerros de Mavicure | Guía completa
 categories: colombia
-seo_title: ▷ Cerros de Mavicure | Guía Completa para visitar Mavicure 2025
-excerpt: Descubre cómo llegar a los cerros Mavicure, donde conseguir tour o si es seguro viajar a este lugar.
+seo_title: ▷ Cerros de Mavicure (Inírida)| Guía, Tours y Consejos 2026
+excerpt: ¿Quieres viajar a los Cerros de Mavicure? Conoce cómo llegar, cuánto cuesta, los mejores tours y todo sobre la seguridad en esta joya del Guainía.
 images_url: /images/rutas/inirida/cerros-de-mavicure
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
 ---
 
-# CERROS DE MAVICURE
+# TODO LO QUE NECESITAS SABER PARA VISITAR LOS CERROS DE MAVICURE
 
 Los Cerros de Mavicure son uno de los lugares más impresionantes de Colombia: enormes formaciones rocosas que emergen en medio de la selva y el río Inírida, cargadas de historia, misticismo y belleza natural.
 
@@ -28,6 +28,7 @@ __EN ESTE POST ENCONTRARÁS LAS SIGUIENTES SECCIONES:__
 * <a href="#sendero-mavicure"> Lugares para visitar en Inírida</a>
 * <a href="#tour-mavicure"> Tours disponibles</a>
 * <a href="#hospedaje-mavicure"> Hospedajes disponibles</a>
+* <a href="#recomendacion-mavicure"> Recomendaciones finales para visitar los cerros</a>
 
 Empecemos con la aventura ⛰.
 
@@ -41,13 +42,13 @@ Aquí, en esta sección, te compartiremos información recolectada por la comuni
 
 ### -> CERROS DE MAVICURE
 
-Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás qué es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
+Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás que es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
 EL
 Te preguntarás, si toda la tierra tiene la misma edad _¿porque hay montañas más antiguas que otras?_ 
 Pensemos en una olla con agua caliente: la base se calienta y hace que el agua más caliente suba a la superficie, mientras que la más fría baja. Algo parecido ocurre en el interior de la Tierra, donde el calor interno hace que las rocas y otros materiales se muevan lentamente, como si estuvieran semi-derretidos: los más calientes ascienden y los más fríos descienden, generando un proceso llamado convección. En este video puedes ver cómo, al calentarse, el material interno genera corrientes que desplazan la superficie. Lo mismo ocurre con las placas tectónicas de la litosfera.
 
 
-__¿Te preguntarás qué pasa si 2 placas tectónicas chocan entre sí?__  Eso ocurrió en la cordillera de los Andes, que empezó a formarse hace unos 200 millones de años, aunque su mayor crecimiento se dio en los últimos 65 millones de años. Nació del choque entre la placa de Nazca (oceánica), que se hunde bajo la placa Sudamericana (continental), y que todavía hoy sigue empujando la cordillera hacia arriba.
+__¿Te preguntarás que pasa si 2 placas tectónicas chocan entre sí?__  Eso ocurrió en la cordillera de los Andes, que empezó a formarse hace unos 200 millones de años, aunque su mayor crecimiento se dio en los últimos 65 millones de años. Nació del choque entre la placa de Nazca (oceánica), que se hunde bajo la placa Sudamericana (continental), y que todavía hoy sigue empujando la cordillera hacia arriba.
 
 Hace 335 millones de años existía un continente el cual se llamaba Pangea, este continente se fracturó por la fuerza que ejercían las placas tectónicas y se fue desplazando a los continentes que conocemos hoy. Como último dato, el Escudo Guayanés(que comprende parte de Colombia, Venezuela, Guyana y Brasil) por ser una estructura tan resistente, este no se partió, sino que se vino completo para el continente de las Américas.
 
@@ -87,7 +88,7 @@ Hasta el momento solo hay vuelos con la aerolínea Satena. Las 2 ciudades donde 
 
 - __Desde Bogotá:__ El vuelo tarda en promedio 1 hora y 30 minutos para llegar a Inírida, los horarios de salida son; 8 am y 2 pm, el valor  de cada trayecto puede costar entre $400.000 a $600.000 pesos, dependiendo de la temporada que lo compres.
 
-- __Desde Villavicencio__ El vuelo tarda en promedio 1 hora y 50 minutos para llegar a Inírida, ten en cuenta que no sale todos los días. Él preció por trayecto es en promedio de $350.00 pesos a $550.000 pesos  dependiendo de la temporada que lo compres, los horarios de salida son a las 7:00 am y 12:00 pm.
+- __Desde Villavicencio__ El vuelo tarda en promedio 1 hora y 50 minutos para llegar a Inírida, ten en cuenta que no sale todos los días. Él precio por trayecto es en promedio de $350.000 pesos a $550.000 pesos  dependiendo de la temporada que lo compres, los horarios de salida son a las 7:00 am y 12:00 pm.
 
 __NOTA:__ _Queremos aclararte que algunas veces salen vuelos desde otras ciudades, pero muchas veces son vuelos con conexión a las 2 ciudades que te mostramos, los precios que pusimos aquí son a la fecha del mes de julio del 2025._
 
@@ -305,7 +306,7 @@ __LUGARES QUE SE VISITAN:__
 
 __LOS TOUR INCLUYE:__ ✈️🚐 transporte desde el aeropuerto de Inírida, 🍽️ alimentación durante el tour, 🛌 hospedaje durante el tour, 🚤 transporte a los sitios turísticos, 🧭 guianza permanente y 🛡️ seguro de asistencia médica.
 
-Si quisieres ver más al detalle este tour o reservar __<a href="https:https://www.randes.co/products/tour-cerros-de-mavicura-5-dias-y-4-noches" style="color:green;" target="_blank"> clic aquí</a>__ 👈
+Si quisieres ver más al detalle este tour o reservar __<a href="https://www.randes.co/products/tour-cerros-de-mavicura-5-dias-y-4-noches" style="color:green;" target="_blank"> clic aquí</a>__ 👈
 
 
 <a name="hospedaje-mavicure" id="hospedaje-mavicure"></a>
@@ -337,17 +338,17 @@ Aquí te mostramos las instalaciones del Hospedaje El Venado, aunque creemos que
 
 __RECOMENDACIÓN:__ _Estos hospedajes están ubicados a una hora y media del pueblo de Inírida. En temporada alta es mejor hacer la reserva con anticipación. Ellos no cuentan con comida lista para la venta; por lo general, las agencias llevan los alimentos y las comunidades se encargan de prepararlos._
 
+<a name="recomendacion-mavicure" id="recomendacion-mavicure"></a>
 
-## RECOMENDACIONES FINALES PARA VISITAR LOS CERROS DE MAVICURE 🏅
+## RECOMENDACIONES FINALES: PLANEA TU VIAJE A MAVICURE 🏅
 
-Aquí te diremos todas las recomendaciones que te dimos en este post,  recomendaciones como: parqueaderos, qué tour tomar, hospedaje, lugares adicionales para visitar.
+Para que tu experiencia sea inolvidable y evites los contratiempos que nosotros tuvimos, ten en cuenta estos consejos clave antes de viajar:
 
-- __Parqueadero en Bogotá:__ Nosotros dejamos nuestra moto en un parqueadero llamado _Parquea y Vuela_ (puedes buscarlos en Google), deben saber las motos quedan al aire libre, tienen una van que lleva gratis al aeropuerto, pero para que los recojan después pueden presentar retrasos.
-- __Como Elegir un Tours:__ Te recomendamos ir con agencias que sean seguras y te den garantía por cualquier inconveniente que se pueda presentar, en nuestra página recomendamos algunos tours.
-- __Al visitar lugares por tu cuenta:__  Te recomendamos hacerlo por medio de una agencia, ya que si vas solo posiblemente te pueden cobrar más, como ya escribimos en el post nos cobraron más por ir a algunos lugares.
-- __Tarifa ingreso Inírida:__ Debes saber que se tiene que pagar una tarifa para ingresar a Inírida(en el aeropuerto) el valor es de aproximadamente $55.000 pesos por persona si son colombianos, aquí en la entrada del aeropuerto también te pedirán el certificado de la vacuna contra la fiebre amarilla.
-- __¿Qué ropa llevar?__ Recomendamos llevar ropa que cuente con protección solar, bloqueador, repelente y sombreros, ya que allí hace mucho sol, aunque si vas en invierno no olvides tu chaqueta rompevientos, en nuestra tienda en línea puedes encontrar estas prendas.
-- __¿Qué fecha es mejor para viajar?__ la temporada de verano es de diciembre a abril, esta fecha es mucho mejor, ya hay muchas playas para nadar.
+* **🅿️ Parqueadero en Bogotá:** Si viajas en moto, utilizamos _Parquea y Vuela_. Ten en cuenta que las motos quedan a la intemperie. Ofrecen transporte gratuito al aeropuerto, pero al regresar, programa tu recogida con tiempo ya que pueden presentar retrasos.
+* **⚠️ ¿Tour privado o con agencia?:** Aunque la idea de ir por libre es tentadora, en Guainía **es altamente recomendable contratar una agencia**. Como te contamos, al ir solos enfrentamos cobros excesivos en lugares locales. Una agencia legal te garantiza seguridad, logística y un precio justo. **[Mira aquí los tours recomendados por nosotros.](https://www.randes.co/products/tour-cerros-de-mavicura-4-dias-y-3-noches)**
+* **💵 Impuestos de entrada:** Al llegar al aeropuerto de Inírida, deberás pagar una tasa de ingreso de aproximadamente **$55.000 COP** (valor sujeto a cambios). **Es obligatorio** presentar tu certificado de vacunación contra la **fiebre amarilla**. ¡No lo olvides en casa!
+* **👕 ¿Qué empacar?:** El sol es muy fuerte. Necesitas ropa con protección UV, gorras y lentes. Si viajas en temporada de lluvias, una buena **chaqueta rompevientos/impermeable** es indispensable. Puedes encontrar toda nuestra línea de ropa técnica lista para esta expedición en **[nuestra tienda virtual](https://www.randes.co/)**.
+* **📅 La mejor fecha:** La temporada de verano va de **diciembre a abril**. Es el momento ideal para disfrutar de las playas de arena blanca, bañarte en los caños y tener el mejor clima para el ascenso a los cerros.
 
 
 Este es el fin de la ruta a los cerros de Mavicure, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

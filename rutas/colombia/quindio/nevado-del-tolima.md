@@ -2,19 +2,18 @@
 layout: trail
 title: Nevado del Tolima
 categories: colombia
-seo_title: Cima al Nevado del Tolima (2024)- Rutas.
-excerpt: Conoce como llegar al Nevado del Tolima, recomendaciones y tour para visitar este hermoso Nevado cerca de Salento, conoce hospedajes cerca del Nevado del Tolima y precios al Nevado del Tolima.
+seo_title: Cómo subir al Nevado del Tolima | Guía, Rutas y Consejos (2026)
+excerpt: Descubre la ruta al Nevado del Tolima. Guía de ascenso, recomendaciones de seguridad, hospedajes, costos y cómo contratar tu tour con expertos locales.
 images_url: /images/rutas/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
 trending: true
 ---
 
-# NEVADO DEL TOLIMA
+# NEVADO DEL TOLIMA: EL GIGANTE DE LA CORDILLERA CENTRAL
 
-En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendación para que puedas vivir mucho mejor esta aventura y que no cometas nuestros mismo errores.
+En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendaciones para que puedas vivir mucho mejor está aventura y que no cometas nuestros mismos errores.
 
-**<a href="https://wa.link/u14qrw" target="_blank" style="color:green;"> ¿Te gustaría visitar este lugar? 👉 puedes consultar excursiones grupales o privadas aquí </a>**
 
 __<a href="https://www.randes.co/products/tour-nevado-del-tolima" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
 
@@ -24,15 +23,15 @@ __<a href="https://www.randes.co/products/tour-nevado-del-tolima" style="color:m
 - <a href="#como-tolima">¿Cómo llegar al nevado del Tolima? </a>
 - <a href="#sendero-cumbre-tolima"> Ruta hasta la cumbre del nevado del Tolima </a>
 - <a href="#como-tolima"> Hospedaje cerca al nevado del Tolima </a>
-- <a href="#tour-tolima"> Recomendaición para tomar un tour al Nevado del Tolima </a>
+- <a href="#tour-tolima"> Recomendaestáción para tomar un tour al Nevado del Tolima </a>
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/quindio/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
 
 ## DATOS CURIOSOS DEL NEVADO DEL TOLIMA
 
 El Nevado del Tolima o como también es conocido; Dulima o **Volcan Nevado del Tolima**, es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
 
-Su nombre Dulima, se remonta hace más de 400 años (durante la conquista española) había una sacerdotisa llamada Ibanasca, ella era la líder de la tribu de los Dulima, la cual defendió ferozmente su tribu y territorio tras la llegada de los españoles, los cuales la acusaron de brujería y la condenaron a morir en la hoguera 🧙‍♀️.
+Su nombre Dulima, su historia se remonta a hace más de 400 años (durante la conquista española) había una sacerdotisa llamada Ibanasca, ella era la líder de la tribu de los Dulima, la cual defendió ferozmente su tribu y territorio tras la llegada de los españoles, los cuales la acusaron de brujería y la condenaron a morir en la hoguera 🧙‍♀️.
 
 Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo quemada sino que un enviado del dios fuego la cubrió para purificarla y su espíritu trascendiera para ser la diosa de las nieves que duerme en las profundidades del Nevado del Tolima, donde descansan los sabios.
 
@@ -42,7 +41,7 @@ Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo q
 
 ## VIDEO DE LA RUTA REALIZADA AL NEVADO DEL TOLIMA
 
-A continuación te mostramos un pequeño **video del Nevado del Tolima** , donde te mostraremos algunos lugares que verás en esta ruta de alta montaña del Eje Cafetero.
+A continuación te mostramos un pequeño **video del Nevado del Tolima** , donde te mostraremos algunos lugares que verás en está ruta de alta montaña del Eje Cafetero.
 
 {% include youtube.html,
     videoid:"k2pBfRDnHjU",
@@ -66,11 +65,11 @@ Si quieres más información de este tour o quieres reservar, puedes dar **<a hr
 
 Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima.
 
-La ruta que nosotros realizamos fue por Salento Quindio.
+La ruta que realizamos fue por Salento Quindio.
 
 Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, la duración del trayecto son 20 minutos.
 
-una vez llegamos al Valle del Cocora, confiezo que teniamos un poco de miedo todo lo que se venia 😅.
+Una vez llegamos al Valle del Cocora, confieso que teniamos un poco de miedo por todo lo que se venía 😅.
 
 ## RUTA HASTA LA CUMBRE DEL NEVADO DEL TOLIMA
 
@@ -98,7 +97,7 @@ caption:"Estrella de Agua",
 width:"900",
 height:"505" %}
 
-Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua, el ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano.
+Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua. El ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano.
 
 En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores.
 
@@ -116,7 +115,7 @@ En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Ad
 Una vez de haber dejado atrás Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después entrar a ver la belleza de los páramo que se funden con la vegetación del bosque.
 
 {% include image.html,
- file:"rutas/quindio/nevado-del-tolima/valleDeLosPerdidos.JPG",
+ file:"rutas/quindio/nevado-del-tolima/valle-de-los-perdidos.JPG",
  caption:"Foto paramo(valle de los perdidos)",
  width:"900",
  height:"506"
@@ -128,20 +127,22 @@ Después de 2 horas caminando por este valle nos encontraremos con la primera fi
 
 ## HOSPEDAJE CERCA AL NEVADO DEL TOLIMA
 
-Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula.
+Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula 😅.
 
 Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
 
-En esta finca podrán encontrar los siguientes servicios:
+En está finca podrán encontrar los siguientes servicios:
 
-- Habitación compartida 🛌: $30.000 pesos por persona.
-- Zona de camping 🏕:$10.000.
-- Almuerzo y cena 🍛: $12.000 pesos.
-- Desayuno 🥟: $10.000 pesos.
+- Habitación compartida 🛌: $45.000 pesos por persona.
+- Zona de camping 🏕:$20.000.
+- Almuerzo y cena 🍛: $25.000 pesos.
+- Desayuno 🥟: $15.000 pesos.
+
+Nota: si llegaras a estos hospedaje
 
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
 
-**[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuenta con la ropa adecuada para hacer esta ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]**
+**[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuentas con la ropa adecuada para hacer está ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]**
 
 ### CAMINO A LA CUMBRE DEL NEVADO DEL TOLIMA
 
@@ -151,7 +152,7 @@ Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban 
 
 Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginarán las lomitas que toca subir 😅.
 
-Al llegar a Arenales armamos nuestras carpas, el frió que hacia en este lugar era demasiado, este lugar no cuenta con fuentes de agua cercana, así que llevamos botellas plásticas con agua.
+Al llegar a Arenales armamos nuestras carpas, el frío que hacia en este lugar era demasiado, este lugar no cuenta con fuentes de agua cercana, así que llevamos botellas plásticas con agua.
 
 No olvides llevar de nuevo contigo toda la basura, ya que es triste ver en este lugar tantas botellas plásticas 🥲.
 
@@ -173,7 +174,7 @@ height:"800" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/ssc_roll/"  target="_blank"> @ssc_roll </a> </span>**
 
-En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargo muy rápido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino, para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
+En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargó muy rápido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino, para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
 
 **TRAMO DE ROCAS:** Después pasamos a subir por unas rocas, las cuales por la lluvia estaban resbaladizas así que el guía ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
 
@@ -212,11 +213,11 @@ height:"804" %}
 - Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
 - Revisa bien tu equipo de montaña; Crampones, piolet, casco y arnés.
 
-Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje, y salimos a las a las 12 pm de nuevo para la finca la playa donde pasaríamos la noche.
+Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje, y salimos a las 12 pm de nuevo para la finca la playa donde pasaríamos la noche.
 
 ### DÍA #4
 
-Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que esta fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
+Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que está fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
 
 Este es el fin de la ruta al Nevado del Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
 
