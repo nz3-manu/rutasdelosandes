@@ -1,6 +1,6 @@
 ---
 layout: trail
-title: "Nevado del Cocuy: Guía completa y rutas 2026"
+title: "Nevado del Cocuy | Guía completa"
 categories: colombia
 seo_title: "Nevado del Cocuy: Tour, cómo llegar y recomendaciones 2026"
 excerpt: "Planifica tu visita al Nevado del Cocuy con nuestra guía experta. Aprende cómo evitar contratiempos logísticos, conoce las rutas, el clima y los requisitos para este paraíso de montaña."
