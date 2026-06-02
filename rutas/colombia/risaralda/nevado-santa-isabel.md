@@ -1,6 +1,6 @@
 ---
 layout: trail
-title: Nevado Santa Isabel
+title: Nevado Santa Isabel | Guía completa
 categories: colombia
 seo_title: Nevado Santa Isabel| Guía Completa de Ascenso, Tours y Precios 2026
 Excerpt: ¿Quieres subir al Nevado Santa Isabel? Te explicamos cómo llegar, cuánto cuesta el tour, equipo necesario y consejos de expertos para hacer cumbre de forma segura en 2026
@@ -72,7 +72,7 @@ Como nos gusta decir en Rutas de Los Andes, este lugar no es solo una montaña; 
 ## TOURS AL NEVADO SANTA ISABEL 🧳
 
 
-Lo que debes saber es que para ir a este nevado, Parques Nacionales cuenta con un cupo limitado para visitar este lugar por días, así que  te aconsejamos hacer la **reservación del tour** con anticipación.
+Lo que debes saber es que para ir a este nevado, Parques Nacionales cuenta con un cupo limitado para visitar este lugar por días, te aconsejamos realizar tu reserva con anticipación.
 
 
 El precio para hacer cumbre al nevado Santa Isabel, puede variar entre $1'150.000 COP a $1'850.000 COP (Valor por persona), este valor depende del numero de personas que vayan.
@@ -173,7 +173,7 @@ Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la
 ## HOSPEDAJE EN EL NEVADO SANTA ISABEL 🛌
 
 
-<ins>Lo que debes de saber es que el único **hospedaje cerca al nevado Santa Isabel** es el Centro de Visitantes el Cisne, el cual solo se puede ingresas si vas con un guía certificado por parques Nacionales y además si tienes reserva previa, ya que este lugar cuenta con un número limitado de camas.</ins>
+<ins>Lo que debes de saber es que el único **hospedaje cerca al nevado Santa Isabel** es el Centro de Visitantes el Cisne, el cual solo se puede ingresas si vas con un guía certificado por Parques Nacionales y además si tienes reserva previa, ya que este lugar cuenta con un número limitado de camas.</ins>
 
 
 {% include image.html,

@@ -1,6 +1,6 @@
 ---
 layout: trail
-title: "Laguna del Otún | Guía completa y cómo llegar"
+title: "Laguna del Otún| Guía completa"
 categories: colombia
 seo_title: "Laguna del Otún: Cómo llegar, precios y recomendaciones"
 excerpt: "Descubre la Laguna del Otún. Guía experta sobre cómo llegar desde Pereira, opciones de tour, precios de entrada y consejos para evitar el mal de altura."
