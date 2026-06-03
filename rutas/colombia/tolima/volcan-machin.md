@@ -16,10 +16,10 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 
 **🌋 <a href="https://www.randes.co/collections/la-carbonera-volcan-machin" style="color:green;" target="_blank"> Puedes conocer diferentes planes dando clic aquí. 👈 </a>**
 
-
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-- <a href="#video-volcan-machin"> Vídeo de la ruta al Volcán Machín</a>
+- <a href="#video-volcan-machin"> Video de la ruta Volcán Machín</a>
+- <a href="#dato-curioso-machin"> Dato curioso del Volcán Machín</a>
 - <a href="#llegar-volcan-machin"> ¿Cómo llegar al Volcán Machín? </a>
 - <a href="#lugares-volcan-machin"> Lugares visitados en la ruta al Volcán Machín </a>
 - <a href="#tours-volcan-machin"> Tours disponibles en esta zona</a>
@@ -29,9 +29,41 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 Empecemos con la aventura ⛰.
 
 **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/tolima/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
-<a name="dato-prado-tolima" id="dato-prado-tolima"></a>
 
-## DATO CURIOSO DEL VOLCÁN MACHÍN
+---
+
+<a name="video-volcan-machin" id="video-volcan-machin"></a>
+
+## VIDEO DE LA RUTA AL VOLCAN MACHIN 🎥
+
+A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
+
+{% include youtube.html
+videoid:"-CbhegdpsX8",
+width:"480", 
+height:"270",
+Caption:"video de la ruta al volcan Machin"
+%}
+
+Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Video de la ruta al Volcan Machin",
+  "description": "Pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.",
+  "thumbnailUrl": "https://img.youtube.com/vi/-CbhegdpsX8/maxresdefault.jpg",
+  "uploadDate": "2026-03-01",
+  "embedUrl": "https://www.youtube.com/embed/-CbhegdpsX8"
+}
+</script>
+
+---
+
+<a name="dato-curioso-machin" id="dato-curioso-machin"></a>
+
+## DATO CURIOSO DEL VOLCÁN MACHÍN 🤓
 
 __El Secreto del Gigante Joven:__ Al ser el volcán más joven de la cordillera (comparado con el Ruiz y el Tolima), el Machín se encuentra en una etapa geológica temprana, lo que explica su temperamento altamente inestable y explosivo.
 
@@ -49,20 +81,7 @@ width:"1000",
 height:"300" %}
 </a> 
 
-<a name="video-volcan-machin" id="video-volcan-machin"></a>
-
-## VIDEO DE LA RUTA AL VOLCAN MACHIN 🎥
-
-A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
-
-{% include youtube.html
-videoid:"-CbhegdpsX8",
-width:"480", 
-height:"270",
-Caption:"video de la ruta al volcan Machin"
-%}
-
-Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+---
 
 <a name="llegar-volcan-machin" id="llegar-volcan-machin"></a>
 
@@ -76,6 +95,8 @@ Lo primero que debimos hacer fue llegar a Toche (Tolima). Nosotros elegimos la r
 Un consejo por experiencia: Todo el recorrido desde Salento es destapado. Si ha llovido mucho los días anteriores, la carretera se pone bastante complicada y pesada para transitar, ¡así que viajen con cuidado!
 
 __Nota:__ _En Toche no van a encontrar cajeros automáticos, corresponsales bancarios ni grandes supermercados, solo tiendas locales muy básicas. Lleven suficiente dinero en efectivo._
+
+---
 
 <a name="lugares-volcan-machin" id="lugares-volcan-machin"></a>
 
@@ -112,7 +133,6 @@ width:"1200",
 height:"900"
 %}
 
-
 ### -> CRATER DEL VOLCAN MACHIN
 
 Una vez salimos de la carbonera continuamos unos 14 kilómetros hasta llegar a Toche. Allí tomamos la vía en ascenso durante 10.6 kilómetros hasta encontrar un cruce de dos caminos (ver mapa); seguimos por la izquierda unos 3.1 kilómetros para llegar a la finca que queda en el cráter del volcán Machín.
@@ -134,7 +154,6 @@ __Recomendación:__ _En esta finca ofrecen zona de camping, pero ten en cuenta q
 
 
 ### -> FUMAROLAS
-
 
 Para subir a las fumarolas caminamos desde donde dejamos las motos. En total es un recorrido corto pero muy exigente, todo en ascenso, con partes de mucha inclinación y presencia de lodo (pantano) ya que había llovido recientemente.
 
@@ -174,6 +193,8 @@ width:"600",
 height:"800"
 %}
 
+---
+
 <a name="tours-volcan-machin" id="tours-volcan-machin"></a>
 
 ## TOURS DISPONIBLES EN ESTA ZONA 🌋
@@ -209,6 +230,8 @@ __INCLUYE:__
 👉 <a href="https://www.randes.co/products/tour-bosque-palmas-la-carbonera" style="color: maroon;" target="_blank"> Clic aquí para ver información de este Tour</a>
 
 __⚠️ Importante:__ _Si estás pensando en hacer esta ruta por tu cuenta y no tienes un vehículo 4x4, debes saber que la carretera tiene tramos bastante difíciles y exigentes._
+
+---
 
 <a name="hospedaje-volcan-machin" id="hospedaje-volcan-machin"></a>
 
@@ -263,6 +286,8 @@ height:"675"
 
 
 👉 **<a href="https://wa.link/21fqkv" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
+
+---
 
 <a name="recomendaciones-volcan-machin" id="recomendaciones-volcan-machin"></a>
 
