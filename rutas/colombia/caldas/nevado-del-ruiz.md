@@ -13,13 +13,17 @@ trending: true
 # NEVADO DEL RUIZ
 
 
-El Nevado del Ruiz o conocido también como __volcán Nevado del Ruiz__,es un volcán activo desde 2010. Se encuentra en la cordillera Central de los Andes, en el Complejo Volcánico Norte, y es jurisdicción de los departamentos de Tolima, Caldas, Risaralda y Quindío, el cual abarca una extensión de 58.300 hectáreas y alturas que oscilan entre los 2600 m.s.n.m hasta los 5231 m.s.n.m. 
+Este post no es la típica enciclopedia aburrida (aunque si quieres ver datos técnicos puedes ver la sección de datos curiosos 🤓); aquí vas a encontrar una recopilación real con los mejores tips, recomendaciones y secretos compartidos por viajeros, agencias aliadas y habitantes locales de la zona. 
 
+Si estás planeando tu viaje, aquí te mostraremos todo lo que necesitas saber para vivir esta aventura sin contratiempos: precios de ingreso actualizados, hospedajes recomendados, cómo es la ruta y consejos clave de seguridad.
 
-El Parque Nacional Natural los Nevados contribuye a la protección de _ecosistemas_ de bosque alto-andino,humedales, _páramos y glaciares_. Aquí te mostraremos lo que necesitas saber para conocer este hermoso lugar, podrás ver el precio de los ingresos y hospedajes cerca del nevado.
-
-__<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
-
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-nevado-del-ruiz" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -34,7 +38,37 @@ Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/caldas/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
 
+<a name="video-ruiz" id="video-ruiz"></a>
+
+---
+
+## VIDEO DE LA RUTA EN EL NEVADO DEL RUIZ
+A continuación te mostraremos un video en el cual podrás ver como fue nuestro recorrido hacia el nevado del Ruiz.
+{% include youtube.html
+ videoid:"1fVmDl0oiFE",
+ width:"480",
+ height:"270",
+ caption:"Vide: Ruta en el Nevado del Ruiz"
+%}
+
+Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Video de la ruta en el Nevado del Ruiz",
+  "description": "Video en el cual podrás ver como fue nuestro recorrido y guía de viaje hacia el Nevado del Ruiz.",
+  "thumbnailUrl": "https://img.youtube.com/vi/1fVmDl0oiFE/maxresdefault.jpg",
+  "uploadDate": "2026-06-03",
+  "embedUrl": "https://www.youtube.com/embed/1fVmDl0oiFE"
+}
+</script>
+
+
 <a name="dato-ruiz" id="dato-ruiz"></a>
+
+---
 
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
 
@@ -48,25 +82,11 @@ Además de su gran belleza, es conocido por el acontecimiento que ocurrió el  3
 
 
 Actualmente el volcán __Nevado del Ruiz se encuentra en alerta amarilla.__
-<a name="video-ruiz" id="video-ruiz"></a>
 
-
-## VIDEO DE LA RUTA EN EL NEVADO DEL RUIZ
-
-
-A continuación te mostraremos un video en el cual podrás ver como fue nuestro recorrido hacia el nevado del Ruiz.
-
-
-{% include youtube.html
- videoid:"1fVmDl0oiFE",
- width:"480",
- height:"270",
- caption:"Vide: Ruta en el Nevado del Ruiz"
-%}
-
-Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 <a name="llegar-ruiz" id="llegar-ruiz"></a>
+
+---
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL RUIZ 🚙?
 
@@ -141,6 +161,8 @@ height:"200"
 
 <a name="sendero-ruiz" id="sendero-ruiz"></a>
 
+---
+
 ## SENDERO DENTRO DEL NEVADO DEL RUIZ 🚗
 
 
@@ -198,6 +220,8 @@ Este es el último punto al que se puede acceder, ya que por la alerta amarilla 
 
 <a name="hospedaje-ruiz" id="hospedaje-ruiz"></a>
 
+---
+
 ## HOSPEDAJE CERCA AL NEVADO DEL RUIZ 🏨
 
 Los hospedajes que encontrarás en el recorrido hacia el Nevado del Ruiz son limitados y además __debés de saber que no se permite acampar dentro de esta área protegida.__
@@ -252,8 +276,6 @@ height:"727"
 
  👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking </a>
 
-<a name="recomendaciones-sifon" id="recomendaciones-sifon"></a>
-
 
 ### -> MÁS OPCIONES DE HOSPEDAJES EN (MANIZALES)
 
@@ -263,6 +285,8 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 
 
 <a name="tour-ruiz" id="tour-ruiz"></a>
+
+---
 
 ## TOURS AL NEVADO DEL RUIZ 🧳
 
@@ -282,6 +306,8 @@ Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://www
 
 <a name="recomendaciones-finales" id="recomendaciones-finales"></a>
 
+---
+
 ## 💡 RECOMENDACIONES FINALES PARA TU VISITA AL NEVADO DEL RUIZ
 
 Para que tu aventura sea todo un éxito y evites contratiempos, ten en cuenta estos consejos clave de experto:
@@ -293,7 +319,7 @@ Para que tu aventura sea todo un éxito y evites contratiempos, ten en cuenta es
 *   **🏔️ ¿Necesitas ayuda con tu expedición?:** Si prefieres ir con profesionales que se encarguen de la logística, los permisos y el transporte seguro, puedes consultar nuestras salidas aquí:
     👉 <a href="https://www.randes.co/products/tour-nevado-del-ruiz" target="_blank">**Agencia de viajes: Tour al Nevado del Ruiz**</a>
 
-
+---
 
 ## OTRAS RUTAS DE SENDERISMO EN MANIZALES
 
@@ -301,7 +327,6 @@ Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfru
 
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
 * __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Nevado Santa Isabel</a>__
-
 
 
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

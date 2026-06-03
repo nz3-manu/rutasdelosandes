@@ -18,7 +18,15 @@ Si estás leyendo este post, seguramente es porque ya tienes en mente conocerlos
 
 En este blog te vamos a aclarar todas estas dudas y, además, en cada sección encontrarás recomendaciones prácticas que te servirán para planear tu viaje. También queremos compartirte nuestra experiencia personal, para que tengas una idea real de cómo se vive la aventura en los Cerros de Mavicure. 🌿⛰️
 
-__<a href="https://wa.link/3g0r7v" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
+
+
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/collections/tours-a-mavicure" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 __EN ESTE POST ENCONTRARÁS LAS SIGUIENTES SECCIONES:__
 
@@ -34,32 +42,10 @@ Empecemos con la aventura ⛰.
 
 __[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/guainia/cerros-de-mavicure.html">See this post in English version 🇺🇸</a>]__
 
-<a name="dato-curioso-mavicure" id="dato-curioso-mavicure"></a>
-
-## DATOS CURIOSOS 📚
-
-Aquí, en esta sección, te compartiremos información recolectada por la comunidad y respaldada en textos científicos acerca de los Cerros de Mavicure. Para explicar mejor algunos aspectos, te daremos una pequeña clase sobre placas tectónicas, ya que no queremos que pienses que estas montañas son solo grandes rocas: en realidad, encierran una historia geológica muy antigua y fascinante.
-
-### -> CERROS DE MAVICURE
-
-Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás que es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
-EL
-Te preguntarás, si toda la tierra tiene la misma edad _¿porque hay montañas más antiguas que otras?_ 
-Pensemos en una olla con agua caliente: la base se calienta y hace que el agua más caliente suba a la superficie, mientras que la más fría baja. Algo parecido ocurre en el interior de la Tierra, donde el calor interno hace que las rocas y otros materiales se muevan lentamente, como si estuvieran semi-derretidos: los más calientes ascienden y los más fríos descienden, generando un proceso llamado convección. En este video puedes ver cómo, al calentarse, el material interno genera corrientes que desplazan la superficie. Lo mismo ocurre con las placas tectónicas de la litosfera.
-
-
-__¿Te preguntarás que pasa si 2 placas tectónicas chocan entre sí?__  Eso ocurrió en la cordillera de los Andes, que empezó a formarse hace unos 200 millones de años, aunque su mayor crecimiento se dio en los últimos 65 millones de años. Nació del choque entre la placa de Nazca (oceánica), que se hunde bajo la placa Sudamericana (continental), y que todavía hoy sigue empujando la cordillera hacia arriba.
-
-Hace 335 millones de años existía un continente el cual se llamaba Pangea, este continente se fracturó por la fuerza que ejercían las placas tectónicas y se fue desplazando a los continentes que conocemos hoy. Como último dato, el Escudo Guayanés(que comprende parte de Colombia, Venezuela, Guyana y Brasil) por ser una estructura tan resistente, este no se partió, sino que se vino completo para el continente de las Américas.
-
-### -> PRINCESA INIRIDA
-
-La leyenda cuenta que había una joven de gran belleza llamada Inírida, tan hermosa como difícil de conquistar. Un hombre, obsesionado con ella, pidió consejo a un sabedor (guía espiritual de la comunidad), quien le recomendó preparar una pusana (poción de amor elaborada con plantas).
-
-Sin embargo, al darle esta bebida, nada salió como esperaba: Inírida comenzó a sufrir intensos dolores y a sentir una atracción misteriosa que la llamaba desde la selva. Caminó hasta llegar al Cerro Pajarito, donde experimentó una paz indescriptible. Entonces, la montaña se abrió para recibirla y, desde ese día, dicen que Inírida habita en su interior como diosa protectora. Aún hoy puede verse en la roca la “ventana” por donde entró, desde donde vigila y cuida estas tierras.
-
 
 <a name="video-mavicure" id="video-mavicure"></a>
+
+---
 
 ## VIDEO DE LA RUTA A LOS CERROS DE MAVICURE  🎥
 
@@ -72,11 +58,50 @@ height:"270",
 caption:"Vide: Ruta a los cerros de Mavicure"
 %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Cerros de mavicure",
+  "description": "Video en el cual te mostramos cómo fue nuestro viaje por Inírida con recomendaciones prácticas.",
+  "thumbnailUrl": "https://img.youtube.com/vi/H3WtqNRPw6E/maxresdefault.jpg",
+  "uploadDate": "2025-10-05",
+  "duration": "PT9M42S",
+  "embedUrl": "https://www.youtube.com/embed/H3WtqNRPw6E"
+}
+</script>
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+<a name="dato-curioso-mavicure" id="dato-curioso-mavicure"></a>
+
+---
+
+## DATOS CURIOSOS 📚
+
+Aquí, en esta sección, te compartiremos información recolectada por la comunidad y respaldada en textos científicos acerca de los Cerros de Mavicure. Para explicar mejor algunos aspectos, te daremos una pequeña clase sobre placas tectónicas, ya que no queremos que pienses que estas montañas son solo grandes rocas: en realidad, encierran una historia geológica muy antigua y fascinante.
+
+### -> CERROS DE MAVICURE
+
+Los cerros de Mavicure forman parte del Escudo Guayanés, ¿te preguntarás que es eso? Son algunas de las estructuras geológicas más antiguas de la Tierra, las cuales __cuentan con más de 1.700 millones de años.__ Son más viejos que la cordillera de los Andes.
+EL
+Te preguntarás, si toda la tierra tiene la misma edad _¿porque hay montañas más antiguas que otras?_ 
+Pensemos en una olla con agua caliente: la base se calienta y hace que el agua más caliente suba a la superficie, mientras que la más fría baja. Algo parecido ocurre en el interior de la Tierra, donde el calor interno hace que las rocas y otros materiales se muevan lentamente, como si estuvieran semi-derretidos: los más calientes ascienden y los más fríos descienden, generando un proceso llamado convección. En este video puedes ver cómo, al calentarse, el material interno genera corrientes que desplazan la superficie. Lo mismo ocurre con las placas tectónicas de la litosfera.
+
+__¿Te preguntarás que pasa si 2 placas tectónicas chocan entre sí?__  Eso ocurrió en la cordillera de los Andes, que empezó a formarse hace unos 200 millones de años, aunque su mayor crecimiento se dio en los últimos 65 millones de años. Nació del choque entre la placa de Nazca (oceánica), que se hunde bajo la placa Sudamericana (continental), y que todavía hoy sigue empujando la cordillera hacia arriba.
+
+Hace 335 millones de años existía un continente el cual se llamaba Pangea, este continente se fracturó por la fuerza que ejercían las placas tectónicas y se fue desplazando a los continentes que conocemos hoy. Como último dato, el Escudo Guayanés(que comprende parte de Colombia, Venezuela, Guyana y Brasil) por ser una estructura tan resistente, este no se partió, sino que se vino completo para el continente de las Américas.
+
+### -> PRINCESA INIRIDA
+
+La leyenda cuenta que había una joven de gran belleza llamada Inírida, tan hermosa como difícil de conquistar. Un hombre, obsesionado con ella, pidió consejo a un sabedor (guía espiritual de la comunidad), quien le recomendó preparar una pusana (poción de amor elaborada con plantas).
+
+Sin embargo, al darle esta bebida, nada salió como esperaba: Inírida comenzó a sufrir intensos dolores y a sentir una atracción misteriosa que la llamaba desde la selva. Caminó hasta llegar al Cerro Pajarito, donde experimentó una paz indescriptible. Entonces, la montaña se abrió para recibirla y, desde ese día, dicen que Inírida habita en su interior como diosa protectora. Aún hoy puede verse en la roca la “ventana” por donde entró, desde donde vigila y cuida estas tierras.
+
 
 <a name="llegar-mavicure" id="llegar-mavicure"></a>
+
+---
 
 ## ¿CÓMO LLEGAR A LOS CERROS DE MAVICURE ✈️?
 
@@ -238,7 +263,6 @@ height:"666"
 __RECOMENDACIÓN:__ 
 - _Allí no hay señal telefónica de Movistar, Claro ni Tigo. Si viajas entre semana, únicamente encontrarás a la venta gaseosas, papas fritas y productos básicos. En cambio, si vas un fin de semana, es posible que ofrezcan almuerzos, pero ten en cuenta que solo reciben pagos en efectivo._
 - _Si eres extranjero, mejor visita estos lugares con alguien de la zona 😉. Así te evitas que te cobren de más por el transporte o el recorrido para entrar._
-- _Mientras disfrutas del baño en estas aguas, cuida tus objetos personales. A nosotros se nos cayó la cámara al agua y, aunque un niño la rescató, quedó grabado que primero la escondió 🙈. Lo importante es que apareció… ¡y la intención cuenta!_ 😅
 
 ### COMUNIDAD EL PAUJIL (ALGUNAS AGENCIAS NO VAN A ESTE LUGAR)
 
@@ -254,6 +278,8 @@ height:"1600"
 __NOTA:__ _nosotros compramos algunos de estos productos como Ají picante en polvo, para traer como presentes, pero en el aeropuerto no nos lo dejaron pasar, en el equipaje de mano ni de bodega, para que los tengas en cuenta_
 
 <a name="tour-mavicure" id="tour-mavicure"></a>
+
+---
 
 ## TOURS DISPONIBLES 🧳
 
@@ -311,6 +337,7 @@ Si quisieres ver más al detalle este tour o reservar __<a href="https://www.ran
 
 <a name="hospedaje-mavicure" id="hospedaje-mavicure"></a>
 
+---
 
 ## HOSPEDAJES DISPONIBLES 🛏️
 
@@ -339,6 +366,8 @@ Aquí te mostramos las instalaciones del Hospedaje El Venado, aunque creemos que
 __RECOMENDACIÓN:__ _Estos hospedajes están ubicados a una hora y media del pueblo de Inírida. En temporada alta es mejor hacer la reserva con anticipación. Ellos no cuentan con comida lista para la venta; por lo general, las agencias llevan los alimentos y las comunidades se encargan de prepararlos._
 
 <a name="recomendacion-mavicure" id="recomendacion-mavicure"></a>
+
+---
 
 ## RECOMENDACIONES FINALES: PLANEA TU VIAJE A MAVICURE 🏅
 

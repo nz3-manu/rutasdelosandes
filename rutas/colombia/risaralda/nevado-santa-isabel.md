@@ -14,10 +14,16 @@ trending: true
 # NEVADO SANTA ISABEL
 
 
-El Nevado Santa Isabel es la cumbre de nieve más accesible de Colombia. En esta guía detallada de Rutas de Los Andes, te enseñamos todo lo necesario para organizar tu expedición: rutas de acceso, precios de tours, equipo técnico recomendado y cómo reservar tu cupo para visitar este ecosistema único antes de que su glaciar retroceda.
+El Nevado Santa Isabel es la cumbre de nieve más accesible de Colombia. En esta guía detallada de Rutas de Los Andes, te mostramos cómo fue nuestra experiencia y también algunos errores que suelen cometer los turistas al viajar a esta zona. Son fallos que nos contaron diferentes agencias de la región. 😉 ¡Aquí te aclaramos todas tus dudas!
 
 
-👉 **<a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" style="color:green;" target="_blank"> Clic aquí para ver información del tour al Nevado Santa Isabel 🗻.</a>**
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-nevado-santa-isabel-cumbre" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
