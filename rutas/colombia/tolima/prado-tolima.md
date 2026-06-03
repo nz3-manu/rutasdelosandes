@@ -2,7 +2,7 @@
 layout: trail
 title: Represa De Prado Tolima
 categories: colombia
-seo_title: Guía completa de la Represa de Prado 2024
+seo_title: Guía completa de la Represa de Prado 2026
 excerpt: Guía completa para visitar la Represa de Prado en el Tolima, conoce tours, hospedajes y transporte desde Medellin, cali, bogota y ibague.
 images_url: /images/rutas/tolima/represa-prado
 viewranger: MTYzNjQxOQ==

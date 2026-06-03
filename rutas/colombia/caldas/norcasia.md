@@ -1,17 +1,17 @@
 ---
 layout: trail
-title: Norcasia
-categories: colombia
-seo_title: Norcasia y Río la Miel Guía | Actualizada 2024
-excerpt: Norcasia es conocido por el Río la Miel y el embalse de Amaní, descubre dónde hospedarte  y lugares para visitar en Norcasia-caldas.
-images_url: /images/rutas/caldas/norcasia
-viewranger: MTY2NDcwMQ==
-author: manuel
+title: "Norcasia"
+categories: "colombia"
+seo_title: "Guía Completa 2026: Cómo llegar y qué hacer"
+excerpt: "¿Planeas viajar a Norcasia? Descubre los mejores tours al Río La Miel, Embalse Amaní, dónde hospedarte y consejos locales para disfrutar la 'Niña de Caldas'"
+images_url: "/images/rutas/caldas/norcasia"
+viewranger: "MTY2NDcwMQ=="
+author: "manuel"
 trending: true
 ---
  
 # NORCASIA
- 
+ a
 En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasia, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros.
  
 Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
@@ -22,12 +22,12 @@ Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares
  
 - <a href="#dato-norcasia"> Datos curiosos de Norcasia</a>
 - <a href="#tour-norcasia"> Tours a Norcasia </a>
-- <a href="#llegar-nocasia"> ¿Cómo llegar a Norcasia? </a>
+- <a href="#llegar-norcasia"> ¿Cómo llegar a Norcasia? </a>
 - <a href="#lugares-norcasia"> Lugares turísticos en Norcasia</a>
 - <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#recomendaciones-norcasia"> Recomendaciones finales para visitar Norcasia</a>
  
-<a name="dato-norcasia" id="dato-norcasia"></a>
+ <a name="dato-norcasia"></a>
  
 ## DATOS CURIOSOS DE NORCASIA
  
@@ -49,8 +49,8 @@ A Continuación te mostramos un pequeño video de Norcasia de los lugares turís
 %}
  
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
- 
-<a name="tour-norcasia" id="tour-norcasia"></a>
+
+<a name="tour-norcasia"></a>
  
 ## TOURS EN NORCASIA 🛶
  
@@ -58,15 +58,14 @@ En Norcasia podrás encontrar diferentes tipos de **planes turísticos al embals
  
 - **Pasadía:**   <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-pasadia">Más información</a>
 - **2 días y 1 noche:** <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-2-dias-1-noche">Más información</a>
-- **3 días y 2 días:**  <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-3-dias-2-noches">Más información</a> 
+- **3 días y 2 noches:**  <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-3-dias-2-noches">Más información</a> 
  
 **Los tours de 2 días o más a Norcasia incluyen:** 🥨 desayuno, 🍝 almuerzo, 🍲 comida y 🛌 hospedaje.
  
 👉 **<a href="https://www.randes.co/collections/zonas-tropicales" style="color:green;" target="_blank">  Ver más información del tour a Norcasia y río la Miel </a>.**
 
 
- 
-<a name="llegar-nocasia" id="llegar-nocasia"></a>
+ <a name="llegar-norcasia"></a>
  
 ## ¿CÓMO LLEGAR A NORCASIA?
  
@@ -96,25 +95,22 @@ width:"480",
 height:"200" %}
 </a>
  
-Como nosotros no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos a la Dorada Caldas, donde allí debimos tomar otro bus con destino a Norcasia, este bus tardó alrededor de 1 hora y 30 minutos, el pasaje tuvo un costo de $13.000 pesos, además de eso, también podrás encontrar algunos taxis que van hasta Norcasia.
+Como no alcanzamos a tomar el bus directo a Norcasia desde Manizales, llegamos primero a La Dorada, Caldas. Allí tomamos otro bus hacia nuestro destino, el cual tardó cerca de una hora y media y tuvo un costo de $18.000. También es posible contratar taxis desde allí si prefieres mayor comodidad.
+
+Al llegar a Norcasia, nos esperaba una persona de la agencia que nos llevó directamente al hospedaje. Durante el trayecto, notamos que el parque principal está rodeado de hoteles, así que encontrarás muchas alternativas que se ajustan a cualquier presupuesto.
+
+Después de descansar un poco, salimos a buscar un restaurante vegetariano para mi amiga, quien ya empezaba a ponerse de mal humor 😅 debido a la falta de opciones en las paradas del bus. Por fortuna, encontramos un local al lado de la iglesia llamado “El Sabor Norcaseño”, donde la dueña fue muy amable y no tuvo problema en prepararle un plato especial. Tras una rica cena, nos fuimos a descansar para recargar energías, pues al día siguiente empezaba nuestro tour.
  
-Una vez llegamos a Norcasia nos estaba esperando una persona de la agencia de viajes, la cual nos condujo hasta nuestro hospedaje. Mientras íbamos camino al hospedaje, pudimos ver que en el parque principal de Norcasia, hay muchos hoteles, por lo que tienes muchas opciones de hospedarte, además, tienes muchas opciones que se pueden ajustar a tu presupuesto de viaje.
- 
-Aprovechamos un poco para descansar y después salimos a buscar un restaurante vegetariano para mi amiga que por cierto ya se estaba poniendo de mal humor 😅, ya que en las paradas que hizo el bus no encontramos comida vegetariana, por fortuna nos encontramos un restaurante al lado de la iglesia en el cual la dueña no tuvo problema en prepararle una comida a nuestra amiga, el nombre de este restaurante es **“El Sabor Norcaseño”**
- 
-Después de una rica cena, nos fuimos a descansar, ya que al siguiente día empezaba nuestro tour de 2 días y una noche.
  
 <ins> **INFORMACIÓN IMPORTANTE:** </ins>
  
 - _Algo que debes de tener en cuenta es que no hay servicio de Movistar así que si eres de este operador no podrás usar los datos de tu celular debido a la baja cobertura que hay en la zona._
 - _Debes saber que es un pueblo pequeño, así que si no llevas dinero será casi imposible encontrar corresponsales bancarios o cajeros._
--  _Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río_
 
  
 Ahora, vamos a compartir algunas opciones de alojamiento disponibles en Norcasia en caso de que tengas algún problema con tu alojamiento.
  
- 
-<a name="lugares-norcasia" id="lugares-norcasia"></a>
+<a name="lugares-norcasia"></a>
  
 ## LUGARES TURÍSTICOS EN NORCASIA CALDAS 🛵🚤
  
@@ -128,11 +124,11 @@ El recorrido tardó aproximadamente 40 minutos, de los cuales 10 minutos fue sob
  
 Llegamos a un lugar donde se encuentra la garrucha, allí nos esperaban las lanchas, para comenzar la primera actividad la cual era nadar 7 kilómetros por el **río la Miel**, después de nadar por cerca de 4 kilómetros ya se podía sentir el cansancio en los brazos 😅.
 
-__RECOMENDACIÓN:__ __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando esta actividad.__
  
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-la-miel.jpg",
  caption:"Foto: Río la Miel en Norcasia",
+ alt:"Río La Miel, Norcasia Caldas paraíso natural",
  width:"1200",
  height:"674"
 %}
@@ -144,6 +140,7 @@ Después de un merecido descanso, fuimos de nuevo en las lanchas al punto inicia
 {% include image.html,
  file:"rutas/caldas/norcasia/cascada-la-clara.jpeg",
  caption:"Cascada la Clara",
+ alt:"Cascada la Clara, Norcasia Caldas paraíso natural",
  width:"819",
  height:"1024"
 %}
@@ -165,6 +162,7 @@ El recorrido por este embalse fue una experiencia realmente mágica, estar naveg
 {% include image.html,
  file:"rutas/caldas/norcasia/represa.jpg",
  caption:"Represa del embalse de Amaní",
+ alt:"Represa del embalse, Norcasia Caldas paraíso natural",
  width:"1076",
  height:"1076"
 %}
@@ -182,6 +180,7 @@ Allí podrás encontrar restaurante o también comida de algunos pobladores que 
 {% include image.html,
  file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
  caption:"Mirador del Embalse de Amaní",
+ alt:"Mirador del Embalse, Norcasia Caldas paraíso natural",
  width:"1200",
  height:"674"
 %}
@@ -196,6 +195,7 @@ Este es un río que se caracteriza por sus aguas cristalinas, los carros nos dej
 {% include image.html,
  file:"rutas/caldas/norcasia/rio-manso.jpg",
  caption:"Río Manso",
+ alt:"Río Manso, Norcasia Caldas paraíso natural",
  width:"1200",
  height:"674"
 %}
@@ -213,14 +213,15 @@ Este fue el último lugar que visitamos, nos llevaron en los carros hasta el par
 {% include image.html,
  file:"rutas/caldas/norcasia/cañon-rio-miel.jpg",
  caption:"Foto: cañón Río la Miel en Norcasia",
+ alt:"Cañon Río la Miel, Norcasia Caldas paraíso natural",
  width:"1440",
  height:"1800"
 %}
  
 **<span class="advise"> Foto por: Victor </span>**
 
-<a name="hospedaje-norcasia" id="hospedaje-norcasia"></a>
- 
+<a name="hospedaje-norcasia"></a>
+
 ## HOSPEDAJE EN NORCASIA 🛌
  
 Aquí te mostraremos las mejores de opciones de hospedaje, nos basamos en las recomendaciones de viajeros que visitaron norcasia y de la puntuación de estos en la plataforma de Booking, nosotros siempre usamos esta plataforma ya que es una forma segura para hacer reservas de alojamientos.
@@ -239,31 +240,13 @@ Este complejo está ubicado en un entorno natural y tranquilo y dispone baño pr
 {% include image.html,
 file:"rutas/caldas/norcasia/hospedaje/ecohotel-campo.jpg",
 caption:"Foto: Ecohotel en norcasia",
+alt:"Ecohotel en norcasia, Norcasia Caldas paraíso natural",
 width:"900",
 height:"514"
 %}
 </a>
 
  👉 <a href= "https://www.booking.com/hotel/co/cabanas-campo-alegre.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
-
-
-### -> ECOHOTEL CAMPO ALEGRE
-
-Se encuentra ubicado en el centro de Norcasia, este alojamiento ofrece: parking privado gratis, wifi gratis y acceso a un balcón.
-
-El apartamento de 3 dormitorios tiene sala de estar con TV de pantalla plana por cable y reproductor de Blu-ray, y cocina totalmente equipada con nevera. Hay toallas y ropa de cama en el apartamento.
-
-
-<a href="https://www.booking.com/hotel/co/comoda-casa-en-sector-tranquilo-cerca-al-parque-casa-agradable-para-disfrutar-co.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/caldas/norcasia/hospedaje/casa-central.jpg",
-caption:"Foto: casa hotel en norcasia, 1 piso y 2 piso",
-width:"900",
-height:"514"
-%}
-</a>
-
- 👉 <a href= "https://www.booking.com/hotel/co/comoda-casa-en-sector-tranquilo-cerca-al-parque-casa-agradable-para-disfrutar-co.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
 
 
 ### -> HOTEL CASA DE TEJA
@@ -277,6 +260,7 @@ También hay un jardín ideal para relajarse.
 {% include image.html,
 file:"rutas/caldas/norcasia/hospedaje/casa-hotel.jpg",
 caption:"Foto: Casa hotel en norcasia",
+alt:" Casa hotel en norcasia,  Norcasia Caldas paraíso natural",
 width:"1644",
 height:"698"
 %}
@@ -285,8 +269,7 @@ height:"698"
  👉 <a href= "https://www.booking.com/hotel/co/casa-de-teja-norcasia.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
 
  
- 
-<a name="recomendaciones-norcasia" id="recomendaciones-norcasia"></a>
+<a name="recomendaciones-norcasia"></a>
 
 ### RECOMENDACIONES FINALES PARA VISITAR NORCASIA
 
@@ -302,7 +285,7 @@ En Norcasia la temperatura promedio ronda los 20 a 29 grados centígrados, adem�
 - 🩱 Llevar traje de baño o ropa de cambio, ya que se van a mojar.
 - 👕 Lleva ropa de secado rápido, recuerda que esta es una zona tropical húmeda.
 - 🦟 Se recomienda buzos de manga larga para cubrirte del sol y de los mosquitos, al igual que sombreros.
-* - __Al momento de ingresar al Río, no llevar tenis con cordones u otros objetos que puedan enredarse con ramas, ya que por este motivo una persona murió realizando una actividad de río__
+
 
 
 ¿No sabes dónde comprar prendas de excelente calidad para este tipo de aventura? <a target="_blank" style="color:green;" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
@@ -319,6 +302,9 @@ En Norcasia la temperatura promedio ronda los 20 a 29 grados centígrados, adem�
  
 * Por último, hacer las reservas, ya que en temporada alta podrían no encontrar ni hoteles disponibles.
  
+  <strong>⚠️ NOTA DE SEGURIDAD IMPORTANTE:</strong> Al realizar actividades acuáticas en el río, <strong>evita el uso de tenis con cordones</strong> u objetos que puedan enredarse fácilmente con ramas o rocas sumergidas. Por seguridad, te sugerimos calzado de ajuste rápido o tipo sandalia de senderismo sin cordones largos.
+
+
 ## ¿CÓMO REGRESAR DE NORCASIA?
  
 Ten en cuenta que los buses de Norcasia para La Dorada tienen unos horarios muy limitados.

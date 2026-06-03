@@ -2,7 +2,7 @@
 layout: trail
 title:  Nevado del Ruiz
 categories: colombia
-seo_title: ▷ Nevado del Ruiz | Guía de viaje 2024
+seo_title: ▷ Nevado del Ruiz | Guía de Viaje 2026 Tips y Seguridad
 excerpt: Guía completa para visitar el Nevado del Ruiz, descubre dónde queda, hospedajes cercanos, como llegar y qué hacer en el nevado del Ruiz
 images_url: /images/rutas/caldas/nevado-del-ruiz
 viewranger: MTY2NDcwMQ==
@@ -28,7 +28,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#sendero-ruiz"> Sendero dentro del Nevado del Ruiz </a>
 * <a href="#hospedaje-ruiz"> Hospedajes cerca al Nevado del Ruiz</a>
 * <a href="#tour-ruiz"> Tours al Nevado del Ruiz </a>
-* <a href="#otros-senderos-manizales"> Otras rutas de senderismo en Manizales </a>
+* <a href="#recomendaciones-finales"> Recomendaciones finales para Visitar el Nevado del Ruiz</a>
 
 Empecemos con la aventura ⛰.
 
@@ -39,7 +39,7 @@ __[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/caldas/
 ## DATOS CURIOSOS DEL NEVADO DEL RUIZ
 
 
-Este hermoso volcán __es considerado como uno de los más altos de sudamérica__, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los Ándes 🦅 y de otras especies importantes.
+Este hermoso volcán __es uno de los más emblemáticos y visitados de la Cordillera Central de los Andes colombianos__, cuenta con una altitud aproximada de 5.330 m.s.n.m. Es rico por su flora, fauna y por ser el hogar del cóndor de los Ándes 🦅 y de otras especies importantes.
 
 
 Debido a su historia, a lo largo del tiempo ha recibido muchos nombres como; Mesa de Herveo o como era llamado en la época precolombina por los nativos que se referían a este como Tama, que significa “Padre mayor o grande”, Cumanday que significa “Cerro blanco”  entre muchos otros nombres.
@@ -121,7 +121,7 @@ Después de esto, nos encontramos con la entrada al nevado del Ruiz. Ten en cuen
 Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de mascotas.__Para realizar el ingreso al Parque los Nevados tuvimos que pagar lo siguiente:__
 
 
-* __Entrada al Parque los Nevados 2024 🎟:__ mayores de 5 años y menores de 25 años $14.000 pesos. Mayores de 25 años hasta 70 años $25.000 pesos y extranjeros $61.000 pesos.
+* __Entrada al Parque los Nevados 2026 🎟:__ mayores de 5 años y menores de 25 años $18.000 pesos. Mayores de 25 años hasta 70 años $32.000 pesos y extranjeros $68.000 pesos.
 
 * __Seguro médico y de rescate ⛑:__ es obligatorio para ingresar a cualquier parque nacional del país.
 
@@ -139,11 +139,7 @@ height:"200"
 %}
 </a>
 
-
 <a name="sendero-ruiz" id="sendero-ruiz"></a>
-
-
-
 
 ## SENDERO DENTRO DEL NEVADO DEL RUIZ 🚗
 
@@ -283,28 +279,29 @@ __EL TOUR AL NEVADO DEL RUIZ INCLUYE:__
 
 Si quisieres consultar tour al nevado del Ruiz puedes dar __<a href="https://www.randes.co/products/tour-nevado-del-ruiz" style="color:green;" target="_blank"> clic aquí</a>__ 👈
 
-<a name="informacion-nevado-ruiz" id="informacion-nevado-ruiz"></a>
+
+<a name="recomendaciones-finales" id="recomendaciones-finales"></a>
+
+## 💡 RECOMENDACIONES FINALES PARA TU VISITA AL NEVADO DEL RUIZ
+
+Para que tu aventura sea todo un éxito y evites contratiempos, ten en cuenta estos consejos clave de experto:
+
+*   **⚠️ Restricciones de movilidad (Pico y Placa):** Infórmate previamente sobre las restricciones de tránsito en la vía al Nevado, especialmente los fines de semana y festivos (aplican días pares e impares). Planifica bien tu ruta para evitar multas innecesarias.
+*   **🚗 Dinámica del recorrido:** Ten presente que, debido a la **alerta amarilla**, el Nevado del Ruiz no es una ruta de senderismo convencional sobre nieve. El recorrido es principalmente vehicular, con paradas autorizadas en puntos específicos para caminar.
+*   **🧥 Equipo y vestimenta:** Aunque el recorrido sea en carro, el clima de alta montaña es exigente. Recomendamos usar un sistema de capas: chaqueta rompevientos, buzo térmico o polar, guantes y gorro. Si necesitas equipo técnico de alta calidad, visita nuestra tienda en línea: <a href="https://www.randes.co/" target="_blank">**Randes.co**</a>.
+*   **🕒 Temporada alta:** En épocas de alta afluencia, el ingreso a taquilla puede ser complejo, con esperas de hasta 4 horas. Asegúrate de contar con tu reserva y cupo confirmado antes de viajar, de lo contrario, corres el riesgo de que el ingreso sea denegado.
+*   **🏔️ ¿Necesitas ayuda con tu expedición?:** Si prefieres ir con profesionales que se encarguen de la logística, los permisos y el transporte seguro, puedes consultar nuestras salidas aquí:
+    👉 <a href="https://www.randes.co/products/tour-nevado-del-ruiz" target="_blank">**Agencia de viajes: Tour al Nevado del Ruiz**</a>
 
 
-### DESCARGAR INFORMACIÓN DE ESTA RUTA 💾
-
-En esta sección podrás descargar información adicional, como: guías que operan en esta zona, información adicional de transporte, restaurantes cercanos con sus números de teléfono, parqueaderos e información adicional de como llegar al nevado del Ruiz.
-
-__Esta información solo estará disponible para las personas que tengan suscripción la suscripción rutera__, esperamos que hagas un buen uso de esta información.
-
-
-👉 <a target="_blank" href="https://www.randes.co/products/informacion-nevado-del-ruiz">**Descargar información adicional del Nevado del Ruiz.**</a>
-
-
-<a name="otros-senderos-manizales" id="otros-senderos-manizales"></a>
 
 ## OTRAS RUTAS DE SENDERISMO EN MANIZALES
 
 Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Manizales.
 
 * __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/camino-del-arriero.html" target="_blank"> Camino del Arriero</a>__
+* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Nevado Santa Isabel</a>__
+
 
 
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
