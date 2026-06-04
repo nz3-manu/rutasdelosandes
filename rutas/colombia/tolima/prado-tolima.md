@@ -14,11 +14,18 @@ trending: true
 ¿Estás pensando en viajar a este sitio y no sabes cuánto podría costar llegar allí? No te preocupes que aquí te mostraremos los precios de transporte, alimentos, alojamiento y diferentes tours que puedes hacer.
 Así podrás planear mucho mejor tu viaje.
 
-**🛶 <a href="https://www.randes.co/collections/tour-en-prado-tolima" style="color:green;" target="_blank"> Puedes conocer nuestros planes a la Represa de Prado, solo dando clic aquí. 👈 </a>**
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/collections/tour-en-prado-tolima" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
 - <a href="#video-prado-tolima"> Vídeo de la ruta a la represa de Prado </a>
+- <a href="#dato-prado-tolima"> Dato curioso del Volcán Machínrepresa de Prado </a>
 - <a href="#llegar-prado-tolima"> ¿Cómo llegar al pueblo de Prado? </a>
 - <a href="#lugares-prado-tolima"> Lugares emblematicos en la represa de Prado </a>
 - <a href="#tour-prado-tolima"> Tours disponibles en la represa de Prado</a>
@@ -28,7 +35,29 @@ Así podrás planear mucho mejor tu viaje.
 Empecemos con la aventura ⛰.
 
 **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/tolima/prado-dam.html"> See this post in english version 🇺🇸</a>]**
+
+
+<a name="video-prado-tolima" id="video-prado-tolima"></a>
+
+---
+
+## VIDEO DE LA RUTA A LA REPRESA DE PRADO
+
+A continuación te mostraremos un pequeño vídeo describiendo los lugares que vimos en nuestro viaje a la represa de prado en el departamento de Tolima.
+
+{% include youtube.html
+videoid:"oD_H6rkN4Bc",
+width:"480",
+height:"270",
+Caption:"videos de la ruta a la Represa de Prado"
+%}
+
+Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+
+
 <a name="dato-prado-tolima" id="dato-prado-tolima"></a>
+---
 
 ## DATO CURIOSO DE PRADO
 
@@ -45,23 +74,9 @@ height:"300" %}
 __Represa prado:__  esta comenzó su  construcción el 1 de marzo de 1959 y finalizó el 12 de octubre de 1972, tardó 13 años en construirse, con participación de empresas alemanas y japonesas, además de mano de obra colombiana. La laguna tiene una superficie de 4.200 hectáreas, esto equivale a Florencia (Caquetá) zona urbana o similar a Itagüí (Antioquia).
 
 
-<a name="video-prado-tolima" id="video-prado-tolima"></a>
-
-
-## VIDEO DE LA RUTA A LA REPRESA DE PRADO
-
-A continuación te mostraremos un pequeño vídeo describiendo los lugares que vimos en nuestro viaje a la represa de prado en el departamento de Tolima.
-
-{% include youtube.html
-videoid:"oD_H6rkN4Bc",
-width:"480",
-height:"270",
-Caption:"videos de la ruta a la Represa de Prado"
-%}
-
-Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
-
 <a name="llegar-prado-tolima" id="llegar-prado-tolima"></a>
+
+---
 
 ## ¿CÓMO LLEGAR AL PUBLO DE PRADO 🚐?
 
@@ -111,7 +126,7 @@ __Advertencia:__ _Antes de llegar a la represa, tendrán que pasar por un túnel
 Al llegar a la represa, nos recibió el conductor de la lancha (lanchero) 👨‍✈️. Poco antes de zarpar, unas personas pidieron unirse al grupo, pero al tratarse de un tour privado, buscaron otra lancha. Estas personas estaban tomando alcohol y iban algo animadas 🎵😅, y finalmente fueron integradas a un grupo con una familia y una pareja que buscaban tour. Más tarde, el lanchero nos comentó que esto suele causar inconvenientes, ya que algunos van bebiendo y con música a alto volumen en las lanchas, mientras otros solo quieren disfrutar de la naturaleza. En los tours grupales, todos deben adaptarse a las decisiones del grupo.
 
 
-__RECOMENDACIÓN:__ En la represa no hay mucho control sobre las personas que ofrecen tours. Muchos compran lanchas buscando una oportunidad de negocio, pero algunos no tienen experiencia en estos recorridos o sus embarcaciones no están en buen estado. Incluso, escuchamos casos de lancheros que evitan hacer los trámites respectivos en el muelle para ahorrarse ese dinero. Por eso pueden notarse diferencias entre los tours.
+__RECOMENDACIÓN:__ _En la represa no hay mucho control sobre las personas que ofrecen tours. Muchos compran lanchas buscando una oportunidad de negocio, pero algunos no tienen experiencia en estos recorridos o sus embarcaciones no están en buen estado. Incluso, escuchamos casos de lancheros que evitan hacer los trámites respectivos en el muelle para ahorrarse ese dinero. Por eso pueden notarse diferencias entre los tours._
 
 
 {% include image.html,
@@ -138,6 +153,8 @@ caption:"Ruta en Prado Tolima"
 A continuación te mostraremos los tours que ofrece la empresa con la cual estamos trabajando en este lugar. Ten en cuenta que, no todas las empresas manejan los mismos tours.
 
 <a name="lugares-prado-tolima" id="lugares-prado-tolima"></a>
+
+---
 
 ## LUGARES MÁS EMBLEMÁTICOS PARA VISITAR EN LA REPRESA DE PRADO 🛶
 
@@ -211,7 +228,10 @@ caption:"Foto: restaurante ",
 width:"1000",
 height:"563"
 %}
+
 <a name="tour-prado-tolima" id="tour-prado-tolima"></a>
+
+---
 
 ## TOURS DISPONIBLES EN LA RESERVA DE PRADO  🛶
 
@@ -248,8 +268,10 @@ __RECOMENDACIÓN:__ _Si vas con un grupo de personas, te recomendamos hacer la r
 
 <a name="hospedaje-prado-tolima" id="hospedaje-prado-tolima"></a>
 
+---
 
 ## HOSPEDAJES DISPONIBLES EN PRADO  🛏️
+
 Aqui te mostraremos algunas opciones de hospedaje, hemos categorizado los hospedajes por capacidad de persona que caben en este
 
 #### HABITACIONES PARA PAREJA O FAMILIA EN EL CENTRO PRADO 
@@ -348,38 +370,27 @@ height:"675"
 
 <a name="recomendaciones-prado-tolima" id="recomendaciones-prado-tolima"></a>
 
-## RECOMENDACIONES FINALES 📋
+---
 
+## RECOMENDACIONES FINALES 📋
 
 Aquí te daremos algunas recomendaciones que debes de tener en cuenta al momento de visitar la represa de Prado y también al visitar algunos lugares naturales.
 
-
 ### -> TIPO DE ROPA ADECUADA
 
-
 En Prado la temperatura promedio ronda los 22 a 33 grados centígrados, además de esto es una zona seca, así que aconsejamos llevar el siguiente tipo de prendas para realizar cualquier ruta de senderismo.
-
-
-
 
 - 🌞 Lleva buzos con protección solar y sombreros, ya que el sol es muy fuerte.
 - 🩱Lleva traje de baño o ropa de cambio, ya que te vas a mojar.
 - 🦟 Lleva repelente, ya que en esta zona hay muchos mosquitos.
 
-
-
-
 ¿No sabes dónde comprar prendas de excelente calidad para este tipo de aventura? <a target="_blank" style="color:green;" href="https://www.randes.co/"> ¡Visita nuestra tienda en línea! 🛒</a>
 
-
 ### -> OTRAS RECOMENDACIONES
-
 
 * Si vas a llegar de noche a Prado, te recomendamos hospedarte en un hotel en el pueblo.
 * Si deseas quedarte más días, te sugerimos hospedarte en una isla, donde encontrarás muchas más actividades.
 * La navegabilidad por la represa está permitida solo hasta las 6 p.m. Si te hospedarás en una de las islas, te recomendamos llegar antes para tomar la lancha.
-
-
 
 
 Este es el fin de la ruta a la represa de prado Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

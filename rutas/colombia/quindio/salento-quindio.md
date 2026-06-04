@@ -2,8 +2,8 @@
 layout: trail
 title:  Salento y Valle del Cocora
 categories: colombia
-seo_title: QUÉ HACER EN SALENTO | RUTAS DE LOS ANDES
-excerpt: En este post, descubrirás qué hacer, cómo llegar y dónde hospedarte en Salento; además, te mostraremos una guía completa de recorridos y senderos en Salento-Quindío.
+seo_title: "Qué hacer en Salento y Valle del Cocora | Guía de Rutas y Consejos"
+excerpt: "Descubre qué hacer en Salento, cómo llegar y las mejores rutas de senderismo en el Valle del Cocora. Guía actualizada 2026 con mapas, hospedaje y recomendaciones."
 images_url: /images/rutas/quindio/salento
 viewranger:
 author: manuel
@@ -12,9 +12,16 @@ trending: true
  
 # SALENTO QUINDIO
  
-En este post te mostraremos __qué hacer en Salento,Quindio__, además de que también, te mostraremos los diferentes recorridos que podrás realizar en el valle del Cocora. Por tal motivo, hemos categorizado los senderos que varían dependiendo de su grado de dificultad; así que, podrás elegir cual de estos se acomoda mejor a tus condiciones físicas, y a tus gustos. Pero de antemano te aseguramos que independientemente del recorrido que elijas, vas a vivir una experiencia placentera.
- 
-__Nota:__ <ins>_En caso de que quieras realizar alguna de las rutas con guías locales y certificados de la zona, puedes comunicarte con nosotros cuando así lo deseen_<a href="https://wa.link/o990e7" target="_blank" style="color:green;"> aquí</a></ins> 👈
+En este post te mostraremos __qué hacer en Salento, Quindío__, además de que también, te mostraremos los diferentes recorridos que podrás realizar en el valle del Cocora. Por tal motivo, hemos categorizado los senderos que varían dependiendo de su grado de dificultad; así que, podrás elegir cual de estos se acomoda mejor a tus condiciones físicas, y a tus gustos. Pero de antemano te aseguramos que independientemente del recorrido que elijas, vas a vivir una experiencia placentera.
+
+
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-salento-y-filandia" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
  
 __EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:__
  
@@ -64,7 +71,7 @@ height:"200" %}
  
 ## ¿QUÉ HACER EN SALENTO?
  
-Cómo bien sabes, el municipio de Salento es reconocido a nivel nacional e internacional por sus palmas de cera 🌴 y sus calles coloridas con un estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal. Es aconsejable visitarlo al atardecer, ya que la vista es simplemente asombrosa.
+Como bien sabes, el municipio de Salento es reconocido a nivel nacional e internacional por sus palmas de cera 🌴 y sus calles coloridas con un estilo colonial, cerca del pueblo podrás visitar el mirador con el que cuenta salento, este está a solo unos minutos del parque principal. Es aconsejable visitarlo al atardecer, ya que la vista es simplemente asombrosa.
  
 __Foto mirador de Salento:__
  
@@ -81,7 +88,7 @@ A Continuación, te mostraremos algunos recorridos que podrás realizar y disfru
  
 ## RUTAS DE SENDERISMO EN VALLE DEL COCORA 🌴
  
-En el valle del Cocora encontrarás muchos senderos para visitar, desde cascadas, ríos, páramos o incluso Nevados. Aquí te mostraremos unos senderos que podrás realizar con familia o amigos. Además, te dejamos recomendaciones para que evites cometer errores que son muy frecuentes en la mayoría de personas que visitan el Valle del Cocora. 
+En el Valle del Cocora encontrarás muchos senderos para visitar, desde cascadas, ríos, páramos o incluso Nevados. Aquí te mostraremos unos senderos que podrás realizar con familia o amigos. Además, te dejamos recomendaciones para que evites cometer errores que son muy frecuentes en la mayoría de personas que visitan el Valle del Cocora. 
  
 ### -> SENDERO VALLE DEL COCORA MIRADOR DE LAS PALMAS (RUTA FAMILIAR)
  

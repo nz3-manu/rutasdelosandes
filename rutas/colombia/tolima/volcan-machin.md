@@ -14,7 +14,13 @@ trending: true
 
 En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos para que no te lleves las mismas sorpresas, ya que muchos videos no hablan del estado de la carretera ni de los hospedajes.
 
-**🌋 <a href="https://www.randes.co/collections/la-carbonera-volcan-machin" style="color:green;" target="_blank"> Puedes conocer diferentes planes dando clic aquí. 👈 </a>**
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/collections/la-carbonera-volcan-machin" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 

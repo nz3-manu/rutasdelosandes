@@ -14,7 +14,13 @@ trending: true
 
 Visitar la Sierra Nevada del Cocuy es el sueño de cualquier montañista, pero su logística puede ser compleja. Durante nuestra primera expedición, enfrentamos contratiempos con la coordinación y guías no certificados que casi ponen en riesgo nuestro viaje. Hemos preparado esta guía para que tú aprendas de nuestra experiencia y realices esta aventura con total seguridad.
 
-**<a href="https://www.randes.co/products/tour-nevado-del-cocuy" style="color:green;" target="_blank"> Si quieres evitar inconvenientes e ir con una agencia 🗻, clic aquí. 👈 </a>**
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-nevado-del-cocuy" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
 
 __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
@@ -34,6 +40,8 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 <a id="dato-cocuy"></a>
 
+---
+
 ## DATOS CURIOSOS DEL NEVADO DEL COCUY
 
 La Sierra Nevada del Cocuy es una formación montañosa de 30 km de longitud. Alberga el glaciar más grande de Colombia y una de las mayores masas de nieve en Sudamérica. Sus picos más emblemáticos son el **Ritacuba Blanco (5.330 msnm)** y el **Ritacuba Negro (5.300 msnm)**. Además, es un territorio sagrado para la etnia U'wa, quienes conservan tradiciones ancestrales que hacen de esta región un lugar místico y único en el país.
@@ -42,6 +50,8 @@ La Sierra Nevada del Cocuy es una formación montañosa de 30 km de longitud. Al
 **<span class="advise"> Foto por: Colibrí Travesías </span>**
 
 <a id="como-cocuy"></a>
+
+---
 
 ## ¿CÓMO LLEGAR AL NEVADO DEL COCUY 🚐?
 
@@ -61,6 +71,7 @@ Las empresas **Gacela** y **Libertadores** operan días alternos.
 
 <a id="senderos-cocuy"></a>
 
+---
 
 ## SENDEROS EN EL NEVADO DEL COCUY
 
@@ -140,6 +151,8 @@ height:"2480"
 
 
 <a id="tour-cocuy"></a>
+
+---
 
 ## TOURS EN EL NEVADO DEL COCUY 🧳
 

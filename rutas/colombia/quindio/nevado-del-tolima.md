@@ -15,7 +15,14 @@ trending: true
 En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendaciones para que puedas vivir mucho mejor está aventura y que no cometas nuestros mismos errores.
 
 
-__<a href="https://www.randes.co/products/tour-nevado-del-tolima" style="color:maroon;" target="_blank"> Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí 👈</a>__
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-nevado-del-tolima" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
+
 
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 

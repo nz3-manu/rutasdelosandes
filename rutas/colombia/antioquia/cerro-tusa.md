@@ -3,7 +3,7 @@ layout: trail
 title: Cerro Tusa
 categories: colombia
 seo_title: ▷ Cerro Tusa, Pirámide Natural | ¿Comó llegar?.
-excerpt: Cerro Tusa en antioquia, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.
+excerpt: Cerro Tusa en Antioquia, es la pirámide natural más alta del mundo con 1.850 metros,descubre cómo llegar y todo lo necesario para estar preparado al hacer esta ruta.
 images_url: /images/rutas/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel
@@ -14,23 +14,24 @@ trending: true
 
 En este post te contaremos cómo fue nuestra experiencia al conocer **la pirámide natural más alta del mundo (Cerro Tusa)**, te daremos algunos consejos para hacer de esta experiencia lo más agradable posible.
 
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-a-cerro-tusa-en-venecia-antioquia" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
+
 **EN ESTE POST DE CERRO TUSA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-- <a href="#dato-cerro-tusa"> Datos curioso de Cerro Tusa</a>
+- <a href="#video-cerro-tusa"> Video de la ruta a Cerro Tusa</a>
+- <a href="#dato-cerro-tusa"> Datos curiosos de Cerro Tusa</a>
 - <a href="#tour-cerro-tusa"> Tour a Cerro Tusa</a>
 - <a href="#video-cerro-tusa"> Video de ruta a Cerro Tusa</a>
 - <a href="#llegar-cerro-tusa"> ¿Cómo llegar a Cerro Tusa? </a>
 - <a href="#lugares-cerro-tusa"> Ascenso a Cerro Tusa.</a>
 
 Empecemos con la aventura ⛰.
-
-<a name="dato-cerro-tusa" id="dato-cerro-tusa"></a>
-
-## DATOS CURIOSOS DE CERRO TUSA
-
-Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la **pirámide natural más alta del mundo** con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo 🪞, la cual produce destellos a causa de la refracción de los rayos solares.
-
-En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
 
 <a name="video-cerro-tusa" id="video-cerro-tusa"></a>
 
@@ -45,11 +46,19 @@ En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los in
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
+<a name="dato-cerro-tusa" id="dato-cerro-tusa"></a>
+
+## DATOS CURIOSOS DE CERRO TUSA
+
+Cerro Tusa es considerado un símbolo icónico de la región antioqueña, ya que este cerro es la **pirámide natural más alta del mundo** con 1.850 metros de altitud. Además, es todavía más peculiar porque tiene varios misterios, uno de ellos es el rostro de una mujer que se forma en uno de sus lados, esta se denomina la diosa del espejo 🪞, la cual produce destellos a causa de la refracción de los rayos solares.
+
+En la parte baja de Cerro Tusa se encuentra el altar de sacrificios donde los indígenas Zenufanáes que habitaron estas zonas, hacían tributos para adorar a la diosa del espejo.
+
 <a name="tour-cerro-tusa" id="tour-cerro-tusa"></a>
 
 ## TOUR A CERRO TUSA
 
-El valor del del tour depende del número de personas que vayan, si van un fin de semana sábado o domingo el valor de este será de excursión grupal, si vas en semana el valor dependerá del número de personas con que tú vayas, para consultar el precio de este podrás ver la tabla de preció del tour.
+El valor del tour depende del número de personas que vayan, si van un fin de semana sábado o domingo el valor de este será de excursión grupal, si vas en semana el valor dependerá del número de personas con que tú vayas, para consultar el precio de este podrás ver la tabla de precios del tour.
 
 ### -> EL TOUR INCLUYE:
 
@@ -58,7 +67,7 @@ El valor del del tour depende del número de personas que vayan, si van un fin d
 
 ### -> EL TOUR NO INCLUYE:
 
-- 🛵 __Transporte de Venecia a donde empieza el sendero:__ este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000x3=$18.000).
+- 🛵 __Transporte de Venecia a donde empieza el sendero:__ este transporte tiene un precio aproximado de $18.000 pesos por trayecto, tiene un cupo máximo de 3 personas. Ejemplo si vas con 3 personas el transporte por trayecto seria de $6.000 pesos por persona ($6.000 x 3 = $18.000).
 
 **<a href="https://www.randes.co/products/tour-a-cerro-tusa-en-venecia-antioquia" style="color:green;" target="_blank"> Si quieres ver información más detallada de este tour y reservar puedes dar clic aquí.</a>**
 
@@ -70,11 +79,11 @@ Lo primero que tienen que hacer es llegar al municipio de Venecia, a continuaci�
 
 ### -> BUS DESDE MEDELLIN A VENECIA 
 
-Desde de el terminal del sur de medellin salen buses con destino a Venecia, con la empresa fredonia, __importante__, tienen que decir que van para Venecia, ya que tambien envían buses para fredonia, el bus sale apartir de las 6:00 am, con frecuencia de 1 hora hasta las 6:00 pm, este tarda en promedio 1:15 a 1:30 el reocrrido, el valor del pasaje es de $17.000 pesos por trayecto.
+Desde la terminal del sur de Medellín salen buses con destino a Venecia, con la empresa fredonia, __importante__, tienen que decir que van para Venecia, ya que tambien envían buses para fredonia, el bus sale apartir de las 6:00 am, con frecuencia de 1 hora hasta las 6:00 pm, este tarda en promedio 1:15 a 1:30 el recorrido, el valor del pasaje es de $17.000 pesos por trayecto.
 
 <ins> Te recomendamos tomar el bus de las 6:00 am, para que tengas tiempo de hacer el ascenso sin afanes </ins>
 
-Después de 1:30 horas y media llegamos a **Venecia (Antioquia)** . El bus nos dejó en el parque principal, tan solo faltó bajar del bus para ver este imponente cerro ⛰ que sobresalía en el horizonte. Es emocionante y un poco intimidante tener que subir hasta la cima, pero ese mismo temor nos impulsaba aún más a estar allí.
+Después de 1:30 horas llegamos a **Venecia (Antioquia)** . El bus nos dejó en el parque principal, tan solo faltó bajar del bus para ver este imponente cerro ⛰ que sobresalía en el horizonte. Es emocionante y un poco intimidante tener que subir hasta la cima, pero ese mismo temor nos impulsaba aún más a estar allí.
 
 Después de conocer un poco del pueblo, nos encontramos con nuestro guía, allí pagamos un adicional el cual no estaba en el valor del tour, un moto taxi que tiene cupo para 3 personas, como íbamos con salida grupal pudimos llenar el cupo de 3 personas y solo pagamos $6.000 pesos por ese trayecto. Al llegar a la base del cerro nos encontramos con las otras personas que iban en carro y motos.
 
@@ -88,13 +97,13 @@ Después de conocer un poco del pueblo, nos encontramos con nuestro guía, allí
 %}
 </a>
  
-llegamos a un punto el cual se llama altar de sacrificio el guía   nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el __ascenso a Cerro Tusa.__
+llegamos a un punto el cual se llama Altar de Sacrificio el guía   nos contó algunas historias y misterios de Cerro Tusa. Después de esto nos dirigimos al sendero para empezar el __ascenso a Cerro Tusa.__
  
 <a name="lugares-cerro-tusa" id="lugares-cerro-tusa"></a> 
  
 ## ASCENSO A CERRO TUSA 🧗‍
  
-<ins> __Recomendación:__ _esta ruta tiene un grado de dificultad 5 en una escala del uno al 5. Así que si no tienes la experiencia haciendo senderismo, no les recomendamos esta ruta, ya que la podrías pasar muy mal y podrías no querer volver_ 😢.</ins>
+<ins> __Recomendación:__ _esta ruta tiene un grado de dificultad 5 en una escala del 1 al 5. Así que si no tienes la experiencia haciendo senderismo, no te recomendamos esta ruta, ya que la podrías pasar muy mal y podrías no querer volver_ 😢.</ins>
 
 Desde el comienzo del sendero hasta la **cima de Cerro Tusa** son aproximadamente 2.5 kilómetros, de los cuales 1 kilómetro es en ascenso vertical con inclinación hasta de 70 grados, prácticamente estaremos escalando.
 

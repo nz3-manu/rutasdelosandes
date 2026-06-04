@@ -11,12 +11,18 @@ trending: true
 ---
  
 # NORCASIA
- a
+ 
 En este post te estaremos describiendo todo lo que debes saber antes de realizar el recorrido hacia Norcasia, lo que encontrarás, lo que puedes hacer, además de consejos como experiencia vivida por muchos viajeros.
  
 Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares, se tendrá que hacer en lancha 🚤; por esta razón, sí vas con pocas personas, a la hora de visitar estos lugares, te podría costar un poco más, incluso más costoso a diferencia de viajar con una agencia de viajes.
  
- __<a href="https://www.randes.co/collections/tour-norcasia" style="color:maroon;" target="_blank"> 👉  Si quieres ir de forma segura🗻 con una agencia de viajes local, clic aquí  🛶,   </a>__
+ <p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/collections/tour-norcasia" target="_blank">
+    👉 Ver tour de nuestros aliados
+  </a>
+</p>
  
 **EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
  
