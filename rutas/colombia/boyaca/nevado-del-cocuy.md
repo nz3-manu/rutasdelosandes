@@ -32,7 +32,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 A continuación te daremos toda la información pertinente respecto a la ruta del __Nevado del Cocuy__ ⛰. Sin más preámbulo, empecemos
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/boyaca/sierra-nevada-el-cocuy.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/nevado-del-cocuy-trekking-guide.html">See this post in English version 🇺🇸</a>]**
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">
 {% include image.html, file:"publicidad-post/chaqueta-randes.jpg", caption:"Equipo técnico Randes", width:"480", height:"200" %}

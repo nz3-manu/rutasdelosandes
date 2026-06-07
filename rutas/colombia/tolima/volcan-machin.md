@@ -45,22 +45,23 @@ Empecemos con la aventura ⛰.
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
 
 {% include youtube.html
-videoid:"-CbhegdpsX8",
-width:"480", 
-height:"270",
-Caption:"video de la ruta al volcan Machin"
+   videoid="-CbhegdpsX8"
+   width="480"
+   height="270"
+   caption="Video de la ruta al Volcán Machín"
 %}
 
-Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "name": "Video de la ruta al Volcan Machin",
-  "description": "Pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.",
+  "name": "Video de la ruta al Volcán Machín - Rutas de Los Andes",
+  "description": "Pequeño video describiendo los lugares que visitamos en nuestro viaje al Volcán Machín.",
   "thumbnailUrl": "https://img.youtube.com/vi/-CbhegdpsX8/maxresdefault.jpg",
-  "uploadDate": "2026-03-01",
+  "uploadDate": "2026-03-01T00:00:00-05:00",
+  "contentUrl": "https://www.youtube.com/watch?v=-CbhegdpsX8",
   "embedUrl": "https://www.youtube.com/embed/-CbhegdpsX8"
 }
 </script>
