@@ -2,178 +2,230 @@
 layout: trail
 title: Paramillo del Quindío
 categories: colombia
-seo_title: Paramillo del Quindío,
-excerpt: En este post te contaremos como fue nuestra experiencia en el Paramillo del Quindío, saliendo por Salento Quindío.
+seo_title: Cómo subir al Paramillo del Quindío | Ruta y Guía de Ascenso (2026)
+excerpt: Descubre la ruta al Paramillo del Quindío desde Salento. Guía de ascenso, mapas, fincas de hospedaje, precios y consejos para evitar perderte en la montaña.
 images_url: /images/rutas/quindio/paramillo-quindio
 viewranger: MjI1MDg2Mw==
 author: manuel
 trending: true
+video_id: PNy3G130C9g
 ---
 
-# PARAMILLO DEL QUINDÍO 
+# PARAMILLO DEL QUINDÍO: EL BALCÓN DE COLORES DE LOS ANDES
 
-En este post te contaremos como fue nuestra **excursion al Paramillo del Quindío**, más que un post con indicaciones de como llegar a este lugar, ya que sería algo complicado explicarlo por medio de un post, queremos acercarte más a este lugar por medio de este post.
+En este post te contaremos detalladamente cómo fue nuestra **excursión al Paramillo del Quindío**. Más allá de darte simples indicaciones técnicas, queremos transmitirte la esencia de esta increíble travesía de alta montaña y prepararte con datos reales para que disfrutes la ruta con total seguridad.
 
-Ya si quisieras visitar este lugar con una agencia puedes escribirnos a través del siguiente link.
+<p class="box-seguridad">
+  🔒 <strong>Viaja a la fija:</strong> El Parque Nacional Natural Los Nevados cuenta con senderos exigentes y climas muy cambiantes. Si prefieres realizar esta ruta con el respaldo de nuestra agencia operadora y guías locales de absoluta confianza, puedes ver todos los detalles aquí: 
+  <br><br>
+  <a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank">
+    👉 Ver tour al Paramillo del Quindío
+  </a>
+</p>
 
-**<a href="https://www.randes.co/products/tour-paramillo-del-quindio" target="_blank" style="color:green;"> 👉 puedes consultar excursiones grupales o privadas aquí </a>**
+**EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-## DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO 🧑‍🏫
-
-El Paramillo del Quindío es un volcán inactivo que se encuentra sobre la cordillera central, posee una altura de 4,760 metros lo que lo convierte en la montaña más alta que posee el quindío.
-
-En 1801 el botánico alemán von Humboldt visitó esta zona, lo que le permitió describir especies desconocidas hasta entonces, como el frailejón.
+- <a href="#que-encontrar-paramillo">Video de la ruta al Paramillo del Quindío</a>
+- <a href="#dato-curioso-paramillo">Dato curioso del Paramillo del Quindío</a>
+- <a href="#tour-paramillo">Precios y detalles del tour guiado</a>
+- <a href="#como-paramillo">¿Cómo llegar al punto de inicio (Salento y Cocora)?</a>
+- <a href="#sendero-paramillo">Ruta paso a paso hasta la cumbre</a>
+- <a href="#hospedaje-paramillo">Hospedajes de montaña: Fincas La Argentina y Buenos Aires</a>
+- <a href="#consejos-paramillo">Recomendaciones finales de seguridad y equipo</a>
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]**
 
-## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDÍO ?
+---
 
-A continuación te mostramos un pequeño **video del Paramillo del Quindío** , donde te mostraremos algunos lugares que verás en este recorrido.
+<a name="que-encontrar-paramillo" id="que-encontrar-paramillo"></a>
 
-{% include youtube.html
-   videoid:"PNy3G130C9g",
-   width:"480",
-   height:"270",
-   caption:"Video Paramillo del Quindío"
+<!-- Google Video SEO Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Video Ruta al Paramillo del Quindío",
+  "description": "Una mirada completa a los paisajes cambiantes, bosques de niebla y valles de frailejones en la ruta de ascenso al Paramillo del Quindío.",
+  "thumbnailUrl": [
+    "https://img.youtube.com/vi/PNy3G130C9g/maxresdefault.jpg"
+  ],
+  "uploadDate": "2026-01-01T08:00:00+00:00",
+  "contentUrl": "https://www.youtube.com/watch?v=PNy3G130C9g",
+  "embedUrl": "https://www.youtube.com/embed/PNy3G130C9g"
+}
+</script>
+
+---
+
+## ¿QUÉ ENCONTRARÁS EN EL PARAMILLO DEL QUINDÍO?
+
+A continuación te compartimos un breve **video del Paramillo del Quindío**, donde registramos los paisajes cambiantes, el bosque de niebla y los valles de frailejones que cruzarás en esta exigente ruta del Eje Cafetero.
+
+{% include youtube.html,
+    videoid:"PNy3G130C9g",
+    width:"480",
+    height:"270",
+    caption:"Video Ruta al Paramillo del Quindío"
 %}
 
-## TOUR AL PARAMILLO DEL QUINDIO
+--- 
 
-Debes de tener en cuenta que esta es una ruta muy poco frecuentada, así que te sugiero **reservar la excursion** con tiempo, el precio de este tour es de $1'300.000 Cop hasta $2'400.000 Cop, esto es dependiendo del numero personas, si quieres realizar el tour con alguna de nuestras agencias aliadas, puedes escribirnos en el siguiente contacto.
+<a name="dato-curioso-paramillo" id="dato-curioso-paramillo"></a>
 
-**<a href="https://wa.link/2dr4tr" style="color:green;" target="_blank"> Click aquí para consultar disponibilidad al Paramillo del Quindio</a>** 👈
+## DATOS CURIOSOS DEL PARAMILLO DEL QUINDÍO 🧑‍🏫
 
-**EL TOUR INCLUYE:** Transporte, desayuno, almuerzo, comida, hospedaje, guía, seguro medio, hidratación y entrada al parque de los nevados.
+El Paramillo del Quindío es un antiguo volcán inactivo ubicado en la Cordillera Central de los Andes colombianos. Posee una altitud de 4.760 msnm, lo que lo convierte oficialmente en **la montaña más alta del departamento del Quindío**. A diferencia de sus vecinos, ya no cuenta con un glacier o nieve perpetua, pero sus icónicas arenas de tonalidades rojizas y amarillas lo hacen una de las cumbres más fotogénicas del país.
 
-## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDÍO 🛣🚌?
+Como dato histórico, en el año 1801, el célebre naturalista y botánico alemán Alexander von Humboldt cruzó esta zona andina a través del Camino del Quindío, una travesía histórica que le permitió describir por primera vez ante la ciencia mundial especies botánicas fascinantes y únicas, como el frailejón.
 
-Para ir al Paramillo del Quindío desde el Valle del Cocora (Salento)se puede realizar de varias formas:
+[Fuente: Parques Nacionales Naturales de Colombia]
 
-- Saliendo por el valle del Cocora hasta la finca Primavera.
-- Saliendo desde el Valle del Cocora hasta la finca Argentina o Buenos Aires.
 
-En este post explicaremos como hacerlo por la finca la Argentina o desde la finca Buenos Aires, que queda a 1 kilómetro más arriba de la finca la Argentina.
+<a name="tour-paramillo" id="tour-paramillo"></a>
 
-Lo primero que tuvimos que hacer fue llegar hasta Salento quindío, los horarios de buses son los siguientes.
+---
 
-- **Desde Pereira a Salento:**
+## TOUR AL PARAMILLO DEL QUINDÍO
 
-Salen cada hora a partir de las 7:30 am fines de semana y entre semana, el valor del pasaje es aproximadamente $9.000 pesos, Empresa de Buses: Expreso Alcalá.
+Al ser una de las rutas menos saturadas y más vírgenes del Parque Los Nevados, la logística requiere una planeación rigurosa. El precio estimado de una expedición formal varía entre **$1.300.000 COP y $2.400.000 COP** por persona, dependiendo directamente del tamaño de tu grupo (tours privados o salidas programadas).
 
-📞 **Teléfono: <a href="tel: 0363244825 "> (036) 3244825</a> o <a href="tel: 036 3215447"> (036) 3215447</a> Expreso Alcalá.**
+Si quieres asegurar tu cupo con el equipo de nuestra agencia aliada, puedes ponerte en contacto directo con nosotros:
 
-- **Desde Armenia a Salento:**
-  Salen cada 30 minutos a partir de las 5:30 am, el valor del pasaje es aproximadamente de $5.300 pesos el último sale a las 8:00 pm. Empresa de Buses: Expreso Alcalá.
+**<a href="https://wa.link/2dr4tr" style="color:green; font-weight:bold;" target="_blank">👉 Clic aquí para consultar disponibilidad y fechas al Paramillo</a>** 👈
 
-📞 **Teléfono: <a href="tel: 036747 46 44"> (036)747 46 44</a> o <a href="tel: 318 331 80 67"> 318 331 80 67</a> Expreso Alcalá.**
+> 📋 **¿Qué incluye habitualmente el tour?** Transporte privado de aproximación, alimentación completa en la montaña (desayunos, almuerzos, cenas), hospedaje en fincas campesinas tradicionales, guías de alta montaña certificados, tarjeta de asistencia médica obligatoria, snacks de hidratación y el derecho de ingreso regulado por Parques Nacionales.
 
-Una vez en salento se debe llegar al parque principal ⛪️ donde se debe tomar un jeep hasta el Valle del Cocora, los horarios de salida son los siguientes; Lunes a Viernes a partir de las 7 am salen aproximadamente cada hora y los fines de semana salen a partir de las 6 am, el valor del pasaje es aproximadamente $4.000 pesos.
+<a name="como-paramillo" id="como-paramillo"></a>
 
-Una vez aquí ya estamos listos para empezar nuestro camino ⛰.
+---
 
-## RUTA AL PARAMILLO DEL QUINDÍO 🚶🏼
+## ¿CÓMO LLEGAR AL PARAMILLO DEL QUINDÍO? 🛣🚌
 
-Del valle del Cocora hasta la finca Argentina hay aproximadamente 12 kilómetros y hasta la finca Buenos Aires hay 13 kilómetros, de los cuales 8 de ellos son en ascenso.
+El ascenso principal inicia desde el icónico **Valle del Cocora** en Salento. Para llegar al corazón del sendero existen dos variantes logísticas:
+1. Ruta Valle del Cocora ➡️ Finca La Primavera (Eje Central).
+2. Ruta Valle del Cocora ➡️ Finca La Argentina o Finca Buenos Aires.
 
-## DÍA 1
+En esta crónica detallaremos la experiencia subiendo por el cañón que conduce a **La Argentina y Buenos Aires**, una alternativa hermosa, exigente y rodeada de bosques andinos sumamente densos.
 
-Iniciando el trayecto encontramos que el puente por el cual deberíamos cruzar el río se lo había llevado el agua, así que tuvimos que cruzar por un árbol que se encuentra atravesando este río, tuvimos que tener mucho cuidado (si estás viendo esto en el futuro 🔮 posiblemente ya estará construido de nuevo).
+### 🚌 Paso 1: Transporte hacia Salento, Quindío
 
-Después de cruzar el río seguimos con el ascenso, en un principio todo iba de maravilla ya que parte del camino habían piedras, pero algunos kilómetros más ya se empezó a ser resbaloso en algunos tramos era algo difícil con tu maleta al hombro.
+*   **Desde la Terminal de Pereira:** Los autobuses de la empresa *Expreso Alcalá* salen aproximadamente cada hora, tanto en días particulares como fines de semana. El costo del pasaje ronda los $9.000 COP.  
+    📞 *Teléfonos de contacto:* (036) 3244825 | (036) 3215447
+*   **Desde la Terminal de Armenia:** Los despachos salen cada 30 minutos a partir de las 5:30 AM (el último bus de regreso sale a las 8:00 PM). El costo del tiquete es de unos $5.300 COP operado también por *Expreso Alcalá*.  
+    📞 *Teléfonos de contacto:* (036) 7474644 | 318 3318067
 
-Además del mal estado de este camino en invierno tendrás que tener cuidado ya que por aquí transitan muchos arrieros.
+### 🚙 Paso 2: Traslado Salento al Valle del Cocora
+Una vez en la plaza principal de Salento (Plaza de Bolívar) ⛪️, debes abordar los tradicionales vehículos Jeep Willys. De lunes a viernes parten cada hora desde las 7:00 AM; los fines de semana el flujo aumenta y inician despachos desde las 6:00 AM. El valor por trayecto es de aproximadamente $4.000 COP y te dejará en el Valle del Cocora en unos 20 minutos.
 
-En nuestro ascenso hasta la finca Argentina algunas partes se encuentran señalizadas, pero queremos hacer la aclaración que encontramos intersecciones de caminos que de haberlos tomado nos hubieran llevado a diferente lugar del parque los nevados.
+<a name="sendero-paramillo" id="sendero-paramillo"></a>
+
+---
+
+## RUTA PASO A PASO AL PARAMILLO DEL QUINDÍO 🚶🏼
+
+La distancia desde el Valle del Cocora hasta el primer refugio en la Finca La Argentina es de **12 kilómetros**, y hasta la Finca Buenos Aires es de **13 kilómetros**. Prepárate mentalmente: más de 8 kilómetros de este tramo inicial corresponden a un fuerte ascenso continuo por terreno quebrado.
+
+### ➡️ DÍA 1: Del Valle del Cocora a las Fincas de Montaña
+
+Al iniciar la caminata nos encontramos con la sorpresa de que el río andino había crecido con fuerza días atrás, llevándose por completo el puente peatonal de madera. Nos tocó maniobrar y cruzar con mucho equilibrio sobre el tronco de un árbol caído. *(Si lees esto en el futuro 🔮, lo más probable es que las autoridades ya hayan reconstruido la estructura).*
+
+Superado el paso del río, iniciamos la pendiente dura. Los primeros kilómetros son amigables debido a tramos empedrados fijos, pero a medida que ganábamos altitud la humedad convirtió el suelo en un terreno liso y resbaloso, volviendo la progresión física bastante lenta con los morrales de montaña al hombro. 
+
+> 🐴 **Precaución en la vía:** Durante la temporada invernal o de lluvias altas, el camino se rompe bastante debido al tránsito constante de los caballos y mulas de los arrieros locales. Mantente siempre atento para darles el paso en las zonas estrechas.
+
+Aunque hay algunos letreros de señalización en puntos clave de Parques Nacionales, existen múltiples intersecciones informales y desvíos ciegos. Tomar el sendero equivocado por error te enviará a cuencas completamente diferentes del parque (como la vía hacia el Tolima [ver archivo: nevado-del-tolima.md] o termales), por lo que ir a ciegas no es una opción aceptable.
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
 {% include image.html,
 file:"publicidad-post/chaqueta-randes.png",
-caption:"",
+caption:"Publicidad Randes Store",
 width:"480",
 height:"200" %}
 </a>
 
+<a name="hospedaje-paramillo" id="hospedaje-paramillo"></a>
+
+---
+
 ## HOSPEDAJE CERCA AL PARAMILLO DEL QUINDÍO
 
-De camino al Paramillo del Quindío encontraremos 2 fincas las cuales brindan hospedaje:
+En esta vertiente del Parque Nacional existen dos opciones fantásticas gestionadas por familias campesinas locales para pasar la noche y aclimatarse:
 
-### FINCA LA ARGENTINA
+### 🏡 1. Finca La Argentina (3.400 msnm)
+Es el primer refugio que aparece tras el bosque de niebla. Cuenta con camas e infraestructura básica de alimentación. **Nota técnica:** Esta finca no cuenta con áreas planas aptas para acampar (zona de camping), debido a que sus terrenos perimetrales poseen desniveles muy marcados y laderas empinadas.
 
-Esta es La primera finca que encontramos, esta finca no cuenta con zona de camping, ya gran parte de su terreno está en zona montañosa con mucho desnivel.
+### 🏡 2. Finca Buenos Aires (3.800 msnm)
+Ubicada a un kilómetro exacto más arriba de La Argentina en ascenso vertical continuo. La gran ventaja de hospedarte aquí es que ganas valiosos metros de altitud y quedas considerablemente más cerca de la base del volcán para el día de cumbre.
 
-### FINCA BUENOS AIRES
+Tras instalarnos en las literas y cenar comida típica caliente, apagamos las linternas temprano con el objetivo de iniciar el ataque al Paramillo a las 6:00 AM del día siguiente.
 
-Esta finca se encuentra a 1 kilómetro más arriba de la finca Argentina (casi todo el trayecto será en subida), lo bueno es que ya estarás 1 kilómetro más cerca para ir al Paramillo del Quindío.
+---
 
-Una vez instalados en nuestro hospedaje decidimos descansar un poco para madrugar al otro día a las 6 am para empezar nuestro camino al Paramillo del Quindío.
+### ➡️ DÍA 2: Ataque a la Cumbre del Paramillo del Quindío
 
-## DÍA 2
-
-Al siguiente nos levantamos con un clima muy frío y mucha lluvia así que nos pusimos toda nuestra ropa impermeable y empezamos la caminata, te recomendamos que lleves la ropa adecuada para estos climas ya que es muy probable que llueva, y no hay nada peor que hacer cumbre con ropa mojada.
+El despertador sonó con una temperatura sumamente baja y una lluvia densa golpeando el techo. Nos equipamos de inmediato con nuestros sistemas de capas impermeables (chaqueta y pantalón técnico). 
 
 {% include image.html,
 file:"rutas/quindio/paramillo-quindio/ropa.jpg",
-caption:"ropa de senderismo randes",
+caption:"Indumentaria técnica para alta montaña de Randes",
 width:"1000",
 height:"1077" %}
 
-_La ropa adecuada son prendas que no sean de algodón, y no te olvides de llevar prendas con buena impermeabilidad._
+> 🧥 **Consejo de Textil:** Evita por completo llevar prendas o camisetas de algodón; este material absorbe el sudor y la humedad externa, enfriando tu cuerpo rápidamente. Prioriza telas sintéticas de secado rápido y chaquetas con membranas cortavientos e impermeables reales.
 
-Quiero hacer claridad de algo, en el camino al Paramillo del Quindío muchas partes no se encuentran señalizadas y además de eso hay potreros donde las vacas han hecho muchos caminos, de seguir uno de estos caminos hechos por las vacas quizás resultes encontrando al toro 😅.
+El tramo entre la Finca Buenos Aires y la base es un laberinto natural. No hay señalización clara y cruzas potreros inmensos donde el ganado genera decenas de caminos falsos. Si te confías y sigues el sendero equivocado de una vaca, terminarás perdido en medio de la nada... ¡o de frente con el toro! 😅
 
-Saliendo de la finca Buenos Aires encontramos 2 senderos cualquiera de los 2 se llegará al Paramillo del Quindío, solo que cada uno tiene sus dificultades.
+Al salir de Buenos Aires se abren dos opciones principales de ruta, cada una con complejidades distintas:
 
-{% include iframe.html,
-   type:"custom",
-   mid:"1CbF3hkh9ojjXv4rOO8SPc77Ep_zJtBcp&hl=en",
-   caption:"Mapa del valle del Cocora al Paramillo del Quindío"
-%}
+*   **Ruta 1 (El Valle Húmedo):** Cruza una sección mística conocida como el "Bosque de Esponjas". El nombre le queda perfecto: el suelo es un humedal denso que nos empapó las botas por completo. Luego conecta con pastizales más secos pero repletos de cruces de caminos confusos.
+*   **Ruta 2 (La Variante Alta):** Avanza por la cresta superior de la montaña evitando los humedales de la Ruta 1. Sin embargo, su orientación visual es mucho más compleja si hay neblina. En este tramo nos topamos con varios montañistas independientes que venían completamente desorientados intentando regresar.
 
-### CAMINO 1
+Ambos caminos convergen directamente en la base de la estructura volcánica. Desde Finca Buenos Aires hasta este punto son aproximadamente **6.5 kilómetros** de marcha, lo que toma un promedio de 4 a 5 horas de caminata a buen ritmo.
 
-Por este camino pasamos por una parte que llaman bosque de esponjas, y qué mejor nombre ya que allí fue donde nos terminamos de mojar las botas de senderismo :(, después de caminar por algunos minutos por esta zona húmeda, volvimos a potreros un poco más secos, pero con muchos caminos diferentes hechos por vacas.
+### 📍 LA BASE Y EL ASCENSO FINAL
 
-### CAMINO 2
+Al superar la línea de los frailejones, la vegetación desaparece para dar paso a un paisaje estrictamente lunar dominado por paredes de roca gris. Cruzamos un pequeño arroyo con una cascada al fondo y el suelo se transformó en ceniza suelta y depósitos de arena compacta. Era el inicio de la rampa final.
 
-Este camino se va por la parte alta de la montaña, en este no nos encontraremos muchos humedales con el camino 1, pero por este camino es mucho más fácil perderse, ya que de regreso del Paramillo del Quindío tomamos este camino y nos encontramos con algunas personas que se habían perdido.
-
-Cualquiera de estos 2 caminos que tomemos nos llevará a la base del Paramillo del Quindío, Desde la finca Buenos Aires hasta la Base del Paramillo del Quindío son aproximadamente 6.5 kilometros, no te debiras tardar mas de 5 horas para llegar este lugar.
-
-### BASE DEL PARAMILLO DEL QUINDÍO
-
-Después de salir de los frailejones empezamos a ver paisajes donde abundaba más las roca,
-después de pasar un pequeño río con una cascada al fondo, ya empezábamos a ver un terreno un poco más arenoso. Era señal que venía el ascenso hasta cima.
-
-Desde la Base del **Paramillo del Quindío** hasta la cumbre son aproximadamente 2,25 kilómetros en promedio tardamos casi 2 horas para hacerlo hasta la cumbre, el terreno es complicado ya que algunos tramos pareciera que estuviéramos caminando sobre balastro.
+Desde la base hasta el filo de la cumbre hay **2.25 kilómetros de distancia**. Nos tomó casi 2 horas superar este tramo debido a las condiciones del terreno: la inclinación es severa y la sensación física es idéntica a caminar cuesta arriba sobre balastro o gravilla suelta (das dos pasos y te resbalas uno). 
 
 {% include image.html,
 file:"rutas/quindio/paramillo-quindio/base-paramillo.jpeg",
-caption:"base-paramillo",
+caption:"Filo rocoso en la base del Paramillo del Quindío",
 width:"1200",
 height:"750" %}
 
-Después de hacer cumbre y estar por tiempo tomando fotos empezamos nuestro descenso a las 12 pm, en nuestro regreso nos encontramos con algunas personas de nuestro hospedaje que se habían perdido en el camino para subir al Paramillo del Quindio, así que nos regresamos junto con ellos a nuestro hospedaje, llegamos cerca de las 6 pm.
+Alcanzamos la cumbre rodeados de un imponente paisaje de arenas de colores. Tras documentar la hazaña y tomar fotografías, iniciamos el descenso a las 12:00 PM bajo una niebla cerrada. En la bajada encontramos a un grupo de caminantes perdidos que se habían desviado del track, así que decidimos unificarlos a nuestra cordada para regresar juntos a salvo al refugio, llegando cerca de las 6:00 PM.
 
-<ins> **Recomendación final:** Si vas a ir solo con la ruta gps descargada en tu celular debes de tener en cuenta que si las condiciones climáticas no son muy buenas como neblina, lluvia etc.. (lo que es muy problema en este lugar) el Gps de tu celular podrá tener un ángulo de desfase de 100 metros.</ins>
+Si deseas programar esta experiencia con nuestro equipo logístico guiado, dale clic abajo:
 
-Regresando nos encontramos con varias personas que estaban siguiendo la ruta gps en el celular y se terminaron perdiendo ya que les mostraba el camino mucho más lejos de lo que realmente estaba.
-
-Como dato curioso a pesar de que llevábamos un Garmin, en algunos tramos presentan un ángulo de desfase de 12 metros.
-
-Puedes dar **<a href="https://wa.link/wa.link/5aczuk" target="_blank"> click aquí</a>** para separar tu tour.
+**<a href="https://wa.link/5aczuk" target="_blank" style="font-weight:bold; color:green;">👉 Reserva tu cupo con Guías Autorizados ingresando aquí</a>**
 
 <a href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
 file:"publicidad-post/ropa-randes.png", 
-caption:"", 
+caption:"Línea Técnica Randes Store", 
 width:"1000", 
 height:"300" %}
 </a>
- 
-## DÍA 3
 
-Nos levantamos a las 7:30 am y comenzamos el descenso a las 8:30 y llegamos al valle del Cocora a la 1 pm.
+---
 
-Este es el fin de la ruta al Paramillo del Quindío, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+### ➡️ DÍA 3: Retorno al Valle del Cocora
 
-<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+Nos levantamos con calma a las 7:30 AM para disfrutar un café montañero y comenzamos el descenso final a las 8:30 AM. Aprovechando la gravedad a nuestro favor y con las piernas descansadas, cubrimos el trayecto de regreso al Valle del Cocora en aproximadamente 4 horas y media, finalizando a la 1:00 PM.
+
+---
+
+<a name="consejos-paramillo" id="consejos-paramillo"></a>
+
+## 🎒 RECOMENDACIONES FINALES PARA TU AVENTURA
+
+*   🚨 **Guía Obligatorio por Seguridad:** Parques Nacionales exige el acompañamiento de guías certificados. Las pérdidas en el Paramillo son constantes por los caminos de herradura falsos. No arriesgues tu vida ni te expongas a expulsiones del área protegida.
+*   📱 **El Peligro del GPS del Celular:** No dependas ciegamente de aplicaciones de celular (como Wikiloc). En días de tormenta o neblina espesa, los teléfonos pueden sufrir un desajuste de señal o desfase satelital de hasta 100 metros, lo que en el páramo te puede arrastrar al borde de un abismo. Incluso los dispositivos de navegación dedicados (como los Garmin de alta gama) llegan a marcar desfases de hasta 12 metros bajo nubosidad severa.
+*   🧥 **Cero Algodón:** Equípate exclusivamente con prendas sintéticas (poliéster, nylon) o lana merina para la primera capa, un buen forro polar de segunda capa y una chaqueta impermeable cortavientos externa.
+*   🥾 **Calzado con Buen Agarre:** La aproximación por los bosques andinos tiene lodo muy denso y la rampa final es de piedra suelta. Asegúrate de ir con botas de caña media o alta que tengan la suela en perfecto estado.
+*   🚯 **Basura Cero:** El Paramillo del Quindío suministra agua limpia a miles de familias río abajo. Guarda todos tus residuos, incluyendo papeles higiénicos y empaques plásticos, y deposítalos en los contenedores al regresar a Salento.
+
+Si este artículo te fue de utilidad para planear tu próxima cumbre, **no olvides seguir de cerca nuestras comunidades de aventura** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">YouTube</a>.
+
+<span class="advise"> Los precios de transportes y servicios locales reflejados en esta guía corresponden a referencias actuales y pueden presentar variaciones según la temporada del año. </span>

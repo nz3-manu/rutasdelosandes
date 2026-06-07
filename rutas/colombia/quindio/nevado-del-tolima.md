@@ -12,8 +12,7 @@ trending: true
 
 # NEVADO DEL TOLIMA: EL GIGANTE DE LA CORDILLERA CENTRAL
 
-En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendaciones para que puedas vivir mucho mejor está aventura y que no cometas nuestros mismos errores.
-
+En este post te contaremos cómo fue nuestra experiencia en el **Nevado del Tolima**, además te daremos recomendaciones para que puedas vivir mucho mejor esta aventura y no cometas nuestros mismos errores.
 
 <p class="box-seguridad">
   🔒 <strong>Viaja a la fija:</strong> Sabemos que es difícil confiar al buscar tours por internet. Durante esta ruta, conocimos aliados locales de nuestra absoluta confianza. Si prefieres ir con ellos, puedes ver los detalles aquí: 
@@ -23,32 +22,35 @@ En este post te contaremos como fue nuestra experiencia en el **Nevado del Tolim
   </a>
 </p>
 
-
 **EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 
-- <a href="#lugares-tolima"> Video de la Ruta realizada al Nevado del Tolima</a>
-- <a href="#como-tolima">¿Cómo llegar al nevado del Tolima? </a>
-- <a href="#sendero-cumbre-tolima"> Ruta hasta la cumbre del nevado del Tolima </a>
-- <a href="#como-tolima"> Hospedaje cerca al nevado del Tolima </a>
-- <a href="#tour-tolima"> Recomendaestáción para tomar un tour al Nevado del Tolima </a>
+- <a href="#lugares-tolima">Video de la Ruta realizada al Nevado del Tolima</a>
+- <a href="#como-tolima">¿Cómo llegar al Nevado del Tolima?</a>
+- <a href="#sendero-cumbre-tolima">Ruta hasta la cumbre del Nevado del Tolima</a>
+- <a href="#hospedaje-tolima">Hospedaje cerca al Nevado del Tolima</a>
+<a href="#consejos-tolima">Recomendaciones y consejos de seguridad</a>
 
 **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/quindio/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
 
+---
+
 ## DATOS CURIOSOS DEL NEVADO DEL TOLIMA
 
-El Nevado del Tolima o como también es conocido; Dulima o **Volcan Nevado del Tolima**, es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
+El Nevado del Tolima o como también es conocido; Dulima o **Volcán Nevado del Tolima**, es el punto más alto de la cordillera central de los Andes a 5.215 msnm.
 
-Su nombre Dulima, su historia se remonta a hace más de 400 años (durante la conquista española) había una sacerdotisa llamada Ibanasca, ella era la líder de la tribu de los Dulima, la cual defendió ferozmente su tribu y territorio tras la llegada de los españoles, los cuales la acusaron de brujería y la condenaron a morir en la hoguera 🧙‍♀️.
+Su nombre Dulima se remonta a hace más de 400 años (durante la conquista española). Había una sacerdotisa llamada Ibanasca, líder de la tribu de los Dulima, la cual defendió ferozmente su territorio tras la llegada de los españoles. Ellos la acusaron de brujería y la condenaron a morir en la hoguera 🧙‍♀️.
 
-Al momento de ser quemada en la hoguera su tribu no veía que estuviese siendo quemada sino que un enviado del dios fuego la cubrió para purificarla y su espíritu trascendiera para ser la diosa de las nieves que duerme en las profundidades del Nevado del Tolima, donde descansan los sabios.
+Al momento de ser quemada, su tribu no vio las llamas, sino que un enviado del dios fuego la cubrió para purificarla y hacer que su espíritu trascendiera como la diosa de las nieves que duerme en las profundidades del Nevado del Tolima, donde descansan los sabios.
 
-[Fuente: <a target="_blank" href="https://ibanasca.wordpress.com/2012/11/21/ibanasca-la-diosa-de-las-nieves/"> ibanasca </a>]
+[Fuente: <a target="_blank" href="https://ibanasca.wordpress.com/2012/11/21/ibanasca-la-diosa-de-las-nieves/">ibanasca</a>]
 
 <a name="lugares-tolima" id="lugares-tolima"></a>
 
+---
+
 ## VIDEO DE LA RUTA REALIZADA AL NEVADO DEL TOLIMA
 
-A continuación te mostramos un pequeño **video del Nevado del Tolima** , donde te mostraremos algunos lugares que verás en está ruta de alta montaña del Eje Cafetero.
+A continuación te mostramos un pequeño **video del Nevado del Tolima**, donde verás algunos de los paisajes más imponentes de esta ruta de alta montaña en el Eje Cafetero.
 
 {% include youtube.html,
     videoid:"k2pBfRDnHjU",
@@ -57,32 +59,39 @@ A continuación te mostramos un pequeño **video del Nevado del Tolima** , donde
     caption:"Video Nevado del Tolima"
 %}
 
+<a name="tour-tolima" id="tour-tolima"></a>
+
+---
+
 ## PRECIOS DEL TOUR AL NEVADO DEL TOLIMA
 
-Los tours grupales por lo general son los fines de semana, debes de tener en cuenta de hacer la reservación como mínimo con 1 mes de anticipación. Si vas con un grupo de amigos podrías realizar un tour privado para el nevado del Tolima, a continuación te mostramos la tabla de precios.
+Los tours grupales por lo general operan los fines de semana. Debes tener en cuenta realizar tu reservación con un mínimo de 1 mes de anticipación. Si vas con tu propio grupo de amigos, también puedes optar por un tour privado.
 
+**RECOMENDACIÓN PARA ELEGIR UN TOUR:** <ins>_Asegúrate de que la agencia con la que vas a viajar cuente con toda la documentación legal para actividades de alta montaña y tenga el aval vigente de Parques Nacionales Naturales de Colombia._</ins>
 
-**RECOMENDACIÓN PARA ELEGIR UN TOUR:** <ins> _Asegurate que la agencia con la cual vas a ir cuente con todos la documentación para hacer este tipo de actividades, y además cuente con el aval de Parques Nacionales._ </ins>
-
-Si quieres más información de este tour o quieres reservar, puedes dar **<a href="https://wa.link/yg6ads" target="_blank"> clic aquí. </a>**
+Si quieres más información de este tour o deseas reservar tu cupo, puedes dar **<a href="https://wa.link/yg6ads" target="_blank">clic aquí.</a>**
 
 <a name="como-tolima" id="como-tolima"></a>
 
+---
+
 ## ¿CÓMO LLEGAR AL NEVADO DEL TOLIMA?
 
-Para llegar al Nevado del Tolima se puede llegar por los municipios de: Salento Quindio o por Anzoátegui Tolima.
+Para iniciar el ascenso al Nevado del Tolima se puede ingresar por los municipios de Salento (Quindío) o por Anzoátegui (Tolima).
 
-La ruta que realizamos fue por Salento Quindio.
+La ruta que realizamos en esta ocasión fue por **Salento, Quindío**.
 
-Una vez en Salento nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se encuentran los jeeps para ir al Valle del Cocora, la duración del trayecto son 20 minutos.
+Una vez en Salento, nos dirigimos al parque principal (Plaza de Bolívar) ⛪️ donde se toman los tradicionales jeeps Willys hacia el Valle del Cocora. La duración del trayecto es de unos 20 minutos. Al llegar al Valle del Cocora, confieso que teníamos un poco de miedo por todo el esfuerzo físico que se venía 😅.
 
-Una vez llegamos al Valle del Cocora, confieso que teniamos un poco de miedo por todo lo que se venía 😅.
+<a name="sendero-cumbre-tolima" id="sendero-cumbre-tolima"></a>
+
+---
 
 ## RUTA HASTA LA CUMBRE DEL NEVADO DEL TOLIMA
 
-Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 kilómetros, de los cuales 8 kilómetros son en un ascenso con una inclinación de 60%.
+Las primeras fincas que brindan servicio de hospedaje de montaña se encuentran a 12 y 14 kilómetros de distancia del punto de inicio. De este trayecto, unos 8 kilómetros corresponden a un ascenso exigente con una inclinación promedio del 60%.
 
-**Mapa de ruta realizada desde el Valle del Cocora hasta Arenales**
+**Mapa de la ruta realizada desde el Valle del Cocora hasta Arenales**
 
 {% include iframe.html
    type:"custom"
@@ -90,13 +99,13 @@ Las primeras fincas que brindan servicio de hospedaje se encuentran a 12 y 14 ki
    caption:"Mapa valle del cocora hasta Arenales"
 %}
 
-### -> DÍA #1
+### ➡️ DÍA #1: Del Valle del Cocora al Páramo
 
-Empezamos nuestro camino a las 6:30 am, como llevábamos muchas maletas pagamos el servicio de mulas 🐴, después de caminar por 10 minutos nos encontramos con un puesto de control de parques nacionales.
+Empezamos nuestro camino a las 6:30 am. Como llevábamos bastante equipaje técnico, contratamos el servicio de mulas 🐴. Después de caminar por 10 minutos, pasamos por el puesto de control de Parques Nacionales.
 
-Continuamos nuestro camino y con cada paso que dábamos dejamos atrás las palmas de cera y nos adentramos más en bosque, cruzamos algunos puentes y pasamos cerca de la casa de los colibrí, que hasta la fecha este lugar se encuentra cerrado.
+Continuamos el sendero y, con cada paso, dejábamos atrás las palmas de cera para adentrarnos en el bosque andino. Cruzamos varios puentes colgantes y pasamos cerca de la "Casa de los Colibríes" (que a la fecha de este post se encuentra cerrada al público).
 
-### -> ESTRELLA DE AGUA
+### 📍 ESTRELLA DE AGUA
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/estrellaAgua.jpg",
@@ -104,128 +113,154 @@ caption:"Estrella de Agua",
 width:"900",
 height:"505" %}
 
-Aproximadamente a 9 kilómetros del Valle del Cocora nos encontraremos con Estrella de Agua. El ascenso hasta aquí fue un poco difícil ya que este camino cuenta con muchas partes inclinadas y además de esto en días anteriores había llovido mucho y había mucho pantano.
+Aproximadamente a 9 kilómetros del Valle del Cocora nos encontramos con Estrella de Agua. El ascenso hasta aquí fue complejo; el camino tiene tramos muy empinados y, como había llovido fuerte los días anteriores, nos encontramos con bastante lodo y pantano.
 
-En Estrella de Agua no se presta el servicio de hospedaje ni zona de camping. Además de eso es prohibido 🚫🏕 acampar en sus alrededores.
+> 🚫🏕 **Importante:** En Estrella de Agua ya no se presta servicio de hospedaje ni zona de camping. Está completamente prohibido acampar en sus alrededores.
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html, 
    file:"publicidad-post/chaqueta-randes.jpg", 
-   caption:"", 
+   caption:"Publicidad Randes", 
    width:"480", 
    height:"200" 
 %}
 </a>
 
-**RECOMENDACIÓN:** <ins>_Si no se cuenta con: La experiencia de montaña, estado físico necesario, el tiempo necesario y con un guía especializado. Solo realizar la ruta hasta Estrella de agua, ya que a partir de aquí el ascenso es con una inclinación del 60%, tendrán que pasar 8 kilómetros para encontrar la finca más cercana._</ins>
+**RECOMENDACIÓN:** <ins>_Si no cuentas con experiencia previa en alta montaña, la condición física adecuada, el equipo técnico o un guía especializado, lo ideal es realizar la ruta solo hasta Estrella de Agua. A partir de este punto, la exigencia aumenta drásticamente con pendientes del 60% durante 8 kilómetros antes de encontrar el refugio más cercano._</ins>
 
-Una vez de haber dejado atrás Estrella de agua, nos espera un ascenso de 4 kilómetros por un paisaje boscoso, para después entrar a ver la belleza de los páramo que se funden con la vegetación del bosque.
+Tras dejar atrás Estrella de Agua, nos enfrentamos a un fuerte ascenso de 4 kilómetros entre vegetación boscosa, para luego abrirnos paso ante la imponente belleza del páramo.
 
 {% include image.html,
  file:"rutas/quindio/nevado-del-tolima/valle-de-los-perdidos.JPG",
- caption:"Foto paramo(valle de los perdidos)",
+ caption:"Paisaje de páramo - Valle de los Perdidos",
  width:"900",
  height:"506"
  %}
 
-Después de dejar el bosque atrás cruzamos por el Valle de los Perdidos, por este valle no se recomienda caminar cuando oscurece ya que es muy fácil perderse, escuchamos personas que les toco dormir en la noche en este lugar y esto es muy peligroso ya que las temperaturas en este lugar son muy bajas y te podría dar hipotermia.
+Cruzamos el **Valle de los Perdidos**. No se recomienda bajo ninguna circunstancia caminar por esta zona si se hace de noche, ya que la niebla desorienta por completo y es muy fácil perder el rumbo. Hemos conocido historias de montañistas que tuvieron que pasar la noche a la intemperie aquí; esto es sumamente peligroso debido a las bajísimas temperaturas que pueden detonar una hipotermia.
 
-Después de 2 horas caminando por este valle nos encontraremos con la primera finca que brinda hospedaje.
+Luego de 2 horas de marcha por el valle, divisamos la primera finca de montaña.
+
+<a name="hospedaje-tolima" id="hospedaje-tolima"></a>
+
+---
 
 ## HOSPEDAJE CERCA AL NEVADO DEL TOLIMA
 
-Una vez de llegar a finca que nos hospedamos nos recibieron con café caliente ☕️, este nos hizo olvidar el frío tan berraco que teníamos por caminar casi 2 horas con lluvia y sin guantes ya que los habíamos enviado en el bolso grande con la mula 😅.
+Al llegar a la finca donde nos hospedaríamos, nos recibieron con un café caliente ☕️ que nos devolvió el alma al cuerpo. El frío que llevábamos era tremendo, especialmente porque caminamos casi 2 horas bajo la lluvia sin guantes (cometimos el error de enviarlos en el bolso principal con la mula 😅).
 
-Después de ese delicioso café aproveche para cambiarme las botas que a pesar de que eran impermeables estaban todas mojadas, yo estaba un poco asustado ya que eran las que llevaba para hacer cumbre, así que le pedí el favor al dueño de la finca para secarlas al lado del fogón.
+Aproveché de inmediato para cambiarme las botas. A pesar de ser impermeables, estaban húmedas por fuera y me preocupaba que eran las mismas que usaría para el día de cumbre. Por suerte, el dueño de la casa nos permitió acercarlas con cuidado al fogón de leña para secarlas.
 
-En está finca podrán encontrar los siguientes servicios:
+En estas fincas campesinas de montaña puedes encontrar los siguientes servicios (precios de referencia):
 
-- Habitación compartida 🛌: $45.000 pesos por persona.
-- Zona de camping 🏕:$20.000.
-- Almuerzo y cena 🍛: $25.000 pesos.
-- Desayuno 🥟: $15.000 pesos.
+*   **Habitación compartida 🛌:** $45.000 COP por persona.
+*   **Zona de camping 🏕:** $20.000 COP.
+*   **Almuerzo / Cena 🍛:** $25.000 COP.
+*   **Desayuno 🥟:** $15.000 COP.
 
-Nota: si llegaras a estos hospedaje
+<span class="advise"> Los precios mencionados anteriormente son aproximados y pueden variar según la temporada. </span>
 
-<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+**[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuentas con la ropa técnica adecuada para esta ruta, te invitamos a conocer el catálogo de nuestra tienda en línea haciendo clic aquí</a>]**
 
-**[<a target="_blank" href="https://www.instagram.com/randes.store/">Si no cuentas con la ropa adecuada para hacer está ruta, te invitamos a conocer nuestra tienda en linea dando clic aquí</a>]**
+---
 
-### CAMINO A LA CUMBRE DEL NEVADO DEL TOLIMA
+### ➡️ DÍA #2: De Finca La Playa a Campamento Arenales
 
-### DÍA #2
+Al día siguiente nos movilizamos hacia el campamento alto en **Arenales**. Por fortuna, mis botas de cumbre se secaron bien, así que las guardé en el morral y usé unos tenis de senderismo para el ascenso intermedio.
 
-Al siguiente día salimos a acampar en Arenales , por fortuna mis botas estaban un poco más secas así que las guarde para subir a la cumbre y use otros tenis que llevaba para subir a Arenales.
+Desde la Finca La Playa hasta Arenales hay unos 7 kilómetros de distancia, pero pasamos de los 3.800 msnm a los 4.500 msnm. ¡Ya se imaginarán el nivel de las pendientes! 😅
 
-Desde la Finca la Playa hasta Arenales hay aproximadamente 7 kilómetros, pasaremos de una altitud de 3.800 msnm a 4.500 msnm, se imaginarán las lomitas que toca subir 😅.
+Al llegar a Arenales armamos las carpas bajo un frío intenso. Ten en cuenta que este campamento no cuenta con fuentes de agua cercanas, por lo que es obligatorio cargar el líquido desde los puntos señalados por los guías. 
 
-Al llegar a Arenales armamos nuestras carpas, el frío que hacia en este lugar era demasiado, este lugar no cuenta con fuentes de agua cercana, así que llevamos botellas plásticas con agua.
+> 🚮 **Compromiso de montaña:** Por favor, regresa contigo absolutamente toda tu basura. Es muy triste ver botellas plásticas abandonadas en un ecosistema tan frágil. 🥲
 
-No olvides llevar de nuevo contigo toda la basura, ya que es triste ver en este lugar tantas botellas plásticas 🥲.
+Cenamos algo ligero y a las 8:00 pm ya estábamos durmiendo, listos para el ataque a cumbre.
 
-Después de comer algo, nos fuimos a dormir a 8 pm ya que al siguiente día empezaríamos el ascenso al Nevado del Tolima 🗻.
+---
 
-### DÍA #3
+### ➡️ DÍA #3: El Ataque a la Cumbre del Tolima 🗻
 
-Para hacer cumbre al Nevado del Tolima desde Arenales tuvimos que pasar por diferentes tramos, aquí te los explicaremos:
+Para alcanzar la cima del Nevado del Tolima desde Arenales dividimos el ascenso en tres tramos clave:
 
-**TRAMO DE ARENA:** Nos levantamos un poco más temprano para hacer el desayuno, y empezar a ponernos nuestro equipo, arnés, casco y frontoluz, esperamos un poco para que calmará la lluvia para posteriormente empezar el ascenso.
-
-Primero subimos por arena, cada vez que se ascendía más se empezaba a ver escarcha, al llegar a un sector llamado el Helipuerto aprovechamos para sacar un poco de agua de un pequeño arroyo.
+#### 1. TRAMO DE ARENA
+Nos levantamos muy temprano para preparar el desayuno, hidratar y equiparnos con el arnés, casco, crampones en la mochila y el frontoluz. Esperamos a que la lluvia disminuyera un poco antes de salir. El primer terreno es pura arena volcánica suelta y ceniza; a medida que subes, se empieza a ver la escarcha sobre el suelo. Pasando por el sector del "Helipuerto", aprovechamos para recargar un poco de agua limpia de un pequeño arroyo.
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/arena.jpg",
-caption:"Tramo arena",
+caption:"Ascenso por el tramo de arena",
 width:"1200",
 height:"800" %}
 
-**<span class="advise"> Foto por: <a href="https://www.instagram.com/ssc_roll/"  target="_blank"> @ssc_roll </a> </span>**
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/ssc_roll/" target="_blank">@ssc_roll</a> </span>**
 
-En este punto mi fronto luz empezó a fallar :(, ya que no era de pilas así que se descargó muy rápido por el frío, me toco ir en el medio del grupo para que me alumbraran el camino, para mi fortuna para el siguiente tramo ya se podía ver un poco más sin necesidad del frontoluz.
+*Nota de experiencia:* En este punto mi frontoluz recargable falló debido a que las bajas temperaturas agotan las baterías de litio mucho más rápido. Me tocó hacerme en medio del grupo para aprovechar la luz de mis compañeros hasta que empezó a aclarar.
 
-**TRAMO DE ROCAS:** Después pasamos a subir por unas rocas, las cuales por la lluvia estaban resbaladizas así que el guía ató la cuerda a las chapas que estaban pegadas a la roca y después nos pegamos a la cuerda mediante el mosquetón y el arnés, esto nos ayudó mucho ya las rocas estaban un poco resbalosas.
+#### 2. TRAMO DE ROCAS
+Llegamos a la sección de roca. Debido a la humedad, la piedra estaba muy lisa y resbaladiza. Aquí la seguridad es primordial: el guía aseguró la cuerda principal a los anclajes fijos (chapas) de la pared y nos enganchamos mediante el mosquetón y la línea de vida de nuestros arneses. 
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/rocas.JPG",
-caption:"Tramo rocas",
+caption:"Paso técnico por el tramo de rocas",
 width:"1280",
 height:"960" %}
 
-Al momento de subir por estas rocas uno de nuestros compañeros llevaba el piolet colgado a un costado del maletín y el bastón de senderismo en una mano, y al intentar subir un tramo el piolet se pegó con la roca y como llevaba el bastón de senderismo en una mano no pudo sujetarse bien de la roca y casi sigue derecho cuesta abajo, para su fortuna estábamos asegurados a la roca.
+En este tramo, uno de nuestros compañeros cometió el error de llevar el piolet colgado por fuera de la mochila de forma horizontal y los bastones en la mano. Al intentar superar un resalte, el piolet se trabó con la roca desestabilizándolo. Por fortuna, el sistema de cuerdas funcionó a la perfección y no pasó de ser un susto.
 
-**RECOMENDACIÓN:** <ins>_Antes de subir por estas rocas asegurate que a los lados del bolso no tengas cosas que te puedan dificultar subir por estas rocas como los bastones de senderismo o el piolet, y asegurate de tener las manos libres para sujetarte bien._</ins>
+⚠️ **RECOMENDACIÓN:** <ins>_Antes de empezar el paso de roca, guarda tus bastones de senderismo dentro o bien sujetos al morral y asegúrate de que el piolet no sobresalga de forma peligrosa. Necesitas las manos completamente libres para progresar de forma segura._</ins>
 
-**TRAMO DE NIEVE:** Después de haber pasado este tramo de rocas, seguimos con el tramo de nieve, aquí nos pusimos los crampones y todos nos sujetamos a la cuerda para comenzar el ascenso, este es uno de los tramos más difíciles en cuanto a exigencia física, así que es buen momento para comer algún snack y llevar otro poco en los bolsillos de tu pantalón para ir comiendo en el ascenso.
+#### 3. TRAMO DE NIEVE (GLACIAR)
+Al llegar al borde del glaciar, nos colocamos los crampones, nos encordamos en la cordada oficial bajo las órdenes del guía y comenzamos la marcha sobre el hielo. Es la parte más exigente físicamente por la altitud. Es el momento ideal para guardar chocolates o snacks energéticos en los bolsillos de la chaqueta e ir comiendo sin detener el ritmo.
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/nieve.JPG",
-caption:"Tramo nieve",
+caption:"Progresión en glaciar encordados",
 width:"1152",
 height:"804" %}
 
-**<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487 </a> </span>**
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/" target="_blank">@piri487</a> </span>**
 
-Después de caminar cerca de 40 minutos por la nieve a nuestro amigo se le daño el crampón 😰, como pudo lo arreglaron y continuamos adelante, después de todos estos inconvenientes logramos subir a la cumbre.
+A mitad de camino, a uno de los muchachos se le soltó un crampón, pero el guía resolvió el ajuste rápidamente en el sitio. Tras superar las últimas pendientes, ¡coronamos la cumbre! La vista desde arriba paga cada gota de sudor.
 
 {% include image.html,
 file:"rutas/quindio/nevado-del-tolima/cumbre.jpg",
-caption:"Cumbre Tolima",
+caption:"Cumbre en el Volcán Nevado del Tolima (5.215 msnm)",
 width:"1152",
 height:"804" %}
 
-**<span class="advise"> Foto por: <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>**
+**<span class="advise"> Foto por: <a href="https://www.instagram.com/jorge_leyton79/" target="_blank">@jorge_leyton79</a> </span>**
 
-<ins> **RECOMENDACIÓN:** </ins>
+📌 **CHECKLIST RÁPIDO PARA CUMBRE:**
+*   Calzado impermeable de montaña (exclusivo para el día de cumbre).
+*   Guantes térmicos e impermeables, linterna frontal (preferiblemente con pilas de repuesto), gafas con protección UV y protector solar de alta gama.
+*   Verificación previa del equipo técnico: Crampones ajustados a tus botas, piolet, casco y arnés en óptimas condiciones.
 
-- Llevar un par de tenis impermeables solo para hacer cumbre, guantes impermeables, frontoluz, gafas y bloqueador solar.
-- Revisa bien tu equipo de montaña; Crampones, piolet, casco y arnés.
+Tras disfrutar de la cumbre, descendimos al campamento Arenales cerca de las 10:00 am, empacamos todo el campamento y bajamos a las 12:00 pm hacia la Finca La Playa para descansar del desgaste.
 
-Una vez de hacer cumbre regresamos al campamento a las 10 am, arreglamos todo nuestro equipaje, y salimos a las 12 pm de nuevo para la finca la playa donde pasaríamos la noche.
+---
 
-### DÍA #4
+### ➡️ DÍA #4: El Retorno al Valle del Cocora
 
-Al siguiente día comenzamos nuestro descenso para el Valle del Cocora. Como íbamos un poco cansados por el viaje decidimos pagar para bajar nuestro equipaje en las mulas y creo que está fue una muy buena idea ya que había llovido mucho los ultimo días y el camino estaba con mucho pantano y era muy fácil resbalarse.
+Al día siguiente iniciamos el descenso final hacia el Valle del Cocora. Con el cansancio acumulado en las piernas, decidimos enviar los morrales pesados abajo de nuevo con las mulas. Fue la mejor decisión: los senderos estaban hechos un jabón por el lodo de las lluvias recientes y bajar livianos nos evitó varias caídas feas.
 
-Este es el fin de la ruta al Nevado del Tolima, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.
+¡Y así concluye esta espectacular travesía al corazón del Parque Nacional Natural Los Nevados!
 
-<span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>
+
+
+<a name="consejos-tolima" id="consejos-tolima"></a>
+
+## 🎒 RECOMENDACIONES FINALES PARA TU AVENTURA
+
+Para que disfrutes al máximo el Nevado del Tolima y evites imprevistos en la alta montaña, ten en cuenta este checklist antes de armar tu morral:
+
+*   🚨 **Guía obligatorio (Norma de Parques):** Debido al alto índice de personas extraviadas y por seguridad ecosistémica, **ya no está permitido el ingreso de turistas sin el acompañamiento de un guía certificado**. Evítate sanciones y contrata con agencias avaladas. Si necesitas apoyo con esto, puedes [ver el tour de nuestros aliados locales aquí](#tour-tolima).
+*   🧤 **Ropa técnica a la mano:** No cometas nuestro error; deja tus guantes impermeables y una capa extra en tu morral de asalto. Si llueve en el páramo, las mulas irán adelante con el equipaje grande y pasarás un frío berraco.
+*   🔦 **Frontoluz con pilas de repuesto:** El frío extremo agota las baterías de litio (recargables) en minutos. Usa una linterna frontal con pilas tradicionales y guarda los repuestos en un bolsillo interno bien abrigado.
+*   🧗‍♂️ **Manos libres en la roca:** Antes de empezar el tramo de escalada, asegura tus bastones dentro de la mochila y acomoda el piolet en vertical. Necesitas tus dos manos libres para sujetarte con fuerza de la pared.
+*   🍫 **Snacks en los bolsillos:** El glaciar exige el doble de energía. Lleva dulces, bocadillos o frutos secos en los bolsillos de tu chaqueta para comer sobre la marcha sin necesidad de bajarte el morral.
+*   💧 **Logística de agua:** El campamento alto en Arenales no tiene fuentes hídricas cerca. Asegúrate de recargar todas tus botellas desde la finca de montaña.
+*   🚯 **Montañismo con conciencia:** El páramo y el glaciar son ecosistemas muy frágiles. Absolutamente toda la basura que generes debe regresar en tu morral hasta Salento. ¡Cuidemos la casa de la diosa Dulima!
+
+
+Si te gustó nuestra guía y quieres ver más crónicas de montaña en Colombia, **no olvides seguirnos en nuestros canales oficiales** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">YouTube</a>.
+
+<span class="advise"> Los precios mencionados en este artículo son informativos y pueden sufrir modificaciones en el territorio. </span>
