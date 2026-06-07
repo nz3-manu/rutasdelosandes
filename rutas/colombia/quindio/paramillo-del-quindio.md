@@ -33,7 +33,7 @@ En este post te contaremos detalladamente cómo fue nuestra **excursión al Para
 - <a href="#hospedaje-paramillo">Hospedajes de montaña: Fincas La Argentina y Buenos Aires</a>
 - <a href="#consejos-paramillo">Recomendaciones finales de seguridad y equipo</a>
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/paramillo-del-quindio.html">See this post in English version 🇺🇸</a>]**
 
 ---
 

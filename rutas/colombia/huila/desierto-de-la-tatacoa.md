@@ -35,7 +35,7 @@ Por el contrario, si prefieres delegar la organización y viajar con el respaldo
 
 Empecemos con la aventura 🏜️.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/huila/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
 
 ---
 

@@ -35,7 +35,7 @@ Te aseguramos que, independientemente de la ruta que escojas, vas a vivir una ex
  
 Empecemos con la aventura 🌴.
  
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/salento-colombia.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/salento-colombia.html">See this post in English version 🇺🇸</a>]**
 
 ---
  
