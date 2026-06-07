@@ -40,7 +40,7 @@ __EN ESTE POST ENCONTRARÁS LAS SIGUIENTES SECCIONES:__
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/guainia/cerros-de-mavicure.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/cerros-de-mavicure.html">See this post in English version 🇺🇸</a>]__
 
 
 <a name="video-mavicure" id="video-mavicure"></a>

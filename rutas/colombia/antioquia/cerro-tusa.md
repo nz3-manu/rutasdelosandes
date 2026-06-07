@@ -4,7 +4,7 @@ title: "Cerro Tusa | Guía completa"
 categories: colombia
 seo_title: "Cerro Tusa, Pirámide Natural en Venecia Antioquia: Cómo llegar"
 excerpt: "Cerro Tusa en Antioquia es la pirámide natural más alta del mundo con 1.850 metros. Descubre cómo llegar desde Medellín, tours y consejos clave para el ascenso."
-images_url: /images/rutas/hiking/cerro-tusa
+images_url: /images/rutas/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel
 trending: true
@@ -32,26 +32,36 @@ En este post te contaremos detalladamente cómo fue nuestra experiencia al conoc
 
 Empecemos con la aventura ⛰️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/cerro-tusa.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/cerro-tusa.html">See this post in English version 🇺🇸</a>]**
 
 <a id="video-cerro-tusa"></a>
 
 ---
-
 ## VIDEO DE LA RUTA A CERRO TUSA 🎥
 
 A continuación, te compartimos el video de nuestra expedición, donde podrás visualizar la inclinación real del terreno y las recomendaciones de seguridad en cada tramo.
 
-{% include youtube.html
-   videoid="VtuzI8j-dgk"
-   width="480"
-   height="270"
-   caption="Expedición al imponente Cerro Tusa"
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Ruta de Senderismo y Ascenso a Cerro Tusa - Venecia, Antioquia",
+  "description": "Video guía y recorrido técnico por el sendero vertical de Cerro Tusa, la pirámide natural más alta del mundo. Consejos de seguridad y escalada.",
+  "thumbnailUrl": "https://img.youtube.com/vi/VtuzI8j-dgk/maxresdefault.jpg",
+  "uploadDate": "2026-06-07T09:00:00-05:00",
+  "contentUrl": "https://www.youtube.com/watch?v=VtuzI8j-dgk",
+  "embedUrl": "https://www.youtube.com/embed/VtuzI8j-dgk"
+}
+</script>
+
+{% include youtube.html,
+   videoid:"VtuzI8j-dgk",
+   width:"480",
+   height:"270",
+   caption:"Expedición al imponente Cerro Tusa"
 %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
-
-<a id="dato-cerro-tusa"></a>
 
 ---
 
@@ -102,10 +112,10 @@ Luego de recorrer el pueblo, nos reunimos con el guía asignado. En este punto a
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
 {% include image.html
-   file="publicidad-post/chaqueta-randes.jpg" 
-   caption="Chaquetas Técnicas Randes" 
-   width="480" 
-   height="200" 
+   file:"publicidad-post/chaqueta-randes.jpg" 
+   caption:"Chaquetas Técnicas Randes" 
+   width:"480" 
+   height:"200" 
 %}
 </a>
  
@@ -122,10 +132,11 @@ Nos detuvimos inicialmente en el sector arqueológico del Altar de Sacrificios, 
 La distancia total desde el inicio del sendero hasta la **cima de Cerro Tusa** es de aproximadamente 2.5 kilómetros. Lo retador de la ruta es que 1 kilómetro completo se desarrolla en un ascenso vertical puro con una inclinación que alcanza los 70 grados, donde avanzar requiere tracción constante utilizando las manos, casi como una escalada libre.
 
 {% include iframe.html
-  type="custom"
-  mid="1uyJCYiKdY9kO-HlqgOKX9ow1pU7-hqkJ&hl=es"
-  caption="Mapa GPS: Circuito de Senderismo desde Venecia hasta Cerro Tusa"
+   type:"custom"
+   mid:"1uyJCYiKdY9kO-HlqgOKX9ow1pU7-hqkJ&hl=es&ehbc=2E312F"
+   caption:"Mapa: Ruta Municipio de Venecia hasta Cerro Tusa"
 %}
+
 
 ### -> EL SENDEROS CONSTA DE 3 TRAMOS DEFINIDOS:
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title: Ciudad Perdida
 categories: colombia
@@ -8,15 +7,7 @@ excerpt: Poner texto con palabras claves
 images_url: /images/rutas/costa/ciudad-perdida
 viewranger: MTY2NDcwMQ==
 author: manuel
-trending: true
 ---
-
-
-
-
-
-
-
 
 # CIUDAD PERDIDA
 

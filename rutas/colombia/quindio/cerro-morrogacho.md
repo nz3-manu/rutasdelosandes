@@ -7,7 +7,6 @@ excerpt: Cerro Morrogacho, es uno de los picos más altos de Quindío, esta ubic
 images_url: /images/rutas/quindio/cerro-morrogacho
 viewranger:
 author: manuel
-trending: true
 ---
 
 # MORROGACHO

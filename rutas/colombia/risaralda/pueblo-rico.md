@@ -7,7 +7,6 @@ excerpt: Pueblo Rico es un municipio de Risaralda, el cual es conocido por su gr
 images_url: /images/rutas/risaralda/pueblo-rico
 viewranger:
 author: manuel
-trending: true
 ---
 
 

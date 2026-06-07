@@ -34,25 +34,38 @@ Así podrás planear mucho mejor tu viaje.
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/tolima/prado-dam.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/prado-dam.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="video-prado-tolima" id="video-prado-tolima"></a>
 
 ---
 
-## VIDEO DE LA RUTA A LA REPRESA DE PRADO
+## VIDEO DE LA RUTA A LA REPRESA DE PRADO 🎥
 
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que vimos en nuestro viaje a la represa de prado en el departamento de Tolima.
 
-{% include youtube.html
-videoid:"oD_H6rkN4Bc",
-width:"480",
-height:"270",
-Caption:"videos de la ruta a la Represa de Prado"
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Guía de Viaje a la Represa de Prado - Tolima",
+  "description": "Video recorrido y guía turística por el Mar Interior de Colombia: la Represa de Prado en el Tolima. Conoce cascadas ocultas, cañones naturales y tours en lancha.",
+  "thumbnailUrl": "https://img.youtube.com/vi/oD_H6rkN4Bc/maxresdefault.jpg",
+  "uploadDate": "2026-06-07T11:45:00-05:00",
+  "contentUrl": "https://www.youtube.com/watch?v=oD_H6rkN4Bc",
+  "embedUrl": "https://www.youtube.com/embed/oD_H6rkN4Bc"
+}
+</script>
+
+{% include youtube.html,
+   videoid:"oD_H6rkN4Bc",
+   width:"480",
+   height:"270",
+   caption:"Videos de la ruta a la Represa de Prado"
 %}
 
-Suscríbete a nuestro canal de youtube dando click aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 
 

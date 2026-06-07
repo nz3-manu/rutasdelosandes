@@ -26,26 +26,36 @@ Antes que nada, queremos hacer claridad que para visitar muchos de estos lugares
  
 **EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
  
+- <a href="#video-norcasia"> Video de la ruta a Norcasia</a>
 - <a href="#dato-norcasia"> Datos curiosos de Norcasia</a>
 - <a href="#tour-norcasia"> Tours a Norcasia </a>
 - <a href="#llegar-norcasia"> ¿Cómo llegar a Norcasia? </a>
 - <a href="#lugares-norcasia"> Lugares turísticos en Norcasia</a>
 - <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#recomendaciones-norcasia"> Recomendaciones finales para visitar Norcasia</a>
- 
- <a name="dato-norcasia"></a>
- 
-## DATOS CURIOSOS DE NORCASIA
- 
-Norcasia es considerado como el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
- 
-Norcasia además está ubicada al oriente caldense, a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
- 
+
+Empecemos con la aventura ⛰.
+
 **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/caldas/norcasia-caldas.html">See this post in English version 🇺🇸</a>]**
  
-## VIDEO DE LUGARES A VISITAR EN NORCASIA
+  <a name="video-norcasia"></a>
+
+## VIDEO DE LUGARES A VISITAR EN NORCASIA 🎥
  
-A Continuación te mostramos un pequeño video de Norcasia de los lugares turísticos que no te puedes perder, como el __embalse de Amaní, río la Miel__ entre otros.
+A continuación te mostramos un pequeño video de Norcasia de los lugares turísticos que no te puedes perder, como el __embalse de Amaní, río La Miel__ entre otros.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Lugares Turísticos en Norcasia - Embalse de Amaní y Río La Miel",
+  "description": "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura.",
+  "thumbnailUrl": "https://img.youtube.com/vi/A-oYwJF3EsQ/maxresdefault.jpg",
+  "uploadDate": "2026-06-07T11:40:00-05:00",
+  "contentUrl": "https://www.youtube.com/watch?v=A-oYwJF3EsQ",
+  "embedUrl": "https://www.youtube.com/embed/A-oYwJF3EsQ"
+}
+</script>
  
 {% include youtube.html,
     videoid:"A-oYwJF3EsQ",
@@ -54,7 +64,17 @@ A Continuación te mostramos un pequeño video de Norcasia de los lugares turís
     caption:"Video de Norcasia"
 %}
  
-Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+
+ 
+ <a name="dato-norcasia"></a>
+ 
+## DATOS CURIOSOS DE NORCASIA
+ 
+Norcasia es considerado como el municipio más joven del departamento de Caldas, cuenta con una población total de 6.374 habitantes, por estas razones es conocida como la niña de Caldas.
+ 
+Norcasia además está ubicada al oriente caldense, a 43 kilómetros de La Dorada, limita al Norte: Municipio de Sonsón (Antioquia) y al Sur con los municipios de Victoria y Samaná.
+
 
 <a name="tour-norcasia"></a>
  

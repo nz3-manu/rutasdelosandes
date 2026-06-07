@@ -34,24 +34,15 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/tolima/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
 
 ---
 
 <a name="video-volcan-machin" id="video-volcan-machin"></a>
 
-## VIDEO DE LA RUTA AL VOLCAN MACHIN 🎥
+## VIDEO DE LA RUTA AL VOLCÁN MACHÍN 🎥
 
-A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcan machin.
-
-{% include youtube.html
-   videoid="-CbhegdpsX8"
-   width="480"
-   height="270"
-   caption="Video de la ruta al Volcán Machín"
-%}
-
-Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
+A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcán Machín.
 
 <script type="application/ld+json">
 {
@@ -65,6 +56,15 @@ Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href=
   "embedUrl": "https://www.youtube.com/embed/-CbhegdpsX8"
 }
 </script>
+
+{% include youtube.html,
+   videoid:"-CbhegdpsX8",
+   width:"480",
+   height:"270",
+   caption:"Video de la ruta al Volcán Machín"
+%}
+
+Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 ---
 

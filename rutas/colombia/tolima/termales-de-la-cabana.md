@@ -7,7 +7,6 @@ excerpt: Conoce la información necesaria para visitar los Termales de la Cabañ
 images_url: /images/rutas/tolima/termales-de-la-cabaña
 viewranger: MTYzNjQxOQ==
 author: manuel
-trending: true
 ---
 
 # TERMALES DE LA CABAÑA

@@ -37,7 +37,7 @@ En esta guía te compartiremos toda la información detallada sobre cómo llegar
 
 Empecemos con la aventura ⛰️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/barbas-bremen-reserve.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/barbas-bremen-reserve.html">See this post in English version 🇺🇸</a>]**
 
 <a id="video-barbas-bremen"></a>
 
@@ -61,10 +61,10 @@ A continuación, te compartimos un breve video de la Reserva Barbas Bremen. Te m
 </script>
 
 {% include youtube.html
-   videoid="1anGUPtjsMs"
-   width="480"
-   height="270"
-   caption="Video: Ruta en el Barbas Bremen"
+   videoid:"1anGUPtjsMs"
+   width:"480"
+   height:"270"
+   caption:"Video: Ruta en el Barbas Bremen"
 %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>

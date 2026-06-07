@@ -7,7 +7,6 @@ excerpt: ♨️ Termales del Sifón es un lugar oculto  cerca a Manizales, se en
 images_url: /images/rutas/caldas/sifon
 viewranger:
 author: manuel
-trending: true
 ---
 
 # TERMALES DEL SIFÓN
