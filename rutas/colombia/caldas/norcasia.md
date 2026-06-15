@@ -31,9 +31,9 @@ A lo largo de este artículo descubrirás el estado real de las rutas y adverten
 **EN ESTE POST DE NORCASIA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:**
 - <a href="#video-norcasia"> Video de la ruta a Norcasia</a>
 - <a href="#dato-norcasia"> Datos curiosos de Norcasia</a>
-- <a href="#tour-norcasia"> Tours a Norcasia </a>
 - <a href="#llegar-norcasia"> ¿Cómo llegar a Norcasia? </a>
 - <a href="#lugares-norcasia"> Lugares turísticos en Norcasia</a>
+- <a href="#tour-norcasia"> Tours a Norcasia </a>
 - <a href="#hospedaje-norcasia"> Hospedajes en Norcasia </a>
 - <a href="#recomendaciones-norcasia"> Recomendaciones finales para visitar Norcasia</a>
 
@@ -73,7 +73,7 @@ Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https
 
 ---
 
-## DATOS CURIOSOS DE NORCASIA
+## DATOS CURIOSOS DE NORCASIA 🤓
 
 Norcasia es considerado el municipio más joven del departamento de Caldas. Cuenta con una población total de 6.374 habitantes, y por esta razón es conocida cariñosamente como "la niña de Caldas".
 
@@ -87,7 +87,7 @@ Como algunos de los recorridos se hacen directamente dentro de la presa, el clim
 
 ---
 
-## ¿CÓMO LLEGAR A NORCASIA?
+## ¿CÓMO LLEGAR A NORCASIA? 🗺️
 
 Si no cuentas con transporte propio y quieres ir en bus, aquí te mostramos algunas opciones para que lo puedas hacer por tu cuenta:
 
@@ -103,7 +103,7 @@ Si no cuentas con transporte propio y quieres ir en bus, aquí te mostramos algu
 - **De Bogotá a Norcasia:** El valor del pasaje es de aproximadamente $50.000. La empresa que viaja directo a Norcasia es Coopuertos. El trayecto dura cerca de 6 horas y los horarios de salida son a las 11:00 a.m. y a las 2:00 p.m.
 - **De Cali a La Dorada:** El valor del pasaje es de aproximadamente $115.000. Una de las empresas que hace esta ruta es Expreso Brasilia y el trayecto dura alrededor de 11 horas.
 
-<ins>Recomendación: Los horarios de los buses a veces cambian, así que te aconsejamos llamar directamente a las empresas para confirmar.</ins>
+__Recomendación:__ _Los horarios de los buses a veces cambian, así que te aconsejamos llamar directamente a las empresas para confirmar._
 
 <a id="banner2" href="https://www.randes.co/" target="_blank">
 {% include image.html,
@@ -113,7 +113,7 @@ width:"480",
 height:"200" %}
 </a>
 
-### DESDE LA DORADA A NORCASIA:
+### -> DESDE LA DORADA A NORCASIA:
 
 Como nosotros íbamos en moto, tomamos la **ruta Honda - La Dorada**. Durante el trayecto nos llevamos una sorpresa: aproximadamente un kilómetro antes de llegar, notamos que todos los vehículos bajaban drásticamente la velocidad a 40 km/h 😅. 
 
@@ -141,7 +141,7 @@ mid:"1EWH15Zb6JD0AZbOa6O6WGBA71UHmjuU&hl=es&ehbc=2E312F",
 caption:"Mapa: Ruta a Norcasia"
 %}
 
-#### RÍO LA MIEL
+### ->  RÍO LA MIEL
 
 Para llegar al punto donde iniciamos la navegación, nos tomó **42 minutos en vehículo** desde el **parque principal de Norcasia**. El trayecto combina una carretera en buen estado con algunos tramos destapados, por lo que te recomendamos hacer este recorrido en un vehículo que no sea muy bajito.
 
@@ -157,7 +157,7 @@ width:"1200",
 height:"674"
 %}
 
-#### CASCADA LA CLARA
+### ->  CASCADA LA CLARA
 
 Desde el parque principal de Norcasia hasta la Cascada La Clara hay prácticamente 8.5 kilómetros de distancia. Nosotros nos tardamos unos 20 minutos conduciendo y la carretera estaba en muy buen estado. 
 
@@ -175,7 +175,7 @@ height:"1024"
 
 __Nota:__ Si vas en tu propio transporte y no es temporada alta, puedes pedir permiso en la casa que queda cerca a la entrada para dejar tu vehículo allí parqueado.
 
-#### **EMBALSE DE AMANÍ**
+### ->  **EMBALSE DE AMANÍ**
 
 En el **Embalse de Amaní** vas a encontrar una gran variedad de actividades, ya que es un cuerpo de agua de aproximadamente **50 kilómetros de recorrido**. Allí hay cascadas, lugares excelentes para pescar y atractivos como la **Cascada Waterloo**, una de las más grandes e imponentes del embalse. 
 
@@ -198,21 +198,21 @@ height:"1076"
 %}
 **<span class="advise"> Foto por: Victor</span>**
 
-#### MIRADORES DEL EMBALSE
+### -> MIRADORES DEL EMBALSE
 
 Los miradores quedan a tan solo 10 minutos del pueblo viajando en moto. La carretera para llegar está en muy buen estado. 
 
 Nosotros visitamos dos miradores por la zona en la que estábamos recorriendo, pero sabemos por los locales que hay muchos más en diferentes puntos. Desde estas zonas altas se puede apreciar parte del inmenso embalse y las montañas imponentes que lo rodean. ¡Una vista perfecta para las fotos!
 
 {% include image.html,
-file:"rutas/caldas/norcasia/mirador-embalse-amani.jpg",
+file:"rutas/caldas/norcasia/mirador-embalse-amani.png",
 caption:"Mirador del Embalse de Amaní",
 alt:"Mirador del Embalse, Norcasia Caldas paraíso natural",
 width:"1200",
-height:"674"
+height:"635"
 %}
 
-#### RÍO MANSO
+### ->  RÍO MANSO
 
 Para llegar a este río tuvimos que conducir por cerca de 20 minutos (son alrededor de 12 kilómetros desde el parque principal de Norcasia). La carretera estaba en perfectas condiciones. 
 
@@ -239,12 +239,27 @@ Debes saber que en Norcasia hay más de 80 agencias turísticas. Nuestro mayor c
 
 Para ir a la fija y disfrutar el viaje sin afanes, aquí te dejamos los planes que recomendamos con operadores locales de absoluta confianza (expertos en rutas personalizadas y grupos pequeños):
 
-- 🌊 **Pasadía en el Río La Miel:** <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-pasadia">🎒 Ver itinerario completo y separar cupo</a>
-- 🎣 **Pasadía de Pesca Deportiva:** <a target="_blank" href="https://wa.link/yrtwg7">💬 Preguntar disponibilidad por WhatsApp</a>
-- 🌅 **Plan de 2 Días y 1 Noche:** <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-2-dias-1-noche">✨ Ver precios y fechas disponibles</a>
-- ⛰️ **Plan de 3 Días y 2 Noches:** <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-3-dias-2-noches">🔥 Ver el viaje más completo aquí</a>
+<div class="contenedor-botones">
 
-**¿Un beneficio clave?** Los tours de 2 días o más ya te incluyen la logística pesada: 🥨 desayuno, 🍝 almuerzo, 🍲 cena y 🛌 hospedaje. ¡Para que solo te preocupes por pasar la bueno!
+  <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-pasadia" class="btn-reserva btn-primario">
+    🌊 Pasadía Río La Miel: Ver itinerario y separar cupo
+  </a>
+
+  <a target="_blank" href="https://wa.link/yrtwg7" class="btn-reserva btn-secundario">
+    🎣 Pasadía Pesca Deportiva: Preguntar por WhatsApp
+  </a>
+
+  <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-2-dias-1-noche" class="btn-reserva btn-primario">
+    🌅 Plan 2 Días y 1 Noche: Ver precios y fechas
+  </a>
+
+  <a target="_blank" href="https://www.randes.co/products/tour-a-norcasia-3-dias-2-noches" class="btn-reserva btn-primario">
+    ⛰️ Plan 3 Días y 2 Noches: Ver viaje completo
+  </a>
+
+</div>
+
+**¿Un beneficio clave?** Los tours de 2 días o más ya te incluyen: 🥨 desayuno, 🍝 almuerzo, 🍲 cena y 🛌 hospedaje. ¡Para que solo te preocupes por pasarlo bueno!
 
 <a name="hospedaje-norcasia"></a>
 
@@ -254,63 +269,62 @@ Para ir a la fija y disfrutar el viaje sin afanes, aquí te dejamos los planes q
 
 Aquí te mostramos algunos de los hospedajes que encontramos en nuestra visita. Son administrados por personas totalmente confiables y responsables.
 
-### 🏨 ECOHOTEL VÍA MIRADOR EMBALSE 
+### ->  ECOHOTEL VÍA MIRADOR EMBALSE 
 Ubicado a 15 minutos de Norcasia. Es un lugar ideal para parejas o familias que buscan un confort superior y despertarse con hermosas vistas a la naturaleza.
 
-#### 🏠 Comodidades de la Cabaña (Privadas) 
+#### Comodidades de la Cabaña (Privadas) 
 * 🛏️ 2 camas dobles 
 * 🛁 Jacuzzi privado 
 * 🧊 Nevera 
 * 📺 Televisor y ventilador
  
-#### 🌳 Áreas Comunes 
+#### Áreas Comunes 
 * 🏊 Piscina 
 * 🌄 Zonas verdes con un hermoso mirador 
 * 🍳 Cocina compartida
 
-<a href="https://www.booking.com/hotel/co/cabanas-campo-alegre.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+<a href="https://wa.link/1nl03q" target="_blank">
 {% include image.html,
-file:"rutas/caldas/norcasia/hospedaje/ecohotel-campo.jpg",
+file:"rutas/caldas/norcasia/hospedaje/ecohotel-mirador.jpg",
 caption:"Foto: Ecohotel en norcasia",
 alt:"Ecohotel en norcasia, Norcasia Caldas paraíso natural",
-width:"900",
-height:"514"
+width:"1920",
+height:"1080"
 %}
 </a>
 
-👉 <a href= "https://www.booking.com/hotel/co/cabanas-campo-alegre.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
+👉 <a href= "https://wa.link/1nl03q" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
 
-### 🏡 CABAÑA PARA MÁXIMO 6 PERSONAS
-
+### -> CABAÑA PARA MÁXIMO 6 PERSONAS
 Esta opción es ideal si viajas en familia o con amigos y buscas una alternativa más económica. Cuenta con todas las comodidades para que te sientas como en tu propia casa.
 
-#### 🏠 Comodidades de la cabaña
+#### Comodidades de la cabaña
 * 🍳 **Cocina:** Equipada con todos los utensilios necesarios.
 * 🧺 **Lavandería:** Lavadora disponible para el uso de los huéspedes.
 
-#### 🛏️ Distribución de camas
+#### Distribución de camas
 * 🛏️ 1 cama doble
 * 🛏️ 2 camas sencillas
 * 🛌 2 colchones auxiliares
 
-<a href="https://www.booking.com/hotel/co/casa-de-teja-norcasia.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+<a href="https://wa.link/1nl03q" target="_blank">
 
 {% include image.html,
-file:"rutas/caldas/norcasia/hospedaje/casa-hotel.jpg",
+file:"rutas/caldas/norcasia/hospedaje/hospedaje-grupos.jpg",
 caption:"Foto: Casa hotel en norcasia",
-alt:" Casa hotel en norcasia,  Norcasia Caldas paraíso natural",
-width:"1644",
-height:"698"
+alt:" Cabaña económica para grupos y familias en Norcasia Caldas",
+width:"1920",
+height:"1080"
 %}
 </a>
 
-👉 <a href= "https://www.booking.com/hotel/co/casa-de-teja-norcasia.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
+👉 <a href= "https://wa.link/1nl03q" style="color: maroon;" target="_blank"> Clic aquí, para reservar </a>
 
 <a name="recomendaciones-norcasia"></a>
 
 ---
 
-### RECOMENDACIONES FINALES PARA VISITAR NORCASIA
+## RECOMENDACIONES FINALES PARA VISITAR NORCASIA 🎒
 
 Para terminar, queremos compartirte un par de consejos que debes tener en cuenta para que tu estadía sea lo más agradable posible y disfrutes sin contratiempos de las maravillas de este rincón de Colombia.
 

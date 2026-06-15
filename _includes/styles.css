@@ -1222,3 +1222,53 @@ input:checked + .slider:before {
   font-weight: bold;
   text-decoration: underline;
 }
+
+/* Contenedor para alinear los botones uno debajo del otro */
+.contenedor-botones {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+/* Estilos base para todos los botones */
+.btn-reserva {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none !important;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Botón Primario (Fondo verde sólido para los tours) */
+.btn-primario {
+  background-color: #347d4e; /* Verde bosque */
+  color: #ffffff !important;
+  border: 2px solid #347d4e;
+}
+
+.btn-primario:hover {
+  background-color: #255b38;
+  border-color: #255b38;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Botón Secundario (Borde verde para WhatsApp) */
+.btn-secundario {
+  background-color: #ffffff;
+  color: #347d4e !important;
+  border: 2px solid #347d4e;
+}
+
+.btn-secundario:hover {
+  background-color: #f0f7f2;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
