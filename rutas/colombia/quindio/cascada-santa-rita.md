@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title: Cascada Santa Rita
 categories: colombia

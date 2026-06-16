@@ -1,5 +1,5 @@
 ---
-layout: trail
+layout: trail 
 title:  Bosque de Pandora 
 categories: colombia
 seo_title: Guía completa para visitar el Bosque de Pandora 

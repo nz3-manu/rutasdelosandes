@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: trail
 title:  Cerro Gobia
 categories: colombia 

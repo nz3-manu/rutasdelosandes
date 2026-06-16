@@ -1,5 +1,5 @@
 ---
-layout: trail
+layout: trail 
 title:  Nevado del Ruiz
 categories: colombia
 seo_title: ▷ Nevado del Ruiz | Guía de Viaje 2026 Tips y Seguridad
