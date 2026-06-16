@@ -5,7 +5,7 @@ title:  Cerro Gobia
 categories: colombia 
 seo_title: Cerro Gobia en quinchia risaralda, como llegar.
 excerpt: Cerro Gobia esta ubicado en el municipio de Quinchía a tan solo 1.5 kilómetros de su parque principal. Es una caminata ecológica ideal para personas que están iniciando en el senderismo. Duración del trayecto 1 día.
-images_url: /images/rutas/risaralda/gobia
+images_url: /images/rutas/colombia/risaralda/gobia
 viewranger: 
 author: manuel
 ---
@@ -27,9 +27,9 @@ __Cerros ubicados en Quinchía:__
 - Caminata ecológica.
 
 <amp-carousel width="400" height="400" layout="responsive" type="slides" autoplay delay="2000">
-    {% include image.html, file:"rutas/risaralda/gobia/slider1.jpg", width:"800", height:"600" %} 
-    {% include image.html, file:"rutas/risaralda/gobia/slider2.jpg", width:"746", height:"581" %} 
-</amp-carousel> 
+  {% image "images/rutas/colombia/risaralda/gobia/slider1.jpg" "Descripción de imagen 1" %} 
+  {% image "images/rutas/colombia/risaralda/gobia/slider2.jpg" "Descripción de imagen 2" %} 
+</amp-carousel>
 
 ## ¿Cómo llegar a Cerro Gobia 🛣🚌?
 
@@ -43,12 +43,7 @@ Se debe de tomar un bus en el terminal de Pereira de la empresa Flota Occidental
 Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el centro de Quinchía(pasar a leer la sección El camino). Si te vas a hospedar donde nosotros nos hospedamos nos bajamos en el antiguo matadero de Quinchía también es la entrada del jardín botánico de allí son 20 minutos caminando, en el recorrido pasaremos por el jardín botánico que por cierto es gratis la entrada :), al llegar a la finca encontraremos zonas de camping 🏕  a $8.000 pesos por persona.
 __Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:314808851">314808851</a>.__
 
-{% include image.html, 
-   file:"rutas/risaralda/gobia/camping.jpg",
-   caption:"Lugar donde acampamos",
-   width:"800",
-   height:"452"
-%} 
+{% image "images/rutas/colombia/risaralda/gobia/camping.jpg" "Lugar donde acampamos" %}
 
 Después de dejar todo nuestro equipaje en la hospedaje, tenemos que llegar al parque de Quinchía, podemos ir  caminando son aproximadamente 50 minutos o podemos llamar un mototaxi valor aproximado 6 mil pesos.
 
@@ -64,33 +59,18 @@ __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda ll
 
 Una vez en el parque de Quinchía podremos ver Cerro Gobia donde se aprecian 2 piedras que sobresalen en la montaña, la primera es a 1800 metros donde se encuentra una virgen en piedra con vista hacia el pueblo de Quinchía  y la segundo piedra es un mirador a 2400 metros donde se puede tener una  vista de 360 grados.
 
-{% include image.html 
-   file:"rutas/risaralda/gobia/vistaParque.jpg",
-   caption:"Vista desde el parque",
-   width:"800",
-   height:"452"
-%} 
+{% image "images/rutas/colombia/risaralda/gobia/vistaParque.jpg" "Vista desde el parque" %}
 
 Una vez aquí ya estamos listos para empezar nuestro camino a Cerro Gobia.
 
 
 Vista desde el mirador de la virgen (1800 msnm).
 
-{% include image.html 
-   file:"rutas/risaralda/gobia/featured.jpg",
-   caption:"Vista desde el mirador de la virgen (1800 msnm)",
-   width:"800",
-   height:"452"
-%} 
+{% image "images/rutas/colombia/risaralda/gobia/featured.jpg" "Vista desde el mirador de la virgen (1800 msnm)" %}
 
 Ya una vez en el primer mirador  estamos solo a 30 minutos de llegar al segundo mirador 🙂, la subida es inclinada así que se pueden tardar un poco más. Una vez arriba tenemos que subir el último tramo  que son unas escaleras metálicas en caracol, pero todo esto vale la pena por tener una vista de 360 grados. 
 
-{% include image.html, 
-   file:"rutas/risaralda/gobia/FullSizeRender2copy.jpg",
-   caption:"Vista del mirador ubicado a 2400 msnm",
-   width:"800",
-   height:"482"
-%} 
+{% image "images/rutas/colombia/risaralda/gobia/FullSizeRender2copy.jpg" "Vista del mirador ubicado a 2400 msnm" %}
 
 ## ¿Cómo regresar de Cerro Gobia 🚌🏡?
 Una vez para regresar tenemos que  tener en cuenta que el último bus 🚌 para Pereira sale a las 5:00 pm, es recomendable estar como mínimo 15 minutos antes. Tenemos que planificar bien el tiempo  para bajar del Cerro Gobia sin preocupaciones.

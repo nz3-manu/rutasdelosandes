@@ -4,7 +4,7 @@ title:  Pueblo Rico
 categories: colombia
 seo_title: Pueblo Rico
 excerpt: Pueblo Rico es un municipio de Risaralda, el cual es conocido por su gran diversidad de flora y fauna. Lo que lo convierte en un municipio ideal para hacer avistamiento de aves en Risaralda.
-images_url: /images/rutas/risaralda/pueblo-rico
+images_url: /images/rutas/colombia/risaralda/pueblo-rico
 viewranger:
 author: manuel
 ---
@@ -97,13 +97,7 @@ Te estarás, preguntado, __¿dónde queda Pueblo Rico?__, Pueblo Rico se encuent
 📞 **Teléfono empresa Tatama : <a href="tel: (606) 3214482"> (606) 3214482</a>**
 Una vez se llega a Pueblo Rico, vas a sentirte cautivado por el imponente Cerro del Tatama que se encuentra al fondo del pueblo ⛪️⛰. Y como si fuera poco podrás disfrutar de tanta diversidad cultural y natural, al mismo tiempo que podrás escuchar algunas personas hablando idioma Embera. Esto fue algo que realmente me sorprendió a pesar de ser Colombiano. si eres extranjero y estás leyendo esto, te aseguro que esta será una experiencia inigualable.
 
-
-{% include image.html
-file:"rutas/risaralda/pueblo-rico/pueblo.jpg",
-caption:"Foto Parque de Pueblo Rico",
-width:"1200",
-height:"668"
-%}
+{% image "images/rutas/colombia/risaralda/pueblo-rico/pueblo.jpg" "Foto Parque de Pueblo Rico" %}
 
 
 __Nota:__ _Debemos de preservar más nuestras raíces, ya que a muchos de nosotros nos gusta viajar y poder conectar con los campesinos, comunidades indígenas entre otros, con el fin de enriquecer mucho más nuestros viajes y conocer así más de nuestras raíces 👨‍🌾._
@@ -131,12 +125,7 @@ Una vez de instalados en el hotel, salimos a dar una vuelta por el pueblo, y a m
 Estas escaleras se caracterizan por sus colores alusivos a las comunidades indígenas, allí podrán ver a un costado cada una de las banderas de los 14 municipios de Risaralda.
 
 
-{% include image.html
-file:"rutas/risaralda/pueblo-rico/escalas.jpeg",
-caption:"Foto escaleras en Pueblo Rico",
-width:"2465",
-height:"1491"
-%}
+{% image "images/rutas/colombia/risaralda/pueblo-rico/escalas.jpeg" "Foto escaleras en Pueblo Rico" %}
 
 
 Después de un pequeño tour por este bello pueblo, continuamos a ver algunos lugares naturales, en la información que compartiremos a continuación te compartiremos algunos teléfonos en los cuales podrás llamar para realizar estos senderos.
@@ -179,13 +168,7 @@ Continuamos con el  camino hacia el río Murrapa, este trayecto tiene una duraci
 __NOTA:__ _Si no cuentas con transporte público para llegar a Santa Cecilia, podrás tomar un moto taxi, el cual te podría cobrar $25.000 Pesos por persona o uno de los buses con destino al Choco que se ubican en el parque principal, la duración del recorrido es de aproximadamente 40 minutos._
 
 
-{% include image.html
-file:"rutas/risaralda/pueblo-rico/rio-murrapa.jpg",
-caption:"Foto Rio Amurrapa",
-width:"1200",
-height:"675"
-%}
-
+{% image "images/rutas/colombia/risaralda/pueblo-rico/rio-murrapa.jpg" "Foto Río Amurrapa" %}
 
 Desde este punto del río (Amurrapa) se puede realizar algunas otras rutas. Y sí eres biólogo o amante de la Naturaleza, estamos seguros de que te encantarán los siguientes senderos, además de esto el guía es una persona que cuenta con mucho conociendo empírico en anfibios 🐸 y aves 🦅.
 
@@ -208,12 +191,7 @@ Esta es una ruta de aproximadamente 8 kilómetros, donde te encontraras con herm
 Cotinga Pechinaranja (Pipreola jucunda), el Quetzal Colinegro (Pharomacrus auriceps), la Habia Copetona (Habia cristata), también endémica y muchas otras aves importantes de esta región.
 
 
-{% include image.html
-file:"rutas/risaralda/pueblo-rico/sendero-indio.jpeg",
-caption:"Foto Sendero del Indio",
-width:"2880",
-height:"1612"
-%}
+{% image "images/rutas/colombia/risaralda/pueblo-rico/sendero-indio.jpeg" "Foto Sendero del Indio" %}
 
  👉 <a href= "https://wa.link/tfyldl" style="color: maroon;" target="_blank"> Clic aquí, para información de tours</a>
 

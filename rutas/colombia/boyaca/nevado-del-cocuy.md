@@ -4,7 +4,7 @@ title: "Nevado del Cocuy | Guía completa"
 categories: colombia
 seo_title: "Nevado del Cocuy: Tour, cómo llegar y recomendaciones 2026"
 excerpt: "Planifica tu visita al Nevado del Cocuy con nuestra guía experta. Aprende cómo evitar contratiempos logísticos, conoce las rutas, el clima y los requisitos para este paraíso de montaña."
-images_url: /images/rutas/boyaca/nevado-cocuy
+images_url: /images/rutas/colombia/boyaca/nevado-cocuy
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
@@ -121,12 +121,7 @@ height:"1296"
 
 Es la mayor masa glaciar de Colombia, conformada por más de 25 picos cubiertos de hielo y nieve, distribuidos en dos cadenas montañosas de aproximadamente 25 kilómetros de longitud. Es el pico más alto de la Cordillera Oriental de los Andes en Colombia. Está a 5.330 metros de altura.
 
-{% include image.html,
-file:"rutas/boyaca/nevado-cocuy/ritacuba-blanco.JPG",
-caption:"Foto: Ritacuba Blanco en la Sierra Nevada del Cocuy",
-width:"843",
-height:"562"
-%}
+{% image "images/rutas/colombia/boyaca/nevado-cocuy/ritacuba-blanco.JPG" "Foto: Ritacuba Blanco en la Sierra Nevada del Cocuy" %}
 
 ### -> LAGUNA GRANDE DE LA SIERRA
 
@@ -139,13 +134,6 @@ height:"562"
 #### --> DATO CURIOSO: LAGUNA GRANDE
 
 Esta laguna es considerada un sitio sagrado para la comunidad U’wa. Sus aguas profundas y tranquilas crean un espejo perfecto que refleja las cumbres nevadas, lo que la convierte en uno de los lugares con mayor carga energética y fotográfica de todo el parque.
-
-{% include image.html,
-file:"rutas/boyaca/nevado-cocuy/laguna-grande-de-la-sierra.jpg",
-caption:"Foto: Laguna Grande de la Sierra en Sierra Nevada del Cocuy",
-width:"1860",
-height:"2480"
-%}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487</a> </span>**
 

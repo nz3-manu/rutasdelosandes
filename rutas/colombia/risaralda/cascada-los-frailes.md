@@ -4,7 +4,7 @@ title: "Cascada Los Frailes | Guía completa"
 categories: colombia
 seo_title: "Cascada Los Frailes en Pereira: Cómo llegar, precios y tours"
 excerpt: "Guía completa para visitar la imponente Cascada Los Frailes en Pereira. Conoce cómo llegar en transporte público o chiva, precios de entrada y tours guiados."
-images_url: /images/rutas/risaralda/cascada-los-frailes
+images_url: /images/rutas/colombia/risaralda/cascada-los-frailes
 viewranger: MTYzNjQzOA==
 author: manuel
 trending: true
@@ -140,23 +140,13 @@ Si decides viajar en el autobús urbano tradicional, la unidad te dejará exacta
 
 A lo largo del sendero transitarás por densos bosques andinos de niebla completamente libres de contaminación acústica, ya que al ser un área de reserva privada no existen carreteras comerciales ni asentamientos urbanos cercanos que alteren la paz del ecosistema.
 
-{% include image.html
-   file:"rutas/risaralda/cascada-los-frailes/mono-aullador.jpg"
-   caption:"Fotografía: Mono aullador silvestre en los árboles de la reserva"
-   width:"1000"
-   height:"667"
-%}
+{% image "images/rutas/colombia/risaralda/cascada-los-frailes/mono-aullador.jpg" "Fotografía: Mono aullador silvestre en los árboles de la reserva" %}
 
 __<span class="advise"> Fotografía por: <a href="https://www.instagram.com/andrescardona.co/"  target="_blank"> andrescardona.co</a> </span>__
 
 Si cuentas con excelente suerte y caminas en total silencio, podrás avistar ejemplares de monos aulladores, osos de anteojos y la famosa **Pava Andina** (*Penelope perspicax*), una hermosa especie de ave endémica y protegida de esta región cafetera.
 
-{% include image.html
-   file:"rutas/risaralda/cascada-los-frailes/pava.jpg"
-   caption:"Fotografía: Ejemplar de Pava Andina en el Santuario de Flora"
-   width:"1000"
-   height:"710"
-%}
+{% image "images/rutas/colombia/risaralda/cascada-los-frailes/pava.jpg" "Fotografía: Ejemplar de Pava Andina en el Santuario de Flora" %}
 
 __<span class="advise"> Fotografía por: <a href="https://www.instagram.com/andrescardona.co/"  target="_blank"> andrescardona.co</a> </span>__
 
@@ -164,12 +154,7 @@ __<span class="advise"> Fotografía por: <a href="https://www.instagram.com/andr
 
 Al finalizar la caminata por el cañón, serás recompensado con la imponente vista frontal de los 70 metros de la caída de agua.
 
-{% include image.html
-   file:"rutas/risaralda/cascada-los-frailes/cascada-los-frailes.jpg"
-   caption:"Fotografía: Caída de agua principal de la Cascada Los Frailes"
-   width:"800"
-   height:"700"
-%}
+{% image "images/rutas/colombia/risaralda/cascada-los-frailes/cascada-los-frailes.jpg" "Fotografía: Caída de agua principal de la Cascada Los Frailes" %}
 
 <a id="tour-cascada-los-frailes"></a>
 

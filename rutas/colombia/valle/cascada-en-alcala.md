@@ -5,7 +5,7 @@ title:  Cascada en Alcala
 categories: colombia 
 seo_title: CASCADA EN  ALCALÁ VALLE| Como llegar.
 excerpt: Ruta ecológica en Alcalá, valle del Cauca, cascada con el nombre La Andrea o cascada la cristalina es una hermosa cascada en medio de la naturaleza. Duración del trayecto 1 día, nivel dificultad, fácil. Este recorrido se puede hacer con mascotas 🐕.
-images_url: /images/rutas/valle/alcala
+images_url: /images/rutas/colombia/valle/alcala
 viewranger: MjA5NTkzMg==
 author: manuel
 ---

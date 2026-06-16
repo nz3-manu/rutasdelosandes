@@ -5,7 +5,7 @@ title:  Estrella de Agua
 categories: colombia 
 seo_title: Rutas naturales ocultas en el Valle del cocora en salento quindío| Estrella de Agua.
 excerpt: Estrella de Agua o estación biológica estrella de agua esta ubicado a 9 kilometros del Valle de Cocora en este lugar es donde nace el rió Quindio, una ruta más para conocer en salento Quindio.
-images_url: /images/rutas/quindio/estrellaAgua
+images_url: /images/rutas/colombia/quindio/estrellaAgua
 viewranger: MTYzNjQyOQ==
 author: manuel
 ---
@@ -24,9 +24,9 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
 * Vista sin igual de las palmas de cera.
 
 <amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
-       {% include image.html, file:"rutas/quindio/estrellaAgua/slider1.jpg", width:"800", height:"615" %}
-       {% include image.html, file:"rutas/quindio/estrellaAgua/slider2.jpg", width:"800", height:"615" %}
-       {% include image.html, file:"rutas/quindio/estrellaAgua/slider3.jpg", width:"800", height:"750"%}   
+  {% image "images/rutas/colombia/quindio/estrellaAgua/slider1.jpg" "Imagen 1 - Estrella de Agua" %}
+  {% image "images/rutas/colombia/quindio/estrellaAgua/slider2.jpg" "Imagen 2 - Estrella de Agua" %}
+  {% image "images/rutas/colombia/quindio/estrellaAgua/slider3.jpg" "Imagen 3 - Estrella de Agua" %}
 </amp-carousel>
 
 ## ¿Cómo llegar a Estrella de Agua 🛣🚌🚗🛵?
@@ -57,12 +57,7 @@ El camino hasta Estrella de Agua se encuentra muy señalizado. Pasaremos por la 
 
 Pasaremos por un valle donde podremos  ver a nuestras espaldas las palmas de cera desvaneciendose en el horizonte, para adentrarnos al bosque. En nuestro recorrido tendremos que pasar por unos puentes colgantes.
 
-{% include image.html,
- file:"rutas/quindio/estrellaAgua/puente.jpg",
- caption:"Puente colante en salento",
- width:"900",
- height:"692"
-%}
+{% image "images/rutas/colombia/quindio/estrellaAgua/puente.jpg" "Puente colgante en Salento" %}
 
 Cerca de 4 kilómetros  nos vamos a encontrar con dos caminos en el mapa que pusimos anteriormente lo podremos ver con el signo de advertencia (⚠️) donde se ven 2 caminos:
 
@@ -71,12 +66,7 @@ __Camino de la izquierda:__ Va hacia el mirador de las palmas recorrido que dura
 __Camino de la derecha:__ Va hasta la casa de los colibríes este es el que debemos seguir.
 Al llegar a la Casa de los Colibríes  tenemos que pagar  $5.000 Pesos de entrada y nos obsequiaran una bebida fría o aguapanela con queso.
 
-{% include image.html,
- file:"rutas/quindio/estrellaAgua/casadecolibries.jpg",
- caption:"Casa de los colibríes",
- width:"900",
- height:"692"
-%}
+{% image "images/rutas/colombia/quindio/estrellaAgua/casadecolibries.jpg" "Casa de los colibríes" %}
 
 En este lugar podremos encontrar; desayuno, almuerzo y comida a 🍛 $10.000 Pesos. Numero de telefono <a href="tel:3104240360">
 3104240360 </a> Paula.
@@ -87,12 +77,7 @@ Al llegar a Estrella de Agua nos encontraremos a 3100 msnm.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
-{% include image.html,
- file:"rutas/quindio/estrellaAgua/estrellaAgua.jpg",
- caption:"Estrella de Agua",
- width:"900",
- height:"505"
-%}
+{% image "images/rutas/colombia/quindio/estrellaAgua/estrellaAgua.jpg" "Estrella de Agua" %}
 
 Es también conocida como la estación biológica estrella de agua este lugar es el punto de entrada  para los páramos; de frontino 2.8 km y romerales 2.5 km. además de esto es donde nace el río Quindío.
 

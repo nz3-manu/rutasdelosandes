@@ -4,7 +4,7 @@ title: Cascada el Fin del Mundo
 categories: colombia
 seo_title: Cómo visitar la Cascada el Fin del Mundo en Mocoa | Guía (2026)
 excerpt: Guía de viaje para visitar la Cascada el Fin del Mundo en Mocoa, Putumayo. Conoce cómo llegar en bus o avión, mapas, senderos, hospedajes y tours locales.
-images_url: /images/rutas/putumayo/cascada-fin-del-mundo
+images_url: /images/rutas/colombia/putumayo/cascada-fin-del-mundo
 viewranger: MTYzNjQzOA==
 author: manuel
 trending: true
@@ -98,12 +98,7 @@ Es fundamental tener en cuenta que **Mocoa no cuenta con un aeropuerto comercial
 *   **Conexiones desde Bogotá y Medellín:** La aerolínea estatal *Satena* opera vuelos directos regulares hacia el aeropuerto de Villagarzón los días lunes, miércoles, viernes y domingos, variando frecuencias según temporada.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-  file:"publicidad-post/sombrero.png",
-  caption:"Línea Técnica e Indumentaria Randes Store",
-  width:"1000",
-  height:"300"
-%}
+  {% image "images/publicidad-post/sombrero.png" "Línea Técnica e Indumentaria Randes Store" %}
 </a>
 
 <a name="sendero-fin-mundo" id="sendero-fin-mundo"></a>
@@ -136,12 +131,7 @@ Destaca por la transparencia total de sus aguas calmas, que permiten detallar co
 
 > 🚫🏊‍♂️ **Prohibición de baño:** En el Pozo de la Danta está estrictamente prohibido nadar. Las lajas de piedra perimetrales son extremadamente lisas por el limo de la selva y el riesgo de resbalar y sufrir un golpe severo es muy alto.
 
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/pozo-de-la-danta.jpg",
-caption:"Lajas de piedra y aguas cristalinas en el Pozo de la Danta",
-width:"1000",
-height:"875"
-%}
+{% image "images/rutas/colombia/putumayo/cascada-fin-del-mundo/pozo-de-la-danta.jpg" "Lajas de piedra y aguas cristalinas en el Pozo de la Danta" %}
 
 *Consejo de calzado:* Todo el camino hacia esta primera estación es en pendiente ascendente sobre piedra húmeda. Es fundamental ir equipado con botas de senderismo o tenis de montaña con excelente agarre; evita los calzados deportivos lisos.
 
@@ -154,12 +144,7 @@ Es el pozo de inmersión más famoso y concurrido de la ruta. Aquí podés disfr
 
 > 🍛 **Dato Útil de Alimentación:** Al lado del Pozo Golondrina opera un restaurante comunitario tradicional. Te aconsejamos encargar el almuerzo con los cocineros locales antes de continuar el ascenso final hacia la cascada principal, así lo tendrás listo calientito en tu descenso.
 
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/pozo-golondrina.jpg",
-caption:"Pozo Golondrina, el área principal de baño del sendero",
-width:"1080",
-height:"607"
-%}
+{% image "images/rutas/colombia/putumayo/cascada-fin-del-mundo/pozo-golondrina.jpg" "Pozo Golondrina, el área principal de baño del sendero" %}
 
 Superando el Pozo Golondrina, avanzarás por el tramo final del cañón hídrico.
 
@@ -170,12 +155,7 @@ Desde Golondrinas hasta el borde de la gran caída son escasamente 10 minutos de
 
 La Cascada del Fin del Mundo tiene una imponente caída libre de **75 metros de altura** hacia la llanura amazónica. Es un mirador natural sobrecogedor que te recordará la advertencia de don Jesús Huaca: asómate con respeto, porque caer de allí sería el fin de tu mundo.
 
-{% include image.html,
-file:"rutas/putumayo/cascada-fin-del-mundo/cascada-fin-del-mundo.jpg",
-caption:"Vista de la impresionante caída de 75 metros de la Cascada del Fin del Mundo"
-width:"1080",
-height:"1350"
-%}
+{% image "images/rutas/colombia/putumayo/cascada-fin-del-mundo/cascada-fin-del-mundo.jpg" "Vista de la impresionante caída de 75 metros de la Cascada del Fin del Mundo" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/p/CbbR39wMysz/" target="_blank">@diegonzalez</a> </span>**
 

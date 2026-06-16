@@ -1,22 +1,29 @@
+# Dependencias
+node_modules/
+
+# Resultados de compilación
 _site/
-javascript
+
+# Archivos de sistema y configuraciones locales
+.DS_Store
 .sass-cache/
 .jekyll-metadata
-.DS_Store
-node_modules
-.DS_Store
-err.log
-.cmsrc
-out.log
-npm-debug.log
-*.csr
+.netlify
+.env
+.cache/
+
+# Logs y archivos de debug
+*.log
+npm-debug.log*
+
+# Archivos de certificados y llaves (¡Muy importante por seguridad!)
 *.key
 *.crt
 *.p7b
 ssl*
+
+# Otros
+javascript
 localStorage
 builtserver.js
 functions
-
-# Local Netlify folder
-.netlify

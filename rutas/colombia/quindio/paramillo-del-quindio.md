@@ -4,7 +4,7 @@ title: Paramillo del Quindío
 categories: colombia
 seo_title: Cómo subir al Paramillo del Quindío | Ruta y Guía de Ascenso (2026)
 excerpt: Descubre la ruta al Paramillo del Quindío desde Salento. Guía de ascenso, mapas, fincas de hospedaje, precios y consejos para evitar perderte en la montaña.
-images_url: /images/rutas/quindio/paramillo-quindio
+images_url: /images/rutas/colombia/quindio/paramillo-quindio
 viewranger: MjI1MDg2Mw==
 author: manuel
 trending: true
@@ -136,11 +136,7 @@ Superado el paso del río, iniciamos la pendiente dura. Los primeros kilómetros
 Aunque hay algunos letreros de señalización en puntos clave de Parques Nacionales, existen múltiples intersecciones informales y desvíos ciegos. Tomar el sendero equivocado por error te enviará a cuencas completamente diferentes del parque (como la vía hacia el Tolima [ver archivo: nevado-del-tolima.md] o termales), por lo que ir a ciegas no es una opción aceptable.
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"Publicidad Randes Store",
-width:"480",
-height:"200" %}
+  {% image "images/publicidad-post/chaqueta-randes.png" "Publicidad Randes Store" %}
 </a>
 
 <a name="hospedaje-paramillo" id="hospedaje-paramillo"></a>
@@ -165,11 +161,7 @@ Tras instalarnos en las literas y cenar comida típica caliente, apagamos las li
 
 El despertador sonó con una temperatura sumamente baja y una lluvia densa golpeando el techo. Nos equipamos de inmediato con nuestros sistemas de capas impermeables (chaqueta y pantalón técnico). 
 
-{% include image.html,
-file:"rutas/quindio/paramillo-quindio/ropa.jpg",
-caption:"Indumentaria técnica para alta montaña de Randes",
-width:"1000",
-height:"1077" %}
+{% image "images/rutas/colombia/quindio/paramillo-quindio/ropa.jpg" "Indumentaria técnica para alta montaña de Randes" %}
 
 > 🧥 **Consejo de Textil:** Evita por completo llevar prendas o camisetas de algodón; este material absorbe el sudor y la humedad externa, enfriando tu cuerpo rápidamente. Prioriza telas sintéticas de secado rápido y chaquetas con membranas cortavientos e impermeables reales.
 
@@ -188,11 +180,7 @@ Al superar la línea de los frailejones, la vegetación desaparece para dar paso
 
 Desde la base hasta el filo de la cumbre hay **2.25 kilómetros de distancia**. Nos tomó casi 2 horas superar este tramo debido a las condiciones del terreno: la inclinación es severa y la sensación física es idéntica a caminar cuesta arriba sobre balastro o gravilla suelta (das dos pasos y te resbalas uno). 
 
-{% include image.html,
-file:"rutas/quindio/paramillo-quindio/base-paramillo.jpeg",
-caption:"Filo rocoso en la base del Paramillo del Quindío",
-width:"1200",
-height:"750" %}
+{% image "images/rutas/colombia/quindio/paramillo-quindio/base-paramillo.jpeg" "Filo rocoso en la base del Paramillo del Quindío" %}
 
 Alcanzamos la cumbre rodeados de un imponente paisaje de arenas de colores. Tras documentar la hazaña y tomar fotografías, iniciamos el descenso a las 12:00 PM bajo una niebla cerrada. En la bajada encontramos a un grupo de caminantes perdidos que se habían desviado del track, así que decidimos unificarlos a nuestra cordada para regresar juntos a salvo al refugio, llegando cerca de las 6:00 PM.
 
@@ -200,14 +188,9 @@ Si deseas programar esta experiencia con nuestro equipo logístico guiado, dale 
 
 **<a href="https://wa.link/5aczuk" target="_blank" style="font-weight:bold; color:green;">👉 Reserva tu cupo con Guías Autorizados ingresando aquí</a>**
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.png", 
-caption:"Línea Técnica Randes Store", 
-width:"1000", 
-height:"300" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/ropa-randes.png" "Línea Técnica Randes Store" %}
 </a>
-
 ---
 
 ### ➡️ DÍA 3: Retorno al Valle del Cocora

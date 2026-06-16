@@ -5,7 +5,7 @@ title: La Gruta
 categories: colombia
 seo_title: Como llegar a la gruta o Santuario Scout la Gruta en manizales caldas.
 excerpt: La Gruta Ruta o Santuario Scout la Gruta, este lugar encuentra a 27 kilómetros desde el parque de Villamaría Caldas por la  Vía a Gallinazo también es la vía que va para el nevado del Ruiz.
-images_url: /images/rutas/caldas/gruta
+images_url: /images/rutas/colombia/caldas/gruta
 viewranger: MTYzNjQzOA==
 author: manuel
 ---
@@ -20,10 +20,10 @@ Es un lugar con gran belleza natural donde se funden montañas con páramos que 
 - Hermosos paisajes de las montañas.
 
 <amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/caldas/gruta/slider1.jpg", width:"800", height:"450"%}
-{% include image.html, file:"rutas/caldas/gruta/slider2.jpg", width:"800", height:"450"%}
-{% include image.html, file:"rutas/caldas/gruta/slider3.jpg", width:"800", height:"450"%}
-{% include image.html, file:"rutas/caldas/gruta/slider4.jpg", width:"800", height:"450"%}
+  {% image "images/rutas/colombia/caldas/gruta/slider1.jpg" "Slider 1 Gruta Caldas" %}
+  {% image "images/rutas/colombia/caldas/gruta/slider2.jpg" "Slider 2 Gruta Caldas" %}
+  {% image "images/rutas/colombia/caldas/gruta/slider3.jpg" "Slider 3 Gruta Caldas" %}
+  {% image "images/rutas/colombia/caldas/gruta/slider4.jpg" "Slider 4 Gruta Caldas" %}
 </amp-carousel>
 
 ## ¿Cómo llegar a la La Gruta 🚌🚗🛵🚵🏻?
@@ -44,42 +44,23 @@ Si vas en 🚗 carro, moto 🛵 o bicicleta🚵🏻 puedes descargar nuestra rut
 
 Desde donde nos deja el bus hasta La Gruta son 12 kilómetros aproximadamente 4 horas caminando, en total estaríamos caminando 24 kilómetros(ida y regreso)😋, el camino no es sendero además de esto te encontrarás con algunos carros 🚗, motos 🛵 y bicicletas 🚵🏻, lo que dificulta un poco la caminata 🚶🏼.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+ {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta técnica Randes" %}
 </a>
 
 **Recomendación:** La Ruta es recomendable en bicicleta moto o carro ya que la carretera esta en buen estado(verano).
 
-{% include image.html,
-  file:"rutas/caldas/gruta/caminogruta.jpg",
-  caption:"Foto del camino hasta La Gruta",
-  width:"900",
-  height:"600"
-%}
+{% image "images/rutas/colombia/caldas/gruta/caminogruta.jpg" "Foto del camino hasta La Gruta" %}
 
 En el mapa que subimos en la información anexa podrás ver una señal de advertencia (⚠️), lo que significa que al llegar a ese punto van a encontrar dos caminos se debe tomar el camino de la izquierda.
 
 Después de caminar 11,6 kilómetros(desde donde nos deja el bus) nos encontramos con esta cascada que está localizada a un costado izquierdo de la carretera (la podrás encontrar señalado en el mapa).
 
-{% include image.html,
-  file:"rutas/caldas/gruta/FotoCascada-1.jpg",
-  caption:"Foto de la cascada de camino para La Gruta",
-  width:"900",
-  height:"671"
-%}
+{% image "images/rutas/colombia/caldas/gruta/fotocascada-1.jpg" "Foto de la cascada de camino para La Gruta" %}
 
 Al llegar a La Gruta, nos encontraremos con una casa La cual es señal de que ya llegamos 😎.
 
-{% include image.html,
-  file:"rutas/caldas/gruta/FotoCasaCercaGruta.jpg",
-  caption:"Foto casa Cerca de La Gruta",
-  width:"800",
-  height:"600"
-%}
+{% image "images/rutas/colombia/caldas/gruta/foto-casa-cerca-gruta.jpg" "Foto casa cerca de La Gruta" %}
 
 Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tributo a los 11 Scouts que murieron. Tenemos que tomar el camino hacia la izquierda a partir de aquí solo son 3 minutos caminando 🚶🏼 para llegar a La Gruta donde nuestra recompensa es este paisaje con estas maravillosas aguas termales.
 
@@ -97,12 +78,7 @@ Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tribut
 
 ### Lugar cercano para acampar 🏕
 
-{% include image.html,
-  file:"rutas/caldas/gruta/hostal-termales-Gruta.jpeg",
-  caption:"Camping cuenta con 3 piscinas",
-  width:"800",
-  height:"533"
-%}
+{% image "images/rutas/colombia/caldas/gruta/hostal-termales-gruta.jpeg" "Camping con tres piscinas cerca a La Gruta" %}
 
 Para ir a acampar 🏕 a este lugar o simplemente ir por pasadia es recomendable llamar 2 días antes y a hacer la reserva ya que de lo contrario podrás perder la ida y no te dejen ingresar a este lugar, **podrás encontrar el numero de telefono en la información anexa que dejamos con la ruta.**
 

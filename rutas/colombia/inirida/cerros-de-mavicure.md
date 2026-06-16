@@ -4,7 +4,7 @@ title:  Cerros de Mavicure | Guía completa
 categories: colombia
 seo_title: ▷ Cerros de Mavicure (Inírida)| Guía, Tours y Consejos 2026
 excerpt: ¿Quieres viajar a los Cerros de Mavicure? Conoce cómo llegar, cuánto cuesta, los mejores tours y todo sobre la seguridad en esta joya del Guainía.
-images_url: /images/rutas/inirida/cerros-de-mavicure
+images_url: /images/rutas/colombia/inirida/cerros-de-mavicure
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true

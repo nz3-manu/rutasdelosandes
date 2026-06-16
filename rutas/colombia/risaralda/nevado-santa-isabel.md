@@ -4,7 +4,7 @@ title: Nevado Santa Isabel | Guía completa
 categories: colombia
 seo_title: Nevado Santa Isabel| Guía Completa de Ascenso, Tours y Precios 2026
 Excerpt: ¿Quieres subir al Nevado Santa Isabel? Te explicamos cómo llegar, cuánto cuesta el tour, equipo necesario y consejos de expertos para hacer cumbre de forma segura en 2026
-images_url: /images/rutas/risaralda/nevado-santa-isabel
+images_url: /images/rutas/colombia/risaralda/nevado-santa-isabel
 viewranger:
 author: manuel
 trending: true
@@ -65,10 +65,10 @@ Como nos gusta decir en Rutas de Los Andes, este lugar no es solo una montaña; 
 
 
 <amp-carousel width="1078" height="1078" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/1.jpg", width:"1078", height:"1078" %}
-{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/2.jpg", width:"1078", height:"1078" %}
-{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/3.jpg", width:"1078", height:"1078" %}
-{% include image.html, file:"rutas/risaralda/nevado-santa-isabel/4.jpg", width:"1078", height:"1078" %}
+  {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/1.jpg" "Vista del Nevado Santa Isabel 1" %} 
+  {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/2.jpg" "Vista del Nevado Santa Isabel 2" %} 
+  {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/3.jpg" "Vista del Nevado Santa Isabel 3" %} 
+  {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/4.jpg" "Vista del Nevado Santa Isabel 4" %} 
 </amp-carousel>
 
 
@@ -150,13 +150,7 @@ __LAGUNA VERDE__
 Visitar esta hermosa laguna, fue realmente una caminata de exigencia moderada pero llena de muchos paisajes asombrosos (total recorrido 4 horas).
 
 
-{% include image.html,
-  file:"rutas/risaralda/nevado-santa-isabel/laguna-verde.jpg",
-  caption:"Foto Laguna Verde",
-  width:"1080",
-  height:"608"
-%}
-
+{% image "images/rutas/colombia/risaralda/nevado-santa-isabel/laguna-verde.jpg" "Foto Laguna Verde" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/vanecarmona91/"  target="_blank"> @vanecarmona91</a> </span>**
 
@@ -181,13 +175,7 @@ Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la
 
 <ins>Lo que debes de saber es que el único **hospedaje cerca al nevado Santa Isabel** es el Centro de Visitantes el Cisne, el cual solo se puede ingresas si vas con un guía certificado por Parques Nacionales y además si tienes reserva previa, ya que este lugar cuenta con un número limitado de camas.</ins>
 
-
-{% include image.html,
-  file:"rutas/risaralda/nevado-santa-isabel/casa-visitante-cisne.jpg",
-  caption:"Foto Hospedaje en el Cisne",
-  width:"1600",
-  height:"1066"
-%}
+{% image "images/rutas/colombia/risaralda/nevado-santa-isabel/casa-visitante-cisne.jpg" "Foto Hospedaje en el Cisne" %}
 
 
 <a name="sendero-santa" id="sendero-santa"></a>
@@ -202,12 +190,7 @@ Confieso que muchos de nosotros no pudimos dormir pensando que ya se acercaba la
 Cuando era aproximadamente la 1:00 a.m, llegaron los carros que nos llevarían hasta el punto de partida de la caminata. Admito que muchos de nosotros estábamos algo ansiosos por no saber qué tan difícil iba a estar el ascenso, puesto que, gran parte de la noche había llovido, aun el clima estaba algo frío y con un poco de lluvia leve, por tal motivo que decidimos ponernos nuestras chaquetas impermeables. Por último, el guía se acercó para darnos unas últimas recomendaciones antes de empezar el ascenso.
 
 
-{% include image.html,
-  file:"rutas/risaralda/nevado-santa-isabel/ascenso-santa-isabel.jpg",
-  caption:"Foto ascenso Nevado Santa Isabel",
-  width:"1080",
-  height:"1349"
-%}
+{% image "images/rutas/colombia/risaralda/nevado-santa-isabel/ascenso-santa-isabel.jpg" "Foto ascenso Nevado Santa Isabel" %}
 
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/p/CX90pdqFz26/"  target="_blank"> @juancanon.ph</a> </span>**
@@ -216,12 +199,8 @@ Cuando era aproximadamente la 1:00 a.m, llegaron los carros que nos llevarían h
 El ascenso tenía varios trayectos levemente inclinados con muchas rocas, al cabo de unos minutos empezamos a ver un poco de nieve en ellas. Llegamos al punto que todo estaba completamente cubierto de nieve, así que nos pusimos nuestro equipo para comenzar a realizar el ascenso. A medida que ascendíamos, se podían ver cada vez más pequeñas las lagunas que contrastaba con un bosque hermoso de frailejones 🌲. Después de mucha lluvia y neblina, por fin 💪 llegamos a la cumbre del Santa Isabel 😍.
 
 
-{% include image.html,
-  file:"rutas/risaralda/nevado-santa-isabel/cumbre-santa-isabel.jpg",
-  caption:"Foto Cumbre Nevado Santa Isabel",
-  width:"1080",
-  height:"1349"
-%}
+{% image "images/rutas/colombia/risaralda/nevado-santa-isabel/cumbre-santa-isabel.jpg" "Foto Cumbre Nevado Santa Isabel" %}
+
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/p/CX90pdqFz26/"  target="_blank"> @juancanon.ph</a> </span>**
 
 

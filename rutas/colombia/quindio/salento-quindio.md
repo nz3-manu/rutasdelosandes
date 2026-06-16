@@ -4,7 +4,7 @@ title: Salento y Valle del Cocora
 categories: colombia
 seo_title: Qué hacer en Salento y Valle del Cocora | Guía de Rutas y Consejos (2026)
 excerpt: Descubre qué hacer en Salento, cómo llegar y las mejores rutas de senderismo en el Valle del Cocora. Guía actualizada con mapas, hospedaje y recomendaciones.
-images_url: /images/rutas/quindio/salento
+images_url: /images/rutas/colombia/quindio/salento
 viewranger:
 author: manuel
 trending: true
@@ -46,10 +46,10 @@ Empecemos con la aventura 🌴.
 *   Panorámicas espectaculares del Valle del Cocora desde sus miradores principales.
  
 <amp-carousel width="1040" height="800" layout="responsive" type="slides" autoplay delay="1500">
-       {% include image.html, file:"rutas/quindio/salento/slider/1.jpg", width:"900", height:"692" %}
-       {% include image.html, file:"rutas/quindio/salento/slider/2.jpg", width:"900", height:"692" %}
-       {% include image.html, file:"rutas/quindio/salento/slider/3.jpg", width:"900", height:"692" %}  
-       {% include image.html, file:"rutas/quindio/salento/slider/4.jpg", width:"900", height:"692" %}  
+  {% image "images/rutas/colombia/quindio/salento/slider/1.jpg" "Vista slider 1" %}
+  {% image "images/rutas/colombia/quindio/salento/slider/2.jpg" "Vista slider 2" %}
+  {% image "images/rutas/colombia/quindio/salento/slider/3.jpg" "Vista slider 3" %}
+  {% image "images/rutas/colombia/quindio/salento/slider/4.jpg" "Vista slider 4" %}
 </amp-carousel>
  
 <a name="llegar-salento" id="llegar-salento"></a>
@@ -80,13 +80,8 @@ Como bien sabes, el municipio de Salento es reconocido a nivel mundial por sus i
 Al visitar el pueblo, es obligatorio caminar por la **Calle Real** hasta llegar a las escalinatas del **Mirador de Salento** (Alto de la Cruz). Te aconsejamos subir al final de la tarde: contemplar el atardecer desde allí, con la vista hacia el Valle de Cocora por un lado y los techos del pueblo por el otro, es una experiencia simplemente asombrosa.
  
 **Foto del Mirador de Salento:**
- 
-{% include image.html,
- file:"rutas/quindio/salento/mirador-salento.jpg",
- caption:"Panorámica desde el Mirador de Salento",
- width:"1024",
- height:"768"
-%}
+
+{% image "images/rutas/colombia/quindio/salento/mirador-salento.jpg" "Panorámica desde el Mirador de Salento" %}
  
 A continuación, te detallamos los principales recorridos de trekking que podés realizar una vez te desplaces desde el pueblo hacia la zona rural del Valle del Cocora.
 
@@ -107,21 +102,11 @@ A lo largo de este trayecto de aproximadamente 1 kilómetro, encontrarás varios
   
 **Foto del Sendero de las Palmas:**
  
-{% include image.html,
- file:"rutas/quindio/salento/entrada-cocora.jpg",
- caption:"Sendero de acceso a los miradores principales de Cocora",
- width:"1000",
- height:"562"
-%}
+{% image "images/rutas/colombia/quindio/salento/entrada-cocora.jpg" "Sendero de acceso a los miradores principales de Cocora" %}
  
 Todas las estructuras interactivas del sendero están ubicadas estratégicamente para aprovechar la luz y tener de fondo los bosques de palma más densos.
  
-{% include image.html,
- file:"rutas/quindio/salento/mirador-cocora.jpg",
- caption:"Zonas de descanso en el Mirador del Valle del Cocora",
- width:"700",
- height:"393"
-%}
+{% image "images/rutas/colombia/quindio/salento/mirador-cocora.jpg" "Zonas de descanso en el Mirador del Valle del Cocora" %}
  
 Si continúas avanzando por este sendero más allá de los miradores fotográficos, llegarás al punto de conexión que da inicio al siguiente nivel de caminata.
  
@@ -132,12 +117,7 @@ Si te llama la atención este destino técnico, te invitamos a leer nuestra guí
  
 La distancia desde el plano de Cocora hasta la Finca La Montaña es de aproximadamente **3,5 kilómetros** de ascenso continuo. 
 
-{% include image.html,
- file:"rutas/quindio/salento/finca-la-montana-salento.jpg",
- caption:"Vista del paisaje andino desde la Finca La Montaña",
- width:"1080",
- height:"1080"
-%}
+{% image "images/rutas/colombia/quindio/salento/finca-la-montana-salento.jpg" "Vista del paisaje andino desde la Finca La Montaña" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/________sergio____/" target="_blank">@________sergio____</a> </span>**
  
@@ -150,24 +130,14 @@ Para los caminantes más experimentados, la opción reina es el circuito complet
 
 El recorrido total de aproximación por esta variante ronda los **6 kilómetros**, cruzando tramos de bosque andino húmedo con bifurcaciones confusas. Para evitar incidentes, se recomienda seguir estrictamente las indicaciones de los guías locales.
  
-{% include image.html,
- file:"rutas/quindio/salento/casadecolibries.jpg",
- caption:"Antiguo sendero de acceso hacia la Reserva Acaime",
- width:"1800",
- height:"1384"
-%}
+{% image "images/rutas/colombia/quindio/salento/casadecolibries.jpg" "Antiguo sendero de acceso hacia la Reserva Acaime" %}
  
 #### 🥾 EL DESCENSO POR LOS PUENTES COLGANTES
 El retorno hacia el Valle del Cocora se realiza siguiendo el curso del río San José. Es un tramo muy divertido donde deberás cruzar el río varias veces a través de puentes colgantes de madera. 
 
 **Ojo con el clima:** Durante las temporadas de lluvias fuertes (invierno), el caudal del río suele subir de forma drástica y puede averiar o llevarse estas estructuras, volviendo el paso complejo. Ir acompañado de un guía de la zona te garantiza conocer rutas alternativas seguras si el río complica el paso.
     
-{% include image.html,
- file:"rutas/quindio/salento/puente.jpg",
- caption:"Puentes de madera tradicionales sobre el río San José",
- width:"1800",
- height:"1384"
-%}
+{% image "images/rutas/colombia/quindio/salento/puente.jpg" "Puentes de madera tradicionales sobre el río San José" %}
  
 <a name="mapa-valle-cocora" id="mapa-valle-cocora"></a>
 
@@ -197,12 +167,7 @@ Para evitar malas experiencias, es clave elegir bien dónde dormir. Salento es m
 Un lugar increíble rodeado enteramente de naturaleza. **Cuenta con:** amplias zonas verdes, parqueadero privado gratuito, terraza panorámica y restaurante interno. Prestan un gran servicio de conserjería y wifi de alta velocidad. Muchas de sus habitaciones disponen de balcón privado con vistas directas a las montañas del Quindío, TV satelital, caja fuerte y minibar.
 
 <a href="https://www.booking.com/hotel/co/ecohotel-piedemonte.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/quindio/salento/hospedaje/ecohotel-en-salento.jpg",
-caption:"Zonas exteriores del Ecohotel Piedemonte",
-width:"900",
-height:"512"
-%}
+  {% image "images/rutas/colombia/quindio/salento/hospedaje/ecohotel-en-salento.jpg" "Zonas exteriores del Ecohotel Piedemonte" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/ecohotel-piedemonte.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y disponibilidad del Ecohotel Piedemonte</a>
@@ -211,12 +176,7 @@ height:"512"
 Este hostal combina la esencia colonial con la tranquilidad. Está ubicado en una de las calles principales de Salento, a tan solo tres cuadras de la plaza Bolívar, lo suficientemente retirado de la zona de bares para garantizar un sueño profundo. Dispone de cocina compartida totalmente equipada y recepción abierta las 24 horas.
 
 <a href="https://www.booking.com/hotel/co/hostal-la-casa-de-lili.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/quindio/salento/hospedaje/hostal-en-salento.jpg",
-caption:"Fachada tradicional del Hostal La Casa de Lili",
-width:"900",
-height:"512"
-%}
+  {% image "images/rutas/colombia/quindio/salento/hospedaje/hostal-en-salento.jpg" "Fachada tradicional del Hostal La Casa de Lili" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/hostal-la-casa-de-lili.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y disponibilidad de La Casa de Lili</a>

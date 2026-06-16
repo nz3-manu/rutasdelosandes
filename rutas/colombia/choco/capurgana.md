@@ -4,7 +4,7 @@ title: Capurgana
 categories: colombia
 aseo_title: Capurganá-Chocó, Guia completa | Actualizada 2024
 excerpt: Conoce como llegar a Capurganá, descubre costos de transporte, hospedaje y consejos para hacer mucho mejor este viaje.
-images_url: /images/rutas/choco/capurgana
+images_url: /images/rutas/colombia/choco/capurgana
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
@@ -147,12 +147,7 @@ __DATOS TECNICOS:__
 - __Tiempo total:__ 2 horas.
 - __Color de la linea en el mapa:__ Verde.
 
-{% include image.html,
-file:"rutas/choco/capurgana/bahia-aguacate.jpg",
-caption:"Bahia aguacate",
-width:"1080",
-height:"1349"
-%}
+{% image "images/rutas/colombia/choco/capurgana/bahia-aguacate.jpg" "Bahia aguacate" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/melocapurgana/"  target="_blank"> @melocapurgana </a> </span>__
 
@@ -167,12 +162,7 @@ __DATOS TECNICOS:__
 - __Tiempo trayecto:__ 1 horas.
 - __Color de la linea en el mapa:__ Morado.
 
-{% include image.html,
-file:"rutas/choco/capurgana/Piscina-de-los-dioses.jpg",
-caption:"Piscina De Los Dioses",
-width:"1080",
-height:"1079"
-%}
+{% image "images/rutas/colombia/choco/capurgana/Piscina-de-los-dioses.jpg" "Piscina De Los Dioses" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/valentinapuertaosorio/"  target="_blank"> @valentinapuertaosorio </a> </span>__
 
@@ -187,12 +177,7 @@ __DATOS TECNICOS:__
 - __Color de la linea en el mapa:__ Vinotinto.
 
 
-{% include image.html,
-file:"rutas/choco/capurgana/Reserva-natural-el-cielo.jpg",
-caption:"Reserva Natural el Cielo Mirador",
-width:"1024",
-height:"576"
-%}
+{% image "images/rutas/colombia/choco/capurgana/Reserva-natural-el-cielo.jpg" "Reserva Natural el Cielo Mirador" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/lilianajuvinao/"  target="_blank"> @lilianajuvinao </a> </span>__
 
@@ -214,12 +199,7 @@ __DATOS TECNICOS:__
 - __Color de la linea en el mapa:__ Azul.
 
 
-{% include image.html,
-file:"rutas/choco/capurgana/cabo-tiburon.jpeg",
-caption:"Cabo Tiburón",
-width:"1000",
-height:"875"
-%}
+{% image "images/rutas/colombia/choco/capurgana/cabo-tiburon.jpeg" "Cabo Tiburón" %}
 
 #### PLAYA LA MIEL
 
@@ -232,12 +212,7 @@ __DATOS TECNICOS:__
 - __Tiempo total:__ 1 horas.
 - __Color de la linea en el mapa:__ Naranja.
 
-{% include image.html,
-file:"rutas/choco/capurgana/la-miel.jpeg",
-caption:"Playa la Miel",
-width:"1000",
-height:"875"
-%}
+{% image "images/rutas/colombia/choco/capurgana/la-miel.jpeg" "Playa la Miel" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27/"  target="_blank"> @alejora.27 </a> </span>__
 
@@ -307,28 +282,6 @@ __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibim
 Si eres de esas personas que les gusta la rumba 🍾 Y comodidades como: restaurantes, supermercados Y corresponsales bancarios  etc... te recomendamos hospedarte en Capurganá.
 
 
-#### BLUE BAYOU
-
-
-El Blue Bayou Capurganá es un establecimiento recientemente reformado situado en Capurganá, a 300 metros de la playa de Capurganá, y ofrece jardín y vistas al jardín.
-
-* __Precio promedio:__ El valor de hospedaje para 2 personas es de $320.640 pesos
-* __Lugares cercanos:__ A 250 metros, se encuentra la playa Capurganá, y a 1.9 kilometros, Reserva Natural El Cielo
-* __Servicios:__ Vista del patio interior, Baño privado, TV de pantalla plana, WiFi gratis, Artículos de aseo gratuitos, Ducha y servicio de Streaming como Netflix
-
-
-<a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/choco/capurgana/hospedaje-capurgana/BlueBayou.capurgana.jpg",
-caption:"Foto: Hotel Blue Bayou",
-width:"1200",
-height:"688"
-%}
-</a>
-
-👉 **<a href="https://www.booking.com/hotel/co/bluebayou-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
-
-
 #### RECICLARTE GALERÍA HOSTAL
 
 
@@ -340,12 +293,7 @@ El Reciclarte Galería Hostal se encuentra en Capurganá, a 100 metros de la pla
 
 
 <a href="https://www.booking.com/hotel/co/casa-reggae-capurgana-capurgana1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/choco/capurgana/hospedaje-capurgana/Reciclarte-galeria-hostal.jpg",
-caption:"Foto: Reciclarte Galería Hostal",
-width:"1000",
-height:"578"
-%}
+  {% image "images/rutas/colombia/choco/capurgana/hospedaje-capurgana/reciclarte-galeria-hostal.jpg" "Reciclarte Galería Hostal" %}
 </a>
 
 
@@ -371,12 +319,7 @@ El Casa Hotel La Mariela se encuentra en Sapzurro, a 1,6 km de la playa de Capur
 
 
 <a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/choco/capurgana/hospedaje-capurgana/Casa-hotel-la-mariela.jpg",
-caption:"Foto: Casa Hotel La Mariela",
-width:"1000",
-height:"580"
-%}
+  {% image "images/rutas/colombia/choco/capurgana/hospedaje-capurgana/casa-hotel-la-mariela.jpg" "Casa Hotel La Mariela" %}
 </a>
 
 👉 **<a href="https://www.booking.com/hotel/co/casa-la-mariela.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color:#971717;" target="_blank">Click aquí para mayor información de la reserva en booking</a>**
@@ -392,12 +335,7 @@ El Cafe del Mar Sapzurro ofrece vistas al mar y alojamiento con jardín y balcó
 
 
 <a href="https://www.booking.com/hotel/co/cafe-del-mar-sapzurro.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/choco/capurgana/hospedaje-capurgana/cafe-del-mar-sapzurro.jpg",
-caption:"Foto: Cafe Del Mar Sapzurro",
-width:"1000",
-height:"571"
-%}
+  {% image "images/rutas/colombia/choco/capurgana/hospedaje-capurgana/cafe-del-mar-sapzurro.jpg" "Cafe Del Mar Sapzurro" %}
 </a>
 
 

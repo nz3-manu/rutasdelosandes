@@ -4,7 +4,7 @@ title: "Norcasia"
 categories: "colombia"
 seo_title: "Guía Completa 2026: Cómo llegar y qué hacer"
 excerpt: "¿Planeas viajar a Norcasia? Descubre los mejores tours al Río La Miel, Embalse Amaní, dónde hospedarte y consejos locales para disfrutar la 'Niña de Caldas'"
-images_url: "/images/rutas/caldas/norcasia"
+images_url: "/images/rutas/colombia/caldas/norcasia/"
 viewranger: "MTY2NDcwMQ=="
 author: "manuel"
 trending: true
@@ -149,13 +149,7 @@ Este río es el protagonista absoluto de la zona. No es casualidad que la repres
 
 Además de su importancia, es el escenario perfecto donde realizamos la actividad de **body rafting**, que nos permitió descender por sus aguas durante varios kilómetros dejándonos llevar por la corriente. Es, sin duda, una de las mejores **experiencias de aventura en Caldas**, ideal para combinar la fuerza de la naturaleza con un poco de adrenalina.
 
-{% include image.html,
-file:"rutas/caldas/norcasia/rio-la-miel.jpg",
-caption:"Foto: Río la Miel en Norcasia",
-alt:"Río La Miel, Norcasia Caldas paraíso natural",
-width:"1200",
-height:"674"
-%}
+{% image "images/rutas/colombia/caldas/norcasia/rio-la-miel.jpg" "Río La Miel, Norcasia Caldas paraíso natural" %}
 
 ### ->  CASCADA LA CLARA
 
@@ -163,13 +157,7 @@ Desde el parque principal de Norcasia hasta la Cascada La Clara hay prácticamen
 
 Allí dejamos el transporte y comenzamos el ingreso caminando por un sendero de unos 500 metros (aproximadamente 10 minutos). Al final, tuvimos que cruzar una pequeña quebrada para subir y quedar frente a la majestuosidad de la cascada.
 
-{% include image.html,
-file:"rutas/caldas/norcasia/cascada-la-clara.jpeg",
-caption:"Cascada la Clara",
-alt:"Cascada la Clara, Norcasia Caldas paraíso natural",
-width:"819",
-height:"1024"
-%}
+{% image "images/rutas/colombia/caldas/norcasia/cascada-la-clara.jpeg" "Cascada la Clara, Norcasia Caldas paraíso natural" %}
 
 **<span class="advise"> Foto por: Victor</span>**
 
@@ -189,13 +177,8 @@ __Nota:__ La mayoría de las agencias turísticas se limitan a visitar el **muro
 
 Si buscas una **experiencia inmersiva, profesional y completa**, no te conformes con lo superficial. **Explora nuestra sección de Tours.**
 
-{% include image.html,
-file:"rutas/caldas/norcasia/represa.jpg",
-caption:"Represa del embalse de Amaní",
-alt:"Represa del embalse, Norcasia Caldas paraíso natural",
-width:"1076",
-height:"1076"
-%}
+{% image "images/rutas/colombia/caldas/norcasia/represa.jpg" "Represa del embalse, Norcasia Caldas paraíso natural" %}
+
 **<span class="advise"> Foto por: Victor</span>**
 
 ### -> MIRADORES DEL EMBALSE
@@ -204,13 +187,7 @@ Los miradores quedan a tan solo 10 minutos del pueblo viajando en moto. La carre
 
 Nosotros visitamos dos miradores por la zona en la que estábamos recorriendo, pero sabemos por los locales que hay muchos más en diferentes puntos. Desde estas zonas altas se puede apreciar parte del inmenso embalse y las montañas imponentes que lo rodean. ¡Una vista perfecta para las fotos!
 
-{% include image.html,
-file:"rutas/caldas/norcasia/mirador-embalse-amani.png",
-caption:"Mirador del Embalse de Amaní",
-alt:"Mirador del Embalse, Norcasia Caldas paraíso natural",
-width:"1200",
-height:"635"
-%}
+{% image "images/rutas/colombia/caldas/norcasia/mirador-embalse-amani.png" "Mirador del Embalse, Norcasia Caldas paraíso natural" %}
 
 ### ->  RÍO MANSO
 
@@ -218,13 +195,8 @@ Para llegar a este río tuvimos que conducir por cerca de 20 minutos (son alrede
 
 Al llegar, encontramos un lugar seguro donde dejar nuestro transporte mientras bajábamos a disfrutar de estas hermosas aguas cristalinas.
 
-{% include image.html,
-file:"rutas/caldas/norcasia/rio-manso.png",
-caption:"Río Manso",
-alt:"Río Manso, Norcasia Caldas paraíso natural",
-width:"1200",
-height:"670"
-%}
+{% image "images/rutas/colombia/caldas/norcasia/rio-manso.png" "Río Manso, Norcasia Caldas paraíso natural" %}
+
 **<span class="advise"> Foto por: Andres</span>**
 
 __Nota importante de seguridad:__ Aunque este río se ve muy tranquilo desde la orilla, tiene partes que son bastante hondas y el agua lleva corrientes internas fuertes. Lamentablemente, allí se ahogaron dos personas que fueron por su cuenta y quedaron atrapadas debajo de un árbol sumergido. ¡Siempre viaja con precaución y de ser posible con un guía!
@@ -284,13 +256,7 @@ Ubicado a 15 minutos de Norcasia. Es un lugar ideal para parejas o familias que 
 * 🍳 Cocina compartida
 
 <a href="https://wa.link/1nl03q" target="_blank">
-{% include image.html,
-file:"rutas/caldas/norcasia/hospedaje/ecohotel-mirador.jpg",
-caption:"Foto: Ecohotel en norcasia",
-alt:"Ecohotel en norcasia, Norcasia Caldas paraíso natural",
-width:"1920",
-height:"1080"
-%}
+  {% image "images/rutas/colombia/caldas/norcasia/hospedaje/ecohotel-mirador.jpg" "Ecohotel en norcasia, Norcasia Caldas paraíso natural" %}
 </a>
 
 👉 <a href= "https://wa.link/1nl03q" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
@@ -308,14 +274,7 @@ Esta opción es ideal si viajas en familia o con amigos y buscas una alternativa
 * 🛌 2 colchones auxiliares
 
 <a href="https://wa.link/1nl03q" target="_blank">
-
-{% include image.html,
-file:"rutas/caldas/norcasia/hospedaje/hospedaje-grupos.jpg",
-caption:"Foto: Casa hotel en norcasia",
-alt:" Cabaña económica para grupos y familias en Norcasia Caldas",
-width:"1920",
-height:"1080"
-%}
+  {% image "images/rutas/colombia/caldas/norcasia/hospedaje/hospedaje-grupos.jpg" "Cabaña económica para grupos y familias en Norcasia Caldas" %}
 </a>
 
 👉 <a href= "https://wa.link/1nl03q" style="color: maroon;" target="_blank"> Clic aquí, para reservar </a>

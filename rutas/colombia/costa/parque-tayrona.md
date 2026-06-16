@@ -4,7 +4,7 @@ title: Parque Nacional Natural Tayrona
 categories: colombia
 seo_title: Cómo llegar al Parque Tayrona.
 excerpt: Descubre hoteles en el Parque Tayrona, playas, entradas al parque tayrona y muchas más entrando aquí.
-images_url: /images/rutas/costa/tayrona
+images_url: /images/rutas/colombia/costa/tayrona
 viewranger:
 author: manuel
 ---
@@ -33,9 +33,9 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 - Hermosas playas y avistamientos de corales.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/costa/tayrona/slider1.JPG", width:"800", height:"550" %}
-{% include image.html, file:"rutas/costa/tayrona/slider2.JPG", width:"800", height:"550" %}
-{% include image.html, file:"rutas/costa/tayrona/slider3.JPG", width:"800", height:"550" %}
+  {% image "images/rutas/colombia/costa/tayrona/slider1.jpg" "Slider 1 Tayrona" %}
+  {% image "images/rutas/colombia/costa/tayrona/slider2.jpg" "Slider 2 Tayrona" %}
+  {% image "images/rutas/colombia/costa/tayrona/slider3.jpg" "Slider 3 Tayrona" %}
 </amp-carousel>
 
 ## ¿CÓMO LLEGAR AL PARQUE TAYRONA?
@@ -67,12 +67,7 @@ Puedes comprar tu ingreso directamente en la taquilla o a través de la página 
 **Recomendación:** El Parque Tayrona abre sus puertas a partir de las 8:00 am hasta las 5:00 pm. Se recomienda ir temprano ya que si se llena el Tayrona éste cerrará sus puertas.
 
 <a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-  file:"publicidad-post/chaqueta-randes.jpg",
-  caption:"",
-  width:"480",
-  height:"200"
-%}
+  {% image "images/publicidad-post/chaqueta-randes.jpg" "Chaqueta técnica Randes" %}
 </a>
 
 <a name="rutasDentroTayrona"></a>
@@ -85,11 +80,14 @@ Este es todo el trayecto que realizaremos en el Parque Tayrona: ruta entrando po
 
 **Mapa de ruta realizada desde el en el parque Tayrona**
 
-{% include iframe.html,
-  type:"custom",
-  mid:"13OpqCoxV-YvPznmN79HLFTSe7FroJhxS&hl=es",
-  caption:"Ruta en el Parque Tayrona"
-%}
+<iframe 
+  src="https://www.google.com/maps/d/embed?mid=13OpqCoxV-YvPznmN79HLFTSe7FroJhxS&hl=es" 
+  width="100%" 
+  height="480" 
+  frameborder="0" 
+  style="border:0;" 
+  allowfullscreen>
+</iframe>
 
 ## HOSPEDAJE EN EL PARQUE TAYRONA
 
@@ -132,23 +130,14 @@ La playa queda un poco retirada.
 _Si estás pensando acampar en zonas no autorizadas, yo de ti lo pensaría 2 veces ya que en algunas zonas del Parque Tayrona hay caimanes 🐊, especialmente en el sector conocido como Piscinita_
 
 **Vista de Cabo San Juan**
-{% include image.html,
-file:"rutas/costa/tayrona/cabo-san-juan.jpeg",
- caption:"Foto en Cabo San Juan",
-width:"1080",
-height:"810"
-%}
+
+{% image "images/rutas/colombia/costa/tayrona/cabo-san-juan.jpeg" "Foto en Cabo San Juan" %}
 
 Después de una noche maravillosa escuchando el sonido del mar 🌊, nos levantamos temprano para seguir nuestro recorrido con dirección al Pueblo Kogui, caminamos por borde de la playa y nos encontraremos con la última Playa, las cuales son playas nudistas , de estas playas hasta el pueblo Kogui son aproximadamente 3 horas el trayecto todo es en subida.
 
 Al llegar al Pueblo Kogui encontramos una pequeña tienda, en la cual venden gaseosas y algunas cosas de dulce. En la tienda nos atendió un Kogui, y para nuestra fortuna algunos hablan español.
 
-{% include image.html,
-file:"rutas/costa/tayrona/pueblito.JPG",
-caption:"Pueblo Kogui en el Tayrona",
-width:"900",
-height:"507"
-%}
+{% image "images/rutas/colombia/costa/tayrona/pueblito.jpg" "Pueblo Kogui en el Tayrona" %}
 
 Una vez de haber visto las hermosas playas,escuchar el hermoso sonido de las ola, pasar por bosques y ver el hermoso Pueblo Kogui ya era tiempo de regresar de nuevo a casa 🏠, así que continuamos nuestro camino hasta la segunda entrada del Parque Tayrona llamado Calabazo, donde podremos tomar transporte para Santa Marta.
 

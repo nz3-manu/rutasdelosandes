@@ -4,7 +4,7 @@ title: Desierto de la Tatacoa
 categories: colombia
 seo_title: Guía del Desierto de la Tatacoa | Rutas, Hoteles y Consejos (2026)
 excerpt: Descubre cómo llegar al Desierto de la Tatacoa, dónde hospedarse en Villavieja, tarifas de guías locales y recomendaciones actualizadas al 2026.
-images_url: /images/rutas/huila/desierto-de-la-tatacoa
+images_url: /images/rutas/colombia/huila/desierto-de-la-tatacoa
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
@@ -55,9 +55,9 @@ Geográficamente se divide en dos áreas muy bien diferenciadas por sus colores:
 *   🍹 Probar el refrescante jugo artesanal de cactus, una delicia local.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider1.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider2.jpg", width:"800", height:"600" %}
-{% include image.html, file:"rutas/huila/desierto-de-la-tatacoa/slider/slider3.JPG", width:"800", height:"600" %}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider1.jpg" "Slider 1 Tatacoa" %}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider2.jpg" "Slider 2 Tatacoa" %}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider3.jpg" "Slider 3 Tatacoa" %}
 </amp-carousel>
 
 <a name="llegar-desierto" id="llegar-desierto"></a>
@@ -81,11 +81,7 @@ El valor del pasaje se sitúa sobre los **$105.000 COP**, cruzando la Cordillera
 Si prefieres optimizar tiempo volando, la terminal de llegada es el **Aeropuerto Benito Salas (NVA)** en Neiva, localizado a 62 kilómetros del municipio de Villavieja. Para cazar las mejores tarifas y vuelos de conexión, te sugerimos monitorear la plataforma <a href="https://skyscanner.pxf.io/Nkx6JO" target="_blank">Skyscanner</a>.
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"Chaqueta rompevientos Randes",
-width:"480",
-height:"200" %}
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 ### 🚙 Tramo Final: De Neiva a Villavieja
@@ -93,22 +89,21 @@ Una vez en la Terminal de Neiva, debés tomar un microbús con destino al munici
 
 **Te compartimos el mapa de la ruta vial desde Neiva hasta Villavieja por si viajas en moto o vehículo particular:**
 
-{% include iframe.html,
-type:"custom",
-mid:"17_j3onCljRXLzCgYw_cdZNus-zYvlZzU&hl=es",
-caption:"Mapa del trayecto: Neiva a Villavieja"
-%}
+<iframe 
+  src="https://www.google.com/maps/d/embed?mid=17_j3onCljRXLzCgYw_cdZNus-zYvlZzU&hl=es" 
+  width="100%" 
+  height="480" 
+  frameborder="0" 
+  style="border:0;" 
+  allowfullscreen>
+</iframe>
 
 Estando en **Villavieja**, te recomendamos visitar el **Museo Paleontológico**, un espacio cultural fundado en 1984 que resguarda más de 950 fósiles originales de tortugas gigantes, perezosos terrestres y peces gigantes que habitaron la zona hace 15 millones de años durante el Mioceno Medio. Abre de lunes a domingo de 8:00 AM a 12:00 PM y de 2:00 PM a 6:00 PM. El costo de ingreso es de solo **$5.000 COP**.
 
 > 💧 **Consejo de Supervivencia:** Villavieja es el último punto con comercio estructurado. Abastécete aquí de abundante agua mineral y snacks, ya que conseguir provisiones dentro del desierto es costoso y limitado.
 
 <a href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/ropa-randes.png",
-caption:"Línea Outdoor Randes",
-width:"1000",
-height:"300" %}
+  {% image "images/publicidad-post/ropa-randes.png" "Línea Outdoor Randes" %}
 </a>
 
 Para dar el salto final hacia el desierto, nos dirigimos a la plaza principal de Villavieja, donde contratamos un servicio legal de mototaxi o moto-carro autorizado para ingresar a los sectores áridos.
@@ -123,11 +118,14 @@ A continuación verás el track geográfico de los sectores que exploramos. Es f
 
 > 🚗 **Nota de Movilidad:** Si viajas en tu propio carro o moto podés ingresar al desierto por las vías principales. Sin embargo, en temporadas de alta afluencia turística, la policía local suele restringir el acceso de vehículos particulares en las zonas de senderos para evitar embotellamientos en las estrechas vías de arena.
 
-{% include iframe.html,
-type:"custom",
-mid:"1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es",
-caption:"Mapa: Circuito de ruta en el Desierto de la Tatacoa"
-%}
+<iframe 
+  src="https://www.google.com/maps/d/embed?mid=1XnOWrH1TqMNxhXzpv7S6jgr7EMTo-VO_&hl=es" 
+  width="100%" 
+  height="480" 
+  frameborder="0" 
+  style="border:0;" 
+  allowfullscreen>
+</iframe>
 
 ### ➡️ DÍA #1: El Desierto Gris y Sector Los Hoyos
 
@@ -140,12 +138,7 @@ En esta zona inicia un sendero pedestre de 2 horas que cruza el **Valle de los F
 
 ⚠️ **ALERTA DE TRANSPORTE:** _Si viajas por libre, asegúrate de que el vehículo que contrates pertenezca a una cooperativa registrada en el pueblo. Evita abordar transportes informales de particulares que no cuentan con pólizas de seguro contractuales frente a accidentes en las trochas del desierto._
 
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/piscina-en-el-desierto.jpg",
-height:"1350",
-width:"1080",
-caption:"Piscina de agua natural en el sector gris de Los Hoyos"
-%}
+{% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/piscina-en-el-desierto.jpg" "Piscina de agua natural en el sector gris de Los Hoyos" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/la_vidademike/" target="_blank">@la_vidademike</a> </span>**
 
@@ -162,12 +155,7 @@ Esta región destaca por sus formaciones de cañones color ocre profundo. Realiz
 
 ⚠️ **RECOMENDACIÓN DE SEGURIDAD:** _El desierto es el hábitat natural de la serpiente cascabel 🐍. Estos ejemplares suelen resguardarse del sol bajo las sombras de los arbustos en senderos no tradicionales. Te recomendamos caminar estrictamente por las huellas marcadas y, preferiblemente, bajo el acompañamiento de un guía baquiano local._
 
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/region-cuzco.jpg",
-height:"1350",
-width:"1080",
-caption:"Formaciones de arcilla roja en el sector del Cuzco"
-%}
+{% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/region-cuzco.jpg" "Formaciones de arcilla roja en el sector del Cuzco" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/la_vidademike/" target="_blank">@la_vidademike</a> </span>**
 
@@ -176,12 +164,7 @@ Para combatir las altas temperaturas tras la caminata, pasamos por una heladerí
 #### 🔭 Observatorio Astronómico de la Tatacoa
 Al caer la noche, las condiciones de oscuridad y la ausencia de contaminación lumínica convierten al desierto en un observatorio estelar perfecto. Asistimos a la charla del **Observatorio Astronómico**. La entrada cuesta unos **$30.000 COP** e incluye una magnífica cátedra introductoria dictada por astrónomos locales con observación directa a través de telescopios de alta potencia. Las sesiones operan todos los días de 7:00 PM a 9:00 PM si el clima lo permite.
 
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/observatorio-astronomico.jpg",
-height:"890",
-width:"772",
-caption:"Sesión de observación estelar en el Observatorio Astronómico"
-%}
+{% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/observatorio-astronomico.jpg" "Sesión de observación estelar en el Observatorio Astronómico" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/ruahugo/" target="_blank">@ruahugo</a> </span>**
 
@@ -201,12 +184,7 @@ Al planear tu estadía tenés dos opciones: quedarte en el pueblo de **Villaviej
 Ubicado a escasas cuadras del parque central de Villavieja. **Ofrece:** zona de jardín, salón compartido, bar de jugos, bañera de hidromasaje para relajarse tras los senderos, recepción 24 horas y un gran servicio a la habitación. Los dormitorios están equipados con aire acondicionado, TV de pantalla plana y baño privado con amenidades de cortesía.
 
 <a href="https://www.booking.com/hotel/co/sueno-real-tatacoa.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa-2.jpg",
-height:"513",
-width:"900",
-caption:"Instalaciones modernas del Hotel Sueño Real Tatacoa"
-%}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa-2.jpg" "Instalaciones modernas del Hotel Sueño Real Tatacoa" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/sueno-real-tatacoa.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y reservar en el Hotel Sueño Real</a>
@@ -215,12 +193,7 @@ caption:"Instalaciones modernas del Hotel Sueño Real Tatacoa"
 Estrategia pura: situado a solo una cuadra de la plaza principal y del museo paleontológico. Dispone de estacionamiento privado gratuito, bar, salón de uso común, TV de pantalla plana y recepción las 24 horas dispuesta a coordinar guías locales. Sirven todas las mañanas un excelente desayuno tipo americano e incluye servicio de traslado de pago hacia el aeropuerto.
 
 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa.jpg",
-height:"507",
-width:"900",
-caption:"Habitaciones confortables en la Casa Hotel Estelar"
-%}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/hospedaje/hotel-desierto-de-la-tatacoa.jpg" "Habitaciones confortables en la Casa Hotel Estelar" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/casa-estelar.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y reservar en Casa Hotel Estelar</a>
@@ -229,12 +202,7 @@ caption:"Habitaciones confortables en la Casa Hotel Estelar"
 Ubicación céntrica en Villavieja, ideal para mochileros o presupuestos ajustados. Brinda conexión wifi gratuita en áreas comunes, servicio de casilleros, habitaciones sencillas con armario integrado y baños compartidos impecables equipados con duchas funcionales.
 
 <a href="https://www.booking.com/hotel/co/luna-del-desierto.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hotel-economico-desierto-tatacoa.jpg",
-height:"507",
-width:"900",
-caption:"Habitaciones compartidas de presupuesto bajo en Luna del Desierto"
-%}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/hospedaje/hotel-economico-desierto-tatacoa.jpg" "Habitaciones compartidas de presupuesto bajo en Luna del Desierto" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/luna-del-desierto.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y reservar en Luna del Desierto</a>
@@ -249,12 +217,7 @@ caption:"Habitaciones compartidas de presupuesto bajo en Luna del Desierto"
 Ubicado a poca distancia del observatorio. Cuenta con amplias zonas abiertas de descanso, restaurante especializado en comida latinoamericana tradicional, estacionamiento privado gratuito y habitaciones con baño privado y artículos de aseo. Sirven desayuno tipo continental y disponen de servicio de alquiler de bicicletas para rodar por los caminos de arena.
 
 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto.jpg",
-height:"518",
-width:"900",
-caption:"Cabañas rústicas inmersas en el Alojamiento Los Cactus"
-%}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto.jpg" "Cabañas rústicas inmersas en el Alojamiento Los Cactus" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/alojamiento-casa-de-campo-los-cactus.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y reservar en Los Cactus</a>
@@ -263,12 +226,7 @@ caption:"Cabañas rústicas inmersas en el Alojamiento Los Cactus"
 Una de las posadas tradicionales con mayor trayectoria del sector, ubicada de manera estratégica al lado del Observatorio Astronómico. Dispone de restaurante de cocina local huilense, zona de bar, estacionamiento privado y habitaciones rústicas equipadas con baño privado. Es perfecta para salir a ver estrellas caminando unos pocos metros.
 
 <a href="https://www.booking.com/hotel/co/posada-turistica-noches-de-saturno-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto-2.jpg",
-height:"518",
-width:"900",
-caption:"Zonas de hamacas y restaurante en Noches de Saturno"
-%}
+  {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/hospedaje/hospedaje-en-el-desierto-2.jpg" "Zonas de hamacas y restaurante en Noches de Saturno" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/posada-turistica-noches-de-saturno-villavieja.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon; font-weight: bold;" target="_blank">Clic aquí para ver precios y reservar en Noches de Saturno</a>

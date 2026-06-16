@@ -4,7 +4,7 @@ title: Volcán Machín
 categories: colombia
 seo_title: Guía completa para visitar el Volcán Machín (2026)
 excerpt: ¿Planeas visitar el Volcán Machín? Te contamos cómo llegar desde Salento o Ibagué, estado de la vía, qué hacer en Toche, tours y hospedajes. ¡Evita sorpresas!
-images_url: /images/rutas/tolima/volcan-machin
+images_url: /images/rutas/colombia/tolima/volcan-machin
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
@@ -133,12 +133,7 @@ __ESTADÍSTICAS DE ESTE TRAYECTO:__
 
 __Dato curioso:__ _Gracias a los nutrientes de antiguos suelos volcánicos, las palmas de cera alcanzan alturas asombrosas y una densidad única en la cordillera. El resultado es un paisaje místico, donde la niebla se funde con la selva y la imponente historia geológica del territorio._
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/la-carbonera.jpg",
-caption:"Foto: Carbonera",
-width:"1200",
-height:"900"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/la-carbonera.jpg" "Foto: Carbonera" %}
 
 ### -> CRATER DEL VOLCAN MACHIN
 
@@ -150,12 +145,7 @@ Una vez estando en la finca, pedimos permiso para dejar las motos allí y empeza
 
 __Dato curioso:__ _El cráter del Machín no es un abismo, sino un tapón. Está sellado por grandes domos de roca antiguos y estables que hoy albergan fincas, bosques y pastizales. Aunque a unos 5 o 7 kilómetros de profundidad se presenta la actividad interna, esta se ve obligada a buscar escape únicamente a través de sus fumarolas._
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/crater-volcan.jpg",
-caption:"Foto: Foto finca del crater",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/crater-volcan.jpg" "Foto: Finca del cráter" %}
 
 __Recomendación:__ _En esta finca ofrecen zona de camping, pero ten en cuenta que no hay aguas termales cerca (las más próximas están a unos 40 minutos en moto y el camino de acceso está en mal estado). Además, tienen muchos animales sueltos como gansos, cabras y cerdos. Esto hace que cocinar sea complicado, ya que se meten a las carpas o lo tumban todo._
 
@@ -172,12 +162,7 @@ __ESTADÍSTICAS DE ESTE TRAYECTO:__
 __Dato curioso:__ _A diferencia de otros volcanes, el Machín no huele a azufre. Sus fumarolas expulsan principalmente vapor de agua y dióxido de carbono ($CO_2$), creando una atmósfera densa y única donde se siente, de primera mano, la respiración de la tierra._
 
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/fumarolas.jpg",
-caption:"Foto: Cima del volcán Machin fumarolas",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/fumarolas.jpg" "Foto: Cima del volcán Machín, fumarolas" %}
 
 ### -> ESTALAGMITAS
 
@@ -193,12 +178,7 @@ __ESTADÍSTICAS DE ESTE TRAYECTO:__
 
 __Dato curioso:__ _¿Sabes la diferencia entre estalactitas y estalagmitas? Las estalactitas, con "T" de Techo, cuelgan; y las estalagmitas, con "M" de Mesa o de Suelo, crecen hacia arriba._
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/estalagmita.jpeg",
-caption:"Foto: Estalagmita",
-width:"600",
-height:"800"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/estalagmita.jpeg" "Foto: Estalagmita" %}
 
 ---
 
@@ -260,12 +240,7 @@ __TIPO DE HOSPEDAJE:__
 - Todas las habitaciones tienen baño privado
 
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/hospedaje/hotel-en-toche.png",
-caption:"Foto: Hospedaje en Toche",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/hospedaje/hotel-en-toche.png" "Foto: Hospedaje en Toche" %}
 
 
 👉 **<a href="https://wa.link/0zgvu6" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
@@ -284,12 +259,7 @@ __TIPO DE ZONA DE CAMPING:__
 - ♨️ Acceso a baños termales.
 
 
-{% include image.html,
-file:"rutas/tolima/volcan-machin/hotel-en-toche.png",
-caption:"Foto: Hospedaje Zona de Camping",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/volcan-machin/hospedaje/hotel-en-toche.png" "Foto: Hospedaje Zona de Camping" %}
 
 
 👉 **<a href="https://wa.link/21fqkv" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**

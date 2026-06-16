@@ -4,7 +4,7 @@ title:  Bosque de Pandora
 categories: colombia
 seo_title: Guía completa para visitar el Bosque de Pandora 
 excerpt: Aquí te mostraremos toda la información para visitar el bosque de pandora.
-images_url : /images/rutas/santander/bosque-de-pandora
+images_url : /images/rutas/colombia/santander/bosque-de-pandora
 viewranger: MTY2NDcwMQ==
 author: manuel
 ---
@@ -96,11 +96,7 @@ caption:"Mapa Ruta en el peñón Santander"
 
 Pandora hace referencia a la película Avatar, donde aparece un planeta que albergaba un ecosistema lleno de flora y fauna 🌿 deslumbrantes y fascinantes. Aunque Pandora es ficticia, muchos lugares con paisajes increíbles han adoptado este nombre, y este lugar, ubicado en El Peñón, Santander, no es la excepción. Con paisajes de unas piedras gigantescas llenas de musgo que hacen túneles naturales y vegetación que parece flotar en medio de las rocas. 🪨
 
-{% include image.html,
-file:"rutas/santander/bosque-de-pandora/bosque-de-pandora.jpg",
-caption:"Foto: Bosque de Pandora",
-width:"1080",
-height:"1350" %}
+{% image "images/rutas/colombia/santander/bosque-de-pandora/bosque-de-pandora.jpg" "Foto: Bosque de Pandora" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/losviajesdelkin/"  target="_blank"> @slosviajesdelkin</a> </span>__
 
@@ -109,22 +105,15 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/losviajesd
 
 La Caverna El Oro en El Peñón, Santander, se dice que esta es una de las más grandes y complejas de Colombia, con túneles que se extienden por varios kilómetros. En su interior alberga estalactitas y estalagmitas formadas durante miles de años, además de ecosistemas únicos de especies adaptadas a la oscuridad, como insectos y murciélagos. Es un lugar ideal para los amantes de la espeleología y la naturaleza.
 
-{% include image.html,
-file:"rutas/santander/bosque-de-pandora/caverna-el-oro.jpg",
-caption:"Foto: Caverna del Oro",
-width:"1000",
-height:"1231" %}
+{% image "images/rutas/colombia/santander/bosque-de-pandora/caverna-el-oro.jpg" "Foto: Caverna del Oro" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/santander_sin_limites?igsh=MW55bzQzY3U5eHI2Mg%3D%3D"  target="_blank"> @santander_sin_limites</a> </span>__
 
 ### -> CAVERNA LA TRONERA
 
 La Caverna La Tronera se destaca por su entrada en forma de orificio que permite el paso de luz 🌄, creando un una vista hermoso de sus paredes. Es un destino ideal para espeleólogos y aventureros, además de albergar interesantes formaciones minerales y especies de murciélagos.
-{% include image.html,
-file:"rutas/santander/bosque-de-pandora/caverna-de-la-tronera.jpg",
-caption:"Foto: Cueva la Tronera",
-width:"1000",
-height:"1225" %}
+
+{% image "images/rutas/colombia/santander/bosque-de-pandora/caverna-de-la-tronera.jpg" "Foto: Cueva La Tronera" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/santander_sin_limites?igsh=MW55bzQzY3U5eHI2Mg%3D%3D"  target="_blank"> @santander_sin_limites</a> </span>__
 

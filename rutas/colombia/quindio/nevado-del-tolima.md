@@ -107,35 +107,21 @@ Continuamos el sendero y, con cada paso, dejábamos atrás las palmas de cera pa
 
 ### 📍 ESTRELLA DE AGUA
 
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/estrellaAgua.jpg",
-caption:"Estrella de Agua",
-width:"900",
-height:"505" %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/estrellaAgua.jpg" "Estrella de Agua" %}
 
 Aproximadamente a 9 kilómetros del Valle del Cocora nos encontramos con Estrella de Agua. El ascenso hasta aquí fue complejo; el camino tiene tramos muy empinados y, como había llovido fuerte los días anteriores, nos encontramos con bastante lodo y pantano.
 
 > 🚫🏕 **Importante:** En Estrella de Agua ya no se presta servicio de hospedaje ni zona de camping. Está completamente prohibido acampar en sus alrededores.
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-   file:"publicidad-post/chaqueta-randes.jpg", 
-   caption:"Publicidad Randes", 
-   width:"480", 
-   height:"200" 
-%}
+<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.jpg" "Publicidad Randes" %}
 </a>
 
 **RECOMENDACIÓN:** <ins>_Si no cuentas con experiencia previa en alta montaña, la condición física adecuada, el equipo técnico o un guía especializado, lo ideal es realizar la ruta solo hasta Estrella de Agua. A partir de este punto, la exigencia aumenta drásticamente con pendientes del 60% durante 8 kilómetros antes de encontrar el refugio más cercano._</ins>
 
 Tras dejar atrás Estrella de Agua, nos enfrentamos a un fuerte ascenso de 4 kilómetros entre vegetación boscosa, para luego abrirnos paso ante la imponente belleza del páramo.
 
-{% include image.html,
- file:"rutas/quindio/nevado-del-tolima/valle-de-los-perdidos.JPG",
- caption:"Paisaje de páramo - Valle de los Perdidos",
- width:"900",
- height:"506"
- %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/valle-de-los-perdidos.JPG" "Paisaje de páramo - Valle de los Perdidos" %}
 
 Cruzamos el **Valle de los Perdidos**. No se recomienda bajo ninguna circunstancia caminar por esta zona si se hace de noche, ya que la niebla desorienta por completo y es muy fácil perder el rumbo. Hemos conocido historias de montañistas que tuvieron que pasar la noche a la intemperie aquí; esto es sumamente peligroso debido a las bajísimas temperaturas que pueden detonar una hipotermia.
 
@@ -185,11 +171,7 @@ Para alcanzar la cima del Nevado del Tolima desde Arenales dividimos el ascenso 
 #### 1. TRAMO DE ARENA
 Nos levantamos muy temprano para preparar el desayuno, hidratar y equiparnos con el arnés, casco, crampones en la mochila y el frontoluz. Esperamos a que la lluvia disminuyera un poco antes de salir. El primer terreno es pura arena volcánica suelta y ceniza; a medida que subes, se empieza a ver la escarcha sobre el suelo. Pasando por el sector del "Helipuerto", aprovechamos para recargar un poco de agua limpia de un pequeño arroyo.
 
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/arena.jpg",
-caption:"Ascenso por el tramo de arena",
-width:"1200",
-height:"800" %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/arena.jpg" "Ascenso por el tramo de arena" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/ssc_roll/" target="_blank">@ssc_roll</a> </span>**
 
@@ -211,21 +193,13 @@ En este tramo, uno de nuestros compañeros cometió el error de llevar el piolet
 #### 3. TRAMO DE NIEVE (GLACIAR)
 Al llegar al borde del glaciar, nos colocamos los crampones, nos encordamos en la cordada oficial bajo las órdenes del guía y comenzamos la marcha sobre el hielo. Es la parte más exigente físicamente por la altitud. Es el momento ideal para guardar chocolates o snacks energéticos en los bolsillos de la chaqueta e ir comiendo sin detener el ritmo.
 
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/nieve.JPG",
-caption:"Progresión en glaciar encordados",
-width:"1152",
-height:"804" %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/nieve.JPG" "Progresión en glaciar encordados" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/" target="_blank">@piri487</a> </span>**
 
 A mitad de camino, a uno de los muchachos se le soltó un crampón, pero el guía resolvió el ajuste rápidamente en el sitio. Tras superar las últimas pendientes, ¡coronamos la cumbre! La vista desde arriba paga cada gota de sudor.
 
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/cumbre.jpg",
-caption:"Cumbre en el Volcán Nevado del Tolima (5.215 msnm)",
-width:"1152",
-height:"804" %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/cumbre.jpg" "Cumbre en el Volcán Nevado del Tolima (5.215 msnm)" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/jorge_leyton79/" target="_blank">@jorge_leyton79</a> </span>**
 

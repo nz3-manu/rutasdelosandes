@@ -5,7 +5,7 @@ title:  Cascada del Mico
 categories: colombia 
 seo_title: Cascada del Mico.
 excerpt: Este lugar se encuentra cerca de las antiguas vías férreas que comunicaban al eje cafetero entres sí. En este lugar se puede apreciar cómo la naturaleza empieza a sobresalir por encima de esta construcción,  Muy cerca de este lugar también se puede observar el río cauca.
-images_url: /images/rutas/risaralda/cascada-el-mico
+images_url: /images/rutas/colombia/risaralda/cascada-el-mico
 viewranger: 
 author: manuel
 ---

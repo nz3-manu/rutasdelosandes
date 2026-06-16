@@ -4,7 +4,7 @@ layout: trail
 title: Reserva Natural La Patasola
 categories: colombia
 excerpt: La Reserva Natural La Patasola es la segunda reserva natural con mayor avistamiento de aves entre ellas varias especies en vía de extinción. Duración del trayecto 1 día.
-images_url: /images/rutas/quindio/patasola
+images_url: /images/rutas/colombia/quindio/patasola
 viewranger: MTYzNTUwMw==
 author: manuel
 ---
@@ -70,21 +70,11 @@ Una vez dicho esto podremos empezar nuestro recorrido. La ruta que vamos a segui
 
 ⚠️ **Advertencia:** A 1 kilómetro aproximadamente nos vamos a encontrar con esta entrada, la cual estará cerrada los domingos para el ingreso a carros, las motos podrán ingresar por un costado de esta entrada. Esto se hizo con el fin de evitar accidentes con los ciclistas🚴🏼 que transitan este dia.
 
-{% include image.html,
- file:"rutas/quindio/patasola/entradaDomingo.jpg",
- caption:"Entrada que cierran los domingos",
- width:"2145",
- height:"1430"
-%}
+{% image "images/rutas/colombia/quindio/patasola/entradaDomingo.jpg" "Entrada que cierran los domingos" %}
 
 Al pasar la entrada entraremos a los terrenos que pertenecen a Carton Colombia. Aproximadamente a 8 kilómetros llegaremos a este letrero.
 
-{% include image.html,
- file:"rutas/quindio/patasola/entradaReserva.jpg",
- caption:"Letrero entrada casa del guardabosques y sendero",
- width:"2124",
- height:"1416"
-%}
+{% image "images/rutas/colombia/quindio/patasola/entradaReserva.jpg" "Letrero entrada casa del guardabosques y sendero" %}
 
 **Nos encontraremos con 2 caminos:**
 
@@ -92,12 +82,7 @@ _Primer camino:_ Uno a mano izquierda es hacia la casa del guardabosques que se 
 
 _Segundo camino:_ Se encuentra a mano derecha, este va hacia el sendero donde se encuentran las cascadas y despues de 15 minuto caminando nos encontraremos con esta entrada ubicada a mano izquierda de la vía:
 
-{% include image.html,
- file:"rutas/quindio/patasola/entradasendero.jpg",
- caption:"Porton entrada al sendero",
- width:"2145",
- height:"1430"
-%}
+{% image "images/rutas/colombia/quindio/patasola/entradasendero.jpg" "Portón entrada al sendero" %}
 
 Si la encuentran cerrada pueden abrirla y al momento de salir dejarla como la encontraron.
 
@@ -113,32 +98,17 @@ height:"300" %}
 
 Después de tomar el sendero vamos a escuchar el sonido de una cascada esta será la segunda que vamos a ver al regreso. Unos pocos metros más adelante nos encontraremos un pequeño río deberemos seguir su cauce por 1 minuto y encontraremos la primera cascada.
 
-{% include image.html,
- file:"rutas/quindio/patasola/cascada1.jpg",
- caption:"cascada#1",
- width:"2500",
- height:"1407"
-%}
+{% image "images/rutas/colombia/quindio/patasola/cascada1.jpg" "Cascada #1" %}
 
 Una vez vista esta cascada iremos a la segunda cascada, tendremos que tomar el mismo camino por el que vinimos y descender aproximadamente 4 metros para llegar a la base de la cascada.
 
-{% include image.html,
- file:"rutas/quindio/patasola/cascada2.jpg",
- caption:"cascada#2",
- width:"2500",
- height:"1407"
-%}
+{% image "images/rutas/colombia/quindio/patasola/cascada2.jpg" "Cascada #2" %}
 
 **Recomendación: En la zona se encuentran más cascadas, si no se cuenta con el equipamiento adecuado evite bajar hasta estas.**
 
 Una vez vista esta cascada volvemos al sendero. Seguiremos el sendero para ver nuestra tercera y última cascada. Esta se encuentra a 3 minutos.
-{% include image.html,
-  file:"rutas/quindio/patasola/cascada3.jpg",
-  caption:"Cascada #3",
-  fullscreen:"true",
-  width:"1080",
-  height:"1919",
-%}
+
+{% image "images/rutas/colombia/quindio/patasola/cascada3.jpg" "Cascada #3" %}
 
 Continuaremos nuestro recorrido aproximadamente 10 minutos hasta encontrar 2 caminos:
 
@@ -146,12 +116,7 @@ _Camino a mano derecha:_ Este hará un recorrido de 30 minutos por sendero y reg
 
 _Camino a mano Izquierda:_ Este va hacia la casa de la Patasola que se encuentra a 10 minutos caminando.
 
-{% include image.html,
- file:"rutas/quindio/patasola/casaPatasola.jpg",
- caption:"Casa de la Patasola",
- width:"2500",
- height:"1407",
-%}
+{% image "images/rutas/colombia/quindio/patasola/casaPatasola.jpg" "Casa de la Patasola" %}
 
 Aquí en esta casa es el lugar donde se avistan más animales y aves así que si la idea tuya es fotografiar alguno, se aconseja no hacer mucho ruido al llegar allí 🤐.
 

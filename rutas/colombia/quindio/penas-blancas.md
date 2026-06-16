@@ -4,7 +4,7 @@ title: Peñas Blancas
 categories: colombia
 seo_title: Peñas Blancas en calarcá quindío.
 excerpt: Caminata Ecológica en Peñas Blancas, por un hermoso sendero que nos llevará a una majestuosa peña de 280 metros de altura. Esta se encuentra en el departamento de Quindío exactamente en la vereda La Virginia. Duración del trayecto 1 día.
-images_url: /images/rutas/quindio/blancas
+images_url: /images/rutas/colombia/quindio/penas-blancas
 viewranger: MTYzNjM1Ng==
 author: manuel
 ---
@@ -55,12 +55,8 @@ Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https
 
 Primero tenemos que llegar a Armenia Quindío. Una vez allí nos hospedamos en una habitación compartida que habíamos reservado con anticipación.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta Randes" %}
 </a>
 
 Al día siguiente vamos a la terminal donde tomamos un bus 🚌 hacia Calarcá, el bus sale cada 15 minutos a partir de las 5:30 am el trayecto dura en promedio 30 minutos, valor del trayecto es aproximadamente $2.000 pesos. 
@@ -69,12 +65,8 @@ Una vez en Calarcá nos tenemos que bajar en la Plaza de Mercado, allí tomaremo
 
 Si vas en carro 🚙 o moto 🛵 puedes dejarlo estacionado en la base de la Peña, donde se encuentra el Hotel Ecoparque Peñas Blancas. El parqueadero  sólo está en funcionamiento los días Sábados y Domingo. Valor del parqueadero es totalmente gratis 😉.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.png", 
-caption:"", 
-width:"1000", 
-height:"300" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/ropa-randes.png" "Línea Técnica Randes Store" %}
 </a>
 
 __Recomendación:__ _Solo se recomienda que suban vehículos todo terreno ya que la carretera es algo difícil para un automóvil._
@@ -95,13 +87,7 @@ Desde donde nos deja el jeep hasta la entrada 🛣 es aproximadamente 40 minutos
 
 _Este lugar no cuenta con seguridad 👮 para carros ni motos, si lo dejas aquí es bajo su responsabilidad._
 
-{% include image.html,
-   file:"rutas/quindio/blancas/primeraEntrada.jpg",
-   caption:"Primera entrada a Peñas Blancas",
-   width:"800",
-   height:"600",
-   zoom:"13"
-%} 
+{% image "images/rutas/colombia/quindio/penas-blancas/primera-entrada.jpg" "Primera entrada a Peñas Blancas" %}
 
 
 Una vez en la primera entrada empezamos nuestra caminata hasta El Ecoparque Peñas Blancas(allí se encuentra la entrada al sendero).
@@ -141,8 +127,6 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
 ## OTRAS RUTAS DE SENDERISMO EN EL EJE CAFETERO
 
 Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
-
-
 
 
 * __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__

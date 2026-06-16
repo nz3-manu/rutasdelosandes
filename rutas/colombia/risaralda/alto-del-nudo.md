@@ -5,7 +5,7 @@ title: Alto del Nudo
 categories: colombia
 seo_title: Alto Del Nudo | Rutas de los Andes
 excerpt: Alto del Nudo o Cerro del Nudo está ubicado muy cerca de Pereira y Dosquebradas. Aquí podrás disfrutar de la naturaleza 🏔️ y de aves 🦜.
-images_url: /images/rutas/risaralda/quimbaya
+images_url: /images/rutas/colombia/risaralda/quimbaya
 viewranger: MTM4MjU4NA==
 author: manuel
 ---
@@ -89,20 +89,11 @@ __Mapa ruta realizada en el Alto del Nudo__
 Una vez llegamos al corregimiento la Convención nos estaba esperando nuestro guía, el cual nos dio una cálida bienvenida y nos contó un poco del recorrido que íbamos a realizar, y posterior a esto nos dirigimos a la entrada entrada de la reserva serranía alto del nudo donde llenamos una planilla de ingreso.
 
 
-{% include image.html,
-   file:"rutas/risaralda/quimbaya/Camping.jpg",
-   height:"533",
-   width:"800",
-   caption:"Casa de la CARDER"
-%}
+{% image "images/rutas/colombia/risaralda/quimbaya/Camping.jpg" "Casa de la CARDER" %}
 
 En el siguiente mapa se muestra todo el recorrido del sendero del Cacique Nona. La Casa de la CARDER  de Marsella, que es donde hacemos el ingreso y aparece en el mapa como campamento.
 
-{% include image.html,
-  file:"rutas/risaralda/quimbaya/2017-05-21_10-02-20_o.jpg",
-  caption:"Mapa del sendero Alto del Nudo"
-%}
-
+{% image "images/rutas/colombia/risaralda/quimbaya/2017-05-21_10-02-20_o.jpg" "Mapa del sendero Alto del Nudo" %}
 
 Desde la casa de la CARDER de Marsella que es donde se inicia el sendero del Cacique Nona, tendremos que pasar por una zona boscosa llena de mucha vegetación y senderos mágicos, para después llegar a un mirador que se podrá observar todo pereira y Dosquebradas.
 
@@ -111,13 +102,7 @@ Este recorrido tiene una duración promedio de 4 horas.
 
 **Recuerda minimizar el uso de plástico cuando vas a la montaña**, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">clic aquí</a>.
 
-{% include image.html,
-   file:"rutas/risaralda/quimbaya/slide5.jpg",
-   width:"900",
-   height:"675",
-   fullscreen:"true",
-   caption:"variadas plantas que puedes encontrar en el recorrido"
-%}
+{% image "images/rutas/colombia/risaralda/quimbaya/slide5.jpg" "Variadas plantas que puedes encontrar en el recorrido" %}
 
 Al llegar a la parte más alta de nuestro recorrido, nos encontramos con la vista de este hermoso mirador.
 

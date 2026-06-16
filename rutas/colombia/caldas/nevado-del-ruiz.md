@@ -4,7 +4,7 @@ title:  Nevado del Ruiz
 categories: colombia
 seo_title: ▷ Nevado del Ruiz | Guía de Viaje 2026 Tips y Seguridad
 excerpt: Guía completa para visitar el Nevado del Ruiz, descubre dónde queda, hospedajes cercanos, como llegar y qué hacer en el nevado del Ruiz
-images_url: /images/rutas/caldas/nevado-del-ruiz
+images_url: /images/rutas/colombia/caldas/nevado-del-ruiz
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
@@ -108,13 +108,7 @@ __[<a target="_blank" href="https://rutasdelosandes.com/tips/que-es-el-mal-de-al
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la laguna negra. Esta es una majestuosa laguna de origen glaciar muy cerca del Nevado del Ruiz. Es un lugar de descanso para especies migratorias como aves y patos silvestres.
 
 
-{% include image.html,
-file:"rutas/caldas/nevado-del-ruiz/laguna-negra.jpeg",
-caption:"Foto de Laguna Negra",
-width:"1080",
-height:"608"
-%}
-
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/laguna-negra.jpeg" "Foto de Laguna Negra" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotografia/"  target="_blank"> @deagfotografia</a> </span>__
 
@@ -125,12 +119,8 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/deagfotogr
 Después de tomar algunas fotos a esta hermosa laguna, continuamos nuestro camino hacia nuestra última parada en el sector llamado ‘’el arbolito’’, desde este lugar  cuando está totalmente despejado se podrá observar el gigantesco Nevado del Ruiz.
 
 
-{% include image.html,
-file:"rutas/caldas/nevado-del-ruiz/nevado-del-ruiz.jpg",
-caption:"Foto de Laguna Negra",
-width:"1280",
-height:"1350"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/nevado-del-ruiz.jpg" "Foto vista nevado del ruiz" %}
+
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
 
@@ -149,17 +139,11 @@ Dentro del Parque los Nevados no está permitido acampar y tampoco el ingreso de
 
 __Importante:__ <ins>_el Nevado del Ruiz se encuentra en alerta amarilla, por lo que solo se permite hacer el recorrido dentro del Parque los Nevados en carro, esto se hace con el fin de poder evacuar más rápidamente a las personas._</ins>
 
-
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.jpg",
-caption:"Chaqueta",
-width:"480",
-height:"200"
-%}
-</a>
-
 <a name="sendero-ruiz" id="sendero-ruiz"></a>
+
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+{% image "images/publicidad-post/chaqueta-randes.jpg" "Publicidad Randes" %}
+</a>
 
 ---
 
@@ -186,35 +170,20 @@ A continuación te mostraremos el mapa de los lugares que visitamos en el nevado
 
 Tiene este nombre ya que de la roca se desprende constantemente agua que cae por la vegetación que se encuentra en la montaña.
 
-{% include image.html,
-file:"rutas/caldas/nevado-del-ruiz/aguaserales.jpg",
-caption:"Foto: Aguacerales en el Nevado del ruiz",
-width:"1200",
-height:"674"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/aguaserales.jpg" "Foto: Aguacerales en el Nevado del ruiz" %}
 
 ### -> SECTOR DE ARENALES
 
 En este sector se encuentra una terraza en el cual podrán ingresar y ver la inmensidad del valle, allí también encontrarán una pequeña cafetería ☕️.
 
-{% include image.html,
-file:"rutas/caldas/nevado-del-ruiz/arenales.jpg",
-caption:"Foto:  Arenales en el Nevado del ruiz",
-width:"1200",
-height:"674"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/arenales.jpg" "Foto: Arenales en el Nevado del ruiz" %}
 
 ### -> SECTOR DE TUMBAS
 
 También llamado el desierto de la soledad, la historia nos dice que este fue un lugar de peregrinación y peregrinación para las comunidades indígenas que habitaban las zonas bajas. En este sector observamos uno de los inmensos cráteres por donde bajó la avalancha que sucedió el 13 de noviembre de 1985 que acabó con la cabecera urbana de Armero.
 
 
-{% include image.html,
-file:"rutas/caldas/nevado-del-ruiz/tumbas-ruiz.jpg",
-caption:"Foto: Sector tumbas en el Nevado del ruiz",
-width:"1200",
-height:"674"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/tumbas-ruiz.jpg" "Foto: Sector tumbas en el Nevado del ruiz" %}
 
 Este es el último punto al que se puede acceder, ya que por la alerta amarilla en la que se encuentra el nevado del Ruiz no se permite el ingreso a turistas hasta más arriba.
 
@@ -234,12 +203,8 @@ __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibim
 Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y Wifi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
 
 <a href="https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/caldas/sifon/hotel-otono.png",
-caption:"Foto: Hotel vía nevado del Ruiz",
-width:"1248",
-height:"727"
-%}
+
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/hospedaje/hotel-otono.png" "Foto: Hotel vía nevado del Ruiz" %}
 </a>
 
  👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking</a>
@@ -250,12 +215,7 @@ height:"727"
 Este hospedaje __cuenta con:__ WiFi gratis, parking privado gratis, cocina totalmente equipada con nevera, zona de comedor, TV de pantalla plana con canales vía satélite y baño privado con ducha y secador de pelo. Este hospedaje está ubicado a 5,8 km del centro de Manizales.
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/hospedaje-manizales.jpg",
-caption:"Foto: apartamento amoblado pereira",
-width:"1654",
-height:"940"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/hospedaje/apartamento-manizales.png" "Foto: apartamento amoblado pereira" %}
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>
@@ -266,12 +226,7 @@ height:"940"
 Cuenta con recepción 24 horas, servicio de conserjería y Wifi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manizales.
 
 <a href="https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"rutas/caldas/sifon/hotel-manizales.png",
-caption:"Foto: Hotel en Manizales",
-width:"1248",
-height:"727"
-%}
+{% image "images/rutas/colombia/caldas/nevado-del-ruiz/hospedaje/hotel-manizales.png" "Foto: Hotel en Manizales" %}
 </a>
 
  👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking </a>

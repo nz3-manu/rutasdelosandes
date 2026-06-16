@@ -4,7 +4,7 @@ title: Bahía Málaga
 categories: colombia
 seo_title: Bahía Málaga Actualizado 2024 | ¿Qué hacer y dónde hospedarse?
 excerpt: Conoce cómo llegar a Bahía Málaga, información de los hostales disponibles en Bahía Málaga, además, descubre cómo llegar a la Playa Juan de Dios y cascada la Serie, una cascada gigante en el parque Bahía Málaga.
-images_url: /images/rutas/valle/bahia-malaga
+images_url: /images/rutas/colombia/valle/bahia-malaga
 viewranger: MjA5NTkzMg==
 author: manuel
 trending: true
@@ -102,12 +102,7 @@ __Recomendación:__ Si dispones de algo de tiempo, puedes visitar el faro turís
 
 Es una estructura emblemática de esta ciudad que cumplía una importante función de guiar a los barcos en la bahía. Desde su plataforma de observación, se pueden disfrutar vistas panorámicas impresionantes. Este lugar es un atractivo turístico popular y simboliza la rica herencia marítima de la región. Su imponente presencia lo convierte en un destino imperdible en Buenaventura.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/faro-turistico.jpg",
-caption:"Foto faro turístico",
-width:"1200",
-height:"948"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/faro-turistico.jpg" "Foto: Faro turístico" %}
 
 
 ### DESDE EL MUELLE TURÍSTICO DE BUENAVENTURA A BAHÍA MÁLAGA 🐳
@@ -180,34 +175,19 @@ Este lugar al estar en un pequeño acantilado tiene una hermosa vista sobre el m
 
 Si sigues el borde de la playa puedes llegar a Chucheros, donde existe una cascada con el mismo nombre. Se aconseja hacer este tour con un guía local que conozca la zona, ya que cuando suba la marea será peligroso regresar por el borde de la playa.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/lomaChucheros.jpg",
-caption:"Foto de La Loma de Chucheros",
-width:"1200",
-height:"800"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/lomaChucheros.jpg" "Foto de La Loma de Chucheros" %}
 
 ### -> PLAYA JUAN DE DIOS
 
 Esta playa es conocida por su limpieza, ya que constantemente hacen campaña con los voluntarios para limpiarla. Además de esto, en el fondo se puede ver una cueva que sale de la parte superior de un arroyo de agua dulce. Una vez que cruce esta cueva, encontrarás otra cueva un poco más grande donde podrá disfrutar de una agradable puesta de sol observando las aguas cristalinas del mar.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/juanDeDios.jpg",
-caption:"Foto cueva en playa Juan de Dios",
-width:"1200",
-height:"800"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/juanDeDios.jpg" "Foto: Cueva en playa Juan de Dios" %}
 
 ### -> PLAYA DORADA
 
 Es conocida por tener una arena dorada, pero lastimosamente en algunas partes de esta playa hay mucha basura 😢.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/dorada.jpg",
-caption:"Foto Playa dorada",
-width:"1200",
-height:"800"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/dorada.jpg" "Foto: Playa dorada" %}
 
 En el mapa mostrado anteriormente podrán ver una cascada que se llama “Cascada de Chucheros”, para llegar a esta desde la loma de chucheros son aproximadamente 40 minutos caminando por el borde de la playa. Nosotros no pudimos llegar hasta ese punto, ya que estaba empezando a subir la marea 😢 así que regresamos.
 
@@ -223,23 +203,13 @@ A las 8 de la mañana nos encontramos con nuestro guía que nos daba algunas rec
 
 **Cascada la Sierpe en Bahía Málaga:** Es una cascada de unos 60 metros de altura que se encuentra rodeada de bella vegetación dentro del Parque Nacional Uramba Bahía Málaga.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/sierpe.jpeg",
-caption:"Foto cascada la Sierpe",
-width:"1080",
-height:"1350"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/sierpe.jpeg" "Foto: Cascada La Sierpe" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/tamyyfranco/" target="_blank"> @kevindavides </a> </span>**
 
 **Cascadas las 3 marías en Bahía Málaga:** Son tres cascadas consecutivas y termina en un agujero que si saltas, te adentrarás en el mar. Recuerde que solo puede hacerlo si está bajo la supervisión de un guía.
 
-{% include image.html,
-file:"rutas/valle/bahia-malaga/las-3-Marias.jpg",
-caption:"Foto de las 3 marias",
-width:"1200",
-height:"800"
-%}
+{% image "images/rutas/colombia/valle/bahia-malaga/las-3-Marias.jpg" "Foto de las 3 Marías" %}
 
 ⚠️ _Recuerda llevar repelente para mosquitos o incluso también venden algunos jabones 🧼 repelentes de mosquitos que funcionan muy bien._
 
@@ -276,12 +246,14 @@ __Este hospedaje ofrece:__
 * Las habitaciones están equipadas con armario. Algunos alojamientos tienen un patio.
 
 <a href="https://www.booking.com/hotel/co/surf-house-estilo-libre.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
+
 {% include image.html,
 file:"rutas/valle/bahia-malaga/hospedaje/hostal-ladrilleros.jpg",
 caption:"Foto: Hostal Surf House",
 width:"900",
 height:"512"
 %}
+
 </a>
 
 👉 <a href="https://www.booking.com/hotel/co/surf-house-estilo-libre.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" style="color: maroon;"  target="_blank"> Clic aquí, para ver este apartamento en Booking</a>

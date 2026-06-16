@@ -4,7 +4,7 @@ title: Cerro Morrogacho
 categories: Colombia
 seo_title: Cerro Morrogacho
 excerpt: Cerro Morrogacho, es uno de los picos más altos de Quindío, esta ubicado cerca al Valle del Cocora, morrogacho es considerado por muchos aventureros como un cerro difícil para hacer senderismo en el Eje Cafetero.
-images_url: /images/rutas/quindio/cerro-morrogacho
+images_url: /images/rutas/colombia/quindio/cerro-morrogacho
 viewranger:
 author: manuel
 ---

@@ -4,7 +4,7 @@ title: Termales De La Cabaña
 categories: colombia
 seo_title: ▷ Termales La Cabaña | Guía de viaje 2024
 excerpt: Conoce la información necesaria para visitar los Termales de la Cabaña, así como opciones de hospedaje en Murillo, precios de tours y transporte.
-images_url: /images/rutas/tolima/termales-de-la-cabaña
+images_url: /images/rutas/colombia/tolima/termales-de-la-cabaña
 viewranger: MTYzNjQxOQ==
 author: manuel
 ---
@@ -93,23 +93,13 @@ Como nosotros viajamos desde Manizales, te mostraremos los lugares que vimos. Es
 
 Esta es una majestuosa laguna de origen glaciar muy cerca al Nevado del Ruiz. Es un lugar de descanso para especies migratorias como aves y patos silvestres.
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/laguna-negra.jpg",
-caption:"Foto: Laguna Negra",
-width:"1078",
-height:"717"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/laguna-negra.jpg" "Foto: Laguna Negra" %}
 
 ### -> VISTA DEL NEVADO DEL RUIZ
 
 Como estaba haciendo un hermoso día, pudimos apreciar una vista impresionante del Nevado del Ruiz en medio de los frailejones. Es una vista que muchos turistas consideran mágica.
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/via-murillo.jpg",
-caption:"Foto: Nevado del Ruiz",
-width:"1000",
-height:"667"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/via-murillo.jpg" "Foto: Nevado del Ruiz" %}
 
 __RECOMENDACIÓN:__ _Ten en cuenta esto si vas en moto o carro, la carretera tiene muchas curvas y es un poco angosta, además de ser transitada por muchos camiones y buses. Así que te recomendamos tener mucho cuidado._
 
@@ -118,12 +108,8 @@ __RECOMENDACIÓN:__ _Ten en cuenta esto si vas en moto o carro, la carretera tie
 
 Su nombre se debe, según algunos campesinos, a que está encantada y sienten presencia de personas. Otros aseguran que les han arrojado rocas e incluso han escuchado gritos al pasar por allí.
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/laguna-la-llorona.JPG",
-caption:"Foto: Laguna La Llorona",
-width:"781",
-height:"781"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/laguna-la-llorona.JPG" "Foto: Laguna La Llorona" %}
+
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/p/CIx8q2qnwjY/"  target="_blank"> @conoceeltolima </a> </span>__
 
 Algunos campesinos cuentan que durante la época de guerra entre liberales y conservadores, el asesino conocido como Sangrenegra arrojaba los cuerpos en esta laguna. Para aquellos que no conocen a Sangrenegra, cuyo verdadero nombre era Jacinto Cruz, fue un sanguinario asesino que operaba en las décadas de los 50 y 60 durante los enfrentamientos entre liberales y conservadores. Él fue responsable de un brutal método de tortura y asesinato conocido como 'corbata colombiana' o 'corte de franela'. Se le atribuyen más de 377 homicidios. 
@@ -174,12 +160,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/arielconce
 
 Después de ver la Laguna Corazón, continuamos por cerca de 1 hora para llegar al Valle de Esponjas. Este paisaje se encuentra dentro del Páramo La Leonera Alta 🌿.
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/valle-de-esponjas.jpg",
-caption:"Foto: Valle de Esponjas",
-width:"1080",
-height:"1080"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/valle-de-esponjas.jpg" "Foto: Valle de Esponjas" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/paorodriguez.photo/"  target="_blank"> @paorodriguez.photo </a> </span>__
 
@@ -187,12 +168,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/paorodrigu
 
 Un poco después de ver el Valle de Esponjas, continuamos caminando durante cerca de 10 minutos para llegar a la cascada conocida como la Cascada de los 7 Colores.
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/cascada-de-sietes-colores.jpg",
-caption:"Foto: Cascada 7 colores",
-width:"1000",
-height:"750"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/cascada-de-sietes-colores.jpg" "Foto: Cascada 7 colores" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27/"  target="_blank"> @alejora.27 </a> </span>__
 
@@ -201,12 +177,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/alejora.27
 Después de esta hermosa cascada, continuamos caminando por cerca de casi 1 hora para llegar al último destino, y creo que muchos hicimos el viaje hasta allí para ver estos hermosos Termales ♨️.
 
 
-{% include image.html,
-file:"rutas/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg",
-caption:"Foto: Termales La Cabaña",
-width:"900",
-height:"1126"
-%}
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/termales-de-la-cabaña.jpg" "Foto: Termales La Cabaña" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/japilife/"  target="_blank"> @japilife </a> </span>__
 

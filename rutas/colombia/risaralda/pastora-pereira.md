@@ -4,7 +4,7 @@ title: Cascada en la Pastora
 categories: colombia
 seo_title: Cascada en la Pastora-Pereira.
 excerpt: La pastora se encuentra cerca de Pereira, allí se encuentra la cascada conocida como los chorros, ya que son 2 caídas de agua.
-images_url: /images/rutas/risaralda/pastora
+images_url: /images/rutas/colombia/risaralda/pastora
 viewranger: MTQwODQyMA==
 author: manuel
 ---
@@ -72,12 +72,7 @@ Después de haber disfrutado de tan hermosos paisajes, llegarán al Cedral, el l
  
 Para poder llegar al __centro de visitantes la pastora__ desde el cedral son aproximadamente 4 kilómetros. El camino está lleno de rocas, por lo que es bastante dificultoso para aquellas personas que no están acostumbradas a este tipo de actividades. Así que si tienes bastones de senderismo es una buena idea para llevarlos 😜.
  
-{% include image.html
-    file:"rutas/risaralda/pastora/lapastora3.jpg",
-    width:"900",
-    height:"599",
-    caption:"Centro de visitantes la pastora"
-%}
+{% image "images/rutas/colombia/risaralda/pastora/lapastora3.jpg" "Centro de visitantes La Pastora" %}
  
 En la __pastora encontrarás zona de camping__, así que, tendrás que llevar todo tu equipamiento de camping tales como: carpa, colchoneta, bolsa de dormir.
  
@@ -88,12 +83,7 @@ Desde la Zona de visitantes hasta la cascada los Chorros tendrán que caminar 40
  
 __Foto cascada Los Chorros en la Pastora__
  
-{% include image.html
-    file:"rutas/risaralda/pastora/featured.jpg",
-    width:"1800",
-    height:"1013",
-    caption:"Foto cascada Los chorros en la Pastora"
-%}
+{% image "images/rutas/colombia/risaralda/pastora/featured.jpg" "Foto cascada Los Chorros en La Pastora" %}
  
 Esta cascada se llama los chorros, ya que son 2 cascadas juntas.
  

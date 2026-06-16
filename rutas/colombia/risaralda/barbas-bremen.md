@@ -4,7 +4,7 @@ title: "Reserva Natural Barbas Bremen | Guía completa"
 categories: colombia
 seo_title: "Reserva Barbas Bremen en Filandia, Quindío: Cómo llegar y Tours"
 excerpt: "La Reserva Natural Barbas Bremen en Filandia es una ruta imperdible para hacer senderismo en el Eje Cafetero. Conoce cómo llegar, tours y avistamiento de monos aulladores."
-images_url: /images/rutas/risaralda/barbas-bremen
+images_url: /images/rutas/colombia/risaralda/barbas-bremen
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
@@ -110,21 +110,11 @@ A medida que avanzábamos bajo el dosel del bosque nublado, la atmósfera se lle
 
 Aquel bramido imponente nos causó algo de asombro y respeto, hasta que el guía nos señaló con precisión las copas más altas de los árboles. Para nuestra sorpresa, nos encontramos con una gran manada de monos aulladores silvestres 🐒. De inmediato, con total asombro, sacamos nuestros teléfonos móviles para grabar este espectáculo de la naturaleza en su estado más puro.
 
-{% include image.html,
-file:"rutas/risaralda/barbas-bremen/featured.jpg",
-caption:"Fotografía: Mono aullador silvestre en la reserva",
-width:"1800",
-height:"1200"
-%}
+{% image "images/rutas/colombia/risaralda/barbas-bremen/featured.jpg" "Fotografía: Mono aullador silvestre en la reserva" %}
 
 Tras realizar una pausa prolongada para el avistamiento controlado de los primates, continuamos la caminata descendiendo por un sendero sombreado hasta alcanzar una hermosa cascada escondida en el bosque.
 
-{% include image.html,
-file:"rutas/risaralda/barbas-bremen/cascada-barbas.jpeg",
-caption:"Fotografía: Cascada natural profunda en el cañón del Río Barbas",
-width:"1200",
-height:"751"
-%}
+{% image "images/rutas/colombia/risaralda/barbas-bremen/cascada-barbas.jpeg" "Fotografía: Cascada natural profunda en el cañón del Río Barbas" %}
 
 Esta travesía fue una experiencia verdaderamente mágica. No solo nos permitió desconectarnos en medio del bosque de niebla, sino también presenciar en vivo el comportamiento de los monos aulladores. Son animales exóticos que convierten a la Reserva Natural Barbas Bremen en uno de los destinos más valiosos e importantes para el ecoturismo en el Eje Cafetero.
 
@@ -154,12 +144,7 @@ Esta fantástica opción ofrece un alojamiento acogedor con conexión Wi-Fi grat
 
 Las habitaciones cuentan con patio privado, televisión de pantalla plana y baño privado totalmente dotado con ducha y elementos de aseo gratuitos. Ciertas acomodaciones disponen además de sala de estar independiente y balcón colonial. El establecimiento ofrece un entorno ideal para el descanso y cuenta con servicio interno de alquiler de bicicletas para recorrer los senderos rurales de Filandia.
 
-{% include image.html,
-file:"rutas/risaralda/barbas-bremen/hospedaje/casa-laureles.jpg",
-caption:"Fotografía: Instalaciones campestres de Casa Laureles en Filandia",
-width:"900",
-height:"514"
-%}
+{% image "images/rutas/colombia/risaralda/barbas-bremen/hospedaje/casa-laureles.jpg" "Fotografía: Instalaciones campestres de Casa Laureles en Filandia" %}
 
 👉 **<a href="https://www.booking.com/hotel/co/casa-laureles-filandia.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank">Haz clic aquí para reservar en Casa Laureles a través de Booking</a>**
 
@@ -169,12 +154,7 @@ Un alojamiento diseñado para los amantes de la naturaleza que buscan un ambient
 
 Las unidades de hospedaje están equipadas con patios amplios, TV de pantalla plana, Wi-Fi de alta velocidad y baños privados impecables con duchas de agua caliente. Es una de las locaciones preferidas por los senderistas debido a su cercanía con las rutas de ciclomontañismo de la región. El lugar destaca por su gran hospitalidad y limpieza.
 
-{% include image.html,
-file:"rutas/risaralda/barbas-bremen/hospedaje/tukawa-hotel.jpg",
-caption:"Fotografía: Áreas de descanso en Tukawa Hotel",
-width:"900",
-height:"516"
-%}
+{% image "images/rutas/colombia/risaralda/barbas-bremen/hospedaje/tukawa-hotel.jpg" "Fotografía: Áreas de descanso en Tukawa Hotel" %}
 
 👉 **<a href="https://www.booking.com/hotel/co/tukawa-hostel.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank">Haz clic aquí para reservar en Tukawa Hotel a través de Booking</a>**
 
@@ -184,12 +164,7 @@ Este hermoso alojamiento rural cuenta con amplios salones de uso común, terraza
 
 Todas las habitaciones de la granja cuentan con baño privado totalmente equipado, ducha de agua caliente y artículos de aseo personal de cortesía. El establecimiento incluye todas las mañanas un excelente desayuno con opciones a la carta, americanas y alternativas vegetarianas preparadas con ingredientes locales frescos de la región.
 
-{% include image.html,
-file:"rutas/risaralda/barbas-bremen/hospedaje/rancho-ventura.jpg",
-caption:"Fotografía: Estilo rústico y campestre de la Granja Rancho Ventura",
-width:"900",
-height:"517"
-%}
+{% image "images/rutas/colombia/risaralda/barbas-bremen/hospedaje/rancho-ventura.jpg" "Fotografía: Estilo rústico y campestre de la Granja Rancho Ventura" %}
 
 👉 **<a href="https://www.booking.com/hotel/co/granja-rancho-ventura-filandia.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank">Haz clic aquí para reservar en Rancho Ventura a través de Booking</a>**
 

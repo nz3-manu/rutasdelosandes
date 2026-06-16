@@ -4,7 +4,7 @@ title: "Cerro Tusa | Guía completa"
 categories: colombia
 seo_title: "Cerro Tusa, Pirámide Natural en Venecia Antioquia: Cómo llegar"
 excerpt: "Cerro Tusa en Antioquia es la pirámide natural más alta del mundo con 1.850 metros. Descubre cómo llegar desde Medellín, tours y consejos clave para el ascenso."
-images_url: /images/rutas/antioquia/cerro-tusa
+images_url: /images/rutas/colombia/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel
 trending: true

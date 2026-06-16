@@ -5,7 +5,7 @@ title:  Rutas de sendrismo ocultas en el Eje Cafetero.
 categories: colombia 
 seo_title: Rutas de senderismo ocultas en el Eje Cafetero.
 excerpt: Descubre lugares naturales para hacer senderismo o caminar, cerca de las principales ciudades del eje cafetero; Pereira, Manizales, Armenia.
-images_url: /images/rutas/risaralda/rutas-senderismo-ejecafero
+images_url: /images/rutas/colombia/risaralda/rutas-senderismo-ejecafero
 viewranger: MTM4MjU4NA==
 author: manuel
 ---

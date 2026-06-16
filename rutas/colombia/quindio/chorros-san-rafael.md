@@ -5,7 +5,7 @@ title: Chorros San Rafael
 categories: colombia
 seo_title: Chorros de San Rafael en calarcá quindío.
 excerpt: Los chorros de San Rafael están ubicados en el municipio de Calarcá en el departamento de Quindío aproximadamente a unos 10 kilómetros de Armenia. La duración del trayecto es de 1 día. Se puede hacer acompañado de mascotas como perros 🐕.
-images_url: /images/rutas/quindio/chorrossanrafael
+images_url: /images/rutas/colombia/quindio/chorrossanrafael
 viewranger: MjExNjMxNw==
 author: manuel
 ---
@@ -29,12 +29,8 @@ Calarcá no es ajena a la riqueza histórica que se puede encontrar en el Quind�
 
 Tuvimos que llegar hasta el terminal de Armenia donde tomamos el 🚌 bus con destino Calarcá, el valor del pasaje fue de $2.000 pesos, el bus se tardó en llegar aproximadamente 15 minutos. Una vez en Calarcá nos bajamos en la plaza de mercado, lugar donde aprovechamos para comprar comida 🍱.
 
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/chaqueta-randes.png", 
-caption:"", 
-width:"480", 
-height:"200" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
  
  
@@ -54,22 +50,13 @@ En nuestro recorrido tuvimos que cruzar la vía la línea, la cual es transitada
  
 __Nota:__ _En una parte del trayecto vimos que la carretera había desaparecido 🌊 a causa del invierno, apenas la estaban construyendo de nuevo 🚧👷‍. Para cruzar al otro lado tuvimos que pasar por un pequeño sendero que sale de nuevo a la carretera, si estás viendo esto en el futuro 🔮posiblemente ya estará construido de nuevo._
  
-<a href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-file:"publicidad-post/ropa-randes.png", 
-caption:"", 
-width:"1000", 
-height:"300" %}
+<a href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/ropa-randes.png" "Línea Outdoor Randes" %}
 </a>
 
 Seguimos caminando por la carretera, después nos internamos a un sendero donde se podían ver los ductos de agua que alimentan al municipio, esta era la señal de que nos estábamos acercando cada vez más a nuestro destino 💦⛰😍.
 
-{% include image.html,
-file:"rutas/quindio/chorrossanrafael/featured.jpg",
-caption:"Chorros San Rafael",
-width:"1500",
-height:"844"
-%}
+{% image "images/rutas/colombia/quindio/chorrossanrafael/featured.jpg" "Chorros San Rafael" %}
 
 ## ¿Cómo regresar de los Chorros San Rafael 🚌🏡?
 

@@ -4,7 +4,7 @@ layout: trail
 title: Cerro Batero
 categories: colombia
 excerpt: Cerro Batero, este cerro esta ubicado en el municipio de Quinchía Risaralda, en esta caminata  ecológica nos encontraremos con un sendero para después subir a la cima de este majestuoso cerro. Duración del trayecto 1 día
-images_url: /images/rutas/risaralda/batero
+images_url: /images/rutas/colombia/risaralda/batero
 viewranger:
 author: manuel
 ---
@@ -40,9 +40,9 @@ El precio para ir con un guía profesional (equipos, seguros etc..) es de aproxi
 - Caminata ecológica.
 
 <amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
-  {% include image.html, file:"rutas/risaralda/batero/slider1.jpg", height:"695", width:"705" %} 
-  {% include image.html, file:"rutas/risaralda/batero/slider2.jpg", width:"800", height:"805" %} 
-  {% include image.html, file:"rutas/risaralda/batero/slider3.jpg", width:"720", height:"960" %} 
+  {% image "images/rutas/colombia/risaralda/batero/slider1.jpg" "Descripción de imagen 1" %} 
+  {% image "images/rutas/colombia/risaralda/batero/slider2.jpg" "Descripción de imagen 2" %} 
+  {% image "images/rutas/colombia/risaralda/batero/slider3.jpg" "Descripción de imagen 3" %} 
 </amp-carousel>
 
 ## ¿CÓMO LLEGAR 🛣?
@@ -61,12 +61,7 @@ Si no te vas a hospedar donde nos hospedamos puedes continuar en el bus hasta el
 
 **Por favor confirmar disponibilidad a los teléfonos: <a href="tel:3216128122">3216128122</a> Bernarda, Jose Luis <a href="tel:314808851">314808851</a>.**
 
-{% include image.html,
-   file:"rutas/risaralda/batero/casadetino.jpg",
-   caption:"Lugar donde acampamos",
-   height:"533",
-   width:"800"
-%}
+{% image "images/rutas/colombia/risaralda/batero/casadetino.jpg" "Lugar donde acampamos" %}
 
 ## EL CAMINO 🚶🏽
 
@@ -86,12 +81,7 @@ Al llegar a la vereda Batero encontrarás una tienda por si necesitas comprar al
 
 En el ascenso hay que tener precaución ya que tienes que subir por escaleras de metal y pasos muy angostos que la hace muy peligrosa 😰.
 
-{% include image.html,
-   file:"rutas/risaralda/batero/subida.jpg",
-   caption:"Escaleras y escalada con la ayuda de pines metalicos que hay en la roca",
-   height:"560",
-   width:"897"
-%}
+{% image "images/rutas/colombia/risaralda/batero/subida.jpg" "Escaleras y escalada con la ayuda de pines metálicos que hay en la roca" %}
 
 Una vez dicho esto ya estamos listos para empezar nuestro ascenso 🙂 hacia Cerro Batero ⛰.
 

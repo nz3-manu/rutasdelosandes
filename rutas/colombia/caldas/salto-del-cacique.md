@@ -5,7 +5,7 @@ title:  Cascada el Salto del Cacique en palestin caldas
 categories: colombia 
 seo_title: Impresionante cascada muy cerca de Manizales, tiene como nombre el salto del cacique.
 excerpt: Esta es una cascada de cerca de 12 metros de altura ubicada cerca de Manizales en un municipio llamado palestina (caldas).
-images_url: /images/rutas/caldas/salto-cacique
+images_url: /images/rutas/colombia/caldas/salto-cacique
 viewranger: MTYzNjQzOA==
 author: manuel
 ---

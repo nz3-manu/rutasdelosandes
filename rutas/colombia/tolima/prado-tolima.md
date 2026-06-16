@@ -4,7 +4,7 @@ title: Represa De Prado Tolima
 categories: colombia
 seo_title: Guía completa de la Represa de Prado 2026
 excerpt: Guía completa para visitar la Represa de Prado en el Tolima, conoce tours, hospedajes y transporte desde Medellin, cali, bogota y ibague.
-images_url: /images/rutas/tolima/represa-prado
+images_url: /images/rutas/colombia/tolima/represa-prado
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
@@ -142,12 +142,7 @@ Al llegar a la represa, nos recibió el conductor de la lancha (lanchero) 👨�
 __RECOMENDACIÓN:__ _En la represa no hay mucho control sobre las personas que ofrecen tours. Muchos compran lanchas buscando una oportunidad de negocio, pero algunos no tienen experiencia en estos recorridos o sus embarcaciones no están en buen estado. Incluso, escuchamos casos de lancheros que evitan hacer los trámites respectivos en el muelle para ahorrarse ese dinero. Por eso pueden notarse diferencias entre los tours._
 
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/represa-prado.jpeg",
-caption:"Foto: Represa de Prado",
-width:"1000",
-height:"564"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/represa-prado.jpeg" "Foto: Represa de Prado" %}
 
 
 ### ->  MAPA DE LUGARES VISITADOS EN PRADO 🗺️
@@ -176,36 +171,21 @@ Estos lugares que mostraremos depende mucho del tour que tomes, y otros lugares 
 ### -> CUEVA DEL MOHAN
 Deben tener cuidado, ya que en esta parte hay algunas rocas lisas, y puede haber serpientes.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/cueva-del-mohan.jpg",
-caption:"Foto: cueva del mohan",
-width:"1000",
-height:"1333"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/cueva-del-mohan.jpg" "Foto: Cueva del Mohán" %}
 
 
 ### -> LAGUNA ENCANTADA
 
 Este punto no muchas personas van, ya que están cobrando el ingreso que es $2.500 por persona, deben tener cuidado y nadar con los chalecos en este lugar, ya que esta laguna tiene una profundidad de 40 metros.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/laguna-encantada.jpg",
-caption:"Foto: Laguna encantada",
-width:"1628",
-height:"1228"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/laguna-encantada.jpg" "Foto: Laguna Encantada" %}
 
 
 ### -> CUEVA DEL ÁNGEL
 
 Este es uno de los lugares mas alejados de la represa y muchas veces los lancheros no van a este lugar.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/cueva-del-angel.jpg",
-caption:"Foto: cueva del angel",
-width:"1000",
-height:"1333"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/cueva-del-angel.jpg" "Foto: Cueva del Ángel" %}
 
 
 ### -> CASCADA DEL AMOR
@@ -213,34 +193,19 @@ height:"1333"
 Deben tener cuidado en esta cascada, ya que las piedras son lisas y se podrían resbalar, esta cascada tiene unas partes profundas así que debes tener cuidado.
 
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/cascada-del-amor.jpg",
-caption:"Foto: cascada del amor",
-width:"1000",
-height:"1333"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/cascada-del-amor.jpg" "Foto: Cascada del Amor" %}
 
 ### -> CASCADA 
 
 Esta pequeña cascada solo se ve en invierno, ya que en verano esta seca.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/cascada.jpg",
-caption:"Foto: cascada",
-width:"1000",
-height:"1333"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/cascada.jpg" "Foto: Cascada" %}
 
 ### -> RESTAURANTE
 
 En este punto fue donde almorzamos, debemos aclarar que cada agencia maneja su restaurante, en este que estuvimos nosotros cuenta con: piscinas, tienen juegos de mesa, hamacas, pero debes saber que en temporada alta puede llenarse estas instalaciones.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/hotel-represa.JPG",
-caption:"Foto: restaurante ",
-width:"1000",
-height:"563"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/hotel-represa.JPG" "Foto: Restaurante" %}
 
 <a name="tour-prado-tolima" id="tour-prado-tolima"></a>
 
@@ -305,12 +270,7 @@ __NO INCLUYE:__ Alimentación, si tienes carro tendrías que dajerlo afuera.
 <a 
 href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hopedaje-para-2-personas" target="_blank">
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/habitaciones-privada.png",
-caption:"Foto: habitaciones en prado",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/hospedaje/habitaciones-privada.png" "Foto: Habitaciones en Prado" %}
 </a>
 
 👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hopedaje-para-2-personas" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
@@ -335,14 +295,8 @@ __NO INCLUYE:__ alimentación y tarifa de parqueadero (tendrás que dejarlo en e
 
 
 <a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" target="_blank">
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/apartamento-muelle.png",
-caption:"Foto: Hospedaje Prado",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/hospedaje/apartamento-muelle.png" "Foto: Hospedaje Prado" %}
 </a>
-
 
 👉 **<a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-en-el-muelle-turistico" style="color:#971717;" target="_blank">Puedes ver más información de este hospedaje aquí</a>**
 
@@ -369,12 +323,7 @@ __NO INCLUYE:__ Alimentación.
 
 
 <a href="https://www.randes.co/collections/hospedaje-en-prado-tolima/products/hospedaje-maximo-para-12-personas" target="_blank">
-{% include image.html,
-file:"rutas/tolima/represa-prado/hospedaje/hospedaje-12-personas.png",
-caption:"Foto: Hospedaje para maximo 14",
-width:"1200",
-height:"675"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/hospedaje/hospedaje-12-personas.png" "Foto: Hospedaje para máximo 14" %}
 </a>
 
 

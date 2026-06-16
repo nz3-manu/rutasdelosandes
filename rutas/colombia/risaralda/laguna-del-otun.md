@@ -4,7 +4,7 @@ title: "Laguna del Otún | Guía completa"
 categories: colombia
 seo_title: "Laguna del Otún: Cómo llegar, precios y recomendaciones"
 excerpt: "Descubre la Laguna del Otún. Guía experta sobre cómo llegar desde Pereira, opciones de tour, precios de entrada y consejos para evitar el mal de altura."
-images_url: /images/rutas/risaralda/laguna-del-otun
+images_url: /images/rutas/colombia/risaralda/laguna-del-otun
 viewranger: 
 author: manuel
 trending: true
@@ -163,12 +163,7 @@ Al coronar el Mirador de Potosí, varios miembros de nuestro grupo experimentaro
 
 __FOTOGRAFÍA DE LA LAGUNA DEL OTÚN DESDE EL MIRADOR LA ASOMADERA__
 
-{% include image.html,
-file:"rutas/risaralda/laguna-del-otun/mirador-potosi.jpg",
-caption:"Fotografía: Panorámica de la Laguna del Otún desde el Mirador La Asomadera",
-width:"1080",
-height:"700"
-%}
+{% image "images/rutas/colombia/risaralda/laguna-del-otun/mirador-potosi.jpg" "Fotografía: Panorámica de la Laguna del Otún desde el Mirador La Asomadera" %}
 
 *Nota: El Mirador de Potosí es el punto final y de retorno para los viajeros que toman el tour de pasadía de un solo día.*
 
@@ -178,12 +173,7 @@ Descendiendo un poco más allá de la cresta del mirador, se ingresa a los sende
 
 Desde el Mirador de Potosí caminamos cerca de 1 hora para adentrarnos en este valle, donde pudimos retratar una hermosa panorámica de las aguas azules de la Laguna del Otún enmarcada por miles de frailejones gigantes.
 
-{% include image.html,
-file:"rutas/risaralda/laguna-del-otun/featured.jpg",
-caption:"Fotografía: Bosques y valles de frailejones en la Laguna del Otún",
-width:"1080",
-height:"607"
-%}
+{% image "images/rutas/colombia/risaralda/laguna-del-otun/featured.jpg" "Fotografía: Bosques y valles de frailejones en la Laguna del Otún" %}
 
 ### -> CASA DEL GUARDABOSQUES (ZONA OFICIAL DE CAMPING)
 
@@ -193,12 +183,7 @@ En la ruta pasamos por un afloramiento geotérmico llamado **La Azufrera**, famo
 
 Tras superar el sector de La Azufrera, varios riscos empinados y pequeñas lagunas menores, alcanzamos las playas principales de la Laguna del Otún.
 
-{% include image.html,
-file:"rutas/risaralda/laguna-del-otun/laguna-del-otun.JPG",
-caption:"Fotografía: Orillas de la Laguna del Otún",
-width:"640",
-height:"428"
-%}
+{% image "images/rutas/colombia/risaralda/laguna-del-otun/laguna-del-otun.JPG" "Fotografía: Orillas de la Laguna del Otún" %}
 
 <ins>__Lineamientos de Campamento:__</ins> *Si decides realizar camping pernoctando en la zona, debes ser 100% autosuficiente y contar con carpa impermeable de alta montaña, sleeping bag para bajas temperaturas y estufa portátil de gas. Las fogatas de leña están estrictamente prohibidas por ley dentro del Parque Nacional. Las temperaturas nocturnas suelen descender con facilidad hasta los 0°C o menos.*
 
@@ -206,12 +191,7 @@ height:"428"
 
 Al día siguiente, nos levantamos temprano para explorar una pequeña laguna satélite denominada la "Laguna del Silencio". Durante el trayecto, contemplamos paisajes andinos espectaculares coronados al fondo por la silueta del **Paramillo de Santa Rosa** 🗻. Para arribar a este místico espejo de agua, caminamos cerca de 2 horas desde el campamento base de la Laguna del Otún.
 
-{% include image.html,
-file:"rutas/risaralda/laguna-del-otun/silencio.JPG",
-caption:"Fotografía: Laguna del Silencio en el Parque Nacional Los Nevados",
-width:"900",
-height:"675"
-%}
+{% image "images/rutas/colombia/risaralda/laguna-del-otun/silencio.JPG" "Fotografía: Laguna del Silencio en el Parque Nacional Los Nevados" %}
 
 Este rincón de montaña es ideal para desconectarse y sumergirse en una tranquilidad absoluta 🧘‍♂️.
 

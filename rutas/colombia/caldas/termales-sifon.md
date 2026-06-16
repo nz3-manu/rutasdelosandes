@@ -4,7 +4,7 @@ title: Termales del Sifón
 categories: colombia
 seo_title: Termales del Sifón | Guía de viaje 2024
 excerpt: ♨️ Termales del Sifón es un lugar oculto  cerca a Manizales, se encuentra dentro del parque de los nevados, esta es una ruta para hacer senderismo cerca de Manizales.
-images_url: /images/rutas/caldas/sifon
+images_url: /images/rutas/colombia/caldas/sifon
 viewranger:
 author: manuel
 ---
@@ -80,12 +80,7 @@ Para climatizar nuestro cuerpo a la altura del paramo, tuvimos que bajar levemen
 En el camino aprovechamos para hacer algunas paradas y observar los diferentes paisajes como por ejemplo la :
 __Laguna Negra__, aprovechamos un rato para comprar algo de desayuno, y tomar algunas fotos en este lugar.
 
-{% include image.html,
-  file:"rutas/caldas/sifon/laguna-negra.jpg",
- caption:"Foto de Laguna Negra",
- width:"1078",
- height:"717"
-%}
+{% image "images/rutas/colombia/caldas/sifon/laguna-negra.jpg" "Foto de Laguna Negra" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/jaimerubianofotografia/"  target="_blank"> @jaimerubianofotografia</a> </span>**
 
@@ -105,24 +100,14 @@ Después de 1 hora de trayecto por la carretera destapada, donde pudimos observa
 
 Desde la pequeña tienda hasta los termales hay aproximadamente 1 kilómetro, el cual es en descenso, la carretera es destapada y es un poco angosta, por esta también podrán bajar los carros y motos, así que no tendrán que caminar.
 
-{% include image.html,
-file:"rutas/caldas/sifon/3.JPG",
-caption:"Termales del Sifon",
-width:"800",
-height:"533"
-%}
+{% image "images/rutas/colombia/caldas/sifon/3.JPG" "Termales del Sifon" %}
 
 Una vez ya estando en los termales, pudimos disfrutar de sus aguas coloridas, cálidas y relajantes, también pudimos disfrutar de la majestuosidad de la naturaleza, en esto caso los frailejones. 
 
 
 A medida que disfrutábamos de las aguas termales esto nos hacía desconectar completamente del ruido y el estrés de la ciudad en el tiempo que estuvimos sumergidos sus aguas mágicas 💆. 
 
-{% include image.html,
-file:"rutas/caldas/sifon/termales-sifon-2.JPG",
-caption:"Termales del Sifon",
-width:"1000",
-height:"1500"
-%}
+{% image "images/rutas/colombia/caldas/sifon/termales-sifon-2.JPG" "Termales del Sifon" %}
 
 Después de habernos desconectado del estrés de la un relajante baño en estas aguas termales, emprendimos nuestro viaje de nuevo a la ciudad de Manizales, donde llegamos alrededor de las 5 pm.
 
@@ -137,24 +122,6 @@ Los hospedajes que encontrarás en el recorrido hacia los termales del Sifón so
 __NOTA:__ _De estos hospedajes no estamos recibiendo nada a cambio, solo recibimos una pequeña comisión de Booking cuando reservas por el link que agregamos debajo de cada uno de los hospedajes, esto solo lo hacemos para ayudarte un poco más a planear tu viaje._
 
 
-### -> HOSPEDAJE TERMALES DEL OTOÑO
-
-
-Se encuentra a 5 kilómetros vía antigua al nevado del Ruiz, El establecimiento Termales El otoño se encuentra en Manizales y alberga un spa, 3 piscinas termales, restaurante y habitaciones con minibar y WiFi gratuita. Hay aparcamiento gratuito. El centro de la ciudad está a 18 km.
-
-<a href="https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
- file:"rutas/caldas/sifon/hotel-otono.png",
-caption:"Foto Hotel vía nevado del Ruiz",
-width:"1248",
-height:"727"
-%}
-</a>
-
-👉 <a href= "https://www.booking.com/hotel/co/termales-el-otoao.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para reservar por Booking </a>
-
-
-
 
 ### -> THE COFFEE CLUB (MANIZALES)
 
@@ -163,12 +130,8 @@ Este hospedaje __cuenta con:__ WiFi gratis, parking privado gratis, cocina total
 
 
 <a href="https://www.booking.com/hotel/co/the-coffee-club.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-{% include image.html,
-file:"/blog/tips-montana/5-rutas-senderismo-eje-cafetero/hospedaje-manizales.jpg",
-caption:"Foto: apartamento amoblado pereira",
-width:"1654",
-height:"940"
-%}
+
+  {% image "images/rutas/colombia/caldas/sifon/hospedaje/hospedaje-manizales.jpg" "Apartamento amoblado en Manizales" %}
 </a>
 
 
@@ -181,12 +144,7 @@ height:"940"
 Cuenta con recepción 24 horas, servicio de conserjería y Wifi gratuito en todas las instalaciones. Este establecimiento para no fumadores, se encuentra a 1 km de la estación del teleférico de Manizales.
 
 
-{% include image.html,
- file:"rutas/caldas/sifon/hotel-manizales.png",
-caption:"Foto Hotel en Manizales",
-width:"1248",
-height:"727"
-%}
+{% image "images/rutas/colombia/caldas/sifon/hospedaje/hotel-manizales.png" "Foto Hotel en Manizales" %}
 
 
 👉 <a href= "https://www.booking.com/hotel/co/casa-valencia-manizales.en.html?aid=1491718&no_rooms=1&group_adults=2" style="color: maroon;" target="_blank"> Clic aquí, para ver este apartamento en Booking</a>

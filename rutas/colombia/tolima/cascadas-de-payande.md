@@ -4,7 +4,7 @@ title: Cascada de Payande
 categories: colombia
 seo_title: Todo lo que necesitas saber de la cascada de Payande
 excerpt: Guía completa para visitar la cascada de Payande, conoce transporte desde Ibagué,
-images_url: /images/rutas/tolima/represa-prado
+images_url: /images/rutas/colombia/tolima/represa-prado
 viewranger: MTYzNjQxOQ==
 author: manuel
 ---
