@@ -20,7 +20,7 @@ __Información que encontrarás en este post:__
 * <a href="#Coffe-tour-pereira" > Coffe tour cerca de Pereira </a>
 
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/what-to-do-in-pereira.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/travel-guides/what-to-do-in-pereira.html">See this post in English version 🇺🇸</a>]**
 
 
 Por último, si eres extranjero y quisieras contar con un guía que te acompañe a visitar esta hermosa ciudad, puedes dar clic en el siguiente enlace.

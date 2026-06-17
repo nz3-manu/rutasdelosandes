@@ -26,7 +26,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#recomendacion-pastora"> Recomendaciones finales </a>
 * <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
  
- **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/pastora-pereira.html">See this post in English version 🇺🇸</a>]**
+ **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/pastora-pereira.html">See this post in English version 🇺🇸</a>]**
  
 Empecemos con la aventura ⛰.
  
