@@ -1,7 +1,7 @@
 ---
-layout: trail
+layout: trail 
 title: "Qué hacer en Bogotá: Guía de turismo, rutas y hospedajes"
-categories: Colombia
+categories: colombia
 seo_title: "Qué hacer en Bogotá: Guía completa de turismo y senderismo"
 excerpt: "Descubre qué hacer en Bogotá. Guía de turismo con los mejores museos, rutas de senderismo cercanas, consejos de transporte y opciones de hospedaje para tu viaje."
 images_url: /images/rutas/colombia/cundinamarca/que-hacer-en-bogota
