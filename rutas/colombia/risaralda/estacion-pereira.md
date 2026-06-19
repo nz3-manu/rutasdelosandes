@@ -27,7 +27,7 @@ __EN ESTE POST DE ESTACIÓN PEREIRA ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/pereira-station.html"> See this post in english version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/colombia/risaralda/pereira-station.html"> See this post in english version 🇺🇸</a>]__
 
 <a name="video-estacion-pereira" id="video-estacion-pereira"></a> 
 
@@ -112,11 +112,11 @@ __Cascada en Estación Pereira__
  
 Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo</a>__
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/chorros-de-don-lolo.htmll" target="_blank"> Chorros de Don Lolo</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/chorros-de-don-lolo.htmll" target="_blank"> Chorros de Don Lolo</a>__
 
 
 

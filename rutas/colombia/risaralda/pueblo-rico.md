@@ -28,7 +28,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/pueblo-rico.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/risaralda/pueblo-rico.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="video-pueblo-rico" id="video-pueblo-rico"></a>
@@ -214,9 +214,9 @@ Cotinga Pechinaranja (Pipreola jucunda), el Quetzal Colinegro (Pharomacrus auric
 
 
 Aquí te mostraremos algunas rutas de __senderismo cerca de Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o simplemente, hacer avistamiento de aves cerca de Pereira ⛰🦅.
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/laguna-del-otun.html" target="_blank"> Laguna del Otún</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo </a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/laguna-del-otun.html" target="_blank"> Laguna del Otún</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo </a>__
+* __<a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
 
 
 Este es el fin de la excursión al Municipio de Pueblo Rico, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

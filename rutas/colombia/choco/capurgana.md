@@ -32,7 +32,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 A continuación, te mostraremos toda la información de la ruta __Capurganá y Sapzurro__ . Sin más preámbulo, empecemos ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/choco/capurgana.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/choco/capurgana.html">See this post in English version 🇺🇸</a>]**
 
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">

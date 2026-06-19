@@ -35,7 +35,7 @@ Te aseguramos que, independientemente de la ruta que escojas, vas a vivir una ex
  
 Empecemos con la aventura 🌴.
  
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/salento-colombia.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/salento-colombia.html">See this post in English version 🇺🇸</a>]**
 
 ---
  
@@ -113,7 +113,7 @@ Si continúas avanzando por este sendero más allá de los miradores fotográfic
 ### ➡️ 2. SENDERO COCORA A FINCA LA MONTAÑA (DIFICULTAD MEDIA)
 Para completar este tramo debes superar la zona turística de los primeros miradores y continuar ascendiendo por una carretera destapada de montaña. Al culminar la subida, llegarás a la **Finca La Montaña** (un puesto de control forestal), que ofrece una vista privilegiada del imponente **Cerro Morro Gacho**, un imponente cerro tutelar cargado de mitología indígena. 
 
-Si te llama la atención este destino técnico, te invitamos a leer nuestra guía especializada sobre [Cómo subir a Cerro Morro Gacho](https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html).
+Si te llama la atención este destino técnico, te invitamos a leer nuestra guía especializada sobre [Cómo subir a Cerro Morro Gacho](https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html).
  
 La distancia desde el plano de Cocora hasta la Finca La Montaña es de aproximadamente **3,5 kilómetros** de ascenso continuo. 
 

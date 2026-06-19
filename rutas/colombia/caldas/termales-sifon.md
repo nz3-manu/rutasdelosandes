@@ -26,7 +26,7 @@ __<a href="https://www.randes.co/products/tour-termales-del-sifon" style="color:
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/caldas/sifon-thermal-waters.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/caldas/sifon-thermal-waters.html">See this post in English version 🇺🇸</a>]**
 
 <a name="video-sifon" id="video-sifon"></a>
 
@@ -179,7 +179,7 @@ A continuación de te dejamos el link de Booking en el cual podrás filtrar y bu
 Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Manizales.
 
 
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
+* __<a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
+* __<a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html" target="_blank"> Nevado del Ruiz</a>__
 
 Este es el fin de la ruta a Termales del Sifón, **no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este** 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

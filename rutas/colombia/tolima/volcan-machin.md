@@ -34,7 +34,7 @@ En este post queremos mostrarte cómo fue nuestro viaje y todo lo que vivimos pa
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/machin-volcano.html"> See this post in english version 🇺🇸</a>]**
 
 ---
 

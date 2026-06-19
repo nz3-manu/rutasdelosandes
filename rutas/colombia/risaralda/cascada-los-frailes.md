@@ -35,7 +35,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Una vez dicho esto, ¡empecemos con la aventura ⛰️!
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/los-frailes-waterfall.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/los-frailes-waterfall.html">See this post in English version 🇺🇸</a>]**
 
 <a id="video-cascada-los-frailes"></a>
 

@@ -26,7 +26,7 @@ Adicional a eso, te dejaremos el link para ver más información de cada ruta y 
 
 No siendo más, empecemos ⛰️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/risaralda/lake-otun">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/risaralda/lake-otun">See this post in English version 🇺🇸</a>]**
 
 ## VIDEO DE LOS LUGARES QUE VERASVERÁS EN EL EJE CAFETERO
 
@@ -159,7 +159,7 @@ __INFORMACIÓN TÉCNICA:__
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_giraldo1010/"  target="_blank"> @david_giraldo1010</a> </span>__
 
-👉 <a href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al nevado del ruiz </a>
+👉 <a href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html" style="color: maroon;" target="_blank"> Clic aquí para ver información del tour al nevado del ruiz </a>
 
 
 ### -> #4 LAGUNA DEL OTÚN

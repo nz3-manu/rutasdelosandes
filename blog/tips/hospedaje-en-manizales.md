@@ -31,7 +31,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/tipsmonta%C3%B1a/lodging-in-manizales.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/tipsmonta%C3%B1a/lodging-in-manizales.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="mapa-zona chipre" id="mapa-zona chipre"></a>

@@ -17,7 +17,7 @@ En este post, te mostraremos toda la información relacionada acerca de la ruta 
 
 Morrogacho, es una de las rutas más difíciles de Senderismo en el Eje Cafetero la cual es muy frecuentada por muchos aventureros 🤠.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/quindio/morrogacho-hill.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/quindio/morrogacho-hill.html">See this post in English version 🇺🇸</a>]**
 
 **EN ESTE POST PODRÁS VER LA SIGUIENTE INFORMACIÓN:**
 

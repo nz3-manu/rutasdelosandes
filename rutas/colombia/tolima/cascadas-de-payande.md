@@ -30,7 +30,7 @@ Empecemos con la aventura ⛰.
 
 
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
 <a name="dato-prado-tolima" id="dato-prado-tolima"></a>
 
 

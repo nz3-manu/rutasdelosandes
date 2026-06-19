@@ -39,7 +39,7 @@ A lo largo de este artículo descubrirás el estado real de las rutas y adverten
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/norcasia-caldas.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/norcasia-caldas.html">See this post in English version 🇺🇸</a>]**
 
 <a name="video-norcasia"></a>
 

@@ -10,7 +10,7 @@ author: manuel
 trending: true
 ---
 
-# NEVADO DEL COCUY: GUÍA EXPERTA, RUTAS Y CONSEJOS DE SEGURIDAD ⛰️
+# NEVADO DEL COCUY: GUÍA EXPERTA, RUTAS Y CONSEJOS DE SEGURIDAD 🏔️
 
 Visitar la Sierra Nevada del Cocuy es el sueño de cualquier montañista, pero su logística puede ser compleja. Durante nuestra primera expedición, enfrentamos contratiempos con la coordinación y guías no certificados que casi ponen en riesgo nuestro viaje. Hemos preparado esta guía para que tú aprendas de nuestra experiencia y realices esta aventura con total seguridad.
 
@@ -32,7 +32,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 A continuación te daremos toda la información pertinente respecto a la ruta del __Nevado del Cocuy__ ⛰. Sin más preámbulo, empecemos
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/nevado-del-cocuy-trekking-guide.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/mountaineering/nevado-del-cocuy-trekking-guide.html">See this post in English version 🇺🇸</a>]**
 
 <a id="banner1" href="https://www.randes.co/" target="_blank">
 {% include image.html, file:"publicidad-post/chaqueta-randes.jpg", caption:"Equipo técnico Randes", width:"480", height:"200" %}

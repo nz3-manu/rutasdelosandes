@@ -26,7 +26,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 * <a href="#recomendacion-pastora"> Recomendaciones finales </a>
 * <a href="#rutas-de-senderismo-en-pereira"> Otras rutas de Senderismo en Pereira </a>
  
- **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/pastora-pereira.html">See this post in English version 🇺🇸</a>]**
+ **[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/pastora-pereira.html">See this post in English version 🇺🇸</a>]**
  
 Empecemos con la aventura ⛰.
  
@@ -144,11 +144,11 @@ __Incluye:__ Transporte, 1 🥨 desayuno, 2 🍝 almuerzo, 1 🍝 Cena, 🛌 hos
  
 Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html" target="_blank"> Alto del Nudo</a>__
  
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/chorros-de-don-lolo.htmll" target="_blank"> Chorros de Don Lolo</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/chorros-de-don-lolo.htmll" target="_blank"> Chorros de Don Lolo</a>__
  
  
  

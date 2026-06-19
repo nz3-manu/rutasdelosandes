@@ -20,7 +20,7 @@ Visitar una metrópolis como Bogotá puede ser desafiante. ¿Dónde hospedarse? 
 - [Opciones de hospedaje](#hospedaje-bogota)
 - [Recomendaciones finales](#recomendaciones-bogota)
 
-[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/cundinamarca/what-to-do-in-bogota.html">See this post in English version 🇺🇸</a>]
+[<a target="_blank" href="https://www.hikingintheandes.com/colombia/cundinamarca/what-to-do-in-bogota.html">See this post in English version 🇺🇸</a>]
 
 <a name="dato-bogota" id="dato-bogota"></a>
 

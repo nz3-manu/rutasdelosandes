@@ -32,7 +32,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰️.
 
-__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/lake-otun.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/lake-otun.html">See this post in English version 🇺🇸</a>]__
 
 <a id="video-laguna"></a>
 
@@ -282,9 +282,9 @@ Esta alternativa es perfecta si viajas con un grupo grande de caminantes o en fa
 
 Si deseas realizar caminatas cortas de aclimatación, avistamiento de aves endémicas o explorar caídas de agua escondidas en el bosque de niebla cerca de Pereira, te invitamos a consultar nuestras guías locales:
 
-* 🥾 __<a href="https://rutasdelosandes.com/amp/colombia/hiking/la-estacion-trail.html" target="_blank"> Sendero La Estación (Estación Pereira)</a>__
-* 🥾 __<a href="https://rutasdelosandes.com/amp/colombia/hiking/alto-del-nudo.html" target="_blank"> Miradores del Alto del Nudo</a>__
-* 🥾 __<a href="https://rutasdelosandes.com/amp/colombia/hiking/los-frailes-waterfall.html" target="_blank"> Cascada Los Frailes</a>__
+* 🥾 __<a href="https://rutasdelosandes.com/colombia/hiking/la-estacion-trail.html" target="_blank"> Sendero La Estación (Estación Pereira)</a>__
+* 🥾 __<a href="https://rutasdelosandes.com/colombia/hiking/alto-del-nudo.html" target="_blank"> Miradores del Alto del Nudo</a>__
+* 🥾 __<a href="https://rutasdelosandes.com/colombia/hiking/los-frailes-waterfall.html" target="_blank"> Cascada Los Frailes</a>__
 
 ---
 
