@@ -1,14 +1,20 @@
 {
   "name": "Rutas de los Andes",
   "short_name": "Rutas",
+  "description": "Explora las rutas más increíbles de los Andes colombianos.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "transparent",
-  "theme_color": "transparent",
+  "background_color": "#ffffff",
+  "theme_color": "#00796b",
   "icons": [
     {
-      "src": "/images/favicon-32x32.png",
-      "sizes": "32x32",
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
