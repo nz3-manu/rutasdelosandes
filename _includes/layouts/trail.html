@@ -5,12 +5,12 @@ layout: default
   {
       "@context": "http://schema.org/",
       "@type": "Article",
-      "dateModified":"2022-05-01",
-      "datePublished":"2022-05-01",
+      "datePublished":"{{ page.date | date_to_xmlschema }}",
+      "dateModified":"{{ 'now' | date_to_xmlschema }}",
       "description":"{{ excerpt | escape }}",
       "headline":"{{ title | escape }}",
       "image": "{{site.url}}{{images_url}}/featured.jpg",
-      "mainEntityOfPage":"{{ page.url | replace:'index.html','' | absolute_url }}",
+      "mainEntityOfPage":"{{ page.url | replace:'index.html','' | remove: '/amp' | absolute_url }}",
       "author": {
         "@type":"Organization",
         "name":"Rutas de los andes"
@@ -96,13 +96,7 @@ layout: default
                 </a>
               {% endif %}
               <div class="author_description">{{ authorInfo.description }}</div>
-              {% endif %}
-              {% comment %}
-                <time class="author_published-date" datetime="{{ page.date | date_to_xmlschema }}">
-                  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                  {{ page.date | date: date_format }}
-                </time>
-              {% endcomment %}
+                Actualizado: {{ "now" | date: "%b %Y" }}.
             </div>
           </div>
     </header>
@@ -144,19 +138,24 @@ layout: default
 {% if post.data.trending %}
 {% if post.url != page.url %}
 <li>
-  <a class="article-link" href="{{ site.url }}{{ post.url }} ">
+  <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
                 <div class="article">
                   <div class="scrim-top">
                   </div>
                   <div class="scrim-bottom">
                   </div>
                   <h3 class="article-title">{{ post.data.title }}</h3>
-                  <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}, Jun 28</h4>
-                  <amp-img
-                  layout="responsive"
-                  width="581"
-                  height="304"
-                  src="{{post.data.images_url}}/featured.jpg">
+                  <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}</h4>
+                     <amp-img
+                        layout="responsive"
+                        width="581"
+                        height="304"
+                        src="{{post.data.images_url}}/featured-581.jpg"
+                        srcset="{{post.data.images_url}}/featured-300.jpg 300w, 
+                                {{post.data.images_url}}/featured-581.jpg 581w"
+                        sizes="(max-width: 581px) 300px, 581px"
+                        alt="{{ post.data.title | escape }}">
+                    </amp-img>
                 </div>
             </a>
 </li>
@@ -164,6 +163,3 @@ layout: default
 {% endif %}
 {%- endfor -%}
 </ul>
-
-
-
