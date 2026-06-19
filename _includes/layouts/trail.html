@@ -98,7 +98,8 @@ layout: default
               <div class="author_description">{{ authorInfo.description }}</div>
                 Actualizado: {{ "now" | date: "%b %Y" }}.
             </div>
-          </div>
+          {% endif %}
+        </div>
     </header>
   <div class="post-content" itemprop="articleBody">
     <ul class="tags">
@@ -135,31 +136,31 @@ layout: default
 
 <ul class="related-articles">
 {%- for post in collections.rutas -%}
-{% if post.data.trending %}
-{% if post.url != page.url %}
-<li>
-  <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
-                <div class="article">
-                  <div class="scrim-top">
-                  </div>
-                  <div class="scrim-bottom">
-                  </div>
-                  <h3 class="article-title">{{ post.data.title }}</h3>
-                  <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}</h4>
-                     <amp-img
-                        layout="responsive"
-                        width="581"
-                        height="304"
-                        src="{{post.data.images_url}}/featured-581.jpg"
-                        srcset="{{post.data.images_url}}/featured-300.jpg 300w, 
-                                {{post.data.images_url}}/featured-581.jpg 581w"
-                        sizes="(max-width: 581px) 300px, 581px"
-                        alt="{{ post.data.title | escape }}">
-                    </amp-img>
-                </div>
-            </a>
-</li>
-{% endif %}
-{% endif %}
+  {% if post.data.trending %}
+    {% if post.url != page.url %}
+    <li>
+      <a class="article-link" href="{{ site.url }}{{ post.url | remove: '/amp' }} ">
+                    <div class="article">
+                      <div class="scrim-top">
+                      </div>
+                      <div class="scrim-bottom">
+                      </div>
+                      <h3 class="article-title">{{ post.data.title }}</h3>
+                      <h4 class="article-subtitle">Por {{ authors[post.data.author].name}}</h4>
+                         <amp-img
+                            layout="responsive"
+                            width="581"
+                            height="304"
+                            src="{{post.data.images_url}}/featured-581.jpg"
+                            srcset="{{post.data.images_url}}/featured-300.jpg 300w, 
+                                    {{post.data.images_url}}/featured-581.jpg 581w"
+                            sizes="(max-width: 581px) 300px, 581px"
+                            alt="{{ post.data.title | escape }}">
+                        </amp-img>
+                    </div>
+                </a>
+    </li>
+    {% endif %}
+  {% endif %}
 {%- endfor -%}
 </ul>

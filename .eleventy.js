@@ -12,6 +12,16 @@ module.exports = function (eleventyConfig) {
     root: ["_includes", "."],
   });
 
+  // --- NUEVA CONFIGURACIÓN: FILTRO DE FECHA PARA SITEMAP ---
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    // Si ya es un objeto Date, lo usamos; si no, intentamos crearlo
+    const date = (dateObj instanceof Date) ? dateObj : new Date(dateObj);
+    
+    // Si la fecha es válida, devolvemos ISO, sino devolvemos la fecha actual
+    return !isNaN(date.getTime()) ? date.toISOString() : new Date().toISOString();
+  });
+
+  // --- COLECCIONES ---
   eleventyConfig.addCollection("rutas", (collection) => {
     return collection.getFilteredByGlob("rutas/**/*.md");
   });
@@ -20,13 +30,12 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("blog/**/*.md");
   });
 
-  // --- NUEVA CONFIGURACIÓN DE IMÁGENES ---
+  // --- CONFIGURACIÓN DE IMÁGENES ---
   eleventyConfig.addAsyncShortcode("image", async function(src, alt) {
     if(alt === undefined) {
       throw new Error(`Falta el atributo alt: ${src}`);
     }
     
-    // Aquí el plugin procesa las imágenes
     let stats = await Image(src, {
       widths: [300, 600, 1000],
       formats: ["jpeg", "webp"],
@@ -40,7 +49,7 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  // --- ARCHIVOS QUE SE COPIAN DIRECTO ---
+  // --- ARCHIVOS PASSTHROUGH ---
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("javascript");
 

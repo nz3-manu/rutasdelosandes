@@ -1,9 +1,15 @@
-<figure {% if fullscreen %} data-mode="fullscreen" {% endif %} >
-  <amp-img {% if absolute %} src="{{file}}" {% else %} src="/images/{{file}}" {% endif %} {% if fullscreen %} data-mode="fullscreen" {% endif %} layout="responsive" alt="{{ caption }}" width="{{ width | default: 1028 }}px" height="{{ height | default: 771 }}px" >
+<figure {% if fullscreen %} data-mode="fullscreen" {% endif %}>
+  <amp-img 
+    {% if absolute %} src="{{file}}" {% else %} src="/images/{{file}}" {% endif %}
+    srcset="{% if absolute %}{{ file | replace: '.jpg', '.webp' | replace: '.png', '.webp' }}{% else %}/images/{{ file | replace: '.jpg', '.webp' | replace: '.png', '.webp' }}{% endif %}"
+    alt="{{ caption | default: 'Imagen de Rutas de los Andes' }}"
+    layout="responsive"
+    width="1200"
+    height="800">
   </amp-img>
   {% if caption %}
-  <figcaption {% if fullscreen %} class="op-extra-large" {% endif %}>
-    {{ caption }}
-  </figcaption>
+    <figcaption {% if fullscreen %} class="op-extra-large" {% endif %}>
+      {{ caption }}
+    </figcaption>
   {% endif %}
 </figure>
