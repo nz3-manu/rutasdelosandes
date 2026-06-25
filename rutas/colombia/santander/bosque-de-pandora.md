@@ -160,10 +160,9 @@ Este alojamiento se encuentra en Velez, a 1 hora del municipio del Peñon, debes
 
 
 - __Precio del hospedaje:__ Por un precio mínimo aproximado de unos $60.000 COP para 2  personas por noches. 
+
+
 <a href="https://www.booking.com/hotel/co/del-parque-velez-velez1.en.html?aid=1491718&no_rooms=1&group_adults=2" target="_blank">
-
-
-
 
 {% include image.html,
 file:"rutas/santander/bosque-de-pandora/hospedaje/hotel-parque.jpg",

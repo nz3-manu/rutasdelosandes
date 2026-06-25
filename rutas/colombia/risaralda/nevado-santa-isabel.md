@@ -129,12 +129,8 @@ Algo importante que queremos resaltar es que para **llegar al nevado Santa Isabe
 Nuestro viaje inició desde la ciudad de Pereira a las 5:00 a.m, allí la agencia encargada de nuestro tour nos recogió. Una vez abordamos el carro, aprovechamos para descansar, puesto que tuvimos que madrugar muy temprano para terminar de alistar nuestro equipaje y nuestra ruta 😴. Durante nuestro recorrido, hicimos nuestra primera parada para desayunar, y mientras estábamos desayunando, ya podíamos sentir bastante frío.
 
 
-<a target="_blank" href="https://www.randes.co/collections/chaquetas-senderismo">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"Banner Chaqueta",
-width:"480",
-height:"200" %}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 

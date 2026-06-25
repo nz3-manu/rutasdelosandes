@@ -10,7 +10,7 @@ author: manuel
 trending: true
 ---
 
-# NEVADO DEL RUIZ
+# NEVADO DEL RUIZ 
 
 
 Este post no es la típica enciclopedia aburrida (aunque si quieres ver datos técnicos puedes ver la sección de datos curiosos 🤓); aquí vas a encontrar una recopilación real con los mejores tips, recomendaciones y secretos compartidos por viajeros, agencias aliadas y habitantes locales de la zona. 

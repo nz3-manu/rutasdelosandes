@@ -10,7 +10,7 @@ author: manuel
 trending: true
 ---
 
-# DESIERTO DE LA TATACOA: ENTRADA AL COSMOS EN EL HUILA
+# DESIERTO DE LA TATACOA: ENTRADA AL COSMOS EN EL HUILA 
 
 En este post te contaremos detalladamente cómo fue nuestra experiencia viajando al imponente Desierto de la Tatacoa. Queremos aclararte que nosotros realizamos esta aventura por nuestra propia cuenta. Si planeas hacerlo de forma independiente, **te sugerimos leer atentamente las alertas de seguridad que dejamos en cada sección**, para que evites contratiempos logísticos en el terreno.
 

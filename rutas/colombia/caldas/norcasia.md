@@ -55,14 +55,14 @@ A continuación te mostramos un pequeño video de Norcasia con los lugares turí
  "@type": "VideoObject",
  "name": "Lugares Turísticos en Norcasia - Embalse de Amaní y Río La Miel",
  "description": "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura.",
- "thumbnailUrl": "https://img.youtube.com/vi/A-oYwJF3EsQ/maxresdefault.jpg",
+ "thumbnailUrl": "https://img.youtube.com/vi/gMBARqjzjrY/maxresdefault.jpg",
  "uploadDate": "2026-06-07T11:40:00-05:00",
- "contentUrl": "https://www.youtube.com/watch?v=A-oYwJF3EsQ",
- "embedUrl": "https://www.youtube.com/embed/A-oYwJF3EsQ"
+ "contentUrl": "https://www.youtube.com/watch?v=gMBARqjzjrY",
+ "embedUrl": "https://www.youtube.com/embed/gMBARqjzjrY"
 }
 </script>
 {% include youtube.html,
-   videoid:"A-oYwJF3EsQ",
+   videoid:"gMBARqjzjrY",
    width:"480",
    height:"270",
    caption:"Video de Norcasia"
@@ -105,12 +105,8 @@ Si no cuentas con transporte propio y quieres ir en bus, aquí te mostramos algu
 
 __Recomendación:__ _Los horarios de los buses a veces cambian, así que te aconsejamos llamar directamente a las empresas para confirmar._
 
-<a id="banner2" href="https://www.randes.co/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"banner-chaqueta",
-width:"480",
-height:"200" %}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 ### -> DESDE LA DORADA A NORCASIA:

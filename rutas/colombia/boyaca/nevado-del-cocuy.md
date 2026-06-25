@@ -34,10 +34,9 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 **[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/nevado-del-cocuy-trekking-guide.html">See this post in English version 🇺🇸</a>]**
 
-<a id="banner1" href="https://www.randes.co/" target="_blank">
-{% include image.html, file:"publicidad-post/chaqueta-randes.jpg", caption:"Equipo técnico Randes", width:"480", height:"200" %}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
-
 <a id="dato-cocuy"></a>
 
 ---
@@ -46,8 +45,6 @@ A continuación te daremos toda la información pertinente respecto a la ruta de
 
 La Sierra Nevada del Cocuy es una formación montañosa de 30 km de longitud. Alberga el glaciar más grande de Colombia y una de las mayores masas de nieve en Sudamérica. Sus picos más emblemáticos son el **Ritacuba Blanco (5.330 msnm)** y el **Ritacuba Negro (5.300 msnm)**. Además, es un territorio sagrado para la etnia U'wa, quienes conservan tradiciones ancestrales que hacen de esta región un lugar místico y único en el país.
 
-{% include image.html, file:"rutas/boyaca/nevado-cocuy/venado.jpg", caption:"Biodiversidad en la Sierra Nevada", width:"800", height:"533" %}
-**<span class="advise"> Foto por: Colibrí Travesías </span>**
 
 <a id="como-cocuy"></a>
 
@@ -99,12 +96,8 @@ caption:"Senderos disponibles en el nevado el cocuy"
 
 El Púlpito del Diablo es una formación geológica imponente de 70 metros de altura y 150 metros de ancho. Según la tradición oral, su nombre proviene de una antigua leyenda local: se dice que el diablo utilizaba esta gran roca como asiento nocturno, provocando desde allí deshielos y deslizamientos en el sector. Más allá del mito, es uno de los puntos más impactantes de la Sierra Nevada.
 
-{% include image.html,
-file:"rutas/boyaca/nevado-cocuy/pulpito-diablo.jpeg",
-caption:"Foto: Púlpito del Diablo en Sierra Nevada del Cocuy",
-width:"864",
-height:"1296"
-%}
+
+{% image "images/rutas/colombia/boyaca/nevado-cocuy/pulpito-diablo.jpeg" "Púlpito del Diablo en Sierra Nevada del Cocuy" %}
 
 **<span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487</a> </span>**
 

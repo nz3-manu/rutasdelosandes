@@ -61,12 +61,8 @@ Empecemos con la aventura 🌴.
 ### 🚌 DESDE PEREIRA A SALENTO
 Desde la Terminal de Transporte de Pereira, debes abordar un autobús directo hacia Salento operado por la empresa *Expreso Alcalá*. Salen aproximadamente cada hora a partir de las 6:30 AM. El valor del tiquete es de unos $9.000 COP (aproximadamente 2 USD) y el tiempo estimado de viaje es de 1 hora y 30 minutos, dependiendo del tráfico en la variante.
  
-<a id="banner2" href="https://www.randes.co/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.png",
-caption:"Publicidad Randes Gear",
-width:"480",
-height:"200" %}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
  
 <a name="que-hacer-salento" id="que-hacer-salento"></a>

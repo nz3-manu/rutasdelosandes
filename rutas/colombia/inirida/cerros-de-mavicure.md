@@ -171,12 +171,7 @@ Una vez en la cima del Cerro de Mavicure, se pueden apreciar varios cerros; algu
 - __Cerro Plata:__ Su nombre podría deberse a los destellos plateados que reflejan sus aguas y rocas al sol.
 - __Cerro Pajarito:__ Donde la princesa Inírida descansa.
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/cerros-mavicure.jpg",
-caption:"Foto:  Cerros Mavicure",
-width:"1200",
-height:"674"
-%}
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/cerros-mavicure.jpg" "Cerros Mavicure" %}
 
 __RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen agarre, ya que como viste se debe subir por  rocas y si ha llovido puede ser muy liso, también evita subir perritos de la comunidad, ya  que unos turistas lo hicieron y el perrito se cayó de la roca y murió 🐶🥺._
 
@@ -184,12 +179,8 @@ __RECOMENDACIÓN:__ _Para subir este cerro se recomienda llevar tenis de buen ag
 
 Este lugar se encuentra a unos 15 minutos en lancha desde la entrada a los Cerros de Mavicure. Por lo general, se visita el mismo día del recorrido de los cerros de Mavicure. Este lugar es conocido por el color rojizo de sus aguas, que crean un paisaje hermoso. Durante el verano, el nivel del río baja y aparecen hermosas playas de arena clara, perfectas para descansar o darse un baño refrescante. En temporada de lluvias, en cambio, el caudal aumenta y las playas desaparecen, ofreciendo un panorama completamente distinto.
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/cano-san-juaquin.jpeg",
-caption:"Foto:  Caño San Joaquín",
-width:"1200",
-height:"900"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/cano-san-juaquin.jpeg" "Caño San Joaquín" %}
 
 __RECOMENDACIÓN:__ _En esta zona, después de las 3:00 p.m., comienzan a aparecer muchos zancudos, por lo que te recomendamos llevar repelente. Además, debes tener cuidado al bañarte en estas aguas, ya que cuentan con zonas profundas._
 
@@ -199,12 +190,8 @@ Existen varios puntos en donde pueden ver toninas: Como en Caño Matraca y tambi
 
 __NOTA:__ _Las toninas o delfines rosados están más activos después de las 4 pm._
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/delfin-rosado.png",
-caption:"Foto:  Toninas o delfines Rosados",
-width:"1000",
-height:"614"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/delfin-rosado.png" "Toninas o delfines Rosados" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.wwf.org.co/"  target="_blank"> wwf </a> </span>__
 
@@ -214,12 +201,8 @@ Es el punto donde confluyen los ríos Guaviare, Atabapo e Inírida con el impone
 
 Este paraíso natural se encuentra río arriba, en dirección contraria a los Cerros de Mavicure, a aproximadamente 46 kilómetros en lancha desde el pueblo de Inírida.
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/estrella-fluvial.jpg",
-caption:"Foto: Estrella Fluvial",
-width:"1080",
-height:"1346"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/estrella-fluvial.jpg" "Estrella Fluvial" %}
 
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/diegonzalez/"  target="_blank"> @diegonzalez </a> </span>__
 
@@ -229,12 +212,8 @@ __RECOMENDACIÓN:__  _en este lugar no se pueden bañar, ya que  hay fauna pelig
 
 No te puedes ir de Inírida sin conocer la famosa flor eterna. Dicen que puede durar aproximadamente un año sin marchitarse. Muchas agencias incluyen en sus recorridos la visita a reservas ecológicas donde podrás ver estas flores y aprender más sobre ellas.
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/flor-inirida.jpg",
-caption:"Foto: Flor Eterna de Inirida",
-width:"1200",
-height:"1600"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/flor-inirida.jpg" "Foto: Flor Eterna de Inirida" %}
 
 __RECOMENDACIÓN:__  _Las flores se pueden comprar en Inírida y te las permiten llevar en el avión. Procura mantenerlas a la sombra y, si las pones en un florero, que sea sin agua, ya que así durarán mucho más._
 
@@ -253,12 +232,8 @@ Hacer el recorrido con alguien que no tenga empresa o que no venga recomendado p
 
 __ÚLTIMO DATO:__ _El motocarro te deja justo al frente del lugar donde puedes bañarte 🏊. Si piensas darte un chapuzón desde el puente, ten en cuenta que el agua no es muy profunda._
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/cano-vitina.jpg",
-caption:"Foto: Caño vitina",
-width:"1200",
-height:"666"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/cano-vitina.jpg" "Foto: Caño vitina" %}
 
 __RECOMENDACIÓN:__ 
 - _Allí no hay señal telefónica de Movistar, Claro ni Tigo. Si viajas entre semana, únicamente encontrarás a la venta gaseosas, papas fritas y productos básicos. En cambio, si vas un fin de semana, es posible que ofrezcan almuerzos, pero ten en cuenta que solo reciben pagos en efectivo._
@@ -268,12 +243,8 @@ __RECOMENDACIÓN:__
 
 Este es un lugar tipo plaza de mercado, donde las personas llevan sus productos para la venta. Los fines de semana la actividad es mucho mayor, ya que hay más vendedores ofreciendo sus productos. Para llegar allí, nos cobraron $6.000 pesos en motocarro; la carretera se encuentra en buen estado. Nos recomendaron tomar una bebida típica de la que se llama Manaca, es un jugo preparado a base de açai.
 
-{% include image.html,
-file:"rutas/inirida/cerros-de-mavicure/manaca.jpg",
-caption:"Foto: Bebida Manaca",
-width:"1200",
-height:"1600"
-%}
+
+{% image "images/rutas/colombia/inirida/cerros-de-mavicure/manaca.jpg" "Foto: Bebida Manaca" %}
 
 __NOTA:__ _nosotros compramos algunos de estos productos como Ají picante en polvo, para traer como presentes, pero en el aeropuerto no nos lo dejaron pasar, en el equipaje de mano ni de bodega, para que los tengas en cuenta_
 

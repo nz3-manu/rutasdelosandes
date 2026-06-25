@@ -4,7 +4,7 @@ title: Nevado del Tolima
 categories: colombia
 seo_title: Cómo subir al Nevado del Tolima | Guía, Rutas y Consejos (2026)
 excerpt: Descubre la ruta al Nevado del Tolima. Guía de ascenso, recomendaciones de seguridad, hospedajes, costos y cómo contratar tu tour con expertos locales.
-images_url: /images/rutas/quindio/nevado-del-tolima
+images_url: /images/rutas/colombia/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
 trending: true
@@ -180,11 +180,7 @@ Nos levantamos muy temprano para preparar el desayuno, hidratar y equiparnos con
 #### 2. TRAMO DE ROCAS
 Llegamos a la sección de roca. Debido a la humedad, la piedra estaba muy lisa y resbaladiza. Aquí la seguridad es primordial: el guía aseguró la cuerda principal a los anclajes fijos (chapas) de la pared y nos enganchamos mediante el mosquetón y la línea de vida de nuestros arneses. 
 
-{% include image.html,
-file:"rutas/quindio/nevado-del-tolima/rocas.JPG",
-caption:"Paso técnico por el tramo de rocas",
-width:"1280",
-height:"960" %}
+{% image "images/rutas/colombia/quindio/nevado-del-tolima/rocas.JPG" "Paso técnico por el tramo de rocas" %}
 
 En este tramo, uno de nuestros compañeros cometió el error de llevar el piolet colgado por fuera de la mochila de forma horizontal y los bastones en la mano. Al intentar superar un resalte, el piolet se trabó con la roca desestabilizándolo. Por fortuna, el sistema de cuerdas funcionó a la perfección y no pasó de ser un susto.
 

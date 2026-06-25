@@ -115,12 +115,7 @@ Aquí te mostraremos algunas opción para llegar a prado, desde algunas ciudades
 
 Una vez en Prado, verás que es un pueblo pequeño, con una población aproximada de 3.900 personas. Allí encontrarás pocas opciones de servicios como cajeros o corresponsales bancarios, así que les recomendamos llevar efectivo, las opciones de restaurantes para comprar almuerzo podrán encontrar con facilidad, pero en la noche es algo complecado encontrar comida, solo encotrán comida rapida.
 
-{% include image.html,
-file:"rutas/tolima/represa-prado/monumento-emblematico.jpeg",
-caption:"Foto: Monumento emblematico de Prado Tolima",
-width:"1000",s
-height:"1037"
-%}
+{% image "images/rutas/colombia/tolima/represa-prado/monumento-emblematico.jpeg" "Monumento emblematico de Prado Tolima" %}
 
 Este monumento es señal de que estan entrando a Prado, este se creó como homenaje a las familias de pescadores. Fue construida por un diseñador de Prado, Tolima quién reemplazó el arco que le daba la bienvenida a los habitantes y turistas. __Dicho arco tenía ya alrededor de 100 años de haber sido construido__ pero fue reemplazado por un concepto más emblemático que refleja una de las principales actividades económicas del pueblo.
 

@@ -33,12 +33,8 @@ Empecemos con la aventura ⛰.
 
 **[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
 
-<a href="https://www.randes.co/" target="_blank">
-{% include image.html,
-file:"publicidad-post/sombrero.png",
-caption:"banner-ropa",
-width:"1000",
-height:"300" %}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 <a name="dato-termales-cabaña" id="dato-termales-cabaña"></a>
@@ -153,6 +149,8 @@ width:"1080",
 height:"864"
 %}
 
+{% image "images/rutas/colombia/tolima/termales-de-la-cabaña/laguna-corazon.jpg" "Laguna Corazón" %}
+
 __<span class="advise"> Foto por:  <a href="https://www.instagram.com/arielconcepcion23/"  target="_blank"> @arielconcepcion23 </a> </span>__
 
 
@@ -251,13 +249,8 @@ Si vas a tomar un tour desde Murillo, te recomendamos hacerlo con mucho anticipa
 ♨️ <a target="_blank"  style="color: maroon;"  href="https://www.randes.co/collections/tour-termales-de-la-cabana-desde-pereira-o-manizales">Aquí podrás ver toda la información disponible a los termales de la cabaña desde Pereira </a> 👈.
 
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank"> 
-{% include image.html, 
-   file:"publicidad-post/chaqueta-randes.jpg", 
-   caption:"Banner ropa", 
-   width:"480", 
-   height:"200" 
-%}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 <a name="recomendaciones-termales-cabaña" id="recomendaciones-termales-cabaña"></a>

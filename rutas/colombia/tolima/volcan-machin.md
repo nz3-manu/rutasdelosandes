@@ -50,15 +50,15 @@ A continuación te mostraremos un pequeño vídeo describiendo los lugares que v
   "@type": "VideoObject",
   "name": "Video de la ruta al Volcán Machín - Rutas de Los Andes",
   "description": "Pequeño video describiendo los lugares que visitamos en nuestro viaje al Volcán Machín.",
-  "thumbnailUrl": "https://img.youtube.com/vi/-CbhegdpsX8/maxresdefault.jpg",
+  "thumbnailUrl": "https://img.youtube.com/vi/MlK4URYbWjA/maxresdefault.jpg",
   "uploadDate": "2026-03-01T00:00:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=-CbhegdpsX8",
-  "embedUrl": "https://www.youtube.com/embed/-CbhegdpsX8"
+  "contentUrl": "https://www.youtube.com/watch?v=MlK4URYbWjA",
+  "embedUrl": "https://www.youtube.com/embed/MlK4URYbWjA"
 }
 </script>
 
 {% include youtube.html,
-   videoid:"-CbhegdpsX8",
+   videoid:"MlK4URYbWjA",
    width:"480",
    height:"270",
    caption:"Video de la ruta al Volcán Machín"
@@ -80,13 +80,9 @@ __Un cataclismo que cambió el mapa:__ Hace unos 800 o 900 años ocurrió esa ú
 
 __Vida sobre la ceniza:__ Pero la naturaleza siempre encuentra su equilibrio. Hoy en día, la despensa agrícola y la exuberante vegetación de la región existen gracias a esos suelos antiguos, que quedaron cargados de minerales vitales. Es un territorio místico donde la niebla de la cordillera choca con la selva, recordándonos que la vida florece con fuerza sobre los vestigios de un pasado volcánico.
 
-<a href="https://www.randes.co/" target="_blank">
-{% include image.html,
-file:"publicidad-post/sombrero.png",
-caption:"banner-ropa",
-width:"1000",
-height:"300" %}
-</a> 
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
+</a>
 
 ---
 

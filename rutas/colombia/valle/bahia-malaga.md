@@ -44,13 +44,8 @@ El __Parque Nacional Uramba Bahía Málaga__ se caracteriza por su abundante fau
 
 Bahia Málaga está ubicada en el Valle del Cauca, aproximadamente a una hora en bote desde __el puerto de Buenaventura__ y a 3 horas de la ciudad de Cali. Esta bahía está rodeada por una densa selva tropical, lo que hace que este sea un clima cálido con precipitaciones permanentes la mayor parte del año. Este sitio es reconocido por ser el __destino migratorio de las ballenas jorobadas__, que llegan desde el mes de Junio hasta comienzos de Septiembre.
 
-<a id="banner1" href="https://www.instagram.com/randes.store/" target="_blank">
-{% include image.html,
-file:"publicidad-post/chaqueta-randes.jpg",
-caption:"Banner chaqueta",
-width:"480",
-height:"200"
-%}
+<a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
+  {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}
 </a>
 
 Dentro del Parque Nacional Natural Uramba Bahía Málaga se encuentran alrededor de 6 comunidades, cada una de estas comunidades cuenta con un consejo comunitario que trabaja en conjunto con parques naturales para la conservación de este hábitat.
