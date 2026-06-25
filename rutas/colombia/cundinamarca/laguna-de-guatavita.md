@@ -21,7 +21,7 @@ Si planeas visitar la **Laguna de Guatavita**, esta guía es para ti. Te contamo
 * [Opciones de hospedaje](#hospedaje-guatavita)
 * [Recomendaciones finales](#recomendacion-guatavita)
 
-[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/cundinamarca/laguna-de-guatavita/lake-guatavita.html">See this post in English version 🇺🇸</a>]
+[<a target="_blank" href="https://www.hikingintheandes.com/colombia/cundinamarca/laguna-de-guatavita/lake-guatavita.html">See this post in English version 🇺🇸</a>]
 
 <a name="dato-guatavita" id="dato-guatavita"></a>
 

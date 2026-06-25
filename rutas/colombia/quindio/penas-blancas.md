@@ -129,9 +129,9 @@ Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del 
 Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Pereira.
 
 
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/alto-del-nudo.html#recomendaciones-alto-nudo" target="_blank"> Alto del nudo</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/alto-del-nudo.html#recomendaciones-alto-nudo" target="_blank"> Alto del nudo</a>__
+* __<a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
 
 
 Este es el fin de la ruta a Peñas Blancas, __no te olvides de seguirnos en nuestras redes sociales para conocer mas lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

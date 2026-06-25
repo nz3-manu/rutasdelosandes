@@ -24,7 +24,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/risaralda/barbas-bremen-reserve.html"> See this post in english version 🇺🇸</a>]**
 
 <a name="mapa-zonas-pereira" id="mapa-zonas-pereira"></a>
 
@@ -33,7 +33,7 @@ Empecemos con la aventura ⛰.
 
 Zona Centro de Pereira: Esta es donde se encuentra la mayoría de comercio. Si no lo sabes, Pereira es considerada una ciudad comercial, así que podrás encontrar gran variedad de prendas de vestir a muy buen precio 😉. Además, en el centro se encuentran el Parque de Bolívar, Parque el Lago, catedrales y bibliotecas. Pero como todo centro de la ciudad, cuando cierran el comercio en la noche, las calles suelen estar un poco solas.
 
-<a href="https://rutasdelosandes.com/amp/tips/que-visitar-en-pereira.html" target="_blank"> 
+<a href="https://rutasdelosandes.com/tips/que-visitar-en-pereira.html" target="_blank"> 
 {% include image.html, file:"/blog/tips-montana/hospedaje-en-pereira/que-hacer-en-pereira.jpg", caption:"", width:"1600", height:"480" %}
 </a>
 

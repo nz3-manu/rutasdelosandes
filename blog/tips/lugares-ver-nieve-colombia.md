@@ -40,7 +40,7 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/david_gira
 
 
 Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉
-<a target="_blank" style="color:green;" href="https://rutasdelosandes.com/amp/colombia/caldas/nevado-del-ruiz.html">Información Completa Nevado del Ruiz</a>
+<a target="_blank" style="color:green;" href="https://rutasdelosandes.com/colombia/caldas/nevado-del-ruiz.html">Información Completa Nevado del Ruiz</a>
 
 
 
@@ -70,7 +70,7 @@ __Cumbre al Nevado Santa Isabel:__ Esta ruta toma 2 días. En el primer día, se
 <span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487</a> </span>
 
 
-Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html">Información Completa Nevado Santa Isabel</a>
+Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html">Información Completa Nevado Santa Isabel</a>
 
 
 ## #3 NEVADO DEL COCUY
@@ -93,7 +93,7 @@ El sendero tiene una duración aproximada de 8 horas y en él estarán sometidos
 
 <span class="advise"> Foto por: <a href="https://www.instagram.com/piri487/"  target="_blank"> @piri487</a> </span>
 
-Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/amp/colombia/boyaca/nevado-del-cocuy.html">Información Completa Nevado Del Cocuy</a>
+Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/colombia/boyaca/nevado-del-cocuy.html">Información Completa Nevado Del Cocuy</a>
 
 
 ## #4 NEVADO DEL TOLIMA
@@ -115,7 +115,7 @@ Para ver nieve en este nevado tendrán que caminar por cerca de 3 días y de ten
 <span class="advise"> Foto por: <a href="https://www.instagram.com/jorge_leyton79/"  target="_blank"> @jorge_leyton79 </a> </span>
 
 
-Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/amp/colombia/quindio/nevado-del-tolima.html">Información Completa Nevado Del Tolima</a>
+Si deseas más información sobre esta ruta, puedes ver nuestro siguiente post 👉 <a target="_blank" style="color:green;" href="https://rutasdelosandes.com/colombia/quindio/nevado-del-tolima.html">Información Completa Nevado Del Tolima</a>
 
 
 

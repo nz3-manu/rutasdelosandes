@@ -29,7 +29,7 @@ Debes saber que el bosque de pandora solo se llama a este Bosque que queda dentr
 
 Este es un lugar poco conocido de Colombia, así que debes de aprovechar antes de que sea más turístico para visitarlo 😅.
 
-__[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/santander/pandora-forest.html"> See this post in english version 🇺🇸</a>]__
+__[<a target="_blank" href="https://www.hikingintheandes.com/colombia/santander/pandora-forest.html"> See this post in english version 🇺🇸</a>]__
 <a name="dato-laguna" id="dato-laguna"></a>
 
 

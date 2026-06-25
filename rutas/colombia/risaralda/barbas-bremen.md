@@ -37,7 +37,7 @@ En esta guía te compartiremos toda la información detallada sobre cómo llegar
 
 Empecemos con la aventura ⛰️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/barbas-bremen-reserve.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/barbas-bremen-reserve.html">See this post in English version 🇺🇸</a>]**
 
 <a id="video-barbas-bremen"></a>
 

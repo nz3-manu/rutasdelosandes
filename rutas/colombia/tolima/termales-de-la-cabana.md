@@ -31,7 +31,7 @@ Entre los atractivos principales de este lugar están, sus aguas termales las cu
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://www.hikingintheandes.com/amp/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://www.hikingintheandes.com/colombia/tolima/la-caba%C3%B1a-hot-prings.html">See this post in English version 🇺🇸</a>]**
 
 <a id="banner2" href="https://www.instagram.com/randes.store/" target="_blank">
   {% image "images/publicidad-post/chaqueta-randes.png" "Chaqueta rompevientos Randes" %}

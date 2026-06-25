@@ -36,7 +36,7 @@ __EN ESTE POST ENCONTRARÁS LA SIGUIENTE INFORMACIÓN:__
 
 Empecemos con la aventura ⛰.
 
-__[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
+__[<a target="_blank" href="https://hikingintheandes.travel/colombia/mountaineering/ruiz-volcano.html">See this post in English version 🇺🇸</a>]__
 
 <a name="video-ruiz" id="video-ruiz"></a>
 
@@ -280,8 +280,8 @@ Para que tu aventura sea todo un éxito y evites contratiempos, ten en cuenta es
 
 Aquí te mostraremos algunas rutas de __senderismo en Manizales__, y así disfrutar de lugares naturales como: cascadas, miradores o para hacer avistamiento de aves cerca de Manizales.
 
-* __<a href="https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Nevado Santa Isabel</a>__
+* __<a href="https://rutasdelosandes.com/colombia/caldas/norcasia.html" target="_blank"> Norcasia </a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html" target="_blank"> Nevado Santa Isabel</a>__
 
 
 Este es el fin de la ruta al Nevado del Ruiz, __no te olvides de seguirnos en nuestras redes sociales para conocer más lugares como este__ 👉 <a target="_blank" href="https://www.instagram.com/rutasdelosandes">Instagram</a> y <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">Youtube</a>.

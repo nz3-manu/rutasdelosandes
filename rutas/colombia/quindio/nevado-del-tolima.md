@@ -30,7 +30,7 @@ En este post te contaremos cómo fue nuestra experiencia en el **Nevado del Toli
 - <a href="#hospedaje-tolima">Hospedaje cerca al Nevado del Tolima</a>
 <a href="#consejos-tolima">Recomendaciones y consejos de seguridad</a>
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/mountaineering/nevado-del-tolima.html">See this post in English version 🇺🇸</a>]**
 
 ---
 

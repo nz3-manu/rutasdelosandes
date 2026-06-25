@@ -149,9 +149,9 @@ Aquí te mostraremos algunas rutas de __senderismo en Pereira__, y así disfruta
 
 
 
-* __<a href="https://rutasdelosandes.com/amp/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/quindio/penas-blancas.html" target="_blank"> Peñas Blancas </a>__
-* __<a href="https://rutasdelosandes.com/amp/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
+* __<a href="https://rutasdelosandes.com/colombia/risaralda/estacion-pereira.html" target="_blank"> Estación Pereira</a>__
+* __<a href="https://rutasdelosandes.com/colombia/quindio/penas-blancas.html" target="_blank"> Peñas Blancas </a>__
+* __<a href="https://rutasdelosandes.com/colombia/quindio/cerro-morrogacho.html" target="_blank"> Morro gacho</a>__
 
 
 

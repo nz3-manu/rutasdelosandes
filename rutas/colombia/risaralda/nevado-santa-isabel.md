@@ -40,7 +40,7 @@ El Nevado Santa Isabel es la cumbre de nieve más accesible de Colombia. En esta
 Empecemos con la aventura ⛰.
 
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/mountaineering/santa-isabel-summit-climb.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/mountaineering/santa-isabel-summit-climb.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="dato-santa" id="dato-santa"></a>

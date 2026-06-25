@@ -34,7 +34,7 @@ Así podrás planear mucho mejor tu viaje.
 
 Empecemos con la aventura ⛰.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/prado-dam.html"> See this post in english version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/prado-dam.html"> See this post in english version 🇺🇸</a>]**
 
 
 <a name="video-prado-tolima" id="video-prado-tolima"></a>

@@ -35,7 +35,7 @@ Por el contrario, si prefieres delegar la organización y viajar con el respaldo
 
 Empecemos con la aventura 🏜️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/tatacoa-desert.html">See this post in English version 🇺🇸</a>]**
 
 ---
 
@@ -267,10 +267,10 @@ Los planes guiados oficiales inician operaciones recogiendo a los viajeros en el
 
 Si te apasiona recorrer los contrastes naturales de nuestro territorio, te invitamos a explorar nuestras crónicas de ruta detalladas:
 
-*   🏔️ **[Parque Nacional Natural El Cocuy](https://rutasdelosandes.com/amp/colombia/boyaca/nevado-del-cocuy.html):** Senderismo de alta exigencia sobre glaciares y lagunas de páramo.
-*   🌴 **[Trek a Ciudad Perdida](https://rutasdelosandes.com/amp/colombia/costa/ciudad-perdida.html):** Arqueología y selva tropical profunda en la Sierra Nevada de Santa Marta.
-*   🌊 **[Parque Nacional Bahía Málaga](https://rutasdelosandes.com/amp/colombia/valle/bahia-malaga.html):** Selva del Pacífico, cascadas de agua dulce y avistamiento de ballenas.
-*   💧 **[Aventura en Norcasia, Caldas](https://rutasdelosandes.com/amp/colombia/caldas/norcasia.html):** El paraíso hídrico de los cañones fluviales y los embalses color esmeralda.
+*   🏔️ **[Parque Nacional Natural El Cocuy](https://rutasdelosandes.com/colombia/boyaca/nevado-del-cocuy.html):** Senderismo de alta exigencia sobre glaciares y lagunas de páramo.
+*   🌴 **[Trek a Ciudad Perdida](https://rutasdelosandes.com/colombia/costa/ciudad-perdida.html):** Arqueología y selva tropical profunda en la Sierra Nevada de Santa Marta.
+*   🌊 **[Parque Nacional Bahía Málaga](https://rutasdelosandes.com/colombia/valle/bahia-malaga.html):** Selva del Pacífico, cascadas de agua dulce y avistamiento de ballenas.
+*   💧 **[Aventura en Norcasia, Caldas](https://rutasdelosandes.com/colombia/caldas/norcasia.html):** El paraíso hídrico de los cañones fluviales y los embalses color esmeralda.
 
 ¡Disfruta responsablemente del desierto y ayúdanos a conservar sus frágiles suelos arcillosos!
 

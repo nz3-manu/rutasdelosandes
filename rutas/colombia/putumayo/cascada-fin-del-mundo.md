@@ -36,7 +36,7 @@ Además, si eres de los que prefiere llevar toda la bitácora armada y coordinad
 
 Una vez dicho esto, ¡empecemos con la aventura 💦!
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/fin-del-mundo-waterfall.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/fin-del-mundo-waterfall.html">See this post in English version 🇺🇸</a>]**
 
 ---
 

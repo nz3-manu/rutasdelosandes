@@ -20,7 +20,7 @@ __Información que encontrarás en este post:__
 * <a href="#Coffe-tour-pereira" > Coffe tour cerca de Pereira </a>
 
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/travel-guides/what-to-do-in-pereira.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/travel-guides/what-to-do-in-pereira.html">See this post in English version 🇺🇸</a>]**
 
 
 Por último, si eres extranjero y quisieras contar con un guía que te acompañe a visitar esta hermosa ciudad, puedes dar clic en el siguiente enlace.
@@ -179,9 +179,9 @@ Es ideal para quienes disfrutan de caminar, ya que no es un sendero muy exigente
 
 ### OTRAS RUTAS PERO DE ALTA MONTAÑA
 
-- <a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> LAGUNA DEL OTUN:</a> Estas ruta se recomienta para personas que tengan experiencia haciendo senderismo, no hay transporte publico, así que es mejor si van 4 personas como minimo para que salga mas economico.
+- <a href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> LAGUNA DEL OTUN:</a> Estas ruta se recomienta para personas que tengan experiencia haciendo senderismo, no hay transporte publico, así que es mejor si van 4 personas como minimo para que salga mas economico.
 
-- <a href="https://rutasdelosandes.com/amp/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> NEVADO SANTA ISABEL:</a> Esta ruta es solo recomendado para persona que tengan experiencia, es de 2 días y se debe de hacer la reserva previa.
+- <a href="https://rutasdelosandes.com/colombia/risaralda/nevado-santa-isabel.html" target="_blank"  target="_blank"> NEVADO SANTA ISABEL:</a> Esta ruta es solo recomendado para persona que tengan experiencia, es de 2 días y se debe de hacer la reserva previa.
 
 
 

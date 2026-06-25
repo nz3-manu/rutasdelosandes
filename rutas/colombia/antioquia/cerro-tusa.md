@@ -32,7 +32,7 @@ En este post te contaremos detalladamente cómo fue nuestra experiencia al conoc
 
 Empecemos con la aventura ⛰️.
 
-**[<a target="_blank" href="https://hikingintheandes.travel/amp/colombia/hiking/cerro-tusa.html">See this post in English version 🇺🇸</a>]**
+**[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/cerro-tusa.html">See this post in English version 🇺🇸</a>]**
 
 <a id="video-cerro-tusa"></a>
 
