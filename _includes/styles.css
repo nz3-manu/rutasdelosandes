@@ -162,10 +162,150 @@ figcaption {
   border-left-color: #808080;
 }
 
+/* ---------- Article grid (home / blog) ---------- */
+.articles {
+  max-width: calc(768px - 20px);
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 0 2px;
+}
+
+.article-link {
+  flex: 0 0 calc(50% - 3px);
+  border: none;
+  display: block;
+}
+
+.article {
+  background-size: cover;
+  margin: 0;
+  margin-bottom: 5px;
+  height: 0;
+  background-repeat: no-repeat;
+  padding-bottom: 52.356%;
+  position: relative;
+  overflow: hidden;
+}
+
+.article > img,
+.article > picture,
+.article > picture > img {
+  height: 100%;
+  inset: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.scrim-top {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0));
+  width: 100%;
+  height: 60%;
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+}
+
+.scrim-bottom {
+  width: 100%;
+  height: 40%;
+  position: absolute;
+  bottom: 0;
+  z-index: 1000;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.33));
+}
+
+.article-title {
+  font-weight: 500;
+  font-size: 18px;
+  color: #fff;
+  letter-spacing: normal;
+  line-height: 1.2;
+  position: absolute;
+  top: 12%;
+  left: 12%;
+  right: 12%;
+  z-index: 1000;
+  margin: 0;
+}
+
+.article-subtitle {
+  font-weight: normal;
+  color: #fff;
+  font-size: 8px;
+  letter-spacing: 1px;
+  position: absolute;
+  bottom: 25%;
+  left: 12%;
+  z-index: 1000;
+  margin: 0;
+}
+
+@media (min-width: 400px) {
+  .article-title { font-size: 20px; }
+}
+
+@media (min-width: 768px) {
+  .article-title { font-size: 22px; }
+}
+
+/* ---------- Hero / Featured image ---------- */
+.article_featured-image {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: calc(768px - 20px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.parallax-image-window {
+  overflow: hidden;
+}
+
+.parallax-image-window img {
+  display: block;
+  height: auto;
+  object-fit: cover;
+  width: 100%;
+  margin-bottom: -10%;
+}
+
+.post-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10000;
+  margin: 8px 0;
+  padding: 0 5px 2px 15px;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -1px;
+  line-height: 1;
+  color: #fff;
+}
+
+@media (min-width: 400px) {
+  .post-title {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .post-title {
+    font-size: 42px;
+    margin: 30px 0;
+  }
+}
 /* ---------- Post content prose ---------- */
 .post-content {
   margin-bottom: 30px;
-  font-size: 15px;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
 .post-content a {
@@ -174,11 +314,59 @@ figcaption {
   font-weight: bold;
 }
 
+/* Headings */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+}
+
 .post-content h1 { font-size: 22px; }
 .post-content h2 { font-size: 20px; }
 .post-content h3 { font-size: 18px; }
 .post-content h4 { font-size: 16px; }
 
+/* Paragraphs */
+.post-content p {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+/* Lists — sin bullets, sin indentación extra (como el original AMP) */
+.post-content ul,
+.post-content ol {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5em 0 1em;
+}
+
+.post-content li {
+  margin-bottom: 0.25em;
+}
+
+@media (min-width: 400px) {
+  .post-content { font-size: 16px; }
+  .post-content h1 { font-size: 28px; }
+  .post-content h2 { font-size: 25px; }
+  .post-content h3 { font-size: 20px; }
+  .post-content h4 { font-size: 17px; }
+}
+
+@media (min-width: 768px) {
+  .post-content { font-size: 17px; }
+  .post-content h1 { font-size: 31px; }
+  .post-content h2 { font-size: 28px; }
+  .post-content h3 { font-size: 24px; }
+  .post-content h4 { font-size: 18px; }
+}
+
+/* ---------- Embedded media ---------- */
 .post-content figure {
   margin: 24px 0;
 }
@@ -196,22 +384,6 @@ figcaption {
 .post-content figure > img,
 .post-content video {
   margin: 0 -10px;
-}
-
-@media (min-width: 400px) {
-  .post-content { font-size: 16px; }
-  .post-content h1 { font-size: 28px; }
-  .post-content h2 { font-size: 25px; }
-  .post-content h3 { font-size: 20px; }
-  .post-content h4 { font-size: 17px; }
-}
-
-@media (min-width: 768px) {
-  .post-content { font-size: 17px; }
-  .post-content h1 { font-size: 31px; }
-  .post-content h2 { font-size: 28px; }
-  .post-content h3 { font-size: 24px; }
-  .post-content h4 { font-size: 18px; }
 }
 
 /* ---------- Embedded media ---------- */

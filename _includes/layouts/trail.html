@@ -27,10 +27,9 @@ layout: default
 </script>
 
 <!-- Hero image -->
-<div class="relative overflow-hidden bg-black">
-  <div class="overflow-hidden">
+<div class="article_featured-image">
+  <div class="parallax-image-window">
     <img
-      class="block h-auto w-full object-cover"
       width="1600"
       height="900"
       src="{{ images_url }}/featured.jpg"
@@ -39,10 +38,8 @@ layout: default
       decoding="async"
     >
   </div>
-  <div class="pointer-events-none absolute bottom-0 left-0 h-2/5 w-full bg-gradient-to-b from-transparent to-black/33 z-10"></div>
-  <h1 class="absolute bottom-0 left-0 z-20 m-0 px-4 pb-2 text-2xl font-medium leading-tight tracking-tight text-white md:text-[42px]">
-    {{ title | escape }}
-  </h1>
+  <div class="post-title">{{ title | escape }}</div>
+  <div class="scrim-bottom"></div>
 </div>
 
 <!-- Article body -->
@@ -73,17 +70,17 @@ layout: default
         <div class="flex items-center gap-1 mt-1">
           {% if authorInfo.facebook %}
           <a href="{{ authorInfo.facebook }}" target="_blank" rel="noopener" aria-label="Facebook">
-            <img src="/images/facebook-logo-button.png" width="34" height="34" alt="Facebook" loading="lazy" decoding="async">
+            <img src="/images/facebook-logo-button.png" width="28" height="28" alt="Facebook" loading="lazy" decoding="async">
           </a>
           {% endif %}
           {% if authorInfo.instagram %}
           <a href="{{ authorInfo.instagram }}" target="_blank" rel="noopener" aria-label="Instagram">
-            <img src="/images/instagram-logo.png" width="34" height="34" alt="Instagram" loading="lazy" decoding="async">
+            <img src="/images/instagram-logo.png" width="28" height="28" alt="Instagram" loading="lazy" decoding="async">
           </a>
           {% endif %}
           {% if authorInfo.twitter %}
           <a href="https://twitter.com/{{ authorInfo.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">
-            <img src="/images/twitter-logo-button.png" width="34" height="34" alt="Twitter" loading="lazy" decoding="async">
+            <img src="/images/twitter-logo-button.png" width="28" height="28" alt="Twitter" loading="lazy" decoding="async">
           </a>
           {% endif %}
         </div>
@@ -131,29 +128,22 @@ layout: default
 </div>
 
 <!-- Related trails -->
-<section class="mx-auto max-w-[1170px] px-[10px] py-6">
-  <h2 class="px-[10px] text-xl font-bold">Quizás también te interese alguna de estas rutas 🤔</h2>
-  <ul class="m-0 list-none p-0 md:flex md:flex-wrap">
+<section class="py-6">
+  <h2 class="px-[10px] text-xl font-bold" style="max-width: calc(768px - 20px); margin: 0 auto 16px;">Quizás también te interese alguna de estas rutas 🤔</h2>
+  <ul class="articles">
     {%- for post in collections.rutas -%}
     {% if post.data.trending and post.url != page.url %}
-    <li class="md:basis-1/2 border-2 border-white">
+    <li class="article-link">
       <a class="block" href="{{ site.url }}{{ post.url | remove: '/amp' }}">
-        <div class="relative m-0 mb-[5px] h-0 overflow-hidden bg-cover bg-no-repeat pb-[52.356%]">
-          <div class="pointer-events-none absolute top-0 left-0 z-10 h-[60%] w-full bg-gradient-to-b from-black/38 to-transparent"></div>
-          <div class="pointer-events-none absolute bottom-0 left-0 z-10 h-[40%] w-full bg-gradient-to-b from-transparent to-black/33"></div>
-          <h3 class="absolute top-[12%] left-[12%] right-[12%] z-20 m-0 text-[22px] font-bold text-white md:text-[28px]">
-            {{ post.data.title }}
-          </h3>
-          <p class="absolute bottom-[25%] left-[12%] z-20 m-0 text-[8px] font-normal tracking-[1px] text-white">
-            Por {{ authors[post.data.author].name }}
-          </p>
+        <div class="article">
+          <div class="scrim-top"></div>
+          <div class="scrim-bottom"></div>
+          <h3 class="article-title">{{ post.data.title }}</h3>
+          <h4 class="article-subtitle">Por {{ authors[post.data.author].name }}, Jun 28</h4>
           <img
-            class="absolute inset-0 h-full w-full object-cover"
             width="581"
             height="304"
-            src="{{ post.data.images_url }}/featured-581.jpg"
-            srcset="{{ post.data.images_url }}/featured-300.jpg 300w, {{ post.data.images_url }}/featured-581.jpg 581w"
-            sizes="(max-width: 581px) 300px, 581px"
+            src="{{ post.data.images_url }}/featured.jpg"
             alt="{{ post.data.title | escape }}"
             loading="lazy"
             decoding="async"
@@ -163,5 +153,7 @@ layout: default
     </li>
     {% endif %}
     {%- endfor -%}
+  </ul>
+</section>
   </ul>
 </section>

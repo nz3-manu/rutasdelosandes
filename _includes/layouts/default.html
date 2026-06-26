@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="bg-background text-foreground antialiased">
+  <body class="bg-white text-[#4a4a4a]">
 
     {% if jekyll.environment != "development" %}
     {% if site.google_analytics %}
@@ -13,24 +13,26 @@
 
     {% include header.html %}
 
-    <main class="mx-auto max-w-[calc(768px-20px)] px-[10px] pt-[57px] md:max-w-none md:px-4" aria-label="Content">
+    <!-- pt-[57px] compensa el header fixed. El main NO tiene max-width ni padding —
+         cada sección interior gestiona su propio ancho. -->
+    <main class="pt-[57px]" aria-label="Content">
 
       <!-- Category nav -->
-      <nav class="border-b border-border bg-white text-center font-sans text-xs uppercase tracking-widest text-[#999]" aria-label="Categorías">
-        <ul class="m-0 mx-auto flex list-none justify-center gap-5 p-5">
-          <li>
+      <nav class="text-center uppercase text-[#999]" aria-label="Categorías">
+        <ul class="m-0 mx-auto flex list-none justify-center gap-0 p-5">
+          <li class="px-5">
             <a class="text-[#999] no-underline hover:text-black hover:underline" href="/">
-              <span>Rutas</span>
+              <span class="pb-[2px]">RUTAS</span>
             </a>
           </li>
-          <li>
+          <li class="px-5">
             <a class="text-[#999] no-underline hover:text-black hover:underline" href="/blog">
-              <span>Blog</span>
+              <span class="pb-[2px]">BLOG</span>
             </a>
           </li>
-          <li>
-            <a class="text-[#999] no-underline hover:text-black hover:underline" target="_blank" href="https://randes-store.myshopify.com/">
-              <span>Tienda</span>
+          <li class="px-5">
+            <a class="font-bold text-black no-underline hover:underline" target="_blank" href="https://randes-store.myshopify.com/">
+              <span class="pb-[2px]">TIENDA</span>
             </a>
           </li>
         </ul>

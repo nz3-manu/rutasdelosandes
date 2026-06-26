@@ -62,15 +62,16 @@
 
 <!-- Top header -->
 <header class="fixed top-0 left-0 z-[20000] w-full border-b border-[#424242] bg-white" role="banner">
-  <div class="mx-auto flex max-w-[calc(768px-20px)] items-center justify-between px-[10px] h-[57px] md:max-w-none md:px-4">
-    <a class="px-[5px]" href="{{ '/' | relative_url }}">
+  <div class="relative flex h-[57px] items-center" style="max-width: calc(768px - 20px); margin: 0 auto; padding: 0 10px;">
+    <!-- Logo izquierda, alineado con el grid -->
+    <a href="{{ '/' | relative_url }}">
       <img src="{{ site.logo | escape }}" height="50" width="50" alt="Rutas de los Andes" decoding="async">
     </a>
-
+    <!-- Hamburger derecha -->
     <button
       type="button"
       data-sidebar-open
-      class="rda-button rda-button--ghost rda-button--icon"
+      class="rda-button rda-button--ghost rda-button--icon ml-auto"
       aria-controls="sidebar"
       aria-expanded="false"
       aria-label="Abrir menu"

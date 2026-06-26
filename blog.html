@@ -6,23 +6,20 @@ excerpt: Rutas de los andes es un pagina con contenido y productos pensado para 
 
 <div class="articles">
 {% for ruta in collections.blog %}
-              <a class="article-link" href="{{ ruta.url }} ">
+              <a class="article-link" href="{{ ruta.url }}">
                   <div class="article">
-                    <div class="scrim-top">
-                    </div>
-                    <div class="scrim-bottom">
-                    </div>
+                    <div class="scrim-top"></div>
+                    <div class="scrim-bottom"></div>
                     <h3 class="article-title">{{ ruta.data.title }}</h3>
-                    <h4 class="article-subtitle">Por {{ site.data.authors[ruta.author].name}}, Jun 28</h4>
+                    <h4 class="article-subtitle">Por , Jun 28</h4>
                     <img
-                    width="581"
-                    height="304"
-                    src="{{ruta.data.images_url}}/featured.jpg"
-                    alt="{{ ruta.data.title | escape }}"
-                    loading="lazy"
-                    decoding="async">
+                      width="581"
+                      height="304"
+                      src="{{ ruta.data.images_url }}/featured.jpg"
+                      alt="{{ ruta.data.title | escape }}"
+                      loading="lazy"
+                      decoding="async">
                   </div>
               </a>
-
 {% endfor %}
 </div>
