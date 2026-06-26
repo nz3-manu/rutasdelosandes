@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Represa De Prado Tolima
 categories: colombia

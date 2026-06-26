@@ -1,0 +1,170 @@
+<!-- Modal: Recomiéndanos una aventura -->
+<div
+  id="adventure-modal"
+  class="adventure-modal hidden"
+  role="dialog"
+  aria-modal="true"
+  aria-label="Recomiéndanos una aventura"
+  aria-hidden="true"
+>
+  <div class="adventure-modal__panel">
+    <button id="adventure-modal-close" class="adventure-modal__close" type="button" aria-label="Cerrar">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <line x1="2" y1="2" x2="16" y2="16"/><line x1="16" y1="2" x2="2" y2="16"/>
+      </svg>
+    </button>
+
+    <h2 class="adventure-modal__title">¿Quieres recomendarnos una aventura?</h2>
+    <p class="adventure-modal__subtitle">Cuéntanos sobre ese lugar turístico que conoces y que deberíamos visitar.</p>
+
+    <form
+      id="adventure-form"
+      action="https://formspree.io/f/YOUR_FORM_ID"
+      method="POST"
+      enctype="multipart/form-data"
+      class="adventure-form"
+    >
+      <div class="adventure-form__field">
+        <label for="adv-name">Tu nombre</label>
+        <input id="adv-name" name="nombre" type="text" placeholder="Ej: Juan Pérez" required>
+      </div>
+
+      <div class="adventure-form__field">
+        <label for="adv-whatsapp">WhatsApp</label>
+        <input id="adv-whatsapp" name="whatsapp" type="tel" placeholder="+57 300 123 4567" required>
+      </div>
+
+      <div class="adventure-form__field">
+        <label for="adv-lugar">¿Qué lugar nos recomiendas?</label>
+        <textarea id="adv-lugar" name="lugar" rows="3" placeholder="Descríbenos el lugar, dónde queda y por qué deberíamos ir..." required></textarea>
+      </div>
+
+      <div class="adventure-form__field">
+        <label for="adv-fotos">Fotos del lugar <span style="color:#999;font-weight:400;">(opcional, máx. 4 fotos, 5MB c/u)</span></label>
+        <input id="adv-fotos" name="fotos" type="file" accept="image/*" multiple>
+        <p id="adv-fotos-error" style="display:none;color:#c70039;font-size:12px;margin:4px 0 0;"></p>
+      </div>
+
+      <button type="submit" class="adventure-form__submit">
+        Enviar recomendación
+      </button>
+
+      <!-- Mensaje de éxito -->
+      <p id="adventure-success" class="adventure-form__success" style="display:none;">
+        ¡Gracias! Recibimos tu recomendación. 🙌
+      </p>
+    </form>
+  </div>
+</div>
+
+<script>
+(function() {
+  var btn    = document.getElementById('hero-cta');
+  var modal  = document.getElementById('adventure-modal');
+  var close  = document.getElementById('adventure-modal-close');
+  var form   = document.getElementById('adventure-form');
+  var success = document.getElementById('adventure-success');
+
+  if (!btn || !modal) return;
+
+  function openModal()  {
+    modal.classList.remove('hidden');
+    modal.setAttribute('aria-hidden', 'false');
+  }
+  function closeModal() {
+    modal.classList.add('hidden');
+    modal.setAttribute('aria-hidden', 'true');
+  }
+
+  btn.addEventListener('click', function(e) {
+    e.preventDefault();
+    openModal();
+  });
+
+  if (close) close.addEventListener('click', closeModal);
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) closeModal();
+  });
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') closeModal();
+  });
+
+  // Submit via fetch para no abandonar la página
+  if (form) {
+    var fotosInput = document.getElementById('adv-fotos');
+    var fotosError = document.getElementById('adv-fotos-error');
+    var MAX_FILES = 4;
+    var MAX_SIZE_MB = 5;
+
+    // Validación en tiempo real al seleccionar archivos
+    if (fotosInput) {
+      fotosInput.addEventListener('change', function() {
+        fotosError.style.display = 'none';
+        fotosError.textContent = '';
+
+        if (fotosInput.files.length > MAX_FILES) {
+          fotosError.textContent = 'Máximo ' + MAX_FILES + ' fotos. Seleccionaste ' + fotosInput.files.length + '.';
+          fotosError.style.display = 'block';
+          fotosInput.value = '';
+          return;
+        }
+
+        for (var i = 0; i < fotosInput.files.length; i++) {
+          if (fotosInput.files[i].size > MAX_SIZE_MB * 1024 * 1024) {
+            fotosError.textContent = '"' + fotosInput.files[i].name + '" supera los ' + MAX_SIZE_MB + 'MB. Reduce el tamaño.';
+            fotosError.style.display = 'block';
+            fotosInput.value = '';
+            return;
+          }
+        }
+      });
+    }
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      // Validar fotos antes de enviar
+      if (fotosInput && fotosInput.files.length > MAX_FILES) {
+        fotosError.textContent = 'Máximo ' + MAX_FILES + ' fotos.';
+        fotosError.style.display = 'block';
+        return;
+      }
+      if (fotosInput) {
+        for (var i = 0; i < fotosInput.files.length; i++) {
+          if (fotosInput.files[i].size > MAX_SIZE_MB * 1024 * 1024) {
+            fotosError.textContent = '"' + fotosInput.files[i].name + '" supera los ' + MAX_SIZE_MB + 'MB.';
+            fotosError.style.display = 'block';
+            return;
+          }
+        }
+      }
+
+      var data = new FormData(form);
+      var submitBtn = form.querySelector('[type="submit"]');
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Enviando...';
+
+      fetch(form.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      })
+      .then(function(r) {
+        if (r.ok) {
+          form.reset();
+          form.style.display = 'none';
+          success.style.display = 'block';
+          setTimeout(closeModal, 2500);
+        } else {
+          submitBtn.textContent = 'Error. Intenta de nuevo.';
+          submitBtn.disabled = false;
+        }
+      })
+      .catch(function() {
+        submitBtn.textContent = 'Error de red. Intenta de nuevo.';
+        submitBtn.disabled = false;
+      });
+    });
+  }
+})();
+</script>

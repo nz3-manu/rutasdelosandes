@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Capurgana
 categories: colombia

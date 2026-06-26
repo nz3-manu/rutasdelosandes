@@ -1,17 +1,17 @@
-<div class="alert alert-info" style="display: none">
-  <div class="alert-title">¿Cómo seguir la ruta 🗺🚶? </div>  
-  Si quieres seguir la ruta en tu celular, necesitas descargar la app viewranger, la cual está disponible en
-  <a id="ios" target="_blank" href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8">IOS</a> y 
-  <a id="android"  target="_blank" href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es"> Android</a>.
-  Una vez instalada solo necesitas descarga esta ruta dando clic
-  <i><a id="viewranger" target="_blank" href="http://my.viewranger.com/route/details/{{viewranger}}">
-     aquí
-  </a></i>
-  <br>
-  Si tienes un dispositivo GPS 📟 
-  pueden descargar la ruta en formato 
-  <i><a id="gpx" target="_blank" href="{{site.url}}{{images_url}}/gpx/ruta.gpx">GPX</a></i>
+{% if viewranger %}
+<div class="alert-info" style="margin: 16px auto; max-width: calc(768px - 20px); padding: 12px 16px; border-radius: 6px;">
+  <p class="alert-title" style="margin: 0 0 8px; font-size: 17px; font-weight: 700;">¿Cómo seguir la ruta 🗺🚶?</p>
+  <p style="margin: 0 0 8px;">
+    Si quieres seguir la ruta en tu celular, descarga la app ViewRanger disponible en
+    <a href="https://itunes.apple.com/us/app/viewranger-cycling-hiking-trails-topo-maps/id404581674?mt=8" target="_blank" rel="noopener">iOS</a>
+    y
+    <a href="https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=es" target="_blank" rel="noopener">Android</a>.
+    Una vez instalada, descarga esta ruta
+    <a href="http://my.viewranger.com/route/details/{{ viewranger }}" target="_blank" rel="noopener"><em>aquí</em></a>.
+  </p>
+  <p style="margin: 0;">
+    Si tienes un GPS 📟 descarga la ruta en formato
+    <a href="{{ site.url }}{{ images_url }}/gpx/ruta.gpx" target="_blank" rel="noopener"><em>GPX</em></a>.
+  </p>
 </div>
-
-
-
+{% endif %}

@@ -1,4 +1,5 @@
 ---
+tags: [cumbres]
 layout: trail
 title: Cerro Batero
 categories: colombia

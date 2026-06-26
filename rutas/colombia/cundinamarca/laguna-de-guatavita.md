@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: "Laguna de Guatavita: Guía para conocer el origen de El Dorado"
 categories: colombia

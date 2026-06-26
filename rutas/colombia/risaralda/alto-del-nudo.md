@@ -1,4 +1,5 @@
 ---
+tags: [cumbres]
 layout: trail
 title: Alto del Nudo
 categories: colombia

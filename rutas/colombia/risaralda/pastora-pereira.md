@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Cascada en la Pastora
 categories: colombia

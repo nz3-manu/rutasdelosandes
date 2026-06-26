@@ -1,4 +1,5 @@
 ---
+tags: [cumbres]
 layout: trail
 title:  Cerros de Mavicure | Guía completa
 categories: colombia

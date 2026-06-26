@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: "Laguna del Otún | Guía completa"
 categories: colombia

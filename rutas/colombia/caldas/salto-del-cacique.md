@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 draft: true
 layout: trail
 title:  Cascada el Salto del Cacique en palestin caldas

@@ -1,4 +1,5 @@
 ---
+tags: [cumbres]
 layout: trail
 title: Volcán Machín
 categories: colombia

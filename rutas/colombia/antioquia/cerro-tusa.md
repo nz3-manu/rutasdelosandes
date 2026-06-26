@@ -1,4 +1,5 @@
 ---
+tags: [cumbres]
 layout: trail
 title: "Cerro Tusa | Guía completa"
 categories: colombia

@@ -1,4 +1,5 @@
 ---
+tags: [paramos]
 layout: trail
 title: Peñas Blancas
 categories: colombia

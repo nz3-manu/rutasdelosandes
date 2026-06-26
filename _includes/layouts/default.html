@@ -5,34 +5,30 @@
 
   <body class="bg-white text-[#4a4a4a]">
 
-    {% if jekyll.environment != "development" %}
     {% if site.google_analytics %}
     {% include google-analytics.html %}
-    {% endif %}
     {% endif %}
 
     {% include header.html %}
 
-    <!-- pt-[57px] compensa el header fixed. El main NO tiene max-width ni padding —
-         cada sección interior gestiona su propio ancho. -->
     <main class="pt-[57px]" aria-label="Content">
 
       <!-- Category nav -->
       <nav class="text-center uppercase text-[#999]" aria-label="Categorías">
         <ul class="m-0 mx-auto flex list-none justify-center gap-0 p-5">
           <li class="px-5">
-            <a class="text-[#999] no-underline hover:text-black hover:underline" href="/">
-              <span class="pb-[2px]">RUTAS</span>
+            <a class="{% if page.url == '/' %}text-black font-bold border-b-2 border-black pb-[2px]{% else %}text-[#999] hover:text-black hover:underline{% endif %} no-underline" href="/">
+              <span>HOME</span>
             </a>
           </li>
           <li class="px-5">
-            <a class="text-[#999] no-underline hover:text-black hover:underline" href="/blog">
-              <span class="pb-[2px]">BLOG</span>
+            <a class="{% if page.url == '/blog/' or page.url contains '/blog' %}text-black font-bold border-b-2 border-black pb-[2px]{% else %}text-[#999] hover:text-black hover:underline{% endif %} no-underline" href="/blog">
+              <span>BLOG</span>
             </a>
           </li>
           <li class="px-5">
             <a class="font-bold text-black no-underline hover:underline" target="_blank" href="https://randes-store.myshopify.com/">
-              <span class="pb-[2px]">TIENDA</span>
+              <span>TIENDA</span>
             </a>
           </li>
         </ul>
@@ -43,10 +39,10 @@
 
     <script>
       if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
+        window.addEventListener('load', function () {
           navigator.serviceWorker.register('/service-worker.js')
-            .then(reg => console.log('Service Worker registrado con éxito', reg))
-            .catch(err => console.log('Error al registrar Service Worker', err));
+            .then(function(reg) { console.log('SW registrado', reg); })
+            .catch(function(err) { console.log('SW error', err); });
         });
       }
     </script>

@@ -1,4 +1,5 @@
 ---
+tags: [paramos]
 draft: true
 layout: trail
 title: Reserva Natural La Patasola

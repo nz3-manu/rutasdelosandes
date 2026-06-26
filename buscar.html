@@ -1,0 +1,38 @@
+---
+layout: default
+title: Buscar rutas — Rutas de los Andes
+excerpt: Encuentra rutas de senderismo y aventura en Colombia.
+permalink: /buscar/
+---
+
+<!-- Buscador + autocompletado -->
+<div style="max-width: calc(768px - 20px); margin: 24px auto 0; padding: 0 10px; position: relative;">
+  <form id="results-search-form" role="search" style="display:flex;align-items:center;border:1px solid #e4e4e7;border-radius:8px;padding:0 12px;height:48px;background:#fff;">
+    <input
+      id="results-search-input"
+      type="search"
+      placeholder="¿Qué lugar quieres descubrir?"
+      autocomplete="off"
+      style="flex:1;border:none;outline:none;font-size:15px;background:transparent;color:#111;"
+    >
+    <button type="submit" style="background:none;border:none;cursor:pointer;padding:4px 0 0;color:#555;" aria-label="Buscar">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
+      </svg>
+    </button>
+  </form>
+  <ul id="autocomplete-list" style="list-style:none;margin:0;padding:0;border:1px solid #e4e4e7;border-top:none;border-radius:0 0 8px 8px;background:#fff;display:none;position:absolute;left:10px;right:10px;z-index:100;"></ul>
+</div>
+
+<!-- Info de resultados -->
+<p id="results-info" style="max-width:calc(768px - 20px);margin:16px auto 8px;padding:0 10px;font-size:14px;color:#666;"></p>
+
+<!-- Grid de resultados agrupado por departamento -->
+<ul id="results-grid" class="dept-groups"></ul>
+
+<!-- Sin resultados -->
+<p id="no-results" style="display:none;text-align:center;padding:40px 0;color:#999;font-size:15px;">
+  No encontramos rutas para esa búsqueda. Intenta con otro término.
+</p>
+
+<script src="/javascript/search.js"></script>

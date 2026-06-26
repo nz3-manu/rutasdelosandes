@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 draft: true
 layout: trail
 title:  Estrella de Agua

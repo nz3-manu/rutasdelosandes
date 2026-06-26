@@ -116,7 +116,7 @@ figcaption {
 
 /* ---------- Tag pills ---------- */
 .tag {
-  background: #000;
+  background: #808080;
   border-radius: 3px 0 0 3px;
   color: #fff;
   display: inline-block;
@@ -126,7 +126,7 @@ figcaption {
   position: relative;
   margin: 2px;
   text-decoration: none;
-  transition: color 0.2s;
+  transition: background-color 0.2s;
   font-size: 13px;
 }
 
@@ -145,7 +145,7 @@ figcaption {
 .tag::after {
   background: #fff;
   border-bottom: 11px solid transparent;
-  border-left: 13px solid #000;
+  border-left: 13px solid #808080;
   border-top: 11px solid transparent;
   content: "";
   position: absolute;
@@ -154,12 +154,12 @@ figcaption {
 }
 
 .tag:hover {
-  background-color: #808080;
+  background-color: #111;
   color: #fff;
 }
 
 .tag:hover::after {
-  border-left-color: #808080;
+  border-left-color: #111;
 }
 
 /* ---------- Article grid (home / blog) ---------- */
@@ -574,4 +574,517 @@ figcaption {
 /* ---------- has-open-sidebar body lock ---------- */
 html.has-open-sidebar {
   overflow: hidden;
+}
+
+/* ============================================================
+   HOMEPAGE — Hero, Featured grid, Categories, CTA, Modal
+   ============================================================ */
+
+/* ── Hero ── */
+.hero-section {
+  position: relative;
+  max-width: calc(768px - 20px);
+  margin: 0 auto;
+  background: center center / cover no-repeat #111;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  min-height: 280px;
+  padding-bottom: 28px;
+}
+
+.hero-section::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 40%, rgba(255,255,255,0.4) 80%, rgba(255,255,255,0.9) 100%);
+  pointer-events: none;
+}
+
+.hero-search-wrap {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  padding: 0 16px;
+}
+
+.hero-search-form {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-radius: 50px;
+  padding: 0 8px 0 20px;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.1);
+  height: 52px;
+  gap: 6px;
+}
+
+.hero-search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  background: transparent;
+  color: #111;
+  min-width: 0;
+}
+
+.hero-search-input::placeholder {
+  color: #aaa;
+}
+
+.hero-search-btn {
+  background: #f4f4f5;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  color: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, background 0.15s;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+}
+
+.hero-search-btn:hover {
+  color: #111;
+  background: #e4e4e7;
+}
+
+/* El botón del dado tiene el mismo estilo que la lupa */
+#btn-dado {
+  padding: 5px 7px;
+}
+
+/* ── Featured grid ── */
+.featured-section {
+  max-width: calc(768px - 20px);
+  margin: 32px auto 0;
+  padding: 0 10px;
+}
+
+.featured-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 16px;
+  color: #111;
+}
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+@media (max-width: 600px) {
+  .featured-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.featured-card {
+  display: block;
+  text-decoration: none;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.featured-card__inner {
+  position: relative;
+  padding-bottom: 65%;
+  background: #ddd;
+}
+
+.featured-card__inner img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.featured-card:hover .featured-card__inner img {
+  transform: scale(1.04);
+}
+
+.featured-card__scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent 30%, rgba(0,0,0,0.55) 100%);
+  z-index: 1;
+}
+
+.featured-card__title {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  z-index: 2;
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  line-height: 1.3;
+}
+
+/* ── Categories ── */
+.categories-section {
+  max-width: calc(768px - 20px);
+  margin: 28px auto 0;
+  padding: 0 10px;
+}
+
+.categories-list {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.15s;
+}
+
+.category-item:hover {
+  color: #000;
+}
+
+.category-item svg {
+  stroke: currentColor;
+}
+
+/* ── CTA ── */
+.hero-cta-wrap {
+  max-width: calc(768px - 20px);
+  margin: 28px auto 48px;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.hero-cta-btn {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  padding: 14px 36px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  text-decoration: none;
+}
+
+.hero-cta-btn:hover {
+  background: #222;
+}
+
+/* ── Modal dado ── */
+.dado-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.dado-modal.hidden {
+  display: none;
+}
+
+.dado-modal__panel {
+  background: #fff;
+  border-radius: 12px;
+  padding: 32px 28px 28px;
+  width: 100%;
+  max-width: 420px;
+  position: relative;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.18);
+}
+
+.dado-modal__close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  padding: 4px;
+}
+
+.dado-modal__close:hover {
+  color: #000;
+}
+
+.dado-modal__heading {
+  font-size: 17px;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 0 24px;
+  line-height: 1.4;
+  color: #111;
+}
+
+.dado-modal__heading span {
+  font-weight: 400;
+  font-size: 14px;
+  color: #666;
+}
+
+.dado-modal__fields {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.dado-select {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #e4e4e7;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #111;
+  background: #fff;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23666' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  padding-right: 36px;
+}
+
+.dado-select:focus {
+  border-color: #000;
+}
+
+.dado-select:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ============================================================
+   BÚSQUEDA — Resultados agrupados por departamento
+   ============================================================ */
+
+.dept-groups {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dept-group {
+  margin-bottom: 40px;
+}
+
+.dept-group__title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111;
+  margin: 0 0 12px;
+  padding: 0 10px;
+  max-width: calc(768px - 20px);
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: capitalize;
+  letter-spacing: 0.01em;
+}
+
+.dept-group__grid {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: calc(768px - 20px);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+  padding: 0 2px;
+}
+
+@media (min-width: 600px) {
+  .dept-group__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Las cards dentro del grupo usan los mismos estilos .article */
+.dept-group__grid .article-link {
+  flex-basis: auto;
+  border: none;
+}
+
+.dept-group__grid .article {
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+
+.dept-group__grid .article-title {
+  font-size: 13px;
+  font-weight: 500;
+  top: 8%;
+  left: 8%;
+  right: 8%;
+}
+
+/* ============================================================
+   FORMULARIO — Recomiéndanos una aventura
+   ============================================================ */
+
+.adventure-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.adventure-modal.hidden {
+  display: none;
+}
+
+.adventure-modal__panel {
+  background: #fff;
+  border-radius: 12px;
+  padding: 32px 28px 28px;
+  width: 100%;
+  max-width: 460px;
+  position: relative;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.18);
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.adventure-modal__close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  padding: 4px;
+}
+
+.adventure-modal__close:hover {
+  color: #000;
+}
+
+.adventure-modal__title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #111;
+  margin: 0 0 4px;
+  text-align: center;
+}
+
+.adventure-modal__subtitle {
+  font-size: 13px;
+  color: #666;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+.adventure-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.adventure-form__field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.adventure-form__field label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+}
+
+.adventure-form__field input,
+.adventure-form__field textarea {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid #e4e4e7;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #111;
+  background: #fff;
+  outline: none;
+  transition: border-color 0.15s;
+  font-family: inherit;
+}
+
+.adventure-form__field input:focus,
+.adventure-form__field textarea:focus {
+  border-color: #111;
+}
+
+.adventure-form__field textarea {
+  resize: vertical;
+  min-height: 70px;
+}
+
+.adventure-form__field input[type="file"] {
+  padding: 8px;
+  border-style: dashed;
+  cursor: pointer;
+  font-size: 13px;
+  color: #666;
+}
+
+.adventure-form__submit {
+  display: block;
+  width: 100%;
+  background: #000;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  padding: 13px 24px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 6px;
+  transition: background 0.2s;
+}
+
+.adventure-form__submit:hover {
+  background: #222;
+}
+
+.adventure-form__submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.adventure-form__success {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  color: #0f766e;
+  padding: 20px 0;
 }

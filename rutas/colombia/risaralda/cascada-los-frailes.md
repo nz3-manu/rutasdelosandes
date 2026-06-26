@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: "Cascada Los Frailes | Guía completa"
 categories: colombia

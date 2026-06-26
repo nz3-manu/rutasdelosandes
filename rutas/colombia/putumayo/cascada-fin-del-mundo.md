@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Cascada el Fin del Mundo
 categories: colombia

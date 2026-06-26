@@ -1,0 +1,19 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for ruta in collections.rutas -%}
+{%- assign dept = ruta.url | deptFromUrl -%}
+{
+  "title": "{{ ruta.data.title | escape }}",
+  "url": "{{ ruta.url | remove: '/amp' }}",
+  "departamento": "{{ dept }}",
+  "categories": "{{ ruta.data.categories }}",
+  "tags": "{% if ruta.data.tags %}{{ ruta.data.tags | join: ',' }}{% endif %}",
+  "excerpt": "{{ ruta.data.excerpt | default: '' | strip_html | truncate: 160 | escape }}",
+  "images_url": "{{ ruta.data.images_url | default: '' }}",
+  "trending": {{ ruta.data.trending | default: false }}
+}{% unless forloop.last %},{% endunless %}
+{%- endfor -%}
+]

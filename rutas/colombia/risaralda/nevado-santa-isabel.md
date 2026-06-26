@@ -8,6 +8,7 @@ images_url: /images/rutas/colombia/risaralda/nevado-santa-isabel
 viewranger:
 author: manuel
 trending: true
+tags: [cumbres]
 ---
 
 

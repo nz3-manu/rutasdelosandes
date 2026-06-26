@@ -8,6 +8,7 @@ images_url: /images/rutas/colombia/boyaca/nevado-cocuy
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
+tags: [cumbres]
 ---
 
 # NEVADO DEL COCUY: GUÍA EXPERTA, RUTAS Y CONSEJOS DE SEGURIDAD 🏔️

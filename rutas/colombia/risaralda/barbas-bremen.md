@@ -1,4 +1,5 @@
 ---
+tags: [paramos]
 layout: trail
 title: "Reserva Natural Barbas Bremen | Guía completa"
 categories: colombia

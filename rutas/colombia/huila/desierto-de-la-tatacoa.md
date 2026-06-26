@@ -1,4 +1,5 @@
 ---
+tags: [desiertos]
 layout: trail
 title: Desierto de la Tatacoa
 categories: colombia

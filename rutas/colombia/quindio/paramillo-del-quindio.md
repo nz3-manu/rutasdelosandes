@@ -8,6 +8,7 @@ images_url: /images/rutas/colombia/quindio/paramillo-quindio
 viewranger: MjI1MDg2Mw==
 author: manuel
 trending: true
+tags: [cumbres]
 video_id: PNy3G130C9g
 ---
 

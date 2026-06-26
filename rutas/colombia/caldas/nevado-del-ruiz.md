@@ -8,6 +8,7 @@ images_url: /images/rutas/colombia/caldas/nevado-del-ruiz
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
+tags: [cumbres]
 ---
 
 # NEVADO DEL RUIZ 

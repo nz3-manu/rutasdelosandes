@@ -22,6 +22,13 @@ module.exports = function (eleventyConfig) {
     root: ["_includes", "."],
   });
 
+  // Extrae departamento de la URL: /rutas/colombia/DEPT/slug → DEPT
+  eleventyConfig.addFilter("deptFromUrl", (url) => {
+    const parts = (url || "").replace("/amp", "").split("/").filter(Boolean);
+    const colIdx = parts.indexOf("colombia");
+    return colIdx !== -1 && parts[colIdx + 1] ? parts[colIdx + 1] : "";
+  });
+
   // --- NUEVA CONFIGURACIÓN: FILTRO DE FECHA PARA SITEMAP ---
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     // Si ya es un objeto Date, lo usamos; si no, intentamos crearlo

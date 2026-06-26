@@ -8,6 +8,7 @@ images_url: /images/rutas/colombia/quindio/nevado-del-tolima
 viewranger: MTYzNjI3OA==
 author: manuel
 trending: true
+tags: [cumbres]
 ---
 
 # NEVADO DEL TOLIMA: EL GIGANTE DE LA CORDILLERA CENTRAL

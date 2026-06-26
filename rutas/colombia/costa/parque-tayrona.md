@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Parque Nacional Natural Tayrona
 categories: colombia

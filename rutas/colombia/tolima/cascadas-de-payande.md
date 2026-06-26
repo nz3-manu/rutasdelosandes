@@ -1,4 +1,5 @@
 ---
+tags: [aguas]
 layout: trail
 title: Cascada de Payande
 categories: colombia
