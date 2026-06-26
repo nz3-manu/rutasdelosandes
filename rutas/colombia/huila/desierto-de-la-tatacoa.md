@@ -54,11 +54,17 @@ Geográficamente se divide en dos áreas muy bien diferenciadas por sus colores:
 *   🥾 Caminar al amanecer por los laberintos labrados del Cuzco.
 *   🍹 Probar el refrescante jugo artesanal de cactus, una delicia local.
 
-<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider1.jpg" "Slider 1 Tatacoa" %}
   {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider2.jpg" "Slider 2 Tatacoa" %}
   {% image "images/rutas/colombia/huila/desierto-de-la-tatacoa/slider/slider3.jpg" "Slider 3 Tatacoa" %}
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 <a name="llegar-desierto" id="llegar-desierto"></a>
 

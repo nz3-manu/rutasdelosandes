@@ -1,9 +1,15 @@
 <figure class="op-interactive">
-  <amp-youtube
-    data-videoid="{{ videoid }}"
-    layout="responsive"
+  <iframe
+    src="https://www.youtube.com/embed/{{ videoid }}"
+    title="{{ caption | default: 'Video de Rutas de los Andes' }}"
+    class="rda-embed"
     width="{{ width |  default: 480 }}"
     height="{{ height |  default: 480 }}"
-  >
-  </amp-youtube>
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+  {% if caption %}
+  <figcaption>{{ caption }}</figcaption>
+  {% endif %}
 </figure>

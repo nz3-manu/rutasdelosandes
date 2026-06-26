@@ -19,12 +19,18 @@ Es un lugar con gran belleza natural donde se funden montañas con páramos que 
 - Aguas termales en medio de la naturaleza(Gratis).
 - Hermosos paisajes de las montañas.
 
-<amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/caldas/gruta/slider1.jpg" "Slider 1 Gruta Caldas" %}
   {% image "images/rutas/colombia/caldas/gruta/slider2.jpg" "Slider 2 Gruta Caldas" %}
   {% image "images/rutas/colombia/caldas/gruta/slider3.jpg" "Slider 3 Gruta Caldas" %}
   {% image "images/rutas/colombia/caldas/gruta/slider4.jpg" "Slider 4 Gruta Caldas" %}
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 ## ¿Cómo llegar a la La Gruta 🚌🚗🛵🚵🏻?
 
@@ -66,13 +72,7 @@ Al llegar allí encontraremos Santuario Scout la Gruta, el cual se brinda tribut
 
 **[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea para ver algunas prendas disponibles clic aquí</a>]**
 
-<amp-instagram
-    data-shortcode="BjXYe_dBC2p"
-    data-captioned
-    width="1600"
-    height="900"
-    layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"BjXYe_dBC2p", width:"1600", height:"900" %}
 
 **En épocas de lluvias evitar:** Estar en La Gruta ya que se puede presentar deslizamientos o crecidas de la quebrada Termales y evitar subir en automóviles ya que la carretera se puede poner algo difícil por el pantano.
 

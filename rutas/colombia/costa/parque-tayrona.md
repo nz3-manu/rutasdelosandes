@@ -32,11 +32,17 @@ En el área del Parque Tayrona se encuentran ruinas arqueológicas que denotan l
 - Pueblo de la tribu Kogui.
 - Hermosas playas y avistamientos de corales.
 
-<amp-carousel width="800" height="600" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/costa/tayrona/slider1.jpg" "Slider 1 Tayrona" %}
   {% image "images/rutas/colombia/costa/tayrona/slider2.jpg" "Slider 2 Tayrona" %}
   {% image "images/rutas/colombia/costa/tayrona/slider3.jpg" "Slider 3 Tayrona" %}
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 ## ¿CÓMO LLEGAR AL PARQUE TAYRONA?
 

@@ -25,10 +25,16 @@ __Cerros ubicados en Quinchía:__
 - Vista sin igual de 360º de Quinchía y de poblaciones cercanas.
 - Caminata ecológica.
 
-<amp-carousel width="400" height="400" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/risaralda/gobia/slider1.jpg" "Descripción de imagen 1" %} 
   {% image "images/rutas/colombia/risaralda/gobia/slider2.jpg" "Descripción de imagen 2" %} 
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 ## ¿Cómo llegar a Cerro Gobia 🛣🚌?
 

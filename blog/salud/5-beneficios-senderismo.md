@@ -76,7 +76,6 @@ __<span class="advise"> Foto por:  <a href="https://www.instagram.com/mafeaya1/"
 
 ## 3- AYUDA A CURAR LAS ENFERMEDADES GRAVES
 
-
 En un estudio realizado por el científico Ulrich denominado «terapia estético afectiva» concluyó que las personas en determinadas percepciones sensoriales como el cantar de los pájaros, el escuchar del agua de los ríos y quebradas, las flores y los árboles sirven de estimulantes que ayudan a crear las bases neurológicas para sentirnos bien. 
 
 

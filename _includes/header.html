@@ -1,58 +1,85 @@
-    <amp-sidebar id="sidebar"
-      layout="nodisplay"
-      side="right">
-      <amp-img class="amp-close-image"
-        src="/images/ic_close_black_18dp_2x.png"
-        width="20"
-        height="20"
-        alt="close sidebar"
-        on="tap:sidebar.close"
-        role="button"
-        tabindex="0"></amp-img>
-    <ul class="site_social">
-        <li>
-            <a target="_blank" href="https://twitter.com/RutasAndes">
-              <amp-img width="32px" height="32px" src="/images/twitter-logo-button.png" />
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.facebook.com/rutasdelosandes0">
-              <amp-img width="32px" height="32px" src="/images/facebook-logo-button.png" />
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.instagram.com/rutasdelosandes/">
-              <amp-img width="32px" height="32px" src="/images/instagram-logo.png" />
-            </a>
-        </li>
-        <li>
-            <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA">
-              <amp-img width="32px" height="32px" src="/images/youtube-logo-button.png" />
-            </a>
-        </li>
-      </ul>  
-      <ul class="main-menu">
-        {% for page in site.menu_pages  %}
-            <li>
-              <a class="page-link" href="{{ page.url }}">
-                {{ page.display }}     
-              </a>
-            </li>
-        {% endfor %}
-      </ul>
-    </amp-sidebar>        
-<header class="site-header" role="banner">
-  <div class="header-wrapper page-content">
-    <a class="site-logo" href="{{ "/" | relative_url }}">
-      <amp-img src="{{ site.logo | escape }}" height="50" width="50">
-      </amp-img>
+<!-- Sidebar overlay -->
+<div
+  class="fixed inset-0 z-[2147483646] bg-black/20 transition-opacity hidden"
+  data-sidebar-close
+  id="sidebar-mask"
+  hidden
+></div>
+
+<!-- Sidebar drawer -->
+<aside
+  id="sidebar"
+  class="fixed top-0 right-0 z-[2147483647] h-screen w-[220px] max-w-[80vw] overflow-y-auto bg-[#efefef] px-4 pt-0 translate-x-full opacity-0 transition-[transform,opacity] duration-[233ms] ease-[cubic-bezier(0,0,0.21,1)] will-change-transform outline-none [&.is-open]:translate-x-0 [&.is-open]:opacity-100"
+  aria-hidden="true"
+>
+  <button
+    class="relative mt-5 inline-block h-5 w-5 cursor-pointer overflow-hidden border-0 bg-none p-0 leading-normal text-inherit hover:border-b hover:border-black"
+    type="button"
+    data-sidebar-close
+    aria-label="Cerrar menu"
+  >
+    <img src="/images/ic_close_black_18dp_2x.png" width="20" height="20" alt="">
+  </button>
+
+  <!-- Social icons -->
+  <ul class="absolute top-0 right-0 flex list-none justify-center p-0">
+    <li>
+      <a class="p-1" target="_blank" href="https://twitter.com/RutasAndes">
+        <img width="32" height="32" src="/images/twitter-logo-button.png" alt="Twitter" loading="lazy" decoding="async">
+      </a>
+    </li>
+    <li>
+      <a class="p-1" target="_blank" href="https://www.facebook.com/rutasdelosandes0">
+        <img width="32" height="32" src="/images/facebook-logo-button.png" alt="Facebook" loading="lazy" decoding="async">
+      </a>
+    </li>
+    <li>
+      <a class="p-1" target="_blank" href="https://www.instagram.com/rutasdelosandes/">
+        <img width="32" height="32" src="/images/instagram-logo.png" alt="Instagram" loading="lazy" decoding="async">
+      </a>
+    </li>
+    <li>
+      <a class="p-1" target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA">
+        <img width="32" height="32" src="/images/youtube-logo-button.png" alt="YouTube" loading="lazy" decoding="async">
+      </a>
+    </li>
+  </ul>
+
+  <!-- Nav links -->
+  <ul class="mt-11 list-none p-0 text-[15px] text-left leading-[1.15em]">
+    {% for page in site.menu_pages %}
+    <li>
+      <a
+        class="block border-b border-b-[#9c9c9c] py-3 text-black no-underline first:border-t first:border-t-[#9c9c9c] hover:border-b-black hover:font-medium"
+        href="{{ page.url }}"
+      >
+        {{ page.display }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</aside>
+
+<!-- Top header -->
+<header class="fixed top-0 left-0 z-[20000] w-full border-b border-[#424242] bg-white" role="banner">
+  <div class="mx-auto flex max-w-[calc(768px-20px)] items-center justify-between px-[10px] h-[57px] md:max-w-none md:px-4">
+    <a class="px-[5px]" href="{{ '/' | relative_url }}">
+      <img src="{{ site.logo | escape }}" height="50" width="50" alt="Rutas de los Andes" decoding="async">
     </a>
-    <button on="tap:sidebar.toggle" class="ampstart-btn caps m2 menu-button">
-        <svg viewBox="0 0 18 15" width="35px" height="45px">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
+
+    <button
+      type="button"
+      data-sidebar-open
+      class="rda-button rda-button--ghost rda-button--icon"
+      aria-controls="sidebar"
+      aria-expanded="false"
+      aria-label="Abrir menu"
+    >
+      <svg viewBox="0 0 18 15" width="18" height="15" aria-hidden="true">
+        <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+        <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+        <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+      </svg>
     </button>
   </div>
 </header>

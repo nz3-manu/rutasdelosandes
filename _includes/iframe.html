@@ -13,7 +13,7 @@
 {% endif %}
 
 <figure class="op-interactive">
-  <amp-iframe width="{{ width | default: 200 }}" height="{{ height | default: 200 }}" sandbox="allow-scripts allow-same-origin allow-popups" frameborder="0" scrolling="no" frameborder="0" class="no-margin" layout="responsive" frameborder="0" src="{{ map_url }}">
-  </amp-iframe>
+  <iframe width="{{ width | default: 200 }}" height="{{ height | default: 200 }}" sandbox="allow-scripts allow-same-origin allow-popups" frameborder="0" scrolling="no" class="rda-embed no-margin" src="{{ map_url }}" loading="lazy" allowfullscreen>
+  </iframe>
   <figcaption>{{ caption }}</figcaption>
 </figure>

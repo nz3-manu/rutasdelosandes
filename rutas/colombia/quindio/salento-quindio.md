@@ -45,12 +45,18 @@ Empecemos con la aventura 🌴.
 *   Puntos estratégicos para avistamiento de aves y bosques de niebla.
 *   Panorámicas espectaculares del Valle del Cocora desde sus miradores principales.
  
-<amp-carousel width="1040" height="800" layout="responsive" type="slides" autoplay delay="1500">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/quindio/salento/slider/1.jpg" "Vista slider 1" %}
   {% image "images/rutas/colombia/quindio/salento/slider/2.jpg" "Vista slider 2" %}
   {% image "images/rutas/colombia/quindio/salento/slider/3.jpg" "Vista slider 3" %}
   {% image "images/rutas/colombia/quindio/salento/slider/4.jpg" "Vista slider 4" %}
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
  
 <a name="llegar-salento" id="llegar-salento"></a>
 

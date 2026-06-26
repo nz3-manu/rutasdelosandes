@@ -22,12 +22,18 @@ El nombre de la reserva La Patasola tiene una historia particular que es contada
 - Un sendero acompañado de gran biodiversidad flora y fauna.
 - Casa antigua rodeada de misticismo y leyendas urbanas.
 
-<amp-carousel  width="2048" height="1366" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% include image.html, file:"rutas/quindio/patasola/slider1.jpg", width:"2500", height:"1407" %} 
   {% include image.html, file:"rutas/quindio/patasola/slider2.jpg", width:"2500", height:"1406" %} 
   {% include image.html, file:"rutas/quindio/patasola/slider3.jpg", width:"2500", height:"1407" %} 
   {% include image.html, file:"rutas/quindio/patasola/slider4.jpg", width:"2500", height:"1407" %} 
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 ## ¿Cómo llegar 🛣🚌🚗🛵🚵🏻?
 
@@ -130,18 +136,18 @@ Este es el fin de la ruta a la Reserva Natural La Patasola, **no te olvides de s
 
 ## Presupuesto de la ruta por persona 🤔💰
 
-  <amp-accordion animate>
-    <section>
-      <h4> 🚌 Transporte Total $14.000</h4>
-      <p> Pereira-Boquia-Pereira: $14.000. Si los deja el bus 🚌💨💨🏃‍ tendrán que ir hasta Armenia así que sera un gasto adicional.</p>
-    </section>
-    <section>
-      <h4>🍲 Alimentación $10.000</h4>
-      <p> Solo venden los alimentos en Boquia, en la reserva no encontraran restaurantes o tiendas.</p>
-    </section>
-    <section>
-      <h4> 🚌💨🏃‍ Imprevistos</h4>
-      <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
-    </section>
-  </amp-accordion>
+  <div class="rda-accordion">
+    <details>
+  <summary> 🚌 Transporte Total $14.000</summary>
+  <p> Pereira-Boquia-Pereira: $14.000. Si los deja el bus 🚌💨💨🏃‍ tendrán que ir hasta Armenia así que sera un gasto adicional.</p>
+</details>
+    <details>
+  <summary>🍲 Alimentación $10.000</summary>
+  <p> Solo venden los alimentos en Boquia, en la reserva no encontraran restaurantes o tiendas.</p>
+</details>
+    <details>
+  <summary> 🚌💨🏃‍ Imprevistos</summary>
+  <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
+</details>
+  </div>
 <span class="advise"> Los precios mencionados anteriormente son aproximado y estos podrían variar. </span>

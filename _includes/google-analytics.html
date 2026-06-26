@@ -1,26 +1,15 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-18WGN3CFGT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-18WGN3CFGT');
 
-<div id="google-analytics">
-  <amp-analytics type="gtag" data-credentials="include">
-    <script type="application/json">
-      {
-        "vars": {
-          "gtag_id": "G-18WGN3CFGT",
-          "config": {
-            "G-18WGN3CFGT": { "groups": "default" }
-          }
-        },
-        "triggers": {
-          "button": {
-            "selector": "#tienda-title",
-            "on": "click",
-            "vars": {
-              "event_name": "clic-tienda",
-              "method": "Google"
-            }
-          }
-        }
-      }
-    </script>
-  </amp-analytics>
-</div>
-
+  window.addEventListener('DOMContentLoaded', function () {
+    var tiendaLink = document.querySelector('.tienda-title');
+    if (!tiendaLink || typeof gtag !== 'function') return;
+    tiendaLink.addEventListener('click', function () {
+      gtag('event', 'clic-tienda', { method: 'Google' });
+    });
+  });
+</script>

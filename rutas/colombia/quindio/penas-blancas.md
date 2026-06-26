@@ -113,13 +113,7 @@ Ruta desde la vereda la Virgina hasta la cima de Peñas Blancas.
 
 Como recompensa de un duro ascenso nos encontraremos con esta hermosa vista del departemanto Quindío.
 
-<amp-instagram
-    data-shortcode="BviCUISBk2j"
-    data-captioned
-    width="600"
-    height="600"
-    layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"BviCUISBk2j", width:"600", height:"600" %}
 
 <a name="otras-rutas-eje" id="otras-rutas-eje"></a>
 

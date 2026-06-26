@@ -111,13 +111,7 @@ Al llegar a la parte más alta de nuestro recorrido, nos encontramos con la vist
 
 El Parque Regional Natural Serranía Alto del El Nudo, se encuentra a poco más de 2.000 metros sobre el nivel del mar. Es allí donde nacen los principales ríos y quebradas que surten de agua a Pereira, Dosquebradas y Marsella. Debido a su altura, desde El Mirador se contempla la ciudad de Pereira y Dosquebradas, así como el vasto Valle del Risaralda y otros municipios distantes, donde en el pasado abundaba la gran cultura Quimbaya.
 
-<amp-instagram
-   data-shortcode="BwM4GovJuGL"
-   data-captioned
-   width="600"
-   height="398"
-   layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"BwM4GovJuGL", width:"600", height:"398" %}
 
 <a href="https://www.randes.co/" target="_blank">
 {% include image.html,

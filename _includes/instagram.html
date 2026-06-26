@@ -1,0 +1,14 @@
+<figure class="rda-instagram">
+  <iframe
+    src="https://www.instagram.com/p/{{ shortcode }}/embed"
+    title="{{ caption | default: 'Publicacion de Instagram' }}"
+    width="{{ width | default: 480 }}"
+    height="{{ height | default: 600 }}"
+    loading="lazy"
+    allowtransparency="true"
+    allowfullscreen>
+  </iframe>
+  <figcaption>
+    <a href="https://www.instagram.com/p/{{ shortcode }}/" target="_blank" rel="noopener">Ver publicacion en Instagram</a>
+  </figcaption>
+</figure>

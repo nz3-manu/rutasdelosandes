@@ -27,13 +27,7 @@ Estudios han demostrado que quienes viven cerca de parques y otras concentracion
 
 Científicos observaron la actividad cerebral de voluntarios a quienes se les pusieron electrodos en la cabeza y les fueron mostradas imágenes de árboles o de escenas urbanas. Las ondas cerebrales de quienes vieron árboles registraron mayor calma.
 
-<amp-instagram
-    data-shortcode="CAbng2AAJ0E"
-    data-captioned
-    width="365"
-    height="457"
-    layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"CAbng2AAJ0E", width:"365", height:"457" %}
 
 No se había podido examinar la actividad cerebral de las personas mientras caminaban por parques o por zonas agitadas. Pero en el último estudio, publicado en The British Journal of Sports Medicine, los investigadores de la Universidad Heriot-Watt de Edimburgo pusieron electrodos en el cuero cabelludo de los voluntarios, conectados a lap tops que cargaban ellos mismos y los llevaron a caminar la misma distancia en un parque, en una calle con construcciones antiguas y tráfico ligero y por último en un distrito comercial con un tráfico pesado y edificios de concreto.
 

@@ -148,13 +148,7 @@ La distancia total desde el inicio del sendero hasta la **cima de Cerro Tusa** e
 
 ### VISTA ESPECTACULAR DESDE LA CIMA
 
-<amp-instagram
-   data-shortcode="Bvc7K9GhN4J"
-   data-captioned
-   width="293"
-   height="219"
-   layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"Bvc7K9GhN4J", width:"293", height:"219" %}
 
 Es un mito común escuchar que el descenso de Cerro Tusa es más complejo que la subida. Basados en nuestra experiencia de campo, el esfuerzo cardiovascular es menor, pero la exigencia en las rodillas y articulaciones es alta. Se debe bajar de forma controlada, descendiendo de espaldas a la pendiente en los tramos más verticales y solicitando asistencia del guía o compañeros siempre que sea necesario.
 

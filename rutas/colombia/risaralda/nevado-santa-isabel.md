@@ -64,12 +64,18 @@ Como nos gusta decir en Rutas de Los Andes, este lugar no es solo una montaña; 
 ## LUGARES QUE VERAS EN EL ASCENSO AL NEVADO SANTA ISABEL
 
 
-<amp-carousel width="1078" height="1078" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/1.jpg" "Vista del Nevado Santa Isabel 1" %} 
   {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/2.jpg" "Vista del Nevado Santa Isabel 2" %} 
   {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/3.jpg" "Vista del Nevado Santa Isabel 3" %} 
   {% image "images/rutas/colombia/risaralda/nevado-santa-isabel/4.jpg" "Vista del Nevado Santa Isabel 4" %} 
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 
 <a name="tour-santa" id="tour-santa"></a>

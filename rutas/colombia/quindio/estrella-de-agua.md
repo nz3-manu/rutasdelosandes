@@ -23,11 +23,17 @@ Este lugar hace parte del parque nacional Natural Los Nevados🏔 por ende es el
 * Nacimiento del Río Quindío.
 * Vista sin igual de las palmas de cera.
 
-<amp-carousel width="2500" height="1406" layout="responsive" type="slides" autoplay delay="2000">
+<div class="rda-carousel" data-carousel>
+  <div class="rda-carousel__track">
   {% image "images/rutas/colombia/quindio/estrellaAgua/slider1.jpg" "Imagen 1 - Estrella de Agua" %}
   {% image "images/rutas/colombia/quindio/estrellaAgua/slider2.jpg" "Imagen 2 - Estrella de Agua" %}
   {% image "images/rutas/colombia/quindio/estrellaAgua/slider3.jpg" "Imagen 3 - Estrella de Agua" %}
-</amp-carousel>
+  </div>
+  <div class="rda-carousel__controls">
+    <button class="rda-button rda-button--icon" type="button" data-carousel-prev aria-label="Imagen anterior">‹</button>
+    <button class="rda-button rda-button--icon" type="button" data-carousel-next aria-label="Imagen siguiente">›</button>
+  </div>
+</div>
 
 ## ¿Cómo llegar a Estrella de Agua 🛣🚌🚗🛵?
 Desde el terminal de Pereira se toma el bus🚌 el cual sale cada  hora a partir de las 6:30 am el valor del pasaje es aproximadamente $9.000 pesos.

@@ -98,13 +98,7 @@ Una vez de haber cruzado el río cauca en la “Garrucha”, llegamos a una finc
 
 __Cascada en Estación Pereira__
 
-<amp-instagram
-    data-shortcode="BjpnlRtBsM8"
-    data-captioned
-    width="1600"
-    height="900"
-    layout="responsive">
-</amp-instagram> 
+{% include instagram.html, shortcode:"BjpnlRtBsM8", width:"1600", height:"900" %} 
 
 <a name="rutas-de-senderismo-en-pereira" id="rutas-de-senderismo-en-pereira"></a>
  

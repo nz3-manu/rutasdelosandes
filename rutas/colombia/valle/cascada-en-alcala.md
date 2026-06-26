@@ -52,13 +52,7 @@ Aproximadamente a un 1 kilómetro nos encontramos con una portada que estaba cer
 %}
 
 Después de una corta y agradable caminata llegamos por fin a nuestro destino
-<amp-instagram
-    data-shortcode="BrOmIWxhaCq"
-    data-captioned
-    width="480"
-    height="600"
-    layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"BrOmIWxhaCq", width:"480", height:"600" %}
 
 __Recuerda minimizar el uso de plástico cuando vas a la montaña__, ya que muchas veces estos terminan en senderos y río 😢. En nuestra tienda en línea podrás encontrar unas buenas opciones en botellas para agua reutilizables ver tienda <a target="_blank" href="https://bit.ly/3fKTdpw">aquí</a>.
 

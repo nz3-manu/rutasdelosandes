@@ -89,24 +89,24 @@ Este es el fin de la ruta a los Chorros de Don Lolo, **no te olvides de seguirno
  
 ## PRESUPUESTO A LOS CHORROS DE DON LOLO POR PERSONA 🤔💰.
  
- <amp-accordion animate>
-   <section>
-     <h4> 🚌 Pereira-SantaRosa-Pereira $4.600 $10.200</h4>
-     <p> Pereira-SantaRosa $2.300.
+ <div class="rda-accordion">
+   <details>
+  <summary> 🚌 Pereira-SantaRosa-Pereira $4.600 $10.200</summary>
+  <p> Pereira-SantaRosa $2.300.
       </p>
-   </section>
-   <section>
-     <h4> 🚙 SantaRosa-ChorrosDonLolo-SantaRosa $5.600 </h4>
-     <p> transporte desde Santa Rosa hasta entrada Chorros de Don Lolo $2.800 </p>
-   </section>
-   <section>
-     <h4>🍲 Alimentación $12.000</h4>
-     <p> En el camino van a encontrar algunas tiendas como lo menciona la ruta</p>
-   </section>
-   <section>
-     <h4> 🚌💨🏃‍ Imprevistos</h4>
-     <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
-   </section>
- </amp-accordion>
+</details>
+   <details>
+  <summary> 🚙 SantaRosa-ChorrosDonLolo-SantaRosa $5.600 </summary>
+  <p> transporte desde Santa Rosa hasta entrada Chorros de Don Lolo $2.800 </p>
+</details>
+   <details>
+  <summary>🍲 Alimentación $12.000</summary>
+  <p> En el camino van a encontrar algunas tiendas como lo menciona la ruta</p>
+</details>
+   <details>
+  <summary> 🚌💨🏃‍ Imprevistos</summary>
+  <p> Es aconsejable llevar dinero adicional para cubrir cualquier imprevisto.</p>
+</details>
+ </div>
 <span class="advise"> Los precios mencionados anteriormente son aproximados y estos podrían variar. </span>
 

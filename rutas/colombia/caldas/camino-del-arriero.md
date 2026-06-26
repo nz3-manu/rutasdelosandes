@@ -83,13 +83,7 @@ Por fin de una dura caminata nos encontraremos con esta hermosa cascada.
 
 __[<a target="_blank" href="https://www.instagram.com/randes.store/">Recuerda llevar  las prendas adecuadas para hacer esta ruta 👕, puedes visitar nuestra tienda en línea  para ver algunas prendas disponibles clic aquí</a>]__
 
-<amp-instagram
-   data-shortcode="BzLfgC7pTKD"
-   data-captioned
-   width="481"
-   height="600.92"
-   layout="responsive">
-</amp-instagram>
+{% include instagram.html, shortcode:"BzLfgC7pTKD", width:"481", height:"600.92" %}
 
 ## ¿Cómo regresar 🚌🏡?
 Tomamos el mismo camino por el que llegamos, tener mucho cuidado con los perros que hay en algunas fincas, el jeep de regreso para manizales se toma en el puente que cruzamos para la vereda el guineo. los fines de semana solo hay transporte hasta las 4 pm (estos horarios varían dependiendo de  la cantidad que viaje para esta región), el pasaje hasta manizales vale $5.000 pesos.
