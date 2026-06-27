@@ -31,6 +31,7 @@
   "instant_pages": "1078600055607267",
   "permalink": "/:categories/:title",
   "twitter": "RutasAndes",
+  "google_analytics": "G-18WGN3CFGT",
   "markdown": "kramdown",
   "theme": "minima",
   "menu_pages": [

@@ -19,9 +19,6 @@
 
     <form
       id="adventure-form"
-      action="https://formspree.io/f/YOUR_FORM_ID"
-      method="POST"
-      enctype="multipart/form-data"
       class="adventure-form"
     >
       <div class="adventure-form__field">
@@ -37,12 +34,6 @@
       <div class="adventure-form__field">
         <label for="adv-lugar">¿Qué lugar nos recomiendas?</label>
         <textarea id="adv-lugar" name="lugar" rows="3" placeholder="Descríbenos el lugar, dónde queda y por qué deberíamos ir..." required></textarea>
-      </div>
-
-      <div class="adventure-form__field">
-        <label for="adv-fotos">Fotos del lugar <span style="color:#999;font-weight:400;">(opcional, máx. 4 fotos, 5MB c/u)</span></label>
-        <input id="adv-fotos" name="fotos" type="file" accept="image/*" multiple>
-        <p id="adv-fotos-error" style="display:none;color:#c70039;font-size:12px;margin:4px 0 0;"></p>
       </div>
 
       <button type="submit" class="adventure-form__submit">
@@ -89,81 +80,56 @@
     if (e.key === 'Escape') closeModal();
   });
 
-  // Submit via fetch para no abandonar la página
+  // Submit via fetch a Google Apps Script
   if (form) {
-    var fotosInput = document.getElementById('adv-fotos');
-    var fotosError = document.getElementById('adv-fotos-error');
-    var MAX_FILES = 4;
-    var MAX_SIZE_MB = 5;
-
-    // Validación en tiempo real al seleccionar archivos
-    if (fotosInput) {
-      fotosInput.addEventListener('change', function() {
-        fotosError.style.display = 'none';
-        fotosError.textContent = '';
-
-        if (fotosInput.files.length > MAX_FILES) {
-          fotosError.textContent = 'Máximo ' + MAX_FILES + ' fotos. Seleccionaste ' + fotosInput.files.length + '.';
-          fotosError.style.display = 'block';
-          fotosInput.value = '';
-          return;
-        }
-
-        for (var i = 0; i < fotosInput.files.length; i++) {
-          if (fotosInput.files[i].size > MAX_SIZE_MB * 1024 * 1024) {
-            fotosError.textContent = '"' + fotosInput.files[i].name + '" supera los ' + MAX_SIZE_MB + 'MB. Reduce el tamaño.';
-            fotosError.style.display = 'block';
-            fotosInput.value = '';
-            return;
-          }
-        }
-      });
-    }
+    var APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzUm15XJ5TEyICnVGSFowSnFT8n5Fxtw8S3KxzQhmaYNouzVhnzHIwSJEYKUf-rIGPG/exec';
 
     form.addEventListener('submit', function(e) {
       e.preventDefault();
 
-      // Validar fotos antes de enviar
-      if (fotosInput && fotosInput.files.length > MAX_FILES) {
-        fotosError.textContent = 'Máximo ' + MAX_FILES + ' fotos.';
-        fotosError.style.display = 'block';
-        return;
-      }
-      if (fotosInput) {
-        for (var i = 0; i < fotosInput.files.length; i++) {
-          if (fotosInput.files[i].size > MAX_SIZE_MB * 1024 * 1024) {
-            fotosError.textContent = '"' + fotosInput.files[i].name + '" supera los ' + MAX_SIZE_MB + 'MB.';
-            fotosError.style.display = 'block';
-            return;
-          }
-        }
-      }
-
-      var data = new FormData(form);
       var submitBtn = form.querySelector('[type="submit"]');
       submitBtn.disabled = true;
       submitBtn.textContent = 'Enviando...';
 
-      fetch(form.action, {
-        method: 'POST',
-        body: data,
-        headers: { 'Accept': 'application/json' }
-      })
-      .then(function(r) {
-        if (r.ok) {
-          form.reset();
-          form.style.display = 'none';
-          success.style.display = 'block';
-          setTimeout(closeModal, 2500);
-        } else {
-          submitBtn.textContent = 'Error. Intenta de nuevo.';
-          submitBtn.disabled = false;
-        }
-      })
-      .catch(function() {
-        submitBtn.textContent = 'Error de red. Intenta de nuevo.';
-        submitBtn.disabled = false;
+      // Construir URL con params (GET workaround para evitar CORS)
+      var params = new URLSearchParams();
+      params.append('nombre', document.getElementById('adv-name').value);
+      params.append('whatsapp', document.getElementById('adv-whatsapp').value);
+      params.append('lugar', document.getElementById('adv-lugar').value);
+
+      // Usar un iframe oculto + form redirect para evitar CORS
+      var iframe = document.createElement('iframe');
+      iframe.name = 'adventure-iframe';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+
+      var hiddenForm = document.createElement('form');
+      hiddenForm.method = 'POST';
+      hiddenForm.action = APPS_SCRIPT_URL;
+      hiddenForm.target = 'adventure-iframe';
+
+      ['nombre', 'whatsapp', 'lugar'].forEach(function(field) {
+        var input = document.createElement('input');
+        input.type = 'hidden';
+        input.name = field;
+        var elId = field === 'nombre' ? 'adv-name' : 'adv-' + field;
+        input.value = document.getElementById(elId).value;
+        hiddenForm.appendChild(input);
       });
+
+      document.body.appendChild(hiddenForm);
+      hiddenForm.submit();
+
+      // Mostrar éxito después de un breve delay (no podemos leer la respuesta del iframe por CORS)
+      setTimeout(function() {
+        form.reset();
+        form.style.display = 'none';
+        success.style.display = 'block';
+        // Limpiar
+        document.body.removeChild(hiddenForm);
+        document.body.removeChild(iframe);
+        setTimeout(closeModal, 2500);
+      }, 1500);
     });
   }
 })();
