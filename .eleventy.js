@@ -53,6 +53,13 @@ module.exports = function (eleventyConfig) {
       throw new Error(`Falta el atributo alt: ${src}`);
     }
     
+    // Si la imagen no existe, retorna un img tag simple sin optimización
+    const fs = require("fs");
+    if (!fs.existsSync(src)) {
+      console.warn(`[image] Imagen no encontrada: ${src} — usando fallback`);
+      return `<img src="/${src}" alt="${alt}" loading="lazy" decoding="async">`;
+    }
+
     let stats = await Image(src, {
       widths: [300, 600, 1000],
       formats: ["jpeg", "webp"],
