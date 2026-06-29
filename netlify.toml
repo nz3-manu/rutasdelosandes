@@ -1,0 +1,11 @@
+[build]
+  command = "npx tailwindcss -i ./styles/tailwind.css -o ./_includes/tailwind.css --minify && npx eleventy"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/amp/*"
+  to = "/:splat"
+  status = 301
