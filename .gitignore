@@ -23,7 +23,7 @@ npm-debug.log*
 ssl*
 
 # Otros
-javascript
+
 localStorage
 builtserver.js
 functions
