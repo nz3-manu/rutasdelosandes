@@ -4,11 +4,11 @@
   "description": "Static Eleventy site for Rutas de los Andes with PWA support.",
   "main": "index.html",
   "scripts": {
-    "styles": "tailwind -i ./styles/tailwind.css -o ./_includes/tailwind.css --minify",
-    "styles:watch": "tailwind -i ./styles/tailwind.css -o ./_includes/tailwind.css --watch",
-    "eleventy": "eleventy --serve",
+    "styles": "npx tailwindcss -i ./styles/tailwind.css -o ./_includes/tailwind.css --minify",
+    "styles:watch": "npx tailwindcss -i ./styles/tailwind.css -o ./_includes/tailwind.css --watch",
+    "eleventy": "npx eleventy --serve",
     "start": "npm-run-all --parallel styles:watch eleventy",
-    "build": "npm run styles && eleventy",
+    "build": "npm run styles && npx eleventy",
     "debug": "DEBUG=Eleventy* eleventy"
   },
   "repository": {
