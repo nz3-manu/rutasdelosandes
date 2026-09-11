@@ -1,0 +1,36 @@
+<!-- Sección embebida (NO modal): recomiéndanos una aventura.
+     El envío lo maneja el handler genérico form[data-recommend] en /javascript/site.js -->
+<section class="recommend-section" aria-labelledby="recommend-title">
+  <div class="recommend-card">
+    <h2 id="recommend-title" class="recommend-card__title">¿Tienes una ruta o atractivo para recomendarnos?</h2>
+    <p class="recommend-card__subtitle">
+      Si conoces una ruta increíble o eres dueño de un atractivo turístico, escríbenos.
+      ¡Nos encantaría conocerlo y compartirlo con más viajeros!
+    </p>
+
+    <form class="adventure-form" data-recommend>
+      <div class="adventure-form__field">
+        <label for="radv-name">Tu nombre</label>
+        <input id="radv-name" name="nombre" type="text" placeholder="Ej: Juan Pérez" required>
+      </div>
+
+      <div class="adventure-form__field">
+        <label for="radv-whatsapp">WhatsApp</label>
+        <input id="radv-whatsapp" name="whatsapp" type="tel" placeholder="+57 300 123 4567" required>
+      </div>
+
+      <div class="adventure-form__field">
+        <label for="radv-lugar">¿Qué lugar nos recomiendas?</label>
+        <textarea id="radv-lugar" name="lugar" rows="3" placeholder="Descríbenos el lugar, dónde queda y por qué deberíamos ir..." required></textarea>
+      </div>
+
+      <button type="submit" class="adventure-form__submit">
+        Enviar recomendación
+      </button>
+
+      <p class="adventure-form__success" data-recommend-success style="display:none;">
+        ¡Gracias! Recibimos tu recomendación. 🙌
+      </p>
+    </form>
+  </div>
+</section>

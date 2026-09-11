@@ -20,6 +20,7 @@
     <form
       id="adventure-form"
       class="adventure-form"
+      data-recommend
     >
       <div class="adventure-form__field">
         <label for="adv-name">Tu nombre</label>
@@ -41,7 +42,7 @@
       </button>
 
       <!-- Mensaje de éxito -->
-      <p id="adventure-success" class="adventure-form__success" style="display:none;">
+      <p id="adventure-success" class="adventure-form__success" data-recommend-success style="display:none;">
         ¡Gracias! Recibimos tu recomendación. 🙌
       </p>
     </form>
@@ -50,11 +51,11 @@
 
 <script>
 (function() {
+  // Solo abrir/cerrar el modal. El envío del formulario lo maneja
+  // el handler genérico de form[data-recommend] en /javascript/site.js
   var btn    = document.getElementById('hero-cta');
   var modal  = document.getElementById('adventure-modal');
   var close  = document.getElementById('adventure-modal-close');
-  var form   = document.getElementById('adventure-form');
-  var success = document.getElementById('adventure-success');
 
   if (!btn || !modal) return;
 
@@ -79,58 +80,5 @@
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') closeModal();
   });
-
-  // Submit via fetch a Google Apps Script
-  if (form) {
-    var APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzUm15XJ5TEyICnVGSFowSnFT8n5Fxtw8S3KxzQhmaYNouzVhnzHIwSJEYKUf-rIGPG/exec';
-
-    form.addEventListener('submit', function(e) {
-      e.preventDefault();
-
-      var submitBtn = form.querySelector('[type="submit"]');
-      submitBtn.disabled = true;
-      submitBtn.textContent = 'Enviando...';
-
-      // Construir URL con params (GET workaround para evitar CORS)
-      var params = new URLSearchParams();
-      params.append('nombre', document.getElementById('adv-name').value);
-      params.append('whatsapp', document.getElementById('adv-whatsapp').value);
-      params.append('lugar', document.getElementById('adv-lugar').value);
-
-      // Usar un iframe oculto + form redirect para evitar CORS
-      var iframe = document.createElement('iframe');
-      iframe.name = 'adventure-iframe';
-      iframe.style.display = 'none';
-      document.body.appendChild(iframe);
-
-      var hiddenForm = document.createElement('form');
-      hiddenForm.method = 'POST';
-      hiddenForm.action = APPS_SCRIPT_URL;
-      hiddenForm.target = 'adventure-iframe';
-
-      ['nombre', 'whatsapp', 'lugar'].forEach(function(field) {
-        var input = document.createElement('input');
-        input.type = 'hidden';
-        input.name = field;
-        var elId = field === 'nombre' ? 'adv-name' : 'adv-' + field;
-        input.value = document.getElementById(elId).value;
-        hiddenForm.appendChild(input);
-      });
-
-      document.body.appendChild(hiddenForm);
-      hiddenForm.submit();
-
-      // Mostrar éxito después de un breve delay (no podemos leer la respuesta del iframe por CORS)
-      setTimeout(function() {
-        form.reset();
-        form.style.display = 'none';
-        success.style.display = 'block';
-        // Limpiar
-        document.body.removeChild(hiddenForm);
-        document.body.removeChild(iframe);
-        setTimeout(closeModal, 2500);
-      }, 1500);
-    });
-  }
 })();
 </script>

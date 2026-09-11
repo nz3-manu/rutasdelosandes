@@ -1087,6 +1087,63 @@ html.has-open-sidebar {
   text-align: center;
   font-size: 16px;
   font-weight: 600;
-  color: #0f766e;
+  color: #15803d;
   padding: 20px 0;
+}
+
+
+/* ---------- Blog: intro de agradecimiento ---------- */
+.blog-intro {
+  max-width: 720px;
+  margin: 8px auto 28px;
+  padding: 0 16px;
+  text-align: center;
+}
+
+.blog-intro__title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #111;
+  margin: 0 0 10px;
+  line-height: 1.2;
+}
+
+.blog-intro p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.75;
+  margin: 0 auto;
+  max-width: 620px;
+}
+
+/* ---------- Recomiéndanos (sección embebida, no modal) ---------- */
+.recommend-section {
+  max-width: 560px;
+  margin: 44px auto 52px;
+  padding: 0 16px;
+}
+
+.recommend-card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 16px;
+  padding: 30px 26px 26px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.05);
+}
+
+.recommend-card__title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111;
+  margin: 0 0 6px;
+  text-align: center;
+  line-height: 1.25;
+}
+
+.recommend-card__subtitle {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 22px;
+  text-align: center;
+  line-height: 1.6;
 }
