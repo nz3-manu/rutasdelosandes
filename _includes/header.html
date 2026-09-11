@@ -52,6 +52,7 @@
       <a
         class="block border-b border-b-[#9c9c9c] py-3 text-black no-underline first:border-t first:border-t-[#9c9c9c] hover:border-b-black hover:font-medium"
         href="{{ page.url }}"
+        {% if page.url contains '://' %}target="_blank" rel="noopener"{% endif %}
       >
         {{ page.display }}
       </a>
