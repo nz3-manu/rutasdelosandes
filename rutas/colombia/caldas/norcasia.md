@@ -9,6 +9,13 @@ images_url: "/images/rutas/colombia/caldas/norcasia/"
 viewranger: "MTY2NDcwMQ=="
 author: "manuel"
 trending: true
+video:
+  id: "gMBARqjzjrY"
+  name: "Lugares Turísticos en Norcasia - Embalse de Amaní y Río La Miel"
+  description: "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura como el body rafting."
+  uploadDate: "2026-06-07T11:40:00-05:00"
+  duration: "PT3M34S"
+  caption: "Video de Norcasia"
 ---
 # NORCASIA
 
@@ -50,38 +57,7 @@ Empecemos con la aventura ⛰.
 
 A continuación te mostramos un pequeño video de Norcasia con los lugares turísticos que no te puedes perder, como el **Embalse de Amaní, el Río La Miel**, entre otros.
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "VideoObject",
- "name": "Lugares Turísticos en Norcasia - Embalse de Amaní y Río La Miel",
- "description": "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura como el body rafting.",
- "thumbnailUrl": [
-  "https://img.youtube.com/vi/gMBARqjzjrY/maxresdefault.jpg",
-  "https://img.youtube.com/vi/gMBARqjzjrY/hqdefault.jpg"
- ],
- "uploadDate": "2026-06-07T11:40:00-05:00",
- "duration": "PT3M34S",
- "contentUrl": "https://www.youtube.com/watch?v=gMBARqjzjrY",
- "embedUrl": "https://www.youtube.com/embed/gMBARqjzjrY",
- "publisher": {
-  "@type": "Organization",
-  "name": "Rutas de los andes",
-  "logo": {
-   "@type": "ImageObject",
-   "url": "https://rutasdelosandes.com/images/wordmark.png",
-   "width": 344,
-   "height": 60
-  }
- }
-}
-</script>
-{% include youtube.html,
-   videoid:"gMBARqjzjrY",
-   width:"480",
-   height:"270",
-   caption:"Video de Norcasia"
-%}
+{% include youtube.html %}
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
 <a name="dato-norcasia"></a>

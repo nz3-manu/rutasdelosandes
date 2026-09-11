@@ -1,15 +1,62 @@
+{%- comment -%}
+  Fuente única para videos de YouTube: renderiza el embed Y (si hay metadatos
+  en el front matter `video`) el JSON-LD VideoObject completo, para que la vista
+  y los datos estructurados nunca se desincronicen.
+
+  Uso recomendado (metadatos en el front matter de la página):
+    video:
+      id: "gMBARqjzjrY"
+      name: "Título del video para buscadores"
+      description: "Descripción del video."
+      uploadDate: "2026-06-07T11:40:00-05:00"   # ISO 8601, entre comillas
+      duration: "PT3M34S"                        # opcional (ISO 8601)
+    Body:  {% include youtube.html, caption:"Texto bajo el video" %}
+
+  También acepta `videoid`, `width`, `height`, `caption` como parámetros directos
+  (retrocompatibilidad); si no se pasan, se toman del objeto `video`.
+{%- endcomment -%}
+{%- assign vid = videoid | default: video.id -%}
+{%- assign vcaption = caption | default: video.caption -%}
 <figure class="op-interactive">
   <iframe
-    src="https://www.youtube.com/embed/{{ videoid }}"
-    title="{{ caption | default: 'Video de Rutas de los Andes' }}"
+    src="https://www.youtube.com/embed/{{ vid }}"
+    title="{{ vcaption | default: video.name | default: 'Video de Rutas de los Andes' }}"
     class="rda-embed"
-    width="{{ width |  default: 480 }}"
-    height="{{ height |  default: 480 }}"
+    width="{{ width | default: 480 }}"
+    height="{{ height | default: 270 }}"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
-  {% if caption %}
-  <figcaption>{{ caption }}</figcaption>
+  {% if vcaption %}
+  <figcaption>{{ vcaption }}</figcaption>
   {% endif %}
 </figure>
+{%- if video.name -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": {{ video.name | jsonify }},
+  "description": {{ video.description | jsonify }},
+  "thumbnailUrl": [
+    "https://img.youtube.com/vi/{{ vid }}/maxresdefault.jpg",
+    "https://img.youtube.com/vi/{{ vid }}/hqdefault.jpg"
+  ],
+  "uploadDate": {{ video.uploadDate | jsonify }},{% if video.duration %}
+  "duration": {{ video.duration | jsonify }},{% endif %}
+  "contentUrl": "https://www.youtube.com/watch?v={{ vid }}",
+  "embedUrl": "https://www.youtube.com/embed/{{ vid }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rutas de los andes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rutasdelosandes.com/images/wordmark.png",
+      "width": 344,
+      "height": 60
+    }
+  }
+}
+</script>
+{%- endif -%}

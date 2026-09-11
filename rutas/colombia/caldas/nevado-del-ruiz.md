@@ -9,6 +9,12 @@ viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
 tags: [cumbres]
+video:
+  id: "1fVmDl0oiFE"
+  name: "Video de la ruta en el Nevado del Ruiz"
+  description: "Video en el cual podrás ver como fue nuestro recorrido y guía de viaje hacia el Nevado del Ruiz."
+  uploadDate: "2026-06-03"
+  caption: "Video: Ruta en el Nevado del Ruiz"
 ---
 
 # NEVADO DEL RUIZ 
@@ -45,26 +51,10 @@ __[<a target="_blank" href="https://hikingintheandes.travel/colombia/mountaineer
 
 ## VIDEO DE LA RUTA EN EL NEVADO DEL RUIZ
 A continuación te mostraremos un video en el cual podrás ver como fue nuestro recorrido hacia el nevado del Ruiz.
-{% include youtube.html
- videoid:"1fVmDl0oiFE",
- width:"480",
- height:"270",
- caption:"Vide: Ruta en el Nevado del Ruiz"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de youtube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Video de la ruta en el Nevado del Ruiz",
-  "description": "Video en el cual podrás ver como fue nuestro recorrido y guía de viaje hacia el Nevado del Ruiz.",
-  "thumbnailUrl": "https://img.youtube.com/vi/1fVmDl0oiFE/maxresdefault.jpg",
-  "uploadDate": "2026-06-03",
-  "embedUrl": "https://www.youtube.com/embed/1fVmDl0oiFE"
-}
-</script>
 
 
 <a name="dato-ruiz" id="dato-ruiz"></a>

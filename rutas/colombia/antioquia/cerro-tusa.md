@@ -9,6 +9,12 @@ images_url: /images/rutas/colombia/antioquia/cerro-tusa
 viewranger: MjA3MjkyNA==
 author: manuel
 trending: true
+video:
+  id: "VtuzI8j-dgk"
+  name: "Ruta de Senderismo y Ascenso a Cerro Tusa - Venecia, Antioquia"
+  description: "Video guía y recorrido técnico por el sendero vertical de Cerro Tusa, la pirámide natural más alta del mundo. Consejos de seguridad y escalada."
+  uploadDate: "2026-06-07T09:00:00-05:00"
+  caption: "Expedición al imponente Cerro Tusa"
 ---
 
 # CERRO TUSA: LA GUÍA DE SENDERISMO DEFINITIVA ⛰️
@@ -42,25 +48,8 @@ Empecemos con la aventura ⛰️.
 
 A continuación, te compartimos el video de nuestra expedición, donde podrás visualizar la inclinación real del terreno y las recomendaciones de seguridad en cada tramo.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Ruta de Senderismo y Ascenso a Cerro Tusa - Venecia, Antioquia",
-  "description": "Video guía y recorrido técnico por el sendero vertical de Cerro Tusa, la pirámide natural más alta del mundo. Consejos de seguridad y escalada.",
-  "thumbnailUrl": "https://img.youtube.com/vi/VtuzI8j-dgk/maxresdefault.jpg",
-  "uploadDate": "2026-06-07T09:00:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=VtuzI8j-dgk",
-  "embedUrl": "https://www.youtube.com/embed/VtuzI8j-dgk"
-}
-</script>
 
-{% include youtube.html,
-   videoid:"VtuzI8j-dgk",
-   width:"480",
-   height:"270",
-   caption:"Expedición al imponente Cerro Tusa"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

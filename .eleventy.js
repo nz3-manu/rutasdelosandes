@@ -29,6 +29,9 @@ module.exports = function (eleventyConfig) {
     return colIdx !== -1 && parts[colIdx + 1] ? parts[colIdx + 1] : "";
   });
 
+  // --- FILTRO jsonify: serializa cualquier valor a JSON válido (para JSON-LD) ---
+  eleventyConfig.addFilter("jsonify", (value) => JSON.stringify(value === undefined ? null : value));
+
   // --- NUEVA CONFIGURACIÓN: FILTRO DE FECHA PARA SITEMAP ---
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     // Si ya es un objeto Date, lo usamos; si no, intentamos crearlo

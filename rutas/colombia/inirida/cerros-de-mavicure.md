@@ -9,6 +9,13 @@ images_url: /images/rutas/colombia/inirida/cerros-de-mavicure
 viewranger: MTY2NDcwMQ==
 author: manuel
 trending: true
+video:
+  id: "H3WtqNRPw6E"
+  name: "Cerros de Mavicure"
+  description: "Video en el cual te mostramos cómo fue nuestro viaje por Inírida con recomendaciones prácticas."
+  uploadDate: "2025-10-05"
+  duration: "PT9M42S"
+  caption: "Video: Ruta a los cerros de Mavicure"
 ---
 
 # TODO LO QUE NECESITAS SABER PARA VISITAR LOS CERROS DE MAVICURE
@@ -52,25 +59,8 @@ __[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/cerr
 
 En este video te mostraremos cómo fue nuestro viaje por Inírida, podrás ver las recomendaciones en cada sección del video.
 
-{% include youtube.html
-videoid:"H3WtqNRPw6E",
-width:"480",
-height:"270",
-caption:"Vide: Ruta a los cerros de Mavicure"
-%}
+{% include youtube.html %}
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Cerros de mavicure",
-  "description": "Video en el cual te mostramos cómo fue nuestro viaje por Inírida con recomendaciones prácticas.",
-  "thumbnailUrl": "https://img.youtube.com/vi/H3WtqNRPw6E/maxresdefault.jpg",
-  "uploadDate": "2025-10-05",
-  "duration": "PT9M42S",
-  "embedUrl": "https://www.youtube.com/embed/H3WtqNRPw6E"
-}
-</script>
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

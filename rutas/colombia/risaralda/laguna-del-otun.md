@@ -9,6 +9,12 @@ images_url: /images/rutas/colombia/risaralda/laguna-del-otun
 viewranger: 
 author: manuel
 trending: true
+video:
+  id: "2Nt7mrwUT80"
+  name: "Expedición a la Laguna del Otún - Rutas de Los Andes"
+  description: "Video recorrido de la ruta a la Laguna del Otún en el Parque Nacional Natural Los Nevados. Descubre los paisajes de páramo y el camino a este tesoro natural."
+  uploadDate: "2026-06-06T23:15:00-05:00"
+  caption: "Expedición a la Laguna del Otún"
 ---
 
 # LAGUNA DEL OTÚN: GUÍA COMPLETA ⛰️
@@ -43,25 +49,8 @@ __[<a target="_blank" href="https://hikingintheandes.travel/colombia/hiking/lake
 
 A continuación, te compartimos un breve **video de la Laguna del Otún** donde podrás apreciar algunos de los paisajes y puntos clave que verás a lo largo de este espectacular recorrido.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Expedición a la Laguna del Otún - Rutas de Los Andes",
-  "description": "Video recorrido de la ruta a la Laguna del Otún en el Parque Nacional Natural Los Nevados. Descubre los paisajes de páramo y el camino a este tesoro natural.",
-  "thumbnailUrl": "https://img.youtube.com/vi/2Nt7mrwUT80/maxresdefault.jpg",
-  "uploadDate": "2026-06-06T23:15:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=2Nt7mrwUT80",
-  "embedUrl": "https://www.youtube.com/embed/2Nt7mrwUT80"
-}
-</script>
 
-{% include youtube.html,
-  videoid:"2Nt7mrwUT80",
-  width:"480",
-  height:"270",
-  caption:"Expedición a la Laguna del Otún"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

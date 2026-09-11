@@ -9,6 +9,12 @@ images_url: /images/rutas/colombia/risaralda/cascada-los-frailes
 viewranger: MTYzNjQzOA==
 author: manuel
 trending: true
+video:
+  id: "FepmKxWPzks"
+  name: "Ruta de Senderismo a la Cascada Los Frailes - Pereira"
+  description: "Video recorrido y guía de viaje por el sendero hacia la imponente Cascada Los Frailes en el Santuario de Flora y Fauna Otún Quimbaya, Risaralda."
+  uploadDate: "2026-06-07T01:00:00-05:00"
+  caption: "Video: Ruta Cascada Los Frailes"
 ---
 
 # CASCADA LOS FRAILES: LA GUÍA DE SENDERISMO DEFINITIVA ⛰️
@@ -46,25 +52,8 @@ Una vez dicho esto, ¡empecemos con la aventura ⛰️!
 
 A continuación, te mostramos el video de nuestro recorrido hacia la Cascada Los Frailes. ¡No olvides suscribirte a nuestro canal de YouTube para descubrir más aventuras y contenido emocionante!
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Ruta de Senderismo a la Cascada Los Frailes - Pereira",
-  "description": "Video recorrido y guía de viaje por el sendero hacia la imponente Cascada Los Frailes en el Santuario de Flora y Fauna Otún Quimbaya, Risaralda.",
-  "thumbnailUrl": "https://img.youtube.com/vi/FepmKxWPzks/maxresdefault.jpg",
-  "uploadDate": "2026-06-07T01:00:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=FepmKxWPzks",
-  "embedUrl": "https://www.youtube.com/embed/FepmKxWPzks"
-}
-</script>
 
-{% include youtube.html
-   videoid:"FepmKxWPzks"
-   width:"480"
-   height:"270"
-   caption:"Video: Ruta Cascada Los Frailes"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

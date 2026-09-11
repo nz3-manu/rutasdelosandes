@@ -10,6 +10,12 @@ author: manuel
 trending: true
 tags: [cumbres]
 video_id: PNy3G130C9g
+video:
+  id: "PNy3G130C9g"
+  name: "Video Ruta al Paramillo del Quindío"
+  description: "Una mirada completa a los paisajes cambiantes, bosques de niebla y valles de frailejones en la ruta de ascenso al Paramillo del Quindío."
+  uploadDate: "2026-01-01T08:00:00+00:00"
+  caption: "Video Ruta al Paramillo del Quindío"
 ---
 
 # PARAMILLO DEL QUINDÍO: EL BALCÓN DE COLORES DE LOS ANDES
@@ -41,20 +47,6 @@ En este post te contaremos detalladamente cómo fue nuestra **excursión al Para
 <a name="que-encontrar-paramillo" id="que-encontrar-paramillo"></a>
 
 <!-- Google Video SEO Schema Markup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Video Ruta al Paramillo del Quindío",
-  "description": "Una mirada completa a los paisajes cambiantes, bosques de niebla y valles de frailejones en la ruta de ascenso al Paramillo del Quindío.",
-  "thumbnailUrl": [
-    "https://img.youtube.com/vi/PNy3G130C9g/maxresdefault.jpg"
-  ],
-  "uploadDate": "2026-01-01T08:00:00+00:00",
-  "contentUrl": "https://www.youtube.com/watch?v=PNy3G130C9g",
-  "embedUrl": "https://www.youtube.com/embed/PNy3G130C9g"
-}
-</script>
 
 ---
 
@@ -62,12 +54,7 @@ En este post te contaremos detalladamente cómo fue nuestra **excursión al Para
 
 A continuación te compartimos un breve **video del Paramillo del Quindío**, donde registramos los paisajes cambiantes, el bosque de niebla y los valles de frailejones que cruzarás en esta exigente ruta del Eje Cafetero.
 
-{% include youtube.html,
-    videoid:"PNy3G130C9g",
-    width:"480",
-    height:"270",
-    caption:"Video Ruta al Paramillo del Quindío"
-%}
+{% include youtube.html %}
 
 --- 
 

@@ -9,6 +9,12 @@ images_url: /images/rutas/colombia/tolima/volcan-machin
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
+video:
+  id: "MlK4URYbWjA"
+  name: "Video de la ruta al Volcán Machín - Rutas de Los Andes"
+  description: "Pequeño video describiendo los lugares que visitamos en nuestro viaje al Volcán Machín."
+  uploadDate: "2026-03-01T00:00:00-05:00"
+  caption: "Video de la ruta al Volcán Machín"
 ---
 
 # VOLCÁN MACHÍN
@@ -45,25 +51,8 @@ Empecemos con la aventura ⛰.
 
 A continuación te mostraremos un pequeño vídeo describiendo los lugares que visitamos en nuestro viaje al volcán Machín.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Video de la ruta al Volcán Machín - Rutas de Los Andes",
-  "description": "Pequeño video describiendo los lugares que visitamos en nuestro viaje al Volcán Machín.",
-  "thumbnailUrl": "https://img.youtube.com/vi/MlK4URYbWjA/maxresdefault.jpg",
-  "uploadDate": "2026-03-01T00:00:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=MlK4URYbWjA",
-  "embedUrl": "https://www.youtube.com/embed/MlK4URYbWjA"
-}
-</script>
 
-{% include youtube.html,
-   videoid:"MlK4URYbWjA",
-   width:"480",
-   height:"270",
-   caption:"Video de la ruta al Volcán Machín"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de YouTube dando clic aquí <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 

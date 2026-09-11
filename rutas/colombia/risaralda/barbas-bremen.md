@@ -9,6 +9,12 @@ images_url: /images/rutas/colombia/risaralda/barbas-bremen
 viewranger: MTYzNjQxOQ==
 author: manuel
 trending: true
+video:
+  id: "1anGUPtjsMs"
+  name: "Ruta de Senderismo en la Reserva Barbas Bremen - Eje Cafetero"
+  description: "Video recorrido y guía de viaje por los senderos de la Reserva Natural Barbas Bremen. Descubre el bosque de niebla y el avistamiento de monos aulladores."
+  uploadDate: "2026-06-07T00:15:00-05:00"
+  caption: "Video: Ruta en el Barbas Bremen"
 ---
 
 # RESERVA BARBAS BREMEN EN FILANDIA
@@ -48,25 +54,8 @@ Empecemos con la aventura ⛰️.
 
 A continuación, te compartimos un breve video de la Reserva Barbas Bremen. Te mostraremos detalladamente cómo fue nuestro recorrido y qué esperar en esta increíble **ruta de senderismo en el Eje Cafetero.**
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Ruta de Senderismo en la Reserva Barbas Bremen - Eje Cafetero",
-  "description": "Video recorrido y guía de viaje por los senderos de la Reserva Natural Barbas Bremen. Descubre el bosque de niebla y el avistamiento de monos aulladores.",
-  "thumbnailUrl": "https://img.youtube.com/vi/1anGUPtjsMs/maxresdefault.jpg",
-  "uploadDate": "2026-06-07T00:15:00-05:00",
-  "contentUrl": "https://www.youtube.com/watch?v=1anGUPtjsMs",
-  "embedUrl": "https://www.youtube.com/embed/1anGUPtjsMs"
-}
-</script>
 
-{% include youtube.html
-   videoid:"1anGUPtjsMs"
-   width:"480"
-   height:"270"
-   caption:"Video: Ruta en el Barbas Bremen"
-%}
+{% include youtube.html %}
 
 Suscríbete a nuestro canal de YouTube dando clic <a target="_blank" href="https://www.youtube.com/channel/UC2n-KkSMxnUtb_UQrXM_9XA?sub_confirmation=1">aquí</a>
 
