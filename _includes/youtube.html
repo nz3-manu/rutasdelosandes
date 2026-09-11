@@ -9,6 +9,8 @@
       name: "Título del video para buscadores"
       description: "Descripción del video."
       uploadDate: "2026-06-07T11:40:00-05:00"   # ISO 8601, entre comillas
+      # duration es OPCIONAL: se obtiene sola desde la YouTube Data API en el build
+      # (ver _data/ytDurations.js). Solo escríbela a mano si quieres forzar un valor.
       duration: "PT3M34S"                        # opcional (ISO 8601)
     Body:  {% include youtube.html, caption:"Texto bajo el video" %}
 
@@ -17,6 +19,7 @@
 {%- endcomment -%}
 {%- assign vid = videoid | default: video.id -%}
 {%- assign vcaption = caption | default: video.caption -%}
+{%- assign vduration = video.duration | default: ytDurations[vid] -%}
 <figure class="op-interactive">
   <iframe
     src="https://www.youtube.com/embed/{{ vid }}"
@@ -43,8 +46,8 @@
     "https://img.youtube.com/vi/{{ vid }}/maxresdefault.jpg",
     "https://img.youtube.com/vi/{{ vid }}/hqdefault.jpg"
   ],
-  "uploadDate": {{ video.uploadDate | jsonify }},{% if video.duration %}
-  "duration": {{ video.duration | jsonify }},{% endif %}
+  "uploadDate": {{ video.uploadDate | jsonify }},{% if vduration %}
+  "duration": {{ vduration | jsonify }},{% endif %}
   "contentUrl": "https://www.youtube.com/watch?v={{ vid }}",
   "embedUrl": "https://www.youtube.com/embed/{{ vid }}",
   "publisher": {
