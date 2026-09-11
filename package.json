@@ -7,6 +7,7 @@
     "styles": "npx tailwindcss -i ./styles/tailwind.css -o ./_includes/tailwind.css --minify",
     "styles:watch": "npx tailwindcss -i ./styles/tailwind.css -o ./_includes/tailwind.css --watch",
     "eleventy": "npx eleventy --serve",
+    "durations": "node scripts/fetch-durations.js",
     "start": "npm-run-all --parallel styles:watch eleventy",
     "build": "npm run styles && npx eleventy",
     "debug": "DEBUG=Eleventy* eleventy"
