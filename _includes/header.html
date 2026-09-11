@@ -50,7 +50,7 @@
     {% for page in site.menu_pages %}
     <li>
       <a
-        class="block border-b border-b-[#9c9c9c] py-3 text-black no-underline first:border-t first:border-t-[#9c9c9c] hover:border-b-black hover:font-medium"
+        class="block border-b border-b-[#9c9c9c] py-3 no-underline first:border-t first:border-t-[#9c9c9c] hover:font-medium {% if page.url contains '://' %}font-semibold text-accent hover:text-[#92400e]{% else %}text-black hover:text-primary hover:border-b-primary{% endif %}"
         href="{{ page.url }}"
         {% if page.url contains '://' %}target="_blank" rel="noopener"{% endif %}
       >

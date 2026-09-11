@@ -15,8 +15,12 @@ module.exports = {
         muted: "#f4f4f5",
         "muted-foreground": "#71717a",
         border: "#e4e4e7",
-        primary: "#0f766e",
+        // Verde bosque = color de marca (naturaleza / Andes)
+        primary: "#15803d",
         "primary-foreground": "#ffffff",
+        // Ámbar tierra = acento para llamadas a la acción (CTA)
+        accent: "#b45309",
+        "accent-foreground": "#ffffff",
       },
       borderRadius: {
         lg: "0.5rem",

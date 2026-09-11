@@ -11,9 +11,11 @@
   --muted: #f4f4f5;
   --muted-foreground: #71717a;
   --border: #e4e4e7;
-  --primary: #0f766e;
+  --primary: #15803d;
   --primary-foreground: #fff;
-  --ring: #0f766e;
+  --accent: #b45309;
+  --accent-foreground: #fff;
+  --ring: #15803d;
   --radius: 8px;
 }
 
