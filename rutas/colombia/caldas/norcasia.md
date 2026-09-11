@@ -55,11 +55,25 @@ A continuación te mostramos un pequeño video de Norcasia con los lugares turí
  "@context": "https://schema.org",
  "@type": "VideoObject",
  "name": "Lugares Turísticos en Norcasia - Embalse de Amaní y Río La Miel",
- "description": "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura.",
- "thumbnailUrl": "https://img.youtube.com/vi/gMBARqjzjrY/maxresdefault.jpg",
+ "description": "Video guía de viaje por los mejores destinos turísticos de Norcasia, Caldas. Conoce el embalse de Amaní, el río La Miel y actividades de aventura como el body rafting.",
+ "thumbnailUrl": [
+  "https://img.youtube.com/vi/gMBARqjzjrY/maxresdefault.jpg",
+  "https://img.youtube.com/vi/gMBARqjzjrY/hqdefault.jpg"
+ ],
  "uploadDate": "2026-06-07T11:40:00-05:00",
+ "duration": "PT3M34S",
  "contentUrl": "https://www.youtube.com/watch?v=gMBARqjzjrY",
- "embedUrl": "https://www.youtube.com/embed/gMBARqjzjrY"
+ "embedUrl": "https://www.youtube.com/embed/gMBARqjzjrY",
+ "publisher": {
+  "@type": "Organization",
+  "name": "Rutas de los andes",
+  "logo": {
+   "@type": "ImageObject",
+   "url": "https://rutasdelosandes.com/images/wordmark.png",
+   "width": 344,
+   "height": 60
+  }
+ }
 }
 </script>
 {% include youtube.html,
