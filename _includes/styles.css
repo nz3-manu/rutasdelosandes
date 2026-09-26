@@ -407,7 +407,7 @@ figcaption {
 .rda-carousel__track {
   display: grid;
   gap: 10px;
-  grid-auto-columns: minmax(240px, 85%);
+  grid-auto-columns: 100%;
   grid-auto-flow: column;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
@@ -423,15 +423,15 @@ figcaption {
 .rda-carousel__track img,
 .rda-carousel__track picture,
 .rda-carousel__track figure {
-  height: 100%;
   margin: 0;
   width: 100%;
 }
 
 .rda-carousel__track img {
-  aspect-ratio: 4 / 3;
   border-radius: 6px;
-  object-fit: cover;
+  display: block;
+  height: auto;
+  width: 100%;
 }
 
 .rda-carousel__controls {
